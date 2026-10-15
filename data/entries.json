@@ -4147,12 +4147,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-79.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Молодая женщина в чёрно-белом одеянии, с двумя звёздами над головой, букетом роз и шипами в руках, с крыльями на ногах",
+          "meaning": "Чёрное и белое — добро и зло; звёзды Юпитера и Сатурна — благотворное и вредоносное влечения; розы — добродетель, шипы — порок; крылья — внезапность, с какой рождается склонность",
+          "what_en": "A young woman in a black-and-white robe, two stars above her head, a bouquet of roses and thorns in her hands, winged feet",
+          "meaning_en": "The black and white signify good and evil; the stars of Jupiter and Saturn, benign and harmful inclinations; the roses, virtue; the thorns, vice; the wings, the suddenness with which inclination arises"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде молодой женщины, одетой в чёрное и белое. На макушке у неё две разные звезды: по правую сторону — звезда Юпитера, чрезвычайно яркая, а по левую — звезда Сатурна, гораздо меньшая и не столь блестящая. В одной руке она держит букет роз, а в другой — шипы, и, кроме того, у неё крылья на ногах.",
+        "Её изображают молодой, поскольку она склоняет дух к ненависти или любви к вещам хорошим или дурным: ибо, как говорит Философ, молодые люди всё делают с избытком, любят ли они или ненавидят. Причина в том, что Склонность, будучи природным влечением к тому, что само по себе хорошо или дурно, из-за слабости их возраста, не способных отличить одно от другого, заставляет их устремляться туда с большим пылом, следуя лишь движению своей природы.",
+        "Её одежда наполовину белая, наполовину чёрная означает добро и зло, из которых одно обозначается светом, а другое — тьмой. Сообразно этому в Писании сказано, что одеяние Иисуса Христа на горе Фавор было белее снега: тогда как, напротив, там, где говорится о злополучном состоянии проклятых, их изображают с ужасными лицами, все почерневшими от адского дыма.",
+        "Две звезды на её голове означают планеты Юпитер и Сатурн, из которых первая по своей природе столь же благотворна, сколь вторая вредоносна.",
+        "Букет роз, который она держит в правой руке, показывает, что похвальная Склонность должна уподобляться этим столь ценимым цветам; то есть она должна быть прекрасной и полной доброго аромата. Это же в древности давали понять египтяне, когда гирляндой из роз изображали совершенный круг Добродетели. Шипы означают противоположное и суть, как говорит Пьерий в 50-й книге, символы Порока.",
+        "Крылья на ногах ей придают, дабы научить нас, что её можно определить как внезапное движение, заставляющее нас любить или ненавидеть вещи, сообразно тому сродству, какое мы имеем с ними — по природе, по складу или по привычке. Но влечёт ли она нас к добру или ко злу, это может происходить лишь последовательно, ибо иначе возникло бы противоречие, состоящее в том, что один и тот же человек в одно и то же время желал бы и не желал бы одного и того же; а это невозможно."
+      ],
+      "text_fr": [
+        "Son image est celle d'vne jeune femme vestuë de noir & de blanc. Sur le haut de sa teste elle a deux étoilles differentes, sçavoir du costé droit celle de Jupiter, extremement claire; & du gauche celle de Saturne, beaucoup moindre, & qui n'est pas si luisante. Elle tient en l'vne de ses mains vn bouquet de roses, & en l'autre des espines, outre qu'elle a des aisles aux pieds.",
+        "On la peint jeune, dautant qu'elle porte l'esprit à la haine ou à l'amour des choses bonnes ou mauvaises: car comme dit le Philosophe, les jeunes gens font tout avec excés, soit qu'ils aiment ou qu'ils haïssent. La raison est, parce que l'Inclination estant vn appetit naturel vers ce qui est bon ou mauvais de soy, la foiblesse de leur âge fait que n'estant pas capables de discerner l'vn d'avec l'autre, ils y courent avec plus d'ardeur, & ne suivent que le mouvement de leur nature.",
+        "Sa robe moitié blanche & moitié noire signifie le bien & le mal, dont l'vn est denoté par la lumiere, & l'autre par l'obscurité. Conformément à cela il est dit dans l'Escriture, que le vestement de Jesus-Christ sur le mont de Thabor estoit plus blanc que la nege: comme au contraire où il est parlé du malheureux estat des damnez, on le represente avec des visages affreux, & qui sont tous noircis de la fumée d'Enfer.",
+        "Les deux étoilles qu'elle a sur la teste marquent les Planetes de Jupiter & de Saturne, dont la premiere est aussi benigne de sa nature, que la seconde est nuisible.",
+        "Le bouquet de roses qu'elle tient en la main droite, montre qu'vne Inclination louable doit ressembler à ces fleurs si fort estimées; c'est à dire qu'il faut qu'elle soit belle, & pleine de bonne odeur. Ce que les Egyptiens donnoient anciennement à connoistre, lorsque par vne guirlande faite de roses ils figuroient le parfait cercle de la Vertu. Les épines signifient le contraire, & sont, comme dit Pierius liv. 50. les symboles du Vice.",
+        "On luy met au reste des aisles aux pieds, pour nous apprendre qu'elle se peut definir, vn mouvement soudain qui nous fait aimer ou haïr les choses, selon la sympathie que nous avons avec elles ou par nature, ou par complexion, ou par vsage. Mais soit qu'elle nous pousse au bien ou au mal, cela ne se peut neanmoins que successivement, veu qu'autrement il y auroit de la contradiction, en ce qu'il arriveroit qu'en mesme temps vne mesme personne voudroit & ne voudroit pas; ce qui est impossible."
+      ],
       "en": "Inclination",
-      "group_en": "I"
+      "group_en": "I",
+      "scans": [
+        "p1-079-1.jpg",
+        "p1-079-2.jpg"
+      ],
+      "text_en": [
+        "Her image is that of a young woman clothed in black and white. On the top of her head she has two different stars: on the right side that of Jupiter, extremely bright; and on the left that of Saturn, much smaller and not so shining. In one of her hands she holds a bouquet of roses, and in the other, thorns, besides which she has wings on her feet.",
+        "She is painted young, inasmuch as she carries the spirit toward hatred or love of things good or bad: for as the Philosopher says, young people do everything to excess, whether they love or hate. The reason is that Inclination, being a natural appetite toward what is good or bad in itself, the weakness of their age — not being capable of discerning one from the other — makes them rush there with greater ardor, following only the movement of their nature.",
+        "Her robe, half white and half black, signifies good and evil, of which the one is denoted by light, and the other by darkness. In keeping with this it is said in Scripture that the raiment of Jesus Christ on Mount Tabor was whiter than snow: just as, on the contrary, where the wretched state of the damned is spoken of, they are depicted with frightful faces, all blackened by the smoke of Hell.",
+        "The two stars upon her head mark the planets Jupiter and Saturn, of which the first is by nature as benign as the second is harmful.",
+        "The bouquet of roses she holds in her right hand shows that a praiseworthy Inclination ought to resemble these so highly esteemed flowers; that is to say, it must be beautiful and full of good fragrance. This the Egyptians of old gave to be understood, when by a garland made of roses they figured the perfect circle of Virtue. The thorns signify the contrary, and are, as Pierius says in book 50, the symbols of Vice.",
+        "Wings are furthermore placed on her feet, to teach us that she may be defined as a sudden movement that makes us love or hate things, according to the affinity we have with them, whether by nature, by temperament, or by habit. But whether she drives us toward good or toward evil, this can nonetheless happen only successively, since otherwise there would be a contradiction, in that it would come about that at the same time the same person would both want and not want the same thing; which is impossible."
+      ]
     },
     {
       "id": "p1-80",
@@ -4165,12 +4200,49 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-80.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в синем с Луной в руке и раком под ногой",
+          "meaning": "Синий цвет напоминает переменчивый цвет морских волн; убывающая Луна и пятящийся рак — образы непостоянства ума и чувств",
+          "what_en": "A woman in blue holding a Moon, a crayfish beneath her foot",
+          "meaning_en": "The blue recalls the shifting color of sea waves; the waning Moon and the backward-walking crayfish picture the inconstancy of mind and feeling"
+        }
+      ],
+      "text_ru": [
+        "Это женщина, одетая в синее, держащая в одной руке Луну, а под одной из ног — рака.",
+        "Её одевают в синее из-за сходства этого цвета с цветом морских волн, которые чрезвычайно непостоянны и подвержены новым переменам.",
+        "То же самое с Луной, которая незаметно убывает, будучи самым изменчивым из светил: отчего в Писании сказано, что безумец меняется, как она, и никогда не пребывает в одном состоянии. К этому можно было бы добавить сову — ночную птицу, столь неуверенную в своём полёте, что не знает, откуда летит и куда направляется, как замечает великий святой Василий.",
+        "Что до рака, опыт показывает, что при одном и том же устройстве он движется и вперёд, и назад. В этом ему во всякий миг подражают переменчивые и нерешительные умы, превозносящие то созерцание, то действие, то войну, то мир, сегодня — знание, завтра — невежество; отчего ясно видно, что они не знают ни что хвалят, ни что порицают, настолько легкомысленны в своих чувствах. Потому-то их по праву порицают в Священном Писании на примере того неразумного пахаря, который, едва возложив руку на плуг, тотчас раскаивается.",
+        "Другие изображают Непостоянство в виде женщины, одетой в переливчатый цвет, опирающейся руками на тростник, а ногами — на шар; что достаточно ясно показывает, что ветреный человек никогда не останавливается в своих мыслях и в образе действий обычно следует вещам самым изменчивым.",
+        "Добавим здесь, что древние изображали непостоянную Любовь рыбой, называемой полип, потому что она подобна хамелеону и принимает все цвета, ей противоположные.",
+        "То же можно сказать и о влюблённых, которых видят то бледнеющими, то краснеющими, ибо их страсть есть источник надежды и страха, печали и радости, гнева и ревности, смотря по тому, какими противоположными движениями она бывает влекома."
+      ],
+      "text_fr": [
+        "C'est vne femme vestuë de couleur bleuë, ayant en vne main vne Lune, & sous l'vn de ses pieds vne écrevice.",
+        "On l'habille de bleu, à cause de la ressemblance qu'il y a de cette couleur à celle des vagues de la mer, qui sont extremement inconstantes, & sujettes à de nouvelles alterations.",
+        "Il en est de mesme de la Lune, qui décroist insensiblement, comme le plus muable des astres: d'où vient qu'il est dit dans l'Escriture, que l'insensé change comme elle, & qu'il ne demeure jamais en vn mesme estat. L'on y pourroit adjoûter vn chat-huant, oiseau nocturne, si peu asseuré en son vol, qu'il ne sçait d'où il vient, ny par où il va, comme le remarque le grand S. Basile.",
+        "Quant à l'écrevice, l'experience fait voir qu'avec vne mesme disposition elle chemine devant & à reculons. En quoy l'imitent à tous momens ces esprits changeans & irresolus, qui louënt tantost la contemplation, tantost l'action, tantost la guerre, tantost la paix, aujourd'huy la science, demain l'ignorance; ce qui fait bien voir qu'ils ne sçavent ny ce qu'ils louënt ny ce qu'ils blasment, tant ils sont volages en leurs sentimens. Aussi sont-ils repris à bon droit dans les saintes Lettres par l'exemple de ce laboureur mal avisé, qui n'a pas plûtost mis la main à la charruë, qu'il s'en repent.",
+        "D'autres representent l'Inconstance par vne femme vestuë de couleur changeante, qui s'appuye des mains sur vn roseau, & des pieds sur vne boule; ce qui montre assez clairement que l'homme volage n'est jamais arresté en ses pensées, & qu'en maniere d'agir il suit d'ordinaire les choses les plus muables.",
+        "Adjoûtons icy que les anciens ont figuré l'Amour inconstant par le poisson appellé Polipe, parce qu'il est semblable au cameleon, & prend toutes les couleurs qui luy sont opposées.",
+        "L'on en peut dire autant des amans, que l'on voit tantost paslir, & tantost rougir, leur passion estant vne source d'espoir & de crainte, de tristesse & de joye, de colere & de jalousie, selon qu'elle se trouve poussée par des mouvemens contraires."
+      ],
       "en": "Inconstancy",
-      "group_en": "I"
+      "group_en": "I",
+      "scans": [
+        "p1-080-1.jpg"
+      ],
+      "text_en": [
+        "She is a woman clothed in blue, holding a Moon in one hand, and beneath one of her feet a crayfish.",
+        "She is clothed in blue because of the resemblance this color bears to that of the sea's waves, which are extremely inconstant, and subject to ever-new changes.",
+        "The same is true of the Moon, which wanes imperceptibly, being the most changeable of the heavenly bodies: whence it is said in Scripture that the fool changes as she does, and never remains in the same state. One might add to this a screech-owl, a nocturnal bird so uncertain in its flight that it knows neither whence it comes nor whither it goes, as the great St. Basil remarks.",
+        "As for the crayfish, experience shows that with one and the same disposition it moves both forward and backward. In this it is imitated at every moment by those changeable and irresolute minds who praise now contemplation, now action, now war, now peace, today knowledge, tomorrow ignorance; which plainly shows that they know neither what they praise nor what they blame, so fickle are they in their sentiments. And rightly are they rebuked in Holy Scripture by the example of that ill-advised ploughman who no sooner puts his hand to the plough than he repents of it.",
+        "Others represent Inconstancy as a woman clothed in a shifting color, leaning with her hands on a reed, and with her feet on a ball; which shows clearly enough that the fickle man is never settled in his thoughts, and in his manner of acting ordinarily follows the most changeable things.",
+        "Let us add here that the ancients figured inconstant Love by the fish called the polyp, because it resembles the chameleon, and takes on all the colors that are set against it.",
+        "The same may be said of lovers, who are seen now to pale, now to blush, their passion being a source of hope and fear, of sadness and joy, of anger and jealousy, according as it finds itself driven by contrary motions."
+      ]
     },
     {
       "id": "p1-81",
@@ -4183,12 +4255,46 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-81.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в переливчатом платье, со взглядом к небу, крыльями как у Меркурия на висках и маленькими фигурками вместо венца",
+          "meaning": "Переливчатый цвет — множество образов, воспринимаемых воображением; крылья и взъерошенные волосы — быстрота этой способности; фигурки на венце — её местопребывание в мозгу",
+          "what_en": "A woman in a shifting-colored robe, eyes raised to heaven, wings like Mercury's at her temples and small figures in place of a crown",
+          "meaning_en": "The shifting color signifies the many images the imagination receives; the wings and bristling hair, the speed of this faculty; the figures on her headband, its seat in the brain"
+        }
+      ],
+      "text_ru": [
+        "Женщина, которая её изображает, одета в платье переливчатого цвета и кажется совершенно удручённой, судя по тому, как она держит глаза, поднятые к Небу, и руки, скрещённые одна в другой. Но что привлекает внимание прежде всего — это причудливость её убора: ибо по обеим сторонам головы, где волосы взъерошены, у неё крылья, подобные крыльям Меркурия, а вместо венца — маленькие фигурки, по-разному оттенённые.",
+        "Прежде чем объяснять это изображение, нужно знать вместе с Аристотелем, что Воображение есть движение, совершающееся непосредственно через чувство, или познание того, что затронуло прочие чувства, а именно общее и внешние. Это он поясняет и в другом месте, где, желая его определить, говорит, что оно встречается совершенным или несовершенным у животных, смотря по тому, насколько они сами более или менее совершенны.",
+        "Платьем разных цветов показано, что воображательная способность воспринимает образы всех предметов, представляемых ей внешними чувствами; а глазами, поднятыми к Небу, в задумчивом движении, объявляется, что спит ли она или бодрствует, она пребывает в непрестанном движении, отчего рождаются в ней тысячи тревог и тысячи различных мыслей.",
+        "Её крылышки и взъерошенные волосы означают то же самое, то есть нам следует отметить быстроту, или внезапность действия этой способности, будь то при восприятии образов, будь то при представлении их разуму.",
+        "Что до её венца в виде повязки, из которого поднимаются три или четыре маленькие фигурки, это, по мнению врачей, означает, что воображательная сила имеет своё седалище в первом желудочке мозга и что именно общее чувство доставляет ей различные образы.",
+        "Воображение образуется, таким образом, из этой самой силы, которой повинуются все прочие. Правда и то, что оно не перестаёт действовать, когда внешние чувства бездействуют, и действует весьма часто даже когда мы спим: чему есть немало свидетельств у авторов, помимо того что это подтверждает нам и опыт."
+      ],
+      "text_fr": [
+        "Cette femme qui la represente, est vestuë d'vne robbe de couleur changeante, & semble estre toute desolée, de la façon qu'elle tient les yeux haussez vers le Ciel, & les mains croisées l'vne dans l'autre. Mais ce qui la fait remarquer pardessus tout, c'est la bizarrerie de sa coëffure; car aux deux costez de sa teste, dont les cheveux sont herissez, elle a des aisles comme celles de Mercure, & au lieu de couronne, de petites figures diversement ombragées.",
+        "Avant que d'expliquer cette peinture, il faut sçavoir avec Aristote, que l'Imagination est vn mouvement qui se fait actuellement par le sens; ou vne connoissance de ce qui a touché les autres sens, à sçavoir le commun & les exterieurs. Ce qu'il declare encore en vn autre endroit, où la voulant distinguer, il dit qu'elle se rencontre parfaite ou imparfaite dans les animaux, selon qu'ils sont plus ou moins parfaits.",
+        "Par sa robe de diverses couleurs il est montré que la puissance imaginative reçoit les especes de tous les objets qui luy sont presentez par les sens exterieurs; comme par ses yeux élevez au Ciel, avec vne action toute pensive, il est declaré que soit qu'elle dorme ou qu'elle veille, elle est en vn mouvement continuel, d'où luy naissent mille inquietudes & mille pensées differentes.",
+        "Ses aillerons & ses cheveux herissez signifient le mesme; c'est à dire qu'il nous faut remarquer la vitesse, ou la soudaine operation de cette puissance, soit à recevoir les especes, soit à les representer à l'entendement.",
+        "Quant à sa couronne qui est en forme de bandeau, d'où s'élevent trois ou quatre petites figures, cela veut dire selon les Medecins, que la vertu imaginative a son siege dans le premier ventricule du cerveau, & que c'est le sens commun qui luy fournit diverses especes.",
+        "L'Imagination se forme donc de cette mesme vertu, à qui toutes les autres obeïssent. Aussi est-il vray qu'elle ne laisse pas d'operer, quand les sens exterieurs sont oisifs, & qu'elle agit mesme bien souvent quand nous dormons: dequoy nous avons plusieurs preuves dans les autheurs, outre que l'experience nous le confirme."
+      ],
       "en": "Imagination",
-      "group_en": "I"
+      "group_en": "I",
+      "scans": [
+        "p1-081-1.jpg"
+      ],
+      "text_en": [
+        "The woman who represents her is clothed in a robe of shifting color, and seems altogether disconsolate, by the way she keeps her eyes raised toward Heaven, and her hands crossed one within the other. But what makes her remarkable above all is the strangeness of her headdress; for on both sides of her head, whose hair stands on end, she has wings like those of Mercury, and in place of a crown, small figures variously shaded.",
+        "Before explaining this picture, one must know, with Aristotle, that Imagination is a movement that comes about actually through sense; or a knowledge of what has touched the other senses, namely the common sense and the external ones. This he declares again elsewhere, where, wishing to define it, he says that it is found perfect or imperfect in animals, according as they are more or less perfect.",
+        "By her robe of various colors it is shown that the imaginative power receives the forms of all the objects presented to it by the external senses; and by her eyes raised toward Heaven, with an altogether pensive bearing, it is declared that whether she sleeps or wakes, she is in continual motion, whence arise in her a thousand anxieties and a thousand different thoughts.",
+        "Her little wings and bristling hair signify the same thing; that is, we must note the speed, or sudden operation, of this power, whether in receiving the forms, or in representing them to the understanding.",
+        "As for her crown in the form of a headband, from which rise three or four small figures, this means, according to the physicians, that the imaginative virtue has its seat in the first ventricle of the brain, and that it is the common sense that supplies it with various forms.",
+        "Imagination is thus formed from this same faculty, which all the others obey. It is also true that it does not cease to operate when the external senses are idle, and that it acts quite often even when we sleep: of which we have several proofs among the authors, besides which experience confirms it to us."
+      ]
     },
     {
       "id": "p1-82",
@@ -4201,12 +4307,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-82.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Бегущий юноша с закрытым покрывалом лицом и гелиотропом в правой руке",
+          "meaning": "Юность и бег — неизменность и быстрота природного инстинкта; закрытое лицо — скрытость его причины; гелиотроп, обращённый к солнцу, — сравнение разума со светом, который он не в силах вместить целиком",
+          "what_en": "A running youth with his face veiled, a heliotrope in his right hand",
+          "meaning_en": "His youth and running signify the constancy and speed of natural instinct; the veiled face, the hidden cause behind it; the sun-turning heliotrope, the comparison of the understanding to a light it cannot fully grasp"
+        }
+      ],
+      "text_ru": [
+        "Его изображают в виде юноши, который словно бежит, с лицом, закрытым покрывалом, и с гелиотропом, или цветком Солнца, в правой руке.",
+        "Его изображают юным, потому что он никогда не меняется и сила его всегда равна себе. Лицо его закрыто, дабы показать, что причина этого Инстинкта столь сильно скрыта, что о ней трудно привести убедительные доводы и дать такие же доказательства, как для прочих явлений природы. Потому-то Аристотель сравнивает разум с Солнцем и со зрением: ибо как наш глаз недостаточно силён, чтобы смотреть на свет этого прекрасного светила, так и наш разум слишком слаб, чтобы постичь все тайны природы, — ведь они суть вещи, зависящие от первообраза, и Бог, пребывающий всюду, как замечает Поэт, сотворил их чудесным образом.",
+        "Он представлен нагим, потому что действует посредством собственной формы, не нуждаясь в помощи стихийных качеств или какого-либо внешнего ухищрения; и кажется бегущим, дабы означать склонность и движение, непосредственно в нём самом заключённые, действующие без всякого препятствия. Отсюда и происходит, что мы питаем любовь к одним и ненависть к другим; что мы порой причиняем зло невинным и делаем добро тем, кто его недостоин: до того доходит, что иных судьба осыпала богатствами, а они всё же, желая получить больше, не перестают красть, где только можно, и предаются самым постыдным делам; что, впрочем, говорится без ущерба для свободы воли."
+      ],
+      "text_fr": [
+        "Il est figuré par vn jeune garçon qui semble courir, ayant le visage voilé, & en la main droite l'heliotrope, ou la fleur du Soleil.",
+        "Il est peint jeune, parce qu'il ne change jamais, & que sa force est toûjours égale. Il a le visage voilé, pour faire voir que la cause de cet Instinct est si fort cachée, qu'on en peut donner difficilement des raisons probables, & en faire des demonstrations comme des autres choses de la nature. C'est pour cela qu'Aristote compare l'entendement au Soleil, & au sens de la veuë: car comme nostre œil n'est pas assez fort pour regarder la lumiere de ce bel astre; ainsi nostre entendement est trop foible pour comprendre tous les secrets de la nature, comme estant des choses qui dependent de la premiere forme, & que Dieu, qui s'épand de tous costez, ainsi que le Poëte le remarque, a miraculeusement creées.",
+        "Il est representé nud, parce qu'il opere par le moyen de sa propre forme, sans estre assisté des qualitez elementaires, ny d'aucun artifice exterieur; & semble courir, pour signifier l'inclination & le mouvement qui se trouvent immediatement en luy-mesme, qui opere sans aucun obstacle. De là vient aussi que nous avons de l'amour pour les vns, & de la haine pour les autres; que nous faisons quelquefois du mal aux innocens, & du bien à ceux qui en sont indignes: jusques-là mesme qu'il y en a que la fortune a comblez de richesses, & qui toutefois pour en avoir davantage, ne laissent pas de voler à toutes mains, & se prostituënt aux actions les plus infames; ce qui soit dit neanmoins sans préjudice du franc-arbitre."
+      ],
       "en": "Natural Instinct",
-      "group_en": "I"
+      "group_en": "I",
+      "scans": [
+        "p1-082-1.jpg",
+        "p1-082-2.jpg"
+      ],
+      "text_en": [
+        "He is figured as a young boy who seems to be running, his face veiled, and in his right hand the heliotrope, or flower of the Sun.",
+        "He is painted young, because he never changes, and his strength is always equal. His face is veiled, to show that the cause of this Instinct is so deeply hidden that one can scarcely give probable reasons for it, or demonstrate it as one does other things in nature. For this reason Aristotle compares the understanding to the Sun, and to the sense of sight: for just as our eye is not strong enough to look upon the light of that fair star, so our understanding is too weak to grasp all the secrets of nature, these being things that depend on the first form, and that God, who spreads Himself on every side, as the Poet observes, has created miraculously.",
+        "He is represented naked, because he operates by means of his own form, without being aided by elemental qualities, or by any outward artifice; and he seems to run, to signify the inclination and movement that are found immediately within himself, operating without any obstacle. From this it also comes that we feel love for some, and hatred for others; that we sometimes do harm to the innocent, and good to those unworthy of it: to such a point that there are some whom fortune has heaped with riches, who nevertheless, to have yet more, do not cease to steal by every means, and prostitute themselves to the most infamous actions; which, however, is said without prejudice to free will."
+      ]
     },
     {
       "id": "p1-83",
