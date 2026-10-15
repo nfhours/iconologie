@@ -1647,12 +1647,63 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-27.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Девушка в античном одеянии с чашей, в которой лежит сердце, в правой руке",
+          "meaning": "Твёрдо лежащее сердце означает, что намерения миролюбивых людей никогда не колеблются",
+          "what_en": "A girl in antique dress holding up a basin with a heart in it",
+          "meaning_en": "The firmly resting heart signifies that the intentions of peaceable people never waver"
+        },
+        {
+          "what": "Пучок розог в левой руке",
+          "meaning": "Поодиночке слабые прутья вместе чрезвычайно крепки — как сказано у Соломона, тройную нить нелегко разорвать",
+          "what_en": "A bundle of rods in her left hand",
+          "meaning_en": "Weak alone, the rods together are exceedingly strong — as Solomon says, a threefold cord is not easily broken"
+        }
+      ],
+      "text_ru": [
+        "Это юная девушка, одетая на античный лад, увенчанная гирляндой из цветов и плодов. В правой руке она держит чашу с сердцем внутри, а в левой — пучок розог.",
+        "Согласие, которое лучше всего определить как взаимное единение воль между многими, отмечено изобилием всего сущего через её гирлянду из цветов и плодов. Она одета на античный лад, ибо поистине в природе вещей нет ничего более древнего, чем она сама. Недаром Поэты воздают ей славу за то, что она сумела распутать хаос ещё прежде, чем из него был создан мир.",
+        "Сердце, которое она носит крепко на груди, означает, что намерения мирных людей никогда не колеблются и твёрдо стоят на своём основании.",
+        "То же самое изображает пучок розог: каждая из них слаба сама по себе, но все вместе они чрезвычайно сильны; по этой причине Соломон говорит: тройную нить нелегко разорвать; а историк Саллюстий — что от Согласия малые вещи возрастают, тогда как от раздора рушатся и величайшие.",
+        "Сохранилась древняя медаль императора Нервы, где единение войск представлено женщиной, которая правой рукой поддерживает нос корабля и военное знамя, на котором сплетены две руки одна в другой, с надписью CONCORDIA EXERCITVVM.",
+        "Умолчу о том, что на других медалях, дабы показать единение воль между многими, ей дают держать в одной руке два соединённых рога изобилия, а в другой — сосуд, полный огня. Это означает, что Согласие рождается из взаимной любви, которую по праву сравнивают с вещественным огнём, поскольку она есть проявление внутреннего жара души.",
+        "Некоторые к рогам изобилия добавляют плоды граната, как это видно на нескольких медалях Фаустины; а другие — ворон, в похвалу которым можно сказать вместе с Альциатом: ¶«С их верностью соединена их любовь».",
+        "И подобно тому как гранат состоит из множества зёрен, скреплённых воедино, так и Согласие образуется из равного соединения намерений и единых воль.",
+        "Нельзя здесь не упомянуть, что когда оно достигает степени непобедимости, его изображают в виде Гериона о трёх лицах, с золотым венцом на голове, шестью руками и столькими же ногами; притом тремя руками он держит копьё, обнажённый меч и скипетр, а на три другие опирается, держа щит. Однако это следует понимать не о том баснословном Герионе, что имел, по преданию, три тела и был умерщвлён Геркулесом, но о трёх братьях, носивших это имя и бывших как бы единым целым по той дружной согласованности, с какой они жили вместе."
+      ],
+      "text_fr": [
+        "C'est vne jeune fille vestuë à l'antique, & couronnée d'vne guirlande de fleurs & de fruits. De la main droite elle soûtient vn bassin avec vn cœur au dedans, & de la gauche vn faisceau de verges.",
+        "La Concorde, qui ne se peut mieux definir, qu'vne mutuelle vnion de volontez entre plusieurs, marque l'abondance de toutes choses par sa guirlande de fleurs & de fruits. Elle est vestuë à l'antique, parce qu'en effet dans la nature des choses, il n'y a rien de si ancien qu'elle-mesme. Aussi est-il vray que les Poëtes luy donnent la gloire d'avoir sceu démesler le chaos, avant que le monde en fust tiré.",
+        "Le cœur qu'elle porte, qui se tient ferme dessus sa poitrine, signifie que les intentions des gens paisibles ne chancellent jamais, & qu'en leur assiette elles sont inébranlables.",
+        "Le mesme est representé par le faisceau de verges, chacune desquelles est foible de soy, mais toutes ensemble sont grandement fortes: à raison dequoy Salomon dit, Qu'vn triple cordon se rompt difficilement; & l'Historien Salluste, que par la Concorde les petites choses s'accroissent, comme au contraire par la discorde les plus grandes s'aneantissent.",
+        "Il se voit vne ancienne medaille de l'Empereur Nerva, où l'vnion des armées est representée par vne femme, qui soûtient du bras droit vne proüe de navire, & vne enseigne de guerre, où sont enlacées deux mains l'vne dans l'autre, avec ce mot, CONCORDIA EXERCITVVM.",
+        "J'obmets qu'en d'autres medailles pour montrer l'vnion des volontez entre plusieurs, on luy fait tenir d'vne main deux cornes d'abondance jointes ensemble, & de l'autre vn vase plein de feu. Ce qui signifie, que la Concorde naist de l'amour mutuel, qui se compare à bon droit au feu materiel, pour estre vn effet de la chaleur interieure de l'ame.",
+        "Quelques-vns ont ajoûté aux cornes d'abondance, des pommes de grenade, comme il se remarque en plusieurs medailles de Faustine; & d'autres des corneilles, à la louange desquelles on peut dire avec Alciat, ¶Qu'à leur fidelité leur amour est vnie.",
+        "Et comme les grenades sont composées de plusieurs grains attachez ensemble; la Concorde tout de mesme se forme d'vne égale conjoncture d'intentions & de volontez vnies.",
+        "Il ne faut pas oublier icy, que lors qu'elle est arrivée au point d'estre invincible, elle nous est figurée par vn Gerion qui a trois visages, vne couronne d'or sur la teste, six bras, & autant de jambes; outre qu'avec trois de ses mains il tient vne lance, vne épée nuë, & vn sceptre; & qu'il appuye les trois autres sur vn escu. Cela neanmoins ne doit point s'entendre de ce fabuleux Gerion, qui eut trois corps, à ce que l'on dit, & qui fut mis à mort par Hercule; mais bien de trois freres ainsi appellez, & qui n'estoient qu'vne mesme chose, pour la bonne intelligence avec laquelle ils vivoient ensemble."
+      ],
       "en": "Concord",
-      "group_en": "C"
+      "group_en": "C",
+      "scans": [
+        "p1-027-1.jpg",
+        "p1-027-2.jpg",
+        "p1-027-3.jpg"
+      ],
+      "text_en": [
+        "She is a young girl, dressed in the antique manner, crowned with a garland of flowers and fruit. In her right hand she holds up a basin with a heart inside it, and in her left a bundle of rods.",
+        "Concord, which can best be defined as a mutual union of wills among many, marks the abundance of all things by her garland of flowers and fruit. She is dressed in the antique manner, because, in truth, there is nothing in the nature of things older than she is herself. Indeed, the Poets credit her with the glory of having untangled chaos before the world was drawn out of it.",
+        "The heart she carries, held firm upon her breast, signifies that the intentions of peaceable people never waver, and stand unshaken in their place.",
+        "The same is represented by the bundle of rods, each of which is weak by itself, but all together are exceedingly strong: for which reason Solomon says, A threefold cord is not easily broken; and the historian Sallust, that through Concord small things grow, just as through discord even the greatest things come to ruin.",
+        "There is an ancient medal of the Emperor Nerva, on which the union of the armies is represented by a woman who supports with her right arm the prow of a ship and a war standard, on which two hands are clasped one in the other, with the words CONCORDIA EXERCITVVM.",
+        "I pass over that on other medals, to show the union of wills among many, she is made to hold in one hand two joined cornucopias, and in the other a vessel full of fire. Which signifies that Concord is born of mutual love, rightly compared to material fire, as being an effect of the soul's inner warmth.",
+        "Some have added pomegranates to the cornucopias, as may be seen on several medals of Faustina; and others, crows, in praise of which one may say with Alciato, ¶That their love is joined to their fidelity.",
+        "And as pomegranates are composed of many seeds held together, so Concord likewise is formed from an equal conjunction of intentions and united wills.",
+        "It must not be forgotten here that, when she has reached the point of being invincible, she is figured for us as a Geryon with three faces, a golden crown upon his head, six arms, and as many legs; moreover, with three of his hands he holds a lance, a bare sword, and a scepter, and rests the other three upon a shield. This, however, is not to be understood of that fabled Geryon, who, it is said, had three bodies, and was slain by Hercules; but rather of three brothers so called, who were as one and the same thing, for the good understanding with which they lived together."
+      ]
     },
     {
       "id": "p1-28",
@@ -1665,12 +1716,36 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-28.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина, обеими руками держащая корабль и пристально глядящая на него",
+          "meaning": "Доверие рождается из знания опасности и способа её избежать — так человек вверяет себя морю благодаря простому кораблю",
+          "what_en": "A woman holding a ship with both hands and gazing at it fixedly",
+          "meaning_en": "Confidence is born of knowing a danger and the means to avoid it — so man entrusts himself to the sea by means of a simple ship"
+        }
+      ],
+      "text_ru": [
+        "Трудно было бы создать образ более естественный, чем этот, представляющий женщину, которая пристально смотрит на корабль и держит его обеими руками.",
+        "Поскольку Доверие предполагает знание некой близкой опасности и способа её избежать — два качества, без которых оно изменило бы свою сущность и своё имя, — по этой причине её изображают с судном в руках: ведь сколь ни страшно море, что одно лишь движение его волн устрашает человека, однако мы видим на опыте, что, полагаясь на простой корабль, человек осмеливается довериться этой грозной стихии, безбрежность которой невозможно даже вообразить, — и не трепетать перед ней может лишь тот, кто бесчувственнее подводных рифов. Это заставило лучшего из лирических Поэтов сказать: ¶«Должно быть, грудь его вооружена была / Тройною медной стеною, / У того, кто первым по морю непостоянному / Пустил свою зыбкую ладью»."
+      ],
+      "text_fr": [
+        "Il seroit difficile d'en faire vn tableau plus naturel que celuy-cy, representant vne femme qui regarde fixement vn navire, & qui le soûtient des deux mains.",
+        "Comme la Confiance présuppose la connoissance de quelque danger prochain, & le moyen de l'éviter, qui sont deux qualitez sans lesquelles elle changeroit son estre & son nom; c'est à raison de cela qu'elle est peinte avec vn vaisseau entre ses mains: car bien que la mer soit si à craindre, que le seul mouvement de ses vagues épouvante l'homme; si est-ce que nous voyons par épreuve, qu'à la faveur d'vn simple navire il ose bien se fier à ce barbare element, dont on ne sçauroit s'imaginer la vaste estenduë, & ne trembler pas, à moins que d'estre plus insensible que les écueils qui s'y trouvent. Cela fait dire au plus excellent des Poëtes Lyriques, ¶Qu'il falloit que celuy portast armé le sein / De trois remparts d'airain, / Qui le premier de tous sur la mer inconstante / Mit sa barque flottante."
+      ],
       "en": "Confidence",
-      "group_en": "C"
+      "group_en": "C",
+      "caption": "Confidence",
+      "scans": [
+        "p1-028-1.jpg",
+        "p1-028-2.jpg"
+      ],
+      "text_en": [
+        "It would be hard to make a more natural image than this one, representing a woman who gazes fixedly at a ship, and holds it up with both hands.",
+        "As Confidence presupposes the knowledge of some imminent danger, and the means of avoiding it — two qualities without which it would change its nature and its name — for this reason she is painted with a vessel between her hands: for though the sea is so fearsome that the mere motion of its waves terrifies man, yet we see by experience that, trusting in a simple ship, he dares to entrust himself to that savage element, whose vast extent cannot even be imagined, and not to tremble before it, unless he be more insensible than the very reefs found within it. This makes the finest of the Lyric Poets say, ¶That his breast must needs have been armed / With a triple wall of bronze, / Who was first of all upon the fickle sea / To launch his floating bark."
+      ]
     },
     {
       "id": "p1-29",
@@ -1683,12 +1758,34 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-29.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Факел в одной руке, открытая книга в другой",
+          "meaning": "Как глазам тела нужен свет, так душе для познания нужно обращаться к чувствам, особенно к зрению — отсюда и открытая книга",
+          "what_en": "A torch in one hand, an open book in the other",
+          "meaning_en": "As the body's eyes need light, the soul needs to turn to the senses, especially sight, to gain knowledge — hence the open book"
+        }
+      ],
+      "text_ru": [
+        "Она держит в одной руке факел, а в другой — открытую книгу, в которую пристально смотрит.",
+        "Зажжённый факел означает, что подобно тому, как глазам тела нужен свет, чтобы видеть, так и очам души, дабы обрести познание умопостигаемых сущностей, надлежит прибегать к внешнему орудию чувств, и в особенности к зрению: ибо таково изречение Аристотеля, что в разуме нет ничего, чего прежде не было бы в чувствах; на это же указывает и открытая книга, ибо несомненно, что для познания вещей необходимо их увидеть или прочесть о них."
+      ],
+      "text_fr": [
+        "Elle tient vn flambeau en vne main, & en l'autre vn livre ouvert, qu'elle regarde attentivement.",
+        "Le flambeau allumé signifie, que comme les yeux du corps ont besoin de la lumiere pour voir; ceux de l'ame tout de mesme, pour s'acquerir la connoissance des especes intelligibles, doivent recourir à l'instrument exterieur des sens, & particulierement à celuy de la veuë: car c'est la maxime d'Aristote, qu'il n'y a rien dans l'entendement qui n'ait esté premierement dans les sens; ce qui nous est aussi denoté par le livre ouvert, estant certain que pour connoistre les choses, il faut necessairement les voir, ou les avoir leuës."
+      ],
       "en": "Knowledge",
-      "group_en": "C"
+      "group_en": "C",
+      "scans": [
+        "p1-029-1.jpg"
+      ],
+      "text_en": [
+        "She holds a torch in one hand, and in the other an open book, which she looks at attentively.",
+        "The lit torch signifies that, just as the eyes of the body need light to see, so too the eyes of the soul, to gain knowledge of intelligible things, must have recourse to the outward instrument of the senses, and particularly to that of sight: for it is Aristotle's maxim that there is nothing in the understanding that was not first in the senses; which is also denoted by the open book, it being certain that to know things one must necessarily see them, or have read of them."
+      ]
     },
     {
       "id": "p1-30",
@@ -1701,12 +1798,54 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-30.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Старец в длинном багряном одеянии, с сердцем на золотой цепи на шее",
+          "meaning": "Багрянец — цвет сенаторов; сердце, по Пиерию, символ доброго совета, который Платон называл делом священным",
+          "what_en": "An old man in a long scarlet robe, a heart on a gold chain about his neck",
+          "meaning_en": "Scarlet is the colour of senators; the heart, after Pierius, symbolises good counsel, which Plato called a sacred thing"
+        },
+        {
+          "what": "Книга в правой руке и филин в левой",
+          "meaning": "Книга означает нужное советнику изучение мудрости; филин, посвящённый Минерве, видит во тьме — как государи должны обдумывать ночью то, что решать днём",
+          "what_en": "A book in his right hand and an owl in his left",
+          "meaning_en": "The book signifies the counsellor's needed study of wisdom; the owl, sacred to Minerva, sees in the dark — as rulers must ponder by night what to decide by day"
+        }
+      ],
+      "text_ru": [
+        "Его представляют в виде старца, одетого в длинное багряное одеяние. На шее у него золотая цепь, на которой вместо медальона висит сердце; книга в правой руке и филин в левой. Совет, говорит Аристотель, есть зрелое размышление, совершаемое над вещами, которые рассматривают с благоразумием и в которых ставят себе полезную цель. Его изображают стариком, ибо он никогда не бывает так хорош, как когда исходит от людей преклонных лет, в которых соединены теория наук и практика мирских дел. Потому рассудительный Гомер и наделяет трёхсотлетним возрастом мудрого Нестора, советника Агамемнона, и в другом месте своей Илиады выводит его, ободряющим греческих воинов к бою, которым он обещает помогать советом, а не силой, которую сам признаёт пригодной лишь для юности, ещё зелёной и кипучей. К этому же относятся и слова Плутарха, что нет города счастливее того, где молодые берутся за оружие лишь по совету стариков, ибо одни годны к исполнению, а другие — к повелению.",
+        "Длинное багряное одеяние чрезвычайно подобает Советнику — то ли потому, что в нём он кажется более величавым, то ли потому, что пурпур издавна был одеянием Сенаторов, чей блеск словно призывает их никогда не ослабевать в рвении и усердии, когда нужно помочь своим советом несведущим, в том нуждающимся.",
+        "Сердце на шее он носит потому, что, по свидетельству Пиерия, эта благородная часть нашего тела, которая оживает первой и умирает последней, служит символом доброго совета, именуемого Платоном делом священным и святым.",
+        "Книга, которую он держит в правой руке, учит нас, сколь важно Сенатору изучать труды учёных мужей, дабы обрести познание в Нравственности и Политике, ибо от изучения мудрости зависит твёрдость совета.",
+        "По той же причине он держит в другой руке филина, которого Древние посвятили богине Минерве. Эта птица, как говорят естествоиспытатели, ищет пропитание ночью и ясно видит во тьме. Этим великим Государям и их Министрам внушается, что они должны посвящать свои заботы и бдения общему благу народов, обдумывая ночью то, что надлежит решить днём; к чему ум особенно способен в тишине и во мраке, иероглифом которых служит филин.",
+        "Возможно также, что этой птицей, ищущей ночью то, в чём нуждается, нам внушается, что добрые решения, принятые в бдении, не должны разглашаться, но в любое время должны храниться в тайне: что древние Римляне лучше всего засвидетельствовали таинственным храмом Конса, Бога Совета, который они пожелали ради этого построить под землёй, у подножия Палатинского холма."
+      ],
+      "text_fr": [
+        "Il nous est representé par vn vieillard, vestu d'vne longue robe d'écarlate. Il porte à son col vne chaisne d'or, où pend vn cœur pour medaille; vn livre en sa main droite, & vn hibou en la gauche. Le Conseil, dit Aristote, est vne meure deliberation, qui se fait des choses qu'on examine avec prudence, & où l'on se propose vne fin vtile. On le peint en vieillard, parce qu'il n'est jamais si bon, que lorsqu'il nous est donné par des personnes âgées, en qui la theorie des sciences & la pratique des choses du monde sont jointes ensemble. C'est pour cela que le judicieux Homere fait âgé de trois cens ans le prudent Nestor Conseiller d'Agamemnon, & qu'en vn autre endroit de son Iliade, il l'introduit encourageant au combat les soldats Grecs, ausquels il promet de les assister de son conseil, & non de ses forces, qu'il avouë n'estre propres qu'à la jeunesse encore verte & bouillante. A quoy se rapportent pareillement ces mots de Plutarque, qu'il n'est point de ville plus heureuse que celle où les jeunes gens ne prennent les armes que par le conseil des vieillards; parce que les vns sont propres à l'execution, & les autres au commandement.",
+        "La robe longue de couleur rouge sied grandement bien au Conseiller, soit parce qu'il en paroist plus grave, soit à cause que la pourpre a esté de tout temps la livrée des Senateurs, l'éclat de laquelle les semble exhorter à ne manquer jamais d'ardeur ny de zele, quand il est question d'assister de leur conseil les ignorans qui en ont besoin.",
+        "Il porte son cœur pendu au col, dautant qu'au rapport de Pierius, cette noble partie de nostre corps, qui vit la premiere, & meurt la derniere, est vn symbole du bon conseil, que Platon appelle vne chose religieuse & sacrée.",
+        "Le livre qu'il tient en la main droite, nous apprend combien il importe au Senateur d'estudier les ouvrages des sçavans hommes, pour s'acquerir la connoissance de la Morale & de la Politique, puisque de l'étude de la sagesse dépend la solidité du conseil.",
+        "Pour cette mesme raison il tient de l'autre main vn chat-huant, que les Anciens ont consacré à la Deesse Minerve. Cet oiseau, comme disent les Naturalistes, cherche à repaistre de nuit, & voit clair dans les tenebres. Par où les grands Princes & leurs Ministres sont avisez d'employer leurs soins & leurs veilles à la commune conservation des peuples, meditant la nuit ce qu'il faut resoudre le jour; à quoy l'esprit est grandement propre durant le silence & l'obscurité, dont le chat-huant est vn hieroglyphe.",
+        "Possible encore que par cet oiseau, qui cherche de nuit ce dequoy il a besoin, il nous est declaré, que les bonnes deliberations qu'on a prises en veillant, ne doivent point estre éventées; mais qu'en quelque temps que ce soit il les faut tenir secretes: ce que les anciens Romains ne pûrent mieux témoigner que par le mysterieux temple de Consus, Dieu du Conseil, qu'ils voulurent pour cet effet estre bâty sous terre, au pied du mont Palatin."
+      ],
       "en": "Counsel",
-      "group_en": "C"
+      "group_en": "C",
+      "scans": [
+        "p1-030-1.jpg",
+        "p1-030-2.jpg",
+        "p1-030-3.jpg"
+      ],
+      "text_en": [
+        "He is represented as an old man, dressed in a long scarlet robe. He wears about his neck a gold chain, from which hangs a heart in place of a medal; a book in his right hand, and an owl in his left. Counsel, says Aristotle, is a mature deliberation, made upon things examined with prudence, and in which one sets oneself a useful end. He is painted as an old man, because it is never so good as when it comes to us from aged persons, in whom the theory of the sciences and the practice of worldly affairs are joined together. For this reason judicious Homer gives three hundred years to wise Nestor, counselor of Agamemnon, and in another part of his Iliad brings him in encouraging the Greek soldiers to battle, promising to assist them with his counsel, not his strength, which he admits is fit only for youth still green and vigorous. To which likewise relate these words of Plutarch, that there is no happier city than one where the young take up arms only by the counsel of the old; because the one are fit for execution, and the other for command.",
+        "The long scarlet robe suits the Counselor extremely well, either because it makes him appear more grave, or because purple has at all times been the livery of Senators, whose brilliance seems to exhort them never to lack ardor or zeal when it is a question of assisting with their counsel the ignorant who have need of it.",
+        "He wears his heart hung at his neck, because, according to Pierius, this noble part of our body, which lives first and dies last, is a symbol of good counsel, which Plato calls a sacred and religious thing.",
+        "The book he holds in his right hand teaches us how important it is for the Senator to study the works of learned men, so as to gain knowledge of Morals and Politics, since the soundness of counsel depends on the study of wisdom.",
+        "For the same reason he holds in his other hand an owl, which the Ancients consecrated to the Goddess Minerva. This bird, as the Naturalists say, seeks its food by night, and sees clearly in the dark. By which great Princes and their Ministers are advised to devote their cares and their vigils to the common preservation of their peoples, pondering by night what must be resolved by day; for which the mind is eminently suited amid the silence and darkness of which the owl is a hieroglyph.",
+        "It is possible, too, that by this bird, which seeks by night what it needs, we are taught that good resolutions made in wakeful deliberation ought never to be aired abroad, but at all times kept secret: which the ancient Romans could not better attest than by the mysterious temple of Consus, God of Counsel, which for this purpose they wished to have built underground, at the foot of the Palatine hill."
+      ]
     },
     {
       "id": "p1-31",
