@@ -3727,12 +3727,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-71.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Нагая дева в сиянии лучей, с рогом изобилия в руках",
+          "meaning": "Нагота означает невинность, не нуждающуюся в земных украшениях; изливаемые блага учат, что все дары исходят от Бога",
+          "what_en": "A naked maiden surrounded by rays, holding a horn of abundance",
+          "meaning_en": "Her nakedness signifies innocence, needing no earthly adornment; the goods she pours forth teach that all gifts come from God"
+        },
+        {
+          "what": "Голубь, нисходящий на неё, оливковая ветвь и чаша (в другом изводе)",
+          "meaning": "Голубь — символ Святого Духа, изливающего благодать; олива и чаша означают мир и примирение грешника с Богом",
+          "what_en": "A dove descending upon her, an olive branch and a cup (in another version)",
+          "meaning_en": "The dove symbolises the Holy Spirit pouring out grace; the olive and cup signify peace and the sinner's reconciliation with God"
+        }
+      ],
+      "text_ru": [
+        "Это юная дева, которая дивными чарами своей красоты похищает любовь и восхищение всех, кто на неё смотрит. Вокруг её головы образуется сияющий венец, светлые волосы ниспадают небрежно на плечи; а обеими руками она держит рог изобилия, из которого сыплются разные блага, означаемые различными знаками и отличиями. Но более всего её являет её нагота и лучи, окружающие её от головы до ног.",
+        "Красота, сияющая на её лице, — символ красоты её души, чистой и свободной от всяких пятен; это проистекает прежде всего от тех дивных лучей, которыми она окутана и которые, исходя свыше, рассеивают густые тучи пороков.",
+        "Её нагота означает её невинность, не нуждающуюся ни во внешних украшениях, ни в тех суетных нарядах, которыми светские люди обыкновенно прикрывают свои недостатки. А что до благ, которые она щедро изливает, они учат тех, кто ими обладает, признавать, что они исходят от Бога, ибо высочайшим достоинствам, до которых они вознесены, они обязаны Его святой Благодати.",
+        "Другие изображают её в виде прекрасной девы, обращающей взор к Небу, откуда на неё нисходит Святой Дух в виде голубя. В одной руке она держит оливковую ветвь, в другой — чашу.",
+        "Она смотрит на Небо, дабы показать, что Благодать приходит к нам от Бога, и что для её обретения необходимо, чтобы грешник обратился и попросил у Него прощения за свои прегрешения. Эта чистота души изображена голубем, истинным символом Святого Духа, которому Богословы приписывают вливание Благодати в наши души. Потому и говорится, что она изливается на творения по чистой щедрости Божией, а не по каким-либо заслугам, в них заключённым.",
+        "А поскольку олива означает мир, ветвь, которую она держит, — знак того спокойствия, что ощущает грешник после примирения с Богом. Можно также сказать, что чаша — образ этого примирения, ибо тот, кто пребывает в благодати Божией, вкушает бесконечные сладости, вовсе отнимающие у него прежнюю жажду мирских вещей."
+      ],
+      "text_fr": [
+        "C'est vne jeune vierge, qui par les merveilleux charmes de sa beauté ravit d'amour & d'admiration tous ceux qui la contemplent. Vne couronne resplendissante se forme autour de sa teste, dont les cheveux blonds s'épandent nonchalamment sur ses épaules; & de ses deux mains elle tient vne corne d'abondance, d'où tombent plusieurs sortes de biens, qui sont denotez par diverses enseignes & marques d'honneur. Mais elle se fait paroistre sur tout par sa nudité, & par les rayons qui l'environnent depuis la teste jusques aux pieds.",
+        "Les beautez qui éclatent sur son visage, sont des symboles de celles de son ame, qui est pure & nette de toutes sortes de taches; ce qui procede sur tout de ces merveilleux rayons dont elle est enveloppée, qui estant élancez d'en haut, dissipent les nuages épais des vices.",
+        "Sa nudité marque son innocence, qui n'a pas besoin de ces ornemens exterieurs, ny de ces vaines parures dont les personnes du monde ont accoustumé de couvrir leurs defauts. Et quant aux biens qu'elle verse abondamment, ils apprennent à ceux qui les possedent, à reconnoistre qu'ils viennent de Dieu, puisqu'ils doivent à sa sainte Grace les plus hautes dignitez où ils se voyent élevez.",
+        "D'autres la representent sous la forme d'vne belle vierge qui tourne les yeux vers le Ciel, d'où le S. Esprit descend sur elle en forme de colombe. Elle tient d'vne main vn rameau d'olivier, & de l'autre vne coupe.",
+        "Elle regarde le Ciel, pour montrer que la Grace nous vient de Dieu, & que pour l'obtenir il faut necessairement que le pecheur se convertisse, & qu'il luy demande pardon de ses fautes. Cette pureté de l'ame est figurée par la colombe, vray symbole du S. Esprit, à qui les Theologiens attribuënt l'infusion de la Grace dans nos ames. Et voila pourquoy il est dit, qu'elle s'épand sur les creatures par la pure liberalité de Dieu, & sans aucuns merites qui soient en elles.",
+        "Et dautant que l'olivier signifie la paix, le rameau qu'elle tient est vne marque de la tranquillité que sent le pecheur aprés qu'il s'est reconcilié avec Dieu. Et l'on peut bien dire aussi, que la coupe est vne figure de cette reconciliation, puisque celuy qui est en la grace de Dieu gouste des douceurs infinies, qui luy font perdre entierement la soif qu'il avoit auparavant des choses du monde."
+      ],
       "en": "Grace of God",
-      "group_en": "G"
+      "group_en": "G",
+      "scans": [
+        "p1-071-1.jpg",
+        "p1-071-2.jpg"
+      ],
+      "text_en": [
+        "It is a young maiden, who by the marvelous charms of her beauty ravishes with love and admiration all who behold her. A resplendent crown forms about her head, whose fair hair spreads carelessly upon her shoulders; and in both hands she holds a horn of abundance, from which fall many kinds of goods, denoted by various emblems and marks of honor. But she shows herself above all by her nakedness, and by the rays that surround her from head to foot.",
+        "The beauties that shine upon her face are symbols of those of her soul, which is pure and free of every kind of stain; this proceeds above all from those marvelous rays with which she is enveloped, which, darting from on high, dispel the thick clouds of vice.",
+        "Her nakedness marks her innocence, which has no need of outward ornaments, nor of those vain adornments with which worldly persons are accustomed to cover their faults. As for the goods she pours forth abundantly, they teach those who possess them to acknowledge that they come from God, since they owe to His holy Grace the highest dignities to which they find themselves raised.",
+        "Others represent her in the form of a fair maiden who turns her eyes toward Heaven, whence the Holy Spirit descends upon her in the form of a dove. In one hand she holds an olive branch, and in the other a cup.",
+        "She looks toward Heaven, to show that Grace comes to us from God, and that to obtain it the sinner must necessarily be converted, and ask His pardon for their faults. This purity of soul is figured by the dove, the true symbol of the Holy Spirit, to whom the Theologians attribute the infusion of Grace into our souls. And this is why it is said that she is poured out upon creatures by the pure liberality of God, and not through any merits found in them.",
+        "And inasmuch as the olive signifies peace, the branch she holds is a mark of the tranquility the sinner feels after being reconciled with God. And one may also say that the cup is a figure of this reconciliation, since whoever is in God's grace tastes infinite sweetness, which makes them entirely lose the thirst they once had for the things of the world."
+      ]
     },
     {
       "id": "p1-72",
@@ -3745,12 +3786,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-72.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина со свитком-определением в одной руке и сосудом воды, которым поливает растение, в другой",
+          "meaning": "Как вода взращивает растение, так возделывание юного ума приносит плоды глубокой учёности",
+          "what_en": "A woman with a scroll defining her in one hand, and a vessel of water with which she waters a plant in the other",
+          "meaning_en": "As water nurtures a plant, cultivating a young mind brings forth the fruits of deep learning"
+        },
+        {
+          "what": "Напильник и розги, обнажённая грудь, источающая молоко (в другом изводе)",
+          "meaning": "Напильник означает усердие в отсечении лишнего; розги — наказание, с которого начинается учение; молоко — сладость наук, обретаемая со временем",
+          "what_en": "A file and rods, with a bared breast flowing with milk (in another version)",
+          "meaning_en": "The file signifies diligence in cutting away excess; the rods, the chastisement with which learning begins; the milk, the sweetness of the sciences gained in time"
+        }
+      ],
+      "text_ru": [
+        "Две главные её цели показаны изображением этой женщины, которая держит в левой руке свиток, где она определена как Искусство, учащее говорить правильно и произносить как подобает; а в правой — сосуд, полный воды, которой она поливает растение; это означает то же самое для юных умов: возделываемые, подобно ещё нежным растениям, они силой этого приносят плоды глубокой учёности.",
+        "Другие изображают её в виде юной женщины, держащей в одной руке напильник, а в другой — розги, с обнажённой грудью, из которой обильно течёт молоко.",
+        "Её крепкая юность — символ возрастания этого искусства, достигаемого усердным его возделыванием и изучением правил; подобно тому как в этом раннем возрасте тело постепенно становится гибким к упражнениям, которые ему показывают, если оно прилагает усилие к их усвоению.",
+        "Напильник, который она несёт в руке, — знак усердия, необходимого, чтобы отсечь всё грубое и лишнее в уме, дабы сделать его восприимчивым к тем благородным началам, что открывают ему доступ к высшим познаниям; а розги, которые она держит, означают, что Грамматика — первое, чему учат детей, прибегая для этого к наказанию, дабы сделать их более способными к дисциплине. Но эта лёгкая боль сопровождается в итоге великим удовольствием, ибо со временем она даёт им вкусить дивную сладость Наук, означаемую здесь молоком, истекающим из её груди."
+      ],
+      "text_fr": [
+        "Ses deux principales fins sont demontrées par la peinture de cette femme, qui tient de la main gauche vn rouleau, où elle est definie, vn Art qui apprend à parler correctement, & à prononcer comme il faut: & de la droite vn vase plein d'eau, dont elle arrose vne plante; qui signifie qu'il en est de mesme des jeunes esprits, & qu'à force d'estre cultivez comme des plantes encore tendres, ils portent des fruits d'vne profonde doctrine.",
+        "D'autres la figurent par vne jeune femme qui tient vne lime d'vne main, & de l'autre des verges, ayant les mammelles découvertes, d'où il sort du lait en abondance.",
+        "Sa jeunesse vigoureuse est vn symbole de l'accroissement de cet art, qui se fait à force de le cultiver & d'en apprendre les regles; comme nous voyons qu'en ce premier âge le corps se rend souple peu à peu aux exercices qu'on luy montre, quand il prend peine à les acquerir.",
+        "La lime qu'elle porte en vne main, est vne marque de l'assiduité dont il faut vser pour retrancher ce qu'il y a de grossier & de superflu dans vn esprit, afin de le rendre susceptible de ces nobles principes, qui luy ouvrent l'entrée aux plus hautes connoissances; & les verges qu'elle tient signifient que la Grammaire est la premiere chose qu'on enseigne aux enfans, y employant pour cet effet le chastiment, pour les rendre plus capables de discipline. Mais cette legere peine est suivie enfin d'vn grand plaisir, parce qu'elle leur fait gouster avec le temps la merveilleuse douceur des Sciences, qui est icy denotée par le lait qui luy sort des mammelles."
+      ],
       "en": "Grammar",
-      "group_en": "G"
+      "group_en": "G",
+      "scans": [
+        "p1-072-1.jpg",
+        "p1-072-2.jpg"
+      ],
+      "text_en": [
+        "Her two principal ends are shown by the picture of this woman, who holds in her left hand a scroll, on which she is defined as an Art that teaches one to speak correctly, and to pronounce as one ought: and in her right a vessel full of water, with which she waters a plant; which signifies that it is the same with young minds, and that, being cultivated like still-tender plants, they in time bear the fruits of profound learning.",
+        "Others figure her as a young woman holding a file in one hand, and in the other rods, her breasts bared, from which milk flows abundantly.",
+        "Her vigorous youth is a symbol of the growth of this art, achieved through assiduous cultivation and the learning of its rules; just as we see that in this early age the body gradually becomes supple to the exercises shown it, when it takes pains to acquire them.",
+        "The file she carries in one hand is a mark of the diligence one must use to cut away what is coarse and superfluous in a mind, so as to render it receptive to those noble principles that open to it the entry to the highest knowledge; and the rods she holds signify that Grammar is the first thing taught to children, chastisement being employed for this purpose, to render them more capable of discipline. But this slight pain is followed in the end by great pleasure, because in time it lets them taste the wondrous sweetness of the Sciences, here denoted by the milk flowing from her breasts."
+      ]
     },
     {
       "id": "p1-73",
@@ -3763,12 +3839,40 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-73.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с аистом, веткой цветов бобов и слоном",
+          "meaning": "Аист кормит состарившихся родителей, бобы удобряют взрастившую их почву, слон никогда не забывает полученное добро — три образа благодарности",
+          "what_en": "A woman with a stork, a branch of bean flowers, and an elephant",
+          "meaning_en": "The stork feeds its aged parents, the bean fattens the soil that grew it, the elephant never forgets a kindness received — three images of gratitude"
+        }
+      ],
+      "text_ru": [
+        "Природа этой Добродетели является в трёх разных вещах — аисте, букете цветов бобов и слоне, — которыми приметна эта женщина, её представляющая.",
+        "Аистом — ибо, говорит Ор Аполлон, нет животного более благодарного, чем он, непрестанно облегчающего старость тех, кто произвёл его на свет: ведь на том же месте, где он был вскормлен, он устраивает им гнездо из сброшенных ненужных перьев и кормит их, пока их добрая сила не вернётся и они сами не смогут найти себе пропитание. По этой причине у египтян это животное было в большом почёте и служило таинственным украшением царских скипетров.",
+        "Ветвью цветов бобов — поскольку овощи этого рода, как замечает Плиний в 18-й книге, 14-й главе, удобряют почву, на которой растут, уча нас тем самым, что мы всегда должны своими заботами способствовать благополучию тех, кто является причиной нашего собственного.",
+        "Слоном — ибо это животное никогда не забывает полученного добра: свидетель тому тот, о котором рассказывает Элиан, — увидев своего хозяина убитым от насилия врагов, он взял его хоботом и отнёс в свой хлев, где долго оставался подле него, отказываясь есть, с такими великими проявлениями скорби, что все видевшие его были тронуты жалостью."
+      ],
+      "text_fr": [
+        "Le naturel de cette Vertu paroist en trois choses differentes, qui sont vne cicogne, vn bouquet de fleurs de féves, & vn elephant, par où se fait remarquer cette femme qui la represente.",
+        "Par la cicogne, parce, dit Orus Apollo, qu'il n'y a point d'animal qui soit plus reconnoissant que celuy-cy, qui soulage continuellement la vieillesse de ceux qui l'ont mis au monde: car au mesme lieu où il a esté nourry, il leur fait vn nid des dépouilles de leurs plumes inutiles, & leur donne à manger en attendant que leurs bonnes soient revenuës, & que d'eux-mesmes ils puissent trouver à vivre. A raison de cela cet animal estoit en grande consideration chez les Egyptiens, & servoit de mysterieux ornement aux sceptres des Rois.",
+        "Par le rameau de fleurs de féves, dautant que les legumes de cette espece, comme le remarque Pline liv. 18. chap. 14. engraissent le terroir où elles viennent, & nous enseignent par consequent, que nous devons toûjours contribuer par nos soins à la bonne fortune de ceux qui sont cause de la nostre.",
+        "Par l'elephant, parce que cet animal n'oublie jamais le bien qu'il a receu: témoin celuy dont parle Elian, qui voyant son maistre mort par la violence de ses ennemis, le prit avec sa trompe, & le porta dans son étable, où il fut long-temps prés de luy sans vouloir manger, avec de si grandes demonstrations de dueil, que tous ceux qui le voyoient en estoient touchez de pitié."
+      ],
       "en": "Gratitude, or Thankfulness",
-      "group_en": "G"
+      "group_en": "G",
+      "scans": [
+        "p1-073-1.jpg"
+      ],
+      "text_en": [
+        "The nature of this Virtue appears in three different things, namely a stork, a bouquet of bean flowers, and an elephant, by which this woman who represents it is marked.",
+        "By the stork, because, says Horapollo, there is no animal more grateful than this one, which continually relieves the old age of those who brought it into the world: for in the very place where it was fed, it makes them a nest of the cast-off useless feathers, and feeds them while awaiting the return of their strength, until they can themselves find a living. For this reason this animal was held in great esteem among the Egyptians, and served as a mysterious ornament upon the scepters of Kings.",
+        "By the branch of bean flowers, inasmuch as vegetables of this kind, as Pliny notes in book 18, chapter 14, fatten the soil in which they grow, teaching us accordingly that we ought always to contribute, by our care, to the good fortune of those who are the cause of our own.",
+        "By the elephant, because this animal never forgets a kindness received: witness the one of which Aelian speaks, which, seeing its master slain by the violence of his enemies, took him up with its trunk, and carried him to its stable, where it remained long beside him, refusing to eat, with such great signs of mourning that all who saw it were moved to pity."
+      ]
     },
     {
       "id": "p1-74",
@@ -3781,12 +3885,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-74.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Дама в пурпуре с грамотой-печатью на шее",
+          "meaning": "Пурпур — знак чести и достоинства; грамота с печатью — отличительный знак знатности",
+          "what_en": "A lady in purple with a sealed letter at her neck",
+          "meaning_en": "Purple is a mark of honour and dignity; the sealed letter, a mark of nobility"
+        },
+        {
+          "what": "Зажжённый факел в левой руке",
+          "meaning": "Как солнце превосходит меньшие светила, так степенность возвышается над прочими и служит маяком для народа",
+          "what_en": "A lit torch in her left hand",
+          "meaning_en": "As the sun outshines lesser lights, gravity rises above the rest and serves as a beacon to the people"
+        }
+      ],
+      "text_ru": [
+        "Это почтенная дама, одетая в пурпур, носящая на шее вместо драгоценности грамоту с печатью. Лицо её обращено к зажжённому факелу, который она держит в левой руке, а правой сжимает голову небольшой статуи, установленной на пьедестале.",
+        "Пурпурное платье ей подобает, будучи знаком чести и достоинства, придающим больше величия и важности великим Государям.",
+        "Грамота с печатью, которую она носит на шее, — словно отличительный знак её знатности, делающий её облик более возвышенным; а факел, который она держит, — другой знак её достоинства, который, приличествуя лишь важным и серьёзным вещам, служит маяком для всего народа и даёт ей над ним то же преимущество, что Солнце имеет над меньшими светилами."
+      ],
+      "text_fr": [
+        "C'est vne dame honorable, vestuë de pourpre, & qui porte au col en forme de joyau vne lettre de cachet. Son visage se tourne du costé d'vn flambeau allumé qu'elle tient en sa main gauche, & de la droite elle empoigne la teste d'vne petite statuë élevée sur vn pied-d'estail.",
+        "La robe de pourpre luy est convenable, pour estre vne marque d'honneur & de dignité, qui donne plus de majesté & de gravité aux grands Princes.",
+        "La lettre de cachet qu'elle porte au col, est comme le caractere de sa noblesse, qui la fait paroistre plus relevée; & le flambeau qu'elle tient en est vn autre de son merite, qui ne s'accommodant qu'aux choses graves & serieuses, sert de fanal à tout le peuple, & luy donne sur luy le mesme avantage qu'a le Soleil dessus les moindres lumieres."
+      ],
       "en": "Gravity",
-      "group_en": "G"
+      "group_en": "G",
+      "scans": [
+        "p1-074-1.jpg"
+      ],
+      "text_en": [
+        "It is an honorable lady, clothed in purple, who wears about her neck, in the form of a jewel, a sealed letter. Her face turns toward a lit torch she holds in her left hand, and with her right she grasps the head of a small statue raised upon a pedestal.",
+        "The purple robe befits her, being a mark of honor and dignity, which lends greater majesty and gravity to great Princes.",
+        "The sealed letter she wears about her neck is, as it were, the mark of her nobility, which makes her appear more exalted; and the torch she holds is another mark of her worth, which, suiting only grave and serious matters, serves as a beacon to all the people, giving her the same advantage over them that the Sun has over the lesser lights."
+      ]
     },
     {
       "id": "p1-75",
