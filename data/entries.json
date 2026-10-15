@@ -18,23 +18,33 @@
       "attrs": [
         {
           "what": "Женская фигура в венке из разных цветов, в зелёном платье с золотым шитьём",
-          "meaning": "Изобилие представлено красивой и привлекательной — в противоположность Нужде, которая безобразна по природе и ненавистна всем"
+          "meaning": "Изобилие представлено красивой и привлекательной — в противоположность Нужде, которая безобразна по природе и ненавистна всем",
+          "what_en": "A woman crowned with a garland of various flowers, in a green robe embroidered with gold",
+          "meaning_en": "Abundance is shown beautiful and lovable — unlike her enemy Indigence, who is by nature ugly and hateful to all"
         },
         {
           "what": "Рог Амальтеи (рог изобилия), полный плодов, в правой руке",
-          "meaning": "Античный символ изобилия: по Овидию, нимфы наполнили его цветами и плодами и посвятили бессмертным богам"
+          "meaning": "Античный символ изобилия: по Овидию, нимфы наполнили его цветами и плодами и посвятили бессмертным богам",
+          "what_en": "The horn of Amalthea (cornucopia), full of fruit, in her right hand",
+          "meaning_en": "An ancient symbol of abundance: per Ovid, the Nymphs filled it with flowers and fruit and consecrated it to the immortal gods"
         },
         {
           "what": "Сноп колосьев разных злаков и овощей в левой руке, часть рассыпана по земле",
-          "meaning": "Избыток урожая зерна и плодов"
+          "meaning": "Избыток урожая зерна и плодов",
+          "what_en": "A sheaf of ears of various grains and vegetables in her left hand, partly scattered on the ground",
+          "meaning_en": "The overflow of a harvest of grain and fruit"
         },
         {
           "what": "Венок из цветов на голове",
-          "meaning": "Из цветов рождаются плоды; неизменные спутницы Изобилия — веселье и наслаждение"
+          "meaning": "Из цветов рождаются плоды; неизменные спутницы Изобилия — веселье и наслаждение",
+          "what_en": "A garland of flowers on her head",
+          "meaning_en": "Fruits are born of flowers; mirth and delight are Abundance's inseparable companions"
         },
         {
           "what": "Зелёный и золотисто-жёлтый цвета одежды",
-          "meaning": "Зелёный сулит хороший год, золотисто-жёлтый — хороший урожай, из чего и складывается изобилие"
+          "meaning": "Зелёный сулит хороший год, золотисто-жёлтый — хороший урожай, из чего и складывается изобилие",
+          "what_en": "Green and golden-yellow in her clothing",
+          "meaning_en": "Green promises a fine year, gold a good harvest — together forming abundance"
         }
       ],
       "text_ru": [
@@ -50,6 +60,18 @@
         "Elle porte vne guirlande, pour montrer que des fleurs naissent les fruits, dont elle est la creature, & que l'allegresse & les delices sont ses compagnes inseparables.",
         "Le verd & le jaune doré, qui éclatent sur sa robe, luy sont des couleurs extremement propres, parce que l'vn fait esperer vne belle année, & l'autre vne bonne recolte de grains & de fruits, d'où se forme l'abondance.",
         "Quant à la corne d'Amalthée, qui est si fameuse dans les écrits des Mythologistes, il paroist assez qu'elle est vn symbole de l'Abondance par ces vers du 9. liv. des Metamorphoses d'Ovide, où il est dit: Et de fleurs & de fruits les Nymphes la comblerent, / Puis aux Dieux immortels elles la consacrerent."
+      ],
+      "en": "Abundance",
+      "group_en": "A",
+      "text_en": [
+        "She is depicted here as a comely woman, crowned with a garland of various flowers, and clothed in a green robe embroidered with gold. In her right hand she holds a horn of Amalthea, full of fruits, and in her left a sheaf of ears of several kinds of grain and vegetables, most of which fall scattered upon the ground.",
+        "She is represented as beautiful and lovable, for such indeed she is, whereas her enemy Indigence is by nature ugly and hateful to all the world.",
+        "She wears a garland to show that fruits are born of flowers, of which she is the offspring, and that mirth and delight are her inseparable companions.",
+        "The green and golden yellow that shine upon her robe are colors eminently fitting to her, for the one gives hope of a fine year, and the other of a good harvest of grain and fruit, from which abundance is formed.",
+        "As for the horn of Amalthea, so famous in the writings of the mythologists, it appears plainly enough to be a symbol of Abundance from these verses in the 9th book of Ovid's Metamorphoses, where it is said: With flowers and with fruits the Nymphs did fill it, / Then to the immortal Gods they consecrated it."
+      ],
+      "scans": [
+        "p1-001-1.jpg"
       ]
     },
     {
@@ -69,27 +91,39 @@
       "attrs": [
         {
           "what": "Знатная дама с мужественными, героическими чертами лица, в золотом венце и разноцветном одеянии",
-          "meaning": "Зрелость облика означает, что Академия обладает крепким умом и совершенным знанием, обретённым в спокойную пору жизни"
+          "meaning": "Зрелость облика означает, что Академия обладает крепким умом и совершенным знанием, обретённым в спокойную пору жизни",
+          "what_en": "An illustrious lady with manly, heroic features, a gold crown, and a multicolored garment",
+          "meaning_en": "Her mature appearance shows the Academy has a solid mind and perfect knowledge, gained in life's calmest season"
         },
         {
           "what": "Напильник в правой руке с надписью DETRAHIT ATQUE POLIT («снимает и шлифует»)",
-          "meaning": "Как напильник очищает металл от ржавчины, так академические труды совершенствуются через исправление и отсечение лишнего"
+          "meaning": "Как напильник очищает металл от ржавчины, так академические труды совершенствуются через исправление и отсечение лишнего",
+          "what_en": "A file in her right hand inscribed DETRAHIT ATQUE POLIT (“it strips away and polishes”)",
+          "meaning_en": "As a file clears rust from metal, academic works are perfected by correction and the removal of excess"
         },
         {
           "what": "Гирлянда из лавра, плюща и мирта с двумя плодами граната в левой руке",
-          "meaning": "Лавр, плющ и мирт означают разные роды поэзии (эпическую, дифирамбическую, любовную); плоды граната — взаимное единение академиков"
+          "meaning": "Лавр, плющ и мирт означают разные роды поэзии (эпическую, дифирамбическую, любовную); плоды граната — взаимное единение академиков",
+          "what_en": "A garland of laurel, ivy, and myrtle with two pomegranates in her left hand",
+          "meaning_en": "Laurel, ivy, and myrtle signify the different kinds of poetry (epic, dithyrambic, amorous); the pomegranates signify the mutual union of Academicians"
         },
         {
           "what": "Кресло, украшенное ветвями кедра, кипариса, дуба и оливы",
-          "meaning": "Кедр, кипарис и дуб — иероглифы вечности и нетленности учёных трудов; олива, посвящённая Минерве, означает бдение и учёность"
+          "meaning": "Кедр, кипарис и дуб — иероглифы вечности и нетленности учёных трудов; олива, посвящённая Минерве, означает бдение и учёность",
+          "what_en": "A chair adorned with branches of cedar, cypress, oak, and olive",
+          "meaning_en": "Cedar, cypress, and oak are hieroglyphs of eternity and the incorruptibility of learned works; the olive, sacred to Minerva, signifies vigilance and learning"
         },
         {
           "what": "Сельское место в тени деревьев, где восседает фигура",
-          "meaning": "Напоминание о роще афинянина Академа близ Афин, где собирались Платон и его ученики, давшие имя Академии"
+          "meaning": "Напоминание о роще афинянина Академа близ Афин, где собирались Платон и его ученики, давшие имя Академии",
+          "what_en": "A rural setting in the shade of trees where the figure sits",
+          "meaning_en": "Recalls the grove of the Athenian Academus near Athens, where Plato and his disciples gathered, giving the Academy its name"
         },
         {
           "what": "Обезьяна, резвящаяся у ног среди книг",
-          "meaning": "У египтян обезьяна была мистическим символом словесности и наук, посвящённым Меркурию как их изобретателю"
+          "meaning": "У египтян обезьяна была мистическим символом словесности и наук, посвящённым Меркурию как их изобретателю",
+          "what_en": "A monkey playing at her feet among books",
+          "meaning_en": "To the Egyptians the monkey was a mystical symbol of letters and sciences, dedicated to Mercury as their inventor"
         }
       ],
       "text_ru": [
@@ -127,6 +161,33 @@
         "Et par consequent, qu'vn Academicien qui a ce favorable genie que nul ne peut donner, & qui naist avec nous, ne doit pas laisser de faire la cour à cette Reine des belles pensées, ny de cultiver ses hautes connoissances à force de veilles, dont l'olivier est le symbole. Ce qui luy reüssira, je m'asseure, si heureusement, qu'on ne luy reprochera jamais d'avoir perdu sa peine ny son huile. Car le fruit de ses travaux ne luy sera pas moins doux, que l'est naturellement au goust cette precieuse liqueur que l'on tire des olives. Et comme elle a cela de propre d'exemter les corps de pourriture; ainsi par le moyen de l'estude les ouvrages de l'esprit se conservent incorruptibles contre les injures des années.",
         "L'Academie est assise en vn lieu champestre à l'ombre des arbres, pour memoire de ce qu'elle se tint premierement à la campagne, en vne maison qu'avoit prés d'Athenes vn de ses principaux Citoyens, qu'on appelloit Academus. Ce fut de luy qu'elle prit le nom qui luy est demeuré depuis; estant bien certain que toutes les sectes de ce temps-là prirent le leur, ou des coustumes, ou des lieux, ou des noms propres; comme celle des Cyniques, des Peripateticiens, des Stoïciens, & ainsi des autres. C'estoit donc en la metairie de ce Heros Athenien, où le divin Platon & ses disciples s'assembloient ordinairement avec dessein, comme dit Horace, D'exterminer la fausseté / Pour le salut des Republiques, / Et de chercher la verité / Dedans les bois Academiques.",
         "Et dautant que la lecture des livres est l'ordinaire exercice de l'Academie, c'est pour cela qu'on luy en donne plusieurs, & qu'à ses costez est peint vn singe, animal ingenieux, & qui chez les Egyptiens estoit vne figure mystique des Lettres & des Sciences; à raison dequoy ils le consacroient à Mercure, pour les avoir toutes inventées."
+      ],
+      "en": "The Academy",
+      "group_en": "A",
+      "text_en": [
+        "She may be represented in the figure of an illustrious lady, whose countenance has a certain manly and heroic quality. The crown she wears is of fine gold, and her garment of several colors. In her right hand she holds a file, with these words around it, DETRAHIT ATQUE POLIT [it strips away and polishes]; and in her left a garland made of laurel, ivy, and myrtle, from which hang two pomegranates. Her chair is strewn with the foliage and fruit of various trees, such as cedar, cypress, oak, and olive. Her ordinary dwelling is in a rural place, where she sits in the shade, having at her feet a quantity of books, among which a monkey is playing.",
+        "The manliness of her age and of her beauty shows that, with a solid mind and profound judgment, she possesses a perfect knowledge of good things. The reason is that she conceives them in the calmest season of her life, being subject neither to the levities of youth nor to the heaviness of old age.",
+        "Her crown is of gold, to give us to understand that an Academician who wishes to produce excellent works, and support them with strong thoughts, whose arsenal or storehouse is in the head, as in the intellective part of our mind, must refine them more than once, after the manner of gold, and for that purpose subject them to every kind of trial.",
+        "By the different colors of her robe is denoted the diversity of the sciences that are treated in a learned Academy.",
+        "She holds a file in her hand, to show that just as by means of this tool, the more iron and other metals are worn down, the more they are cleared of rust and cleaned. So the works of the Academy are polished and perfected by dint of being corrected, and having their excesses removed; so much so that, to reduce them to the state they ought to be in, the good Academician must submit them to the judgment of the most skillful, and resolve to say with Ovid: According to the differing opinions / Of those held in some esteem, / I will pass through their file / Even the least words of my verses.",
+        "Her garland is composed of myrtle, laurel, and ivy, inasmuch as by these three plants, which may rightly be called Poetic, are signified the various kinds of Poetry that flourish in an Academy. But myrtle in particular, as consecrated to Love, also serves to crown amorous Poets; which makes Nicander say that Venus had a garland of it when she appeared at the judgment of Paris; and Virgil, that myrtle is pleasing to the mother of Love.",
+        "As for laurel and ivy, all Poets without distinction were crowned with them. Horace attests this in these verses: Ivy is the prize of learned brows.",
+        "And in another place, speaking of the laurel, he says the same: Come, Melpomene, and surround my head / With the Delphic crown.",
+        "Ivy nonetheless seems to me more proper to the Dithyrambic Poets, so called because of the verses they were accustomed to sing in honor of Bacchus: Who delights to mingle ivy with the grapes.",
+        "One may likewise say that laurel suits other Poets less well than it does the Epic poets, who set themselves the goal of describing the heroic deeds of great Warriors and Emperors, who have at all times been crowned with branches of this glorious tree, invincible to lightning. It is for this that Apollo, in the first book of the Metamorphoses, appoints it as a mark of honor for Conquerors, and crowns himself with it as Father of the Poets, to whom he imparts a share of his celestial fire and of that divine fury which animates their thoughts.",
+        "Pomegranates are figures of the mutual union that ought to exist among Academicians. For, according to Pierius, they signify a company of many men joined together and maintaining themselves through good understanding. They were also anciently dedicated to Juno, to whom a pomegranate was given in hand, with the epithet Conservatrix, as may be seen on the reverse of certain ancient medals, where one may read the words JUNO CONSERVATRIX, because this Goddess presided over the union and preservation of peoples.",
+        "On the chair on which the Academy sits are seen carved branches of cedar, cypress, and oak, inasmuch as these trees, which Pierius calls incorruptible, are hieroglyphs of eternity. To this above all true Academicians ought to aspire, saying nothing, if possible, that is not worthy of the cedar, as Persius says, since they truly belong to the number of those whose verses, as if made expressly by Apollo, always smell of cedar, and never of cypress.",
+        "For although the latter of these trees is called fatal and funereal, it does not fail to be free from corruption, and as long-lasting as the oak, which once served as the prize of valor for victors. Witness the Emperor Domitian, who willed that victors should receive from it a crown at the solemn games which he himself founded on the Capitol. But the olive especially, which according to Plato, being oily and full of warmth, keeps its greenness forever, like the laurel, cypress, and ivy, seems to me worthy of preference above all others, and eminently fitting for the Academy. And if you ask me the reason, I shall answer that this plant is dedicated to Minerva, without whom you can neither say nor do anything.",
+        "And consequently, an Academician who has that favorable genius which no one can bestow, and which is born with us, ought not to fail to court this Queen of fine thoughts, nor to cultivate her lofty knowledge by dint of vigils, of which the olive is the symbol. In this he will succeed, I am sure, so happily that he will never be reproached for having wasted his labor or his oil. For the fruit of his labors will be no less sweet to him than that precious liquor drawn from olives is naturally sweet to the taste. And as oil has the property of preserving bodies from decay, so by means of study the works of the mind are kept incorruptible against the injuries of the years.",
+        "The Academy sits in a rural place in the shade of trees, in memory of the fact that she first held her meetings in the country, in a house near Athens belonging to one of its chief Citizens, called Academus. It was from him that she took the name that has remained hers ever since; for it is quite certain that all the sects of that time took theirs either from customs, or from places, or from proper names, as did those of the Cynics, the Peripatetics, the Stoics, and so on for the rest. It was, then, on the estate of this Athenian Hero that the divine Plato and his disciples ordinarily assembled, with the purpose, as Horace says, of exterminating falsehood / for the welfare of Republics, / and of seeking truth / within the Academic groves.",
+        "And inasmuch as the reading of books is the ordinary exercise of the Academy, she is therefore given many of them, and at her side is painted a monkey, an ingenious animal, which among the Egyptians was a mystical figure of Letters and Sciences; for which reason they consecrated it to Mercury, as the inventor of them all."
+      ],
+      "scans": [
+        "p1-002-1.jpg",
+        "p1-002-2.jpg",
+        "p1-002-3.jpg",
+        "p1-002-4.jpg",
+        "p1-002-5.jpg"
       ]
     },
     {
@@ -146,23 +207,33 @@
       "attrs": [
         {
           "what": "Мужская фигура в расцвете сил, с лучистым венцом (как у Аполлона) и гирляндой из амаранта",
-          "meaning": "Красота и соразмерность тела — знак прекрасных качеств души; лучистый венец означает, что добродетельное деяние, подобно солнцу, не может остаться скрытым"
+          "meaning": "Красота и соразмерность тела — знак прекрасных качеств души; лучистый венец означает, что добродетельное деяние, подобно солнцу, не может остаться скрытым",
+          "what_en": "A man in the flower of youth, with a radiant crown (like Apollo's) and a garland of amaranth",
+          "meaning_en": "Beauty and proportion of body are signs of a fine soul; the radiant crown shows that a virtuous deed, like the sun, cannot stay hidden"
         },
         {
           "what": "Императорская мантия из чистого золота поверх позолоченных доспехов",
-          "meaning": "Богатство облачения означает, что великие деяния свойственны лишь благородным, великодушным душам"
+          "meaning": "Богатство облачения означает, что великие деяния свойственны лишь благородным, великодушным душам",
+          "what_en": "An Imperial mantle of fine gold over gilded armor",
+          "meaning_en": "Such rich attire shows that great deeds belong only to noble, generous souls"
         },
         {
           "what": "Копьё, которым фигура поражает голову страшного змея",
-          "meaning": "Оружие означает борьбу добродетели с пороком — ядовитым змеем, чью голову герой сокрушает"
+          "meaning": "Оружие означает борьбу добродетели с пороком — ядовитым змеем, чью голову герой сокрушает",
+          "what_en": "A lance with which the figure strikes the head of a dreadful serpent",
+          "meaning_en": "The weapon signifies virtue's struggle against vice — the venomous serpent whose head the hero crushes"
         },
         {
           "what": "Книга в левой руке и человеческий череп под ногой",
-          "meaning": "Занятие науками наравне с оружием бессмертит человека: его имя и доблесть побеждают забвение и смерть"
+          "meaning": "Занятие науками наравне с оружием бессмертит человека: его имя и доблесть побеждают забвение и смерть",
+          "what_en": "A book in his left hand and a human skull beneath his foot",
+          "meaning_en": "The pursuit of letters, no less than arms, immortalizes a man: his name and valor conquer oblivion and death"
         },
         {
           "what": "Гирлянда из амаранта — цветка, не теряющего окраску зимой",
-          "meaning": "Добродетельный человек никогда не утрачивает своих благородных качеств, а по смерти продолжает жить в памяти потомков"
+          "meaning": "Добродетельный человек никогда не утрачивает своих благородных качеств, а по смерти продолжает жить в памяти потомков",
+          "what_en": "A garland of amaranth, a flower that keeps its color through winter",
+          "meaning_en": "The virtuous man never loses his noble qualities, and lives on in the memory of posterity after death"
         }
       ],
       "text_ru": [
@@ -182,6 +253,22 @@
         "Les grandes preuves de sa vertu sont figurées par les armes qu'on luy donne; parce qu'en quelque temps que ce soit, il les employe à combattre le vice son ennemy, qui est ce venimeux serpent, auquel il écraze la teste. Par où il est encore montré, qu'il faut sçavoir joindre l'effet à la volonté en matiere de vertu, puisqu'il est veritable qu'elle consiste en l'action, & que c'est vne Maistresse incorruptible, qui ne peut souffrir les approches d'vn Amant, s'il n'est genereux & honneste homme.",
         "La riche tissure de son manteau Imperial nous enseigne, ce me semble, qu'il est difficile que les personnes de basse naissance, & qui vivent mecaniquement, puissent faire des actions illustres, puisqu'à vray dire elles ne sont communes qu'aux grands courages, & a ceux qu'vn genie particulier a separez des ames vulgaires.",
         "Et dautant que l'exercice des Lettres n'est pas moins capable d'immortaliser vn homme, que celuy des armes, c'est pour cela qu'on luy fait tenir vn livre de la main gauche, & vne teste de mort sous le pied, pour nous apprendre que ceux qui excellent en l'vne & en l'autre de ces nobles professions ne voyent jamais le fleuve d'oubly, Et que malgré Caron, qui les prend dans sa barque, / Leur nom & leur vertu triomphent de la Parque."
+      ],
+      "en": "Virtuous Act",
+      "group_en": "A",
+      "text_en": [
+        "All that virtuous actions have of the greatest and most illustrious is comprised in this image. It is the depiction of a man who has nothing extraordinary about him, and in whom the flower of youth, beauty, comeliness, and the just proportions of every part of the body are the masterpiece of nature. On his head he wears a crown of rays, like that of Apollo, and a garland of amaranth. Beneath the Imperial mantle, which he wears gathered up on his shoulders and which is woven of fine gold, gilded armor likewise shines forth. Into the head of a dreadful serpent that he has just fought, he thrusts with his right hand the iron point of a lance, and holds a book in his left, trampling a skull under one of his feet.",
+        "By this emblem it is shown that the chief of all human actions is that which is done through arms and through the study of good Letters. For since, according to Aristotle, it is in the flower of his age that man acquires the true knowledge of the virtues, for this same reason a perfect manliness is attributed to this Hero whom we depict. As for the advantages of stature, comeliness, and beauty remarked throughout his body, they are, in my opinion, evident signs and undoubted proof of the fine qualities of his soul. Aristotle attests this when he says that the outward is a sure sign of the inward; and such too is the view of Virgil, when he tells us: That the virtue of the soul shines forth the more / When it flashes from the features of a fair face.",
+        "The resplendent crown that surrounds his head signifies that, just as by the force of its rays the sun illumines every place through which it passes, so a virtuous action cannot be hidden, and renders its author illustrious, in whatever part of the world it is performed. The virtue that is highest and most esteemed / Is that by which a man increases his renown / Through his own exploits, etc.",
+        "To the crown of our Hero a garland of amaranth is not joined without reason, because this flower never loses its natural beauty, and the rigor of winter, however violent it may be, is not able to harm it, nor to dim in the least the brightness of its vivid color. The virtuous man likewise never degenerates from those noble qualities that place him in the esteem of honest people. On the contrary, when he is no longer in this world, his fine actions bring him back to life in it, and preciously preserve his memory, rendering it venerable to future ages.",
+        "The great proofs of his virtue are figured by the arms that are given him; because at whatever time it may be, he employs them to fight vice, his enemy, who is that venomous serpent whose head he crushes. By this it is further shown that one must know how to join deed to will in the matter of virtue, since it is true that virtue consists in action, and that she is an incorruptible Mistress, who cannot suffer the advances of a Suitor unless he is generous and an honest man.",
+        "The rich weave of his Imperial mantle teaches us, it seems to me, that it is difficult for persons of low birth, who live by mechanical trades, to perform illustrious actions, since, to tell the truth, these are common only to great hearts, and to those whom a particular genius has set apart from vulgar souls.",
+        "And inasmuch as the pursuit of Letters is no less capable of immortalizing a man than that of arms, he is therefore made to hold a book in his left hand, and a skull beneath his foot, to teach us that those who excel in either of these noble professions never see the river of oblivion, and that, in spite of Charon, who takes them into his boat, / Their name and their virtue triumph over the Fates."
+      ],
+      "scans": [
+        "p1-003-1.jpg",
+        "p1-003-2.jpg",
+        "p1-003-3.jpg"
       ]
     },
     {
@@ -201,19 +288,27 @@
       "attrs": [
         {
           "what": "Женщина в белом платье без украшений, с обнажённой грудью и плечом, босая",
-          "meaning": "Белый цвет и простота одежды означают откровенность дружбы, чуждую хитрости и притворства; нагота ног — готовность терпеть любые тяготы ради друга"
+          "meaning": "Белый цвет и простота одежды означают откровенность дружбы, чуждую хитрости и притворства; нагота ног — готовность терпеть любые тяготы ради друга",
+          "what_en": "A woman in a plain white robe, her breast and shoulder bare, barefoot",
+          "meaning_en": "The white, unadorned dress signifies the candor of friendship, which admits no artifice or disguise; bare feet show her readiness to endure any hardship for a friend"
         },
         {
           "what": "Надпись на сердце LONGE ET PROPE («вдали и вблизи») и на подоле MORS ET VITA («смерть и жизнь»)",
-          "meaning": "Истинный друг неразлучен с любимым человеком во все времена и при любой перемене судьбы, вплоть до смерти"
+          "meaning": "Истинный друг неразлучен с любимым человеком во все времена и при любой перемене судьбы, вплоть до смерти",
+          "what_en": "The inscription LONGE ET PROPE (“far and near”) on her heart, and MORS ET VITA (“death and life”) on her hem",
+          "meaning_en": "A true friend is inseparable from the one they love at all times and through every turn of fortune, even unto death"
         },
         {
           "what": "Гирлянда из мирта и цветов гранатника с надписью HYEMS ET ÆSTAS («зима и лето»)",
-          "meaning": "Единение воль друзей, чей плод — добрые дела — неизбежно становится явным, подобно аромату цветов"
+          "meaning": "Единение воль друзей, чей плод — добрые дела — неизбежно становится явным, подобно аромату цветов",
+          "what_en": "A garland of myrtle and pomegranate blossom inscribed HYEMS ET ÆSTAS (“winter and summer”)",
+          "meaning_en": "The union of friends' wills, whose fruit — good deeds — inevitably becomes apparent, like a fragrance"
         },
         {
           "what": "Сухой вяз, обвитый виноградной лозой, в левой руке",
-          "meaning": "Дружба должна проявляться как в несчастье (сухое дерево), так и в благополучии (цветущая лоза) — друг всегда находит способ отплатить добром"
+          "meaning": "Дружба должна проявляться как в несчастье (сухое дерево), так и в благополучии (цветущая лоза) — друг всегда находит способ отплатить добром",
+          "what_en": "A dry elm entwined with a vine shoot in her left hand",
+          "meaning_en": "Friendship must show itself both in misfortune (the bare tree) and in prosperity (the flowering vine) — a friend always finds a way to repay kindness"
         }
       ],
       "text_ru": [
@@ -229,6 +324,20 @@
         "Les differentes devises qui se lisent sur son corps, & qui en sont comme l'ame, signifient qu'vn parfait amy prés ou loin de la personne aimée, en est en tout temps inseparable: car pour grand que soit le changement de la fortune, ou bonne, ou mauvaise, il est tres-content de vivre & de mourir pour les interests d'vne veritable affection. Que s'il arrive qu'elle soit feinte, il ne faut que le moindre revers pour la faire fondre tout à l'instant, comme la neige au soleil.",
         "Quant à sa guirlande faite de myrthe & de fleurs de grenadier, elle est vn symbole de l'vnion des volontez, le fruit desquelles, quelque caché qu'il soit au dedans, ne laisse pas de paroistre enfin; n'estant pas possible qu'il ne s'en exhale de bonnes odeurs, par les exemples & les actions honorables de ceux qui les cueillent. En quoy toutesfois il ne faut pas qu'il y ait aucune marque d'ostentation ny de pompeuse apparence. Car on ne peut mettre en doute, que l'vne & l'autre ne soient bien souvent les masques de la flatterie la plus servile, celle-cy est asseurément contraire à vne amitié sans fard, & son irreconciliable ennemie.",
         "On peint encore cette Vertu nuë par les pieds, parce qu'il n'est point d'incommodité qu'elle n'endure pour le service de son amy: & on luy fait pareillement embrasser vn ormeau sec, entouré d'vn sep de vigne, afin de donner à connoistre par là, que l'Amitié ne doit pas moins paroistre dans les disgraces que dans les succés favorables, & qu'il n'est point d'amy si peu vtile, qui ne puisse en quelque façon trouver dequoy s'acquitter des courtoisies & des effets de bienveillance qu'au besoin on luy témoigne."
+      ],
+      "en": "Friendship",
+      "group_en": "A",
+      "text_en": [
+        "Here is the image of Friendship, whom Aristotle defines as a mutual correspondence of affections between persons of like temper, who always take reason and virtue for their guides. She is simply clothed in a white robe; and her left shoulder is almost as bare as her fair bosom, which she leaves entirely uncovered. Her garland is of myrtle leaves and pomegranate blossoms intertwined, with these words above it, HYEMS ET ÆSTAS, which signify Winter and Summer. With her right hand she points to her heart, on which are written in letters of gold the words LONGE ET PROPE, far and near, and these at the hem of her robe, MORS ET VITA, Death and Life. She delights in the bareness of her feet, and grasps with her left hand a dry elm, encircled by a vine shoot.",
+        "The livery of sincere Friendship is always white, and her garment without ornament, as a mark of her candor, which can suffer neither artifice nor disguise.",
+        "The various mottoes read upon her body, which are as it were her soul, signify that a perfect friend, near or far from the person loved, is at all times inseparable from them; for however great the change of fortune, good or bad, she is quite content to live and die for the interests of a true affection. But should it happen that this affection is feigned, the least reversal is enough to melt it away in an instant, like snow in the sun.",
+        "As for her garland of myrtle and pomegranate blossoms, it is a symbol of the union of wills, the fruit of which, however hidden within, does not fail to appear in the end; it being impossible that it should not give off a sweet fragrance, through the examples and honorable actions of those who gather them. In this, however, there must be no mark of ostentation or pompous show. For it cannot be doubted that both the one and the other are very often but the masks of the most servile flattery, which is assuredly contrary to an unfeigned friendship, and its irreconcilable enemy.",
+        "This Virtue is also painted barefoot, because there is no hardship she will not endure in the service of her friend: and she is likewise made to embrace a dry elm, encircled by a vine shoot, so as to make known thereby that Friendship must show itself no less in misfortunes than in favorable successes, and that there is no friend so little useful that he cannot find some way to repay, in time of need, the courtesies and tokens of goodwill shown to him."
+      ],
+      "scans": [
+        "p1-004-1.jpg",
+        "p1-004-2.jpg",
+        "p1-004-3.jpg"
       ]
     },
     {
@@ -248,15 +357,21 @@
       "attrs": [
         {
           "what": "Сидящий крылатый младенец (Купидон) без факела, попирающий ногами лук и стрелы",
-          "meaning": "Угасшая, укрощённая Любовь — отсутствие факела означает, что страсть погасла"
+          "meaning": "Угасшая, укрощённая Любовь — отсутствие факела означает, что страсть погасла",
+          "what_en": "A seated winged child (Cupid) without a torch, trampling his bow and arrows",
+          "meaning_en": "Love extinguished and subdued — the missing torch shows that passion has gone out"
         },
         {
           "what": "Песочные часы в правой руке",
-          "meaning": "Время умеряет тревоги души и угашает любовную страсть, так как красота возлюбленной меняется с годами"
+          "meaning": "Время умеряет тревоги души и угашает любовную страсть, так как красота возлюбленной меняется с годами",
+          "what_en": "An hourglass in his right hand",
+          "meaning_en": "Time moderates the soul's anxieties and quenches love's passion, since a mistress's beauty changes with the years"
         },
         {
           "what": "Истощённая птица (малый нырок) в левой руке",
-          "meaning": "Бедность, подобно этой слабой птице, не способной свить своё гнездо, укрощает любовника, промотавшего молодость и достояние на безрассудную страсть"
+          "meaning": "Бедность, подобно этой слабой птице, не способной свить своё гнездо, укрощает любовника, промотавшего молодость и достояние на безрассудную страсть",
+          "what_en": "A wasted bird (a little diver) in his left hand",
+          "meaning_en": "Poverty, like this feeble bird unable to build its own nest, tames the lover who has squandered youth and fortune on a foolish passion"
         }
       ],
       "text_ru": [
@@ -274,6 +389,21 @@
         "Aux deux remedes d'Amour que nous venons de donner, le severe Cratés, Philosophe Thebain, en ajoûte vn troisiéme, qui est le desespoir. Mais bien qu'en effet quelques Amans ayent voulu recourir à luy, aprés n'avoir pû jouïr de la chose aimée; si est-ce qu'ils n'ont pas esté si foibles d'esprit, que de se precipiter à la mort toutes les fois qu'ils l'ont invoquée. C'est le reproche que fait Amarillis à son Myrtille, lorsque l'oyant parler de mourir pour mettre fin à ses peines, elle luy répond, C'est en vain qu'vn Amant par vne fausse envie, / S'arme contre sa vie; / Et qu'en sa passion il veut faire son port / Des écueils de la mort; / Infidelle qu'il est, il dément sa pensée / D'vne bouche insensée, / Et trahit son amour, lorsque pour en guerir / Il dit qu'il veut mourir.",
         "Voilà ce qu'il en semble au Cavalier Guarini, la pensée duquel approche fort de celle-cy du Tasso dans son Aminte, Le discours de la mort est celuy d'vn Amant; / Et toutesfois l'effet s'en ensuit rarement.",
         "Il n'est donc pas besoin de reduire l'Amour au desespoir, qui est le pire de tous les maux, puisque nous avons montré que le temps & la pauvreté suffisent pour le dompter, & le mettre à la raison, quelque mauvais qu'il puisse estre."
+      ],
+      "en": "Love Subdued",
+      "group_en": "A",
+      "text_en": [
+        "It is a seated Cupid, whose torch is nowhere to be seen, and who tramples underfoot his bow and arrows. In his right hand he holds an hourglass, and in his left the bird commonly called the little diver, which is extremely lean and wasted.",
+        "Time and poverty are the two things most capable of extinguishing Love. For this reason an hourglass is placed in his hand, the true symbol of time, by which the anxieties of the mind and the passions of the soul are moderated. But it remedies above all the passion of Love, because, its aim being the enjoyment of a beautiful mistress, it must needs be that, as her beauty changes with the passing of the years, desire changes too, and the soul turns to other thoughts.",
+        "Poverty produces the same effect; and experience shows us that there is no Lover whom misery does not tame, after he has, in satisfying his foolish passions, lost his youth and squandered his best substance. This poor Love that we describe here is exemplified by the wretched bird upon his fist: it is a kind of diver that the Greeks call kinklos, which according to Suidas is so feeble that, lacking the strength to build itself a nest, it is forced to go and hatch its young in the nests of other birds.",
+        "To the two remedies for Love that we have just given, the stern Crates, the Theban Philosopher, adds a third, which is despair. But although in truth some Lovers have wished to resort to it, after having been unable to enjoy the thing beloved, they have nevertheless not been so weak of spirit as to rush to death every time they have invoked it. This is the reproach Amaryllis makes to her Myrtillo, when, hearing him speak of dying to put an end to his sufferings, she answers him: In vain does a Lover, from a false desire, / Arm himself against his own life; / And in his passion seek to make his harbor / Among the reefs of death; / Faithless as he is, he belies his own thought / With a senseless mouth, / And betrays his love, when, to be cured of it, / He says he wishes to die.",
+        "Such is the view of the Cavalier Guarini, whose thought closely approaches this one of Tasso's in his Aminta: The talk of death is that of a Lover; / Yet the deed seldom follows it.",
+        "There is, then, no need to reduce Love to despair, which is the worst of all ills, since we have shown that time and poverty suffice to tame it, and bring it to reason, however bad it may be."
+      ],
+      "scans": [
+        "p1-005-1.jpg",
+        "p1-005-2.jpg",
+        "p1-005-3.jpg"
       ]
     },
     {
@@ -293,15 +423,21 @@
       "attrs": [
         {
           "what": "Крылатый юноша с венком из лавра на голове и двумя гирляндами лавра в руках",
-          "meaning": "Среди всех видов Любви, изображаемых поэтами, Любовь Добродетели — самая превосходная и славная"
+          "meaning": "Среди всех видов Любви, изображаемых поэтами, Любовь Добродетели — самая превосходная и славная",
+          "what_en": "A winged youth with a laurel wreath on his head and two laurel garlands in his hands",
+          "meaning_en": "Among all the kinds of Love depicted by the poets, the Love of Virtue is the most excellent and illustrious"
         },
         {
           "what": "Лавровые гирлянды (нетленная зелень)",
-          "meaning": "Эта Любовь нетленна и не имеет границ, как вечно зелёный лавр"
+          "meaning": "Эта Любовь нетленна и не имеет границ, как вечно зелёный лавр",
+          "what_en": "Laurel garlands (evergreen foliage)",
+          "meaning_en": "A sign that this Love is incorruptible and without bounds, like the ever-green laurel"
         },
         {
           "what": "Венец сферической формы на голове",
-          "meaning": "Сферическая форма означает вечность Любви к Добродетели"
+          "meaning": "Сферическая форма означает вечность Любви к Добродетели",
+          "what_en": "A spherical crown upon his head",
+          "meaning_en": "The spherical form signifies the eternity of the Love of Virtue"
         }
       ],
       "text_ru": [
@@ -309,7 +445,16 @@
       ],
       "text_fr": [
         "Il est icy figuré par vn enfant qui a des aisles au dos, & quatre guirlandes de laurier, l'vne sur la teste, & les trois autres en ses deux mains. Cela veut dire, si je ne me trompe, qu'entre tant d'Amours de nature differente, que les Poëtes ont pris plaisir à nous dépeindre, il ne s'en trouve point de plus excellent, ny de plus illustre que celuy de la Vertu. Aussi est-il vray qu'elle a de merveilleux charmes, & vn empire absolu sur toutes les choses du monde. Les guirlandes qu'elle porte sont les vrayes marques de cette haute preéminence, qui luy est legitimement deuë. Et comme le laurier qui en est la glorieuse matiere, ne perd jamais sa verdure; ainsi peut-on asseurer, que l'Amour de cette Reine est incorruptible & sans bornes, aussi bien que la couronne de sa teste, qui signifie l'eternité par sa figure spherique."
-      ]
+      ],
+      "en": "Virtuous Love",
+      "group_en": "A",
+      "text_en": [
+        "He is here figured as a child with wings on his back, and four garlands of laurel, one upon his head, and the other three in his two hands. This means, if I am not mistaken, that among so many Loves of different nature, which the Poets have taken pleasure in depicting for us, none is found more excellent, nor more illustrious, than that of Virtue. It is indeed true that she possesses marvelous charms, and an absolute dominion over all things in the world. The garlands she wears are the true marks of that high preeminence which is rightfully owed to her. And as the laurel, which is their glorious material, never loses its greenness, so it may be affirmed that the Love of this Queen is incorruptible and without bounds, just as is the crown upon her head, which by its spherical shape signifies eternity."
+      ],
+      "scans": [
+        "p1-006-1.jpg"
+      ],
+      "caption": "Amour de vertu"
     },
     {
       "id": "p1-7",
@@ -325,7 +470,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Courteous Soul",
+      "group_en": "A"
     },
     {
       "id": "p1-8",
@@ -341,7 +488,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Agriculture",
+      "group_en": "A"
     },
     {
       "id": "p1-9",
@@ -357,7 +506,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Divine Love",
+      "group_en": "A"
     },
     {
       "id": "p1-10",
@@ -373,7 +524,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Love of One's Country",
+      "group_en": "A"
     },
     {
       "id": "p1-11",
@@ -389,7 +542,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Blessed Soul",
+      "group_en": "A"
     },
     {
       "id": "p1-12",
@@ -405,7 +560,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Art",
+      "group_en": "A"
     },
     {
       "id": "p1-13",
@@ -421,7 +578,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Artifice",
+      "group_en": "A"
     },
     {
       "id": "p1-14",
@@ -437,7 +596,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Assiduity",
+      "group_en": "A"
     },
     {
       "id": "p1-15",
@@ -453,7 +614,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Astrology",
+      "group_en": "A"
     },
     {
       "id": "p1-16",
@@ -469,7 +632,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Authority",
+      "group_en": "A"
     },
     {
       "id": "p1-17",
@@ -485,7 +650,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Dawn",
+      "group_en": "A"
     },
     {
       "id": "p1-18",
@@ -501,7 +668,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Avarice",
+      "group_en": "A"
     },
     {
       "id": "p1-19",
@@ -517,7 +686,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Feminine Beauty",
+      "group_en": "B"
     },
     {
       "id": "p1-20",
@@ -533,7 +704,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Celestial Beauty",
+      "group_en": "B"
     },
     {
       "id": "p1-21",
@@ -549,7 +722,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Benevolence",
+      "group_en": "B"
     },
     {
       "id": "p1-22",
@@ -565,7 +740,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Benignity",
+      "group_en": "B"
     },
     {
       "id": "p1-23",
@@ -581,7 +758,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Goodness",
+      "group_en": "B"
     },
     {
       "id": "p1-24",
@@ -597,7 +776,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Good Omen",
+      "group_en": "B"
     },
     {
       "id": "p1-25",
@@ -613,7 +794,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Chastity",
+      "group_en": "C"
     },
     {
       "id": "p1-26",
@@ -629,7 +812,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Celerity, or Swiftness",
+      "group_en": "C"
     },
     {
       "id": "p1-27",
@@ -645,7 +830,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Concord",
+      "group_en": "C"
     },
     {
       "id": "p1-28",
@@ -661,7 +848,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Confidence",
+      "group_en": "C"
     },
     {
       "id": "p1-29",
@@ -677,7 +866,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Knowledge",
+      "group_en": "C"
     },
     {
       "id": "p1-30",
@@ -693,7 +884,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Counsel",
+      "group_en": "C"
     },
     {
       "id": "p1-31",
@@ -709,7 +902,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Constancy",
+      "group_en": "C"
     },
     {
       "id": "p1-32",
@@ -725,7 +920,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Conscience",
+      "group_en": "C"
     },
     {
       "id": "p1-33",
@@ -741,7 +938,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Conversation",
+      "group_en": "C"
     },
     {
       "id": "p1-34",
@@ -757,7 +956,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Correction",
+      "group_en": "C"
     },
     {
       "id": "p1-35",
@@ -773,7 +974,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Courtesy",
+      "group_en": "C"
     },
     {
       "id": "p1-36",
@@ -789,7 +992,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Curiosity",
+      "group_en": "C"
     },
     {
       "id": "p1-37",
@@ -805,7 +1010,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Desire toward God",
+      "group_en": "D"
     },
     {
       "id": "p1-38",
@@ -821,7 +1028,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Dialectic",
+      "group_en": "D"
     },
     {
       "id": "p1-39",
@@ -837,7 +1046,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Dignity",
+      "group_en": "D"
     },
     {
       "id": "p1-40",
@@ -853,7 +1064,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Diligence",
+      "group_en": "D"
     },
     {
       "id": "p1-41",
@@ -869,7 +1082,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Distinction of Good and Evil",
+      "group_en": "D"
     },
     {
       "id": "p1-42",
@@ -885,7 +1100,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Learning",
+      "group_en": "D"
     },
     {
       "id": "p1-43",
@@ -901,7 +1118,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Doubt",
+      "group_en": "D"
     },
     {
       "id": "p1-44",
@@ -917,7 +1136,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Discretion",
+      "group_en": "D"
     },
     {
       "id": "p1-45",
@@ -933,7 +1154,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Divinity",
+      "group_en": "D"
     },
     {
       "id": "p1-46",
@@ -949,7 +1172,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Sorrow, Pain",
+      "group_en": "D"
     },
     {
       "id": "p1-47",
@@ -965,7 +1190,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Household Management",
+      "group_en": "E"
     },
     {
       "id": "p1-48",
@@ -981,7 +1208,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Equality",
+      "group_en": "E"
     },
     {
       "id": "p1-49",
@@ -997,7 +1226,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Eloquence",
+      "group_en": "E"
     },
     {
       "id": "p1-50",
@@ -1013,7 +1244,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Error",
+      "group_en": "E"
     },
     {
       "id": "p1-51",
@@ -1029,7 +1262,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Study",
+      "group_en": "E"
     },
     {
       "id": "p1-52",
@@ -1045,7 +1280,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Hope",
+      "group_en": "E"
     },
     {
       "id": "p1-53",
@@ -1061,7 +1298,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Eternity",
+      "group_en": "E"
     },
     {
       "id": "p1-54",
@@ -1077,7 +1316,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Exercise",
+      "group_en": "E"
     },
     {
       "id": "p1-55",
@@ -1093,7 +1334,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Exile",
+      "group_en": "E"
     },
     {
       "id": "p1-56",
@@ -1109,7 +1352,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Experience",
+      "group_en": "E"
     },
     {
       "id": "p1-57",
@@ -1125,7 +1370,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Favor",
+      "group_en": "F"
     },
     {
       "id": "p1-58",
@@ -1141,7 +1388,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Eternal Felicity",
+      "group_en": "F"
     },
     {
       "id": "p1-59",
@@ -1157,7 +1406,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Fecundity",
+      "group_en": "F"
     },
     {
       "id": "p1-60",
@@ -1173,7 +1424,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Firmness of Speech",
+      "group_en": "F"
     },
     {
       "id": "p1-61",
@@ -1189,7 +1442,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Firmness of Love",
+      "group_en": "F"
     },
     {
       "id": "p1-62",
@@ -1205,7 +1460,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Fidelity",
+      "group_en": "F"
     },
     {
       "id": "p1-63",
@@ -1221,7 +1478,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Flattery",
+      "group_en": "F"
     },
     {
       "id": "p1-64",
@@ -1237,7 +1496,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Christian Faith",
+      "group_en": "F"
     },
     {
       "id": "p1-65",
@@ -1253,7 +1514,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Strength",
+      "group_en": "F"
     },
     {
       "id": "p1-66",
@@ -1269,7 +1532,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Strength of Love by Sea and Land",
+      "group_en": "F"
     },
     {
       "id": "p1-67",
@@ -1285,7 +1550,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Generosity",
+      "group_en": "G"
     },
     {
       "id": "p1-68",
@@ -1301,7 +1568,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Genius",
+      "group_en": "G"
     },
     {
       "id": "p1-69",
@@ -1317,7 +1586,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Glory",
+      "group_en": "G"
     },
     {
       "id": "p1-70",
@@ -1333,7 +1604,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Glory of Princes",
+      "group_en": "G"
     },
     {
       "id": "p1-71",
@@ -1349,7 +1622,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Grace of God",
+      "group_en": "G"
     },
     {
       "id": "p1-72",
@@ -1365,7 +1640,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Grammar",
+      "group_en": "G"
     },
     {
       "id": "p1-73",
@@ -1381,7 +1658,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Gratitude, or Thankfulness",
+      "group_en": "G"
     },
     {
       "id": "p1-74",
@@ -1397,7 +1676,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Gravity",
+      "group_en": "G"
     },
     {
       "id": "p1-75",
@@ -1413,7 +1694,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Harmony",
+      "group_en": "H"
     },
     {
       "id": "p1-76",
@@ -1429,7 +1712,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "History",
+      "group_en": "H"
     },
     {
       "id": "p1-77",
@@ -1445,7 +1730,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Hospitality",
+      "group_en": "H"
     },
     {
       "id": "p1-78",
@@ -1461,7 +1748,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Humility",
+      "group_en": "H"
     },
     {
       "id": "p1-79",
@@ -1477,7 +1766,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Inclination",
+      "group_en": "I"
     },
     {
       "id": "p1-80",
@@ -1493,7 +1784,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Inconstancy",
+      "group_en": "I"
     },
     {
       "id": "p1-81",
@@ -1509,7 +1802,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Imagination",
+      "group_en": "I"
     },
     {
       "id": "p1-82",
@@ -1525,7 +1820,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Natural Instinct",
+      "group_en": "I"
     },
     {
       "id": "p1-83",
@@ -1541,7 +1838,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Intelligence",
+      "group_en": "I"
     },
     {
       "id": "p1-84",
@@ -1557,7 +1856,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Intention",
+      "group_en": "I"
     },
     {
       "id": "p1-85",
@@ -1573,7 +1874,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Lassitude",
+      "group_en": "L"
     },
     {
       "id": "p1-86",
@@ -1589,7 +1892,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Liberty",
+      "group_en": "L"
     },
     {
       "id": "p1-87",
@@ -1605,7 +1910,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Liberality",
+      "group_en": "L"
     },
     {
       "id": "p1-88",
@@ -1621,7 +1928,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Free Will",
+      "group_en": "L"
     },
     {
       "id": "p1-89",
@@ -1637,7 +1946,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Logic",
+      "group_en": "L"
     },
     {
       "id": "p1-90",
@@ -1653,7 +1964,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Praise",
+      "group_en": "L"
     },
     {
       "id": "p1-91",
@@ -1669,7 +1982,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Meekness",
+      "group_en": "M"
     },
     {
       "id": "p1-92",
@@ -1685,7 +2000,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Marriage",
+      "group_en": "M"
     },
     {
       "id": "p1-93",
@@ -1701,7 +2018,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Mathematics",
+      "group_en": "M"
     },
     {
       "id": "p1-94",
@@ -1717,7 +2036,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Meditation",
+      "group_en": "M"
     },
     {
       "id": "p1-95",
@@ -1733,7 +2054,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Medicine",
+      "group_en": "M"
     },
     {
       "id": "p1-96",
@@ -1749,7 +2072,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Memory",
+      "group_en": "M"
     },
     {
       "id": "p1-97",
@@ -1765,7 +2090,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Memory of Benefits Received",
+      "group_en": "M"
     },
     {
       "id": "p1-98",
@@ -1781,7 +2108,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Merit",
+      "group_en": "M"
     },
     {
       "id": "p1-99",
@@ -1797,7 +2126,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Measure",
+      "group_en": "M"
     },
     {
       "id": "p1-100",
@@ -1813,7 +2144,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Metaphysics",
+      "group_en": "M"
     },
     {
       "id": "p1-101",
@@ -1829,7 +2162,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Mercy",
+      "group_en": "M"
     },
     {
       "id": "p1-102",
@@ -1845,7 +2180,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Modesty",
+      "group_en": "M"
     },
     {
       "id": "p1-103",
@@ -1861,7 +2198,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Death",
+      "group_en": "M"
     },
     {
       "id": "p1-104",
@@ -1877,7 +2216,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Music",
+      "group_en": "M"
     },
     {
       "id": "p1-105",
@@ -1893,7 +2234,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Nature",
+      "group_en": "N"
     },
     {
       "id": "p1-106",
@@ -1909,7 +2252,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Necessity",
+      "group_en": "N"
     },
     {
       "id": "p1-107",
@@ -1925,7 +2270,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Nobility",
+      "group_en": "N"
     },
     {
       "id": "p1-108",
@@ -1941,7 +2288,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Nonchalance",
+      "group_en": "N"
     },
     {
       "id": "p1-109",
@@ -1957,7 +2306,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Obedience",
+      "group_en": "O"
     },
     {
       "id": "p1-110",
@@ -1973,7 +2324,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Manifest Work",
+      "group_en": "O"
     },
     {
       "id": "p1-111",
@@ -1989,7 +2342,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Perfect Work",
+      "group_en": "O"
     },
     {
       "id": "p1-112",
@@ -2005,7 +2360,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Prayer",
+      "group_en": "O"
     },
     {
       "id": "p1-113",
@@ -2021,7 +2378,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Origin of Love",
+      "group_en": "O"
     },
     {
       "id": "p1-114",
@@ -2037,7 +2396,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Forgetting of Love",
+      "group_en": "O"
     },
     {
       "id": "p1-115",
@@ -2053,7 +2414,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Peace",
+      "group_en": "P"
     },
     {
       "id": "p1-116",
@@ -2069,7 +2432,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Parsimony, or Thrift",
+      "group_en": "P"
     },
     {
       "id": "p1-117",
@@ -2085,7 +2450,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Passion of Love",
+      "group_en": "P"
     },
     {
       "id": "p1-118",
@@ -2101,7 +2468,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Patience",
+      "group_en": "P"
     },
     {
       "id": "p1-119",
@@ -2117,7 +2486,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Poverty",
+      "group_en": "P"
     },
     {
       "id": "p1-120",
@@ -2133,7 +2504,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Sin",
+      "group_en": "P"
     },
     {
       "id": "p1-121",
@@ -2149,7 +2522,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Penitence",
+      "group_en": "P"
     },
     {
       "id": "p1-122",
@@ -2165,7 +2540,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Peril",
+      "group_en": "P"
     },
     {
       "id": "p1-123",
@@ -2181,7 +2558,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Perspective",
+      "group_en": "P"
     },
     {
       "id": "p1-124",
@@ -2197,7 +2576,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Perfection",
+      "group_en": "P"
     },
     {
       "id": "p1-125",
@@ -2213,7 +2594,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Persuasion",
+      "group_en": "P"
     },
     {
       "id": "p1-126",
@@ -2229,7 +2612,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Piety",
+      "group_en": "P"
     },
     {
       "id": "p1-127",
@@ -2245,7 +2630,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Pleasure, or Voluptuousness",
+      "group_en": "P"
     },
     {
       "id": "p1-128",
@@ -2261,7 +2648,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Predestination",
+      "group_en": "P"
     },
     {
       "id": "p1-129",
@@ -2277,7 +2666,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Preeminence of Rank",
+      "group_en": "P"
     },
     {
       "id": "p1-130",
@@ -2293,7 +2684,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Perseverance",
+      "group_en": "P"
     },
     {
       "id": "p1-131",
@@ -2309,7 +2702,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Philosophy",
+      "group_en": "P"
     },
     {
       "id": "p1-132",
@@ -2325,7 +2720,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Poetry",
+      "group_en": "P"
     },
     {
       "id": "p1-133",
@@ -2341,7 +2738,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Practice",
+      "group_en": "P"
     },
     {
       "id": "p1-134",
@@ -2357,7 +2756,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Prelacy",
+      "group_en": "P"
     },
     {
       "id": "p1-135",
@@ -2373,7 +2774,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Foresight",
+      "group_en": "P"
     },
     {
       "id": "p1-136",
@@ -2389,7 +2792,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Peace",
+      "group_en": "P"
     },
     {
       "id": "p1-137",
@@ -2405,7 +2810,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Prudence",
+      "group_en": "P"
     },
     {
       "id": "p1-138",
@@ -2421,7 +2828,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Pudicity",
+      "group_en": "P"
     },
     {
       "id": "p1-139",
@@ -2437,7 +2846,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Reason",
+      "group_en": "R"
     },
     {
       "id": "p1-140",
@@ -2453,7 +2864,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Reason of State",
+      "group_en": "R"
     },
     {
       "id": "p1-141",
@@ -2469,7 +2882,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Rebellion",
+      "group_en": "R"
     },
     {
       "id": "p1-142",
@@ -2485,7 +2900,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Reconciliation of Love",
+      "group_en": "R"
     },
     {
       "id": "p1-143",
@@ -2501,7 +2918,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Religion",
+      "group_en": "R"
     },
     {
       "id": "p1-144",
@@ -2517,7 +2936,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Reformation",
+      "group_en": "R"
     },
     {
       "id": "p1-145",
@@ -2533,7 +2954,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Repentance",
+      "group_en": "R"
     },
     {
       "id": "p1-146",
@@ -2549,7 +2972,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Rumor, or Discord",
+      "group_en": "R"
     },
     {
       "id": "p1-147",
@@ -2565,7 +2990,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Health",
+      "group_en": "S"
     },
     {
       "id": "p1-148",
@@ -2581,7 +3008,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Sapience",
+      "group_en": "S"
     },
     {
       "id": "p1-149",
@@ -2597,7 +3026,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Divine Wisdom",
+      "group_en": "S"
     },
     {
       "id": "p1-150",
@@ -2613,7 +3044,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Human Wisdom",
+      "group_en": "S"
     },
     {
       "id": "p1-151",
@@ -2629,7 +3062,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Science",
+      "group_en": "S"
     },
     {
       "id": "p1-152",
@@ -2645,7 +3080,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Secrecy, or Silence",
+      "group_en": "S"
     },
     {
       "id": "p1-153",
@@ -2661,7 +3098,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Security",
+      "group_en": "S"
     },
     {
       "id": "p1-154",
@@ -2677,7 +3116,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Servitude",
+      "group_en": "S"
     },
     {
       "id": "p1-155",
@@ -2693,7 +3134,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Sincerity",
+      "group_en": "S"
     },
     {
       "id": "p1-156",
@@ -2709,7 +3152,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Care",
+      "group_en": "S"
     },
     {
       "id": "p1-157",
@@ -2725,7 +3170,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Lot, or Destiny",
+      "group_en": "S"
     },
     {
       "id": "p1-158",
@@ -2741,7 +3188,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Splendor of Name",
+      "group_en": "S"
     },
     {
       "id": "p1-159",
@@ -2757,7 +3206,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Temperance",
+      "group_en": "T"
     },
     {
       "id": "p1-160",
@@ -2773,7 +3224,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Theology",
+      "group_en": "T"
     },
     {
       "id": "p1-161",
@@ -2789,7 +3242,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Theory",
+      "group_en": "T"
     },
     {
       "id": "p1-162",
@@ -2805,7 +3260,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Guardianship",
+      "group_en": "T"
     },
     {
       "id": "p1-163",
@@ -2821,7 +3278,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Valor",
+      "group_en": "V"
     },
     {
       "id": "p1-164",
@@ -2837,7 +3296,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Vanity",
+      "group_en": "V"
     },
     {
       "id": "p1-165",
@@ -2853,7 +3314,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Honest Shame",
+      "group_en": "V"
     },
     {
       "id": "p1-166",
@@ -2869,7 +3332,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Truth",
+      "group_en": "V"
     },
     {
       "id": "p1-167",
@@ -2885,7 +3350,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Virtue",
+      "group_en": "V"
     },
     {
       "id": "p1-168",
@@ -2901,7 +3368,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Heroic Virtue",
+      "group_en": "V"
     },
     {
       "id": "p1-169",
@@ -2917,7 +3386,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Short Life",
+      "group_en": "V"
     },
     {
       "id": "p1-170",
@@ -2933,7 +3404,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Long Life",
+      "group_en": "V"
     },
     {
       "id": "p1-171",
@@ -2949,7 +3422,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Vigilance",
+      "group_en": "V"
     },
     {
       "id": "p1-172",
@@ -2965,7 +3440,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Virginity",
+      "group_en": "V"
     },
     {
       "id": "p1-173",
@@ -2981,7 +3458,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Will",
+      "group_en": "V"
     },
     {
       "id": "p1-174",
@@ -2997,7 +3476,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Zeal",
+      "group_en": "Z"
     },
     {
       "id": "p2-1",
@@ -3013,7 +3494,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Air",
+      "group_en": "The Four Elements"
     },
     {
       "id": "p2-2",
@@ -3029,7 +3512,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Water",
+      "group_en": "The Four Elements"
     },
     {
       "id": "p2-3",
@@ -3045,7 +3530,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Earth",
+      "group_en": "The Four Elements"
     },
     {
       "id": "p2-4",
@@ -3061,7 +3548,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Fire",
+      "group_en": "The Four Elements"
     },
     {
       "id": "p2-5",
@@ -3077,7 +3566,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Asia",
+      "group_en": "The Four Parts of the World"
     },
     {
       "id": "p2-6",
@@ -3093,7 +3584,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Africa",
+      "group_en": "The Four Parts of the World"
     },
     {
       "id": "p2-7",
@@ -3109,7 +3602,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Europe",
+      "group_en": "The Four Parts of the World"
     },
     {
       "id": "p2-8",
@@ -3125,7 +3620,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "America",
+      "group_en": "The Four Parts of the World"
     },
     {
       "id": "p2-9",
@@ -3141,7 +3638,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Spring",
+      "group_en": "The Four Seasons of the Year"
     },
     {
       "id": "p2-10",
@@ -3157,7 +3656,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Summer",
+      "group_en": "The Four Seasons of the Year"
     },
     {
       "id": "p2-11",
@@ -3173,7 +3674,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Autumn",
+      "group_en": "The Four Seasons of the Year"
     },
     {
       "id": "p2-12",
@@ -3189,7 +3692,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Winter",
+      "group_en": "The Four Seasons of the Year"
     },
     {
       "id": "p2-13",
@@ -3205,7 +3710,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The East",
+      "group_en": "The Four Quarters of the World"
     },
     {
       "id": "p2-14",
@@ -3221,7 +3728,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The South",
+      "group_en": "The Four Quarters of the World"
     },
     {
       "id": "p2-15",
@@ -3237,7 +3746,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The North",
+      "group_en": "The Four Quarters of the World"
     },
     {
       "id": "p2-16",
@@ -3253,7 +3764,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The West",
+      "group_en": "The Four Quarters of the World"
     },
     {
       "id": "p2-17",
@@ -3269,7 +3782,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The East Wind",
+      "group_en": "The Four Winds"
     },
     {
       "id": "p2-18",
@@ -3285,7 +3800,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The West Wind",
+      "group_en": "The Four Winds"
     },
     {
       "id": "p2-19",
@@ -3301,7 +3818,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The South Wind",
+      "group_en": "The Four Winds"
     },
     {
       "id": "p2-20",
@@ -3317,7 +3836,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The North Wind (Bise)",
+      "group_en": "The Four Winds"
     },
     {
       "id": "p2-21",
@@ -3333,7 +3854,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "March",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-22",
@@ -3349,7 +3872,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "April",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-23",
@@ -3365,7 +3890,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "May",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-24",
@@ -3381,7 +3908,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "June",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-25",
@@ -3397,7 +3926,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "July",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-26",
@@ -3413,7 +3944,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "August",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-27",
@@ -3429,7 +3962,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "September",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-28",
@@ -3445,7 +3980,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "October",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-29",
@@ -3461,7 +3998,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "November",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-30",
@@ -3477,7 +4016,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "December",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-31",
@@ -3493,7 +4034,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "January",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-32",
@@ -3509,7 +4052,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "February",
+      "group_en": "The Twelve Months of the Year"
     },
     {
       "id": "p2-33",
@@ -3525,7 +4070,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Summer Solstice",
+      "group_en": "The Solstices and Equinoxes"
     },
     {
       "id": "p2-34",
@@ -3541,7 +4088,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Winter Solstice",
+      "group_en": "The Solstices and Equinoxes"
     },
     {
       "id": "p2-35",
@@ -3557,7 +4106,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Spring Equinox",
+      "group_en": "The Solstices and Equinoxes"
     },
     {
       "id": "p2-36",
@@ -3573,7 +4124,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Autumn Equinox",
+      "group_en": "The Solstices and Equinoxes"
     },
     {
       "id": "p2-37",
@@ -3589,7 +4142,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Of the Age of Man in General",
+      "group_en": "The Four Ages"
     },
     {
       "id": "p2-38",
@@ -3605,7 +4160,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Golden Age",
+      "group_en": "The Four Ages"
     },
     {
       "id": "p2-39",
@@ -3621,7 +4178,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Silver Age",
+      "group_en": "The Four Ages"
     },
     {
       "id": "p2-40",
@@ -3637,7 +4196,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Bronze Age",
+      "group_en": "The Four Ages"
     },
     {
       "id": "p2-41",
@@ -3653,7 +4214,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Iron Age",
+      "group_en": "The Four Ages"
     },
     {
       "id": "p2-42",
@@ -3669,7 +4232,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "General Remarks on the Five Senses of Nature",
+      "group_en": "The Five Senses of Nature"
     },
     {
       "id": "p2-43",
@@ -3685,7 +4250,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Sight",
+      "group_en": "The Five Senses of Nature"
     },
     {
       "id": "p2-44",
@@ -3701,7 +4268,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Hearing",
+      "group_en": "The Five Senses of Nature"
     },
     {
       "id": "p2-45",
@@ -3717,7 +4286,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Smell",
+      "group_en": "The Five Senses of Nature"
     },
     {
       "id": "p2-46",
@@ -3733,7 +4304,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Taste",
+      "group_en": "The Five Senses of Nature"
     },
     {
       "id": "p2-47",
@@ -3749,7 +4322,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Touch",
+      "group_en": "The Five Senses of Nature"
     },
     {
       "id": "p2-48",
@@ -3765,7 +4340,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Choleric",
+      "group_en": "The Four Temperaments of Man"
     },
     {
       "id": "p2-49",
@@ -3781,7 +4358,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Sanguine",
+      "group_en": "The Four Temperaments of Man"
     },
     {
       "id": "p2-50",
@@ -3797,7 +4376,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Phlegmatic",
+      "group_en": "The Four Temperaments of Man"
     },
     {
       "id": "p2-51",
@@ -3813,7 +4394,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Melancholic",
+      "group_en": "The Four Temperaments of Man"
     },
     {
       "id": "p2-52",
@@ -3829,7 +4412,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Inviolable Justice",
+      "group_en": "Various Kinds of Justice"
     },
     {
       "id": "p2-53",
@@ -3845,7 +4430,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Rigorous Justice",
+      "group_en": "Various Kinds of Justice"
     },
     {
       "id": "p2-54",
@@ -3861,7 +4448,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Divine Justice",
+      "group_en": "Various Kinds of Justice"
     },
     {
       "id": "p2-55",
@@ -3877,7 +4466,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Conjugal Concord",
+      "group_en": "Various Kinds of Concord"
     },
     {
       "id": "p2-56",
@@ -3893,7 +4484,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Peaceful Concord",
+      "group_en": "Various Kinds of Concord"
     },
     {
       "id": "p2-57",
@@ -3909,7 +4502,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Invincible Concord",
+      "group_en": "Various Kinds of Concord"
     },
     {
       "id": "p2-58",
@@ -3925,7 +4520,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Military Concord",
+      "group_en": "Various Kinds of Concord"
     },
     {
       "id": "p2-59",
@@ -3941,7 +4538,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Good Fortune",
+      "group_en": "Various Fortunes"
     },
     {
       "id": "p2-60",
@@ -3957,7 +4556,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Fortune of Love",
+      "group_en": "Various Fortunes"
     },
     {
       "id": "p2-61",
@@ -3973,7 +4574,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Bad Fortune",
+      "group_en": "Various Fortunes"
     },
     {
       "id": "p2-62",
@@ -3989,7 +4592,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Golden Fortune",
+      "group_en": "Various Fortunes"
     },
     {
       "id": "p2-63",
@@ -4005,7 +4610,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Strength of Mind and Body",
+      "group_en": "Various Kinds of Strength"
     },
     {
       "id": "p2-64",
@@ -4021,7 +4628,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Strength and Prudence Together",
+      "group_en": "Various Kinds of Strength"
     },
     {
       "id": "p2-65",
@@ -4037,7 +4646,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Strength of Courage",
+      "group_en": "Various Kinds of Strength"
     },
     {
       "id": "p2-66",
@@ -4053,7 +4664,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Poetic Fury",
+      "group_en": "Various Kinds of Fury"
     },
     {
       "id": "p2-67",
@@ -4069,7 +4682,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Extreme Fury",
+      "group_en": "Various Kinds of Fury"
     },
     {
       "id": "p2-68",
@@ -4085,7 +4700,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Indomitable Fury",
+      "group_en": "Various Kinds of Fury"
     },
     {
       "id": "p2-69",
@@ -4101,7 +4718,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Polyhymnia",
+      "group_en": "The Nine Muses"
     },
     {
       "id": "p2-70",
@@ -4117,7 +4736,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Erato",
+      "group_en": "The Nine Muses"
     },
     {
       "id": "p2-71",
@@ -4133,7 +4754,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Terpsichore",
+      "group_en": "The Nine Muses"
     },
     {
       "id": "p2-72",
@@ -4149,7 +4772,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Urania",
+      "group_en": "The Nine Muses"
     },
     {
       "id": "p2-73",
@@ -4165,7 +4790,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Calliope",
+      "group_en": "The Nine Muses"
     },
     {
       "id": "p2-74",
@@ -4181,7 +4808,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Clio",
+      "group_en": "The Nine Muses"
     },
     {
       "id": "p2-75",
@@ -4197,7 +4826,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Euterpe",
+      "group_en": "The Nine Muses"
     },
     {
       "id": "p2-76",
@@ -4213,7 +4844,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Thalia",
+      "group_en": "The Nine Muses"
     },
     {
       "id": "p2-77",
@@ -4229,7 +4862,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Melpomene",
+      "group_en": "The Nine Muses"
     },
     {
       "id": "p2-78",
@@ -4245,7 +4880,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Lyric Poem",
+      "group_en": "The Four Kinds of Poem"
     },
     {
       "id": "p2-79",
@@ -4261,7 +4898,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Heroic Poem",
+      "group_en": "The Four Kinds of Poem"
     },
     {
       "id": "p2-80",
@@ -4277,7 +4916,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Pastoral Poem",
+      "group_en": "The Four Kinds of Poem"
     },
     {
       "id": "p2-81",
@@ -4293,7 +4934,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Satirical Poem",
+      "group_en": "The Four Kinds of Poem"
     },
     {
       "id": "p2-82",
@@ -4309,7 +4952,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Fame Depicted in the Ordinary Manner",
+      "group_en": "Various Kinds of Fame"
     },
     {
       "id": "p2-83",
@@ -4325,7 +4970,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Glorious Fame",
+      "group_en": "Various Kinds of Fame"
     },
     {
       "id": "p2-84",
@@ -4341,7 +4988,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Good Fame",
+      "group_en": "Various Kinds of Fame"
     },
     {
       "id": "p2-85",
@@ -4357,7 +5006,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Invincible Virtue",
+      "group_en": "Various Virtues"
     },
     {
       "id": "p2-86",
@@ -4373,7 +5024,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Virtue of Body and Courage",
+      "group_en": "Various Virtues"
     },
     {
       "id": "p2-87",
@@ -4389,7 +5042,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Heroic Virtue",
+      "group_en": "Various Virtues"
     },
     {
       "id": "p2-88",
@@ -4405,7 +5060,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Active Life",
+      "group_en": "Various Kinds of Life"
     },
     {
       "id": "p2-89",
@@ -4421,7 +5078,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Human Life",
+      "group_en": "Various Kinds of Life"
     },
     {
       "id": "p2-90",
@@ -4437,7 +5096,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Restless Life",
+      "group_en": "Various Kinds of Life"
     },
     {
       "id": "p2-91",
@@ -4453,7 +5114,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Contemplative Life",
+      "group_en": "Various Kinds of Life"
     },
     {
       "id": "p2-92",
@@ -4469,7 +5132,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Short Life",
+      "group_en": "Various Kinds of Life"
     },
     {
       "id": "p2-93",
@@ -4485,7 +5150,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Long Life",
+      "group_en": "Various Kinds of Life"
     },
     {
       "id": "p2-94",
@@ -4501,7 +5168,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Aristocracy",
+      "group_en": "Forms of Government"
     },
     {
       "id": "p2-95",
@@ -4517,7 +5186,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Democracy",
+      "group_en": "Forms of Government"
     },
     {
       "id": "p2-96",
@@ -4533,7 +5204,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Monarchy",
+      "group_en": "Forms of Government"
     },
     {
       "id": "p2-97",
@@ -4549,7 +5222,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Love Subdued",
+      "group_en": "Various Kinds of Love"
     },
     {
       "id": "p2-98",
@@ -4565,7 +5240,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Love of Virtue",
+      "group_en": "Various Kinds of Love"
     },
     {
       "id": "p2-99",
@@ -4581,7 +5258,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Love of Glory",
+      "group_en": "Various Kinds of Love"
     },
     {
       "id": "p2-100",
@@ -4597,7 +5276,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Love of One's Country",
+      "group_en": "Various Kinds of Love"
     },
     {
       "id": "p2-101",
@@ -4613,7 +5294,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Worldly Loves",
+      "group_en": "Various Kinds of Love"
     },
     {
       "id": "p2-102",
@@ -4629,7 +5312,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Falseness of Love",
+      "group_en": "Various Kinds of Love"
     },
     {
       "id": "p2-103",
@@ -4645,7 +5330,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Self-Love",
+      "group_en": "Various Kinds of Love"
     },
     {
       "id": "p2-104",
@@ -4661,7 +5348,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Contentment",
+      "group_en": "Various Kinds of Love"
     },
     {
       "id": "p2-105",
@@ -4677,7 +5366,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Cupidity, or Covetousness",
+      "group_en": "Various Kinds of Love"
     },
     {
       "id": "p2-106",
@@ -4693,7 +5384,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Abstinence",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-107",
@@ -4709,7 +5402,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Habituation",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-108",
@@ -4725,7 +5420,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Almsgiving",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-109",
@@ -4741,7 +5438,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Help",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-110",
@@ -4757,7 +5456,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Friendship",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-111",
@@ -4773,7 +5474,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Love of Fame",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-112",
@@ -4789,7 +5492,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Love of One's Neighbor",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-113",
@@ -4805,7 +5510,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Love toward God",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-114",
@@ -4821,7 +5528,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Eight Beatitudes",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-115",
@@ -4837,7 +5546,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Charity",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-116",
@@ -4853,7 +5564,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Chastity",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-117",
@@ -4869,7 +5582,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Clemency",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-118",
@@ -4885,7 +5600,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Command over Oneself",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-119",
@@ -4901,7 +5618,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Commerce of Human Life",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-120",
@@ -4917,7 +5636,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Compassion",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-121",
@@ -4933,7 +5654,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Confession",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-122",
@@ -4949,7 +5672,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Concord",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-123",
@@ -4965,7 +5690,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Docility",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-124",
@@ -4981,7 +5708,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Diligence",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-125",
@@ -4997,7 +5726,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Learning",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-126",
@@ -5013,7 +5744,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Devotion",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-127",
@@ -5029,7 +5762,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Education",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-128",
@@ -5045,7 +5780,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Election",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-129",
@@ -5061,7 +5798,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Magnanimous and Generous Desire",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-130",
@@ -5077,7 +5816,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Domination",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-131",
@@ -5093,7 +5834,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Equity",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-132",
@@ -5109,7 +5852,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Smothering of Evil Thoughts",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-133",
@@ -5125,7 +5870,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Firmness",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-134",
@@ -5141,7 +5888,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Frailty",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-135",
@@ -5157,7 +5906,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Catholic Faith",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-136",
@@ -5173,7 +5924,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Faithfulness in Friendship",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-137",
@@ -5189,7 +5942,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Divine Grace",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-138",
@@ -5205,7 +5960,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Government of the Republic",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-139",
@@ -5221,7 +5978,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Honesty",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-140",
@@ -5237,7 +5996,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Humanity",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-141",
@@ -5253,7 +6014,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Humility",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-142",
@@ -5269,7 +6032,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Honor",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-143",
@@ -5285,7 +6050,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Innocence",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-144",
@@ -5301,7 +6068,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Instruction",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-145",
@@ -5317,7 +6086,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Intellect",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-146",
@@ -5333,7 +6104,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Invocation",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-147",
@@ -5349,7 +6122,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Inspiration",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-148",
@@ -5365,7 +6140,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Fasting",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-149",
@@ -5381,7 +6158,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Liberality",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-150",
@@ -5397,7 +6176,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Loyalty",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-151",
@@ -5413,7 +6194,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Canon Law",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-152",
@@ -5429,7 +6212,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Natural Law",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-153",
@@ -5445,7 +6230,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Magnanimity",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-154",
@@ -5461,7 +6248,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Magnificence",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-155",
@@ -5477,7 +6266,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "The Golden Mean",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-156",
@@ -5493,7 +6284,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Misery of the World",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-157",
@@ -5509,7 +6302,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Meditation on Death",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-158",
@@ -5525,7 +6320,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Spiritual Meditation",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-159",
@@ -5541,7 +6338,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Obedience",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-160",
@@ -5557,7 +6356,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Occasion",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-161",
@@ -5573,7 +6374,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Prayer",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-162",
@@ -5589,7 +6392,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Pudicity",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-163",
@@ -5605,7 +6410,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Pardon",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-164",
@@ -5621,7 +6428,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Patience",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-165",
@@ -5637,7 +6446,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Penitence",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-166",
@@ -5653,7 +6464,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Prudence",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-167",
@@ -5669,7 +6482,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Repentance for Sin",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-168",
@@ -5685,7 +6500,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Regret",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-169",
@@ -5701,7 +6518,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Restitution",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-170",
@@ -5717,7 +6536,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Reformation",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-171",
@@ -5733,7 +6554,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Victorious Rome",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-172",
@@ -5749,7 +6572,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Holy Rome",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-173",
@@ -5765,7 +6590,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Simplicity",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-174",
@@ -5781,7 +6608,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Sincerity of Soul",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-175",
@@ -5797,7 +6626,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "True Wisdom",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-176",
@@ -5813,7 +6644,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Substance",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-177",
@@ -5829,7 +6662,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Virginity",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-178",
@@ -5845,7 +6680,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Truth",
+      "group_en": "Virtues and Piety (untitled in the book)"
     },
     {
       "id": "p2-179",
@@ -5861,7 +6698,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Arrogance",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-180",
@@ -5877,7 +6716,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Ambition",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-181",
@@ -5893,7 +6734,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Blindness of Mind",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-182",
@@ -5909,7 +6752,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Avarice",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-183",
@@ -5925,7 +6770,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Caprice",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-184",
@@ -5941,7 +6788,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Calumny",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-185",
@@ -5957,7 +6806,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Contrariness",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-186",
@@ -5973,7 +6824,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Comedy",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-187",
@@ -5989,7 +6842,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Concupiscence",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-188",
@@ -6005,7 +6860,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Cupidity",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-189",
@@ -6021,7 +6878,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Discord",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-190",
@@ -6037,7 +6896,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Doubt",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-191",
@@ -6053,7 +6914,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Despair",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-192",
@@ -6069,7 +6932,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Detraction",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-193",
@@ -6085,7 +6950,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Spy",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-194",
@@ -6101,7 +6968,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Envy",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-195",
@@ -6117,7 +6986,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Ambush",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-196",
@@ -6133,7 +7004,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Ferocity",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-197",
@@ -6149,7 +7022,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Trickery",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-198",
@@ -6165,7 +7040,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Fraud",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-199",
@@ -6181,7 +7058,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Worldly Felicity",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-200",
@@ -6197,7 +7076,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Gluttony",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-201",
@@ -6213,7 +7094,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Heresy",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-202",
@@ -6229,7 +7112,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Hypocrisy",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-203",
@@ -6245,7 +7130,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Homicide",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-204",
@@ -6261,7 +7148,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Idolatry",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-205",
@@ -6277,7 +7166,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Infamy",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-206",
@@ -6293,7 +7184,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Lasciviousness",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-207",
@@ -6309,7 +7202,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Ignorance",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-208",
@@ -6325,7 +7220,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Indocility",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-209",
@@ -6341,7 +7238,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Irresolution",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-210",
@@ -6357,7 +7256,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Impiety",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-211",
@@ -6373,7 +7274,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Insult",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-212",
@@ -6389,7 +7292,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Injustice",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-213",
@@ -6405,7 +7310,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Wrath",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-214",
@@ -6421,7 +7328,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Lust",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-215",
@@ -6437,7 +7346,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Malignity",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-216",
@@ -6453,7 +7364,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Slander",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-217",
@@ -6469,7 +7382,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Offense",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-218",
@@ -6485,7 +7400,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Opinion",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-219",
@@ -6501,7 +7418,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Insufferable Pride",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-220",
@@ -6517,7 +7436,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Obstinacy",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-221",
@@ -6533,7 +7454,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Wasted Effort",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-222",
@@ -6549,7 +7472,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Perfidy",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-223",
@@ -6565,7 +7490,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Sloth",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-224",
@@ -6581,7 +7508,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Prodigality",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-225",
@@ -6597,7 +7526,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Reprehension",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-226",
@@ -6613,7 +7544,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Scandal",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-227",
@@ -6629,7 +7562,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Foolishness",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-228",
@@ -6645,7 +7580,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Severity",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-229",
@@ -6661,7 +7598,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Simony",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-230",
@@ -6677,7 +7616,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Superstition",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-231",
@@ -6693,7 +7634,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Pride (Superbia)",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-232",
@@ -6709,7 +7652,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Temptation",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-233",
@@ -6725,7 +7670,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Tardiness",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-234",
@@ -6741,7 +7688,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Deception",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-235",
@@ -6757,7 +7706,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Tyranny",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-236",
@@ -6773,7 +7724,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Usury",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-237",
@@ -6789,7 +7742,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Vengeance",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-238",
@@ -6805,7 +7760,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Vice",
+      "group_en": "Vices (untitled in the book)"
     },
     {
       "id": "p2-239",
@@ -6821,7 +7778,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Morning",
+      "group_en": "The Four Parts of the Day"
     },
     {
       "id": "p2-240",
@@ -6837,7 +7796,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Midday",
+      "group_en": "The Four Parts of the Day"
     },
     {
       "id": "p2-241",
@@ -6853,7 +7814,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Evening",
+      "group_en": "The Four Parts of the Day"
     },
     {
       "id": "p2-242",
@@ -6869,7 +7832,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Night",
+      "group_en": "The Four Parts of the Day"
     },
     {
       "id": "p2-243",
@@ -6885,7 +7850,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Mathematics",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-244",
@@ -6901,7 +7868,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Chorography",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-245",
@@ -6917,7 +7886,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Planimetry",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-246",
@@ -6933,7 +7904,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Geography",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-247",
@@ -6949,7 +7922,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Painting",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-248",
@@ -6965,7 +7940,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Poetry",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-249",
@@ -6981,7 +7958,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Harmony",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-250",
@@ -6997,7 +7976,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Music",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-251",
@@ -7013,7 +7994,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Military Architecture",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-252",
@@ -7029,7 +8012,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Altimetry",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-253",
@@ -7045,7 +8030,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Astrology",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-254",
@@ -7061,7 +8048,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Cosmography",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-255",
@@ -7077,7 +8066,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Hydrography",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-256",
@@ -7093,7 +8084,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Horography",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-257",
@@ -7109,7 +8102,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Iconography",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-258",
@@ -7125,7 +8120,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Symmetry",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-259",
@@ -7141,7 +8138,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Desire to Learn",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-260",
@@ -7157,7 +8156,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Industry",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-261",
@@ -7173,7 +8174,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Consideration",
+      "group_en": "Sciences and Arts (untitled in the book)"
     },
     {
       "id": "p2-262",
@@ -7189,7 +8192,9 @@
       "img": [],
       "attrs": [],
       "text_ru": [],
-      "text_fr": []
+      "text_fr": [],
+      "en": "Arithmetic",
+      "group_en": "Sciences and Arts (untitled in the book)"
     }
   ]
 }
