@@ -1858,12 +1858,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-31.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина, держащаяся за колонну левой рукой и держащая обнажённый меч над огненным сосудом правой",
+          "meaning": "Опора на колонну означает твёрдость; меч среди огня — что ни железо, ни пламя не страшны мужеству, вооружённому постоянством",
+          "what_en": "A woman gripping a column with her left hand and holding a bare sword over a vessel of fire with her right",
+          "meaning_en": "Leaning on the column signifies firmness; the sword amid fire, that neither iron nor flame frightens a courage armed with constancy"
+        }
+      ],
+      "text_ru": [
+        "Самое твёрдое, что в ней есть, заключено в изображении этой женщины. Левой рукой она обхватывает колонну; а правой, кажется, нарочно хочет обжечься, держа над большим огненным сосудом обнажённый меч.",
+        "Постоянство есть твёрдое намерение противостоять телесным страданиям и являть столько доблести, сколько нужно, чтобы не дать себя победить ни тревогам ума, ни страстям души, ни ударам Фортуны. То, что она держит руку на колонне, означает, что так она лучше утверждается в своём положении — согласно пословице: кто хорошо опирается, редко падает. В самом деле, быть постоянным — значит быть твёрдым и непоколебимым во всех суждениях, побуждающих разум к какому-либо решению.",
+        "Что до обнажённого меча, который она держит посреди огня, это означает, что ни железо, ни пламя никогда не устрашают мужество, вооружённое Постоянством: ибо пока у него есть такая мощная защита, оно может смело сказать вместе с Энеем у Вергилия: ¶«Для меня злой рок не меняет своего лица, / И я не вижу новой беды; / Ибо несчастий, которыми мне грозят, / Я полагаю, страдаю от их ударов прежде, чем буду ранен»."
+      ],
+      "text_fr": [
+        "Ce qu'il y a de plus solide en elle est compris dans la peinture de cette femme. Elle empoigne vne colomne de la main gauche; & il semble qu'elle se veuille brûler exprés la droite, dont elle tient vne épée nuë sur vn grand vase de feu.",
+        "La Constance est vn ferme propos de resister aux douleurs du corps, & de témoigner autant de vertu qu'il en faut, pour ne se point laisser vaincre ny aux inquietudes de l'esprit, ny aux passions de l'ame, ny aux disgraces de la Fortune. Ce qu'elle porte la main sur vne colomne est pour mieux s'affermir en son assiette, suivant ce proverbe; Qui bien s'appuye, tombe rarement. En effet estre constant, n'est autre chose que se montrer ferme & inébranlable en toutes les raisons qui poussent l'entendement à quelque resolution.",
+        "Quant à l'épée qu'elle tient nuë au milieu du feu, cela signifie, que ny le fer ny la flamme n'étonnent jamais vn courage armé de Constance: car tant qu'il a pour rempart vne si forte vertu, il peut dire hardiment avec Enée dans Virgile, ¶Pour moy le mauvais sort ne change point de face, / Et je ne voy iamais de nouvelle disgrace; / Parce que des malheurs dont ie suis menacé, / Ie croy souffrir les coups avant qu'estre blessé."
+      ],
       "en": "Constancy",
-      "group_en": "C"
+      "group_en": "C",
+      "scans": [
+        "p1-031-1.jpg",
+        "p1-031-2.jpg"
+      ],
+      "text_en": [
+        "What is firmest in her is contained in the image of this woman. With her left hand she grips a column; and with her right, which holds a bare sword above a great vessel of fire, she seems almost willing to burn herself.",
+        "Constancy is a firm resolve to withstand the body's pains, and to show as much virtue as is needed not to be overcome by the mind's anxieties, the soul's passions, or the blows of Fortune. Her hand resting on a column is to steady herself the better in her footing, after the proverb: He who leans well seldom falls. Indeed, to be constant is nothing other than to show oneself firm and unshaken in all the reasons that move the understanding to some resolve.",
+        "As for the bare sword she holds amid the fire, this signifies that neither iron nor flame ever dismays a courage armed with Constancy: for as long as it has so strong a virtue for its rampart, it may boldly say, with Aeneas in Virgil, ¶As for me, ill fortune changes not its face, / And I see no new disgrace; / For of the misfortunes that threaten me, / I believe I suffer the blows before I am wounded."
+      ]
     },
     {
       "id": "p1-32",
@@ -1876,12 +1902,44 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-32.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина, пристально смотрящая на сердце в своих руках, с греческой надписью «ΟΙΚΕΙΑ ΣΥΝΕΣΙΣ» («собственная совесть»)",
+          "meaning": "Совесть — тайное знание человека о своих поступках и помыслах; никто не может скрыться от самого себя",
+          "what_en": "A woman gazing fixedly at a heart in her hands, with the Greek inscription \"OIKEIA SYNESIS\" (\"one's own conscience\")",
+          "meaning_en": "Conscience is a person's secret knowledge of their own deeds and thoughts; no one can hide from themselves"
+        },
+        {
+          "what": "Босые ноги между цветущим лугом и полем терний",
+          "meaning": "Два разных пути — добрый и злой — между которыми душа выбирает по своей склонности",
+          "what_en": "Bare feet between a flowering meadow and a field of thorns",
+          "meaning_en": "Two very different paths — good and evil — between which the soul chooses according to its disposition"
+        }
+      ],
+      "text_ru": [
+        "Она пристально смотрит на сердце, которое держит в руках, над которым золотыми буквами написаны слова ΟΙΚΕΙΑ ΣΥΝΕΣΙΣ, что значит «собственная Совесть»; при этом она в затруднении, видя себя босой между лугом, усеянным цветами, и полем, полным терний.",
+        "Совесть, которую лучше всего можно определить как тайное знание, которое люди имеют о своих поступках и сокровеннейших мыслях, не без причины изображена здесь смотрящей на сердце, дабы тем самым показать: ¶Что никто не может скрыться от самого себя.",
+        "А то, что в какую бы сторону она ни обернулась, видит лишь цветы да тернии, учит нас, что среди нас есть два весьма разных пути — один добрый, другой злой, — и смотря по тому, к добру или злу расположена наша душа, она либо избегает пропасти, либо падает в неё."
+      ],
+      "text_fr": [
+        "Elle regarde fixement vn cœur qu'elle tient entre ses mains, au dessus duquel sont écrites ces paroles en lettres d'or, ΟΙΚΕΙΑ ΣΥΝΕΣΙΣ, comme qui diroit, la propre Conscience; se trouvant au reste bien empeschée de se voir pied nud entre vn pré semé de fleurs, & vn champ tout plein d'épines.",
+        "La Conscience ne pouvant mieux estre definie qu'vne secrette connoissance qu'ont les hommes de leurs actions, & de leurs plus secrettes pensées; ce n'est pas sans sujet qu'on la represente icy regardant vn cœur, pour monstrer par là, ¶Que nul ne peut se cacher à soy-mesme.",
+        "Que si de quelque costé qu'elle se tourne, elle n'y voit que fleurs & qu'épines, c'est pour nous apprendre, qu'il y a parmy nous deux chemins fort differents; l'vn bon, & l'autre mauvais, où selon que nostre ame se trouve disposée au bien ou au mal, elle évite le precipice, ou tombe dedans."
+      ],
       "en": "Conscience",
-      "group_en": "C"
+      "group_en": "C",
+      "scans": [
+        "p1-032-1.jpg",
+        "p1-032-2.jpg"
+      ],
+      "text_en": [
+        "She gazes fixedly at a heart she holds in her hands, above which are written these words in letters of gold, OIKEIA SYNESIS, as if to say, one's own Conscience; finding herself, moreover, much troubled to see herself barefoot between a meadow strewn with flowers and a field full of thorns.",
+        "Conscience, which can best be defined as a secret knowledge men have of their actions, and of their most secret thoughts, is not without cause represented here looking at a heart, to show thereby, ¶That no one can hide from himself.",
+        "And if, whichever way she turns, she sees only flowers and thorns, this teaches us that there are among us two very different paths, one good, the other bad, where, according as our soul is disposed to good or evil, it avoids the precipice, or falls into it."
+      ]
     },
     {
       "id": "p1-33",
@@ -1894,12 +1952,56 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-33.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша в зелёном с лавровым венком, с кадуцеем, обвитым ветвями мирта и гранатника вместо змей",
+          "meaning": "Мирт и гранатник, чьи корни тянутся друг к другу, — символ того, что истинная беседа держится на взаимной дружбе",
+          "what_en": "A young man in green with a laurel wreath, holding a caduceus entwined with myrtle and pomegranate branches instead of serpents",
+          "meaning_en": "Myrtle and pomegranate, whose roots reach toward each other, symbolise that true conversation rests on mutual friendship"
+        },
+        {
+          "what": "Свиток с надписью «Væ soli» («горе одинокому») в правой руке",
+          "meaning": "Слова царя Соломона: быть одному так же плохо, как хорошо — жить в дружеской беседе с другими",
+          "what_en": "A scroll inscribed \"Vae soli\" (\"woe to him who is alone\") in his right hand",
+          "meaning_en": "King Solomon's words: to be alone is as bad as it is good to live in friendly conversation with others"
+        }
+      ],
+      "text_ru": [
+        "Здесь он является в образе юноши весьма приятной наружности, с улыбающимся лицом. На нём зелёное одеяние, лавровый венок на голове, а в левой руке — кадуцей, вокруг которого вместо змей обвиты две разные ветви: одна мирта, другая гранатника, а над ними — два человеческих языка.",
+        "В том положении, в каком он стоит, кажется, что он хочет кого-то принять, держа для этого левую руку раскрытой, а в правой — свиток, на котором написаны два слова: Væ soli, то есть «горе тому, кто одинок».",
+        "Беседа, которую по праву можно назвать самой приятной и сладостной вещью на свете, есть общение людей, любящих друг друга и часто видящихся.",
+        "Потому-то она и изображена здесь через две переплетённые ветви — мирта и гранатника, ибо истинная Беседа непременно должна иметь своим основанием единение и взаимную дружбу. Пример тому — эти два растения, которые так любят друг друга, что корни их, даже отдалённые, сближаются и соединяются сами собой. Это должно устыдить тех Тимонов, врагов рода человеческого, что гнушаются беседы и называют силой духа свою угрюмую привычку никого не видеть.",
+        "Язык, изображённый над этими двумя растениями, означает, что природа дала его человеку, дабы выражать свои мысли в добром обществе и беседовать со знакомыми людьми — будь то поучая, будь то поучаясь.",
+        "Приветливость, замечаемая на этом изображении, показывает, что радушный приём, учтивость и любезность свойственны тем, чья Беседа добродетельна, и что их всегда застаёшь готовыми любезно принять порядочных людей.",
+        "Потому и слова Væ soli, взятые у Соломона из его Притчей, достаточно показывают, что быть одному столь же дурно и неприятно, сколь хорошо и отрадно видеть людей, живущих как братья благодаря беседе, которую они ведут друг с другом."
+      ],
+      "text_fr": [
+        "Elle paroist icy sous la forme d'vn jeune homme de fort bonne mine, & d'vn visage riant. Il porte vn habillement vert, vne guirlande de laurier sur la teste, & en la main gauche vn caducée, à l'entour duquel sont enlacez en lieu de serpens, deux rameaux differens, l'vn de myrthe, & l'autre de grenadier, avec deux langues humaines au dessus.",
+        "En la posture où il est, il semble vouloir accueillir quelqu'vn, tenant pour cet effet le bras gauche ouvert, & en la main droite vn rouleau, où sont écrits ces deux mots, Væ soli, c'est à dire, malheur à celuy qui est seul.",
+        "La Conversation, que l'on peut appeller à bon droit, la chose du monde la plus agreable & la plus douce, est vne hantise de personnes qui s'entr'aiment, & qui se voyent souvent.",
+        "Voilà pourquoy elle est icy figurée par les deux branches de myrthe & de grenadier entrelacées, parce qu'il faut de necessité qu'vne vraye Conversation ait pour fondement l'vnion & l'amitié mutuelle. Nous en avons vn exemple en ces deux plantes, qui s'aiment si fort, que leurs racines bien qu'éloignées s'approchent, & se vont joindre naturellement. Ce qui ne peut tourner qu'à la honte de ces Thimons, ennemis des hommes, qui en abhorrent la conversation, & qui appellent force d'esprit leur humeur reveuse, accoustumée à ne voir personne.",
+        "La langue qui est au dessus de ces deux plantes signifie, que la nature l'a donnée à l'homme pour exprimer ses pensées dans les bonnes compagnies, & s'entretenir avec les personnes de sa connoissance, soit pour instruire, soit pour estre instruit.",
+        "L'accortise qui se remarque dans ce tableau, montre que le bon accueil, les civilitez & les complimens sont ordinaires à ceux, dont la Conversation est vertueuse, & qu'on les trouve toûjours en estat d'accueillir courtoisement les honnestes gens.",
+        "Aussi ces deux mots, Væ soli, tirez de Salomon en ses Proverbes, declarent assez qu'il n'est pas moins mauvais & déplaisant d'estre seul, qu'il est bon & agreable de voir des hommes qui vivent en freres par la conversation qu'ils ont ensemble."
+      ],
       "en": "Conversation",
-      "group_en": "C"
+      "group_en": "C",
+      "scans": [
+        "p1-033-1.jpg",
+        "p1-033-2.jpg"
+      ],
+      "text_en": [
+        "He appears here in the form of a young man of very fine bearing, with a smiling face. He wears a green garment, a laurel wreath upon his head, and in his left hand a caduceus, about which, in place of serpents, are entwined two different branches, one of myrtle, the other of pomegranate, with two human tongues above them.",
+        "In the posture he is in, he seems to wish to welcome someone, holding his left arm open for that purpose, and in his right hand a scroll, on which are written these two words, Vae soli, that is, woe to him who is alone.",
+        "Conversation, which may rightly be called the most agreeable and sweetest thing in the world, is a mutual company of persons who love one another, and who see each other often.",
+        "This is why it is figured here by the two intertwined branches of myrtle and pomegranate, because a true Conversation must of necessity be founded on union and mutual friendship. We have an example of this in these two plants, which love each other so much that their roots, though apart, draw near and join together naturally. Which can only shame those Timons, enemies of mankind, who abhor conversation, and who call strength of mind their morose humor, accustomed to seeing no one.",
+        "The tongue above these two plants signifies that nature gave it to man to express his thoughts in good company, and to converse with those he knows, whether to instruct, or to be instructed.",
+        "The affability remarked in this picture shows that a warm welcome, courtesy, and compliments are customary in those whose Conversation is virtuous, and that they are always found ready to receive honest people courteously.",
+        "So too these two words, Vae soli, taken from Solomon in his Proverbs, show plainly enough that it is no less bad and unpleasant to be alone than it is good and pleasant to see men living as brothers through the conversation they share."
+      ]
     },
     {
       "id": "p1-34",
@@ -1912,12 +2014,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-34.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Печальная старуха с бичом в одной руке и пером в другой, правящая книгу",
+          "meaning": "Исправление — акт благоразумия для исправляющего, но повод для досады для того, кого исправляют; бич и перо означают, что оно касается и поступков, и мыслей",
+          "what_en": "A melancholy old woman with a whip in one hand and a pen in the other, correcting a book",
+          "meaning_en": "Correction is an act of prudence for the one who gives it, but a cause of displeasure for the one who receives it; the whip and pen signify that it touches both deeds and thoughts"
+        }
+      ],
+      "text_ru": [
+        "Это изображение печальной старухи, которая, сидя на скамье, держит в левой руке бич, а в правой — перо, которым правит книгу.",
+        "Её изображают старой и неприятной, дабы показать, что подобно тому как Исправление есть акт благоразумия для того, кто его совершает, так оно же является предметом неудовольствия для того, кто его принимает: ибо без весьма высокой добродетели трудно уму, сколь бы мягким и податливым он ни был, умертвить любовь к самому себе до такой степени, чтобы без всякой досады смотреть, как собственные его труды проходят через напильник, и видеть изувеченными члены творения, которое он почитает своим детищем, — хотя делается это лишь затем, чтобы придать ему лучшую форму.",
+        "По той же причине она изображена с бичом в одной руке и пером в другой; ибо, вообще говоря, Исправление обыкновенно применяют лишь к погрешностям, которые совершают люди — либо на пути действия, либо на пути созерцания."
+      ],
+      "text_fr": [
+        "C'est la figure d'vne vieille melancolique, qui sur vn banc où elle est assise, tient de la main gauche vn foüet, & de la droite vne plume, dont elle corrige vn livre.",
+        "Elle est peinte vielle & déplaisante, pour faire voir que comme la Correction est vn acte de prudence en celuy qui la fait; aussi est-elle vn sujet de mécontentement à celuy qui la reçoit: car à moins que d'avoir vne bien haute vertu, il est difficile à vn esprit, quelque doux & souple qu'il soit, de mortifier l'amour de soy-mesme jusques à ce point, que de voir sans aucun déplaisir passer par la lime ses propres ouvrages, & mutiler les membres d'vn corps qu'il considere comme sa creature, bien que toutefois cela ne se fasse que pour luy donner vne meilleure forme.",
+        "Pour cette mesme raison elle est peinte le foüet en vne main, & la plume en l'autre; parce qu'à le prendre en general, on n'vse ordinairement de correction qu'aux manquemens que font les hommes, ou dans la voye de l'action, ou dans celle de la contemplation."
+      ],
       "en": "Correction",
-      "group_en": "C"
+      "group_en": "C",
+      "scans": [
+        "p1-034-1.jpg",
+        "p1-034-2.jpg"
+      ],
+      "text_en": [
+        "It is the figure of a melancholy old woman who, seated on a bench, holds a whip in her left hand, and in her right a pen, with which she corrects a book.",
+        "She is painted old and unpleasant, to show that, as Correction is an act of prudence in the one who performs it, so it is a cause of displeasure to the one who receives it: for, short of a very lofty virtue, it is difficult for any mind, however gentle and supple it may be, to mortify self-love to the point of watching, without any displeasure, its own works pass under the file, and the limbs of a body it regards as its own creation be mutilated — though this is done only to give it a better form.",
+        "For the same reason she is painted with the whip in one hand and the pen in the other; because, generally speaking, correction is ordinarily used only for the faults men commit, whether in the way of action, or in that of contemplation."
+      ]
     },
     {
       "id": "p1-35",
