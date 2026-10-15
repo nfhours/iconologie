@@ -3133,12 +3133,57 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-59.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная женщина, увенчанная листьями конопли, с гнездом щеглов у груди",
+          "meaning": "Конопля, разрастающаяся без ухода, и щегол, из чьих яиц вылупляется до двенадцати птенцов, — образы изобильного плодородия",
+          "what_en": "A young woman crowned with hemp leaves, holding a nest of goldfinches to her breast",
+          "meaning_en": "Hemp, which grows unaided, and the goldfinch, whose eggs hatch as many as twelve chicks, are images of abundant fecundity"
+        },
+        {
+          "what": "Крольчата и курица с только что вылупившимися цыплятами у её ног",
+          "meaning": "Кролики, плодовитые до того, что вскармливают одних детёнышей и уже производят других, и курица, из чьего яйца порой выходит два цыплёнка",
+          "what_en": "Rabbits and a hen with newly hatched chicks at her feet",
+          "meaning_en": "Rabbits, so fecund that they suckle one litter while already producing another, and a hen, from whose egg sometimes two chicks emerge"
+        }
+      ],
+      "text_ru": [
+        "Я нахожу, что этому изображению весьма подобает облик юной женщины, увенчанной листьями конопли. Она держит у груди гнездо щеглов, а у её ног с одной стороны видны резвящиеся крольчата, а с другой — цыплята, только что вылупившиеся, на которых пристально смотрит курица.",
+        "Величайшее благо, какое может иметь замужняя женщина, — это плодородие, благодаря которому она приносит желанные плоды, составляющие цель брака. Истинно и то, что деторождение совершенно необходимо людям по природному инстинкту, как видно даже на примере неразумных тварей; ибо нет такой из них, что не стремилась бы по природе своей размножаться по своему роду, хотя бы они и не ожидали от этого никакой пользы. А ведь это немалое благо — иметь детей, которые станут достойными людьми, как доказывает Аристотель в своей Риторике. Плиний же называет это одной из высших степеней человеческого счастья, приводя пример Цецилия Метелла Македонского, у которого было четверо сыновей, достигших высших должностей Рима — бывших преторами, консулами и цензорами. К этому он добавляет, что во времена Августа Гай Криспин совершил торжественное жертвоприношение на Капитолии вместе с девятью своими детьми — семью сыновьями и двумя дочерьми, двадцатью семью племянниками, девятью племянницами и двадцатью девятью внучатыми племянниками. Не говорю уже о Корнелии из дома Сципионов, от которой родился Волузий Сатурнин, бывший консулом вместе с императором Домицианом; ни о матери Гракхов, которой, по словам Плиния, некая знатная дама однажды показала свои драгоценности, а та в ответ показала ей двенадцать прекрасных сыновей, сказав, что это и есть её драгоценнейшие сокровища. Так что можно смело утверждать, что это семейное счастье столь велико, что переходит от частных лиц ко всему обществу. Потому в древнем Риме и было установлено, что тот, у кого окажется больше детей, будет пользоваться большим почётом и будет предпочтён другим в консульском достоинстве.",
+        "Она увенчана листьями конопли, ибо эта трава, чьё семя весьма мелко и которая размножается сама собой почти без всякого ухода при возделывании, становится столь высокой и крепкой, что выдерживает садящихся на неё птиц.",
+        "Если же спросят, зачем ей дают держать в руке гнездо щеглов, ответ на это найдётся у Плиния. Ибо в том же месте своей книги, где он говорит, что чем крупнее животное, тем менее оно плодовито, как видно на примере верблюдов и слонов, он замечает, напротив, что из яиц щегла, этой маленькой птички, вылупляется до двенадцати птенцов.",
+        "По той же причине у её ног курица, ибо эта домашняя птица столь плодовита, что из одного её яйца порой выходят два цыплёнка; это, по словам Пиерия, он сам видел в Падуе, и то же утверждает Альберт Великий. А если верить Аристотелю, нередко случалось, что овцы приносили до пяти ягнят разом. Возможно, именно поэтому в древности женщины приносили в жертву двух овец вместе с их матерью, если случалось, что при родах у них рождались близнецы. Но порой случается и того больше, ибо Авл Геллий, Юлий Капитолин, Ботерус и Мартин Кромер уверяют нас, что на территории Лаврента одна из рабынь Августа родила пятерых сыновей мужского пола, которые прожили некоторое время; что то же случилось с другой при императоре Антонине; что в 1276 году у графини Маргариты родилось триста шестьдесят четыре существа, все крещённые именами Иоанна и Элизабет, как это до сих пор отмечено на их гробнице в монастыре монахинь святого Бернарда близ Гааги в Голландии, где эта история записана подробно; и что в Кракове в 1269 году другая Маргарита, жена графа Вербола́уса, родила тридцать шесть детей.",
+        "Что до кроликов, видимых с другой стороны этого изображения, они помещены там весьма уместно, ибо эти животные столь плодовиты, что, ещё вскармливая своих детёнышей, производят на свет новых. К этому относится замечание Валерия Великого, который говорит, что на некоем острове, который он называет, они размножились в столь великом числе, что жители были вынуждены уступить им место — настолько они им докучали.",
+        "Сказанному мною о Плодородии довольно соответствуют две древние медали — Фаустины и Мамеи; на первой из них она изображена на ложе, в окружении резвящихся детей; а на второй — женщиной, держащей одной рукой ребёнка, а другой — рог изобилия."
+      ],
+      "text_fr": [
+        "Je trouve que cette peinture ne luy convient pas mal, qui est celle d'vne jeune femme, couronnée de cheneviere. Elle tient prés de son sein vn nid de chardonnerets, & à ses pieds se voyent d'vn costé des petits lapins qui se jouënt, & des poussins qu'vne poule regarde fixement, & qui viennent d'estre éclos.",
+        "Le plus grand bien que puisse avoir vne femme mariée, est celuy de la fecondité, par qui elle produit les fruits desirables qu'on se propose pour fin du mariage. Aussi est-il vray que la procreation des enfans est entierement necessaire aux hommes par vn instinct de nature, comme il se voit par l'exemple mesme des creatures irraisonnables; car il n'y en a point qui ne cherchent naturellement d'engendrer selon leur espece, sans que toutefois elles en esperent aucune vtilité. Or est-il que c'en est vne bien grande, que d'avoir des enfans qui soient gens de bien, comme Aristote le prouve en sa Rethorique. Ce que Pline encore dit estre vn des plus hauts points de la felicité humaine, par l'exemple qu'il rapporte de Cecilius Metellus le Macedonien, qui eut quatre fils élevez aux plus hautes charges de Rome, comme ayant esté Preteurs, Consuls & Censeurs. A quoy il adjoûte, qu'au temps d'Auguste, Caius Crispinus fit vn sacrifice solemnel au Capitole avec neuf de ses enfans, sçavoir, sept garçons & deux filles, vingt-sept neveux, neuf nieces, & vingt-neuf petits-neveux. Je ne parle point ny de Cornelie, de la maison des Scipions, d'où naquit Volusius Saturninus, qui fut Consul avec l'Empereur Domitian; ny de la mere des Gracques, à qui, selon Pline, vne grande dame ayant vn jour fait montre de ses joyaux, elle luy fit voir douze beaux garçons qu'elle avoit, en luy disant que c'estoient là ses plus precieux tresors. Tellement qu'on peut bien asseurer que cette felicité des familles est si grande, qu'elle passe des particuliers à tout le public. Aussi ordonna-t'on anciennement à Rome, que celuy qui se trouveroit avoir plus d'enfans, auroit plus d'honneur, & seroit preferé aux autres en la dignité Consulaire.",
+        "Elle est couronnée de feuilles de cheneviere, parce que cette herbe, dont la semence est fort menuë, & qui multiplie d'elle-mesme sans qu'on apporte presque point de soin à la cultiver, devient si grande & si forte, qu'elle soûtient les oiseaux qui s'y perchent.",
+        "Que si l'on demande à quel propos on luy fait tenir en main vn nid de chardonnerets, l'on en trouvera la response dans Pline. Car en ce mesme endroit de son livre, où il dit que tant plus vn animal est grand, tant moins il est fecond, comme il se voit par l'exemple des chameaux, & des elephans; il remarque tout au contraire, que des œufs du chardonneret, qui n'est qu'vn petit oiseau, il s'en éclost jusques à douze.",
+        "Pour cette mesme raison elle a vne poule à ses pieds, à cause que cet oiseau domestique est si fecond, que d'vn seul de ses œufs il en sort quelquefois deux poussins; ce que Pierius dit avoir veu dans Padoüe; & Albert le Grand asseure le mesme. Que s'il en faut croire Aristote, il s'est trouvé des brebis assez souvent, qui ont porté jusques à cinq agneaux à la fois. Et possible estoit-ce pour cela, qu'anciennement les femmes en sacrifioient deux avec leur mere, s'il arrivoit qu'en leur accouchement elles eussent des jumeaux. Mais il advient quelquefois qu'elles en ont bien davantage, puisqu'Aule-Gelle, Iules Capitolin, Boterus, & Martin Cromer nous asseurent, qu'au territoire de Laurente, vne des esclaves d'Auguste accoucha de cinq enfans masles, qui vécurent quelque temps: qu'il en arriva de mesme à vne autre sous l'Empire d'Antonin: que l'an 1276. nasquirent de la Comtesse Marguerite trois cens soixante & quatre creatures, qui furent toutes baptisées sous les noms de Jeanne & d'Elisabet, comme il se remarque encore aujourd'huy sur leur tombeau, qui est dans vn Monastere de Religieuses de saint Bernard prés de la Haye en Hollande, où cette histoire est écrite au long: & qu'en Cracovie l'an 1269. vne autre Marguerite, femme du Comte Verbolaüs, accoucha de trente-six enfans.",
+        "Pour ce qui est des lapins, qui se voyent à l'autre costé de cette figure, c'est fort à propos qu'ils y sont mis, ces animaux estans si feconds, qu'en allaitant leurs petits, ils en produisent d'autres. A quoy se rapporte la remarque qu'en fait Valere le Grand, qui dit que dans vne certaine Isle qu'il nomme, ils multiplierent en si grand nombre, que les habitans furent contraints de leur quitter la place, tant ils en estoient incommodez.",
+        "A ce que je viens de dire de la Fecondité, sont conformes à peu prés deux anciennes medailles de Faustine & de Mamée; en la premiere desquelles elle se voit representée sur vn lit, avec des enfans qui se jouënt à l'entour d'elle: & en la seconde, par vne femme, qui tient d'vne main vn enfant, & de l'autre vne corne d'abondance."
+      ],
       "en": "Fecundity",
-      "group_en": "F"
+      "group_en": "F",
+      "scans": [
+        "p1-059-1.jpg",
+        "p1-059-2.jpg",
+        "p1-059-3.jpg"
+      ],
+      "text_en": [
+        "I find that this picture suits her rather well — that of a young woman, crowned with hemp leaves. She holds near her bosom a nest of goldfinches, and at her feet are seen, on one side, little rabbits at play, and on the other, chicks newly hatched, which a hen watches fixedly.",
+        "The greatest good a married woman can have is that of fecundity, by which she produces the desirable fruits proposed as the end of marriage. It is also true that the procreation of children is entirely necessary to men by a natural instinct, as is seen even in the example of unreasoning creatures; for there is not one that does not naturally seek to engender after its kind, though they hope for no benefit from it. Now this is a very great good indeed, to have children who turn out to be worthy people, as Aristotle proves in his Rhetoric. Pliny likewise says this is one of the highest points of human felicity, citing the example of Caecilius Metellus the Macedonian, who had four sons raised to the highest offices of Rome, having been Praetors, Consuls, and Censors. To which he adds that in the time of Augustus, Caius Crispinus made a solemn sacrifice on the Capitol with nine of his children, namely seven sons and two daughters, twenty-seven nephews, nine nieces, and twenty-nine great-nephews. I say nothing of Cornelia, of the house of the Scipios, from whom was born Volusius Saturninus, who was Consul alongside the Emperor Domitian; nor of the mother of the Gracchi, to whom, according to Pliny, a great lady having one day shown off her jewels, she in turn showed her the twelve fine sons she had, telling her that these were her most precious treasures. So much so that one may well assert that this felicity of families is so great that it passes from private persons to the whole public. Thus it was anciently ordained at Rome that whoever was found to have the most children would have the greater honor, and would be preferred to others for the consular dignity.",
+        "She is crowned with hemp leaves, because this plant, whose seed is very fine, and which multiplies of itself with scarcely any care taken to cultivate it, grows so tall and strong that it bears the weight of birds perching upon it.",
+        "Should one ask why she is made to hold a nest of goldfinches in her hand, the answer is found in Pliny. For in that same part of his book, where he says that the larger an animal is, the less fecund it is, as seen in the example of camels and elephants, he remarks, quite to the contrary, that from the eggs of the goldfinch, which is but a small bird, as many as twelve hatch.",
+        "For the same reason she has a hen at her feet, because this domestic bird is so fecund that from a single one of her eggs there sometimes come forth two chicks; which Pierius says he saw himself at Padua, and Albertus Magnus affirms the same. And if Aristotle is to be believed, ewes have quite often been found to bear as many as five lambs at once. And it was perhaps for this reason that in ancient times women sacrificed two ewes together with their mother, should it happen that they bore twins in childbirth. But it sometimes happens that they have many more, since Aulus Gellius, Julius Capitolinus, Boterus, and Martin Cromer assure us that in the territory of Laurentum, one of Augustus's slave-women gave birth to five male children, who lived for some time; that the same befell another under the Empire of Antoninus; that in the year 1276 three hundred and sixty-four creatures were born of Countess Margaret, all baptized under the names of Joan and Elizabeth, as is still noted today upon their tomb, which is in a Monastery of nuns of Saint Bernard near The Hague in Holland, where this story is recorded at length; and that at Cracow in the year 1269 another Margaret, wife of Count Verbolaus, gave birth to thirty-six children.",
+        "As for the rabbits seen on the other side of this figure, they are most fittingly placed there, these animals being so fecund that, while still suckling their young, they produce others. To which relates the remark made by Valerius Maximus, who says that on a certain island he names, they multiplied in such great number that the inhabitants were forced to yield their place, so greatly were they troubled by them.",
+        "What I have just said of Fecundity is fairly well matched by two ancient medals, of Faustina and of Mamaea; on the first of which she is seen represented upon a bed, with children playing around her; and on the second, as a woman holding a child in one hand, and a horn of abundance in the other."
+      ]
     },
     {
       "id": "p1-60",
@@ -3151,12 +3196,42 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-60.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Меркурий, чьи обе стопы уходят в квадратный постамент",
+          "meaning": "Здравое рассуждение, опирающееся на крепкий ум, не нуждается в опоре извне, чтобы стать непоколебимым",
+          "what_en": "Mercury, both feet sunk into a square pedestal",
+          "meaning_en": "Sound reasoning, upheld by a solid mind, needs no outside support to become unshakeable"
+        },
+        {
+          "what": "Крылья и кадуцей",
+          "meaning": "Твёрдое красноречие воскрешает людей памятью об их славных делах — как Меркурий воскрешал мёртвых тайной силой кадуцея",
+          "what_en": "Wings and a caduceus",
+          "meaning_en": "Solid eloquence revives men through the memory of their noble deeds — as Mercury revived the dead by the secret power of his caduceus"
+        }
+      ],
+      "text_ru": [
+        "Это изображение заимствовано у Пиерия из его Иероглифических фигур, где он говорит, что египетские жрецы представляли Твёрдость речи в образе Меркурия на квадратном постаменте, в который уходили обе его стопы: этим, полагаю, они хотели показать лишь то, что здравое рассуждение, поддержанное рассудительным и крепким умом, может существовать само по себе, вовсе не нуждаясь ни в помощи ног, ни рук, чтобы утвердиться и стать непоколебимым. И, возможно, именно поэтому вместо постамента некоторые другие скрывают его стопы в груде камней; ибо в древности прохожие бросали множество их к подножию его статуи, как замечает Форнут в своей книге о природе богов.",
+        "Что до его крыльев и кадуцея, это учит нас двум вещам: во-первых, что хотя слова и легки и кажутся летучими, однако, произнесённые веско и рассудительно, они не перестают производить сильное впечатление в памяти. Во-вторых, что твёрдое красноречие воскрешает людей памятью об их славных делах — подобно тому как Меркурий воскрешал мёртвых тайной силой, которую древние приписывали его кадуцею."
+      ],
+      "text_fr": [
+        "Cette peinture est tirée de Pierius en ses Figures Hieroglyfiques, où il dit que les Prestres Egyptiens representoient la Fermeté du discours par vn Mercure sur vne baze quarrée, où s'enfonçoient ses deux pieds: par où je m'imagine qu'ils ne vouloient monstrer autre chose, sinon que le bon raisonnement, soustenu par vn esprit judicieux & solide, peut subsister de soy-mesme, sans avoir besoin en aucune sorte de l'aide des pieds, ny de celle des mains, pour s'affermir & se rendre inébranlable. Et possible que pour cela mesme au lieu de baze, quelques autres luy cachent les pieds dans vn monceau de pierre; parce qu'anciennement les passans en jettoient plusieurs au bas de sa statuë, comme le remarque Fornutus en son livre de la nature des Dieux.",
+        "Quant à ses aisles & à son caducée, cela nous apprend deux choses; l'vne, qu'encore que les paroles soient legeres, & qu'elles semblent voler, si est-ce qu'estant proferées avec poids & judicieusement, elles ne laissent pas de faire vne forte impression dans la memoire. L'autre, qu'vne eloquence solide fait revivre les hommes par le souvenir de leurs belles actions; tout de mesme que Mercure ressuscitoit les morts par la secrette vertu que les anciens attribuoient à son caducée."
+      ],
       "en": "Firmness of Speech",
-      "group_en": "F"
+      "group_en": "F",
+      "caption": "Fermeté du langage",
+      "scans": [
+        "p1-060-1.jpg",
+        "p1-060-2.jpg"
+      ],
+      "text_en": [
+        "This picture is drawn from Pierius, in his Hieroglyphic Figures, where he says that the Egyptian Priests represented Firmness of Speech by a Mercury upon a square base, into which both his feet sank: by which I imagine they meant to show nothing other than that sound reasoning, upheld by a judicious and solid mind, can subsist of itself, having no need whatsoever of the help of feet, nor of hands, to steady itself and render itself unshakeable. And it is perhaps for this same reason that, instead of a base, some others hide his feet in a heap of stones; because in ancient times passersby would throw many of them at the foot of his statue, as Fornutus notes in his book on the nature of the Gods.",
+        "As for his wings and his caduceus, these teach us two things: one, that although words are light, and seem to fly, yet, when uttered with weight and judiciously, they nonetheless make a strong impression upon the memory. The other, that solid eloquence brings men back to life through the memory of their noble deeds — just as Mercury revived the dead through the secret virtue the ancients attributed to his caduceus."
+      ]
     },
     {
       "id": "p1-61",
@@ -3169,12 +3244,34 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-61.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Сидящая женщина со сплетёнными руками, двумя якорями в форме креста и сердцем над головой",
+          "meaning": "Якоря означают, что надежда, укреплённая разумом, — твёрдая опора влюблённого сердца; сплетённые руки — неотделимость верности от любящего",
+          "what_en": "A seated woman with clasped hands, two anchors forming a cross and a heart above her head",
+          "meaning_en": "The anchors signify that hope, strengthened by reason, is the firmest support of a loving heart; the clasped hands, the inseparability of fidelity from the one who loves"
+        }
+      ],
+      "text_ru": [
+        "Её представляют в виде сидящей женщины, богато одетой, сплетающей обе руки одна с другой, с двумя якорями в форме креста над головой, сердцем посередине и словами над ними: MENS EST FIRMISSIMA, что значит «Решимость непоколебима».",
+        "Богатым убранством, которым она украшена, показано, что, поскольку Любовь по природе своей переменчива, должно высоко ценить Постоянство, когда оно с ней соединено. Двумя сплетёнными якорями — что надежда, укреплённая разумом, есть самая твёрдая опора влюблённого сердца; сплетёнными руками — что верность должна быть неотделима от любящего человека; а её спокойной позой — что если в любви и может быть какой-то покой духа, он непременно должен проистекать из твёрдой решимости, или, по крайней мере, она должна составлять его лучшую часть."
+      ],
+      "text_fr": [
+        "Elle est representée par vne femme assise, richement vestuë, & qui tient les deux mains enlacées l'vne dans l'autre, ayant sur la teste deux ancres en forme de croix, vn cœur au milieu, & ces paroles au dessus, MENS EST FIRMISSIMA, comme qui diroit, Resolution immuable.",
+        "Par le riche habillement dont elle est parée, il est montré qu'Amour estant volage de sa nature, il faut faire grande estime de la Constance, quand elle s'y trouve jointe. Par les deux ancres liez ensemble, que l'esperance fortifiée par la raison, est le plus ferme appuy d'vn cœur amoureux: par ses mains enlacées, que la foy doit estre inseparable d'avec la personne qui aime: & par son action posée, que s'il y peut avoir quelque repos d'esprit en l'amour, il faut necessairement qu'il procede d'vne ferme resolution, ou tout au moins qu'elle en fasse la meilleure partie."
+      ],
       "en": "Firmness of Love",
-      "group_en": "F"
+      "group_en": "F",
+      "scans": [
+        "p1-061-1.jpg"
+      ],
+      "text_en": [
+        "She is represented as a seated woman, richly dressed, who holds her two hands clasped one within the other, having upon her head two anchors in the form of a cross, a heart in the middle, and these words above, MENS EST FIRMISSIMA, as if to say, Unchanging Resolve.",
+        "By the rich attire with which she is adorned, it is shown that, Love being fickle by its nature, great store must be set by Constancy when found joined to it. By the two anchors bound together, that hope, strengthened by reason, is the firmest support of a loving heart: by her clasped hands, that fidelity must be inseparable from the person who loves: and by her composed posture, that if there can be any peace of mind in love, it must necessarily proceed from a firm resolve, or at the very least, that resolve must form the better part of it."
+      ]
     },
     {
       "id": "p1-62",
@@ -3187,12 +3284,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-62.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в белом с печатью в одной руке и ключом в другой",
+          "meaning": "Печать и ключ — общепринятые символы Верности, которыми запечатывают и запирают то, что хотят сохранить в тайне",
+          "what_en": "A woman in white with a seal in one hand and a key in the other",
+          "meaning_en": "The seal and key are universal symbols of Fidelity, used to seal and lock away what one wishes kept secret"
+        },
+        {
+          "what": "Собака у её ног",
+          "meaning": "Самое верное из животных — по Плинию, пёс Тита Лабиена утонул, пытаясь спасти брошенного в Тибр хозяина",
+          "what_en": "A dog at her feet",
+          "meaning_en": "The most faithful of animals — according to Pliny, Titus Labienus's dog drowned trying to save its master, who had been thrown into the Tiber"
+        }
+      ],
+      "text_ru": [
+        "Нельзя создать более подходящего изображения, чем это, — женщины, одетой в белое, держащей в одной руке печать, в другой — ключ, а у её ног — собаку.",
+        "Этот образ не нуждается в объяснении, ибо нет никого, кто не знал бы хорошо, что печать и ключ — символы Верности: ими ведь принято запечатывать и запирать то, что желают сохранить в тайне.",
+        "Что до собаки, опыт ежедневно показывает, что это самое верное из всех животных и самый большой друг человека: свидетель тому — пёс Тита Лабиена, по свидетельству Плиния, который никогда не отходил от своего хозяина и, увидев, как того сбросили с Гемониевых ступеней в Тибр, тотчас же бросился за ним следом и в конце концов утонул, без устали плавая и ныряя за ним."
+      ],
+      "text_fr": [
+        "L'on ne peut faire vn tableau plus convenable que celuy-cy, qui est d'vne femme vestuë de blanc, ayant en l'vne de ses mains vn cachet, en l'autre vne clef, & à ses pieds vn chien.",
+        "Cette figure n'a pas besoin d'explication, puisqu'il n'y a personne qui ne sçache bien que le cachet & la clef sont des symboles de Fidelité: aussi a-t'on accoustumé de s'en servir à sceller & à serrer les choses que l'on veut tenir secrettes.",
+        "Pour ce qui est du chien, l'experience fait voir tous les jours, que c'est le plus fidele de tous les animaux, & le plus amy de l'homme: témoin celuy de Titus Labienus, au rapport de Pline, qui ne partit jamais d'auprés de son maistre, & qui le voyant precipité dans le Tybre par les degrez Gemonins, s'y jetta incontinent aprés luy, & se noya finalement à force de nager & de faire le plongeon."
+      ],
       "en": "Fidelity",
-      "group_en": "F"
+      "group_en": "F",
+      "scans": [
+        "p1-062-1.jpg"
+      ],
+      "text_en": [
+        "One could not make a more fitting picture than this one, of a woman clothed in white, holding in one of her hands a seal, in the other a key, and at her feet a dog.",
+        "This figure needs no explanation, there being no one who does not well know that the seal and the key are symbols of Fidelity: indeed, they are customarily used to seal and to lock away the things one wishes to keep secret.",
+        "As for the dog, experience shows every day that it is the most faithful of all animals, and man's greatest friend: witness that of Titus Labienus, according to Pliny, which never left its master's side, and which, seeing him thrown into the Tiber from the Gemonian Stairs, at once leapt in after him, and in the end drowned from ceaseless swimming and diving after him."
+      ]
     },
     {
       "id": "p1-63",
