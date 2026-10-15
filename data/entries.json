@@ -5996,12 +5996,60 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-115.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Приятная женщина в оливковом венке, с рогом изобилия в левой руке и колосьями в правой",
+          "meaning": "Олива и колосья — истинные символы Мира, дающего земле плодородие; шесть античных медалей, описанных в тексте, показывают разные грани Мира — от смягчения вражды до победы над войной",
+          "what_en": "A pleasing woman in an olive wreath, a horn of plenty in her left hand and ears of corn in her right",
+          "meaning_en": "The olive and corn are the true symbols of Peace, which brings fertility to the earth; the six ancient medals described in the text show different facets of Peace, from the softening of enmity to triumph over war"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде привлекательной женщины, с венком из оливы на голове, с рогом изобилия в левой руке и колосьями в правой.",
+        "Нетрудно объяснить этот образ, ибо нет никого, кто не знал бы, что олива и колосья — истинные символы Мира, ибо земля обильно родит оливки и зёрна лишь там, где эта Богиня позволяет людям их возделывать. ¶«Лишь в Мире всё сущее / Свершается по нашим желаниям; / Как весной рождаются розы, / Так в Мире рождаются радости. / Он придаёт городам пышность, / Дарует полям обильные жатвы; / И, подкрепляя величием Законов / Верховную власть, / Удерживает диадемы / Твёрдо на головах Царей».",
+        "По этой причине в баснях Поэтов богиню Минерву восхваляет Юпитер за изобретение оливы; как и Нептуна — за то, что он первым из всех научил людей искусству укрощать коней, один — для службы Миру, а другой — для поддержки Войны, которая обычно ставит это себе целью.",
+        "И поскольку Мир всегда был усладой народов, они с удовольствием по-разному изображали блага, им приносимые. Если бы эта истина не была достаточно сильна сама по себе, я привёл бы здесь множество доказательств в её подтверждение; и современники в изобилии снабдили бы меня ими. Но я ограничусь теми, что оставила нам древность на многих медалях, видимых и поныне.",
+        "Первая — медаль Августа, где он изображён держащим в одной руке оливковую ветвь, ибо она смягчает самые суровые нравы; а в другой — факел, которым он сжигает трофей из оружия, дабы тем самым означить, что он уничтожает всякую старую вражду в тот самый миг, когда она, казалось бы, возрождается из пепла тех, кто питал её при жизни.",
+        "Вторая — медаль Филиппа, где ему дают держать в руке копьё, дабы показать, что он обретён собственной доблестью и силой оружия.",
+        "Третья — медаль Веспасиана, где он отмечен кадуцеем и рогом изобилия.",
+        "Четвёртая — медаль Тита, изображающего его в виде женщины-воительницы, держащей в одной руке пальмовую ветвь, дабы вознаграждать добродетельных, а в другой — боевую секиру, дабы карать виновных; и правда, что надежда и страх — две вещи на свете, лучше всего способные установить Мир и сохранить его среди людей.",
+        "Пятая — медаль Сергия Гальбы, где он восседает на троне в знак дивного своего спокойствия, опираясь на палицу, которой он, подобно Геркулесу, воспользовался, чтобы покарать дерзость злодеев, кажущихся рождёнными лишь для того, чтобы нарушать покой добрых людей.",
+        "Шестая — медаль Клавдия, изображающая женщину, опирающуюся на кадуцей, обвитый страшным змеем, и прикрывающую глаза другой рукой, дабы не видеть, как он источает свой яд; при этом стоит заметить, что ей весьма уместно дают здесь кадуцей, от латинского глагола cadere, означающего «падать», ибо едва появлялся этот знак Мира, как тотчас низвергал всякого рода раздоры и разделения, какой бы природы они ни были. Если же она закрывает глаза, то дабы показать, что война, изображаемая змеем, являет зрелища столь трагические, что чаще всего внушают ужас всякому, кто умеет их здраво рассмотреть: отчего славнейший из всех Поэтов по праву восклицает: ¶«Приди и даруй нам на земле / Мир, которого мы просим; / Если верно, что от Войны / Ничего доброго мы не ждём»."
+      ],
+      "text_fr": [
+        "Elle nous est representée par vne femme agreable, qui a sur la teste vne Guirlande d'olivier, en la main gauche vne corne d'abondance, & des épics en la droite.",
+        "Il n'est pas difficile d'expliquer cette figure, puisqu'il n'y a celuy qui ne sçache, que l'olivier & les épics sont les vrais symboles de la Paix, la terre ne produisant abondamment des olives ny des grains, qu'aux lieux où cette Deesse permet aux hommes de la cultiver, ¶C'est en la Paix que toutes choses / Succedent selon nos desirs; / Comme au Printemps naissent les roses, / En la Paix naissent les plaisirs. / Elle met les pompes aux villes, / Donne aux champs les moissons fertiles; / Et de la majesté des Loix / Appuyant les pouvoirs suprémes, / Fait demeurer les Diadémes / Fermes sur la teste des Rois.",
+        "C'est à raison de cela que dans les fables des Poëtes la deesse Minerve est loüée par Jupiter, pour avoir inventé l'olivier; comme Neptune l'est aussi, à cause que ce fut luy qui le premier de tous apprit aux hommes l'art de dompter les chevaux, l'un pour l'vsage de la Paix, & l'autre pour le soûtient de la Guerre, qui se la propose pour but ordinairement.",
+        "Et dautant que la Paix a toûjours esté les delices des peuples, aussi ont-ils pris plaisir de representer diversement les biens qu'elle produit. Si cette verité n'estoit assez forte d'elle-mesme, je rapporterois icy quantité de preuves pour l'appuyer; & les modernes m'en fourniroient abondamment. Mais je me tiens à celles que l'antiquité nous en a laissées en plusieurs medailles, qui se voyent encore aujourd'huy.",
+        "La premiere est celle d'Auguste, où elle est gravée tenant d'vne main vne branche d'olivier, parce qu'elle adoucit les courages les plus aigres; & de l'autre vn flambeau, dont elle brule vn trophée d'armes, pour signifier par là, qu'elle aneantit toutes les vieilles inimitiez, sur le point mesme qu'elles semblent renaistre de la cendre de ceux qui les ont fomentées durant leur vie.",
+        "La seconde est celle de Philippe, qui luy fait tenir vne lance en main, pour montrer qu'elle est acquise par la valeur propre, & par la force des armes.",
+        "La troisiéme est celle de Vespasien, où elle se fait remarquer par vn caducée, & par vne corne d'abondance.",
+        "La quatriéme est celle de Titus, qui la represente en femme guerriere, tenant d'vne main vne palme, pour recompenser les vertueux; & de l'autre vne hache d'armes, pour en punir les coupables; aussi est-il vray que l'esperance & la crainte sont les deux choses du monde qui peuvent le mieux établir la Paix, & la conserver parmy les hommes.",
+        "La cinquiéme est celle de Sergius Galba, où elle se voit assise en vn thrône, pour vne marque de sa tranquillité merveilleuse, & appuyée sur vne massuë, aprés s'en estre servie comme Hercule à punir l'audace des méchans, qui ne semblent estre nez que pour troubler le repos des gens de bien.",
+        "La sixiéme est celle de Claudius, representant vne femme qui s'appuye sur vn caducée enveloppé d'vn effroyable serpent, & qui se couvre les yeux de l'autre main, pour ne luy voir point répandre son venin; où il est à remarquer qu'on luy donne icy fort à propos le caducée, ainsi dit du verbe Latin, cadere, qui signifie tomber, dautant que cette enseigne de Paix ne paroissoit pas plûtost, qu'elle abatoit toutes sortes de discordes & de divisions, de quelque nature qu'elles fussent. Que si elle se voile les yeux, c'est pour montrer que la guerre qui est figurée par le serpent, a des objets si tragiques, qu'ils font horreur la plûpart du temps à quiconque les sçait bien considerer: ce qui fait que le plus illustre de tous les Poëtes s'écrie à bon droit, ¶Vient nous donner sur la terre / La Paix que nous demandons; / S'il est vray que de la Guerre / Rien de bon nous n'attendons."
+      ],
       "en": "Peace",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-115-1.jpg",
+        "p1-115-2.jpg",
+        "p1-115-3.jpg"
+      ],
+      "text_en": [
+        "She is represented to us by an agreeable woman, who has upon her head a garland of olive, in her left hand a horn of plenty, and ears of corn in her right.",
+        "It is not difficult to explain this figure, since there is no one who does not know that the olive and the ears of corn are the true symbols of Peace, the earth producing olives and grain abundantly only in places where this Goddess permits men to cultivate it. ¶\"It is in Peace that all things / Succeed according to our desires; / As in Spring roses are born, / In Peace pleasures are born. / She brings pomp to the cities, / Gives the fields fertile harvests; / And, by the majesty of Laws / Upholding the supreme powers, / Keeps the Diadems / Firm upon the heads of Kings.\"",
+        "It is for this reason that in the fables of the Poets the goddess Minerva is praised by Jupiter for having invented the olive; as Neptune is likewise, because it was he who first of all taught men the art of taming horses, the one for the use of Peace, and the other for the support of War, which ordinarily sets this as its aim.",
+        "And inasmuch as Peace has always been the delight of peoples, they have likewise taken pleasure in variously representing the goods she produces. If this truth were not strong enough in itself, I would report here a great many proofs to support it; and the moderns would furnish me with them abundantly. But I shall confine myself to those which antiquity has left us on several medals, still to be seen today.",
+        "The first is that of Augustus, where she is engraved holding in one hand an olive branch, because she softens the harshest tempers; and in the other a torch, with which she burns a trophy of arms, to signify thereby that she annihilates all old enmities, at the very moment they seem to be reborn from the ashes of those who fomented them during their lives.",
+        "The second is that of Philip, which makes her hold a lance in hand, to show that she is acquired by one's own valor, and by force of arms.",
+        "The third is that of Vespasian, where she is made notable by a caduceus, and by a horn of plenty.",
+        "The fourth is that of Titus, who represents her as a warrior woman, holding in one hand a palm, to reward the virtuous; and in the other a battle-axe, to punish the guilty; and it is indeed true that hope and fear are the two things in the world best able to establish Peace, and preserve it among men.",
+        "The fifth is that of Sergius Galba, where she is seen seated on a throne, as a mark of her marvelous tranquility, and leaning on a club, after having used it, like Hercules, to punish the boldness of the wicked, who seem born only to trouble the rest of good people.",
+        "The sixth is that of Claudius, representing a woman who leans on a caduceus wrapped in a dreadful serpent, and who covers her eyes with the other hand, so as not to see it spread its venom; wherein it is to be noted that she is quite fittingly given here the caduceus, so called from the Latin verb cadere, which means to fall, inasmuch as this ensign of Peace no sooner appeared than it struck down every kind of discord and division, of whatever nature they were. And if she veils her eyes, it is to show that war, figured by the serpent, has objects so tragic that they mostly inspire horror in whoever knows how to consider them well: which makes the most illustrious of all the Poets rightly exclaim, ¶\"Come give us on earth / The Peace we ask for; / If it is true that from War / We expect nothing good.\""
+      ]
     },
     {
       "id": "p1-116",
@@ -6014,12 +6062,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-116.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина зрелых лет с циркулем в правой руке и закрытым кошелем с надписью IN MELIUS SERVAT в левой",
+          "meaning": "Циркуль — порядок и мера во всём; кошель — бережливость как часть благоразумия; надпись означает, что сохранить имеющееся честнее, чем гнаться за недостающим",
+          "what_en": "A woman of mature age with a compass in her right hand and a closed purse inscribed IN MELIUS SERVAT in her left",
+          "meaning_en": "The compass signifies order and measure in all things; the purse, thrift as part of prudence; the inscription means that preserving what one has is more honorable than chasing what one lacks"
+        }
+      ],
+      "text_ru": [
+        "Эта женщина зрелых лет, скромно одетая, держит в правой руке циркуль, а в левой — закрытый кошель, полный серебра, со свитком, на котором начертаны слова: IN MELIUS SERVAT, как если бы сказать: она хранит его для лучшего.",
+        "Умеренность непременно должна быть главной целью Бережливости, ибо она состоит прежде всего в избегании излишних трат, в удержании себя в пределах справедливой середины; она же из четырёх частей Благоразумия, необходимых для сохранения мирских благ, обладает тремя: ибо, по Плутарху, она владеет искусством разумно вести хозяйство, приумножать свои удобства и сохранять их с честью. Эсхин говорил по этому поводу, что при его образе жизни он ничего не занимает в рост ни у кого, кроме самого себя, ибо вместо трат, которые мог бы себе позволить, он строго ограничивал себя в пользовании своим имуществом; в чём поистине следовал совету Аристотеля, который, рекомендуя бережливость Общинам или Республикам, говорит: каждый город должен прежде знать состояние своих доходов, а затем своих расходов, дабы урезать их, если они излишни. Ибо чтобы оставаться богатым, не менее необходимо беречь своё достояние, чем приумножать его собственным трудом. К этому совету Аристотеля примыкает и совет Сенеки, говорящего, что нет богатств столь великих и способных нас насытить, если мы не умеем, дабы правильно ими пользоваться, прибегать к бережливости.",
+        "А то, что её изображают в зрелом возрасте, сделано для того, чтобы показать, что в эту пору человек становится способен к разуму и равно умеет соединять полезное с честным.",
+        "Её одежда проста и без всякого убранства, дабы показать, что она враждебна всякому излишнему расходу: ибо она с удовольствием извлекает пользу из наставления святого Амвросия, что нет ничего более необходимого для жизни, чем хорошо знать, в чём она нуждается.",
+        "Циркуль, который она держит в правой руке, означает порядок и меру, каких следует держаться во всём. Ибо как этот математический инструмент никогда не удаляется от своей окружности, так и бережливость никогда не выходит за пределы разума и честности.",
+        "Что же до кошеля, который она несёт в другой руке, с надписью IN MELIUS SERVAT, это означает, что для нас гораздо большая честь — сохранить то, что мы имеем, нежели приобрести то, чего нам недостаёт."
+      ],
+      "text_fr": [
+        "Cette femme d'un âge viril, & modestement vestuë, tient de la main droite vn compas, & de la gauche vne bourse fermée pleine d'argent, avec vn rouleau, où sont écrites ces paroles, IN MELIUS SERVAT, comme qui diroit, elle le garde pour le mieux.",
+        "Il faut bien que la moderation soit le principal but de l'Epargne, puisqu'elle consiste principalement à fuïr les dépenses superfluës, en se tenant dans les bornes d'vne juste mediocrité; c'est elle aussi qui des quatre parties de la Prudence, necessaires à la conservation des biens du monde, en possede trois: car selon Plutarque, elle sçait l'art d'agir prudemment dans le ménage, d'accroistre ses commoditez, & de les conserver avec honneur. Eschinés disoit à ce propos, que de la façon qu'il vivoit il n'empruntoit rien à vsure que de soy-mesme, parce qu'au lieu de la dépense qu'il pouvoit faire, il se resserroit étroitement dans l'vsage de son bien; en quoy veritablement il se regloit par le conseil d'Aristote, qui recommandant l'épargne aux Communautez, ou aux Republiques; Il faut, dit-il, que chaque ville sçache premierement l'estat de son revenu, puis celuy de sa dépense, afin de la retrancher, si elle est superfluë. Car pour se maintenir riche, il n'est pas moins necessaire d'épargner son bien, que de l'accroistre par sa propre industrie. A cet avis d'Aristote se rapporte encore celuy de Seneque, quand il dit, qu'il n'y a point de richesses assez grandes, ny qui soient capables de nous assouvir, si pour en vser comme il faut nous ne sçavons recourir à l'épargne.",
+        "Or ce qu'elle est peinte en l'âge viril, est pour faire voir qu'en ce temps-là l'homme est rendu capable de raison, & de joindre également l'vtile à l'honneste.",
+        "Son habillement est simple & sans aucune parure, pour montrer qu'elle est ennemie de toute dépense superfluë: car elle se plaist à profiter de cette leçon de saint Ambroise, qu'il n'y a rien si necessaire à la vie, que de bien sçavoir connoistre ce dequoy elle a besoin.",
+        "Le compas qu'elle a en la main droite, signifie l'ordre & la mesure qu'il faut tenir en toutes choses. Car comme cet instrument de Mathematique ne s'éloigne point de sa circonference, l'épargne de mesme ne sort jamais des limites de la raison, ny de celles de l'honnesteté.",
+        "Quant à la bourse qu'elle porte en l'autre main, avec ces mots, IN MELIUS SERVAT, cela veut dire, que ce nous est vn honneur beaucoup plus grand de conserver ce que nous avons, que d'acquerir ce qui nous manque."
+      ],
       "en": "Parsimony, or Thrift",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-116-1.jpg",
+        "p1-116-2.jpg"
+      ],
+      "text_en": [
+        "This woman of mature age, modestly clothed, holds in her right hand a compass, and in her left a closed purse full of money, with a scroll on which are written these words, IN MELIUS SERVAT, as if to say, she keeps it for the better.",
+        "Moderation must certainly be the chief aim of Thrift, since it consists principally in fleeing superfluous expenses, keeping within the bounds of a just mean; it is she, too, who of the four parts of Prudence necessary to the preservation of worldly goods, possesses three: for according to Plutarch, she knows the art of acting prudently in household management, of increasing one's comforts, and of preserving them with honor. Aeschines said on this subject that, by the way he lived, he borrowed at interest from no one but himself, because instead of the expense he might have incurred, he restricted himself strictly in the use of his property; wherein he truly followed the counsel of Aristotle, who, recommending thrift to Communities, or Republics, says: every city must first know the state of its revenue, then that of its expense, so as to cut it back, if it is superfluous. For to remain rich, it is no less necessary to save one's wealth, than to increase it by one's own industry. To this counsel of Aristotle is also joined that of Seneca, when he says that there are no riches great enough, nor capable of satisfying us, if, to use them as we ought, we do not know how to have recourse to thrift.",
+        "Now her being painted in the age of manhood is to show that at that time man is rendered capable of reason, and of equally joining the useful to the honest.",
+        "Her attire is simple and without any adornment, to show that she is the enemy of all superfluous expense: for she delights in profiting from this lesson of St. Ambrose, that there is nothing so necessary to life as to know well what it needs.",
+        "The compass she holds in her right hand signifies the order and measure that must be kept in all things. For as this Mathematical instrument never departs from its circumference, thrift likewise never departs from the limits of reason, nor from those of honesty.",
+        "As for the purse she carries in the other hand, with these words, IN MELIUS SERVAT, this means that it is a far greater honor for us to preserve what we have, than to acquire what we lack."
+      ]
     },
     {
       "id": "p1-117",
@@ -6032,12 +6115,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-117.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина (волшебница Цирцея) с жезлом и чашей, окружённая грудой камней и дикими зверями",
+          "meaning": "Жезл — власть превращать людей в зверей; чаша — опасные любовные зелья; окружающие звери — скотские страсти, в какие любовь обращает подвластных ей людей",
+          "what_en": "A woman (the sorceress Circe) with a wand and a cup, surrounded by a heap of stones and wild beasts",
+          "meaning_en": "The wand signifies the power to turn men into beasts; the cup, dangerous love potions; the surrounding beasts, the brutish passions into which love turns those in its power"
+        }
+      ],
+      "text_ru": [
+        "Эта женщина, держащая в одной руке жезл, а в другой — чашу, видящая с одной стороны от себя груду камней, а с другой — множество диких зверей, таких как львы, медведи, вепри и подобные им, её окружающие, принимается за Страсть любви под именем волшебницы Цирцеи, столь прославленной в сочинениях Поэтов.",
+        "Она держит в руке жезл, дабы показать, что способна превращать людей в зверей, как это случилось со спутниками Улисса, едва эта чародейка, о которой говорит Гомер, слегка коснулась их, одного за другим.",
+        "Скажем далее, что её опасной чашей означены любовные зелья, коих следует опасаться не менее, чем сока тех ядовитых трав, которыми Цирцея обращала в камни и зверей тех, кому давала их пить, как это хорошо показано прекрасным описанием, которое дали Вергилий и Овидий. Отсюда все мы предупреждены, что этот тиран жизни, именуемый Любовью, обычно подчиняет своей власти тех, кто, погрузившись в праздность, малодушно поддаётся вкусу к приятным вещам и чьи чувства очаровывают ложные предметы: так что не стоит удивляться, если столь опасными приманками он ослепляет их разум и вовсе лишает их рассудка; ибо опыт показывает, что он делает их склонности скотскими, обращая гневливых людей в медведей, сластолюбивых — в свиней, завистливых — в псов, чревоугодников — в волков, и так далее прочих."
+      ],
+      "text_fr": [
+        "Cette femme qui tenant d'vne main vne baguette, & de l'autre vne coupe, voit en l'vn de ses costez vn monceau de pierres, & en l'autre plusieurs animaux farouches, tels que sont des lions, des ours, des sangliers, & autres semblables qui l'environnent, est prise pour la Passion d'amour, sous le nom de la magicienne Circé, si fameuse dans les ouvrages des Poëtes.",
+        "Elle tient vne baguette à la main, pour montrer qu'elle est capable de transformer les hommes en bestes, comme il advint aux compagnons d'Ulysse, si-tost que cette sorciere, dont parle Homere, les eut tant soit peu touchez l'vn aprés l'autre.",
+        "Disons ensuite, que par sa coupe dangereuse, sont denotez les philtres d'amour, qu'il ne faut pas moins apprehender que le suc de ces plantes veneneuses, dont Circé changeoit en pierres & en bestes ceux à qui elle en donnoit à boire, comme il est bien montré par la belle description que Virgile & Ovide en ont faite. Par où nous sommes tous avertis, que ce tyran de la vie qu'on appelle Amour, assujettit ordinairement sous son empire ceux qui plongez dans l'oisiveté, se laissent surprendre lâchement au goust des choses plaisantes, & qui par de faux objets enchantent les sens: de maniere qu'il ne faut pas s'étonner si par des appas si dangereux il leur aveugle l'esprit, & leur oste entierement la raison; car l'experience fait voir, qu'il rend leurs inclinations brutales, transformant en ours les hommes coleres, les charnels en pourceaux, les envieux en chiens, les gourmands en loups, & ainsi des autres."
+      ],
       "en": "Passion of Love",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-117-1.jpg",
+        "p1-117-2.jpg"
+      ],
+      "text_en": [
+        "This woman, who, holding a wand in one hand, and a cup in the other, sees on one side of her a heap of stones, and on the other several fierce animals, such as lions, bears, wild boars, and the like surrounding her, is taken for the Passion of love, under the name of the sorceress Circe, so famous in the works of the Poets.",
+        "She holds a wand in her hand, to show that she is capable of transforming men into beasts, as happened to the companions of Ulysses, as soon as this sorceress, of whom Homer speaks, had but slightly touched them one after another.",
+        "Let us say further that by her dangerous cup are denoted love potions, which must be feared no less than the juice of those poisonous plants, with which Circe turned into stones and beasts those to whom she gave them to drink, as is well shown by the fine description Virgil and Ovid have given of it. By which we are all warned that this tyrant of life called Love ordinarily subjects to his empire those who, plunged in idleness, let themselves be basely surprised by a taste for pleasant things, and whose senses are enchanted by false objects: so that it is no wonder if by such dangerous allurements he blinds their minds, and robs them entirely of reason; for experience shows that he renders their inclinations brutish, transforming choleric men into bears, the carnal into swine, the envious into dogs, gluttons into wolves, and so on for the rest."
+      ]
     },
     {
       "id": "p1-118",
@@ -6050,12 +6159,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-118.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Удручённая женщина под тяжким ярмом, со сложенными руками, ступающая по тернию",
+          "meaning": "Ярмо — рабство, переносимое с мужеством; тернии — телесные и душевные муки; вариант с каплющей на цепи водой — долгое страдание, способное, подобно воде, точащей железо, в конце концов одолеть любую преграду",
+          "what_en": "A disconsolate woman beneath a heavy yoke, her hands joined, walking on thorns",
+          "meaning_en": "The yoke signifies servitude borne with courage; the thorns, bodily and mental suffering; the variant with water dripping onto chains pictures long suffering that, like water wearing away iron, can in time overcome any obstacle"
+        }
+      ],
+      "text_ru": [
+        "Эта бедная женщина, чьи плечи несут тяжкое ярмо, и которая, вся удручённая, держит руки сложенными и ступает по тернию, означает Терпение, которое лучше всего можно определить как непобедимую добродетель, проявляемую в перенесении телесных страданий и душевных трудов, изображаемых тернием.",
+        "Что до ярма, оно означает то же самое и учит нас, что одно из главных проявлений силы — мужественно сносить рабство, когда того требует необходимость. По этой причине Катон, при всей своей прочей прозорливости, был всё же сочтён мудрецами малодушным за то, что предпочёл сам лишить себя жизни, нежели жить под властью тирана.",
+        "Некоторые другие изображают её у подножия утёса, с которого мало-помалу каплет вода на крепкие цепи, коими связаны её руки.",
+        "Этим означается, если я не ошибаюсь, что человеку, дающему себе терпение ждать, весьма трудно в конце концов не добиться успеха; ибо какие бы гонения ни терпели добрые люди, их заслуга рано или поздно получает причитающуюся награду; но если взять в худшем случае, когда бы мы и не смогли обрести в этой жизни желанную свободу, и даже если бы нам было невозможно достичь её долгим страданием, которое порой не менее способно рассеять тяготы, чем сила воды способна точить железо, — всё же не следовало бы падать духом, но всегда помнить об обещании, данном нам Иисусом Христом, когда Он повелевает нам превыше всего обладать душами нашими в терпении; ибо Он имеет обыкновение наказывать в этой жизни лишь тех, кого желает вознаградить в иной."
+      ],
+      "text_fr": [
+        "Cette pauvre femme, dont les épaules soûtiennent vn pesant joug, & qui toute desolée tient les mains jointes, & marche sur des épines, signifie la Patience, qui ne peut mieux estre definie, qu'vne invincible vertu que l'on témoigne à supporter les douleurs du corps, & les travaux de l'esprit, qui sont figurez par des épines.",
+        "Quant au joug, il démontre le mesme, & nous apprend qu'vn des principaux effets de la force est de souffrir courageusement la servitude quand la necessité le requiert. A raison dequoy Caton, bien que fort avisé d'ailleurs, fut neanmoins tenu pour lâche par les sages, pour s'estre voulu donner la mort, plûtost que de vivre sous l'empire d'vn tyran.",
+        "Quelques-autres la peignent au pied d'vn écueil, d'où distillent peu à peu des goutes d'eau sur de fortes chaînes, dont elle a les mains liées.",
+        "Il est denoté par là, si je ne me trompe, qu'il est fort difficile qu'vn homme qui se donne la patience d'attendre, n'ait à la fin vn bon succés; car quelques persecutions que souffrent les gens de bien, leur merite reçoit tost ou tard la recompense qui leur est deuë; mais à le prendre au pire, quand nous ne pourrions en cette vie nous acquerir la liberté desirée, & quand mesme il nous seroit impossible d'y parvenir par vne longue souffrance, qui n'a pas moins de pouvoir quelquefois de dissiper les ennuis, qu'en a la force de l'eau de consumer celle du fer, si ne faudroit-il pas toutefois perdre courage, mais nous souvenir toûjours de la promesse qui nous est faite par Jesus-Christ, quand il nous commande sur toutes choses, de posseder nos ames en patience; aussi a-t'il accoûtumé de ne châtier en cette vie que ceux qu'il desire recompenser en l'autre."
+      ],
       "en": "Patience",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-118-1.jpg",
+        "p1-118-2.jpg"
+      ],
+      "text_en": [
+        "This poor woman, whose shoulders bear a heavy yoke, and who, altogether disconsolate, holds her hands joined, and walks upon thorns, signifies Patience, which can be no better defined than as an invincible virtue shown in enduring the body's pains and the mind's labors, figured by the thorns.",
+        "As for the yoke, it demonstrates the same thing, and teaches us that one of the chief effects of strength is to bear servitude courageously when necessity requires it. For which reason Cato, though otherwise very shrewd, was nevertheless held faint-hearted by the wise, for having chosen to take his own life rather than live under a tyrant's rule.",
+        "Some others paint her at the foot of a crag, from which drops of water fall little by little onto strong chains, by which her hands are bound.",
+        "By this is denoted, if I am not mistaken, that it is very difficult for a man who gives himself the patience to wait not to meet with good success in the end; for whatever persecutions good people suffer, their merit receives, sooner or later, the reward owed to it; but taking it at its worst, even if we could not in this life acquire the freedom desired, and even if it were impossible for us to attain it through long suffering — which sometimes has no less power to dissolve troubles than water's force has to wear away iron — we ought not, nevertheless, to lose courage, but always remember the promise made to us by Jesus Christ, when He commands us, above all things, to possess our souls in patience; for He is accustomed to chastise in this life only those whom He desires to reward in the other."
+      ]
     },
     {
       "id": "p1-119",
