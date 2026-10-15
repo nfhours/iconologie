@@ -5383,12 +5383,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-103.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Скелет в богатом парчовом плаще и маске",
+          "meaning": "Одна и та же рука смерти отнимает блага у сильных и исцеляет страдания бедных; маска — переменчивый облик, в каком каждый представляет её себе; её власть равна для всех, от нищих до государей",
+          "what_en": "A skeleton in a rich brocade mantle and a mask",
+          "meaning_en": "The same hand of death strips the mighty of their goods and heals the sufferings of the poor; the mask signifies the changing face each person imagines for her; her power is equal over all, from beggars to princes"
+        }
+      ],
+      "text_ru": [
+        "Как к ней приходят различными путями, так и изображать её можно по-разному. Здесь она представлена в виде скелета, покрытого богатым парчовым плащом, ибо той же рукой, которой она отнимает блага у великих мира сего, она исцеляет от бед несчастных.",
+        "Она скрыта под прекрасной маской, ибо не является всем с одним и тем же лицом: принимая в любой миг столько же обличий, сколько Поэты приписывают Протею, она кротка к одним и ужасна для других; безразлична людям с мужественным сердцем и ненавистна малодушным трусам. Одним словом, какими люди бывают в своих нравах, такой они её и представляют в своём воображении; и можно вполне сказать, что их мнения и суть маски смерти: ведь в гражданской жизни Религия, Отечество, Честь и общественные Интересы — вещи, которые касаются их весьма близко, потому они и не страшатся принести себя в жертву ради их защиты.",
+        "Её можно было бы увенчать ещё и лавровым венком, дабы показать, что власть её всеобща над всеми людьми; ибо в её обычае одинаково обходиться с бедными и богатыми, великими и малыми, сильными и слабыми, невеждами и учёными; не склоняться ни на мольбы, ни на доводы; держать глаза завязанными, пуская свои стрелы; не щадить ни возраста, ни звания; и не чтить скипетры Государей более, чем пастушьи посохи; что лучше всего выражено в этих прекрасных стихах г-на Малерба, самого изощрённого и изящного из всех наших лирических Поэтов: ¶«Смерть одним роковым ударом жнёт всё сущее; / И верховный приговор, / Желающий, чтобы строгость её не знала лиц, / Начертан на меди. / Бедняк в своей лачуге, крытой соломой, / Подвластен её законам; / И стража, бдящая у застав Лувра, / Не защищает от неё Царей»."
+      ],
+      "text_fr": [
+        "Comme on y arrive par divers moyens, aussi en peut-on faire la peinture diverse. En celle-cy elle est representée par vn squelet, couvert d'vn riche manteau de brocatel, dautant qu'avec la mesme main dont elle dépouille de leurs biens les grands du monde, elle guerit de leurs maux les miserables.",
+        "Elle est déguisée d'vn beau masque, parce qu'elle ne se montre pas à tous avec un mesme visage: car prenant à tout moment autant de formes que les Poëtes en donnent à Prothée, elle est douce aux vns, & terrible aux autres; indifferente aux gens de cœur, & odieuse aux courages lâches. En vn mot tels que sont les hommes en leurs humeurs, tels ils se la figurent en leur imagination; & peut-on bien dire que leurs opinions sont les masques de la mort: comme dans la vie civile, la Religion, la Patrie, l'Honneur, & les Interests publics, sont des choses qui les touchent de fort prés, aussi n'apprehendent-ils point de s'immoler pour leur defense.",
+        "On la pourroit couronner encore d'vne guirlande de laurier, pour montrer que son empire est vniversel sur tous les hommes; car c'est sa coûtume de traiter également les pauvres & les riches, les grands & les petits, les forts & les foibles, les ignorans & les doctes; de ne se laisser fléchir ny par prieres, ny par raisons; d'avoir les yeux bandez quand elle decoche ses fléches; de n'épargner ny âge, ny condition; & de ne respecter non plus les sceptres des Princes, que les houlettes des bergers; ce qui ne peut mieux estre exprimé que par ces beaux vers de M. Malherbe, le plus ingenieux & le plus poly de tous nos Poëtes Lyriques. ¶La Mort d'un coup fatal toutes choses moissonne; / Et l'arrest souverain, / Qui veut que sa rigueur ne connoisse personne, / Est écrit en airain. / Le pauvre en sa cabane où le chaume le couvre, / Est sujet à ses loix; / Et la garde qui veille aux barrieres du Louvre / N'en defend point les Rois."
+      ],
       "en": "Death",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-103-1.jpg",
+        "p1-103-2.jpg"
+      ],
+      "text_en": [
+        "As one arrives at her by various means, so may her portrait likewise be varied. In this one she is represented by a skeleton, covered with a rich brocade mantle, inasmuch as with the same hand with which she strips the great of this world of their goods, she heals the wretched of their ills.",
+        "She is disguised with a fair mask, because she does not show herself to all with the same face: taking at every moment as many forms as the Poets give to Proteus, she is gentle to some, and terrible to others; indifferent to the stout-hearted, and hateful to the faint of courage. In a word, such as men are in their humors, such do they picture her in their imagination; and one may well say that their opinions are the masks of death: just as, in civil life, Religion, the Fatherland, Honor, and the public Interests are things that touch them very nearly, so they do not fear to sacrifice themselves in their defense.",
+        "She might further be crowned with a garland of laurel, to show that her dominion is universal over all men; for it is her custom to treat the poor and the rich, the great and the small, the strong and the weak, the ignorant and the learned, alike; to be bent neither by prayers nor by reasons; to keep her eyes bandaged when she looses her arrows; to spare neither age nor condition; and to respect the scepters of Princes no more than the crooks of shepherds; which cannot be better expressed than by these fine verses of M. Malherbe, the most ingenious and the most polished of all our Lyric Poets: ¶\"Death with one fatal blow reaps all things; / And the sovereign decree, / Which wills that her rigor know no one, / Is written in bronze. / The poor man in his hut, thatched with straw, / Is subject to her laws; / And the guard that watches at the gates of the Louvre / Defends not Kings from her.\""
+      ]
     },
     {
       "id": "p1-104",
@@ -5401,12 +5427,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-104.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с открытой книгой и пером, с лютней, виолой и флейтами у ног",
+          "meaning": "Книга и перо — сочинение и поверка партитуры; инструменты у ног — согласование их звучания с голосом; вино и Вакх в её свите — музыка как лекарство от уныния",
+          "what_en": "A woman with an open book and a quill, a lute, a viol and flutes at her feet",
+          "meaning_en": "The book and quill signify composing and correcting a score; the instruments at her feet, tuning their sound to the voice; wine and Bacchus in her company, music as a remedy for melancholy"
+        }
+      ],
+      "text_ru": [
+        "Эта фигура не нуждается в пояснении, чтобы быть понятой. Это женщина, пристально смотрящая в открытую книгу, которую держит одной рукой, а перо — другой, дабы поправлять свою партитуру, имея для этого у ног лютню, виолу и флейты, дабы сверять их созвучие со своим голосом.",
+        "Другие дают ей весы, дабы показать, сколь необходима точность в концерте; а некоторые — наковальню, полагая, что она положила начало этому прекрасному Искусству. Ибо говорят, что из различного звона молотов Авиценна вывел догадки о тонах и мерах Музыки.",
+        "Не стоит забывать и то, что египтяне изображали её в виде языка с четырьмя зубами, как отмечает Пьерий в своих Иероглифических Изображениях, и давали ей держать обеими руками лиру Аполлона; а чтобы сделать её ещё узнаваемее, одевали в платье, сплошь усеянное различными инструментами и партитурными книгами.",
+        "В Риме можно видеть ещё одно изображение: на краю фонтана расположены кругом несколько прекрасных лебедей, среди которых выделяется юноша с крыльями за спиной, смеющимся лицом и венком из цветов на голове. Видящие его тотчас заключают, что это Зефир, который дуновением своего дыхания, освежающим воздух вокруг, словно нежно колышет перья лебедей; ибо верно, как говорит Элиан, что эти птицы поют лишь в ту пору, когда веет Зефир: точно так же и Музыканты редко устраивают концерт, если их не побуждает к тому сладость расточаемых им похвал, словно неким приятным ветром, и притом лишь перед людьми, умеющими оценить их созвучие.",
+        "К этой последней фигуре весьма уместно присоединить образ женщины, играющей на цитре, на которой вместо порванной струны видна цикада: кроме того, её отличает соловей на голове, большой сосуд, полный вина, у ног, и лира со смычком.",
+        "Цикада на цитре означает Музыку в память о необычайном случае, приключившемся с неким Евномием: ибо когда он однажды играл на этом инструменте в состязании с Аристоксеном, одна из струн порвалась, и на неё случайно села цикада, восполнив своим пением недостаток струны; так что Евномий остался победителем. В память столь примечательного события Греки впоследствии воздвигли ему статую с цитрой в руке, на которой была изображена цикада.",
+        "Что до соловья, нельзя сомневаться, что он есть истинный символ Музыки — за дивные действия своего голоса, очаровывающего слушающих его, и за то, что он повышает и понижает его всеми мыслимыми способами, словно в совершенстве зная правила этого прекрасного Искусства.",
+        "А поскольку Музыка была изобретена лишь для борьбы с унынием, лучшего помощника ей не найти, чем вино, которое ей ставят рядом; ибо оно обладает особым свойством рассеивать тоску; к тому же, если оно доброе и тонкое, оно укрепляет голос; по этой причине древние справедливо поместили Вакха в общество Муз."
+      ],
+      "text_fr": [
+        "Cette figure n'a pas besoin d'explication pour estre entendue. C'est vne femme qui regarde fixement vn livre ouvert, qu'elle tient d'vne main, & vne plume de l'autre, pour corriger sa tablature, ayant pour cet effet à ses pieds vn luth, vne viole, & des flutes, pour en accorder l'harmonie à celle de sa voix.",
+        "D'autres luy donnent vne balance, pour montrer par là, combien la justesse est requise en un concert; & quelques-vns vn enclume, qu'ils croyent avoir donné commencement à ce bel Art. Car ils disent, que du son different des marteaux Avicenne tira des conjectures des tons & des mesures de la Musique.",
+        "Il ne faut pas oublier icy, que les Egyptiens la representoient par vne langue qui avoit quatre dents, comme le remarque Pierius en ses Figures Hieroglyphiques; & qu'ils luy faisoient tenir des deux mains la lyre d'Apollon; outre que pour la rendre plus connoissable, ils luy donnoient vne robe toute semée d'instrumens divers, & de livres de tablature.",
+        "Il s'en voit encore à Rome vne peinture, qui est telle: Sur le bord d'vne fontaine sont rangez en rond plusieurs beaux cygnes, au milieu desquels est remarquable vn jeune garçon qui a des aisles au dos, le visage riant, & sur la teste vne guirlande de fleurs. Ceux qui le voyent jugent aussi-tost que c'est Zephyr, qui du vent de son haleine, dont il rafraîchit l'air d'alentour, semble faire mouvoir doucement les plumes des cygnes; car il est vray, comme dit Elian, que ces oiseaux ne chantent jamais qu'en la saison que Zephyr souffle: tout de mesme que les Musiciens font rarement vn concert, s'ils n'y sont poussez par la douceur des loüanges qu'on leur donne, comme par quelque vent agreable, & si ce n'est devant des personnes qui sçachent goûter leur harmonie.",
+        "A cette derniere figure peut estre jointe fort à propos celle d'vne femme qui joüe d'vn cistre, où se voit vne cigale à la place d'vne corde qui est rompuë: outre qu'elle se fait remarquer par vn rossignol qu'elle a sur sa teste, par vn grand vase plein de vin, qui est à ses pieds, & par vne lyre avec son archet.",
+        "La cigale qui est sur le cistre, signifie la Musique, pour vne chose extraordinaire avenuë à vn certain Eunomius; car comme il joüoit vn jour de cet instrument en vn deffi d'Aristoxene & de luy, l'vne des cordes s'estant rompuë, vne cigale vola dessus fortuitement, & supplea par son chant au manquement de la corde; si bien qu'Eunomius demeura victorieux. De sorte que pour memoire d'vn evenement si remarquable, les Grecs luy dresserent depuis vne statuë avec vn cistre à la main, où la cigale estoit peinte.",
+        "Quant au rossignol, l'on ne peut doûter qu'il ne soit vn vray symbole de la Musique, pour les merveilleux effets de sa voix, qui charme ceux qui l'écoutent, & qu'il hausse & baisse en toutes les façons imaginables, comme s'il sçavoit parfaitement les regles de ce bel Art.",
+        "Et dautant que la Musique n'a esté inventée que pour combattre la melancolie, elle ne peut avoir de meilleur second que le vin qu'on luy met auprés; car ce luy est vne vertu specifique de faire évanouir les ennuis; joint que s'il est bon & delicat, il fortifie la voix; à raison dequoy les anciens ont eu raison de mettre Bacchus en la compagnie des Muses."
+      ],
       "en": "Music",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-104-1.jpg",
+        "p1-104-2.jpg"
+      ],
+      "text_en": [
+        "This figure needs no explanation to be understood. It is a woman who gazes fixedly at an open book, which she holds in one hand, and a quill in the other, to correct her score, having for this purpose at her feet a lute, a viol, and flutes, to tune their harmony to that of her voice.",
+        "Others give her a balance, to show thereby how much exactness is required in a concert; and some an anvil, which they believe gave rise to this fine Art. For they say that from the differing sound of hammers Avicenna drew conjectures about the tones and measures of Music.",
+        "One must not forget here that the Egyptians represented her by a tongue having four teeth, as Pierius notes in his Hieroglyphic Figures; and that they made her hold Apollo's lyre with both hands; and further, to make her more recognizable, they gave her a robe all strewn with various instruments, and with books of musical notation.",
+        "There is also seen at Rome a painting of this kind: on the edge of a fountain are ranged in a circle several fine swans, among which is remarkable a young boy with wings on his back, a laughing face, and upon his head a garland of flowers. Those who see him at once judge him to be Zephyr, who, by the breath of his breathing, with which he cools the surrounding air, seems gently to stir the swans' feathers; for it is true, as Aelian says, that these birds never sing except in the season when Zephyr blows: just as Musicians rarely make a concert unless they are moved to it by the sweetness of the praises bestowed on them, as by some pleasant wind, and then only before persons who know how to savor their harmony.",
+        "To this last figure may very fittingly be joined that of a woman playing a cittern, on which a cicada is seen in place of a broken string: she is further made notable by a nightingale upon her head, a great vessel full of wine at her feet, and a lyre with its bow.",
+        "The cicada upon the cittern signifies Music, in memory of an extraordinary thing that happened to a certain Eunomius; for as he was one day playing this instrument in a contest with Aristoxenus, one of the strings having broken, a cicada chanced to fly onto it, and made up by its song for the string's failure; so that Eunomius remained victorious. In memory of so remarkable an event, the Greeks afterward raised him a statue with a cittern in hand, on which the cicada was depicted.",
+        "As for the nightingale, one cannot doubt that it is a true symbol of Music, for the marvelous effects of its voice, which charms those who hear it, and which it raises and lowers in every imaginable way, as though it perfectly knew the rules of this fine Art.",
+        "And inasmuch as Music was invented only to combat melancholy, she can have no better second than the wine placed beside her; for it has the specific virtue of making cares vanish; moreover, if it is good and delicate, it strengthens the voice; for which reason the ancients were right to place Bacchus in the company of the Muses."
+      ]
     },
     {
       "id": "p1-105",
@@ -5419,12 +5486,34 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-105.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Обнажённая женщина с молоком на грудях и грифом в руке",
+          "meaning": "Грудь, полная молока, — деятельное начало формы, питающее сотворённое; прожорливый гриф — страдательное начало материи, разрушающее всё тленное",
+          "what_en": "A naked woman with milk at her breasts and a vulture on her hand",
+          "meaning_en": "The milk-filled breasts signify the active principle of form, which sustains creation; the gluttonous vulture, the passive principle of matter, which destroys all that is corruptible"
+        }
+      ],
+      "text_ru": [
+        "Здесь она изображена, как на медали императора Адриана, а именно в виде обнажённой женщины с молоком на грудях и грифом в руке.",
+        "Природа, по Аристотелю, не могущая быть определена лучше, чем «начало движения и изменения в вещи, в которой она пребывает, через которое рождается всё, что подвержено разрушению», не без причины изображена в виде обнажённой женщины; ибо поскольку это начало делится на действующее и страдательное, из коих одно называется формой, а другое — материей, действующее не может быть обозначено лучше, чем полными молока грудями, ибо форма есть то, что поддерживает сотворённые вещи, подобно тому как женские сосцы питают дитя; страдательное же лучше всего являет гриф, животное весьма прожорливое, ибо истинно, что через материю, приходящую в движение и изменяющуюся по воле формы, постепенно разрушаются все подверженные тлению вещи."
+      ],
+      "text_fr": [
+        "Elle se voit icy representée comme dans vne medaille de l'Empereur Adrian, à sçavoir par la figure d'vne femme nuë, qui a du lait aux mammelles, & vn vautour à la main.",
+        "La Nature, selon Aristote, ne pouvant mieux estre definie, Qu'vn principe de mouuement & d'alteration en la chose où elle se trouve, par qui s'engendre tout ce qui est corruptible, ce n'est pas sans raison qu'elle est peinte en femme nuë; car comme ce principe se divise en actif & en passif, dont l'vn est appellé forme, & l'autre matiere; l'actif ne peut mieux estre denoté que par les mammelles pleines de lait, parce que la forme est ce qui entretient les choses creées, tout ainsi que les tetins de la femme nourrissent l'enfant; ny le passif aussi mieux demontré que par le vautour, oyseau fort glouton, estant veritable que par la matiere qui s'émeut & s'altere au gré de la forme, sont détruites peu à peu toutes les choses corruptibles."
+      ],
       "en": "Nature",
-      "group_en": "N"
+      "group_en": "N",
+      "scans": [
+        "p1-105-1.jpg"
+      ],
+      "text_en": [
+        "She is here seen represented as on a medal of the Emperor Hadrian, namely by the figure of a naked woman, who has milk at her breasts, and a vulture on her hand.",
+        "Nature, which according to Aristotle can be no better defined than as \"a principle of motion and of change in the thing in which it resides, by which all that is corruptible is engendered,\" is not without reason painted as a naked woman; for as this principle is divided into active and passive, of which the one is called form and the other matter, the active can be denoted no better than by breasts full of milk, because form is what sustains created things, just as a woman's breasts nourish her child; nor the passive better shown than by the vulture, a very gluttonous bird, it being true that through matter, which is moved and altered at the pleasure of form, all corruptible things are little by little destroyed."
+      ]
     },
     {
       "id": "p1-106",
@@ -5437,12 +5526,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-106.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Молодая женщина с молотком в правой руке и горстью гвоздей в левой",
+          "meaning": "Молоток и гвозди — неотвратимость и неразрывность узла необходимости; пословица «гвоздь уже вбит» — дело, которое больше нельзя изменить",
+          "what_en": "A young woman with a hammer in her right hand and a handful of nails in her left",
+          "meaning_en": "The hammer and nails signify the inescapable, unbreakable knot of necessity; the proverb \"the nail is driven in\" refers to a matter that can no longer be changed"
+        }
+      ],
+      "text_ru": [
+        "Дабы явить её по важнейшей её части, её изображают в виде молодой женщины, держащей в правой руке молоток, а в левой — горсть гвоздей.",
+        "Словом Необходимость обычно пользуются, когда вещь доведена до такой точки, что не может быть иной; ибо тогда она имеет то преимущество, что зависит лишь от самой себя и не признаёт никакого закона: и поскольку там, где она оказывается, она завязывает узел, который невозможно развязать, её ради этого уподобляют тому, кто несёт молоток в одной руке, а гвозди — в другой; на чём основана и эта Пословица: «гвоздь уже вбит», которую обычно употребляют, когда уже нет времени совещаться о деле, которое уже сделано.",
+        "Слово Необходимость в нашем языке берётся также за Бедность, которая порою столь сильно теснит дух, что ввергает его в муку и принуждает совершать поступки наспех, о которых после вдосталь времени раскаиваться. Её изображают худой и изнурённой, со связанными руками и ногами, привязанной к утёсу, дабы показать, что самые достойные люди становятся ни на что не способны, стоит этому шипу в них вонзиться; отчего святой Григорий Назианзин говорит, что она есть помеха многим деяниям и путешествие, препятствующее многим другим. Впрочем, она может похвалиться, как говорит Феокрит Диофанту, что умеет оттачивать грубые умы, пробуждать дремлющие Искусства и возвращать к жизни благороднейшие изобретения, когда те кажутся погребёнными."
+      ],
+      "text_fr": [
+        "Pour la donner à connoistre par sa plus essentielle partie, on la peint en jeune femme qui tient de la main droite un marteau, & de la gauche vne poignée de cloux.",
+        "L'on vse ordinairement du mot de Necessité, quand vne chose est reduite à tel point qu'elle ne peut estre autrement; car alors elle a cet avantage de ne relever que de soy-mesme, & de ne reconnoistre aucune loy: & dautant que là où elle se trouve, elle y tient vn nœud qu'il est impossible de dénouër; on la compare pour cet effet à celuy qui porte vn marteau d'vne main, & des cloux de l'autre; à quoy sert de sujet ce Proverbe, le clou est enfoncé, dont on vse ordinairement, quand il n'est plus temps de se conseiller d'vne affaire, qui se trouve déja faite.",
+        "Le mot de Necessité se prend encore en nostre langue pour la Pauvreté, qui violente quelquefois si fort vn esprit, qu'elle luy donne la gehenne, & le contraint de faire des choses à la volée, dont il a tout loisir de se repentir. On la peint maigre & defaite, avec les mains & les pieds liez contre vn ecueil, pour montrer que les plus honnestes gens sont inhabiles à tout, depuis que cette épine s'attache à eux; ce qui fait dire à saint Gregoire de Nazianze, qu'elle est un obstacle à plusieurs actions, & vn voyage qui en empesche beaucoup d'autres. Elle se peut vanter neanmoins, comme dit Theocrite à Diophante, de sçavoir polir les esprits grossiers, de réveiller les Arts assoupis, & de faire revivre les plus nobles inventions, quand elles semblent ensevelies."
+      ],
       "en": "Necessity",
-      "group_en": "N"
+      "group_en": "N",
+      "scans": [
+        "p1-106-1.jpg",
+        "p1-106-2.jpg"
+      ],
+      "text_en": [
+        "To make her known by her most essential part, she is painted as a young woman holding in her right hand a hammer, and in her left a handful of nails.",
+        "The word Necessity is ordinarily used when a thing is reduced to such a point that it cannot be otherwise; for then it has this advantage, that it depends on nothing but itself, and acknowledges no law: and inasmuch as wherever it is found, it ties a knot impossible to undo, she is for this reason likened to one who carries a hammer in one hand, and nails in the other; whence comes this Proverb, the nail is driven in, which is ordinarily used when it is no longer time to deliberate over a matter that is already done.",
+        "The word Necessity is also taken in our language for Poverty, which sometimes so violently grips a mind that it puts it to torment, and forces it to do things rashly, which it has ample leisure to repent of afterward. She is painted thin and wasted, her hands and feet bound against a reef, to show that the most honest people become fit for nothing, once this thorn fastens itself upon them; which makes St. Gregory Nazianzen say that she is an obstacle to many actions, and a journey that hinders many others. She may nonetheless boast, as Theocritus says to Diophantus, of knowing how to polish rough minds, to awaken slumbering Arts, and to bring back to life the noblest inventions, when they seem buried."
+      ]
     },
     {
       "id": "p1-107",
