@@ -3934,12 +3934,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-75.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Прекрасная царица с венцом из драгоценных камней, лирой и смычком",
+          "meaning": "Гармония нисходит с Небес и подчиняет всё сущее своей власти — как лира Орфея смягчала скалы и вырывала деревья",
+          "what_en": "A beautiful queen with a jewelled crown, a lyre and a bow",
+          "meaning_en": "Harmony descends from Heaven and holds sway over all things — as Orpheus's lyre softened rocks and uprooted trees"
+        }
+      ],
+      "text_ru": [
+        "Это изображение Гармонии можно видеть во дворце Великого Герцога Тосканского, где она написана в виде прекрасной Царицы, с венцом, сверкающим драгоценными камнями, на голове, с лирой в одной руке и смычком в другой.",
+        "Чтобы объяснить красоту этого образа, достаточно сказать вообще, вместе с Поэтами, что она увенчана как дочь Неба, чьи чары очаровывают сердца, укрощают тигров и сообщают движение вещам неодушевлённым. Свидетель тому — лира Орфея, которая своими мелодичными созвучиями делала чувствительными скалы и вырывала с корнем деревья. Но не стоит удивляться этим чудесам Гармонии, ибо, по мнению пифагорейцев, нет ничего здесь, внизу, что не брало бы начало с Небес. Мы сами причастны этому через их добродетель; потому-то мы так охотно внимаем её приятным созвучиям, вплоть до того, что, по словам некоторых, без них мы не могли бы ни привести в согласие движения нашей души, ни обрести верную соразмерность добродетелей.",
+        "Поэты скрыли эту Философию под оболочкой басни, когда вымыслили, что после того как Корибанты и Куреты вырвали ещё младенцем Юпитера из жестоких рук старого Сатурна, его отца, они отвели его на Крит, дабы там вскормить, и всю дорогу не переставали развлекать его звоном кимвалов и других медных инструментов. Если хорошо исследовать эту басню, обнаружится, что под Юпитером нравственно следует разуметь обретённую Мудрость, которая никогда не может получить в нас питания и возрастания, если ей не содействует Гармония всех вещей. Ибо, однажды овладев нашей душой, она изгоняет из неё разлад привычек, противных Добродетели, творениями которых мы, кажется, являемся, поскольку склонности ко греху рождаются в нас скорее, нежели действия добродетельные и похвальные.",
+        "Более того, под тем же Юпитером, вырвавшимся из рук Сатурна, разумеется чистейшая часть нетленного Неба, которой не может повредить насилие времени, понемногу пожирающего стихии и истребляющего все вещественные вещи. Из чего я заключаю, в похвалу Гармонии, что нашлись язычники, верившие, будто боги состоят из неё, а равно и из чисел, подобно тому как мы состоим из души и тела; так что по этой причине они охотно слушали музыку и нередко позволяли себе смягчиться сладостью её восхитительных созвучий."
+      ],
+      "text_fr": [
+        "Ce tableau de l'Harmonie se voit au Palais du Grand Duc de Toscane, où elle est peinte comme vne belle Reine, ayant sur la teste vne couronne toute brillante de pierreries, vne lyre en vne main, & vn archet en l'autre.",
+        "Pour donner l'explication de la beauté de cette figure, il suffit de dire en general avec les Poëtes, qu'elle est couronnée comme fille du Ciel, les charmes de laquelle enchantent les cœurs, flechissent les tygres, & donnent du mouvement aux choses inanimées. Témoin la lyre d'Orphée, qui par ses melodieux accords se rendoit sensible aux rochers, & déracinoit les arbres. Mais il ne faut pas s'étonner de ces merveilles de l'Harmonie, puisque selon les Pythagoriciens il n'y en a point icy-bas qui ne prenne son origine des Cieux. Nous-mesmes y participons par leur vertu; & voila pourquoy nous prestons si volontiers l'oreille à ses agreables concerts, jusques là mesme qu'au dire de quelques-vns, nous ne pourrions sans eux ny mettre d'accord les mouvemens de nostre ame, ny trouver la juste symmetrie des vertus.",
+        "Les Poëtes nous ont caché cette Philosophie sous l'écorce de la fable, quand ils ont feint qu'aprés que les Coribantes & les Curettes eurent arraché Jupiter encore enfant des cruelles mains du vieil Saturne son pere, ils le menerent en Crete pour y estre nourry, & ne cesserent le long du chemin de le divertir au son des cymbales & de quelques autres instrumens d'airain. Si l'on examine bien cette fable, on trouvera que par Jupiter se doit entendre moralement la Sagesse acquise, qui ne peut jamais prendre nourriture ny accroissement en nous, si elle n'est assistée de l'Harmonie de toutes les choses. Car depuis qu'elle s'est vne fois emparée de nostre ame, elle en bannit le discord des habitudes contraires à la Vertu, dont il semble que nous soyons les creatures, parce que les inclinations au peché s'engendrent en nous plûtost que les actions vertueuses & louables.",
+        "De plus, par le mesme Jupiter échapé des mains de Saturne, s'entend la plus pure partie du Ciel incorruptible, à laquelle ne peut nuire la violence du temps qui devore peu à peu les elemens, & consume toutes les choses materielles. Surquoy je conclus à la louange de l'Harmonie, qu'il s'est trouvé des payens qui ont creu que les Dieux en estoient composez, & pareillement de nombres, comme nous le sommes d'ame & de corps; si bien qu'à cause de cela ils écoutoient volontiers la musique, & se laissoient flechir bien souvent à la douceur de ses accords ravissans."
+      ],
       "en": "Harmony",
-      "group_en": "H"
+      "group_en": "H",
+      "scans": [
+        "p1-075-1.jpg",
+        "p1-075-2.jpg"
+      ],
+      "text_en": [
+        "This picture of Harmony is seen in the Palace of the Grand Duke of Tuscany, where she is painted as a beautiful Queen, with a crown all ablaze with gems upon her head, a lyre in one hand, and a bow in the other.",
+        "To explain the beauty of this figure, it suffices to say in general, with the Poets, that she is crowned as a daughter of Heaven, whose charms enchant hearts, bend tigers, and give motion to inanimate things. Witness Orpheus's lyre, which by its melodious chords made rocks sensible, and uprooted trees. But one must not marvel at these wonders of Harmony, since according to the Pythagoreans there is nothing here below that does not take its origin from the Heavens. We ourselves partake of it through their virtue; and this is why we lend our ear so willingly to her pleasing concerts, even to the point that, according to some, without them we could neither bring the movements of our soul into accord, nor find the true symmetry of the virtues.",
+        "The Poets concealed this Philosophy beneath the husk of fable, when they feigned that after the Corybantes and the Curetes had snatched the still-infant Jupiter from the cruel hands of old Saturn his father, they led him to Crete to be nursed, and did not cease, the whole way, to divert him with the sound of cymbals and other instruments of bronze. If this fable is well examined, one will find that by Jupiter is to be morally understood acquired Wisdom, which can never take nourishment or growth in us unless assisted by the Harmony of all things. For once it has taken hold of our soul, it banishes from it the discord of habits contrary to Virtue, of which we seem to be the creatures, since inclinations to sin are engendered in us more readily than virtuous and praiseworthy actions.",
+        "Moreover, by that same Jupiter escaped from Saturn's hands is understood the purest, incorruptible part of Heaven, which the violence of time, which little by little devours the elements and consumes all material things, cannot harm. Whereupon I conclude, in praise of Harmony, that there have been pagans who believed the Gods were composed of it, and likewise of numbers, as we are of soul and body; so much so that for this reason they willingly listened to music, and often let themselves be swayed by the sweetness of its ravishing chords."
+      ]
     },
     {
       "id": "p1-76",
@@ -3952,12 +3981,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-76.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатая фигура, пишущая в книге, которую держит Сатурн",
+          "meaning": "Крылья означают быстроту, с которой История разносит события по всему свету; опора на Сатурна — что она свидетельствует о времени и побеждает его",
+          "what_en": "A winged figure writing in a book held by Saturn",
+          "meaning_en": "The wings signify the speed with which History spreads events across the world; leaning on Saturn, that she bears witness to time and triumphs over it"
+        }
+      ],
+      "text_ru": [
+        "Её облик почти схож с обликом Ангела, из-за больших крыльев, прикреплённых к её плечам: и хотя она смотрит назад, она тем не менее не перестаёт писать в большой книге, которую поддерживает Сатурн, и опирается левой ногой на четырёхугольный камень.",
+        "История, чьё занятие — писать по порядку о том, что происходит в мире, изображена с крыльями, дабы показать, что она повсюду оглашает различные события с невероятной быстротой.",
+        "Для этого она обращает взор назад, ибо трудится для потомства, описывая прошедшие события, дабы увековечить память о них: ибо, как говорит Петрарка, ¶«Она укрощает годы, и писания её таковы, / Что через них она делает людей бессмертными».",
+        "Потому она и опирается на плечи Сатурна, ибо воздаёт верное свидетельство времени, над которым одерживает победу. Одним словом, она — госпожа жизни, свет памяти, дух деяний и опора истины: ибо она никогда не должна позволять себе быть испорченной ложью или собственными интересами, но говорить чисто то, что есть, не привнося никаких прикрас в эту наивную искренность, символом которой служит её белое платье."
+      ],
+      "text_fr": [
+        "Sa figure ressemble à peu prés à celle d'vn Ange, à cause des grandes aisles qui sont attachées à ses épaules: & bien qu'elle regarde derriere, elle ne laisse pas toutefois d'écrire sur vn grand livre que Saturne soûtient; & s'appuye du pied gauche sur vne pierre carrée.",
+        "L'Histoire, qui fait profession d'écrire avec ordre ce qui se passe dans le monde, est peinte avec des aisles, pour montrer qu'elle publie de toutes parts les divers evenemens avec vne incroyable vitesse.",
+        "Elle tourne pour cet effet les yeux en arriere, à cause qu'elle travaille pour la posterité, par la description qu'elle fait des choses passées, afin d'en perpetuer le souvenir: car comme dit Petrarque, ¶Elle dompte les ans, & ses écrits sont tels, / Que par eux elle rend les hommes immortels.",
+        "C'est pour cela qu'elle s'appuye sur les épaules de Saturne, parce qu'elle rend vn juste témoignage du temps, dont elle est victorieuse. En vn mot c'est la maistresse de la vie, la lumiere de la memoire, l'esprit des actions, & le soûtien de la verité: car elle ne se doit jamais laisser corrompre par le mensonge, ny par ses propres interests, mais dire purement ce qui est, sans apporter aucun fard à cette sincerité naïve, dont sa robe blanche est le symbole."
+      ],
       "en": "History",
-      "group_en": "H"
+      "group_en": "H",
+      "scans": [
+        "p1-076-1.jpg",
+        "p1-076-2.jpg"
+      ],
+      "text_en": [
+        "Her figure resembles, fairly closely, that of an Angel, because of the great wings attached to her shoulders: and though she looks behind her, she does not for all that stop writing in a great book that Saturn supports; and she leans her left foot upon a square stone.",
+        "History, who makes it her profession to write in order what passes in the world, is painted with wings, to show that she publishes abroad, on every side, the various events, with incredible speed.",
+        "To this end she turns her eyes backward, because she labors for posterity, through the description she makes of past things, so as to perpetuate their memory: for, as Petrarch says, ¶She tames the years, and her writings are such / That through them she renders men immortal.",
+        "It is for this that she leans upon Saturn's shoulders, because she bears true witness to time, over which she is victorious. In a word, she is the mistress of life, the light of memory, the spirit of deeds, and the support of truth: for she must never let herself be corrupted by falsehood, nor by her own interests, but must plainly state what is, bringing no adornment to this naive sincerity, of which her white robe is the symbol."
+      ]
     },
     {
       "id": "p1-77",
@@ -3970,12 +4028,44 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-77.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в белом с рогом изобилия, из которого сыплются плоды для ребёнка и пилигрима",
+          "meaning": "Гостеприимство угодно Богу более всего прочего: Христос сказал, что сделанное нищим и странникам сделано Ему Самому",
+          "what_en": "A woman in white with a horn of abundance, scattering fruit for a child and a pilgrim",
+          "meaning_en": "Hospitality is most pleasing to God: Christ said that what is done for the poor and strangers is done for Him"
+        }
+      ],
+      "text_ru": [
+        "Эта дама, средних лет, с улыбающимся лицом и особенной красотой, кажется, хочет принять кого-то с распростёртыми объятиями. Она одета в белое и держит в правой руке рог изобилия, из которого беспорядочно сыплются разные плоды, которые, кажется, хочет собрать маленький ребёнок, тогда как бедный пилигрим, сидящий с другой стороны, молит её о помощи.",
+        "Её изображают прекрасной, ибо она и впрямь может считаться самой чарующей вещью на свете и наиболее угодной Богу, поскольку именно через неё Он даёт Себя познать, как говорит святой Августин.",
+        "Она не юна и не стара, ибо один из этих возрастов слишком предан удовольствиям жизни, а другой слишком подвержен скупости: она же держится середины между ними, ибо, будучи седалищем Добродетели, лучше всего подобает милосердным делам, которые она творит.",
+        "Её белое платье показывает чистоту её души, свободной от порчи и не совершающей ничего из корысти, но лишь из чистого пламенного рвения к Богу.",
+        "Доказательства этой истины являются в добре, которое она творит ребёнку и пилигриму, стоящим по её сторонам: и действительно, у неё не может быть двух более достойных предметов для проявления своего милосердия, ибо один не может искать себе пропитания из-за слабости своего возраста, а другой с трудом может его найти, будучи вне своей страны. Отсюда можно с уверенностью видеть, что все деяния Гостеприимства чрезвычайно угодны Богу, Который, желая засвидетельствовать Своё благоволение к тем, кто их творит, говорит им: Я почитаю сделанным Мне Самому то, что вы сделали наименьшему из Моих. Что может обратиться лишь к стыду тех неразумных людей, у которых, как говорит святой Иоанн, в домах всегда желанные гости — великие воры и богачи, тогда как вход в них заказан людям чести и беднякам."
+      ],
+      "text_fr": [
+        "Cette dame, dont l'âge est mediocre, le visage riant, & la beauté singuliere, semble vouloir accueillir quelqu'vn à bras ouverts. Elle est vestuë de blanc, & tient de la main droite vne corne d'abondance, d'où tombent confusément divers fruits, qu'vn petit enfant semble vouloir cueillir, tandis qu'vn pauvre pelerin assis de l'autre costé implore son aide.",
+        "Elle est peinte belle, parce qu'en effet elle se peut dire la chose du monde la plus charmante, & la plus agreable à Dieu, puisque c'est par elle qu'il se fait connoistre, comme dit S. Augustin.",
+        "Elle n'est ny jeune ny vieille, parce que l'vn de ces âges est trop adonné aux plaisirs de la vie, & l'autre par trop sujet à l'avarice: mais elle tient vn milieu entre les deux, à cause qu'estant le siege de la Vertu, il ne peut mieux convenir qu'aux charitables actions qu'elle exerce.",
+        "Sa robe blanche montre la pureté de son ame, qui est exempte de corruption, & qui ne fait rien par interest, mais par vn pur zele ardent envers Dieu.",
+        "Les preuves de cette verité se manifestent par le bien qu'elle fait à l'enfant & au pelerin qui sont à ses costez: aussi ne peut-elle avoir deux plus dignes sujets pour exercer sa charité, l'vn ne pouvant chercher à vivre à cause de la foiblesse de son âge, ny l'autre en trouver que difficilement, parce qu'il est hors de son païs. Par où l'on peut voir asseurément, que toutes les actions d'Hospitalité sont tres-agreables à Dieu, qui pour témoigner le bon gré qu'il en sçait à ceux qui les exercent, Je tiens, leur dit-il, pour fait à moy-mesme ce que vous avez fait au moindre des miens. Ce qui ne peut tourner qu'à la honte de ces hommes mal avisez, comme dit S. Jean, qui ont des maisons où les grands larrons & les riches sont toûjours les bien venus, au lieu que l'entrée en est defenduë aux gens d'honneur & aux pauvres."
+      ],
       "en": "Hospitality",
-      "group_en": "H"
+      "group_en": "H",
+      "scans": [
+        "p1-077-1.jpg",
+        "p1-077-2.jpg"
+      ],
+      "text_en": [
+        "This lady, of middling age, with a smiling face, and singular beauty, seems to wish to welcome someone with open arms. She is clothed in white, and holds in her right hand a horn of abundance, from which various fruits tumble confusedly, which a small child seems to wish to gather, while a poor pilgrim seated on the other side implores her aid.",
+        "She is painted beautiful, because indeed she may be called the most charming thing in the world, and the most pleasing to God, since it is through her that He makes Himself known, as Saint Augustine says.",
+        "She is neither young nor old, because the one of these ages is too given over to the pleasures of life, and the other too prone to avarice: but she holds a middle course between the two, because, being the seat of Virtue, nothing suits her better than the charitable actions she performs.",
+        "Her white robe shows the purity of her soul, which is free of corruption, and does nothing out of self-interest, but out of a pure and ardent zeal toward God.",
+        "The proofs of this truth are manifest in the good she does to the child and the pilgrim at her sides: indeed she could have no two more worthy subjects on which to exercise her charity, the one unable to seek a living because of the weakness of his age, nor the other able to find one but with difficulty, being out of his own country. By which one may surely see that all acts of Hospitality are most pleasing to God, who, to testify His good pleasure toward those who perform them, says to them: I count as done to Myself what you have done to the least of Mine. Which can only turn to the shame of those ill-advised men who, as Saint John says, have houses where great thieves and the rich are always welcome, while entry is forbidden to men of honor and to the poor."
+      ]
     },
     {
       "id": "p1-78",
@@ -3988,12 +4078,63 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-78.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Дева в белом со склонённой головой, мячом в руке и золотым венцом под ногой",
+          "meaning": "Мяч, брошенный оземь, подскакивает выше всего — так смирившийся будет возвышен; попранный венец означает презрение к земному богатству и величию",
+          "what_en": "A maiden in white, head bowed, a ball in hand and a golden crown underfoot",
+          "meaning_en": "A ball thrown hard to the ground bounces highest — so the one who humbles themself shall be exalted; the trampled crown signifies contempt for earthly wealth and grandeur"
+        },
+        {
+          "what": "Ягнёнок, лежащий рядом с ней",
+          "meaning": "Истинный образ кроткого, смиренного человека — именем ягнёнка Пророки называли и Самого Христа",
+          "what_en": "A lamb lying beside her",
+          "meaning_en": "The true image of a humble, gentle person — the Prophets called Christ Himself by the name of the lamb"
+        }
+      ],
+      "text_ru": [
+        "Эта дева, одетая в белое, держит голову склонённой, руки крестом, мяч в руке, венец под одной из ног и ягнёнка, лежащего рядом с ней.",
+        "Смирение — одна из превосходнейших добродетелей души, благодаря которой люди считают себя ниже других и добровольно им повинуются: ибо их всегдашнее намерение — как можно лучше скрывать дары, данные им Богом, дабы не иметь повода ими превозноситься.",
+        "Её белое платье показывает, что чистота души порождает в добром человеке то добродетельное послушание, что ему весьма необходимо и которого достаточно, дабы сделать его поступки угодными Богу, дающему благодать смиренным и противящемуся воле гордых.",
+        "Склонённой головой она являет признание своих недостатков; из чего, однако, извлекает ту выгоду, что чем больше она унижается, тем более возвышается, ибо в Евангелии от Луки написано, что всякий, кто смирит себя, будет возвышен. В этом она подобна мячу, который держит в руке, — он никогда не подскакивает так высоко, как когда усилием руки брошен о землю.",
+        "Золотым венцом, который она попирает ногами, нам объявляется, как замечает святой Бернард в своём трактате о Степенях Смирения, что тот, кто должным образом обладает этой божественной добродетелью, не придаёт значения ни богатствам, ни величию этого мира. Свидетель тому — Балдуин, первый Король Иерусалима, поистине показавший, сколь он был смирен, когда, видя себя на пороге торжественного коронования с пышностью и церемонией, сказал: «Не дай Бог, чтобы я носил золотой венец на том самом месте, где мой Искупитель носил лишь терновый».",
+        "Что до ягнёнка, лежащего у её ног, это истинный портрет человека смиренного и кроткого, как это отмечается в разных местах Священного Писания, где Сам Иисус Христос назван этим именем у Пророков.",
+        "Существует и другое изображение Смирения, держащее левую руку на груди, а правую — простёртой, с глазами, устремлёнными к Небу. Оно попирает ногами почти мёртвую гадюку, вокруг разбитого зеркала, рядом с которым лежит голова раненого льва.",
+        "Рука, которую она держит на горле, показывает, что сердце — истинное седалище Смирения; а простёртая правая рука означает, что оно должно быть терпеливым и не уподобляться волку, который покрывается овечьей шкурой, дабы пожирать ягнят.",
+        "Под гадюкой следует разуметь ненависть и зависть; под зеркалом — себялюбие; а под львом — гордыню."
+      ],
+      "text_fr": [
+        "Cette vierge vestuë de blanc, porte sa teste baissée, les bras en croix, vne bale en main, vne couronne sous l'vn de ses pieds, & vn agneau couché auprés d'elle.",
+        "L'Humilité est vne des plus excellentes vertus de l'ame, par qui les hommes s'estiment inferieurs aux autres, & leur obeïssent volontairement: car c'est toûjours leur intention de tenir cachez le mieux qu'ils peuvent les dons que Dieu leur a faits, afin de n'avoir pas sujet de s'en glorifier.",
+        "Sa robe blanche montre que la pureté de l'ame engendre en l'homme de bien cette vertueuse soûmission qui luy est fort necessaire, & qui peut suffire à rendre ses actions agreables à Dieu, qui donne sa grace aux humbles, & s'oppose à la volonté des orgueilleux.",
+        "Elle montre par sa teste baissée vn aveu qu'elle fait de ses defauts: dequoy neanmoins elle tire cet avantage, que plus elle s'abaisse, & plus elle est élevée; parce qu'il est écrit dans S. Luc, que quiconque s'humiliera, sera exalté. En cela semblable à la bale qu'elle a dans la main, qui ne bondit jamais si haut, que lors qu'à force de bras elle est jettée contre terre.",
+        "Par la couronne d'or qu'elle foule aux pieds, il nous est declaré, comme le remarque S. Bernard dans son traité des Degrez de l'Humilité, que celuy qui possede comme il faut cette divine vertu, ne fait point d'estat ny des richesses, ny des grandeurs de ce monde. Témoin Baudouin premier Roy de Jerusalem, qui montra veritablement combien il estoit humble, quand se voyant sur le point d'estre couronné avec pompe & ceremonie: A Dieu ne plaise, dit-il, que je porte vne couronne d'or en ce mesme lieu où mon Redempteur n'en a porté qu'vne d'épines.",
+        "Quant à l'agneau qui est couché à ses pieds, c'est le vray portrait d'vne personne qui est humble & debonnaire, comme il se remarque en divers endroits de l'Ecriture sainte, où Jesus-Christ mesme est appellé de ce nom par les Prophetes.",
+        "Il se voit vne autre figure de l'Humilité, qui a la main gauche sur le sein, & la droite étenduë, avec les yeux élevez au Ciel. Elle foule aux pieds vne vipere presque morte, tout autour d'vn miroir rompu, auprés duquel il y a la teste d'vn lion blessé.",
+        "La main qu'elle porte sur sa gorge, montre que le cœur est le veritable siege de l'Humilité; & son bras droit étendu signifie qu'elle doit estre patiente, & non pas semblable au loup, qui se couvre de la peau de la brebis pour devorer les agneaux.",
+        "Par la vipere il faut entendre la haine & l'envie; par le miroir, l'amour de soy-mesme; & par le lion, l'orgueil."
+      ],
       "en": "Humility",
-      "group_en": "H"
+      "group_en": "H",
+      "scans": [
+        "p1-078-1.jpg",
+        "p1-078-2.jpg",
+        "p1-078-3.jpg"
+      ],
+      "text_en": [
+        "This maiden, clothed in white, carries her head bowed, her arms crossed, a ball in hand, a crown beneath one of her feet, and a lamb lying beside her.",
+        "Humility is one of the most excellent virtues of the soul, by which men esteem themselves inferior to others, and willingly obey them: for it is always their intention to keep hidden, as best they can, the gifts God has given them, so as to have no cause to glory in them.",
+        "Her white robe shows that purity of soul engenders in the good man that virtuous submission so necessary to him, which can suffice to render his actions pleasing to God, who gives His grace to the humble, and opposes the will of the proud.",
+        "By her bowed head she shows an acknowledgment she makes of her faults: from which, nonetheless, she draws this advantage, that the more she abases herself, the more she is exalted; for it is written in Saint Luke that whoever humbles himself shall be exalted. In this she is like the ball she holds in her hand, which never bounces so high as when it is thrown against the ground with force of arm.",
+        "By the golden crown she tramples underfoot, it is declared to us, as Saint Bernard notes in his treatise on the Degrees of Humility, that whoever rightly possesses this divine virtue sets no store by the riches or the grandeurs of this world. Witness Baldwin, first King of Jerusalem, who truly showed how humble he was when, seeing himself on the point of being crowned with pomp and ceremony, he said: God forbid that I should wear a golden crown in that very place where my Redeemer wore only one of thorns.",
+        "As for the lamb lying at her feet, it is the true portrait of a person who is humble and gentle, as is noted in various places in Holy Scripture, where Jesus Christ Himself is called by this name by the Prophets.",
+        "There is another figure of Humility, who has her left hand upon her breast, and her right extended, with her eyes raised to Heaven. She tramples underfoot a nearly dead viper, around a broken mirror, near which lies the head of a wounded lion.",
+        "The hand she holds upon her throat shows that the heart is the true seat of Humility; and her outstretched right arm signifies that she must be patient, and not like the wolf, which covers itself in sheep's clothing to devour the lambs.",
+        "By the viper is to be understood hatred and envy; by the mirror, self-love; and by the lion, pride."
+      ]
     },
     {
       "id": "p1-79",
