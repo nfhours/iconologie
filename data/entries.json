@@ -2264,12 +2264,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-39.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Богато убранная женщина, сгибающаяся под тяжестью большого камня в золотой оправе",
+          "meaning": "Достоинство — тяжкое бремя, подобное скале Сизифа; нести его по силам лишь тем, у кого плечи Атланта или Геркулеса",
+          "what_en": "A richly adorned woman bending under the weight of a large stone set in gold",
+          "meaning_en": "Dignity is a heavy burden, like the rock of Sisyphus; only those with the shoulders of an Atlas or Hercules can bear it"
+        }
+      ],
+      "text_ru": [
+        "Та, что её представляет, — богато убранная женщина, почти сгибающаяся под ношей, которую несёт, — большим камнем, вправленным в золотую с драгоценностями оправу.",
+        "Здесь слово «бремя» служит объяснением слову «Достоинство», ибо это ноша столь же тяжёлая, как и бремя государственных дел, которую лучше всего можно сравнить со скалой Сизифа; так что, не имея плеч Атланта или Геркулеса, даже величайшим людям трудно нести эти тяготы; и можно по праву сказать, что тем, кто несёт их мужественно и без устали, по справедливости причитаются те же приношения и те же благодарственные почести, что воздавались древним Героям."
+      ],
+      "text_fr": [
+        "Celle qui la represente est vne femme richement parée, mais qui fléchit presque sous le fardeau qu'elle porte; qui est vne grosse pierre, enchassée dans vne bordure d'or & de pierreries.",
+        "Icy le mot de charge sert d'explication à celuy de Dignité, puisque c'en est vne si pesante que celle des affaires publiques, qu'elle ne peut mieux estre comparée qu'à la roche de Sysiphe; tellement qu'à moins que d'avoir les épaules d'vn Athlas ou d'vn Hercule, il est difficile aux plus grands hommes de soûtenir ces fardeaux; & on peut bien dire qu'à ceux qui les portent courageusement & sans en estre lassez, sont legitimement deuës les mesmes offrandes & les mesmes actions de graces qui se faisoient aux anciens Heros."
+      ],
       "en": "Dignity",
-      "group_en": "D"
+      "group_en": "D",
+      "scans": [
+        "p1-039-1.jpg",
+        "p1-039-2.jpg"
+      ],
+      "text_en": [
+        "She who represents her is a richly adorned woman, who nearly bends beneath the burden she carries — a great stone, set in a border of gold and jewels.",
+        "Here the word burden serves to explain that of Dignity, since it is a weight as heavy as that of public affairs, which can best be compared to the rock of Sisyphus; so that, short of having the shoulders of an Atlas or a Hercules, it is hard even for the greatest men to bear these burdens; and one may well say that those who carry them courageously and without tiring are rightly owed the same offerings and thanksgivings once given to the ancient Heroes."
+      ]
     },
     {
       "id": "p1-40",
@@ -2282,12 +2305,56 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-40.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Ветка тимьяна с пчелой в правой руке, листья миндаля и тутовника в левой",
+          "meaning": "Пчела добывает мёд из сухого, грубого тимьяна, как прилежный человек усердием превращает трудности в успех; миндаль (цветёт первым) и тутовник (цветёт последним), связанные вместе, означают верную середину между поспешностью и медлительностью",
+          "what_en": "A sprig of thyme with a bee in her right hand, almond and mulberry leaves in her left",
+          "meaning_en": "The bee draws honey from dry, rough thyme, as the diligent turn hardship into success through industry; the almond (first to flower) and mulberry (last to flower), bound together, signify the true mean between haste and slowness"
+        },
+        {
+          "what": "Петух у её ног, роющий землю",
+          "meaning": "Солнечная птица, возвещающая день и пробуждающая к труду; перебирает зёрна, не останавливаясь, пока не найдёт нужное",
+          "what_en": "A cock at her feet, scratching the earth",
+          "meaning_en": "A solar bird that announces the day and wakes us to work; it sifts through grain without pause until it finds what it seeks"
+        }
+      ],
+      "text_ru": [
+        "В лице этой женщины видна удивительная живость; в правой руке у неё ветка тимьяна, над которой летает пчела; в левой — букет листьев миндаля и тутовника; а у её ног — петух, роющий землю.",
+        "Определение ли Прилежания следует выводить из его этимологии, или из разных производимых им действий, — как бы то ни было, оно означает, на мой взгляд, то тщательное усердие, которое мы прилагаем, выбирая то, что наиболее подобает в ведении наших дел.",
+        "Эта добродетель, говорит Цицерон, тем более достохвальна, что превосходит прочие, как объемлющая их все: потому мы должны всячески стараться снискать её благосклонность, ибо нет ничего столь трудного, чего бы мы не могли достичь с её помощью.",
+        "Она изображается для нас пчелой, летающей над тимьяном — травой, говорит Плутарх, не менее грубой, чем сухой, в которой, однако, пчёлы находят приятный сок, служащий им лучше всякого другого растения для создания драгоценного напитка. Заботливые и прилежные люди подражают им тем, что своим усердием преодолевают самое грубое и трудное в делах. Так что из терний они делают цветы, подобно тому как пчела добывает мёд из тимьяна.",
+        "А поскольку Прилежание, по святому Фоме, иногда принимается за само попечение, избыток которого вреден, надлежит внести в него должную умеренность и вспомнить пример Протогена. Это был один из знаменитейших художников Родоса, которому, по словам Плиния, прославленный Апеллес не мог поставить в упрёк ничего, кроме того, что он слишком много трудился; «Он сравнялся бы со мной, — заключал тот, — если бы я не превосходил его в одном: я лучше умею вовремя отнять руку от полотна».",
+        "Итак, это Прилежание, не грешащее избытком, но спешащее неторопливо, которое многие превосходные мужи изображали по-разному — Август через рака и бабочку, Веспасиан через дельфина, обвивающего якорь, Павел III через хамелеона, привязанного к дельфину, а великий герцог Козимо через черепаху под парусом корабля, — здесь не без основания изображено листьями миндаля и тутовника, соединёнными вместе: ибо миндаль из всех деревьев цветёт раньше всех, а тутовник, напротив, позже всех; они связаны друг с другом, дабы показать, что надлежит умерять прилагаемые нами старания, и что мудрым и благоразумным следует считать того, кто между поспешностью и медлительностью умеет держаться верной середины, что, собственно говоря, и называется Прилежанием.",
+        "Петух, что виден у её ног, также служит его символом — то ли потому, что эта птица, весьма солнечная по природе, возвещает нам день и пробуждает к труду; то ли потому, что сама она пунктуально занята этим делом, перебирая даже мельчайшие зёрна и отличая их от сора, не переставая рыть землю, пока не найдёт то, что ищет для своего пропитания."
+      ],
+      "text_fr": [
+        "Vne merveilleuse vivacité se remarque dans le visage de cette femme, qui en sa main droite a vn rameau de thim, où vole vne abeille; en la gauche vn bouquet de feuilles d'amandier & de meurier; & à ses pieds vn coq qui grate la terre.",
+        "Soit que la definition de la Diligence doive estre tirée de ses etymologies, ou des differens effets qu'elle produit, tant y a qu'elle se prend, à mon avis, pour cette exacte industrie que nous mettons à faire le choix de ce qui nous est le plus convenable dans la conduite de nos actions.",
+        "Cette vertu, dit Ciceron, est d'autant plus recommandable, qu'elle surpasse les autres, comme les comprenant toutes: c'est pourquoy nous devons bien estre soigneux de luy faire la cour, n'y ayant rien de si difficile, que par son moyen nous ne puissions obtenir.",
+        "Elle nous est figurée par l'abeille qui vole dessus le thim; herbe, dit Plutarque, qui n'est pas moins rude qu'elle est seche, & où neanmoins les mouches à miel ne laissent pas de trouver vn suc agreable, qui leur sert plus qu'aucune autre plante, à faire vne precieuse liqueur. Les hommes soigneux & diligens les imitent, en ce que par leur industrie ils surmontent ce qu'il y a de plus rude & de plus difficile dans les affaires. Tellement que des épines ils en font des fleurs, comme du thim l'abeille en tire du miel.",
+        "Or parce que la Diligence, selon saint Thomas, est quelquefois prise pour le soin mesme, & qu'il est nuisible d'en trop avoir; il faut y apporter la moderation requise, & se souvenir de l'exemple de Protogenés. C'estoit vn des plus celebres Peintres de Rhodes, à qui, selon Pline, le fameux Apellés n'avoit autre chose à reprocher, sinon qu'il travailloit trop; Il m'égaleroit aussi, concluoit-il, n'estoit que je le surpasse en vne chose, qui est, que je sçay mieux que luy, oster la main de dessus la toile.",
+        "Cette Diligence donc, qui ne peche point par excés, mais qui se haste d'aller doucement, & que plusieurs excellens hommes ont diversement representée, comme Auguste par l'écrevice & le papillon; Vespasien par vn dauphin à l'entour d'vn ancre; Paul III. par le cameleon attaché à vn dauphin, & le grand Duc Cosme par vne tortuë sous le voile d'vn navire; n'est pas icy figurée mal à propos par des feuilles d'amandier & de meurier jointes ensemble: car l'amandier estant celuy de tous les arbres qui fleurit le plûtost, & le meurier au contraire, celuy qui fleurit le plus tard; ils sont liez l'vn à l'autre, pour montrer qu'il faut moderer les soins que l'on se donne, & tenir pour sage & bien avisé celuy qui entre la promptitude & la tardivité sçait tenir vn vray milieu, qui à proprement parler, est ce qu'on appelle Diligence.",
+        "Le coq qui se voit à ses pieds, en est encore vn symbole, soit à cause que cet oiseau, qui est grandement solaire, nous annonce le jour, & nous éveille au travail; soit parce que de soy-mesme il s'y porte ponctuellement, & qu'il épluche jusques aux moindres grains, & les discerne d'avec les ordures, ne cessant de gratter la terre, qu'il n'ait trouvé ce qu'il cherche pour sa nourriture."
+      ],
       "en": "Diligence",
-      "group_en": "D"
+      "group_en": "D",
+      "scans": [
+        "p1-040-1.jpg",
+        "p1-040-2.jpg"
+      ],
+      "text_en": [
+        "A marvelous liveliness is remarked in this woman's face; in her right hand she has a sprig of thyme, on which a bee is flying; in her left a bouquet of almond and mulberry leaves; and at her feet a cock scratching the ground.",
+        "Whether the definition of Diligence must be drawn from its etymology, or from the various effects it produces, it is taken, in my view, for that exact industry we apply in choosing what is most fitting in the conduct of our actions.",
+        "This virtue, says Cicero, is all the more recommendable in that it surpasses the others, as comprising them all: wherefore we ought to take great care to court her, there being nothing so difficult that through her we cannot obtain it.",
+        "She is figured for us by the bee that flies above the thyme — a plant, says Plutarch, no less rough than it is dry, in which bees nonetheless find a pleasant sap, serving them better than any other plant to make a precious liquor. Careful and diligent men imitate them, in that by their industry they overcome whatever is roughest and most difficult in affairs. So that of thorns they make flowers, just as the bee draws honey from thyme.",
+        "Now because Diligence, according to Saint Thomas, is sometimes taken for care itself, too much of which is harmful, due moderation must be brought to it, and the example of Protogenes remembered. He was one of the most celebrated Painters of Rhodes, to whom, according to Pliny, the famous Apelles had nothing to reproach but that he worked too much; He would equal me, Apelles concluded, were it not that I surpass him in one thing — that I know better than he when to take my hand off the canvas.",
+        "This Diligence, then, which sins not through excess, but hastens slowly, and which several excellent men have variously represented — Augustus by the crab and the butterfly; Vespasian by a dolphin entwined about an anchor; Paul III by a chameleon attached to a dolphin; and the Grand Duke Cosimo by a tortoise beneath a ship's sail — is not unfittingly figured here by almond and mulberry leaves joined together: for the almond is of all trees the one that blossoms soonest, and the mulberry, on the contrary, the one that blossoms latest; they are bound one to the other, to show that one must temper the care one takes, and hold him wise and well-advised who, between haste and slowness, knows how to keep the true mean — which, properly speaking, is what is called Diligence.",
+        "The cock seen at her feet is also a symbol of this — whether because this bird, being greatly solar, announces the day to us and wakens us to work; or because of itself it attends to this punctually, picking out even the smallest grains, and distinguishing them from refuse, never ceasing to scratch the earth until it has found what it seeks for its food."
+      ]
     },
     {
       "id": "p1-41",
@@ -2300,12 +2367,40 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-41.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в расцвете лет, скромно одетая, с решетом в правой руке и граблями в левой",
+          "meaning": "Решето отделяет доброе зерно от дурного — иероглиф мудрого человека, различающего пороки и добродетели; грабли вырывают вредные травы, как дурные склонности нужно искоренять из души",
+          "what_en": "A woman in the flower of her age, modestly dressed, with a sieve in her right hand and a rake in her left",
+          "meaning_en": "The sieve separates good grain from bad — the hieroglyph of a wise man discerning vice from virtue; the rake roots out harmful weeds, as evil inclinations must be uprooted from the soul"
+        }
+      ],
+      "text_ru": [
+        "Различие одного от другого отмечено здесь образом этой женщины, находящейся в расцвете лет и скромно одетой, держащей решето в правой руке, а в левой — грабли.",
+        "Её одеяние означает великую умеренность, весьма подобающую её возрасту, который в середине своего пути, несомненно, более способен к истинному разумению и к различению добра от зла, нежели могут быть юность или старость. Причина в том, что один из этих двух возрастов грешит избытком страсти, а другой — недостатком памяти и суждения.",
+        "А поскольку свойство решета — отделять доброе зерно от дурного, потому оно и помещено здесь, как и у Пиерия, как иероглиф совершенно мудрого человека. Ибо тот, кто таковым не является, не может различать пороки и добродетели, ни исследовать тайны природы, ни очищать свои поступки, пропуская их, как говорит Пословица, через решето. Недаром египетские жрецы брали его в руки всякий раз, когда посредством тонких умозаключений хотели извлечь какое-либо предзнаменование о будущем.",
+        "Грабли, которые она держит в руке, обладают тем же свойством, что и решето; потому-то Пахарь обычно пользуется ими, чтобы вырывать вредные травы: это должно научить человека поступать так же со своими дурными склонностями и полностью искоренять их из своей души, пока они не превратились в привычку, из которой их уже не вырвать."
+      ],
+      "text_fr": [
+        "La difference de l'vn & de l'autre est icy marquée par la figure de cette femme, qui est en la fleur de son âge, & modestement vestuë, tenant vn crible de la main droite, & de la gauche vn rasteau.",
+        "Son habillement marque sa grande moderation, fort convenable à son âge, qui dans le milieu de sa course est sans doute plus capable de la vraye raison, & de discerner le bien d'avec le mal, que ne peuvent estre ny la jeunesse, ny la vieillesse. La raison est, parce que l'vn de ces deux âges peche par vn excés de passion, & l'autre par vn deffaut de memoire & de jugement.",
+        "Et dautant que le propre du crible est de separer le bon grain d'avec le mauvais; c'est pour cela qu'il est mis icy, comme dans Pierius, pour le hieroglyphe d'vn homme parfaitement sage. Car celuy qui ne l'est pas, ne peut faire la distinction des vices & des vertus, ny rechercher les secrets de la nature, ny purifier non plus ses actions, & comme dit le Proverbe, les faire passer par le crible. Aussi n'estoit-ce pas sans mystere que les Prestres Egyptiens en prenoient vn à la main, toutes les fois que par de subtiles conjectures ils vouloient tirer quelque presage de l'avenir.",
+        "Le rasteau qu'elle tient en main a la mesme proprieté que le crible; & voilà pourquoy le Laboureur s'en sert d'ordinaire pour arracher les herbes nuisibles: ce qui doit apprendre à l'homme d'en faire de mesme de ses mauvaises inclinations, & de les retrancher entierement de son ame, de peur qu'il ne les puisse déraciner, si elles se tournent vne fois en habitude."
+      ],
       "en": "Distinction of Good and Evil",
-      "group_en": "D"
+      "group_en": "D",
+      "scans": [
+        "p1-041-1.jpg"
+      ],
+      "text_en": [
+        "The difference between the one and the other is marked here by the figure of this woman, who is in the flower of her age, and modestly dressed, holding a sieve in her right hand, and in her left a rake.",
+        "Her garment marks her great moderation, well suited to her age, which, being in the middle of its course, is without doubt more capable of true reason, and of discerning good from evil, than either youth or old age can be. The reason is that one of these two ages sins by an excess of passion, and the other by a lack of memory and judgment.",
+        "And inasmuch as the proper function of the sieve is to separate the good grain from the bad, it is for this reason placed here, as also in Pierius, as the hieroglyph of a perfectly wise man. For he who is not so cannot distinguish vices from virtues, nor search out the secrets of nature, nor purify his own actions, passing them, as the Proverb says, through the sieve. Nor was it without mystery that the Egyptian Priests took one in hand, whenever by subtle conjectures they wished to draw some presage of the future.",
+        "The rake she holds in her hand has the same property as the sieve; and this is why the Plowman ordinarily uses it to root out harmful weeds: which should teach man to do the same with his evil inclinations, and to cut them off entirely from his soul, lest, once turned to habit, he no longer be able to uproot them."
+      ]
     },
     {
       "id": "p1-42",
@@ -2318,12 +2413,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-42.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина зрелого возраста с раскрытой книгой на коленях и скипетром, увенчанным солнцем",
+          "meaning": "Открытая книга и объятия означают, что она щедро делится собой с достойными; солнце на скипетре — что её свет рассеивает облака невежества",
+          "what_en": "A mature woman with an open book in her lap and a sceptre crowned by a sun",
+          "meaning_en": "The open book and arms signify that she freely shares herself with the worthy; the sun on the sceptre, that her light scatters the clouds of ignorance"
+        },
+        {
+          "what": "В другом изводе: крылья на голове, зеркало в правой руке, шар под треугольником в левой",
+          "meaning": "Крылья — созерцание возносит ум; зеркало — наука постигает сущность через отвлечённый образ; шар и треугольник — неизменность науки и триада терминов, рождающая доказательство",
+          "what_en": "In another version: wings on her head, a mirror in her right hand, a ball beneath a triangle in her left",
+          "meaning_en": "The wings signify that contemplation raises the mind; the mirror, that science grasps essence through an abstracted image; the ball and triangle, science's constancy and the triad of terms that produces proof"
+        }
+      ],
+      "text_ru": [
+        "Эта женщина зрелого уже возраста, скромно одетая, держит руки раскрытыми, дабы принять всех достойных к ней приблизиться. В левой руке она держит нечто вроде скипетра, над которым сияет солнце, а на коленях — открытую книгу; с приятного и ясного неба на неё обильно падает роса.",
+        "Зрелость её возраста показывает, что нужно потратить немало времени, дабы изучить тайны и чудеса этой Богини; её скромное одеяние — что скромность всегда к лицу её приверженцам; её книга и раскрытые объятия — что она щедро сообщает себя тем, кто становится её достоин; а её скипетр, на котором сияет солнце, — что владения её весьма обширны, а свет её столь силён и жив, что, проникая в облака невежества, он тотчас же пронзает их и совершенно рассеивает порождаемых ими чудищ и химер.",
+        "А поскольку Учёность, или Наука, есть навык умозрительного разумения, посредством которого мы рассматриваем и познаём вещи через их причины, некоторые другие, дабы дать это понять, вздумали изображать её с крыльями на голове, зеркалом в правой руке и шаром под треугольником в левой.",
+        "Крыльями показано, что нет такой Науки, в которой созерцание не могло бы вознести дух. Зеркалом — что её образует отвлечение, ибо в деле постижения свойств чувство доставляет разумению идеальные сущности, подобно тому как, видя в зеркале случайный облик существующих вещей, мы постигаем их сущность. Шаром — что подобно тому как его круглая форма не терпит противоречия в движении, так и Наука не терпит его в вопросах мнений. А треугольником — что в суждениях есть три члена, порождающих доказательство Науки, подобно тому как из трёх равных углов образуется одна-единственная фигура.",
+        "Умолчу о том, что существуют и другие изображения этой Богини, представляющие её с золотым треножником на голове и книгой в руке: возможно, дабы показать, что хотя голос Наставника весьма полезен ученику, однако, если он не прибавит к нему чтения добрых книг, ему трудно будет уразуметь и удержать то великое изобилие вещей, которое рождает в нас Науку силою учения.",
+        "Золотой треножник равным образом служит символом этого — то ли ради благородства этого металла, украшающего собою прекраснейшие вещи; то ли ради совершенства тройственного числа, которому Аристотель отдаёт предпочтение перед всеми прочими числами. Наука равным образом превосходит всё самое изысканное в природе, ибо именно она служит к усовершенствованию нашей души и возносит её к познанию божественных тайн. О чём мудрый Сократ благоразумно предупреждает нас у Плутарха, говоря, что уже немало — обрести здесь, на земле, хотя бы некий образец её, ибо знать всё и проникать в познание всех причин подобает одному лишь Богу."
+      ],
+      "text_fr": [
+        "Cette femme d'vn âge déja meur, & modestement vestuë, a les bras ouverts, pour accueillir tous ceux qui meritent de l'aborder. Elle tient de la main gauche vne maniere de sceptre, au dessus duquel est vn soleil; & en son giron vn livre ouvert; tandis que d'vn ciel agreable & serein il tombe sur elle vne grande quantité de rosée.",
+        "La maturité de son âge montre qu'il faut employer beaucoup de temps pour apprendre les secrets & les merveilles de cette Deesse: son habit honneste, que la modestie sied toûjours bien à ses favoris: son livre & ses bras ouverts, qu'elle se communique liberalement à ceux qui s'en rendent dignes: & son sceptre, où brille vn soleil, que son empire est de grande estenduë, & sa lumiere si forte & si vive, que donnant dans les nuages de l'ignorance, elle les perce aussi-tost, & deffait entierement les monstres & les chimeres qu'elle produit.",
+        "Et dautant que la Doctrine ou la Science est vne habitude de l'entendement speculatif, par qui nous considerons & connoissons les choses par leurs causes: quelques autres pour donner à connoistre cela, se sont avisez de la peindre avec des aisles au chef, vn miroir en la main droite, & en la gauche vne boule sous vn triangle.",
+        "Par les aisles, il est montré qu'il n'est point de Science où la contemplation ne puisse élever l'esprit. Par le miroir, que c'est l'abstraction qui la forme, parce qu'en matiere de concevoir les accidens, le sens fournit à l'entendement des substances ideales, tout de mesme qu'en voyant dans vn miroir la forme accidentale des choses existentes, l'on en considere l'essence. Par la boule, que comme en sa figure ronde elle ne peut souffrir de contrarieté de mouvement, la Science n'en souffre non plus en matiere d'opinions. Et par le triangle, que dans les propositions il y a trois termes, qui produisent la demonstration de la Science: tout ainsi que de trois angles égaux, vne seule figure se forme.",
+        "J'obmets qu'il y a d'autres peintures de cette Deesse, qui la representent avec vn trepied d'or à la teste, & vn livre en main: possible pour faire voir, qu'encore que la voix du Maistre serve grandement à l'écolier, si est-ce que s'il n'y ajoûte la lecture des bons livres, il peut difficilement comprendre & retenir cette grande abondance de choses, qui engendre la Science en nous à force d'estudier.",
+        "Le trepied d'or est pareillement vn symbole de cecy, soit pour la noblesse de ce metail, qui sert d'ornement aux plus belles choses: soit pour la perfection du nombre ternaire, à qui Aristote donne l'avantage sur tous les autres nombres. La Science de mesme l'emporte pardessus tout ce qu'il y a de plus exquis en la nature: puisque c'est elle qui sert à perfectionner nostre ame, & qui l'eleve à la connoissance des mysteres divins. Dequoy le sage Socrate nous avise prudemment dans Plutarque, où il dit, que c'est beaucoup d'en acquerir quelque échantillon icy bas, puisqu'il n'appartient qu'à Dieu seulement de sçavoir toutes choses, & de penetrer dans la connoissance de toutes leurs causes."
+      ],
       "en": "Learning",
-      "group_en": "D"
+      "group_en": "D",
+      "scans": [
+        "p1-042-1.jpg",
+        "p1-042-2.jpg"
+      ],
+      "text_en": [
+        "This woman, of an already mature age, and modestly dressed, holds her arms open, to welcome all who deserve to approach her. In her left hand she holds a kind of scepter, above which is a sun; and in her lap an open book; while from a pleasant, serene sky a great quantity of dew falls upon her.",
+        "The maturity of her age shows that much time must be spent to learn the secrets and wonders of this Goddess: her honest garment, that modesty always well becomes her favorites: her book and open arms, that she freely communicates herself to those who render themselves worthy of it: and her scepter, on which a sun shines, that her empire is of great extent, and her light so strong and vivid that, striking into the clouds of ignorance, it at once pierces them, and entirely undoes the monsters and chimeras they produce.",
+        "And inasmuch as Doctrine, or Science, is a habit of the speculative understanding, by which we consider and know things through their causes, some others, to make this known, have thought to paint her with wings on her head, a mirror in her right hand, and in her left a ball beneath a triangle.",
+        "By the wings it is shown that there is no Science to which contemplation cannot raise the mind. By the mirror, that it is abstraction that forms it, because, in conceiving accidents, the senses furnish the understanding with ideal substances, just as, seeing in a mirror the accidental form of existing things, one considers their essence through it. By the ball, that just as, by its round shape, it cannot suffer any contrariety of motion, so Science suffers none either in matters of opinion. And by the triangle, that in propositions there are three terms, which produce the demonstration of Science, just as from three equal angles a single figure is formed.",
+        "I pass over that there are other paintings of this Goddess, representing her with a golden tripod on her head, and a book in hand: perhaps to show that, although the Master's voice greatly serves the student, yet unless he adds to it the reading of good books, he can hardly understand and retain that great abundance of things which Science engenders in us through diligent study.",
+        "The golden tripod is likewise a symbol of this — whether for the nobility of that metal, which adorns the finest things; or for the perfection of the number three, to which Aristotle gives the advantage over all other numbers. Science likewise surpasses all that is most exquisite in nature, since it is she who perfects our soul, and raises it to the knowledge of divine mysteries. Of which the wise Socrates prudently advises us in Plutarch, where he says that it is already much to acquire some sample of it here below, since it belongs to God alone to know all things, and to penetrate the knowledge of all their causes."
+      ]
     },
     {
       "id": "p1-43",
