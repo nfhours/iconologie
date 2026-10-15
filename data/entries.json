@@ -2058,12 +2058,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-35.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Величавая дама в короне и горностаевой мантии, рассыпающая золотые монеты и драгоценности",
+          "meaning": "Щедрость — добродетель государей и героев, которым несравненно приятнее давать, чем получать",
+          "what_en": "A majestic lady in a crown and ermine mantle, scattering gold coins and jewels",
+          "meaning_en": "Generosity is the virtue of princes and heroes, who find it incomparably more pleasing to give than to receive"
+        },
+        {
+          "what": "Белое платье",
+          "meaning": "Простота и чистота белого цвета означают, что она дарит без хитрости и без надежды на выгоду",
+          "what_en": "A white robe",
+          "meaning_en": "The simplicity and purity of white signify that she gives without guile and without hope of gain"
+        }
+      ],
+      "text_ru": [
+        "Привлекательный облик и величие этой Дамы, в которой дары тела, души и судьбы сходятся воедино необычайным чудом, показывают даже не самым проницательным, сколь могущественна власть Учтивости, или Щедрости.",
+        "Венец и королевская мантия, которую она носит, усеянная горностаевым мехом, — драгоценные знаки её величия и великолепия.",
+        "Она одета в белое, дабы показать, что подобно тому как этот цвет прост, чист и без прикрас, так и она без хитрости, когда дарит, и без надежды на иную выгоду, кроме удовлетворения от того, что творит добро.",
+        "С той же целью она раскрывает объятия, дабы принять всех и каждого, и щедро рассыпает полными горстями золотые монеты и драгоценные камни; делает же это с такой непринуждённостью, что даже не удостаивает взглядом плоды своей щедрости и с удовольствием творит их, не извлекая из того тщеславия. В чём, если я не ошибаюсь, нам преподан урок, что Щедрость по преимуществу должна называться добродетелью Государей и Героев, ибо у них есть чем её проявлять, и люди их происхождения несравненно охотнее дают, нежели получают."
+      ],
+      "text_fr": [
+        "La bonne mine, & la majesté de cette Dame, en qui les dons du corps, de l'ame & de la fortune s'accordent ensemble par vne merveille extraordinaire, montrent aux moins clair-voyans combien puissant est l'empire de la Courtoisie, ou de la Generosité.",
+        "La couronne & le manteau royal qu'elle porte, semé d'hermines, sont les precieuses marques de sa grandeur & de sa magnificence.",
+        "Elle est vestuë de blanc, pour faire voir que comme cette couleur est simple, nette & sans fard, elle de mesme est sans artifice quand elle donne, & sans esperance d'autre interest que de la satisfaction qu'elle a de faire du bien.",
+        "Pour la mesme fin elle ouvre les bras pour accueillir tout le monde, & répand à pleines mains des pieces d'or & des pierreries; ce qu'elle fait de si bonne grace, qu'elle ne daigne pas mesme regarder les effets de sa largesse, & se plaist à les produire sans en tirer vanité. Par où, si je ne me trompe, il nous est enseigné, que la Generosité doit estre nommée par excellence, la vertu des Princes & des Heros, parce qu'ils ont dequoy l'exercer, & que les personnes de leur naissance se plaisent plus incomparablement à donner qu'à recevoir."
+      ],
       "en": "Courtesy",
-      "group_en": "C"
+      "group_en": "C",
+      "scans": [
+        "p1-035-1.jpg",
+        "p1-035-2.jpg"
+      ],
+      "text_en": [
+        "The fine bearing and majesty of this Lady, in whom the gifts of body, soul, and fortune agree together by an extraordinary marvel, show even the least discerning how powerful is the empire of Courtesy, or Generosity.",
+        "The crown and the royal mantle she wears, sewn with ermine, are the precious marks of her grandeur and magnificence.",
+        "She is clothed in white, to show that, as this color is simple, clean, and without artifice, so she too is without guile when she gives, and without hope of any interest other than the satisfaction of doing good.",
+        "To the same end she opens her arms to welcome everyone, and scatters gold coins and jewels with full hands; and this she does with such grace that she does not even deign to look at the effects of her bounty, delighting in producing them without drawing any vanity from it. By which, unless I am mistaken, we are taught that Generosity ought to be named, above all, the virtue of Princes and Heroes, because they have the means to exercise it, and persons of their birth take incomparably more pleasure in giving than in receiving."
+      ]
     },
     {
       "id": "p1-36",
@@ -2076,12 +2111,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-36.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Фигура с множеством ушей на платье, взъерошенными волосами и поднятыми крыльями",
+          "meaning": "Уши означают неупорядоченное желание знать больше, чем должно; поднятая голова и настороженные уши — по св. Бернарду, признак любопытных монахов",
+          "what_en": "A figure covered in ears on her robe, with bristling hair and raised wings",
+          "meaning_en": "The ears signify an unruly desire to know more than one ought; a raised head and pricked ears are, after St Bernard, the mark of a curious monk"
+        },
+        {
+          "what": "Лягушки на платье",
+          "meaning": "У египтян лягушки, с их большими глазами, были символом Любопытства",
+          "what_en": "Frogs on her robe",
+          "meaning_en": "To the Egyptians, frogs, with their large eyes, were a symbol of Curiosity"
+        }
+      ],
+      "text_ru": [
+        "Та, что её представляет, носит на платье множество ушей и лягушек, волосы её взъерошены, крылья за спиной, руки подняты, а голова повёрнута наружу, словно она хочет высматривать со всех сторон.",
+        "Любопытство изображено здесь со множеством ушей, ибо тот, кем оно владеет, никогда не бывает без неупорядоченного желания знать больше, чем должно. Так описывает его святой Бернард в своём трактате о ступенях Гордыни, говоря о любопытных Монахах: «Вот признак этого, — говорит он, — если среди них ты увидишь кого-то, кто любит бегать и ходить с поднятой головой или настороженным ухом».",
+        "Лягушки равным образом были у египтян символами Любопытства, из-за больших глаз, которые у них есть; и если их, по словам Пиерия, положить в мешочек из оленьей кожи вместе с мясом соловья, они делают человека бодрым, живым, весёлым и скорым на расспросы обо всём.",
+        "То же самое показано нам её непокрытой головой, её вздыбленными волосами, поднятыми руками и быстротой её крыльев, свидетельствующими, что она только и делает, что снуёт туда-сюда, чтобы увидеть и разведать повсюду то, что говорится и что происходит; будучи столь влюблённой в новости, что чем больше она их узнаёт, тем больше хочет узнавать."
+      ],
+      "text_fr": [
+        "Celle qui la represente a sur sa robe quantité d'oreilles & de grenouilles, les cheveux herissez, des aisles au dos, les bras en haut, & la teste en dehors, comme si elle vouloit guetter de toutes parts.",
+        "La Curiosité se voit icy peinte avec plusieurs oreilles, parce que celuy qu'elle possede n'est jamais sans vn desir déreglé de vouloir sçavoir plus qu'il ne doit. Ainsi la decrit saint Bernard en son traité des degrez de la Superbe, où parlant des Moines curieux, C'en est vne marque, dit-il, si parmy eux tu en vois quelqu'vn qui aime à courir, & à s'en aller la teste levée, ou l'oreille à l'erte.",
+        "Les grenouilles pareillement estoient chez les Egyptiens les symboles de la Curiosité, à cause des grands yeux qu'elles ont; lesquels dit Pierius, mis dans vne bourse de peau de cerf, avec de la chair de rossignol, font l'homme éveillé, dispos, gaillard, & prompt à s'enquerir de tout.",
+        "Le mesme nous est encore demontré par sa teste à l'évent, par ses cheveux qui se herissent, par ses bras haussez, & par la vitesse de ses aisles, qui témoignent qu'elle ne fait qu'aller & venir, pour voir & fureter çà & là, ce qui se dit, & qui se passe; estant si amoureuse des nouveautez, que plus elle en sçait, & plus elle en veut apprendre."
+      ],
       "en": "Curiosity",
-      "group_en": "C"
+      "group_en": "C",
+      "scans": [
+        "p1-036-1.jpg",
+        "p1-036-2.jpg"
+      ],
+      "text_en": [
+        "She who represents it has on her robe a great number of ears and frogs, her hair standing on end, wings on her back, her arms raised, and her head turned outward, as if she wished to watch on every side.",
+        "Curiosity is painted here with many ears, because whoever is possessed by it is never without an unruly desire to know more than one ought. So Saint Bernard describes it in his treatise on the degrees of Pride, where, speaking of curious Monks, he says: This is a sign of it, if among them you see someone who loves to run about, and to go with head held high, or ear pricked up.",
+        "Frogs likewise were, among the Egyptians, symbols of Curiosity, on account of their large eyes; which, says Pierius, when placed in a pouch of deerskin together with nightingale's flesh, make a man alert, lively, brisk, and quick to inquire about everything.",
+        "The same is further shown us by her bare head, her bristling hair, her raised arms, and the swiftness of her wings, which attest that she does nothing but come and go, to see and ferret out here and there what is said and what happens; being so enamored of novelties that the more she knows of them, the more she wants to learn."
+      ]
     },
     {
       "id": "p1-37",
@@ -2094,12 +2164,44 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-37.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Ангел с пылающим сердцем, рука на груди, взор устремлён к небу",
+          "meaning": "Крылья означают быстроту желаний души, пылающей любовью к Богу; пламя сердца — любовь, которую Христос принёс на землю",
+          "what_en": "An angel with a flaming heart, one hand on his breast, eyes raised to heaven",
+          "meaning_en": "The wings signify the swiftness of the desires of a soul aflame with love of God; the flaming heart, the love Christ brought to earth"
+        },
+        {
+          "what": "Олень, утоляющий жажду в ручье",
+          "meaning": "По Давиду, желание чистой души подобно желанию оленя, что ищет лишь чистого источника после долгой погони",
+          "what_en": "A stag quenching its thirst in a stream",
+          "meaning_en": "After David, the desire of a pure soul is like that of a stag seeking only a clear spring after a long chase"
+        }
+      ],
+      "text_ru": [
+        "Поскольку верно, что это чувство не имеет ничего плотского или земного, вполне разумно, что оно является в образе Ангела. Крылья, которые он носит, означают удивительную быстроту желаний души, пылающей любовью к Богу; а пламя, исходящее из его сердца, — образ того пламени, что Иисус Христос принёс с собою на землю.",
+        "Он держит левую руку на груди, правую — простёртой, а взор — устремлённым к Небу, дабы научить нас, что сердце наше, глаза и дела наши не должны иметь предметом ничего, кроме одного Бога.",
+        "То же самое означает для нас и олень, утоляющий жажду в ручье; это мысль, заимствованная у Давида, дабы дать нам понять, что желание, подобное его желанию, и такое, какое должно быть у чистой души, подобно желанию оленя, которого преследовали весь день и который ищет лишь отдохновения, утоляя жар своей жажды в чистом источнике."
+      ],
+      "text_fr": [
+        "Puisqu'il est vray que cette affection n'a rien de charnel ny de terrestre, il est bien raisonnable qu'elle paroisse sous la figure d'vn Ange. Les aisles qu'il porte signifient la merveilleuse vitesse des desirs d'vne ame embrazée de l'amour de Dieu; & la flamme qui luy sort du cœur est vn portrait de celle que Jesus-Christ s'en vint porter sur la terre.",
+        "Il tient la main gauche sur sa poitrine, le bras droit étendu, & la veuë au Ciel, pour nous apprendre que nostre cœur, nos yeux & nos œuvres ne doivent avoir pour objet que Dieu seulement.",
+        "Cela nous est aussi denoté par le cerf, qui se desaltere dans vn ruisseau; ce qui est vne pensée prise de David, pour nous faire entendre qu'vn desir tel que le sien, & tel que le doit avoir vne ame pure, ressemble à celuy du cerf qu'on a couru toute la journée, qui ne cherche qu'à se délasser, en éteignant l'ardeur de sa soif dans vne claire fontaine."
+      ],
       "en": "Desire toward God",
-      "group_en": "D"
+      "group_en": "D",
+      "caption": "Desir vers Dieu",
+      "scans": [
+        "p1-037-1.jpg"
+      ],
+      "text_en": [
+        "Since it is true that this affection has nothing carnal or earthly about it, it is quite reasonable that it should appear in the form of an Angel. The wings he bears signify the marvelous swiftness of the desires of a soul inflamed with the love of God; and the flame issuing from his heart is a portrait of that which Jesus Christ came to bring down to earth.",
+        "He holds his left hand upon his breast, his right arm outstretched, and his gaze upon Heaven, to teach us that our heart, our eyes, and our works ought to have no object but God alone.",
+        "This is also denoted for us by the stag, which quenches its thirst in a stream; a thought taken from David, to make us understand that a desire such as his, and such as a pure soul ought to have, resembles that of the stag that has been hunted all day, and seeks only to find rest, quenching the ardor of its thirst in a clear spring."
+      ]
     },
     {
       "id": "p1-38",
@@ -2112,12 +2214,44 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-38.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Воин в шлеме с двумя перьями (белым и чёрным) и луной-навершием",
+          "meaning": "Шлем означает силу духа; перья, неколебимые ветром, — способность диалектики отстаивать и истину, и ложь правдоподобными доводами; луна — переменчивость её форм",
+          "what_en": "A soldier in a helmet with two feathers (white and black) and a crescent moon crest",
+          "meaning_en": "The helmet signifies vigour of mind; the wind-proof feathers, dialectic's power to argue both truth and falsehood plausibly; the moon, its changing forms"
+        },
+        {
+          "what": "Два равных дротика, заострённых с обеих сторон, в правой руке",
+          "meaning": "Диалектика колет доводами с обеих сторон, сокращая и сжимая их, подобно крепко сжатому кулаку",
+          "what_en": "Two equal darts, pointed at both ends, in her right hand",
+          "meaning_en": "Dialectic pricks with arguments from both sides, tightening them like a tightly closed fist"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде молодого воина, твёрдо стоящего на ногах. На голове у него шлем с двумя перьями — одним белым и одним чёрным, а навершием служит луна; правой рукой он сжимает посередине два равных дротика, заострённых с обоих концов, и сжимает кулак левой руки, который словно протягивает кому-то.",
+        "Шлемом её, который принимается за силу духа, показано, что она особенно необходима в Диалектике; а двумя перьями — что ветер не может так легко их поколебать, как это искусство способно поддерживать истинное и ложное правдоподобными доводами; то же означает и луна, помещённая навершием, из-за чего Клитомах сравнивал Диалектику с этим светилом за разнообразие его форм.",
+        "То же самое можно сказать и о дротике с двумя остриями, который ей по праву приписывают, ибо она колет с обеих сторон силой своих доводов, которые любит сокращать и сжимать; это же философ Зенон неплохо выражал образом кулака, или крепко сжатой руки."
+      ],
+      "text_fr": [
+        "Elle est figurée par vn jeune soldat, qui se tient ferme sur ses pieds. Il a pour habillement de teste vn heaume avec deux plumes, l'vne blanche, & l'autre noire, & pour cimier vne lune: de la main droite il serre par le milieu deux dards égaux, & qui sont pointus par les deux bouts; & ferme le poing du bras gauche, qu'il semble presenter à quelqu'vn.",
+        "Par son heaume qui se prend pour la vigueur de l'esprit, il est montré qu'elle est particulierement requise en la Dialectique: & par les deux plumes, que le vent ne les ébranle pas avec plus de facilité qu'en a cet art à soûtenir le vray & le faux par des raisons vray-semblables: ce que signifie encore la lune mise pour cimier; à raison dequoy Clitomachus comparoit la Dialectique à cet astre, pour la diversité de ses formes.",
+        "L'on en peut dire autant du dard à deux pointes qu'on luy attribuë avec raison, parce qu'elle picque des deux costez, par la force de ses argumens, qu'elle se plaist à racourcir & serrer; ce que le Philosophe Zenon n'exprimoit pas mal par la figure du poing, ou de la main étroittement fermée."
+      ],
       "en": "Dialectic",
-      "group_en": "D"
+      "group_en": "D",
+      "scans": [
+        "p1-038-1.jpg",
+        "p1-038-2.jpg"
+      ],
+      "text_en": [
+        "She is figured as a young soldier, standing firm upon his feet. For headgear he has a helmet with two feathers, one white and one black, and for a crest a moon: in his right hand he grasps, by the middle, two equal darts, pointed at both ends; and he closes the fist of his left arm, which he seems to be holding out to someone.",
+        "By her helmet, taken for vigor of mind, it is shown that this is particularly required in Dialectic; and by the two feathers, that the wind can no more easily stir them than this art can uphold truth and falsehood alike through plausible reasons: which the moon, placed as a crest, likewise signifies; for which reason Clitomachus compared Dialectic to that heavenly body, for the diversity of its phases.",
+        "The same may be said of the two-pointed dart rightly attributed to her, because she pricks on both sides with the force of her arguments, which she delights in shortening and tightening; which the Philosopher Zeno not badly expressed by the figure of the fist, or the tightly closed hand."
+      ]
     },
     {
       "id": "p1-39",
