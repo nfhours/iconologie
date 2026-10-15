@@ -6206,12 +6206,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-119.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с рукой, привязанной к тяжёлому камню, и раскрытыми крылышками в другой руке",
+          "meaning": "Камень — бедность, не дающая подняться; крылья — стремление лучших умов к высшим познаниям, которому бедность, тяжелее камня Сизифа, не даёт осуществиться",
+          "what_en": "A woman with one hand tied to a heavy stone and open little wings in the other",
+          "meaning_en": "The stone signifies the poverty that prevents rising; the wings, the striving of the best minds toward higher knowledge, which poverty — heavier than the stone of Sisyphus — keeps them from achieving"
+        }
+      ],
+      "text_ru": [
+        "Этот род Бедности, о котором здесь идёт речь, разумеется как та, что мешает великим умам достичь успеха. Она изображена в виде дурно одетой женщины, чья правая рука привязана к тяжёлому камню, а в левой — раскрытые крылышки, словно влекущие её ввысь.",
+        "Бедностью называют недостаток вещей, необходимых человеку для поддержания его жизни и даже для обретения добродетелей.",
+        "Крылья на левой руке означают крайнее желание, какое обычно питают лучшие умы — вознестись к высшим познаниям; что не было бы им трудно, если бы Бедность, более невыносимая им ноша, чем камень Сизифа, не принижала их именно тогда, когда они думают взлететь: отчего, по некоей необходимости, кажущейся роковой для большинства честных людей, они прозябают в грязи и становятся игрушкой пошлых душ: ¶«Ибо без дохода учение их обманывает, / И дух не насыщается песнями Музы»."
+      ],
+      "text_fr": [
+        "Cette sorte de Pauvreté dont il est icy question, s'entend de celle qui empesche les grands esprits de parvenir. Elle est figurée par vne femme mal vestuë, qui a la main droite attachée à vne pierre pesante, & en la gauche des aislerons ouverts, comme pour l'attirer en haut.",
+        "L'on appelle Pauvreté le manquement des choses qui sont necessaires à l'homme pour l'entretenement de sa vie, & mesme pour l'acquisition des vertus.",
+        "Les aisles de la main gauche signifient l'extrême desir qu'ont ordinairement les meilleurs esprits de s'élever aux plus hautes connoissances; ce qui ne leur seroit pas difficile, si la Pauvreté, qui leur est vn fardeau plus insupportable que la pierre de Sysiphe, ne les abaissoit à mesure qu'ils pensent prendre leur vol: ce qui est cause que par vne certaine necessité, qui semble fatale à la plûpart des honnestes gens, ils croupissent dans la boüe, & deviennent le joüet des ames vulgaires: ¶Car sans le revenu l'étude les abuse, / Et l'esprit ne se paist des chansons de la Muse."
+      ],
       "en": "Poverty",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-119-1.jpg",
+        "p1-119-2.jpg"
+      ],
+      "text_en": [
+        "This kind of Poverty here in question is understood as that which prevents great minds from succeeding. She is figured as a poorly clothed woman, whose right hand is bound to a heavy stone, and in her left, open little wings, as if to draw her upward.",
+        "Poverty is the name given to the lack of things necessary to man for the maintenance of his life, and even for the acquisition of virtues.",
+        "The wings on the left hand signify the extreme desire ordinarily felt by the best minds to rise to the highest knowledge; which would not be difficult for them, were it not that Poverty, a burden more unbearable to them than the stone of Sisyphus, brings them low just as they think to take flight: which is why, by a certain necessity that seems fatal to most honest people, they wallow in the mire, and become the plaything of vulgar souls: ¶\"For without income, study deceives them, / And the mind is not fed by the songs of the Muse.\""
+      ]
     },
     {
       "id": "p1-120",
@@ -6224,12 +6250,57 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-120.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Слепой нагой юноша со змеями вместо волос, червём, грызущим сердце, и обвитый двумя змеями",
+          "meaning": "Слепота и нагота — неосторожность греха, лишающего благодати; змеи — порабощение диаволом; червь в сердце — грызущая совесть грешника",
+          "what_en": "A blind, naked youth with serpents for hair, a worm gnawing his heart, and two serpents coiled about him",
+          "meaning_en": "The blindness and nakedness signify the recklessness of sin, which strips away grace; the serpents, enslavement to the devil; the worm in the heart, the sinner's gnawing conscience"
+        }
+      ],
+      "text_ru": [
+        "Поскольку нет ничего столь ужасного, как этот пагубный враг души, не без причины он изображён здесь в облике юноши, страшного на вид: ибо, будучи слеп и совершенно наг, он носит на голове ужей вместо волос, с левого боку — большого червя, грызущего ему сердце, а посреди тела — двух змей, крепко его стягивающих: к тому же по его осанке видно, что он словно шагает по неровным скалам, клонясь к пропасти.",
+        "Грех изображают юным и слепым, ибо он совершается по неосторожности и с закрытыми глазами, будучи сам по себе не чем иным, как преступлением закона, из-за которого неразумный человек сбивается с большой дороги добродетели.",
+        "Его пишут чёрным и совершенно нагим, ибо это уродливое чудовище, лишая нас благодати и самого прочного из мирских благ, ставит нас под угрозу быть низвергнутыми в бездны вечной смерти, если мы тотчас не прибегнем к сокрушению и покаянию.",
+        "Он окружён змеями, ибо этот Тиран имеет обыкновение подчинять грешника рабству диавола, нашего общего врага, непрестанно стремящегося соблазнить нас ложными личинами, всегда надеясь на тот же успех, какой он имел с праматерью нашей.",
+        "Что до червя, грызущего ему сердце, это червь совести, в которой, по Богословам, сама совесть беспрестанно его терзает и тайными угрызениями заставляет его чувствовать бичи и факелы, которые изобретательные Поэты вложили в руки фурий для общей кары злодеев, хвалящихся своими преступлениями.",
+        "А поскольку наказание обычно следует за Грехом, полагаю нелишним представить здесь и его изображение, каким его оставили некоторые древние. Они изображают его в виде женщины чрезвычайно безобразной, вконец истерзанной, насколько возможно меланхоличной, строящей странные гримасы от крика, держащей в одной руке бич и, опираясь на деревянную ногу, словно спускающейся в огромную пещеру.",
+        "Между покаянием и наказанием есть то особое различие, что покаяние рождается по согласию человека, раскаивающегося в прошлых прегрешениях; тогда как по суду Божию или человеческому наказание налагается на грешников, хотя бы они, к великому своему несчастью, не были тронуты ни желанием раскаяться, ни желанием искупить свои прегрешения достойными делами.",
+        "Дабы показать обстоятельства и действия Наказания, его пишут безобразным и кричащим, словно желая оказать сопротивление или отомстить, если бы могло, тем, кто его осудил.",
+        "Ему дают в руку бич и деревянную ногу, дабы показать, что оно действует не по собственной воле, а по принуждению; и что тайным судом Божиим люди часто ведутся к пропасти в справедливое наказание за совершённые ими проступки."
+      ],
+      "text_fr": [
+        "Comme il n'est rien de si effroyable, que ce pernicieux ennemy de l'ame, ce n'est pas sans raison qu'il est icy peint sous la forme d'vn jeune homme, horrible à voir: car avec ce qu'il est aveugle & tout nud, il a sur la teste des couleuvres au lieu de cheveux, en son costé gauche vn gros ver qui luy ronge le cœur, & au milieu du corps deux serpens qui le tiennent étroitement serré: outre qu'à voir sa posture il semble marcher sur des rochers raboteux, & panchans en precipice.",
+        "On represente le Peché jeune, & aveugle, à cause qu'il est commis avec imprudence & les yeux fermez, comme n'étant autre chose de soy-mesme qu'vne transgression des loix, par qui l'homme mal avisé s'égare du grand chemin de la vertu.",
+        "On le peint noir & tout nud, dautant que ce monstre difforme, nous dépouillant de la grace, & du bien le plus solide du monde, nous met au hazard d'estre precipitez dans les abîmes de la mort eternelle, si nous n'avons promptement recours à la contrition & à la penitence.",
+        "Il est environné de serpens, à cause que ce Tyran a de coûtume d'assujettir le pecheur sous la servitude du diable, nôtre commun ennemy, qui cherche sans cesse à nous seduire par de fausses apparences, se promettant toûjours le mesme succés qu'il eut avec nostre premiere mere.",
+        "Quant au ver qui luy ronge le cœur, c'est celuy de la conscience, où selon les Theologiens, la conscience mesme qui le bourrelle sans cesse, & qui par des syndereses secretes luy fait sentir les foüets & les flambeaux que les Poëtes ingenieux ont mis entre les mains des furies pour le commun châtiment des méchans, qui font gloire de leurs crimes.",
+        "Or comme la punition suit ordinairement le Peché, je ne pense pas qu'il soit hors de propos d'en faire icy le tableau, tel que nous l'avons de quelques anciens. Ils la representent donc par vne femme extrémement laide, toute déchirée, melancolique au possible, qui fait d'étranges grimaces à force de crier, qui tient vn foüet d'vne main, & qui se soûtenant sur vne jambe de bois, semble descendre dans vne grande caverne.",
+        "Entre la penitence & la peine il y a cette difference particuliere, que la penitence s'engendre par le consentement de l'homme qui se repent des fautes passées; au lieu que par le jugement de Dieu ou des hommes, la peine est imposée aux pecheurs, sans que toutesfois ils soient touchez à leur grand malheur, ny du desir de se repentir, ny de celuy de satisfaire à leurs offenses par des œuvres meritoires.",
+        "Pour faire donc voir les circonstances & les effets de la Peine, on la peint difforme, & en estat de crier, comme si elle se vouloit porter à la resistance, ou se venger si elle pouvoit, de ceux qui l'ont condamnée.",
+        "On luy donne vn foüet à la main, & vne jambe de bois, pour montrer qu'elle n'agit point de sa propre volonté, mais par la force qu'on luy fait; & que par vn secret jugement de Dieu les hommes sont souvent conduits au précipice, pour vn juste chastiment des fautes qu'ils ont commises."
+      ],
       "en": "Sin",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-120-1.jpg",
+        "p1-120-2.jpg",
+        "p1-120-3.jpg"
+      ],
+      "text_en": [
+        "As there is nothing so dreadful as this pernicious enemy of the soul, it is not without reason that he is here painted in the form of a young man, horrible to see: for besides being blind and entirely naked, he has snakes on his head in place of hair, on his left side a great worm gnawing at his heart, and about his middle two serpents that hold him tightly bound: moreover, by his posture he seems to walk upon rough rocks, leaning toward a precipice.",
+        "Sin is represented young and blind, because it is committed imprudently and with closed eyes, being in itself nothing other than a transgression of the laws, by which ill-advised man strays from the high road of virtue.",
+        "He is painted black and entirely naked, inasmuch as this misshapen monster, stripping us of grace and of the most solid good in the world, puts us at risk of being plunged into the abysses of eternal death, if we do not promptly have recourse to contrition and penance.",
+        "He is surrounded by serpents, because this Tyrant is accustomed to subject the sinner to the servitude of the devil, our common enemy, who ceaselessly seeks to seduce us with false appearances, always hoping for the same success he had with our first mother.",
+        "As for the worm gnawing at his heart, it is that of conscience, which, according to the Theologians, ceaselessly torments him, and by secret pangs makes him feel the whips and torches that ingenious Poets have put into the hands of the furies for the common chastisement of the wicked, who glory in their crimes.",
+        "Now as punishment ordinarily follows Sin, I do not think it out of place to give here its portrait as well, such as we have it from some of the ancients. They represent it, then, as an extremely ugly woman, all tattered, as melancholy as can be, making strange grimaces from crying out, holding a whip in one hand, and, supporting herself on a wooden leg, seeming to descend into a great cavern.",
+        "Between penance and punishment there is this particular difference: that penance is engendered by the consent of the man who repents of past faults, whereas by the judgment of God or of men, punishment is imposed on sinners, without their being touched, to their great misfortune, either by the desire to repent, or by that of making amends for their offenses through meritorious works.",
+        "To show, then, the circumstances and effects of Punishment, she is painted deformed, and in the act of crying out, as if she wished to offer resistance, or to avenge herself, were she able, on those who have condemned her.",
+        "She is given a whip in hand, and a wooden leg, to show that she acts not of her own will, but by the force brought to bear upon her; and that by a secret judgment of God, men are often led to the precipice, as a just chastisement for the faults they have committed."
+      ]
     },
     {
       "id": "p1-121",
@@ -6242,12 +6313,40 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-121.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Худая, меланхоличная женщина с бичом и рыбой в руках, решёткой у бока, крестом перед собой и взором к небу",
+          "meaning": "Бич и рыба — пост и сокрушение; решётка — соразмерность временного наказания заслуге покаяния; крест — уподобление Христу через отречение от земного",
+          "what_en": "A thin, melancholy woman with a whip and a fish in her hands, a gridiron at her side, a cross before her and her eyes toward heaven",
+          "meaning_en": "The whip and fish signify fasting and contrition; the gridiron, temporal punishment proportioned to the merit of penance; the cross, conformity to Christ through renouncing the world"
+        }
+      ],
+      "text_ru": [
+        "Трудно было бы, на мой взгляд, лучше изобразить её, чем этой фигурой — женщиной чрезвычайно худой, меланхоличной и весьма дурно одетой. Она держит дисциплину в одной руке, рыбу в другой, решётку у бока, крест перед собой и глаза, устремлённые к Небу.",
+        "Покаяние, которое есть скорбь о совершённых грехах, испытываемая более из любви к Богу, нежели из страха наказания, содержит в себе три главные части: сокрушение, исповедь и удовлетворение. Первая означена её бледным и меланхоличным лицом. Вторая — глазами, возведёнными к небу, в свидетельство прощения, которого она просит у Бога. И третья — решёткой, орудием, соразмерным временному наказанию, которым также измеряется заслуга этой оживляющей нас добродетели. Добавим к этому, что как решётка есть нечто среднее между огнём и тем, что на ней жарят, так и Покаяние есть нечто среднее между скорбями грешника и любовью Божией, что служит его побуждением.",
+        "Что до дисциплины и рыбы, которые она держит в обеих руках, это означает, что покаяние, дабы быть спасительным, должно приправляться постом и сокрушением.",
+        "Под крестом же следует разуметь терпение и исправление самого себя, ради дивного уподобления, которое кающийся обретает с Иисусом Христом, отрекаясь от земных суетностей: к чему его побуждают слова: кто хочет быть Моим учеником, пусть возьмёт крест свой и следует за Мной."
+      ],
+      "text_fr": [
+        "Il seroit difficile, à mon avis, de la mieux representer que par cette figure, qui est celle d'vne femme extrémement maigre, melancolique, & fort mal vestuë. Elle tient vne discipline en vne main, vn poisson en l'autre, vn gril à son costé, vne croix devant, & les yeux fixes au Ciel.",
+        "La Penitence, qui est vne douleur des pechez commis, que l'on ressent plus pour l'amour de Dieu, que pour aucune crainte de la peine, contient en soy trois parties principales, qui sont la contrition, la confession, & la satisfaction. La premiere est denotée par son visage blême & melancolique. La seconde, par ses yeux élevez au ciel, pour vn témoignage du pardon qu'elle demande à Dieu. Et la troisiéme, par le gril, instrument porportionné à la peine temporelle, par qui se mesure encore le merite de cette vertu qui nous vivifie. Ajoûtons à cecy, que comme le gril est vn milieu entre le feu & la chose que l'on cuit; la Penitence de mesme en est vn autre entre les douleurs du pecheur & l'amour de Dieu, qui en est le motif.",
+        "Pour ce qui est de la discipline & du poisson qu'elle tient en ses deux mains, cela signifie que la penitence pour estre salutaire, se doit assaisonner avec le jeûne & la contrition.",
+        "Par la croix encore il faut entendre la patience, & la correction de soy-mesme, pour la conformité merveilleuse que le penitent s'acquiert avec Jesus-Christ, en renonçant aux vanitez de la terre: à quoy il est exhorté par ces paroles, Qui veut estre mon disciple, qu'il porte sa croix, & qu'il me suive."
+      ],
       "en": "Penitence",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-121-1.jpg"
+      ],
+      "text_en": [
+        "It would be difficult, in my opinion, to represent her better than by this figure, that of a woman extremely thin, melancholy, and very poorly clothed. She holds a discipline in one hand, a fish in the other, a gridiron at her side, a cross before her, and her eyes fixed on Heaven.",
+        "Penance, which is a sorrow for sins committed, felt more for the love of God than for any fear of punishment, contains within itself three principal parts, which are contrition, confession, and satisfaction. The first is denoted by her pale and melancholy face. The second, by her eyes raised to heaven, as a token of the pardon she asks of God. And the third, by the gridiron, an instrument proportioned to temporal punishment, by which is also measured the merit of this virtue that gives us life. Let us add to this, that as the gridiron is a mean between the fire and the thing that is cooked, so Penance likewise is a mean between the sinner's sorrows and the love of God, which is its motive.",
+        "As for the discipline and the fish she holds in her two hands, this signifies that penance, to be salutary, must be seasoned with fasting and contrition.",
+        "By the cross, moreover, is to be understood patience, and self-correction, for the marvelous conformity the penitent acquires with Jesus Christ, in renouncing the vanities of the earth: to which he is exhorted by these words, Whoever wishes to be My disciple, let him take up his cross, and follow Me."
+      ]
     },
     {
       "id": "p1-122",
@@ -6260,12 +6359,44 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-122.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша между змеёй у ног, пропастью, бурным потоком и грозовой тучей, опирающийся на хрупкий тростник",
+          "meaning": "Змея, пропасть и поток — опасности земные; молния — влияние небес и Божия кара за грех; тростник — хрупкость человеческой жизни, опирающейся на непрочное",
+          "what_en": "A youth between a serpent at his feet, a precipice, a raging torrent and a thundercloud, leaning on a frail reed",
+          "meaning_en": "The serpent, precipice and torrent signify earthly dangers; the lightning, the influence of the heavens and God's punishment for sin; the reed, the fragility of a human life propped on what cannot last"
+        }
+      ],
+      "text_ru": [
+        "Те, кто по опыту знают, сколь обычны житейские опасности, не могли испытать больших, чем те, что ощущает этот юноша, здесь изображённый. В какую бы сторону он ни обратился, он видит себя под угрозой неизбежной опасности. Попирая ногами цветы и травы, он наступает на змею, кусающую его сзади за ногу. Если он захочет идти дальше, он увидит с одной стороны разверстую перед ним пропасть, а с другой — яростный поток, его ужасающий. В этих тягостных крайностях у него нет иной опоры, кроме хрупкого тростника; и если глаза его устрашены столь зловещими зрелищами, не менее страшит и слух его грохот страшного грома, пронзающего тучу и исторгающего из неё молнию и удар.",
+        "Хотя жизнь юного столь же неверна, как и жизнь старика, ибо Бог говорит всем вообще: «Бодрствуйте, ибо не знаете ни дня, ни часа», — всё же видно, что юный подвержен большей опасности, нежели старик, ибо в силу крепости своего возраста, делающей его от природы дерзким, он бросается в опасности, словно не опасаясь их.",
+        "Укол, наносимый ему змеёй, когда он меньше всего о том думает и ступает по цветам, учит человека, что в тот самый миг, когда он воображает, будто судьба улыбается ему более всего, он испытывает полную противоположность и в одно мгновение оказывается подвержен какому-нибудь трагическому и нежданному происшествию.",
+        "Тростником, служащим ему опорой, явлена хрупкость нашей жизни, что от мгновения к мгновению колеблема новыми бурями; что проистекает от неосторожности человека, который большей частью полагается на вещи тленные и преходящие, вместо того чтобы опираться на те, что имеют твёрдое и прочное основание.",
+        "Одним словом, молния, угрожающая этому несчастному юноше, служит нам наставлением, что мы подвержены не только бесчисленным опасностям на земле и на воде, но и влияниям небес, по изволению Божию, когда Ему угодно привести их в действие: ибо Он порой попускает нас быть наказанными за наши провинности, являющиеся причиной постигающих нас бедствий, ведь верно, как говорит святой Павел, что грех порождает смерть. Отсюда следует заключить, что человеческие силы, сколь бы велики они ни были, не могут противостоять Тому, Кто положил пределы и дал законы всем сотворённым Им вещам."
+      ],
+      "text_fr": [
+        "Ceux qui sçavent par experience combien les dangers de la vie sont ordinaires, n'en peuvent avoir éprouvé de plus grands qu'en ressent ce jeune homme que nous dépeignons icy. De quelque costé qu'il se tourne, il se voit menacé d'vn peril inévitable. Lorsqu'il foule aux pieds les fleurs & les herbes, il marche sur vn serpent qui luy mord la jambe par derriere. S'il veut aller plus outre, il voit d'vn costé vn precipice ouvert devant luy, & de l'autre vn furieux torrent qui l'épouvente. En ces facheuses extremitez il n'a pour tout appuy qu'vn fresle roseau; & si ses yeux se trouvent effrayez par des objets si funestes, ses oreilles ne le sont pas moins par le bruit d'vn horrible tonnere qui perce la nuë, & en fait sortir l'éclair & la foudre.",
+        "Bien que la vie du jeune soit aussi douteuse que celle du vieillard, veu que Dieu dit generalement à tous: Tenez-vous prests, puisque vous ne sçavez ny le jour ny l'heure; il se voit neanmoins que le jeune est en plus grand danger que le vieillard, à cause que pour la vigueur de son âge, qui le rend naturellement hardy, il se precipite dans les perils, sans qu'il semble les apprehender.",
+        "La piqueure que luy fait le serpent, lorsqu'il y pense le moins, & qu'il marche sur les fleurs, apprend à l'homme qu'au point qu'il s'imagine que la fortune luy rit le plus, il éprouve tout le contraire, & se voit en vn moment exposé à quelque avanture tragique & inopinée.",
+        "Par le roseau qui luy sert d'appuy, est demontrée la fragilité de nostre vie, qui de moment en moment est agitée de nouvelles tempestes; ce qui procede de l'imprudence de l'homme, qui se fonde la plûpart du temps sur des choses caduques & perissables, au lieu de s'appuyer sur celles qui ont vne assiete ferme & solide.",
+        "En vn mot la foudre qui menace ce miserable jeune homme, sert à nous apprendre que nous ne sommes pas seulement exposez à vne infinité de dangers sur la terre & sur l'onde, mais sujets encore aux influences des cieux, selon qu'il plaist à Dieu de les faire agir: car il permet quelquefois que nous soyons chastiez pour nos démerites, qui sont cause des disgraces qui nous arrivent; estant certain, comme dit S. Paul, que le peché engendre la mort. D'où il faut conclure, que les puissances humaines, quelques grandes qu'elles soient, ne peuvent s'opposer à celuy qui a mis des bornes, & donné des loix à toutes les choses qu'il a creées."
+      ],
       "en": "Peril",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-122-1.jpg",
+        "p1-122-2.jpg"
+      ],
+      "text_en": [
+        "Those who know by experience how common the dangers of life are can have experienced none greater than those felt by this young man we depict here. Whichever way he turns, he finds himself threatened by an inevitable peril. As he treads underfoot the flowers and the grass, he steps on a serpent that bites his leg from behind. If he wishes to go further, he sees on one side a precipice yawning before him, and on the other a furious torrent that terrifies him. In these grievous extremities he has for his only support a frail reed; and if his eyes are frightened by such dire sights, his ears are no less so by the noise of a dreadful thunder that pierces the cloud, and brings forth from it the lightning and the thunderbolt.",
+        "Although the life of the young is as uncertain as that of the old, since God says generally to all: Be ready, for you know neither the day nor the hour; it is nonetheless seen that the young are in greater danger than the old, because the vigor of their age, which makes them naturally bold, hurls them into perils without their seeming to fear them.",
+        "The sting the serpent gives him, when he thinks of it least, and as he walks upon the flowers, teaches man that at the very moment he imagines fortune smiles on him most, he experiences quite the contrary, and finds himself in an instant exposed to some tragic and unexpected mishap.",
+        "By the reed that serves him as support is shown the frailty of our life, which from moment to moment is tossed by fresh storms; which proceeds from man's imprudence, who for the most part relies on things frail and perishable, instead of leaning on those that have a firm and solid foundation.",
+        "In a word, the thunderbolt that threatens this wretched young man serves to teach us that we are exposed not only to an infinity of dangers on land and sea, but subject also to the influences of the heavens, as it pleases God to make them act: for He sometimes permits us to be chastised for our demerits, which are the cause of the misfortunes that befall us; it being certain, as St. Paul says, that sin engenders death. Whence it must be concluded that human powers, however great, cannot stand against Him who has set bounds, and given laws, to all the things He has created."
+      ]
     },
     {
       "id": "p1-123",
