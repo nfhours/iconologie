@@ -6618,12 +6618,63 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-127.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юноша с арфой, в миртовом венке и золотых полусапожках, с сиреной у ног; второй образ — юноша в зелёном с радугой и сетью крючков",
+          "meaning": "Крылья и арфа — быстротечность и обольстительность наслаждения; сирена — гибель, которую несёт сладострастие; крючки под радугой — обманчивые, мимолётные мирские приманки",
+          "what_en": "A winged youth with a harp, a myrtle garland and golden buskins, a siren at his feet; a second figure, a youth in green with a rainbow and a net of hooks",
+          "meaning_en": "The wings and harp signify pleasure's fleeting, seductive nature; the siren, the ruin voluptuousness brings; the hooks beneath the rainbow, the deceptive, fleeting lures of worldly pleasure"
+        }
+      ],
+      "text_ru": [
+        "Его изображают в виде юноши с курчавыми золотистыми волосами, в венке из мирта, украшенном жемчугом, с полуобнажённым телом, крыльями за спиной, арфой в руке, золотыми полусапожками и сиреной у ног.",
+        "Его завитые и надушенные волосы, увенчанные цветочным венком, суть столько же знаков сладострастия, изнеженности и женоподобных нравов.",
+        "То же следует разуметь о его миртовом венке: мирт — дерево, посвящённое Венере, которая, по словам Поэтов, получила из него венец, когда присутствовала на Суде Париса.",
+        "Скажем далее, что крылья, которые он носит, показывают, что нет ничего, что летело бы быстрее и исчезало бы скорее, чем Сладострастие.",
+        "А арфой означено, что изнеженное удовольствие щекочет чувства, как это делает этот инструмент; отчего Поэты вымышляют, что своей гармонией он нравится Венере и её спутницам Грациям.",
+        "Его золотые полусапожки равным образом отмечают сластолюбивого человека, который тем самым показывает, что не придаёт значения этому металлу, если не насыщает им свои необузданные желания; это можно разуметь также как Непостоянство, символом которого порой служат ноги, как показывает Давид этими словами: ноги мои едва не поколебались; отсюда нам внушается, что чувственный человек охотно стремится к новизне и переменам.",
+        "Все эти истины, что я сказал, заключены в одном лишь примере Сирены; ибо как она губит моряков сладостью своего пения, так и Сладострастие своими прелестями и чарами жалко губит всех, кто за ним следует.",
+        "Некоторые другие изображают мирское удовольствие в виде прекрасного юноши лет семнадцати. На голове у него венок из роз и зелёное одеяние, с множеством крючков, прикреплённых к сети, и радугой, протянутой от одного плеча до другого.",
+        "Его изображают юным, ибо этот возраст более всех прочих предан удовольствиям, будучи как бы прозрачным хрусталём, сквозь который все мирские услады кажутся прекрасными.",
+        "Его приятное и смеющееся лицо показывает, что удовольствие — порождение красоты; его венок из роз, посвящённых Венере, — что чувственные наслаждения, сколь бы сладостными они ни казались, всё же хрупки и недолговечны; а его зелёное одеяние — что этот цвет весьма подходит резвому нраву молодых людей, ибо, будучи умереннее прочих, между белым и чёрным, или между тёмным и светлым, он более всех освежает взор; чего прочие цвета не могут столь же хорошо сделать, ибо держатся крайностей.",
+        "Что до крючков, о которых говорилось выше, это различные приманки, встречающиеся в мирских усладах. Но эти сладости всегда смешаны с некоторой горечью; ибо в конце концов случается, что человек чувствует себя уязвлённым глубоко жалами своей совести, и всё же не может решиться оставить мимолётные услады, означенные здесь Радугой, ибо они исчезают в одно мгновение и не имеют ничего прекрасного, кроме видимости."
+      ],
+      "text_fr": [
+        "ON la represente par vn jeune garçon qui a les cheveux crépelus & de couleur d'or, vne guirlande de myrthe enrichie de perles, le corps à demy nud, des aisles au dos, vne harpe en main, des brodequins d'or, & vne sereine à ses pieds.",
+        "Ses cheveux frisez & parfumez, qui se couronnent d'vne guirlande de fleurs, sont autant de marques de lasciveté, de mollesse, & de mœurs effeminées.",
+        "Le mesme se doit entendre de sa guirlande de myrthe, arbre dedié à Venus, qui en eut vne couronne, à ce que disent les Poëtes, quand elle se trouva presente au Jugement de Pâris.",
+        "Disons ensuite, que par les aisles qu'il porte, il est démontré qu'il n'y a rien qui vole plus viste, ny qui s'évanouisse si-tost que la Volupté.",
+        "Et par la harpe, que le plaisir effeminé chatouille les sens, comme fait cet instrument; à cause dequoy les Poëtes feignent que par son harmonie il plaist à Venus & à ses compagnes les Graces.",
+        "Ses brodequins d'or font remarquer pareillement vn homme voluptueux, qui montre par là qu'il ne tient compte de ce metail, s'il n'en assouvit ses appetits déreglez; ce qui se peut encore entendre de l'Inconstance, dont les pieds sont quelquefois le symbole, comme David le démontre par ces paroles, mes pieds se sont à peine remuez: par où il nous est enseigné que le sensuel se porte volontiers aux nouveautez & aux changemens.",
+        "Toutes ces veritez que j'ay dites sont comprises dans le seul exemple de la Sirene; car comme elle perd les mariniers par la douceur de son chant, la volupté de mesme par ses appas & ses charmes ruine miserablement tous ceux qui la suivent.",
+        "Il y en a d'autres qui representent le plaisir du monde par vn beau jeune garçon, âgé d'environ dix-sept ans. Il porte à la teste vne guirlande de roses, & vn habillement verd, avec quantité d'hameçons attachez à vn filet, & vn arc en ciel, qui aboutit d'vne épaule à l'autre.",
+        "Il est peint jeune, dautant que cet âge-là plus que tous les autres, est adonné aux plaisirs, pour estre comme vn cristal transparant, au travers duquel toutes les delices du monde paroissent belles.",
+        "Son visage agreable & riant montre que le plaisir est la creature de la beauté: sa guirlande de roses consacrées à Venus, que les voluptez sensuelles, quelques douces qu'elles semblent, ne laissent pas d'estre fresles & peu durables; & son habillement verd, que cette couleur s'accommode fort bien à l'humeur folastre des jeunes gens, parce qu'estant plus temperée que les autres, entre le blanc & le noir, ou entre l'obscur & le clair, elle est celle qui recrée plus la veuë; ce que les autres couleurs ne peuvent pas si bien faire, parce qu'elles tiennent des extremitez.",
+        "Quant aux hameçons, dont il est parlé cy-devant, ce sont les divers appas qui se trouvent dans les voluptez du monde. Mais ces douceurs sont toûjours meslées de quelque amertume; car il nous arrive enfin que l'homme se sent picqué bien avant des aiguillons de sa conscience, & qu'il ne peut toutesfois se resoudre à quitter les voluptez passageres, qui sont icy denotées par l'Arc en Ciel, parce qu'elles s'évanouissent en vn instant, & n'ont rien de beau que l'apparence."
+      ],
       "en": "Pleasure, or Voluptuousness",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-127-1.jpg",
+        "p1-127-2.jpg",
+        "p1-127-3.jpg"
+      ],
+      "text_en": [
+        "He is represented as a young man with crisped, golden hair, a garland of myrtle enriched with pearls, his body half naked, wings on his back, a harp in hand, buskins of gold, and a siren at his feet.",
+        "His curled and perfumed hair, crowned with a garland of flowers, are so many marks of lasciviousness, softness, and effeminate manners.",
+        "The same is to be understood of his garland of myrtle, a tree dedicated to Venus, who, the Poets say, received a crown of it when she was present at the Judgment of Paris.",
+        "Let us say further that by the wings he wears it is shown that nothing flies faster, or vanishes sooner, than Voluptuousness.",
+        "And by the harp, that effeminate pleasure tickles the senses, as this instrument does; for which reason the Poets feign that by its harmony it pleases Venus and her companions the Graces.",
+        "His golden buskins likewise mark a voluptuous man, who thereby shows that he sets no store by this metal, unless he satisfies with it his disordered appetites; which may also be understood of Inconstancy, whose symbol the feet sometimes are, as David shows by these words, my feet were almost moved: by which we are taught that the sensual man readily inclines to novelty and change.",
+        "All these truths I have stated are comprised in the single example of the Siren; for as she destroys sailors by the sweetness of her song, Voluptuousness likewise, by its allurements and charms, miserably ruins all who follow it.",
+        "There are others who represent worldly pleasure as a handsome young man of about seventeen years. He wears on his head a garland of roses, and a green garment, with a quantity of hooks attached to a net, and a rainbow reaching from one shoulder to the other.",
+        "He is painted young, inasmuch as that age, more than any other, is given to pleasures, being as it were a transparent crystal, through which all the delights of the world appear beautiful.",
+        "His pleasant, laughing face shows that pleasure is the offspring of beauty; his garland of roses, consecrated to Venus, that sensual pleasures, however sweet they seem, are nonetheless frail and short-lived; and his green garment, that this color well suits the sportive humor of young people, because, being more tempered than the others, between white and black, or between dark and light, it is the one that most refreshes the sight; which the other colors cannot do so well, because they partake of extremes.",
+        "As for the hooks, spoken of above, these are the various lures found in worldly pleasures. But these sweetnesses are always mixed with some bitterness; for it happens in the end that man feels himself pricked deeply by the goads of his conscience, and yet cannot bring himself to give up fleeting pleasures, here denoted by the Rainbow, because they vanish in an instant, and have nothing beautiful but appearance."
+      ]
     },
     {
       "id": "p1-128",
@@ -6636,12 +6687,50 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-128.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Полуобнажённая дева под серебряным покровом, с глазами к небу, рукой на груди и горностаем в другой руке",
+          "meaning": "Серебряный покров — тайна, сокрытая даже от ангелов; взгляд к небу — путь, проложенный Богом; горностай — чистота, которую Бог скорее заберёт жизнью, чем позволит запятнать",
+          "what_en": "A half-naked maiden beneath a silver veil, her eyes toward heaven, one hand on her breast and an ermine in the other",
+          "meaning_en": "The silver veil signifies a mystery hidden even from angels; the gaze to heaven, the path God has traced; the ermine, a purity God would sooner end by death than let be sullied"
+        }
+      ],
+      "text_ru": [
+        "Нет красоты, сравнимой с этой девой, которая, дабы скрыть свою наготу, имеет лишь серебряное покрывало, и всё же кажется наполовину обнажённой. Глаза её обращены к Небу, на которое она смотрит неотрывно, правая рука на груди, а в левой — горностай.",
+        "Предопределение изображают юным, в знак его вечности, о которой говорит святой Павел, когда говорит, что прежде создания мира Бог предопределил нас быть святыми.",
+        "Она прекрасна, будучи мерой и идеей всякой красоты; отчего святой Фома и святой Августин говорят, что Предопределение есть приуготовление благодати на настоящее и славы на будущее.",
+        "Покрывающее её покрывало — серебряное, ибо это тайна, сокрытая не только от людей, но и от Ангелов, и даже от самой Церкви: по этой причине святой Павел часто восклицает по этому поводу, что это путь столь мало проторённый, что отыскать его чрезвычайно трудно.",
+        "Её внимательный взор, устремлённый на Небо, показывает, что Предопределённый должен идти путями, проложенными ему Богом, как Сам Иисус Христос уверяет этими словами: они не погибнут вовек, и никто не похитит их из руки Моей, что должно разуметь о Предопределённых.",
+        "То, что она держит руку на прекрасной своей груди, означает, что Предопределение должно обладать великой действенностью не только в предвидении, но и в самих средствах, как нам свидетельствуют эти слова: Я сделаю, что вы последуете Моим заповедям и сохраните Мои суды, и прочее.",
+        "Она держит, сверх того, горностая в другой руке, в знак чистоты: ибо как этот зверёк предпочитает умереть, нежели хоть немного запятнать себя, так и мы видим, что Бог отнимает жизнь у Предопределённого, скорее нежели позволит ему замараться нечистотами упорства, согласно этим словам Писания: он был восхищен, дабы злоба не изменила его разумения."
+      ],
+      "text_fr": [
+        "Il n'est point de beauté comparable à cette vierge, qui n'a pour cacher sa nudité qu'vn voile d'argent, encore paroist-elle à moitié nuë. Elle a les yeux tournez vers le Ciel, qu'elle regarde fixement, la main droite sur le sein, & en la gauche vne hermine.",
+        "La Predestination est peinte jeune, pour vne marque de son éternité, dont parle saint Paul, quand il dit, Qu'avant la creation du monde Dieu nous avoit predestinez à estre Saints.",
+        "Elle est belle, comme estant la mesure & l'idée de toute beauté; ce qui fait dire à saint Thomas & à saint Augustin, Que la Predestination est la preparation de la grace pour le present, & de la gloire pour le futur.",
+        "Le voile qui la couvre est d'argent, dautant que c'est vn mystere caché non seulement aux hommes, mais encore aux Anges, & à l'Eglise mesme: à raison dequoy saint Paul s'écrie souvent à ce propos, Que c'est vn chemin si peu battu, qu'il est extremement difficile de le trouver.",
+        "Son action attentive à regarder le Ciel, montre que le Predestiné doit marcher par les voyes que Dieu luy a tracées, comme Jesus-Christ l'asseure luy-mesme par ces paroles, Ils ne periront point eternellement, & personne ne me les ostera de la main, ce qui doit estre entendu des Predestinez.",
+        "Ce qu'elle porte la main sur sa belle gorge, signifie que la Predestination doit estre de grande efficace, non seulement en la prescience, mais encore en ses moyens, comme il nous est témoigné par ces paroles, Je feray que vous ensuivrez mes preceptes, & garderez mes jugemens, &c.",
+        "Elle tient de plus vne hermine en l'autre main, pour vne marque de pureté: car comme ce petit animal aime mieux mourir que se souiller tant soit peu; nous voyons de mesme que Dieu oste la vie au Predestiné, plûtost que de permettre qu'il se salisse des ordures de l'obstination, conformément à ces paroles de l'Ecriture, Il a esté emporté, de peur que la malice ne change ast son entendement."
+      ],
       "en": "Predestination",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-128-1.jpg",
+        "p1-128-2.jpg"
+      ],
+      "text_en": [
+        "There is no beauty comparable to this maiden, who has, to hide her nakedness, only a veil of silver, and yet appears half naked. Her eyes are turned toward Heaven, which she gazes at fixedly, her right hand upon her breast, and in her left an ermine.",
+        "Predestination is painted young, as a mark of her eternity, of which St. Paul speaks, when he says that before the creation of the world God had predestined us to be Saints.",
+        "She is beautiful, as being the measure and idea of all beauty; which makes St. Thomas and St. Augustine say that Predestination is the preparation of grace for the present, and of glory for the future.",
+        "The veil that covers her is of silver, inasmuch as it is a mystery hidden not only from men, but from the Angels too, and even from the Church itself: for which reason St. Paul often exclaims on this subject that it is a path so little trodden that it is extremely difficult to find.",
+        "Her attentive gaze toward Heaven shows that the Predestined must walk the ways God has traced for him, as Jesus Christ Himself assures by these words: They shall never perish, and no one shall pluck them out of My hand, which is to be understood of the Predestined.",
+        "That she holds her hand upon her fair breast signifies that Predestination must be of great efficacy, not only in foreknowledge, but in its means as well, as is witnessed to us by these words: I will cause you to follow My precepts, and keep My judgments, etc.",
+        "She holds, moreover, an ermine in her other hand, as a mark of purity: for as this little animal would rather die than soil itself in the least, so we likewise see that God takes life from the Predestined, rather than allow him to be sullied by the filth of obstinacy, in keeping with these words of Scripture: He was taken away, lest wickedness should alter his understanding."
+      ]
     },
     {
       "id": "p1-129",
@@ -6654,12 +6743,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-129.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Величественная женщина с королём-птицей на голове, отстраняющая рукой орла",
+          "meaning": "Крошечный королёк, враждующий с огромным орлом, — первенство заслуги над силой и богатством; орёл внизу — несправедливое честолюбие, уступающее место достойному",
+          "what_en": "A majestic woman with a wren on her head, holding back an eagle with her hand",
+          "meaning_en": "The tiny wren at odds with the mighty eagle pictures the precedence of merit over power and riches; the eagle placed below signifies unjust ambition yielding its place to the deserving"
+        }
+      ],
+      "text_ru": [
+        "Её являет нам здесь величественная женщина, на макушке которой сидит птица, именуемая королёк, и которая правой рукой противится усилиям орла, дабы помешать ему взлететь и отнять у соперника занятое им место.",
+        "Королёк, о котором говорится у Аристотеля и у Плиния, принадлежит к тому роду птиц, что, по словам Светония, предвещал смерть Цезаря: ибо накануне мартовских ид один такой королёк, влетев во двор Помпея с веточкой лавра в клюве, был растерзан другими птицами, которые с тех пор из ближнего леса неотступно его преследовали. Отсюда видно, что эта птица, сколь бы мала она ни была, всё же обладает первенством над прочими; что и служит причиной, как замечает Аристотель, вражды между ней и орлом; ибо тот, будучи велик и силён, не может стерпеть, чтобы столь малая и слабая тварь с ним сравнивалась: чему довольно часто подражают честолюбивые люди, которые, видя себя в милости у фортуны, едва терпят, чтобы самые добродетельные и благородные, превосходимые ими в кредите и богатстве, равнялись с ними. Но первенство, если я не ошибаюсь, не должно отниматься у людей заслуженных, хотя бы фортуна дурно с ними обходилась, дабы отдать его тем, у кого заслуг нет вовсе: вот почему орёл здесь помещён ниже королька, которому он враждебен."
+      ],
+      "text_fr": [
+        "Elle nous est icy demontrée par vne femme majestueuse, qui a sur le haut de la teste l'oiseau qu'on appelle roitelet, & qui de la main droite s'oppose aux efforts d'vn aigle, afin d'empescher qu'il ne s'élance en haut, pour oster à son rival la place qu'il a prise.",
+        "Le roitelet, dont il est parlé dans Aristote & dans Pline, est de cette espece d'oiseaux que Suetone dit avoir presagé la mort de Cesar: car la veille des Ides de Mars il y en eut vn qui estant volé dans la cour de Pompée avec vn petit rameau de laurier qu'il portoit au bec, fut mis en pieces par d'autres oiseaux, qui depuis le bois prochain l'avoient toûjours poursuivy. Par où l'on peut voir que cet oiseau, tout petit qu'il est, ne laisse pas d'avoir de la preéminence sur les autres; ce qui est cause, comme le remarque Aristote, de l'antipathie qu'il y a entre luy & l'aigle; car luy qui est grand & fort, ne peut souffrir qu'vne chose si petite & si foible luy soit comparée: enquoy l'imitent assez souvent les hommes ambitieux, qui se voyant bien avec la fortune, peuvent à peine endurer que les plus vertueux & les plus nobles, qu'ils surpassent en credit & en richesses, aillent du pair avec eux. Mais la préseance, si je ne me trompe, ne se doit point oster aux gens de merite, bien que la fortune les traite mal, pour la donner à ceux qui n'en ont point: & voilà pourquoy l'aigle est icy au dessous du roitelet, duquel il est ennemy."
+      ],
       "en": "Preeminence of Rank",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-129-1.jpg",
+        "p1-129-2.jpg"
+      ],
+      "text_en": [
+        "She is here shown to us as a majestic woman, who has upon the top of her head the bird called the wren, and who with her right hand resists the efforts of an eagle, so as to keep it from soaring upward, to take from its rival the place it has occupied.",
+        "The wren, spoken of in Aristotle and in Pliny, belongs to that species of birds which Suetonius says presaged the death of Caesar: for on the eve of the Ides of March one was seen flying into the courtyard of Pompey with a small branch of laurel in its beak, and was torn to pieces by other birds, which had pursued it ceaselessly from the nearby wood. By which one may see that this bird, small as it is, nonetheless has preeminence over the others; which is the cause, as Aristotle observes, of the antipathy between it and the eagle; for the eagle, being great and strong, cannot bear to have so small and weak a thing compared to it: in which ambitious men quite often imitate it, who, finding themselves well with fortune, can scarcely endure that the most virtuous and noble, whom they surpass in credit and riches, should go on equal footing with them. But precedence, if I am not mistaken, ought not to be taken from men of merit, however ill fortune treats them, so as to give it to those who have none: and this is why the eagle is here placed beneath the wren, to which it is an enemy."
+      ]
     },
     {
       "id": "p1-130",
@@ -6672,12 +6784,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-130.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с зажжённым фитилём в одной руке и змеёй, кусающей свой хвост, в другой; вариант — младенец, держащийся за пальмовую ветвь в воздухе",
+          "meaning": "Змея-уроборос и неугасающий фитиль — непрерывность времени и усилия; младенец на пальмовой ветви — первые побуждения к добродетели, которые гибнут без постоянства, их поддерживающего",
+          "what_en": "A woman with a lit wick in one hand and a serpent biting its tail in the other; a variant shows a child aloft, clinging to a palm branch",
+          "meaning_en": "The ouroboros serpent and the unceasing wick signify the unbroken continuity of time and effort; the child on the palm branch, the first stirrings toward virtue, which perish without the perseverance that sustains them"
+        }
+      ],
+      "text_ru": [
+        "Её здесь изображают так же, как во Дворце кардинала Боргезе, а именно в виде юной женщины, держащей в одной руке зажжённый фитиль, а в другой — змею, кусающую свой хвост: что нетрудно объяснить, ибо довольно известно, что движение времени, обозначенное египтянами через змею, свивающуюся в круг, катится без перерыва, точно так же как фитиль не перестаёт гореть до конца.",
+        "Её изображают также в виде младенца, поднятого в воздух и крепко держащегося одной рукой за пальмовую ветвь.",
+        "Детством означены первые склонности духа к добру, когда он прилепляется к пальме, то есть к добродетели; ибо ветви этого дерева обладают тем свойством, что поднимаются выше груза, возложенного на них, дабы их пригнуть. С этим примечательным действием сходно и действие Добродетели, которая никогда не бывает столь сильна, как в случаях противостояния пороку: но необходимо, чтобы с ней непременно соединялось Постоянство; иначе следует опасаться, что ослабевший в добродетели уподобится тому младенцу, о котором здесь идёт речь, явно подвергающему себя риску смертельного падения, если хоть немного отпустит ветвь, за которую держится."
+      ],
+      "text_fr": [
+        "Elle est icy peinte de mesme qu'au Palais du Cardinal Borghese, sçavoir en jeune femme, qui tient d'vne main vne meche allumée, & de l'autre vn serpent qui mord sa queuë: ce qui n'est pas difficile d'expliquer, puisqu'on sçait assez que le mouvement du temps, que les Egyptiens ont dénoté par le serpent, qui se plie en cercle, roule sans discontinuer, tout de mesme que la meche ne cesse de brûler jusqu'au bout.",
+        "Elle est figurée encore par vn enfant élevé en l'air, & qui se tient ferme d'vne main à vne branche de palme.",
+        "Par l'enfance sont dénotées les premieres inclinations qu'a l'esprit au bien, lorsqu'il s'attache à la palme, c'est à dire à la vertu; car les branches de cet arbre ont cela de propre, de s'élever au dessus du fardeau qu'on leur impose pour les abaisser. A cet effet remarquable, est pareil celuy de la Vertu, qui n'est jamais si forte que dans les occasions de resister au vice: mais il faut necessairement que la Perseverance y soit jointe; autrement il est à craindre que le vertueux qui se relâche, ne soit comme l'enfant dont il est icy question, qui s'expose apparemment au hazard d'vne cheute mortelle, s'il abandonne tant soit peu la branche qu'il tient."
+      ],
       "en": "Perseverance",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-130-1.jpg",
+        "p1-130-2.jpg"
+      ],
+      "text_en": [
+        "She is here painted as at the Palace of Cardinal Borghese, namely as a young woman holding in one hand a lit wick, and in the other a serpent biting its tail: which is not difficult to explain, since it is well enough known that the motion of time, which the Egyptians denoted by the serpent coiling into a circle, rolls on without ceasing, just as the wick does not cease to burn to the end.",
+        "She is also figured as a child raised into the air, holding firmly with one hand to a palm branch.",
+        "By childhood are denoted the first inclinations of the mind toward good, when it attaches itself to the palm, that is, to virtue; for the branches of this tree have this property, of rising above the weight imposed on them to bend them down. Like this remarkable effect is that of Virtue, which is never so strong as on occasions of resisting vice: but Perseverance must necessarily be joined to it; otherwise it is to be feared that the virtuous man who relaxes will be like the child in question here, plainly exposing himself to the risk of a mortal fall, should he let go, ever so slightly, of the branch he holds."
+      ]
     },
     {
       "id": "p1-131",
