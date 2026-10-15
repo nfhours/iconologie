@@ -2859,12 +2859,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-51.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша с бледным лицом, пишущий в открытой книге при свете лампы",
+          "meaning": "Бледность и ночные бдения — цена учёности, по Ювеналу; перо означает стремление оставить по себе добрую память трудами",
+          "what_en": "A pale-faced youth writing in an open book by lamplight",
+          "meaning_en": "Pallor and nightly vigils are the price of learning, after Juvenal; the pen signifies the wish to leave a good memory through one's works"
+        },
+        {
+          "what": "Петух рядом с ним",
+          "meaning": "Бдительность, необходимая для обретения совершенного знания искусств и наук",
+          "what_en": "A cock beside him",
+          "meaning_en": "The vigilance needed to acquire perfect knowledge of the arts and sciences"
+        }
+      ],
+      "text_ru": [
+        "По изображению этого юноши, сидящего, легко можно судить о его склонности к Учению. У него бледное лицо, скромное одеяние, открытая книга, в которую он пишет при свете лампы, и петух рядом.",
+        "Его юный возраст показывает, что этот крепкий возраст весьма пригоден для Учения, дабы сносить его тяготы. Бледность его лица означает, как говорит Ювенал в 5-й сатире: ¶«Нужно бодрствовать ночью и бледнеть над книгой».",
+        "Его скромное одеяние — что человеку учёному подобает любить умеренность; сиденье, на котором он сидит, — что ему необходимы покой и усердие; его внимание к открытой книге — что Учение есть пламенное усердие в познании вещей; перо, которым он пишет, — что своими трудами ему надлежит, если возможно, оставить по себе похвальную память, как говорит Персий в 1-й сатире: ¶«Его знание — ничто, если о нём не знают другие».",
+        "Зажжённой лампой показано, что истинно прилежные тратят больше масла, чем вина; а петухом — что им необходима бдительность, дабы обрести совершенное знание Искусств и Наук."
+      ],
+      "text_fr": [
+        "Par la peinture de ce jeune homme qui est assis, on peut juger aisément de son inclination à l'Estude. Il a le visage pasle, vn habillement modeste, vn livre ouvert, dans lequel il écrit à la clarté d'vne lampe, & vn coq à son costé.",
+        "Sa grande jeunesse montre que cet âge robuste est fort propre à l'Estude pour en souffrir la fatigue. Son visage pasle marque, comme dit Juvenal Sat. 5. ¶Qu'il faut veiller la nuit, & pasir sur vn livre.",
+        "Son habit modeste, qu'vn homme de lettres doit aimer la moderation: le siege où il est assis, que le repos & l'assiduité luy sont necessaires: son attention sur vn livre ouvert, que l'Estude est vne ardente application à la connoissance des choses: la plume dont il écrit, qu'il faut que par ses ouvrages il laisse, s'il est possible, vne louable memoire de soy, comme dit Perse Sat. 1. ¶Son sçavoir n'estant rien, si d'autres ne le sçavent.",
+        "Par la lampe allumée, que les vrais studieux gastent plus d'huile que de vin: & par le coq, que la vigilance leur est necessaire pour s'acquerir de parfaites notions des Arts & des Sciences."
+      ],
       "en": "Study",
-      "group_en": "E"
+      "group_en": "E",
+      "scans": [
+        "p1-051-1.jpg",
+        "p1-051-2.jpg"
+      ],
+      "text_en": [
+        "By the picture of this seated young man, one may easily judge his inclination toward Study. He has a pale face, a modest garment, an open book, in which he writes by the light of a lamp, and a cock at his side.",
+        "His great youth shows that this robust age is well suited to Study, to bear its fatigue. His pale face is marked, as Juvenal says in Satire 5: ¶That one must keep vigil by night, and grow pale over a book.",
+        "His modest garb, that a man of letters ought to love moderation: the seat on which he sits, that rest and assiduity are necessary to him: his attention upon an open book, that Study is an ardent application to the knowledge of things: the pen with which he writes, that through his works he must leave, if possible, a praiseworthy memory of himself, as Persius says in Satire 1: ¶His knowledge being nothing, if others do not know it too.",
+        "By the lit lamp, that true students consume more oil than wine: and by the cock, that vigilance is necessary to them, to acquire perfect notions of the Arts and Sciences."
+      ]
     },
     {
       "id": "p1-52",
@@ -2877,12 +2912,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-52.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная дама в зелёном с гирляндой из цветов, кормящая грудью младенца-Амура",
+          "meaning": "Цветы, предвещающие плод, — символ Надежды; Амур, вскармливаемый ею, означает, что любовь без надежды не достигает своих желаний",
+          "what_en": "A young lady in green with a garland of flowers, suckling the infant Cupid",
+          "meaning_en": "Flowers, which presage fruit, symbolise Hope; the Cupid she nurses signifies that love without hope cannot fulfil its desires"
+        }
+      ],
+      "text_ru": [
+        "Её истинный образ — юная дама, одетая в зелёное, увенчанная гирляндой из цветов, держащая в объятиях маленького Амура, которого она кормит грудью.",
+        "Её гирлянда из цветов — истинный символ Надежды, ибо цветы никогда не появляются на дереве, не заставляя нас одновременно надеяться на плод.",
+        "Что до Амура, которого она вскармливает, это означает, что одно без другого едва ли может быть долговечным: ибо поскольку никто никогда не желает себе зла, отсюда следует, что человек стремится лишь к благу, если таков его путь, что в течение жизни он всегда избирает своими проводниками природу и разум. А поскольку благо нетрудно познать, оно столь же легко побуждает нас любить его и сулить себе обладание им: отчего святой Августин и говорит, что любовь без надежды никогда не может достичь исполнения своих желаний.",
+        "Некоторые другие одевают её в жёлтое платье, всё усеянное цветами, ибо она пробуждает и поддерживает в наших душах тысячу желаний, им приятных: подобно тому как Заря, чьи цвета она носит и с которой афиняне её сравнивают, являясь на горизонте, обновляет всё с наступлением дня и заставляет нас надеяться всё больше благодаря разнообразию приятных предметов, которые она являет нашим взорам. Добавлю к этому, что по тому, как её принято изображать, кажется, что она идёт на цыпочках: этим, без сомнения, хотят показать, что Надежда никогда не бывает вполне твёрдой, и что вещи, которых мы желаем, всегда кажутся нам больше тех, которыми мы обладаем."
+      ],
+      "text_fr": [
+        "Sa vraye image est celle d'vne jeune dame, vestuë de verd, couronnée d'vne guirlande de fleurs, & qui tient entre ses bras vn petit Amour, à qui elle donne la mammelle.",
+        "Sa guirlande de fleurs est vn vray symbole de l'Esperance, parce qu'elles ne paroissent jamais sur l'arbre, qu'en mesme temps elles ne nous fassent esperer du fruit.",
+        "Quant à l'Amour qu'elle allaite, cela veut dire que l'vn sans l'autre peuvent estre difficilement de longue durée: car comme on ne souhaite jamais d'avoir du mal, il s'ensuit de là que l'homme n'aspire qu'au bien, s'il est ainsi que durant sa vie il se propose toûjours pour guides la nature & la raison. Or est-il que comme le bien n'est pas difficile à connoistre, il nous émeut aussi facilement à l'aimer, & à nous en promettre la possession: ce qui fait dire a S. Augustin, que l'amour sans esperance ne peut jamais venir à bout de ses desirs.",
+        "Quelques autres l'habillent d'vne robe jaune, toute semée de fleurs, à cause qu'elle reveille & entretient dans nos ames mille desirs qui leur plaisent: tout de mesme que l'Aurore, de qui elle porte les couleurs, & à laquelle les Atheniens la comparent, se faisant paroistre sur l'horizon, renouvelle toutes choses avec le jour, & nous fait esperer de plus en plus, par la diversité des agreables objets qu'elle presente à nos yeux. J'adjoûte à cecy, que de la façon qu'ils en plantent la figure, il semble qu'elle marche sur la pointe des pieds: par où ils veulent montrer sans doute, que l'Esperance n'est jamais bien ferme, & que les choses que nous desirons, nous semblent toûjours plus grandes que celles que nous avons."
+      ],
       "en": "Hope",
-      "group_en": "E"
+      "group_en": "E",
+      "scans": [
+        "p1-052-1.jpg",
+        "p1-052-2.jpg"
+      ],
+      "text_en": [
+        "Her true image is that of a young lady, clothed in green, crowned with a garland of flowers, holding in her arms a little Love, whom she suckles.",
+        "Her garland of flowers is a true symbol of Hope, because flowers never appear on the tree without at the same time making us hope for fruit.",
+        "As for the Love she nurses, this means that the one without the other can hardly be long-lasting: for as one never wishes to have evil, it follows that man aspires only to good, if it is so that throughout his life he always takes nature and reason for his guides. Now, just as the good is not difficult to know, it just as easily moves us to love it, and to promise ourselves its possession: which makes Saint Augustine say that love without hope can never bring its desires to fulfillment.",
+        "Some others clothe her in a yellow robe, all strewn with flowers, because she awakens and sustains in our souls a thousand desires pleasing to them: just like the Dawn, whose colors she wears, and to whom the Athenians compare her, who, appearing on the horizon, renews all things with the day, and makes us hope more and more, through the diversity of pleasant objects she presents to our eyes. I add to this, that by the way they shape her figure, she seems to walk on tiptoe: by which they doubtless wish to show that Hope is never very steady, and that the things we desire always seem greater to us than those we have."
+      ]
     },
     {
       "id": "p1-53",
@@ -2895,12 +2959,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-53.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Дама с распущенными золотыми волосами, два золотых шара в поднятых руках, тело в звёздной лазури",
+          "meaning": "Круглая форма без начала и конца, несокрушимость золота и лазурь небес — всё это символы вечности",
+          "what_en": "A lady with loose golden hair, two golden balls raised in her hands, her body in starry azure",
+          "meaning_en": "The round shape without beginning or end, the indestructibility of gold, and the azure of the heavens are all symbols of eternity"
+        },
+        {
+          "what": "Солнце в левой руке и луна в правой (в другом изводе, сидя на небесной сфере)",
+          "meaning": "Два светила, непрестанно питающие порождение всего земного",
+          "what_en": "A sun in her left hand and a moon in her right (in another version, seated on a celestial sphere)",
+          "meaning_en": "The two heavenly bodies that unceasingly nourish the generation of all earthly things"
+        }
+      ],
+      "text_ru": [
+        "Этот образ Вечности — изобретение Монсеньора Барберини, флорентийца, который в своём трактате о Любви представляет её в виде прекрасной дамы, чьи распущенные золотистые волосы падают ей на плечи и спускаются довольно низко.",
+        "При этом с обеих сторон, где должны были бы быть бёдра, укореняются два полукруга, которые, изгибаясь — один вправо, другой влево, — встречаются над головой этой дамы с равной точностью, образуя круг. У неё к тому же два золотых шара в руках, которые она держит поднятыми, а тело её покрыто прекрасной лазурью, усеянной звёздами. Всё это — истинный символ Вечности, будь то если рассматривать круглую форму, не имеющую ни начала, ни конца; или совершенство золота, самого долговечного из всех металлов; или лазоревый цвет, представляющий Небо, наименее тленную вещь в мире.",
+        "Не без причины также у Пиерия она изображена сидящей на небесной сфере, держащей в левой руке Солнце, а в правой — Луну. Этим объявляется, что эти два светила непрестанно действуют в порождении вещей земных, которым они дают пропитание. И потому она восседает на небе, как на вещи долговечной и вечной.",
+        "Умолчу о том, что существует медаль императора Адриана, на которой она поддерживает две увенчанные головы, с надписью ÆTERNITAS AUGUSTI и S.C.; и что есть весьма древняя медаль, где она восседает на троне, держа в одной руке копьё, а в другой — изображение Гения, с надписью CLOD. SEPT. ALB. AUG."
+      ],
+      "text_fr": [
+        "Cette image de l'Eternité est de l'invention de Monseigneur Barberini Florentin, qui dans le traité qu'il a fait de l'Amour, la represente sous la figure d'vne belle dame, de qui les cheveux épars & de couleur d'or, luy tombent sur les épaules, & descendent assez long.",
+        "Avec cela, des deux costez où devroient estre les hanches, deux demy-cercles prennent racine, qui se pliant, l'vn à droit, & l'autre à gauche, se rencontrent sur la teste de cette dame avec vne égale justesse en forme de cercle. Elle a de plus deux boules d'or en ses mains, qu'elle tient haussées, & le corps couvert d'vn bel azur semé d'étoilles. Tout cela est vn vray symbole de l'Eternité, soit que l'on considere la figure ronde, qui n'a ny commencement ny fin; ou la perfection de l'or, qui est le plus durable de tous les metaux; ou la couleur azurée representant le Ciel, qui est la chose du monde la moins corruptible.",
+        "Ce n'est pas encore sans raison, que dans Pierius elle est peinte assise sur vne sphere celeste, tenant de la main gauche vn Soleil, & de la droite vne Lune. Par où il est declaré que ces deux astres agissent sans cesse à la generation des choses d'icy-bas, ausquelles ils donnent nourriture. Et c'est pour cela qu'elle est assise sur vn ciel, comme vne chose durable & perpetuelle.",
+        "J'obmets qu'il se voit vne medaille de l'Empereur Adrian, où elle soûtient deux testes couronnées, avec ces mots, ÆTERNITAS AUGUSTI & S.C. & qu'il y en a vne fort ancienne, où elle est assise en vn thrône, tenant vne lance d'vne main, & de l'autre la figure d'vn Genie, avec cette inscription, CLOD. SEPT. ALB. AUG."
+      ],
       "en": "Eternity",
-      "group_en": "E"
+      "group_en": "E",
+      "scans": [
+        "p1-053-1.jpg",
+        "p1-053-2.jpg"
+      ],
+      "text_en": [
+        "This image of Eternity is the invention of Monsignor Barberini of Florence, who, in his treatise on Love, represents her in the figure of a beautiful lady, whose loose, golden-colored hair falls upon her shoulders, and hangs down quite long.",
+        "With this, on the two sides where the hips should be, two half-circles take root, which, bending, one to the right and the other to the left, meet above this lady's head with equal precision, forming a circle. She has, moreover, two golden balls in her hands, which she holds raised, and her body is covered with a fine azure strewn with stars. All this is a true symbol of Eternity, whether one considers the round shape, which has neither beginning nor end; or the perfection of gold, the most durable of all metals; or the azure color representing the Sky, the least corruptible thing in the world.",
+        "Nor is it without reason that in Pierius she is painted seated upon a celestial sphere, holding in her left hand a Sun, and in her right a Moon. By which it is declared that these two heavenly bodies act unceasingly in the generation of things here below, to which they give nourishment. And it is for this that she is seated upon a sky, as a durable and perpetual thing.",
+        "I pass over that there is a medal of the Emperor Hadrian, on which she supports two crowned heads, with these words, AETERNITAS AUGUSTI and S.C.; and that there is a very ancient one, where she is seated upon a throne, holding a lance in one hand, and in the other the figure of a Genius, with this inscription, CLOD. SEPT. ALB. AUG."
+      ]
     },
     {
       "id": "p1-54",
@@ -2913,12 +3012,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-54.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша в разноцветной одежде с часами на голове и золотым кругом в одной руке",
+          "meaning": "Разные цвета означают различные способы упражняться; часы — постоянство труда во времени",
+          "what_en": "A young man in multicoloured clothing with an hourglass on his head and a golden ring in one hand",
+          "meaning_en": "The varied colours signify the different ways of exercising; the hourglass, the constancy of labour over time"
+        },
+        {
+          "what": "Свиток с надписью ENCYCLOPÆDIA в другой руке, рядом — оружие и земледельческие орудия",
+          "meaning": "Ни в каком искусстве не достичь совершенства, если природное дарование, знание и упражнение не действуют заодно",
+          "what_en": "A scroll inscribed ENCYCLOPÆDIA in his other hand, with weapons and farming tools nearby",
+          "meaning_en": "No art can be mastered unless natural aptitude, knowledge, and exercise act together"
+        }
+      ],
+      "text_ru": [
+        "Различные действия, производимые Упражнением, показаны нам юношей, одетым в разноцветное платье, с обнажёнными руками, часами на голове, золотым кругом в одной руке и свитком в другой, на котором написано слово ENCYCLOPÆDIA. Он носит, кроме того, чётки на поясе и небольшой кончик крыла у каждой из своих ног, вокруг которых видны некоторые части оружия и блестящие, отполированные орудия земледелия.",
+        "Упражнение есть обычный труд, которым занимается человек, дабы сделаться искусным в своём деле; достичь этого ему трудно, если он не приложит руку к делу, ибо, по свидетельству Аристотеля, никто никогда не достигает совершенства ни в каком искусстве, если природное дарование, знание и упражнение не действуют совместно.",
+        "Его изображают юным, ибо нет такого возраста, что мог бы лучше противостоять усталости. Он одет в разные цвета, дабы показать, что существуют различные способы предаваться этому занятию; а руки его обнажены, дабы быть более гибким и проворным."
+      ],
+      "text_fr": [
+        "Les divers effets que l'Exercice produit, nous sont demontrez par vn jeune homme vestu de plusieurs couleurs, avec les bras nuds, vne horloge à la teste, vn cercle d'or en vne main, & en l'autre vn rouleau, où est écrit ce mot, ENCYCLOPÆDIA. Il porte de plus vn chapelet à la ceinture, & vn petit bout d'aisle à chaque costé de ses pieds, à l'entour desquels se voyent quelques pieces d'armes, & des outils d'Agriculture luisans & polis.",
+        "L'Exercice est le travail ordinaire où l'homme s'employe pour se rendre habile en sa profession; à quoy il peut arriver difficilement, s'il ne met la main à l'œuvre, puisqu'au rapport d'Aristote, l'on n'excelle jamais en quelque art que ce soit, si le naturel, le sçavoir & l'exercice n'agissent ensemble.",
+        "Il est peint jeune, parce qu'il n'y a point d'âge qui puisse mieux resister à la fatigue que celuy-là. Il est vestu de plusieurs couleurs, pour montrer qu'il y a divers moyens de s'y adonner; & ses bras sont découverts, afin d'estre plus souple & plus dispos."
+      ],
       "en": "Exercise",
-      "group_en": "E"
+      "group_en": "E",
+      "scans": [
+        "p1-054-1.jpg"
+      ],
+      "text_en": [
+        "The various effects that Exercise produces are shown to us by a young man clothed in several colors, with bare arms, an hourglass upon his head, a golden ring in one hand, and in the other a scroll, on which is written the word ENCYCLOPAEDIA. He wears, moreover, a rosary at his belt, and a small wing-tip at each side of his feet, around which are seen some pieces of armor, and gleaming, polished tools of Agriculture.",
+        "Exercise is the ordinary labor to which man applies himself to become skilled in his profession; which he can hardly attain unless he puts his hand to the work, since, according to Aristotle, one never excels in any art whatsoever unless natural aptitude, knowledge, and exercise act together.",
+        "He is painted young, because there is no age that can better withstand fatigue than that one. He is clothed in several colors, to show that there are various ways of devoting oneself to it; and his arms are bare, so as to be more supple and more agile."
+      ]
     },
     {
       "id": "p1-55",
