@@ -81,7 +81,7 @@
 
 .ic-figs{margin-top:26px;display:grid;gap:14px}
 .ic-fig{background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:14px;cursor:zoom-in}
-.ic-fig img{margin:0 auto;max-height:78vh;width:auto}
+.ic-fig img{margin:0 auto;width:100%;height:auto}
 .ic-fig figcaption{font-size:.75em;color:var(--soft);margin-top:8px;text-align:center}
 .ic-caption{margin-top:10px;font-size:.82em;color:var(--soft);font-style:italic}
 .ic-caption b{font-style:normal;font-weight:600;color:var(--ink);margin-right:5px}
@@ -107,7 +107,7 @@
 .ic-ov-b{font-size:.78em;padding:6px 14px;border:1px solid var(--rule);border-radius:999px;background:var(--sheet);cursor:pointer;color:var(--soft)}
 .ic-ov-b[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
 .ic-scan-frame{position:relative;background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:14px;cursor:zoom-in}
-.ic-scan-frame img{margin:0 auto;max-height:82vh;width:auto}
+.ic-scan-frame img{margin:0 auto;width:100%;height:auto}
 .ic-scan-zoom{position:absolute;top:10px;right:10px;width:34px;height:34px;border-radius:50%;border:1px solid var(--rule);
   background:var(--paper);cursor:pointer;font-size:1em;line-height:1;color:var(--ink)}
 .ic-scan-nav{display:flex;align-items:center;justify-content:center;gap:16px;margin-top:12px;color:var(--soft);font-size:.82em}
