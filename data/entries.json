@@ -4975,12 +4975,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-95.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Пожилая женщина в лавровом венке, с петухом в правой руке и посохом, обвитым змеёй, в левой",
+          "meaning": "Петух и змея — бдительность и обновление здоровья; лавр — целебное растение; узловатый посох со змеёй — трудность врачебного искусства (девиз Эскулапа)",
+          "what_en": "An aged woman in a laurel wreath, a cock in her right hand and a serpent-wound staff in her left",
+          "meaning_en": "The cock and serpent signify vigilance and the renewal of health; the laurel, a healing plant; the knotted, serpent-wound staff, the difficulty of the medical art (the device of Aesculapius)"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде пожилой женщины, с лавровым венком на голове, с петухом в правой руке и узловатым посохом, обвитым змеёй, в левой.",
+        "Медицину, которая по причинам болезней судит о средствах их исцеления, изображают пожилой, быть может, сообразуясь с мнением древних, полагавших, что человеку, перешагнувшему сорокалетний рубеж, стыдно звать врача, ибо, зная собственное сложение, он мог бы исцелить себя сам, воздерживаясь от того, что считал для себя вредным. Отсюда же происходит, что искусством и опытом старый врач поддерживает нынешнее здоровье и возвращает утраченное.",
+        "Она увенчана лавром, поскольку это дерево служит против многих недугов. Потому-то в первый день января римляне раздавали его листья новым должностным лицам, дабы напомнить им беречь своё здоровье весь год.",
+        "Ей дают нести петуха и змею, ибо эти животные, как замечает Фест Помпей, весьма бдительны, а врачи должны быть такими же. Притом издревле змею принимали за символ здоровья: ибо подобно тому, как она молодеет, сбрасывая старую кожу, так, кажется, обновляются и люди, исцеляясь от своих недугов.",
+        "А поскольку в Медицине трудно преуспеть, эта трудность является через узловатый посох, обвитый змеёй, который почитают девизом Эскулапа."
+      ],
+      "text_fr": [
+        "On la represente par vne femme âgée, qui a sur la teste vne guirlande de laurier, en la main droite vn coq, & en la gauche vn baston noüeux, environné d'vn serpent.",
+        "La Medecine, qui par les causes des maladies juge des moyens de les guerir, est dépeinte âgée, peut-estre pour s'accommoder à l'opinion des anciens, qui ont creu que depuis qu'vn homme avoit passé quarante ans, ce luy estoit vne honte d'appeller le Medecin; présupposant qu'ayant connoissance de sa propre complexion, il se pouvoit guerir luy-mesme en s'abstenant de ce qu'il connoissoit luy estre nuisible. De là vient aussi que par l'art & l'experience vn vieil Medecin maintient en estat la santé presente, & recouvre celle qu'on a perduë.",
+        "Elle est couronnée de laurier, dautant que cet arbre sert à plusieurs maladies. C'est pourquoy le premier jour de Janvier les Romains donnoient de ses feuilles aux nouveaux Magistrats, pour les avertir de conserver leur santé toute l'année.",
+        "On luy fait porter vn coq & vn serpent, parce que ces animaux, comme le remarque Feste Pompée, sont fort vigilans, & qu'il faut que les Medecins le soient aussi. D'ailleurs ç'a esté de tout temps qu'on a pris le serpent pour le symbole de santé: car comme il se rajeunit en quittant sa vieille peau; de mesme il semble que les hommes se renouvellent en guerissant de leurs maladies.",
+        "Et dautant qu'il est mal-aisé de réüssir dans la Medecine, cette difficulté se demontre par le baston noüeux environné d'vn serpent, que l'on tient avoir esté la devise d'Esculape."
+      ],
       "en": "Medicine",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-095-1.jpg"
+      ],
+      "text_en": [
+        "She is represented as an aged woman, who has upon her head a garland of laurel, in her right hand a cock, and in her left a knotted staff, encircled by a serpent.",
+        "Medicine, which judges by the causes of illnesses the means of curing them, is depicted aged, perhaps to accord with the opinion of the ancients, who believed that once a man had passed forty years, it was a shame for him to call the Physician; presupposing that, having knowledge of his own constitution, he could heal himself by abstaining from what he knew to be harmful to him. Hence it is also that by art and experience an old Physician maintains present health, and recovers that which has been lost.",
+        "She is crowned with laurel, inasmuch as this tree serves against several illnesses. This is why, on the first day of January, the Romans gave its leaves to the new Magistrates, to remind them to preserve their health throughout the year.",
+        "She is made to carry a cock and a serpent, because these animals, as Festus Pompeius remarks, are very watchful, and Physicians must be so as well. Besides, the serpent has at all times been taken as the symbol of health: for as it grows young again by shedding its old skin, so likewise men seem to renew themselves by recovering from their illnesses.",
+        "And inasmuch as it is difficult to succeed in Medicine, this difficulty is shown by the knotted staff encircled by a serpent, which is held to have been the device of Aesculapius."
+      ]
     },
     {
       "id": "p1-96",
@@ -4993,12 +5024,50 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-96.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Двуликая женщина в чёрном платье, с пером в правой руке и книгой в левой",
+          "meaning": "Два лица — память о прошлом и предвидение будущего; перо и книга — совершенствование памяти чтением и письмом; чёрный цвет — её прочность и долговечность",
+          "what_en": "A two-faced woman in a black robe, a quill in her right hand and a book in her left",
+          "meaning_en": "The two faces signify memory of the past and foresight of the future; the quill and book, memory perfected by reading and writing; the black color, its firmness and durability"
+        }
+      ],
+      "text_ru": [
+        "Не без тайного смысла ей здесь придают два лица, чёрное платье, перо в правой руке и книгу в левой.",
+        "Память имеет двойное лицо, ибо она есть особый дар природы, тем более значительный, что посредством него и по правилам благоразумия она объемлет все вещи — прошедшие и будущие.",
+        "Книга и перо, которые она держит, учат нас, что Память совершенствуется упражнением, состоящим главным образом в письме или чтении книг.",
+        "Сверх того, некоторые помещают у её ног чёрного пса по двум довольно веским причинам. Первая — поскольку чёрный цвет означает твёрдость и долгую прочность, что свойственно Памяти, чьё назначение — хорошо удерживать образы чувств. Вторая — поскольку постоянный опыт показывает нам, что пёс есть животное, помнящее издалека: ведь если из места, где он был вскормлен, его увести в чужую страну, он сам находит обратный путь и легко возвращается. Примером тому пёс Улисса, который после двадцати лет отсутствия узнал своего хозяина, когда тот вернулся в свою страну. И, быть может, поэтому у Платона мудрый Сократ клянётся псом, что Федр выучил наизусть всю речь, сочинённую Лисием.",
+        "Некоторые древние изображали её в виде женщины средних лет, чей убор украшен драгоценными камнями и жемчугом; но особенно примечательной её делает жест — она касается кончика уха двумя первыми пальцами правой руки.",
+        "Её средний возраст являет, как говорит Аристотель, что в расцвете зрелости люди удерживают вещи лучше, нежели в юные годы или в старости. Сверкающие на её челе драгоценности — что она есть верная хранительница богатств разума и всего, что являют чувства. А рука, которой она касается уха, — что в этой тонкой части, которой мы слышим, есть, как говорит Плиний, некое, не знаю какое, хранилище Памяти, к которому мы словно взываем, прикасаясь к нему. Это же заставляет Вергилия сказать во 2-й Эклоге: ¶«Когда я воспевал чудо великих Царей, / Кинфиец дёрнул меня за ухо».",
+        "Но как одни изобилуют памятью, опыт показывает, что у других её нет вовсе; как рассказывают об Аттике, сыне Ирода, которому невозможно было выучить алфавит; равно как о Коребе, Маргите и Мелитиде, которые так и не научились считать дальше числа пяти. Есть и такие, кто утрачивает её от различных случайностей, как это отмечено у того афинянина, которому удар камнем в голову заставил забыть всё, чему он научился; и у Мессалы Корвина, который после долгой болезни более не помнил собственного имени. К этим примерам я мог бы добавить и другие, как случай Орбилия Пупилла, славного Грамматика, и Гермогена Софиста, с которыми приключились те же несчастья: но довольно сказать, что время заставляет нас всё забывать, ибо именно оно со временем упраздняет досады, вражду, обещания, любови и даже дружбу, если она не поддерживается беседой или посредством писем. Правда и то, что слишком много лживых друзей, которые по чёрной злобе нарочно забывают то, что следовало бы бережно хранить, и слишком хорошо помнят то, что благородная душа должна забыть. Эту истину лучше всего выражают стихи г-на Берто: ¶«Помнится лишь дурное, / Неблагодарность царит в мире, / Обида вырезается на металле, / А благодеяние пишется на воде»."
+      ],
+      "text_fr": [
+        "Ce n'est pas sans mystere qu'on luy donne icy deux visages, & vne robe noire, avec vne plume en la main droite, & vn livre en la gauche.",
+        "La Memoire a vn double visage, parce qu'elle est vn don particulier de la nature, d'autant plus considerable, que par son moyen, & par les regles de la prudence elle comprend toutes les choses passées & à venir.",
+        "Le livre & la plume qu'elle tient nous apprennent que la Memoire se perfectionne par l'vsage, qui consiste principalement en l'écrit ou en la lecture des livres.",
+        "Outre ces choses il y en a qui mettent vn chien noir à ses pieds pour deux raisons assez fortes. La premiere, à cause que le noir signifie fermeté & longue durée, ce qui appartient à la Memoire, le propre de laquelle est de bien retenir les formes des sens. La seconde, parce que l'experience continuelle nous fait voir que le chien est vn animal qui se souvient de fort loin: car si du lieu où il a esté nourry on le mene en vn païs étranger, il retrouve le chemin de luy-mesme, & s'en retourne facilement. Le chien d'Ulysse en sert d'exemple, qui aprés vingt ans d'absence reconnut son maistre, quand il retourna en son païs. Et peut-estre est-ce pour cela que dans Platon le sage Socrate jure par le chien, que Phedre avoit appris par cœur toute la harangue que Lysias avoit composée.",
+        "Quelques anciens l'ont representée par vne femme d'âge mediocre, la coëffure de laquelle est enrichie de pierreries & de perles: mais ils la rendent sur tout fort remarquable par son action; car elle se tire le bout de l'oreille avec les deux premiers doigts de la main droite.",
+        "Par son âge mediocre il est declaré, comme dit Aristote, qu'en la force de leur virilité les hommes retiennent mieux les choses, qu'ils ne font en leurs jeunes ans ny en leur vieillesse. Par les joyaux qui éclatent sur son chef, qu'elle est la fidelle garde des richesses de l'esprit, & de toutes les choses qui sont representées par les sens: Et par son oreille où elle porte la main, qu'en cette partie delicate par qui nous oyons, il y a, comme dit Pline, je ne sçay quel reservoir de la Memoire, que nous semblons reclamer en y touchant. Ce qui fait dire encore à Virgile dans sa 2. Eclogue, ¶Quand des grands Rois je chantois la merveille, / Le Cynthien me tira par l'oreille.",
+        "Mais comme les vns abondent en memoire, l'experience fait voir que les autres n'en ont point du tout; comme on le raconte d'Atticus fils d'Herode, auquel il fut impossible d'apprendre l'alphabet; & pareillement de Corebe, de Margités, & de Melitidés, qui ne sçurent jamais compter plus avant que le nombre de cinq. Il y en a qui la perdent encore par divers accidens, comme il se remarque de cet Athenien, à qui vn coup de pierre receu à la teste, fit oublier tout ce qu'il avoit appris; & de Messala Corvinus, qui ne se souvint plus de son nom aprés vne longue maladie. A ces exemples j'en pourrois adjoûter d'autres, comme celuy d'Orbilius Pupilius, illustre Grammairien, & d'Hermogene le Sophiste, à qui les mesmes disgraces arriverent: mais il me suffit de dire que le temps nous fait tout oublier, puisque c'est luy qui abolit à la longue les déplaisirs, les inimitiez, les promesses, les amours, & l'amitié mesme, si elle n'est cultivée par la conversation, ou par le moyen des lettres. Il est vray qu'il n'y a que trop de faux amis, qui par vne malice noire oublient volontairement ce qu'il faut estre soigneux de retenir, & ne retiennent que trop ce qu'vne ame genereuse doit oublier. Cette verité ne peut mieux estre exprimée que par ces vers de M. Bertauld: ¶L'on ne se souvient que du mal, / L'ingratitude regne au monde, / L'injure se grave en metal, / Et le bienfait s'écrit sur l'onde."
+      ],
       "en": "Memory",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-096-1.jpg",
+        "p1-096-2.jpg"
+      ],
+      "text_en": [
+        "It is not without mystery that she is here given two faces, and a black robe, with a quill in her right hand, and a book in her left.",
+        "Memory has a double face, because she is a particular gift of nature, the more considerable in that, by her means, and by the rules of prudence, she comprehends all things past and to come.",
+        "The book and the quill she holds teach us that Memory is perfected by practice, which consists chiefly in writing or in the reading of books.",
+        "Besides this, there are some who place a black dog at her feet for two fairly strong reasons. The first, because black signifies firmness and long duration, which belongs to Memory, whose proper function is to retain well the forms of the senses. The second, because continual experience shows us that the dog is an animal that remembers from very far: for if, from the place where it was raised, it is led into a foreign country, it finds its own way back, and returns easily. The dog of Ulysses serves as an example, which after twenty years of absence recognized its master, when he returned to his country. And perhaps it is for this that, in Plato, the wise Socrates swears by the dog, that Phaedrus had learned by heart the whole speech that Lysias had composed.",
+        "Some ancients have represented her as a woman of middling age, whose headdress is enriched with gems and pearls: but they make her especially remarkable by her gesture; for she pulls the tip of her ear with the first two fingers of her right hand.",
+        "By her middling age it is declared, as Aristotle says, that in the strength of their manhood men retain things better than they do in their young years or in their old age. By the jewels that shine upon her head, that she is the faithful guardian of the riches of the mind, and of all things that are represented by the senses: and by her hand, which she lays upon her ear, that in this delicate part by which we hear, there is, as Pliny says, I know not what reservoir of Memory, which we seem to call upon by touching it. This likewise makes Virgil say, in his 2nd Eclogue, ¶While I sang the wonder of great Kings, / The Cynthian plucked me by the ear.",
+        "But as some abound in memory, experience shows that others have none at all; as is told of Atticus, son of Herod, for whom it was impossible to learn the alphabet; and likewise of Coroebus, of Margites, and of Melitides, who never learned to count beyond the number five. There are some who lose it again through various accidents, as is noted of that Athenian, whom a blow from a stone received on the head made forget all he had learned; and of Messala Corvinus, who no longer remembered his own name after a long illness. To these examples I could add others, such as that of Orbilius Pupillus, the illustrious Grammarian, and of Hermogenes the Sophist, to whom the same misfortunes happened: but it suffices me to say that time makes us forget everything, since it is time that in the long run abolishes vexations, enmities, promises, loves, and even friendship itself, if it is not cultivated by conversation, or by means of letters. It is true that there are only too many false friends, who by a black malice willfully forget what one ought to be careful to retain, and remember only too well what a generous soul ought to forget. This truth cannot be better expressed than by these verses of M. Bertauld: ¶One remembers only the ill, / Ingratitude reigns in the world, / The injury is engraved in metal, / And the kindness is written upon the wave."
+      ]
     },
     {
       "id": "p1-97",
@@ -5011,12 +5080,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-97.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Девушка в венке из можжевельника, с большим гвоздём в руке, стоящая между львом и орлом",
+          "meaning": "Можжевельник — неувядающая память о добре; гвоздь — глубина, с какой благодеяние входит в душу; лев и орёл — благодарные животные, примеры верной памяти о полученном добре",
+          "what_en": "A maiden crowned with juniper, a great nail in her hand, standing between a lion and an eagle",
+          "meaning_en": "The juniper signifies an unfading memory of kindness; the nail, how deeply a benefit sinks into the soul; the lion and eagle, grateful animals exemplifying faithful remembrance of good received"
+        }
+      ],
+      "text_ru": [
+        "Приятность и красота равно заметны в лице этой девушки. Она носит на голове венок из можжевельника, с большим гвоздём в руке, и стоит между львом и орлом.",
+        "Её венчают можжевельником по трём причинам. Первая — поскольку это растение, как говорит Плиний, не стареет и никогда не гниёт; так же и память об оказанном благодеянии не стирается временем. Вторая — поскольку в любое время года его листья не могут опасть, что означает твёрдость благодарной души. И третья — поскольку из перегнанных ягод можжевельника добывается жидкость, весьма помогающая памяти.",
+        "Она держит большой гвоздь, дабы показать, что он не входит глубже в деревянный брус, чем благодеяние — в память благородной души.",
+        "Она стоит между львом и орлом, поскольку эти животные часто показывали, сколь они благодарны и враждебны неблагодарности. Свидетель тому — лев Андрокла, о котором рассказывают Авл Геллий и Элиан, говоря, что на публичных играх, устроенных в большом римском цирке, в присутствии всего народа, столь благородное животное спасло жизнь этому рабу в благодарность за то, что тот вынул занозу из его лапы в лесу, куда тот бежал, чтобы сбросить ярмо своего господина. Свидетель тому и благодарный орёл, который, в отплату за пищу, данную ему некоей девушкой из Кесты, с тех пор делился с ней всей добычей, которую ловил; а увидев её мёртвой, был так опечален, что на глазах у народа бросился в костёр, разожжённый, чтобы сжечь тело этой девушки. Если же мы рассудим, что лев — царь четвероногих, а орёл — царь птиц, то заключим отсюда, что чем благороднее человек, тем бережнее он хранит память о полученных благодеяниях."
+      ],
+      "text_fr": [
+        "L'agrement & la beauté se remarquent également dans le visage de cette fille. Elle porte sur la teste vne guirlande de genevre, avec vn grand clou à la main, & se tient debout entre vn lion & vn aigle.",
+        "On la couronne de genevre pour trois raisons. La premiere, à cause que cette plante, comme dit Pline, ne vieillit point, & ne se pourrit jamais; & que de mesme la memoire d'vn bon office receu n'est point effacée par le temps. La seconde, parce qu'en quelque saison que ce soit, ses feuilles ne peuvent tomber; ce qui denote la fermeté d'vne ame reconnoissante. Et la troisiéme, parce que des grains de genevre distillez il s'en tire vne liqueur qui aide grandement à la memoire.",
+        "Elle tient vn grand clou, pour monstrer qu'il ne s'enfonce pas plus avant dans vne piece de bois, que fait vn bienfait dans le souvenir d'vne ame bien née.",
+        "Elle est entre vn lion & vn aigle, dautant que ces animaux ont montré souvent combien ils estoient reconnoissans, & ennemis de l'ingratitude. Témoin le lion d'Androde, rapporté par Aule-Gelle & par Elian, qui disent qu'aux jeux publics qui furent faits dans le grand cirque de Rome, en la presence de tout le peuple, vn si genereux animal sauva la vie à cet esclave, pour recompense qu'il luy avoit tiré vne épine du pied, dans vne forest où il s'estoit sauvé pour secouër le joug de son maistre. Témoin encore cet aigle reconnoissant, qui pour se revancher de la nourriture qu'vne fille de Ceste luy avoit donnée, luy fit part depuis de tout le gibier qu'il prenoit; & la voyant morte en fut si fasché, qu'en la presence du peuple il se jetta dans le bucher qu'on avoit allumé pour bruler le corps de cette fille. Que si nous considerons que le lion est le Roy des quadrupedes, & l'aigle celuy des oiseaux, nous conclurons de là, que plus vne personne est noble, & plus elle conserve cherement le souvenir des bienfaits qu'elle a receus."
+      ],
       "en": "Memory of Benefits Received",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-097-1.jpg",
+        "p1-097-2.jpg"
+      ],
+      "text_en": [
+        "Charm and beauty are equally remarkable in the face of this maiden. She wears upon her head a garland of juniper, with a great nail in her hand, and stands between a lion and an eagle.",
+        "She is crowned with juniper for three reasons. The first, because this plant, as Pliny says, never grows old, and never rots; and likewise the memory of a good office received is not effaced by time. The second, because in whatever season, its leaves cannot fall; which denotes the firmness of a grateful soul. And the third, because from distilled juniper berries is drawn a liquor that greatly aids the memory.",
+        "She holds a great nail, to show that it sinks no deeper into a piece of wood than a kindness does into the memory of a well-born soul.",
+        "She stands between a lion and an eagle, inasmuch as these animals have often shown how grateful they were, and how hostile to ingratitude. Witness the lion of Androcles, reported by Aulus Gellius and by Aelian, who say that at the public games held in the great circus of Rome, in the presence of all the people, so generous an animal saved the life of this slave, in reward for his having drawn a thorn from its paw, in a forest where it had fled to shake off its master's yoke. Witness also that grateful eagle, which, to repay the food a maiden of Sestos had given it, afterward shared with her all the game it caught; and seeing her dead, was so grieved that, in the presence of the people, it threw itself into the pyre that had been lit to burn the girl's body. If we consider that the lion is King of the quadrupeds, and the eagle that of birds, we shall conclude from this that the nobler a person is, the more dearly they preserve the memory of the kindnesses they have received."
+      ]
     },
     {
       "id": "p1-98",
@@ -5029,12 +5127,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-98.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Богато одетый муж на вершине скалы, в лавровом венце, с вооружённой и обнажённой руками, держащий книгу и скипетр",
+          "meaning": "Неприступная скала — трудность пути к заслуге; скипетр и книга — два рода заслуг, оружие и науки; лавр — награда, причитающаяся за доблесть",
+          "what_en": "A richly clothed man atop a rock, laurel-crowned, one arm armed and the other bare, holding a book and a scepter",
+          "meaning_en": "The inaccessible rock signifies the difficulty of the path to merit; the scepter and book, the two kinds of merit, arms and letters; the laurel, the reward owed to valor"
+        }
+      ],
+      "text_ru": [
+        "Этот столь богато одетый муж, стоящий на острие скалы, представляет Заслугу. На голове у него лавровый венец, одна рука вооружена, другая обнажена, и он держит книгу и скипетр.",
+        "Заслуга, которая, по святому Фоме, есть добродетельное деяние, за которое в знак признательности причитается нечто высокой цены, изображена на суровом и неприступном месте — ради трудности, с какой достигают того, чтобы стать чего-либо достойным. Для этого Поэты и вымыслили, что Геркулес оставил путь более лёгкий, дабы следовать более трудным, на вершину гор, куда, кажется, удаляется Добродетель; за что он удостоился быть причисленным к самым прославленным Героям Древности.",
+        "Его богатое одеяние означает расположенность и навык в Добродетелях, благодаря которым человек приучается к почётным деяниям и бессмертной славе.",
+        "А поскольку Заслуга связана с великими делами, ей в знак чести дают скипетр и венец — награды, по праву причитающиеся прекрасным деяниям, как сказано у святого Павла: увенчан будет лишь тот, кто доблестно сражался.",
+        "Скипетр и книга, которые он несёт, означают два рода заслуг, а именно оружие и науки: ибо посредством них человек обретает власть над другими; лавр же подобает не менее учёным мужам, чем великим полководцам."
+      ],
+      "text_fr": [
+        "Cet homme si richement vestu, & qui se tient debout sur la pointe d'vn rocher, represente le Merite. Il a sur la teste vne couronne de laurier, l'vn des bras armé, & l'autre nud, & tient vn livre & vn sceptre.",
+        "Le Merite, qui selon S. Thomas est vne action vertueuse à qui l'on doit pour reconnoissance quelque chose de haut prix, est dépeint sur vn lieu rude & inaccessible, pour la difficulté qu'il y a à se rendre digne de quelque chose. C'est pour ce sujet que les Poëtes ont feint qu'Hercule quitta le chemin le plus facile pour suivre le plus mal-aisé sur le sommet des montagnes, où il semble que la Vertu se retire; ce qui luy merita d'estre mis au nombre des plus renommez Heros de l'Antiquité.",
+        "Son riche habillement signifie la disposition & l'habitude des Vertus, par qui l'homme s'habituë à faire des actions honorables & d'immortelle louange.",
+        "Or parce que le Merite a de la relation avec les choses grandes, on luy donne pour marque d'honneur le sceptre & la couronne, qui sont des prix legitimement deus aux belles actions, ainsi qu'il est dit par S. Paul, qu'on ne couronnera que celuy qui aura bien combattu.",
+        "Le sceptre & le livre qu'il porte signifient deux sortes de merites, à sçavoir les armes & les lettres: car par leur moyen l'homme se donne du commandement sur autruy; le laurier n'estant pas moins convenable aux sçavans hommes, qu'aux grands Capitaines."
+      ],
       "en": "Merit",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-098-1.jpg"
+      ],
+      "text_en": [
+        "This man, so richly clothed, and standing upon the point of a rock, represents Merit. He has upon his head a crown of laurel, one arm armed, and the other bare, and holds a book and a scepter.",
+        "Merit, which according to St. Thomas is a virtuous action for which something of high price is owed in acknowledgment, is depicted on a rugged and inaccessible place, for the difficulty there is in making oneself worthy of something. For this reason the Poets feigned that Hercules left the easier path to follow the more arduous one, to the summit of the mountains, where Virtue seems to withdraw; which earned him a place among the most renowned Heroes of Antiquity.",
+        "His rich attire signifies the disposition and habit of the Virtues, by which man accustoms himself to honorable actions and immortal praise.",
+        "Now because Merit has a relation to great things, he is given, as a mark of honor, the scepter and the crown, which are prizes legitimately owed to fine actions, as St. Paul says, that none shall be crowned but he who has fought well.",
+        "The scepter and the book he carries signify two kinds of merit, namely arms and letters: for by their means man gains command over others; the laurel being no less fitting for learned men than for great Captains."
+      ]
     },
     {
       "id": "p1-99",
