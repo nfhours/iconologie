@@ -1189,12 +1189,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-19.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Обнажённая женщина в венке из лилий и фиалок, сидящая на драконе",
+          "meaning": "Дракон предостерегает влюблённых: там, где красота, туда примешивается яд ревности; нагота означает, что женщины гордятся телесной красотой",
+          "what_en": "A naked woman crowned with lilies and violets, seated on a dragon",
+          "meaning_en": "The dragon warns lovers that wherever beauty is found, the venom of jealousy mixes with love; her nakedness signifies women's pride in bodily beauty"
+        },
+        {
+          "what": "Зеркало в одной руке, дротик в другой",
+          "meaning": "Зеркало — сама красота, в которую смотрится влюблённый; дротик наносит сперва лёгкую, но со временем неисцелимую любовную рану",
+          "what_en": "A mirror in one hand, a dart in the other",
+          "meaning_en": "The mirror is beauty itself, which the lover gazes into; the dart inflicts a wound that is slight at first but may become incurable with time"
+        }
+      ],
+      "text_ru": [
+        "Она изображена нагой, с гирляндой из лилий и фиалок, с дротиком в одной руке, зеркалом в другой, и с устрашающим драконом под собой.",
+        "Её венчают лилиями, потому что этот цветок, от природы белый, приятный и стойкий в своих лепестках, есть древний иероглиф красоты; хотя, впрочем, она проходит быстрее, чем фиалки, которые потому и вплетены в её венок.",
+        "Дротик, которым она ранит сердца, поначалу наносит лишь лёгкую рану, которая, однако, растёт незаметно, ибо стрела входит понемногу так глубоко, что её трудно извлечь. Этим показано, что любовные раны поначалу кажутся сладкими, но время их растравляет и порой делает неисцелимыми, вместо того чтобы их излечить.",
+        "Что до зеркала, которое она держит в руке, то это сама красота: чем больше любовник смотрится в него, тем больше ему нравится любить являемый ему образ, так что удовольствие, которое он от этого получает, заставляет его желать обладания.",
+        "Дракон, на котором она восседает, учит влюблённых быть настороже; ибо там, где встречается красота, туда обычно к избытку любви примешивается и яд ревности.",
+        "Я не говорю о её наготе, которая означает, что женщины, какой бы вид они ни напускали, так сильно гордятся красотою тела, что ради того, чтобы ею любовались, наименее целомудренные из них, как говорит один древний Поэт, охотно выставляли бы напоказ все свои части, если бы их не удерживали стыд или робость, свойственные их полу от природы."
+      ],
+      "text_fr": [
+        "Elle est peinte nuë, avec vne guirlande de lys & de violettes, vn dard en vne main, en l'autre vn miroir, & vn dragon épouventable sous elle.",
+        "On la couronne de lys, à cause que cette fleur naturellement blanche, agreable, & ferme en ses feuilles, est vn ancien hieroglyphe de la beauté; bien que toutefois elle se passe plus viste que ne font les violettes, qui pour cela sont jointes à sa guirlande.",
+        "Le dard dont elle blesse les cœurs, ne fait d'abord qu'vne legere playe, qui s'accroist neanmoins insensiblement, parce que la fleche s'enfonce si avant peu à peu qu'il est difficile de la tirer. Par où il est demonstré, que les blessures d'amour semblent douces au commencement, mais que le temps les envenime, & les rend quelquefois incurables, tant s'en faut qu'il les guerisse.",
+        "Quant au miroir qu'elle tient en main, c'est la beauté mesme; où plus vn amant se regarde, & plus il se plaist à aimer l'objet qui luy est representé, si bien que le plaisir qu'il y prend luy en fait desirer la jouïssance.",
+        "Le dragon sur qui elle est assise, apprend aux amans à se tenir sur leurs gardes; parce qu'où la beauté se rencontre, c'est là qu'ordinairement l'excés de l'amour se mesle au venin de la jalousie.",
+        "Ie ne parle point de sa nudité, qui veut dire que les femmes, quelque mine qu'elles fassent, se piquent si fort des beautez du corps, que pour les faire admirer, les moins honnestes d'entr'elles, comme dit vn ancien Poëte, en estalleroient volontiers toutes les parties, si elles n'estoient retenuës par la honte, ou par la timidité qui est naturelle à leur sexe."
+      ],
       "en": "Feminine Beauty",
-      "group_en": "B"
+      "group_en": "B",
+      "scans": [
+        "p1-019-1.jpg",
+        "p1-019-2.jpg"
+      ],
+      "text_en": [
+        "She is painted naked, with a garland of lilies and violets, a dart in one hand, a mirror in the other, and a dreadful dragon beneath her.",
+        "She is crowned with lilies, because this flower, naturally white, pleasing, and firm in its petals, is an ancient hieroglyph of beauty; though it passes more quickly than the violets, which for that reason are joined to her garland.",
+        "The dart with which she wounds hearts at first makes only a slight wound, which nonetheless grows imperceptibly, because the arrow sinks in little by little so deeply that it is hard to draw out. By which it is shown that the wounds of love seem sweet at first, but that time envenoms them, and sometimes makes them incurable, far from healing them.",
+        "As for the mirror she holds in her hand, it is beauty itself: the more a lover gazes into it, the more he delights in loving the object shown to him, so that the pleasure he takes in it makes him desire its enjoyment.",
+        "The dragon on which she is seated teaches lovers to be on their guard; for wherever beauty is found, there the excess of love is commonly mingled with the venom of jealousy.",
+        "I say nothing of her nakedness, which means that women, whatever airs they give themselves, take such pride in bodily beauty that, to make it admired, the least modest among them, as an ancient Poet says, would gladly display every part of it, were they not restrained by shame, or by the timidity natural to their sex."
+      ]
     },
     {
       "id": "p1-20",
@@ -1207,12 +1248,45 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-20.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Фигура с головой, скрытой в облаке, с лилией в одной руке",
+          "meaning": "Красота — самый неизъяснимый для человеческого ума предмет; облако означает её недоступность полному постижению смертными",
+          "what_en": "A figure whose head is hidden in a cloud, holding a lily",
+          "meaning_en": "Beauty is the most inexpressible subject for the human mind; the cloud signifies its inaccessibility to full understanding by mortals"
+        },
+        {
+          "what": "Циркуль и шар в другой руке",
+          "meaning": "Истинная красота имеет точные пропорции и меры, соразмерные месту и времени",
+          "what_en": "A compass and a globe in her other hand",
+          "meaning_en": "True beauty has exact proportions and measures, fitted to place and time"
+        }
+      ],
+      "text_ru": [
+        "Изобразить её не менее трудно, чем смотреть на неё, не будучи ослеплённым окружающими её лучами. И хотя она неохотно внимает хвалам, что воздаёт ей Молва, не способная говорить о ней достаточно достойно, у обеих тем не менее голова окутана облаком. При этом в одной руке она держит лилию, а в другой — циркуль и шар.",
+        "Она скрывает голову в облаках, ибо нет ничего темнее для человеческого ума и ничего такого, о чём язык людей говорил бы с большим трудом, чем о Красоте. Если же её надлежит определить метафорически, то она, по мнению платоников, есть не что иное, как сияющий свет, источником которого служит лик Божий. Ибо первейшая из всех Красот есть с Ним одно и то же: так что если смертные и отваживаются говорить о ней, то всё, что они об этом говорят, они черпают из Его особой благодати и глубокой премудрости, сообщающей им это понятие. Но как те, кто смотрится в зеркало, едва отойдя от него, теряют память о виденном; так и мы, покуда рассматриваем Красоту лишь в вещах смертных, не можем высоко вознестись к созерцанию этого чистого и простого света, от которого происходят все прочие светы. ¶Нет нигде ничего видимого, / Что не было бы образовано идеей, / Которую порождает любовь великого Бога, / Коим руководится разум.",
+        "Цветущая лилия, которую она вплетает меж своих лучей, означает равное соответствие черт и красок; то же показывают нам циркуль и шар, которые она держит в другой руке. Ибо истинная Красота, какова бы ни была её природа, имеет свои пропорции и меры, соразмерные времени и месту. Так, например, место определяет Красоту в устроении Провинций, Городов, Храмов, Площадей, человека и вообще всего, что подвластно взору или чем-либо ему нравится — будь то соразмерностью форм, тонкостью черт или приятным сочетанием красок и теней, их оттеняющих. Время же, со своей стороны, должным образом управляя тонами, мерами и ритмами, образует из этого сладостную гармонию, благодаря которой все эти и подобные им вещи, будучи хорошо согласованы, на диво нравятся и по праву зовутся Прекрасными. Более того, подобно тому как тонкостью своего аромата лилия щекочет чувства и пробуждает дух, так и Красота побуждает сердца любить вещи, причастные её природе и по себе самим достойные любви."
+      ],
+      "text_fr": [
+        "Il n'est pas moins difficile de la peindre que de la regarder, sans estre ébloüy des rayons qui l'environnent. Et bien qu'elle n'écoute pas volontiers les louanges que luy donne la renommée, qui n'en peut parler assez dignement, l'vne & l'autre neanmoins ont la teste enveloppée d'vn nuage. Elle tient au reste vn lys d'vne main, & de l'autre vn compas & vne boule.",
+        "Elle cache sa teste dans les nuës, parce qu'il n'est rien de si obscur à l'esprit humain, ny rien dequoy la langue des hommes puisse parler plus difficilement que de la Beauté. Que s'il la faut definir par metaphore, elle n'est autre chose, selon les Platoniciens, qu'vne lumiere resplendissante, la source de laquelle est la face de Dieu. Car la premiere de toutes les Beautez n'est qu'vne mesme chose avec luy: tellement que si les mortels se hazardent d'en parler, tout ce qu'ils en disent, ils le tiennent de sa grace particuliere, & de sa profonde sapience, qui leur en communique l'idée. Mais comme ceux qui se regardent dans vn miroir, n'en sont pas plûtost éloignez qu'ils perdent le souvenir de ce qu'ils ont veu; ainsi tant que nous ne considerons la Beauté que dans les choses mortelles, nous ne pouvons pas nous élever hautement à la contemplation de cette pure & simple clarté, d'où procedent toutes les autres lumieres. ¶Rien ne se voit en aucun lieu, / Qui ne soit formé d'vne idée, / Qu'engendre l'amour du grand Dieu, / Par qui la raison est guidée.",
+        "Le lys fleurissant qu'elle mesle parmy ses rayons, signifie vne égale correspondance de lineamens & de couleurs; ce qui nous est encore demonstré par le compas & le globe qu'elle tient de l'autre main. Car la vraye Beauté, de quelque nature qu'elle soit, a ses proportions & ses mesures, qui s'ajustent au temps & au lieu. Comme par exemple, le lieu determine la Beauté en la disposition des Provinces, des Villes, des Temples, des Places, de l'homme, & generalement de toutes les choses qui sont sujettes à l'œil, ou qui luy plaisent en quelque sorte; soit par la symmetrie des figures, soit par la delicatesse des traits, soit par l'agreable mélange des couleurs & des ombrages qui les rehaussent. Le temps tout de mesme reglant comme il faut les tons, les mesures & les cadences, en forme vne douce harmonie, qui fait que ces choses & autres semblables estant bien ajustées plaisent à merveille, & sont à bon droit appellées Belles. Davantage, comme par la subtilité de son odeur, le lys chatouille les sens, & reveille les esprits; la Beauté de mesme incite les cœurs à aimer les choses qui tiennent de sa nature, & qui sont aimables d'elles-mesmes."
+      ],
       "en": "Celestial Beauty",
-      "group_en": "B"
+      "group_en": "B",
+      "scans": [
+        "p1-020-1.jpg",
+        "p1-020-2.jpg",
+        "p1-020-3.jpg"
+      ],
+      "text_en": [
+        "It is no less difficult to paint her than to look upon her without being dazzled by the rays that surround her. And although she does not willingly listen to the praises given her by Fame, who cannot speak of her worthily enough, both nonetheless have their heads wrapped in a cloud. She holds, besides, a lily in one hand, and in the other a compass and a globe.",
+        "She hides her head in the clouds, because there is nothing so obscure to the human mind, nor anything of which men's tongues can speak with more difficulty, than Beauty. If she must be defined by metaphor, she is, according to the Platonists, nothing but a resplendent light, the source of which is the face of God. For the first of all Beauties is one and the same thing with Him: so that if mortals venture to speak of it, whatever they say of it they owe to His particular grace and profound wisdom, which imparts the idea of it to them. But as those who look at themselves in a mirror, no sooner step away from it than they lose the memory of what they saw; so too, as long as we consider Beauty only in mortal things, we cannot rise high enough to contemplate that pure and simple light from which all other lights proceed. ¶Nothing is seen in any place / That is not formed of an idea, / Begotten by the love of the great God, / By whom reason is guided.",
+        "The flowering lily she mingles among her rays signifies an equal correspondence of lineaments and colors; which is further shown us by the compass and the globe she holds in her other hand. For true Beauty, of whatever nature it be, has its proportions and its measures, fitted to time and place. As, for example, place determines Beauty in the arrangement of Provinces, Cities, Temples, public Squares, of man, and generally of all things subject to the eye, or that please it in any way — whether by symmetry of form, delicacy of feature, or the pleasing blend of colors and shadows that set them off. Time, in like manner, by duly ordering tones, measures, and cadences, forms of them a sweet harmony, which makes these and similar things, when well arranged, please wonderfully, and rightly be called Beautiful. Moreover, just as by the subtlety of its scent the lily delights the senses and awakens the spirits, so Beauty likewise moves hearts to love the things that partake of her nature, and that are lovable in themselves."
+      ]
     },
     {
       "id": "p1-21",
@@ -1225,12 +1299,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-21.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в венке из переплетённых листьев виноградной лозы и вяза",
+          "meaning": "Естественная взаимная привязанность этих двух растений — символ крепкого супружеского союза",
+          "what_en": "A woman crowned with intertwined vine and elm leaves",
+          "meaning_en": "The natural mutual attachment of these two plants symbolises a strong marital union"
+        },
+        {
+          "what": "Зимородок, которого она прижимает к груди",
+          "meaning": "Отсылка к мифу об Алкионе, превращённой в зимородка из любви к погибшему мужу — символ супружеской верности",
+          "what_en": "A kingfisher pressed to her breast",
+          "meaning_en": "An allusion to the myth of Alcyone, turned into a kingfisher for love of her drowned husband — a symbol of marital devotion"
+        }
+      ],
+      "text_ru": [
+        "Этот образ лучше всего объясняется через взаимное единение, которое должно быть между двумя супругами. Он представляет приятную женщину, увенчанную листьями виноградной лозы и вяза, переплетёнными вперемешку. Левая рука, которую она простирает, словно являет некое услужливое действие; правая же означает её удивительную нежность к зимородку, которого она крепко прижимает к своей прекрасной груди.",
+        "Её венок — символ любви, по той великой взаимной склонности, что от природы существует между виноградной лозой и вязом, ¶Чей крепкий союз, скованный Любовью, / Словно соединил их под игом Гименея.",
+        "Что до зимородка, которого она прижимает к груди, это намёк на миф об Алкионе, жене Кеика, царя Фракии, которая так любила своего мужа, что, узнав истину сна, привидевшегося ей о его гибели в море, с горя бросилась туда же. Это и дало повод древним Поэтам вымыслить, что она была превращена в птицу, носящую её имя; а впоследствии побудило г-на Малерба сказать: ¶Так была она глуха к утешению, / Когда нашла на берегу / Подтверждение той потери, что ей привиделась во сне, — / Утраты той, чьи муки / Впервые явили Эгейскому морю / Гнездо зимородков.",
+        "Недаром изобретательный Овидий придумал столь прекрасное превращение, дабы тем сильнее побудить женщин к любви их мужей. Ибо, по правде говоря, самка зимородка любит своего супруга так сильно, что, по свидетельству Плутарха, если случается, что слабость возраста делает его отяжелевшим для полёта, она несёт его на своих плечах: кормит его и облегчает его участь, берёт на себя большую часть его тягот и сопровождает его вплоть до самой смерти."
+      ],
+      "text_fr": [
+        "Cette figure ne se peut mieux expliquer que de l'vnion mutuelle qu'il y doit avoir entre deux personnes mariées. Elle represente vne femme agreable, couronnée de feuilles de vigne & d'ormeau, enlacées pesle-mesle. Le bras gauche qu'elle tend, semble demonstrer quelque action officieuse; comme le droit signifie sa merveilleuse tendresse envers vn alcion, qu'elle tient estroitement serré contre sa belle gorge.",
+        "Sa guirlande est vn symbole d'amour, pour la grande sympathie qu'il y a naturellement entre la vigne & l'ormeau, ¶Dont la forte vnion par l'Amour enchaisnée, / Semble les avoir joint sous le joug d'Hymenée.",
+        "Quant à l'alcion qu'elle estreint contre son sein, c'est vne allusion à la fable d'Alcione femme de Ceïx, Roy de Thrace, qui eut tant d'amour pour son mary, qu'ayant sceu la verité du songe qu'elle avoit fait de sa mort, avenuë sur la mer, elle s'y precipita de regret qu'elle en eut. Ce qui donna sujet aux anciens Poëtes de feindre qu'elle avoit esté transformée en cet oiseau qui porte son nom; & ce qui a fait dire depuis à M. Malherbe; ¶Ainsi fut sourde au reconfort, / Quand elle eut trouvé sur le bord / La perte qu'elle avoit songée, / Celle de qui les passions, / Firent voir à la mer Egée / Le premier nid des Alcions.",
+        "Ce n'est donc pas sans raison que l'ingenieux Ovide s'est avisé d'vne si belle metamorphose, afin d'obliger plus fort les femmes à l'amour de leurs maris. Car à vray dire, la femelle de l'alcion aime tellement le sien, qu'au rapport de Plutarque, s'il arrive que la foiblesse de l'âge le rende pesant au vol, elle le porte sur ses épaules: elle le nourrit & le soulage; elle prend la meilleure part de ses maux, & luy tient compagnie jusques à la mort."
+      ],
       "en": "Benevolence",
-      "group_en": "B"
+      "group_en": "B",
+      "scans": [
+        "p1-021-1.jpg",
+        "p1-021-2.jpg"
+      ],
+      "text_en": [
+        "This figure can best be explained by the mutual union that ought to exist between two married persons. It represents a pleasing woman, crowned with vine leaves and elm leaves, intertwined together. The left arm she extends seems to show some obliging act; the right signifies her wondrous tenderness toward a kingfisher, which she holds pressed tightly to her fair bosom.",
+        "Her garland is a symbol of love, for the great natural sympathy between the vine and the elm, ¶Whose strong union, chained by Love, / Seems to have joined them beneath the yoke of Hymen.",
+        "As for the kingfisher she clasps to her breast, it alludes to the fable of Alcyone, wife of Ceyx, King of Thrace, who so loved her husband that, learning the truth of the dream she had had of his death at sea, she threw herself in out of grief. Which gave the ancient Poets occasion to feign that she was transformed into the bird that bears her name; and which afterward made Monsieur Malherbe say: ¶Thus was she deaf to comfort, / When she found upon the shore / The loss she had foreseen in her dream — / She whose sorrows first showed / The Aegean Sea / The first nest of the Kingfishers.",
+        "It is not, then, without reason that ingenious Ovid devised so beautiful a metamorphosis, the better to bind women to the love of their husbands. For, to tell the truth, the female kingfisher loves her mate so much that, according to Plutarch, should it happen that the weakness of age makes him too heavy to fly, she carries him upon her shoulders: she feeds him and eases him, takes the greater share of his troubles, and keeps him company until death."
+      ]
     },
     {
       "id": "p1-22",
@@ -1243,12 +1352,60 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-22.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Дама с золотым венцом на голове, в лучах солнца, с раскрытыми в приветствии руками",
+          "meaning": "Благосклонность — благородное чувство, побуждающее ценить честь, оказанную даже людьми низшего положения",
+          "what_en": "A lady with a golden crown, haloed by the sun, her arms open in welcome",
+          "meaning_en": "Benignity is a noble feeling that moves one to value honour shown even by those of lesser standing"
+        },
+        {
+          "what": "Сосновая ветвь в правой руке",
+          "meaning": "Как высокое дерево даёт лишь пользу растущим под ним растениям, так знатный и благородный человек не вредит нижестоящим, а защищает их",
+          "what_en": "A pine branch in her right hand",
+          "meaning_en": "As a tall tree gives only benefit to the plants beneath it, so a noble, highborn person does not harm those below but shelters them"
+        },
+        {
+          "what": "Слон позади неё",
+          "meaning": "Благороднейшее из животных, которое, по Плинию, из доброты оберегает и выводит из опасности заблудившихся людей",
+          "what_en": "An elephant behind her",
+          "meaning_en": "The noblest of animals, which, according to Pliny, out of kindness guides and leads lost travellers to safety"
+        }
+      ],
+      "text_ru": [
+        "Эта прекрасная Дама, чьё лицо столь чарующе, несёт на себе все признаки совершенной Благосклонности. Её белокурые волосы украшены золотым венцом, блеск которого удваивается блеском прекрасного солнца, сияющего над её головой. Она одета в богатое платье, и по тому, как она держит руки раскрытыми, кажется, что она только и желает, что благосклонно принять всех и каждого. В правой руке она несёт сосновую ветвь, рядом с ней слева стоит кресло, а позади неё — слон.",
+        "Прежде чем объяснять этот образ, уместно дать определение добродетели, которую он представляет. Благосклонность, по Аристотелю, есть не что иное, как чувство, или, если угодно, склонность, естественно побуждающая человека великодушного и благородного ценить честь, которую он получает от порядочных людей, и в особенности от тех, кто ниже его. Отсюда видно, что, собственно говоря, эта добродетель свойственна лишь благородным душам, обладающим всеми качествами, необходимыми, дабы её взращивать. И поскольку истинно то, что честь есть непосредственный предмет Благосклонности, отсюда следует, что это самая благородная добродетель, какой может обладать великодушный Государь.",
+        "Сказанное мною — явное доказательство той крайней кротости, что видна в лице этой Дамы, раскрывающей объятия лишь для того, чтобы дать свободный доступ приближающимся к ней и своим поступком показать им, сколь достойна она быть любимой: она и впрямь столь мила, что ¶Говорят, будто её красота, не имеющая себе равных, / Способна очаровать сердца любовью и восхищением.",
+        "А поскольку её великую скромность сопровождает царственное величие, для этого на голове у неё золотой венец.",
+        "Не без особого смысла держит она в правой руке сосновую ветвь, истинный символ Благосклонности. Ибо хотя дерево это высоко, а тень его весьма велика, растения внизу получают от неё одну лишь пользу, как замечает Теофраст. Это учит нас, что человек высокого рождения и знатного рода никогда не вредит тем, кто ниже его, и что его покровительство служит им подобно тени, укрывающей от насилия злых людей.",
+        "Здесь же, как ещё один символ Благосклонности государей и вельмож, добавляют самое большое и благородное из всех животных — слона: причину чего естествоиспытатели усматривают в том, что у него нет желчи; но можно, вслед за Плинием, сказать и больше — что это животное обладает удивительной остротой ума и чувствами, весьма близкими к чувствам человеческим. Приводимое тому доказательство не из последних: а именно, что если в какой-нибудь пустыне он встречает заблудившегося человека, то, дабы не испугать его, сперва отступает в сторону, а затем, чтобы придать ему смелости, идёт впереди и служит ему проводником, пока понемногу не выведет его на большую дорогу. После столь замечательного поступка что можно сказать иное, кроме того, что это — поразительное проявление доброты этого животного, которое, имея возможность вредить, не желает этого и находит удовольствие лишь в том, чтобы делать добро? Таковы же по природе своей и добрые Государи, которые великодушным побуждением помогают своим бедным подданным, наставляют их, когда они сбились с пути, и дают им спасительное убежище от преследований тех, кто хочет их угнетать. И если внимательно перелистать древнюю историю, в ней, без сомнения, найдётся, что делами милосердия и доброты Александры и Цезари стяжали больше лавров, чем самыми памятными своими ратными подвигами."
+      ],
+      "text_fr": [
+        "Cette belle Dame, dont le visage est si charmant, a toutes les marques d'vne parfaite Benignité. Ses cheveux blonds sont ornez d'vne couronne d'or, l'éclat de laquelle se redouble par celuy d'vn beau soleil, qui rayonne sur sa teste. Elle est habillée d'vne riche robe, & de la façon qu'elle tient les bras ouverts, il semble qu'elle ne demande pas mieux que d'accueillir favorablement tout le monde. En sa main droite elle porte vne branche de pin, ayant vne chaire à son costé gauche, & vn elephant derriere elle.",
+        "Avant qu'expliquer cette figure, il est à propos que nous donnions la definition de la vertu qu'elle represente. La Benignité n'est donc autre chose, selon Aristote, Qu'vne affection, ou si l'on veut, vne inclination, qui porte naturellement vne personne genereuse & magnanime, à estimer l'honneur qu'elle reçoit des honnestes gens, & particulierement de ceux qui luy sont inferieurs. Par où l'on peut voir, qu'à proprement parler, cette vertu n'appartient qu'aux ames genereuses, qui ont toutes les bonnes qualitez necessaires à la bien cultiver. Or comme il est veritable que l'honneur est immediatement l'objet de la Benignité, il s'ensuit de là, qu'elle est la plus noble vertu que puisse avoir vn genereux Prince.",
+        "De ce que je viens de dire est vne preuve bien manifeste de l'extreme douceur qui se remarque dans le visage de cette Dame, qui n'a les bras ouverts que pour donner vn libre accés à ceux qui l'abordent, & leur témoigner par son action combien elle merite d'estre aimée: aussi est-elle si aimable, ¶Qu'on dit que sa beauté, qui n'a point de pareille, / Peut enchanter les cœurs d'amour & de merveille.",
+        "Et dautant que sa grande modestie est accompagnée d'vne majesté royale, elle a pour cet effet vne couronne d'or sur la teste.",
+        "Ce n'est pas encore sans vn mystere particulier qu'elle tient en sa main droite vn rameau de pin, vray symbole de Benignité. Car bien que cet arbre soit haut, & son ombre fort grande, si est-ce que les plantes qui sont en bas n'en reçoivent que de l'vtilité, comme le remarque Teophraste. Ce qui nous apprend, qu'vn homme de haute naissance & d'illustre tige, n'est jamais nuisible à ceux qui sont au dessous de luy, & que sa protection leur est comme vn ombre, pour les mettre à couvert de la violence des méchans.",
+        "L'on ajoûte icy pour vn autre symbole de la Benignité des Princes & des Seigneurs, le plus grand & le plus noble de tous les animaux, qui est l'elephant: Dequoy les Naturalistes attribuent la cause à ce qu'il n'a point de fiel: mais l'on peut dire de plus avec Pline, que cet animal a de merveilleuses lumieres d'esprit, & des sentimens qui approchent fort de ceux des creatures humaines. Cette preuve que l'on en donne n'est pas des moindres; à sçavoir, que si dans quelque desert il rencontre vne personne égarée, pour ne la point effrayer il s'en écarte d'abord, puis pour luy donner courage, il marche devant, & luy sert de guide, jusques à ce qu'il l'ait remise peu à peu dans le grand chemin. Aprés vne action si remarquable, que peut-on dire autre chose, sinon que c'est vn prodigieux effet de la bonté de cet animal, qui pouvant nuire ne le veut pas, & ne se plaist qu'à faire du bien? De ce mesme naturel sont les bons Princes, qui par vne inclination genereuse assistent leurs pauvres sujets, les redressent quand ils sont fourvoyez, & leur donnent des azyles salutaires contre les persecutions de ceux qui les veulent opprimer. Que si l'on feuillette bien l'ancienne histoire, l'on y trouvera sans doute, que par des actions de clemence & de bonté, les Alexandres & les Cesars ont plus cueilly de lauriers, que par leurs plus memorables faits d'armes."
+      ],
       "en": "Benignity",
-      "group_en": "B"
+      "group_en": "B",
+      "scans": [
+        "p1-022-1.jpg",
+        "p1-022-2.jpg",
+        "p1-022-3.jpg"
+      ],
+      "text_en": [
+        "This beautiful Lady, whose face is so charming, bears every mark of a perfect Benignity. Her fair hair is adorned with a golden crown, whose brilliance is doubled by that of a fine sun shining upon her head. She is dressed in a rich robe, and by the way she holds her arms open, she seems to wish for nothing more than to welcome everyone favorably. In her right hand she carries a pine branch, with a chair at her left side, and an elephant behind her.",
+        "Before explaining this figure, it is fitting that we give the definition of the virtue it represents. Benignity, then, according to Aristotle, is nothing but a feeling, or if one will, an inclination, which naturally leads a generous and magnanimous person to value the honor he receives from honest people, and particularly from those beneath him. By which it may be seen that, properly speaking, this virtue belongs only to generous souls, who possess all the good qualities needed to cultivate it well. And as it is true that honor is immediately the object of Benignity, it follows that it is the noblest virtue a generous Prince can possess.",
+        "What I have just said is manifest proof of the extreme gentleness remarked in this Lady's face, who keeps her arms open only to give free access to those who approach her, and to show them by her action how worthy she is of being loved: so lovable is she indeed, that ¶It is said her beauty, which has no equal, / Can enchant hearts with love and wonder.",
+        "And since her great modesty is accompanied by a royal majesty, she has for that purpose a golden crown upon her head.",
+        "Nor is it without a particular meaning that she holds in her right hand a branch of pine, a true symbol of Benignity. For although this tree is tall, and its shade quite large, the plants below receive from it only benefit, as Theophrastus notes. Which teaches us that a man of high birth and illustrious stock is never harmful to those beneath him, and that his protection is to them like a shade, sheltering them from the violence of the wicked.",
+        "Here is added, as another symbol of the Benignity of Princes and Lords, the greatest and noblest of all animals, the elephant: the cause of which Naturalists attribute to its having no gall; but one may further say, with Pliny, that this animal has marvelous powers of mind, and feelings that come very close to those of human creatures. The proof given of this is not among the least: namely, that if in some desert it meets a lost person, so as not to frighten them it first steps aside, then, to give them courage, walks ahead and serves as their guide, until it has little by little brought them back to the highway. After so remarkable an act, what else can be said but that it is a prodigious effect of this animal's goodness, which, though able to harm, does not wish to, and delights only in doing good? Of this same nature are good Princes, who by a generous inclination assist their poor subjects, set them right when they have gone astray, and grant them saving refuge against the persecutions of those who would oppress them. And should one leaf carefully through ancient history, one will doubtless find that by acts of clemency and goodness the Alexanders and the Caesars gathered more laurels than by their most memorable feats of arms."
+      ]
     },
     {
       "id": "p1-23",
