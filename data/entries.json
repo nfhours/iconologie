@@ -2472,12 +2472,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-43.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша, идущий во тьме с посохом и фонарём",
+          "meaning": "Малое знание истины в юном возрасте повергает в неуверенность; посох и фонарь — опыт и разум, помогающие двигаться дальше или остановиться",
+          "what_en": "A youth walking in darkness with a staff and lantern",
+          "meaning_en": "Little knowledge of truth at a young age brings uncertainty; the staff and lantern are experience and reason, helping one to go on or stop"
+        }
+      ],
+      "text_ru": [
+        "Его изображают в виде юного мальчика, идущего во тьме, держащего в одной руке посох, а в другой — фонарь.",
+        "То, что называют Сомнением, есть, собственно говоря, смятение ума относительно того, чего мы не знаем, а следовательно, и тела — в делах действия и труда.",
+        "Его изображают молодым, ибо в этом возрасте малое знание истины, каким мы обладаем, повергает нас в неуверенность относительно всех вещей.",
+        "Посох и фонарь — символы опыта и разума, с помощью которых тот, кто сомневается в том, что ему делать, может, если пожелает, остановиться или же продолжить путь, полагаясь на этих двух проводников."
+      ],
+      "text_fr": [
+        "On le represente par vn jeune garçon, qui marche dans les tenebres, tenant vn baston d'vne main, & de l'autre vne lanterne.",
+        "Ce que l'on appelle Doute, est à proprement parler, vn embarras d'esprit touchant ce qu'on ne sçait pas, & de corps par consequent, en matiere d'agir & de travailler.",
+        "On le dépeint jeune, parce qu'en cet âge-là, le peu de connoissance que nous avons de la verité, nous met dans l'incertitude de toutes choses.",
+        "Le baston & la lanterne sont des symboles de l'experience & de la raison, par le moyen desquelles celuy qui doute de ce qu'il doit faire, peut s'arrester s'il veut, ou passer outre à la faveur de ces deux guides."
+      ],
       "en": "Doubt",
-      "group_en": "D"
+      "group_en": "D",
+      "scans": [
+        "p1-043-1.jpg",
+        "p1-043-2.jpg"
+      ],
+      "text_en": [
+        "He is represented as a young boy, walking in the darkness, holding a staff in one hand, and in the other a lantern.",
+        "What is called Doubt is, properly speaking, a perplexity of mind concerning what one does not know, and consequently of the body, in matters of acting and working.",
+        "He is depicted young, because at that age the little knowledge we have of truth puts us in uncertainty about all things.",
+        "The staff and the lantern are symbols of experience and reason, by means of which he who doubts what he ought to do may, if he wishes, stop, or press on, relying on these two guides."
+      ]
     },
     {
       "id": "p1-44",
@@ -2490,12 +2519,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-44.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Почтенная дама со свинцовым отвесом в правой руке",
+          "meaning": "Как отвес выравнивает неровности в строительстве, так истинная Рассудительность приноравливается к человеческим несовершенствам, не изменяя справедливости",
+          "what_en": "A venerable lady with a mason's plumb-line in her right hand",
+          "meaning_en": "As the plumb-line levels irregularities in building, true Discretion accommodates human imperfections without abandoning justice"
+        },
+        {
+          "what": "Верблюд на коленях",
+          "meaning": "Подобно верблюду, который никогда не берёт груз сверх своих сил, рассудительный человек не предпринимает ничего некстати",
+          "what_en": "A camel upon her knees",
+          "meaning_en": "Like the camel, which never carries a load beyond its strength, the discreet man undertakes nothing unfitting"
+        }
+      ],
+      "text_ru": [
+        "Эта почтенная и исполненная величия Дама склоняет голову влево и поднимает руку, словно являя сострадание к кому-то, держа свинцовый отвес в правой руке и верблюда на коленях.",
+        "Отвес, который она несёт (достаточно известное в Архитектуре орудие, предназначенное служить Каменщику мерилом для снятия размеров строения, выравнивания камней по уровню и сглаживания неровностей), означает, что истинная Рассудительность приноравливается к человеческим несовершенствам, никогда, однако, не отступая от справедливого, будучи основана на беспристрастии, как неотделимая от него.",
+        "Помимо сказанного, не без веской причины то, что делает её наиболее похвальной, означено верблюдом, который ей дан. Ибо по примеру этого животного, столь благоразумного, что оно никогда не несёт ношу сверх своих сил, осмотрительный человек не предпринимает ничего некстати. Поистине верно, говорит Исидор, что пороком должно называть всё, в чём недостаёт рассудительности, а добродетелью — всё, в чём её в избытке."
+      ],
+      "text_fr": [
+        "Cette Dame venerable & pleine de majesté, penche la teste du costé gauche, & hausse le bras, comme si elle témoignoit avoir pitié de quelqu'vn, ayant vn plomb en sa main droite, & vn chameau sur ses genoux.",
+        "Le plomb qu'elle porte (instrument assez connu dans l'Architecture, le propre duquel est de servir de regle au Masson pour prendre les dimensions d'vn bastiment, ajuster les pierres au niveau, & en applanir les inégalitez) signifie que la vraye Discretion s'accommode aux imperfections humaines, sans que toutefois elle s'écarte jamais de ce qui est juste, estant fondée sur l'équité, comme inseparable d'avec elle.",
+        "Outre ce que nous venons de dire; ce n'est pas sans beaucoup de raison que ce qui la rend le plus recommandable, est signifié par le chameau qu'on luy donne. Car à l'exemple de cet animal, qui est si prudent, qu'il ne porte jamais de fardeau qui soit au dessus de ses forces, l'homme avisé n'entreprend rien que bien à propos. Aussi est-il vray, dit Isidore, que l'on doit appeller vice tout ce qui manque de discretion, & vertu tout ce qui en abonde."
+      ],
       "en": "Discretion",
-      "group_en": "D"
+      "group_en": "D",
+      "scans": [
+        "p1-044-1.jpg"
+      ],
+      "text_en": [
+        "This venerable Lady, full of majesty, inclines her head to the left side, and raises her arm, as if showing pity for someone, holding a plumb-line in her right hand, and a camel upon her knees.",
+        "The plumb-line she carries (an instrument well known in Architecture, whose proper use is to serve the Mason as a rule for taking the dimensions of a building, leveling the stones, and smoothing out irregularities) signifies that true Discretion accommodates itself to human imperfections, without, however, ever departing from what is just, being founded upon equity, as inseparable from it.",
+        "Beyond what we have just said, it is not without good reason that what makes her most commendable is signified by the camel given to her. For, after the example of this animal, which is so prudent that it never carries a burden beyond its strength, the wise man undertakes nothing except fittingly. It is indeed true, says Isidore, that whatever lacks discretion must be called vice, and whatever abounds in it, virtue."
+      ]
     },
     {
       "id": "p1-45",
@@ -2508,12 +2568,46 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-45.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Дева в белом с огнём над головой и двумя пылающими лазоревыми шарами в руках",
+          "meaning": "Белизна означает чистоту сущности трёх Божественных Лиц; три равных пламени (или одно, разделённое натрое) — их равенство и единство природы",
+          "what_en": "A maiden in white with fire above her head and two flaming azure globes in her hands",
+          "meaning_en": "The whiteness signifies the purity of the three Divine Persons' essence; the three equal flames (or one divided into three) signify their equality and the unity of nature"
+        },
+        {
+          "what": "Круглая форма пылающих шаров",
+          "meaning": "Символ вечности, неотделимой от Божественной Сущности; человек прокладывает к ней путь заслугами и заслугой Христа",
+          "what_en": "The round shape of the flaming globes",
+          "meaning_en": "A symbol of eternity, inseparable from the Divine Essence; man opens a path to it through merit and the merit of Christ"
+        }
+      ],
+      "text_ru": [
+        "Эта дева, облачённая в белое, с огнём над головой и двумя лазоревыми шарами в руках, из которых испаряется пламя, есть образ Божества.",
+        "Белизна её одеяния означает чистоту сущности трёх Божественных Лиц — дивный предмет познания и созерцания Богословов. Это неплохо выражено тремя равными пламенами, сделанными одинаковыми, дабы означить равенство трёх Божественных Лиц; либо же единым пламенем, разделённым натрое, дабы также означить единство природы через различие тех же Лиц, о коих мы только что говорили.",
+        "Кроме того, белый цвет чрезвычайно подобает Божеству, ибо прочие цвета не имеют в нём доли; подобно тому как в вещах божественных не входит никакая смесь: доказательством чему служит чудесное Преображение, совершившееся на горе Фавор, где Господь наш явился ученикам Своим в одеянии белее снега.",
+        "Что до двух пылающих шаров, их круглая форма — символ вечности, неотделимой от Божественной Сущности. К тому же эта дева, силящаяся удержать их обеими руками, показывает, что человек прокладывает себе путь к вечности своими заслуживающими дела́ми и заслугой Иисуса Христа."
+      ],
+      "text_fr": [
+        "Cette vierge vestuë de blanc, qui a du feu sur la teste, & en ses mains deux globes d'azur, d'où s'évaporent des flammes, est vne image de la Divinité.",
+        "La blancheur de son habillement signifie la pureté de l'essence des trois Personnes Divines, objet merveilleux de la science & de la contemplation des Theologiens. Ce qui n'est pas mal exprimé par les trois flammes, que l'on a faites égales pour marquer l'égalité des trois Personnes Divines; ou par vne seule flamme divisée en trois, pour denoter pareillement l'vnité de la nature, par la distinction des mesmes Personnes dont nous venons de parler.",
+        "De plus, la couleur blanche convient grandement à la Divinité, parce que les autres couleurs n'y ont point de part; comme dans les choses divines il n'y entre aucune sorte de composition: dequoy sert de preuve la miraculeuse Transfiguration qui se fit sur la montagne de Thabor, où Nostre Seigneur apparut à ses Disciples avec vn habillement plus blanc que la nege.",
+        "Quant aux deux globes enflammez, leur figure ronde est vn symbole de l'eternité, inseparable de l'Essence Divine. D'ailleurs cette vierge qui s'efforce de les soûtenir en ses deux mains, montre que l'homme s'ouvre vn chemin à l'eternité par ses œuvres meritoires, & par le merite de Jesus-Christ."
+      ],
       "en": "Divinity",
-      "group_en": "D"
+      "group_en": "D",
+      "scans": [
+        "p1-045-1.jpg"
+      ],
+      "text_en": [
+        "This maiden, clothed in white, with fire upon her head, and in her hands two azure globes, from which flames evaporate, is an image of Divinity.",
+        "The whiteness of her garment signifies the purity of the essence of the three Divine Persons, a marvelous object of the Theologians' science and contemplation. Which is not badly expressed by the three flames, made equal to mark the equality of the three Divine Persons; or by a single flame divided into three, to denote likewise the unity of nature through the distinction of those same Persons of whom we have just spoken.",
+        "Moreover, the color white suits Divinity exceedingly well, because the other colors have no part in it; just as in divine things no kind of composition enters in: proof of which is the miraculous Transfiguration that took place on Mount Tabor, where Our Lord appeared to his Disciples in raiment whiter than snow.",
+        "As for the two flaming globes, their round shape is a symbol of eternity, inseparable from the Divine Essence. Moreover, this maiden, who strives to hold them up in her two hands, shows that man opens for himself a path to eternity through his meritorious works, and through the merit of Jesus Christ."
+      ]
     },
     {
       "id": "p1-46",
@@ -2526,12 +2620,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-46.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Бледный человек в чёрном одеянии с только что погасшим, ещё дымящимся факелом",
+          "meaning": "Бледность — признак скорби; чёрное — знак траура и лишения света радости; погасший, дымящийся факел уподобляет несчастного, чья жизнь обращается в томление",
+          "what_en": "A pale man in black clothing holding a torch just extinguished, still smoking",
+          "meaning_en": "Pallor is a mark of grief; black, a sign of mourning and the loss of joy's light; the smoking, extinguished torch likens the unfortunate man, whose remaining life becomes mere languor"
+        }
+      ],
+      "text_ru": [
+        "Полагают, что рисунок для этого изображения создал превосходный живописец Зевксис. Это бледный, меланхоличный человек, одетый в чёрное, держащий в руке только что погасший, но ещё дымящийся факел.",
+        "Он бледен, ибо бледность — один из признаков скорби, который трудно скрыть на лице, являющемся образом души.",
+        "Чёрное одеяние его — знак траура; и нет ничего более похожего на мрак, или на лишение того прекрасного света, что служит источником нашей радости, как говорил слепой Товит, рассказывая сыну о своих несчастьях.",
+        "Погасший факел означает, что душа наша, которая, по мнению некоторых Философов, есть не что иное, как огонь, либо почти угасает от силы страданий, либо, по крайней мере, становится не настолько зоркой, чтобы различать в своих поступках то, что ей наиболее свойственно и полезно: кроме того, по правде говоря, несчастного, преследуемого со всех сторон, лучше всего можно уподобить только что погашенному факелу; ибо тогда всё его пламя обращается в дым, подобно тому как вся его оставшаяся жизнь служит лишь тому, чтобы держать его в томлении и делать его несчастье ещё более ощутимым."
+      ],
+      "text_fr": [
+        "L'on tient que l'excellent Peintre Zeuxis a fait le dessein de ce tableau. C'est vn homme pasle, melancolique, & vestu de noir, tenant en main vn flambeau qui vient de s'éteindre, & qui fume encore.",
+        "Il est pasle, parce que cet accident est vne des marques de la douleur, qu'il est difficile de cacher sur le visage, qui est l'image de l'ame.",
+        "Son habillement noir est vne marque de dueil; aussi n'y en a-t'il point de plus semblable à l'obscurité, ou à la privation de cette belle lumiere, qui est la source de nostre joye, comme disoit l'aveugle Tobie, quand il racontoit ses infortunes à son fils.",
+        "Le flambeau éteint signifie que nostre ame, qui n'est que feu, selon quelques Philosophes, ou s'éteint presque par la violence des douleurs, ou qu'à tout le moins elle n'est pas si clair-voyante, qu'elle puisse discerner en ses actions ce qui luy est le plus propre & le plus vtile: outre qu'à vray dire, vn malheureux qui se voit persecuté de toutes parts, ne se peut mieux comparer qu'à vne torche qu'on vient d'éteindre; car alors toute sa flamme se resout en fumée, comme tout ce qu'il a de vie ne sert qu'à le tenir en langueur, & à luy rendre son infortune plus sensible."
+      ],
       "en": "Sorrow, Pain",
-      "group_en": "D"
+      "group_en": "D",
+      "scans": [
+        "p1-046-1.jpg",
+        "p1-046-2.jpg"
+      ],
+      "text_en": [
+        "It is held that the excellent Painter Zeuxis made the design for this picture. It is a pale, melancholy man, clothed in black, holding in his hand a torch that has just gone out, and still smokes.",
+        "He is pale, because this occurrence is one of the marks of grief, difficult to hide on the face, which is the image of the soul.",
+        "His black garment is a mark of mourning; nor is there anything more like darkness, or the privation of that beautiful light which is the source of our joy, as blind Tobit said, when telling his son of his misfortunes.",
+        "The extinguished torch signifies that our soul, which is nothing but fire, according to some Philosophers, either nearly goes out from the violence of grief, or at the very least is no longer so clear-sighted as to discern in its actions what is most proper and useful to it: besides, to tell the truth, an unfortunate man who finds himself persecuted on every side can best be compared to a torch that has just been put out; for then all its flame dissolves into smoke, just as whatever life remains to him serves only to keep him in languor, and to make his misfortune more keenly felt."
+      ]
     },
     {
       "id": "p1-47",
