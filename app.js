@@ -129,6 +129,12 @@
   }
   function go(id){ state.scroll = window.scrollY; location.hash = "#/"+id; }
   function toTop(){ var r=root.getBoundingClientRect(); if(r.top<0) window.scrollTo(0, window.scrollY+r.top); }
+  // WebKit (в т.ч. iPadOS) иногда не перерисовывает position:sticky после замены
+  // innerHTML на SPA-переходе — элемент «застревает» в старом положении/размере.
+  // Небольшой форс-reflow после каждого рендера чинит это без видимого мигания.
+  function nudgeRepaint(){
+    requestAnimationFrame(function(){ window.scrollTo(window.scrollX, window.scrollY); });
+  }
 
   function langSwitch(){
     return '<div class="ic-lang" role="group" aria-label="RU / EN">'+
@@ -190,6 +196,7 @@
     });
     fill();
     if(state.scroll){ var y=state.scroll; state.scroll=0; requestAnimationFrame(function(){ window.scrollTo(0,y); }); }
+    nudgeRepaint();
   }
   function chip(v,t){ return '<button type="button" class="ic-chip" data-f="'+v+'" aria-pressed="'+(state.filter===v)+'">'+t+'</button>'; }
   function opt(v,t){ return '<option value="'+v+'"'+(state.sort===v?" selected":"")+'>'+t+'</option>'; }
@@ -287,6 +294,7 @@
     root.querySelectorAll(".ic-fig").forEach(function(f){ f.addEventListener("click",function(){ lightbox(f.getAttribute("data-src")); }); });
     if(hasScans||hasFr) bindOriginal(it);
     toTop();
+    nudgeRepaint();
   }
 
   /* ---------- раздел «Оригинал»: скан / французский текст ---------- */
