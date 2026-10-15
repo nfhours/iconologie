@@ -95,7 +95,7 @@
 .ic-text{max-width:36em}
 .ic-text p{margin:0;text-indent:1.6em;text-align:justify;text-align-last:left;hyphens:auto}
 .ic-text p+p{margin-top:.15em}
-.ic-text p.ic-verse{font-style:italic;text-indent:0;padding-left:1.6em;line-height:1.5;text-align:left;hyphens:manual}
+.ic-text p.ic-verse{font-style:italic;text-indent:0;padding-left:1.6em;line-height:1.5;text-align:left;hyphens:manual;margin:.9em 0}
 .ic-text p.ic-verse+p.ic-verse{margin-top:0}
 .ic-fr-text{font-family:var(--old);font-size:1.08em;line-height:1.55}
 .ic-details{margin-top:34px;border-top:1px solid var(--rule)}
