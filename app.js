@@ -5,7 +5,7 @@
   // Бампать при каждой правке app.css (и, по желанию, когда меняется логика
   // в app.js, завязанная на новую разметку), чтобы браузеры и CDN не отдавали
   // старую закэшированную копию стилей после деплоя.
-  var APP_VER = "12";
+  var APP_VER = "13";
   var me = document.currentScript;
   var BASE = (me && me.src) ? me.src.replace(/[^\/]*$/, "") : "./";
   var root = document.getElementById("iconologie");
@@ -78,7 +78,14 @@
     close:        {ru:"Закрыть", en:"Close"},
     readyYes:     {ru:"Есть гравюра и перевод", en:"Has engraving and translation"},
     readyNo:      {ru:"Ещё не добавлено", en:"Not added yet"},
-    langName:     {ru:"RU", en:"EN"}
+    langName:     {ru:"RU", en:"EN"},
+    aboutLink:    {ru:"О книге", en:"About the book"},
+    aboutTitle:   {ru:"О книге", en:"About the book"},
+    aboutPartial: {ru:"Перевод ещё не завершён — вот что готово на сегодня.", en:"The translation is not finished yet - here is what's ready so far."},
+    plateLink:    {ru:"Смотреть таблицу целиком", en:"View the full plate"},
+    plateTitle:   {ru:"Таблица {n}", en:"Plate {n}"},
+    plateHint:    {ru:"Нажмите на номер, чтобы открыть предмет.", en:"Click a number to open that object."},
+    infoSec:      {ru:"Сведения", en:"Details"}
   };
   function t(key, vars){
     var s = (DICT[key] && (DICT[key][state.lang] || DICT[key].ru)) || key;
@@ -139,7 +146,13 @@
       return html;
     }).join("");
   }
-  function ready(it){ return (it.img&&it.img.length) || (it.text_ru&&it.text_ru.length); }
+  // для книг с просмотром по табличкам (viewer:"plate") готовность значит, что есть
+  // перевод текста, а не только вырезанная картинка — картинка есть у всех объектов
+  // таблицы сразу, это не то же самое, что статья готова.
+  function ready(it, book){
+    if(book && book.meta && book.meta.viewer==="plate") return !!(it.text_ru && it.text_ru.length);
+    return (it.img&&it.img.length) || (it.text_ru&&it.text_ru.length);
+  }
   // заголовок/перевод/группа на текущем языке, с откатом на русский, если EN ещё не готов
   function titleOf(it){ return state.lang==="en" && it.en ? it.en : it.ru; }
   function groupOf(it){ return state.lang==="en" && it.group_en ? it.group_en : it.group; }
@@ -183,40 +196,37 @@
 
   /* ---------- маршрутизация ---------- */
   // Форматы адреса: "#/<slug>/<id>" — карточка; "#/<slug>" — указатель книги;
+  // "#/<slug>/about" — страница «О книге»; "#/<slug>/plate/<n>" — просмотр таблицы
+  // целиком с номерами (только для книг с book.json viewer:"plate");
   // "#/" или пусто — библиотека (когда книга не закреплена через data-book).
   // Старый формат без слага "#/p1-3" по-прежнему работает и ведёт в "iconologie" —
   // так не ломаются ссылки, сохранённые до появления библиотеки.
   function parseHash(){
-    var h = location.hash;
-    var m2 = h.match(/^#\/([a-z][a-z0-9-]*)\/([A-Za-z0-9][A-Za-z0-9-]*)$/);
-    if(m2) return {slug:m2[1], id:m2[2]};
-    var mLegacy = h.match(/^#\/(p[12]-\d+)$/);
-    if(mLegacy) return {slug:"iconologie", id:mLegacy[1]};
-    var m1 = h.match(/^#\/([a-z][a-z0-9-]*)$/);
-    if(m1) return {slug:m1[1], id:null};
-    return {slug:null, id:null};
+    var segs = location.hash.replace(/^#\/?/, "").split("/").filter(Boolean);
+    var slug, rest;
+    if(forcedBook){
+      if(segs[0] === forcedBook){ slug = forcedBook; rest = segs.slice(1); }
+      else { slug = forcedBook; rest = segs; }
+    } else {
+      if(segs.length===1 && /^p[12]-\d+$/.test(segs[0])) return {slug:"iconologie", id:segs[0]};
+      if(!segs.length) return {slug:null};
+      if(!/^[a-z][a-z0-9-]*$/.test(segs[0])) return {slug:null};
+      slug = segs[0]; rest = segs.slice(1);
+    }
+    if(!rest.length) return {slug:slug};
+    if(rest[0]==="about") return {slug:slug, view:"about"};
+    if(rest[0]==="plate" && rest[1]) return {slug:slug, view:"plate", plateNum:rest[1]};
+    return {slug:slug, id:rest[0]};
   }
 
   function route(){
-    if(forcedBook){
-      var h = location.hash;
-      var id = null;
-      var m2 = h.match(/^#\/([a-z][a-z0-9-]*)\/([A-Za-z0-9][A-Za-z0-9-]*)$/);
-      var m1 = h.match(/^#\/([A-Za-z0-9][A-Za-z0-9-]*)$/);
-      if(m2 && m2[1]===forcedBook) id = m2[2];
-      else if(m1) id = m1[1];
-      openBook(forcedBook, function(book){
-        if(!book) return;
-        if(id && book.byId[id]) renderCard(book, book.byId[id]);
-        else renderIndex(book);
-      });
-      return;
-    }
     var p = parseHash();
     if(!p.slug){ renderLibraryHome(); return; }
     openBook(p.slug, function(book){
-      if(!book){ renderLibraryHome(); return; }
-      if(p.id && book.byId[p.id]) renderCard(book, book.byId[p.id]);
+      if(!book){ if(!forcedBook) renderLibraryHome(); return; }
+      if(p.view==="about") renderAbout(book);
+      else if(p.view==="plate") renderPlate(book, p.plateNum);
+      else if(p.id && book.byId[p.id]) renderCard(book, book.byId[p.id]);
       else renderIndex(book);
     });
   }
@@ -225,6 +235,7 @@
 
   function go(book, id){ state.scroll = window.scrollY; location.hash = forcedBook ? "#/"+id : "#/"+book.slug+"/"+id; }
   function goIndex(book){ location.hash = forcedBook ? "" : "#/"+book.slug; }
+  function hrefFor(book, suffix){ return forcedBook ? "#/"+suffix : "#/"+book.slug+"/"+suffix; }
   function toTop(){ var r=root.getBoundingClientRect(); if(r.top<0) window.scrollTo(0, window.scrollY+r.top); }
   // WebKit (в т.ч. iPadOS) иногда не перерисовывает position:sticky после замены
   // innerHTML на SPA-переходе — элемент «застревает» в старом положении/размере.
@@ -281,7 +292,7 @@
     var res = book.items.filter(function(it){
       if(state.filter==="1" && it.part!==1) return false;
       if(state.filter==="2" && it.part!==2) return false;
-      if(state.filter==="ready" && !ready(it)) return false;
+      if(state.filter==="ready" && !ready(it, book)) return false;
       return !nq || nq.split(/\s+/).every(function(w){ return it.key.indexOf(w)>-1; });
     });
     if(state.sort==="ru") res.sort(function(a,b){ return titleOf(a).localeCompare(titleOf(b),state.lang==="en"?"en":"ru"); });
@@ -292,11 +303,13 @@
   function renderIndex(book){
     restoreState(book.slug);
     var items = book.items;
-    var done = items.filter(ready).length, pct = items.length ? Math.round(done*100/items.length) : 0;
+    var done = items.filter(function(it){ return ready(it, book); }).length, pct = items.length ? Math.round(done*100/items.length) : 0;
     var multiPart = book.meta.parts && book.meta.parts.length > 1;
     root.innerHTML =
       '<div class="ic-wrap">'+
-        '<div class="ic-top-row">'+(forcedBook?"":'<button type="button" class="ic-to-lib-link">'+t("toLibrary")+'</button>')+langSwitch()+'</div>'+
+        '<div class="ic-top-row">'+(forcedBook?"":'<button type="button" class="ic-to-lib-link">'+t("toLibrary")+'</button>')+
+          (book.meta.about?'<a class="ic-about-link" href="'+esc(hrefFor(book,"about"))+'">'+t("aboutLink")+'</a>':"")+
+          langSwitch()+'</div>'+
         '<h1 class="ic-title">'+esc(bt(book.meta.title))+'</h1>'+
         '<p class="ic-sub">'+esc(bt(book.meta.subtitle))+'</p>'+
         '<p class="ic-progress">'+t("progress",{done:done,total:items.length})+'<span class="ic-bar"><i style="width:'+pct+'%"></i></span></p>'+
@@ -364,7 +377,7 @@
         '<span class="ic-pg">'+esc(it.page)+'<small>'+(showPart?t("partN",{n:it.part}):t("pageAbbr"))+'</small></span>'+
         '<span><span class="ic-fr">'+(it.num?'<span class="ic-num">'+it.num+'</span>':"")+esc(it.fr)+'</span>'+
         '<span class="ic-ru">'+esc(titleOf(it))+(it.flag?" ("+esc(it.flag)+")":"")+'</span></span>'+
-        '<span class="ic-dot'+(ready(it)?" on":"")+'" title="'+esc(ready(it)?t("readyYes"):t("readyNo"))+'"></span>'+
+        '<span class="ic-dot'+(ready(it,book)?" on":"")+'" title="'+esc(ready(it,book)?t("readyYes"):t("readyNo"))+'"></span>'+
       '</li>';
     });
     if(open) html+="</ul></section>";
@@ -373,6 +386,12 @@
 
   /* ---------- карточка статьи ---------- */
   function seq(book){ var r=filtered(book); if(state.sort==="ru") return r; return r.slice().sort(function(a,b){return a.ord-b.ord;}); }
+  // значение «своего» поля книги (book.json -> fields): сперва на текущем языке,
+  // потом откат на русский перевод поля, потом на само поле без языка (владелец,
+  // размер в оригинальных единицах, размер в см — они одни на все языки).
+  function fieldVal(it, key){
+    return it[key+"_"+state.lang] || it[key+"_ru"] || it[key] || "";
+  }
 
   function renderCard(book, it){
     var s=seq(book), i=s.indexOf(it);
@@ -395,6 +414,17 @@
     var transl=paraHtml(translArr);
     var hasScans = it.scans && it.scans.length;
     var hasFr = it.text_fr && it.text_fr.length;
+    var plateLink = (book.meta.viewer==="plate" && it.plate!=null)
+      ? '<p class="ic-plate-link"><a href="'+esc(hrefFor(book,"plate/"+it.plate))+'">'+t("plateLink")+'</a></p>' : "";
+    var fieldsHtml = "";
+    if(book.meta.fields){
+      Object.keys(book.meta.fields).forEach(function(key){
+        var val = fieldVal(it, key);
+        if(!val) return;
+        var label = book.meta.fields[key][state.lang] || book.meta.fields[key].ru;
+        fieldsHtml += '<li><b>'+esc(label)+'</b><span>'+esc(val)+'</span></li>';
+      });
+    }
 
     root.innerHTML =
       '<div class="ic-wrap">'+
@@ -410,7 +440,8 @@
           '<h1 class="ic-h-fr">'+esc(it.fr)+'</h1>'+
           '<p class="ic-h-ru">'+esc(titleOf(it))+'</p>'+
         '</header>'+
-        (imgs?'<div class="ic-figs">'+imgs+'</div>'+captionLine:"")+
+        (imgs?'<div class="ic-figs">'+imgs+'</div>'+captionLine+plateLink:"")+
+        (fieldsHtml?'<section class="ic-sec"><h3>'+t("infoSec")+'</h3><ul class="ic-attrs">'+fieldsHtml+'</ul></section>':"")+
         (attrs?'<section class="ic-sec"><h3>'+t("whatSec")+'</h3><ul class="ic-attrs">'+attrs+'</ul></section>':"")+
         (transl?'<section class="ic-sec"><h3>'+t("translSec")+'</h3><div class="ic-text">'+transl+'</div></section>':"")+
         ((hasScans||hasFr)?renderOriginal(it):"")+
@@ -498,6 +529,59 @@
         draw(b.getAttribute("data-view"));
       });
     });
+  }
+
+  /* ---------- «О книге» (book.meta.about) ---------- */
+  function renderAbout(book){
+    var about = book.meta.about;
+    if(!about){ goIndex(book); return; }
+    var arr = (state.lang==="en" && about.en && about.en.length) ? about.en : (about.ru && about.ru.length ? about.ru : about.fr);
+    var note = state.lang==="en" ? about.note_en : about.note_ru;
+    root.innerHTML =
+      '<div class="ic-wrap">'+
+        '<div class="ic-nav">'+
+          '<button type="button" class="ic-back">'+t("back")+'</button>'+
+          langSwitch()+
+        '</div>'+
+        '<header class="ic-head"><h1 class="ic-h-fr">'+esc(t("aboutTitle"))+'</h1></header>'+
+        (note?'<p class="ic-caption">'+esc(note)+'</p>':"")+
+        '<div class="ic-text">'+paraHtml(arr)+'</div>'+
+      '</div>';
+    bindLangSwitch(root);
+    root.querySelector(".ic-back").addEventListener("click",function(){ goIndex(book); });
+    toTop(); nudgeRepaint();
+  }
+
+  /* ---------- просмотр таблицы целиком (book.json viewer:"plate") ---------- */
+  function renderPlate(book, plateNum){
+    var n = String(plateNum);
+    var objs = book.items.filter(function(it){ return String(it.plate)===n; });
+    if(!objs.length){ goIndex(book); return; }
+    var plateImg = objs[0].plate_img;
+    var src = BASE+"books/"+book.slug+"/img/"+plateImg;
+    var hotspots = objs.map(function(it){
+      var box = it.bbox || [0,0,10,10];
+      var isReady = ready(it, book);
+      return '<button type="button" class="ic-hotspot'+(isReady?" on":"")+'" data-id="'+it.id+'" '+
+        'style="left:'+box[0]+'%;top:'+box[1]+'%;width:'+box[2]+'%;height:'+box[3]+'%" '+
+        'aria-label="'+esc(it.num||"")+'"><span>'+esc(it.num||"")+'</span></button>';
+    }).join("");
+    root.innerHTML =
+      '<div class="ic-wrap">'+
+        '<div class="ic-nav">'+
+          '<button type="button" class="ic-back">'+t("back")+'</button>'+
+          langSwitch()+
+        '</div>'+
+        '<header class="ic-head"><h1 class="ic-h-fr">'+esc(t("plateTitle",{n:n}))+'</h1>'+
+          '<p class="ic-h-ru">'+esc(t("plateHint"))+'</p></header>'+
+        '<div class="ic-plate-wrap"><img src="'+esc(src)+'" alt="">'+hotspots+'</div>'+
+      '</div>';
+    bindLangSwitch(root);
+    root.querySelector(".ic-back").addEventListener("click",function(){ goIndex(book); });
+    root.querySelectorAll(".ic-hotspot").forEach(function(b){
+      b.addEventListener("click",function(){ go(book, b.getAttribute("data-id")); });
+    });
+    toTop(); nudgeRepaint();
   }
 
   function lightbox(src){

@@ -1,0 +1,42 @@
+{
+  "slug": "grosson",
+  "title": {
+    "ru": "Собрание древностей и памятников Марселя",
+    "en": "Collection of Marseille Antiquities and Monuments",
+    "original": "Recueil des Antiquités et Monumens Marseillois"
+  },
+  "subtitle": {
+    "ru": "Ж.-Б.-Б. Гроссон, Марсель, 1773. Медали, рельефы, надписи и другие древности Марселя, в пяти частях. Указатель по табличкам (Planches); нажмите на предмет, чтобы открыть карточку.",
+    "en": "J.-B.-B. Grosson, Marseille, 1773. Medals, reliefs, inscriptions and other antiquities of Marseille, in five parts. Indexed by plate (Planche); click an object to open its card."
+  },
+  "author": "Jean-Baptiste-Bernard Grosson",
+  "year": 1773,
+  "place": "Marseille",
+  "idPrefix": "pl",
+  "viewer": "plate",
+  "parts": [
+    { "n": 1, "ru": "Часть первая. Медали", "en": "Part One. Medals" }
+  ],
+  "partsNote": "Список частей предварительный и неполный: в сохранившихся сканах не нашлось оглавления. Дополнить после сверки с оглавлением книги.",
+  "fields": {
+    "material": { "ru": "Материал", "en": "Material" },
+    "dimensions_orig": { "ru": "Размер (оригинал)", "en": "Size (original)" },
+    "dimensions_cm": { "ru": "Размер (см)", "en": "Size (cm)" },
+    "findspot": { "ru": "Место находки", "en": "Findspot" },
+    "owner": { "ru": "Хранение (1773)", "en": "Held by (1773)" }
+  },
+  "about": {
+    "fr": [
+      "IL est peu de Villes qui puissent le disputer en antiquité à celle de Marseille. Il en est encore moins qui puissent produire des témoignages aussi authentiques de leur ancienne splendeur. Strabon, Pline, Pomponius Mela, & nombre d'autres Écrivains des temps les plus reculés, citent les Temples, les Édifices publics, & les Monumens de notre Patrie, comme autant de constructions dignes du bon goût & de la connoissance des Arts, que nos illustres Fondateurs avoient rapportés de la Grece. Parmi ces Chef-d'œuvres, le Temple de Diane d'Ephese, & celui d'Apollon Delphien tenoient un des premiers rangs; ils étoient placés dans la Citadelle, selon Strabon. (1) Cet Auteur…"
+    ],
+    "ru": [
+      "Мало найдётся Городов, способных оспорить древность у Марселя. Ещё меньше таких, что могут представить столь подлинные свидетельства своего древнего величия. Страбон, Плиний, Помпоний Мела и немало других Писателей самых отдалённых времён упоминают Храмы, общественные Здания и Памятники нашего Отечества как постройки, достойные хорошего вкуса и познаний в Искусствах, которые наши славные Основатели принесли с собою из Греции. Среди этих шедевров Храм Дианы Эфесской и Храм Аполлона Дельфийского занимали одно из первых мест; они были расположены в Цитадели, по свидетельству Страбона. (1) Этот Автор…"
+    ],
+    "en": [
+      "There are few Cities that can dispute antiquity with that of Marseille. Still fewer can produce testimonies so authentic to their ancient splendor. Strabo, Pliny, Pomponius Mela, and a number of other Writers of the most distant times, cite the Temples, the public Buildings, and the Monuments of our Homeland, as so many constructions worthy of good taste and knowledge of the Arts, which our illustrious Founders had brought back from Greece. Among these Masterpieces, the Temple of Diana of Ephesus, and that of Apollo of Delphi held one of the foremost ranks; they were situated within the Citadel, according to Strabo. (1) This Author…"
+    ],
+    "note_ru": "Переведена пока первая страница из 22-страничного вступительного очерка — остальные ждут своей партии.",
+    "note_en": "Only the first of 22 pages of the preliminary discourse is translated so far - the rest are pending.",
+    "pages": ["about-01.jpg","about-02.jpg","about-03.jpg","about-04.jpg","about-05.jpg","about-06.jpg","about-07.jpg","about-08.jpg","about-09.jpg","about-10.jpg","about-11.jpg","about-12.jpg","about-13.jpg","about-14.jpg","about-15.jpg","about-16.jpg","about-17.jpg","about-18.jpg","about-19.jpg","about-20.jpg","about-21.jpg","about-22.jpg"]
+  }
+}

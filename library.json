@@ -1,5 +1,6 @@
 {
   "books": [
-    { "slug": "iconologie", "path": "books/iconologie/" }
+    { "slug": "iconologie", "path": "books/iconologie/" },
+    { "slug": "grosson", "path": "books/grosson/" }
   ]
 }

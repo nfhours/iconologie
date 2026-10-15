@@ -1,0 +1,58 @@
+{
+  "items": [
+    {
+      "id": "pl1-1",
+      "part": 1,
+      "plate": 1,
+      "num": "1",
+      "fr": "Médaille n°1",
+      "ru": "Монета №1",
+      "en": "Medal no. 1",
+      "page": "24",
+      "group": "I",
+      "group_fr": "Planche I",
+      "group_en": "I",
+      "group_page": "24",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "argent",
+      "material_ru": "серебро",
+      "material_en": "silver",
+      "img": ["pl1-1.jpg"],
+      "plate_img": "pl1-full.jpg",
+      "bbox": [55.66, 2.28, 36.79, 10.11],
+      "attrs": [],
+      "text_fr": [
+        "Celle du n°. 1. représente d'un côté le Buste de Diane, Divinité tutélaire de la République, & dont le culte étoit le premier dans l'ordre des objets religieux; la tête est ornée d'un Diadême, pour marque de la souveraineté de Marseille; le Carquois & l'arc ne laissent aucun doute sur la Divinité qui y est représentée; le Colier de perles & les cheveux retroussés, désignent le costume de ces temps, qui ont encore réparu de nos jours.",
+        "Le revers est un Lion passant; le Lion a été long-temps l'Emblême de Marseille: il a été probablement dans ses Enseignes, comme l'Aigle dans celles de la République Romaine. On lit ce mot dans le champ, en caracteres grecs: MASSALIETON. La contre-marque du Monétaire se trouve placée sous les pattes de derrière du Lion."
+      ],
+      "text_ru": [
+        "Монета под №1 представляет с одной стороны бюст Дианы, покровительствующего божества Республики, культ которой был первым в ряду религиозных предметов; голова украшена диадемой — в знак суверенитета Марселя; колчан и лук не оставляют сомнений в том, какое божество здесь изображено; жемчужное ожерелье и зачёсанные вверх волосы означают костюм того времени, который ещё встречается и в наши дни.",
+        "На обороте — идущий лев; лев долгое время был эмблемой Марселя: вероятно, он был изображён на его знамёнах, подобно орлу на знамёнах Римской республики. В поле читается слово греческими буквами: МАССАЛИЕТОН. Клеймо монетчика помещено под задними лапами льва."
+      ],
+      "text_en": [
+        "That of no. 1 represents on one side the Bust of Diana, tutelary Divinity of the Republic, whose cult was first in the order of religious objects; the head is adorned with a Diadem, as a mark of the sovereignty of Marseille; the Quiver and the bow leave no doubt as to the Divinity represented there; the Pearl necklace and the hair swept up denote the costume of those times, which has reappeared again in our own day.",
+        "The reverse is a walking Lion; the Lion was for a long time the Emblem of Marseille: it was probably on its Standards, as the Eagle was on those of the Roman Republic. One reads this word in the field, in Greek characters: MASSALIETON. The moneyer's countermark is placed beneath the Lion's hind paws."
+      ],
+      "motifs": []
+    },
+    { "id": "pl1-2",  "part": 1, "plate": 1, "num": "2",  "fr": "Médaille n°2",  "ru": "Монета №2",  "en": "Medal no. 2",  "page": "25", "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-2.jpg"], "plate_img": "pl1-full.jpg", "bbox": [56.67, 12.43, 33.58, 8.88], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-3",  "part": 1, "plate": 1, "num": "3",  "fr": "Médaille n°3",  "ru": "Монета №3",  "en": "Medal no. 3",  "page": "25", "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-3.jpg"], "plate_img": "pl1-full.jpg", "bbox": [56.67, 21.68, 33.58, 9.63], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-4",  "part": 1, "plate": 1, "num": "4",  "fr": "Médaille n°4",  "ru": "Монета №4",  "en": "Medal no. 4",  "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-4.jpg"], "plate_img": "pl1-full.jpg", "bbox": [56.67, 29.68, 33.58, 9.88], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-5",  "part": 1, "plate": 1, "num": "5",  "fr": "Médaille n°5",  "ru": "Монета №5",  "en": "Medal no. 5",  "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-5.jpg"], "plate_img": "pl1-full.jpg", "bbox": [56.67, 38.68, 33.58, 10.38], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-6",  "part": 1, "plate": 1, "num": "6",  "fr": "Médaille n°6",  "ru": "Монета №6",  "en": "Medal no. 6",  "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-6.jpg"], "plate_img": "pl1-full.jpg", "bbox": [56.67, 50.43, 33.58, 10.13], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-7",  "part": 1, "plate": 1, "num": "7",  "fr": "Médaille n°7",  "ru": "Монета №7",  "en": "Medal no. 7",  "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-7.jpg"], "plate_img": "pl1-full.jpg", "bbox": [56.67, 58.43, 33.58, 10.13], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-8",  "part": 1, "plate": 1, "num": "8",  "fr": "Médaille n°8",  "ru": "Монета №8",  "en": "Medal no. 8",  "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-8.jpg"], "plate_img": "pl1-full.jpg", "bbox": [14.37, 2.43, 32.84, 9.38], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-9",  "part": 1, "plate": 1, "num": "9",  "fr": "Médaille n°9",  "ru": "Монета №9",  "en": "Medal no. 9",  "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-9.jpg"], "plate_img": "pl1-full.jpg", "bbox": [14.37, 12.43, 32.84, 8.88], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-10", "part": 1, "plate": 1, "num": "10", "fr": "Médaille n°10", "ru": "Монета №10", "en": "Medal no. 10", "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-10.jpg"], "plate_img": "pl1-full.jpg", "bbox": [14.37, 21.68, 32.84, 9.63], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-11", "part": 1, "plate": 1, "num": "11", "fr": "Médaille n°11", "ru": "Монета №11", "en": "Medal no. 11", "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-11.jpg"], "plate_img": "pl1-full.jpg", "bbox": [14.37, 29.68, 32.84, 9.88], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-12", "part": 1, "plate": 1, "num": "12", "fr": "Médaille n°12", "ru": "Монета №12", "en": "Medal no. 12", "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "", "material_ru": "", "material_en": "", "img": ["pl1-12.jpg"], "plate_img": "pl1-full.jpg", "bbox": [14.37, 38.68, 32.84, 10.38], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-13", "part": 1, "plate": 1, "num": "13", "fr": "Médaille n°13", "ru": "Монета №13", "en": "Medal no. 13", "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-13.jpg"], "plate_img": "pl1-full.jpg", "bbox": [14.37, 50.43, 32.84, 10.13], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-14", "part": 1, "plate": 1, "num": "14", "fr": "Médaille n°14", "ru": "Монета №14", "en": "Medal no. 14", "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-14.jpg"], "plate_img": "pl1-full.jpg", "bbox": [14.37, 58.43, 32.84, 10.13], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-15", "part": 1, "plate": 1, "num": "15", "fr": "Médaille n°15", "ru": "Монета №15", "en": "Medal no. 15", "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-15.jpg"], "plate_img": "pl1-full.jpg", "bbox": [56.67, 68.68, 33.58, 9.38], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-16", "part": 1, "plate": 1, "num": "16", "fr": "Médaille n°16", "ru": "Монета №16", "en": "Medal no. 16", "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-16.jpg"], "plate_img": "pl1-full.jpg", "bbox": [56.67, 75.43, 33.58, 8.63], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-17", "part": 1, "plate": 1, "num": "17", "fr": "Médaille n°17", "ru": "Монета №17", "en": "Medal no. 17", "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-17.jpg"], "plate_img": "pl1-full.jpg", "bbox": [56.67, 87.68, 33.58, 8.38], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-18", "part": 1, "plate": 1, "num": "18", "fr": "Médaille n°18", "ru": "Монета №18", "en": "Medal no. 18", "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-18.jpg"], "plate_img": "pl1-full.jpg", "bbox": [14.37, 68.68, 32.84, 9.38], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] },
+    { "id": "pl1-19", "part": 1, "plate": 1, "num": "19", "fr": "Médaille n°19", "ru": "Монета №19", "en": "Medal no. 19", "page": "",   "group": "I", "group_fr": "Planche I", "group_en": "I", "group_page": "24", "flag": "", "type": "medal", "material_fr": "argent", "material_ru": "серебро", "material_en": "silver", "img": ["pl1-19.jpg"], "plate_img": "pl1-full.jpg", "bbox": [14.37, 81.68, 32.84, 8.88], "attrs": [], "text_fr": [], "text_ru": [], "text_en": [], "motifs": [] }
+  ]
+}

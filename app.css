@@ -73,6 +73,23 @@
 .ic-book-author{color:var(--accent);font-size:.85em;margin-top:4px}
 .ic-book-sub{color:var(--soft);font-size:.88em;margin-top:8px;line-height:1.5}
 
+.ic-about-link{font-size:.8em;color:var(--accent);background:none;border:0;cursor:pointer;padding:6px 0;margin-right:auto;text-decoration:none}
+
+/* ссылка на полную таблицу в карточке объекта */
+.ic-plate-link{margin-top:10px}
+.ic-plate-link a{font-size:.82em;color:var(--accent);border:1px solid var(--rule);border-radius:999px;padding:6px 14px;text-decoration:none;display:inline-block}
+.ic-plate-link a:hover{border-color:var(--accent)}
+
+/* просмотр таблицы целиком с кликабельными номерами */
+.ic-plate-wrap{position:relative;margin-top:24px;background:var(--sheet);border:1px solid var(--rule);border-radius:4px;line-height:0}
+.ic-plate-wrap img{width:100%;height:auto;display:block}
+.ic-hotspot{position:absolute;border:2px solid transparent;border-radius:4px;background:rgba(139,30,45,.06);
+  cursor:pointer;padding:0;display:flex;align-items:flex-start;justify-content:flex-start}
+.ic-hotspot:hover,.ic-hotspot:focus-visible{border-color:var(--accent);background:rgba(139,30,45,.14)}
+.ic-hotspot.on span{background:var(--ready)}
+.ic-hotspot span{font-family:var(--serif);font-size:11px;line-height:1;color:#fff;background:var(--soft);
+  border-radius:3px;padding:2px 5px;margin:-6px 0 0 -6px;box-shadow:0 1px 3px rgba(0,0,0,.25)}
+
 /* карточка статьи */
 .ic-nav{position:sticky;top:var(--top);z-index:4;background:var(--paper);display:flex;flex-wrap:wrap;align-items:center;gap:10px;
   padding:12px 0;border-bottom:1px solid var(--rule)}
