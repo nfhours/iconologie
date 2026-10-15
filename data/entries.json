@@ -6409,12 +6409,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-123.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Прекрасная дама с глазом на золотой цепи, линейкой, наугольником, отвесом и зеркалом в руках, двумя книгами с именами Птолемея и Вителлиона",
+          "meaning": "Глаз на цепи — наука, целиком основанная на зрении; зеркало — отражение прямых фигур, дающее перспективе её чудесные эффекты",
+          "what_en": "A beautiful lady with an eye on a gold chain, a ruler, a square, a plumb and a mirror in hand, two books bearing the names of Ptolemy and Witelo",
+          "meaning_en": "The eye on the chain signifies a science founded entirely on sight; the mirror, the reflection of straight figures that gives perspective its marvelous effects"
+        }
+      ],
+      "text_ru": [
+        "Это весьма прекрасная дама, носящая на шее золотую цепь, с которой вместо драгоценности свисает глаз. В правой руке она держит линейку, наугольник, отвес, зеркало, а в левой — две книги с надписанными именами Птолемея и Вителлиона.",
+        "Поскольку эта часть Математики не менее очаровательна, чем дивна, она и представлена чрезвычайно прекрасной женщиной. А так как своё имя она получила от зрения, потому-то она и носит глаз, привязанный к цепочке, ибо воистину всецело основывается на видимых образах.",
+        "Это ещё яснее являют различные орудия, которые она держит в руках, показывающие её различные действия. Но особенно они заметны в зеркале, где происходит отражение прямых фигур; так что через отражение лучей и света эта наука являет дивные вещи, кажущиеся волшебством уму тех, кто не знает их причины."
+      ],
+      "text_fr": [
+        "C'est vne dame tres-belle, qui porte au col vne chaîne d'or, d'où pend vn œil au lieu de joyau. Elle tient en la main droite vne regle, vn équiere, vn plomb, vn miroir, & en la gauche deux livres qui portent pour inscription le nom de Ptolomée & de Vitellion.",
+        "Comme cette partie de Mathematique n'est pas moins charmante que merveilleuse, aussi est-elle representée par vne femme extremement belle. Et dautant qu'elle tire son nom de la veuë, c'est pour cela qu'elle porte vn œil attaché à vn chaînon, estant veritable qu'elle se fonde entierement sur les especes visibles.",
+        "Cela se démontre encore par les divers instrumens qu'elle porte en main, qui font voir ses differentes operations. Mais elles se remarquent sur tout dans le miroir, où il se fait reflexion des figures droites; si bien que par la repercussion des rayons & de la lumiere, cette science fait voir des choses merveilleuses, & qui passent pour enchantemens dans l'esprit de ceux qui n'en sçavent pas la raison."
+      ],
       "en": "Perspective",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-123-1.jpg",
+        "p1-123-2.jpg"
+      ],
+      "text_en": [
+        "She is a very beautiful lady, who wears about her neck a gold chain, from which hangs an eye in place of a jewel. She holds in her right hand a ruler, a square, a plumb, a mirror, and in her left two books bearing for their title the names of Ptolemy and Witelo.",
+        "As this branch of Mathematics is no less charming than marvelous, she too is represented by an extremely beautiful woman. And inasmuch as she takes her name from sight, it is for this that she wears an eye attached to a little chain, it being true that she is founded entirely on visible species.",
+        "This is further shown by the various instruments she carries, which display her different operations. But they are especially noted in the mirror, where straight figures are reflected; so that by the repercussion of rays and light, this science shows marvelous things, which pass for enchantments in the minds of those who do not know their cause."
+      ]
     },
     {
       "id": "p1-124",
@@ -6427,12 +6453,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-124.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Прекрасная дама в золотой ткани, с открытой грудью, телом в круге Зодиака, чертящая циркулем совершенный круг",
+          "meaning": "Золото — совершенство металла; открытая грудь — забота о других; круг, вычерченный циркулем, — фигура самая совершенная из всех, символ Совершенства, как и круг Зодиака",
+          "what_en": "A beautiful lady in gold cloth, her breast bare, her body within the circle of the Zodiac, tracing a perfect circle with a compass",
+          "meaning_en": "The gold signifies the perfection of that metal; the bared breast, care for others; the circle traced by the compass, the most perfect of all figures, a symbol of Perfection, as is the circle of the Zodiac"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде весьма прекрасной дамы, одетой в золотую газовую ткань, с открытой грудью и телом внутри Зодиака. Дабы быть свободнее в своём действии, у неё засучены рукава до локтя, и она чертит полный круг циркулем, который держит в левой руке.",
+        "Её одеяние золотое, ибо этот металл совершеннее всех прочих; а открытая грудь означает одну из главных частей Совершенства — питать других и быть всегда готовой творить добро ближнему: вот почему верховный Создатель, сама Совершенность, непрестанно даёт и ничего не получает от своих творений.",
+        "Она чертит круг циркулем, поскольку эта фигура — самая совершенная из всех математических. Это же хотели показать древние, когда после жертвоприношения приносили на алтарь большой круг, который с великим благоговением и обрядностью омокали в крови жертвы; этим они означали Совершенство — как и кругом Зодиака, который также служит его истинным символом."
+      ],
+      "text_fr": [
+        "Elle est figurée par vne fort belle dame, vestuë de gaze d'or, qui a le sein découvert, & le corps dans le Zodiaque. Pour estre plus libre en son action, elle a les bras retroussez jusqu'au coude, & fait vn cercle entier avec vn compas qu'elle tient de la main gauche.",
+        "Son habillement est d'or, à cause que ce metal est le plus parfait de tous; & sa gorge découverte, pour signifier par là vne des principales parties de la Perfection, qui est de nourrir autruy, & d'estre toûjours prest à faire du bien à son prochain: & voila pourquoy le souverain Createur, qui est la Perfection mesme, donne sans cesse, & ne reçoit rien de ses creatures.",
+        "Elle fait vn cercle avec vn compas, dautant que cette figure est la plus parfaite de toutes celles des Mathematiques. Ce que les anciens vouloient montrer, lorsqu'aprés avoir sacrifié ils faisoient apporter sur l'autel vn grand cercle, qu'ils trempoient dans le sang de la victime avec beaucoup de veneration & de ceremonie; par où ils marquoient la Perfection, comme par le cercle du Zodiaque, qui en est encore le vray symbole."
+      ],
       "en": "Perfection",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-124-1.jpg",
+        "p1-124-2.jpg"
+      ],
+      "text_en": [
+        "She is figured as a very beautiful lady, clothed in cloth of gold gauze, with her breast bare, and her body set within the Zodiac. To be freer in her action, her sleeves are rolled up to the elbow, and she traces a complete circle with a compass she holds in her left hand.",
+        "Her garment is of gold, because this metal is the most perfect of all; and her bared breast, to signify thereby one of the principal parts of Perfection, which is to nourish others, and to be always ready to do good to one's neighbor: and this is why the sovereign Creator, who is Perfection itself, ceaselessly gives, and receives nothing from His creatures.",
+        "She traces a circle with a compass, inasmuch as this figure is the most perfect of all those of Mathematics. This is what the ancients wished to show, when, after sacrificing, they had a great circle brought to the altar, which they dipped in the blood of the victim with much veneration and ceremony; by which they marked Perfection, as also by the circle of the Zodiac, which is still its true symbol."
+      ]
     },
     {
       "id": "p1-125",
@@ -6445,12 +6497,50 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-125.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с языком и глазом на уборе, обвязанная золотыми верёвками, ведущая на привязи трёхглавое существо (пёс, кошка, обезьяна)",
+          "meaning": "Язык — орудие убеждения; золотые верёвки — власть красноречия над чужой волей; три головы — три условия убеждения: расположить, сделать понятным, привлечь внимание",
+          "what_en": "A woman with a tongue and an eye on her headdress, bound in gold cords, leading a three-headed creature (dog, cat, monkey) on a leash",
+          "meaning_en": "The tongue is the instrument of persuasion; the gold cords, the power of eloquence over another's will; the three heads, the three conditions of persuasion: winning goodwill, making oneself understood, and securing attention"
+        }
+      ],
+      "text_ru": [
+        "Хотя эта фигура кажется причудливой, она тем не менее означает многое через эту изображаемую ею женщину.",
+        "Её одеяние столь же скромно, сколь убор кажется странным, ибо к нему прикреплён язык, а под ним — глаз.",
+        "Сверх того, всё её тело обвязано золотыми верёвками, и одной из двух рук она держит привязанное к ним трёхглавое животное, а именно пса, кошку и обезьяну.",
+        "Не без причины на её уборе изображён язык, являющийся главным орудием Убеждения. По этой причине египтяне так его и изображали, дабы показать, на что способно слово одной лишь силой природы.",
+        "А поскольку упражнение и искусство много способствуют Убеждению, это они давали понять глазом, который делали слегка налитым кровью: ибо как кровь, по мнению некоторых древних Философов, есть седалище души, так и слово есть седалище её действий, когда оно владеет искусством хорошо выражать мысль. И как глаз можно назвать окном, через которое душа видит, так и слово есть другое окно, через которое её видят прочие.",
+        "Золотые верёвки, опоясывающие её тело, показывают, что силой красноречия человек может некоторым образом связать чужую волю и удержать её властью Убеждения.",
+        "Трёхглавое животное означает, что тому, кто хочет убеждать, необходимы три вещи. Первая — снискать расположение своего слушателя; это означено псом, который льстит и ласкается ради своей выгоды. Вторая — сделать его послушным, ясно дав ему понять то, в чём хотят его убедить: примером тому служит обезьяна, ибо из всех животных она лучше прочих понимает мысли людей. И третья — приучить его быть внимательным, по примеру кошки, которая весьма внимательна ко всему, что делает. И она крепко держит обеими руками верёвку, к которой привязано это животное, дабы показать, что если Оратор не умеет действовать с условиями, о коих я только что сказал, он либо вовсе ничего не выигрывает в уме своего слушателя, либо, по крайней мере, мало преуспевает."
+      ],
+      "text_fr": [
+        "Bien que cette figure semble bizarre, elle ne laisse pas toutefois de signifier beaucoup de choses par cette femme qu'elle represente.",
+        "Son habillement est aussi modeste, que sa coëffure semble étrangere, parce qu'vne langue y est attachée avec vn œil au dessous.",
+        "Elle est au reste liée par tout le corps avec des cordes d'or, & en tient vne des deux mains, à laquelle est attaché vn animal à trois testes, à sçavoir d'vn chien, d'vn chat & d'vn singe.",
+        "Ce n'est pas sans raison qu'en sa coëffure est peinte vne langue, estant comme elle est le principal instrument de la Persuasion. C'est pour cette raison que les Egyptiens la peignoient ainsi, pour montrer ce que peut la parole par la seule aide de la nature.",
+        "Et dautant que l'exercice & l'art agissent beaucoup à la Persuasion, ils donnoient à entendre cela par vn œil qu'ils faisoient vn peu sanguin: car comme le sang est le siege de l'ame, ainsi que l'ont creu quelques anciens Philosophes; la parole de mesme l'est de ses actions, quand elle sçait l'art de bien exprimer vne pensée. Or comme l'œil se peut dire la fenestre par où l'ame voit; la parole en est vne aussi, par où elle est veuë des autres.",
+        "Les cordages d'or qui luy ceignent le corps, montrent que par la force de l'éloquence l'homme peut lier en quelque sorte les volontez d'autruy, & les tenir en arrest par le moyen de la Persuasion.",
+        "L'animal à trois testes signifie que trois choses sont necessaires à celuy qui veut persuader. La premiere, de s'insinuer en la bienveillance de son auditeur; ce qui est denoté par le chien, qui flatte & caresse pour ses interests. La seconde, de le rendre docile, en luy faisant nettement comprendre ce qu'il luy veut persuader: dequoy sert d'exemple le singe, parce que c'est celuy de tous les animaux qui comprend mieux les pensées des hommes. Et la troisiéme, de le reduire à estre attentif, à l'imitation du chat, qui l'est grandement à tout ce qu'il fait. Or elle tient ferme avec les deux mains la corde à laquelle cet animal est attaché, pour montrer que si l'Orateur ne sçait agir avec les conditions que je viens de dire, ou il ne gagne rien du tout sur l'esprit de son auditeur, ou du moins il n'avance pas beaucoup."
+      ],
       "en": "Persuasion",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-125-1.jpg",
+        "p1-125-2.jpg"
+      ],
+      "text_en": [
+        "Although this figure seems strange, it nevertheless signifies a great deal through this woman it represents.",
+        "Her attire is as modest as her headdress seems strange, because a tongue is attached to it, with an eye beneath.",
+        "She is, moreover, bound about her whole body with cords of gold, and holds in one of her two hands one to which is tied a three-headed animal, namely of a dog, a cat, and a monkey.",
+        "It is not without reason that a tongue is painted upon her headdress, it being, as it is, the chief instrument of Persuasion. For this reason the Egyptians painted her thus, to show what speech can do by the sole aid of nature.",
+        "And inasmuch as practice and art contribute greatly to Persuasion, they gave this to be understood by an eye they made somewhat bloodshot: for as blood is the seat of the soul, as some ancient Philosophers believed, so is speech the seat of its actions, when it knows the art of well expressing a thought. And as the eye may be called the window through which the soul sees, speech is likewise one, through which it is seen by others.",
+        "The cords of gold that gird her body show that by the force of eloquence man can, in a manner, bind the wills of others, and hold them fast by means of Persuasion.",
+        "The three-headed animal signifies that three things are necessary to one who wishes to persuade. The first, to insinuate himself into his hearer's goodwill; which is denoted by the dog, which flatters and caresses for its own interest. The second, to render him docile, by making him clearly understand what one wishes to persuade him of: of which the monkey serves as an example, because of all animals it best understands the thoughts of men. And the third, to render him attentive, after the example of the cat, which is greatly so in all it does. Now she holds fast with both hands the cord to which this animal is tied, to show that if the Orator does not know how to act under the conditions I have just named, he either gains nothing at all over his hearer's mind, or at least makes little headway."
+      ]
     },
     {
       "id": "p1-126",
@@ -6463,12 +6553,59 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-126.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатая женщина с пламенем вместо волос, рукой на сердце и рогом изобилия; вариант — женщина с аистом, мечом, слоном и младенцем у алтаря",
+          "meaning": "Пламя и крылья — пылкая и быстрая устремлённость к Богу, отечеству и близким; рог изобилия — щедрость без расчёта; аист и младенец — благочестие к родителям и благочестие, причитающееся Богу",
+          "what_en": "A winged woman with flames for hair, her hand on her heart and a horn of plenty; a variant shows a woman with a stork, a sword, an elephant and a child beside an altar",
+          "meaning_en": "The flames and wings signify an ardent, swift devotion toward God, country and kin; the horn of plenty, generosity without calculation; the stork and child, piety toward parents and the piety owed to God"
+        }
+      ],
+      "text_ru": [
+        "Мы изображаем её здесь по древним медалям в виде женщины чрезвычайно прекрасной, с очень белым лицом, глазами навыкате, орлиным носом, пламенем вместо волос, крыльями за спиной, левой рукой у сердца и рогом изобилия в правой, из которого выходят различные вещи, полезные для жизни человеческой. Её лицо изображают таким, каким мы его только что описали, ибо именно так его изображают те, кто сведущ в физиогномике.",
+        "Она одета в красное, будучи сестрой и спутницей Милосердия, которому этот цвет весьма подобает по причинам, общим в сочинениях нравственных Философов.",
+        "Ей дают крылья, дабы показать дивную быстроту этой Добродетели превыше всех прочих, в том что она непрестанно летит от Бога к отечеству, от отечества к родителям и от родителей к нам самим.",
+        "Пламенем на её голове объявляется, что дух тем более воспламеняется любовью к Богу, чем более упражняется в Благочестии, естественно стремящемся к небесному.",
+        "Левой рукой на сердце нам показано, что человек, наделённый этой добродетелью, являет доказательства своего милосердия делами щедрыми и искренними, без тщеславия и желания суетной славы. Некоторые говорят по этому поводу, что, дабы отвести всякую тень сомнения от благочестия Энея, Вергилий и прочие Поэты уверяют, что величайшие дела благочестия были им совершены ночью.",
+        "Рог изобилия означает, что всякий раз, когда идёт речь о делах благочестия, не следует считаться с мирскими богатствами, но щедро помогать тем, о ком известно, что они в том нуждаются.",
+        "Некоторые другие изображают нам Благочестие в виде женщины, держащей аиста в правой руке, а в левой — меч, которым она опирается на алтарь, с слоном по одну сторону и младенцем по другую.",
+        "Аистом является благочестие, которое человек должен оказывать своим отцу и матери; а младенцем — то, что причитается Богу, отечеству и тем, кто произвёл нас на свет; символом чего аист также служит по причинам, уже сказанным нами в другом месте.",
+        "А поскольку человек, должным образом обладающий этой добродетелью, обязан подвергать себя всем опасностям ради любви к Религии, потому ей и дают держать на алтаре меч в руке.",
+        "Что до слона, пример этому взят у Плутарха, который говорит, что в городе Риме некие дети, забавы ради кольнув хобот этого животного, он схватил одного из них и хотел подбросить в воздух; но, видя, что его товарищи, уже считавшие его мёртвым, начали кричать, он тихо опустил его на землю, не причинив ему никакого вреда, и удовольствовался тем страхом, что им внушил, в наказание за их дерзость."
+      ],
+      "text_fr": [
+        "Nous la representons icy aprés les anciennes medailles, par vne femme extremement belle, qui a le teint fort blanc, les yeux à fleur de teste, le nez aquilin, des flammes au lieu de cheveux, des aisles au dos, la main gauche du costé du cœur, & en la droite vne corne d'abondance, d'où sortent diverses choses vtiles à la vie humaine. On peint son visage tel que nous venons de le décrire, parce qu'en effet il est ainsi dépeint par ceux qui s'entendent à la physionomie.",
+        "Elle est vestuë de rouge, comme estant sœur & compagne de la Charité, à qui cette couleur est grandement propre, pour des raisons qui sont communes dans les écrits des Philosophes moraux.",
+        "On luy donne des aisles, pour montrer la merveilleuse vitesse de cette Vertu pardessus toutes les autres, en ce qu'elle ne cesse de voler de Dieu à la patrie, de la patrie aux parens, & des parens à nous-mesmes.",
+        "Par les flammes qu'elle a sur la teste, il est declaré que l'esprit s'embraze de l'amour de Dieu, plus il s'exerce à la Pieté, qui aspire naturellement aux choses celestes.",
+        "Par la main gauche qu'elle a sur le cœur, il nous est montré que l'homme doué de cette vertu donne des preuves de sa charité par des œuvres genereuses & sinceres, sans ostentation ny desir de vaine gloire. Quelques-vns disent à ce propos, que pour oster toutes sortes d'ombrages à la pieté d'Enée, Virgile & les autres Poëtes assurent que les plus grandes actions de pieté furent par luy faites durant la nuit.",
+        "La corne d'abondance signifie que toutes les fois qu'il est question de faire des œuvres de pieté, il ne faut point tenir compte des richesses mondaines, mais en assister liberalement ceux que l'on sçait en avoir besoin.",
+        "Quelques autres nous figurent la Pieté par vne femme qui tient vne cigogne de la main droite, & de la gauche vne épée, dont elle s'appuye sur vn autel, ayant vn elephant d'vn costé, & vn enfant de l'autre.",
+        "Par la cigogne est demontrée la pieté que l'homme doit rendre à ses pere & mere; & par l'enfant celle qui se doit à Dieu, à la patrie, & à ceux qui nous ont mis au monde; dequoy la cigogne est aussi le symbole, pour les raisons que nous avons dites ailleurs.",
+        "Or dautant que l'homme qui possede comme il faut cette vertu, se doit exposer à tous perils pour l'amour de la Religion; c'est pour cela qu'on luy fait tenir sur vn autel vne épée en main.",
+        "Pour ce qui regarde l'elephant, l'exemple en est tiré de Plutarque, qui dit que dans la ville de Rome quelques enfans ayant par maniere de jeu piqué la trompe de cet animal, il en prit vn entre les autres, qu'il voulut lancer en l'air; mais voyant que ses compagnons, qui le tenoient déja pour mort, se mirent à crier, il le posa doucement à terre, sans luy faire aucun mal, & se contenta de la peur qu'il leur avoit faite pour punition de leur audace."
+      ],
       "en": "Piety",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-126-1.jpg",
+        "p1-126-2.jpg"
+      ],
+      "text_en": [
+        "We represent her here, after the ancient medals, as an extremely beautiful woman, of very fair complexion, prominent eyes, an aquiline nose, flames in place of hair, wings on her back, her left hand at her heart, and in her right a horn of plenty, from which come forth various things useful to human life. Her face is painted as we have just described it, because it is indeed so depicted by those versed in physiognomy.",
+        "She is clothed in red, as being the sister and companion of Charity, to whom this color is greatly proper, for reasons common in the writings of the moral Philosophers.",
+        "She is given wings, to show the marvelous swiftness of this Virtue above all others, in that she never ceases to fly from God to country, from country to parents, and from parents to ourselves.",
+        "By the flames upon her head it is declared that the mind is the more set ablaze with the love of God, the more it exercises itself in Piety, which naturally aspires to heavenly things.",
+        "By the left hand she holds upon her heart, it is shown us that the man endowed with this virtue gives proof of his charity through generous and sincere works, without ostentation or desire of vainglory. Some say in this regard that, to remove every shadow of doubt from the piety of Aeneas, Virgil and the other Poets assure us that his greatest acts of piety were performed by night.",
+        "The horn of plenty signifies that whenever it is a question of performing works of piety, one must take no account of worldly riches, but liberally assist those known to be in need of them.",
+        "Some others figure Piety for us as a woman holding a stork in her right hand, and in her left a sword, on which she leans upon an altar, having an elephant on one side, and a child on the other.",
+        "By the stork is shown the piety that man owes to his father and mother; and by the child, that which is owed to God, to country, and to those who brought us into the world; of which the stork is likewise the symbol, for reasons we have given elsewhere.",
+        "Now inasmuch as the man who rightly possesses this virtue must expose himself to every peril for love of Religion, it is for this that he is made to hold a sword in hand upon an altar.",
+        "As for the elephant, the example is drawn from Plutarch, who says that in the city of Rome some children, having for sport pricked this animal's trunk, it seized one of them among the others, and would have hurled him into the air; but seeing that his companions, who already held him for dead, began to cry out, it set him gently down on the ground, without doing him any harm, and contented itself with the fright it had given them as punishment for their boldness."
+      ]
     },
     {
       "id": "p1-127",
