@@ -4567,12 +4567,46 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-87.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с орлом на голове, циркулем и двумя рогами изобилия, полными драгоценностей, плодов и цветов",
+          "meaning": "Орёл — щедрость по навыку, а не по случаю; циркуль — рассудительная соразмерность даров; белое платье — бескорыстие",
+          "what_en": "A woman with an eagle on her head, a compass, and two horns of plenty full of jewels, fruit and flowers",
+          "meaning_en": "The eagle signifies generosity as a settled habit, not chance; the compass, the judicious measure of her gifts; the white robe, her freedom from self-interest"
+        }
+      ],
+      "text_ru": [
+        "Женщина, которая её изображает, имеет несколько впалые глаза, орлиный нос и квадратный лоб. Сверх того, на ней белое платье, орёл на голове, циркуль в одной руке, вместе с опрокинутым рогом изобилия, из которого сыплются различные драгоценности и иные ценные вещи, а в другой руке она держит ещё один рог, полный плодов и цветов.",
+        "Щедрость, состоящая в честном и умеренном расходовании, изображается с впалыми глазами и квадратным лбом, по некоторому сходству со львом — самым щедрым из всех неразумных животных.",
+        "Орёл восседает на её голове, дабы научить нас, что высшая степень этой добродетели состоит не в том, чтобы случайно отдавать другим то, что принадлежит нам, но в навыке и намерении; что присуще и прочим добродетелям. Так, орёл, по свидетельству Плиния, поймав какую-либо добычу, не съедает её целиком, но всегда оставляет часть для других птиц, словно гордясь тем, что от его охоты кормятся и другие животные.",
+        "Два рога изобилия, которые она держит описанным образом, показывают, что великое богатство побуждает щедрый дух делать добро — не столько ради тщеславия, сколько ради того, чтобы добродетельно помогать тем, кому его недостаёт.",
+        "Она одета в белое, ибо она чужда надежды на какую-либо выгоду, подобно тому как этот цвет прост и чужд ухищрений.",
+        "Именно поэтому ей и дают в руку циркуль, ибо она не менее рассудительна, чем искренна в своих щедротах: она соразмеряет их со своими средствами и с заслугами тех, кому их оказывает."
+      ],
+      "text_fr": [
+        "Cette femme qui la represente, a les yeux vn peu enfoncez, le nez aquilin, & le front carré. Elle a de plus vne robe blanche, vn aigle sur la teste, vn compas en vne main, avec vne corne d'abondance renversée, d'où s'épandent divers joyaux, & autres choses de prix, outre qu'elle en tient vne autre pleine de fruits & de fleurs.",
+        "La Liberalité, qui consiste en vne dépense honneste & moderée, est peinte avec des yeux enfoncez, & vn front carré, par vne maniere de ressemblance avec le lion, le plus liberal de tous les animaux irraisonnables.",
+        "Vn aigle est perché sur sa teste, pour nous apprendre que le plus haut point de cette vertu ne consiste pas en l'action de donner casuellement aux autres ce qui est à nous, mais en l'habitude & l'intention; ce qui est encore le propre des autres vertus. C'est ainsi que l'aigle, au rapport de Pline, ayant pris quelque gibier, n'en mange pas tant, qu'il n'en laisse toûjours vne partie pour les autres oiseaux, comme glorieux qu'il est de voir plusieurs animaux vivre de la chasse qu'il a faite.",
+        "Les deux cornes d'abondance qu'elle tient de la façon que nous avons dite, montrent que les grandes richesses portent vn esprit genereux à faire du bien, non pas tant pour en tirer vanité, que pour en assister vertueusement ceux qui en manquent.",
+        "Elle est vestuë de blanc, à cause qu'elle est sans esperance d'aucun interest, comme cette couleur est simple & sans artifice.",
+        "C'est pour cela mesme qu'on luy met vn compas à la main, parce qu'elle n'est pas moins judicieuse que sincere en ses largesses: car elle les mesure par ses commoditez, & par le merite des personnes à qui elle les fait."
+      ],
       "en": "Liberality",
-      "group_en": "L"
+      "group_en": "L",
+      "scans": [
+        "p1-087-1.jpg"
+      ],
+      "text_en": [
+        "The woman who represents her has somewhat sunken eyes, an aquiline nose, and a square forehead. She also has a white robe, an eagle upon her head, a compass in one hand, together with an overturned horn of plenty from which various jewels and other precious things pour out, while in the other hand she holds another horn full of fruits and flowers.",
+        "Liberality, which consists in honest and moderate spending, is painted with sunken eyes and a square forehead, by a certain resemblance to the lion, the most liberal of all irrational animals.",
+        "An eagle is perched upon her head, to teach us that the highest point of this virtue does not consist in the act of giving away by chance what is ours, but in habit and intention; which is likewise proper to the other virtues. Thus the eagle, according to Pliny, having caught some prey, does not eat so much of it but that it always leaves a part for other birds, as if glorying to see several animals live off the game it has taken.",
+        "The two horns of plenty she holds in the manner described show that great riches bring a generous spirit to do good, not so much to draw vanity from it, as to assist virtuously those who lack it.",
+        "She is clothed in white, because she is without hope of any gain, as this color is simple and without artifice.",
+        "It is for this very reason that she is given a compass to hold, because she is no less judicious than sincere in her generosity: for she measures it by her means, and by the merit of the persons to whom she gives."
+      ]
     },
     {
       "id": "p1-88",
@@ -4585,12 +4619,34 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-88.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша в разноцветном платье, с золотой короной и скипетром, увенчанным греческой буквой Y",
+          "meaning": "Царское убранство — власть разума над выбором; буква Y (путь Пифагора) — развилка между добром и злом, между которыми волен выбирать разум",
+          "what_en": "A youth in a many-colored garment, with a golden crown and a scepter topped by the Greek letter Y",
+          "meaning_en": "The royal attire signifies the mind's sovereignty over its choices; the letter Y (Pythagoras's fork) pictures the parting of ways between good and evil among which the free will chooses"
+        }
+      ],
+      "text_ru": [
+        "Он довольно хорошо изображён на этой картине в виде юноши, одетого в платье разных цветов, со свитой, подобающей Царю: ибо на голове у него золотая корона, а в руке скипетр, над которым — греческая буква Y.",
+        "Свободная Воля, по святому Фоме, есть свободная способность, приписываемая разумной природе, — ради вящей славы Божией, — избирать одно предпочтительно перед другим из многих вещей, способствующих нашей цели. К этому определению примыкает и определение Аристотеля, говорящего, что это способность избирать различные вещи для достижения одной и той же цели. Цель же эта есть не что иное, как высшее благо, то есть вечное блаженство, к которому устремлены все человеческие действия."
+      ],
+      "text_fr": [
+        "Il est assez bien dépeint dans ce tableau, qui est celuy d'vn jeune homme vestu d'vn habit de diverses couleurs, avec vn equipage de Roy: car il a sur la teste vne couronne d'or, & vn sceptre en main, au dessus duquel est la lettre Grecque Y.",
+        "Le Libre Arbitre selon S. Thomas, est vne libre puissance, attribuée à la nature intelligible, pour la plus grande gloire de Dieu, pour faire élection d'vne chose plûtost que d'vne autre, parmy plusieurs qui contribuënt à nostre fin. A cette definition se rapporte celle d'Aristote, qui dit que c'est vne faculté de pouvoir élire diverses choses pour arriver à vne mesme fin. Or est-il qu'elle n'est autre que le souverain bien, c'est à dire la felicité eternelle, où visent toutes les actions humaines."
+      ],
       "en": "Free Will",
-      "group_en": "L"
+      "group_en": "L",
+      "scans": [
+        "p1-088-1.jpg"
+      ],
+      "text_en": [
+        "He is rather well depicted in this picture as a young man clothed in a garment of various colors, with the retinue of a King: for he has upon his head a golden crown, and a scepter in his hand, above which is the Greek letter Y.",
+        "Free Will, according to St. Thomas, is a free power, attributed to intelligent nature, for the greater glory of God, to choose one thing rather than another among several that contribute to our end. To this definition is related that of Aristotle, who says that it is a faculty of being able to choose various things to arrive at the same end. Now this end is none other than the sovereign good, that is, eternal felicity, toward which all human actions aim."
+      ]
     },
     {
       "id": "p1-89",
@@ -4603,12 +4659,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-89.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная девушка с распущенными волосами, букетом цветов (с надписью VERUM ET FALSUM) в одной руке и змеёй в другой; вторая фигура — женщина в белом с рапирой, гвоздями, шишаком и соколом",
+          "meaning": "Цветы — обнаружение истины; змея — благоразумие и трудность логики; рапира и сокол — острота и высота силлогистических доводов; четыре гвоздя — четыре способа отыскания истины",
+          "what_en": "A young girl with loose hair, a bouquet of flowers (inscribed VERUM ET FALSUM) in one hand and a serpent in the other; a second figure, a woman in white with a rapier, nails, a helmet and a falcon",
+          "meaning_en": "The flowers signify the uncovering of truth; the serpent, the prudence and difficulty of logic; the rapier and falcon, the sharpness and loftiness of syllogistic argument; the four nails, the four ways of discovering truth"
+        }
+      ],
+      "text_ru": [
+        "Её главные действия представлены здесь в образе юной девушки с распущенными и довольно длинными волосами, с букетом цветов в правой руке, над которым написаны слова VERUM ET FALSUM (истинное и ложное), а в левой — змея.",
+        "Её бледный цвет лица — следствие её бдений и усердия, которое она прилагает к обретению этого благородного знания; отсюда обычно происходит, что от чрезмерного усердия в нём учёные люди подвержены недугам.",
+        "Её распущенные и спутанные волосы показывают, что человек, занятый созерцанием умопостигаемых материй, забывает ради этого всё прочее и пренебрегает даже заботой о собственном теле.",
+        "Цветы, которые она носит, учат нас, что её посредством обнаруживается истина и подавляется ложь; подобно тому как по действию природы из травы рождаются цветы, которые покрывают её, когда вырастают.",
+        "Змея, которую она держит, учит нас двум вещам: во-первых, что благоразумие необходимо для этого занятия, ибо величайшее усилие человеческого старания состоит в умении различать истинное от ложного и действовать сообразно этому различению с соразмерностью, отвечающей познанной истине. Во-вторых, что Логику почитают материей ядовитой и недоступной для тех, чей ум недостаточно силён, чтобы её постичь, хотя на самом деле она учит обратному и сокрушает тех, кто с чрезмерной дерзостью противится её учению.",
+        "Делают и второе её изображение — в виде юной женщины, одетой в белое, лицо которой являет дивную живость. Она несёт в правой руке длинную рапиру, четыре гвоздя в левой, шишак на голове, а в качестве навершия — сокола.",
+        "Логика, посредством которой рассматривают природу и свойства действий разума, изображается с рапирой в руке, дабы показать дивную тонкость её ума в построении различных доводов, позволяющих нам отличать истинное от ложного; и с шишаком на голове, дабы означить силу её доводов, возносящих её к высшим познаниям. Ибо подобно тому как сокол бросается в облака вслед за птицей, которую преследует, так и Логик столь же высоко спорит о самых возвышенных предметах, дабы подчинить их своему рассуждению.",
+        "Четыре гвоздя, которые она носит, означают, что в каждой силлогистической фигуре есть четыре способа обнаружения истины, которым обучают Наставники этого искусства; а её белое платье — что она не ставит себе иной цели, кроме истины; ибо, как этот цвет самый совершенный из всех, так и Логика есть познание, наиболее способное рассеивать облака души, дабы дать ей постичь истину, при условии, что тот, кто за неё берётся, исполняет её как добрый Логик, а не как дурной Софист."
+      ],
+      "text_fr": [
+        "Ses principales operations se voyent icy sous la figure d'vne jeune fille, qui a les cheveux épars & assez longs, vn bouquet de fleurs en la main droite, avec ces mots au dessus, VERUM ET FALSUM; & en la gauche vn serpent.",
+        "Son teint pasle est vn effet de ses veilles, & de l'étude qu'elle employe à s'acquerir cette noble connoissance; d'où s'ensuit d'ordinaire que pour s'y trop adonner, les hommes de lettres sont sujets aux maladies.",
+        "Ses cheveux épars & meslez montrent que l'homme qui vaque à la speculation des matieres intelligibles, oublie toutes autres choses pour celle-là, & qu'il neglige mesme le soin de son corps.",
+        "Les fleurs qu'elle porte nous enseignent, que par son moyen la verité est découverte, & le mensonge étouffé; comme par vn effet de nature, de l'herbe naissent les fleurs, qui la couvrent depuis quand elles sont grandes.",
+        "Le serpent qu'elle tient nous enseigne deux choses: la premiere, que la prudence est necessaire à cette profession, veu que le plus grand effort de l'humaine industrie est de sçavoir discerner le vray d'avec le faux, & d'operer selon cette distinction avec vne proportion conforme à la verité qu'on a reconnuë. La seconde, que la Logique est prise pour vne matiere venimeuse & inaccessible par ceux qui n'ont pas l'esprit assez fort pour la concevoir, bien que toutefois elle leur apprenne le contraire, & qu'elle détruise ceux qui par vne temerité trop grande s'opposent à sa doctrine.",
+        "L'on en fait encore vne seconde peinture, qui est celle d'vne jeune femme vestuë de blanc, le visage de laquelle témoigne vne merveilleuse vivacité. Elle porte vne longue estocade en la main droite, quatre clous en la gauche, vn morion en teste, & pour cimier vn faucon.",
+        "La Logique, par qui l'on considere la nature & la proprieté des operations de l'entendement, est peinte avec vne estocade à la main, pour montrer la merveilleuse subtilité de son esprit à former divers argumens, qui nous font distinguer le vray d'avec le faux: Et avec vn morion en teste, pour marquer la force de ses raisons, qui la portent aux plus hautes connoissances. Car comme le faucon fond dans les nuës aprés l'oiseau qu'il poursuit; le Logicien tout de mesme dispute hautement des choses les plus sublimes, pour les assujettir à son raisonnement.",
+        "Les quatre clous qu'elle porte signifient qu'en chaque figure syllogistique il y a quatre moyens de découvrir le vray, qui sont enseignez par les Professeurs en cet art: Et par sa robe blanche, qu'elle ne se propose pour but que la verité; car comme cette couleur est la plus parfaite de toutes, la Logique de mesme est la connoissance la plus capable d'effacer les nuages d'vne ame, afin de luy faire comprendre le vray, pourveu que celuy qui l'entreprend s'en acquitte en bon Logicien, & non pas en mauvais Sophiste."
+      ],
       "en": "Logic",
-      "group_en": "L"
+      "group_en": "L",
+      "scans": [
+        "p1-089-1.jpg",
+        "p1-089-2.jpg"
+      ],
+      "text_en": [
+        "Her principal operations are here seen under the figure of a young girl, with loose and rather long hair, a bouquet of flowers in her right hand, above which are these words, VERUM ET FALSUM; and in her left a serpent.",
+        "Her pale complexion is an effect of her vigils, and of the study she applies to acquiring this noble knowledge; whence it commonly follows that, through devoting themselves too much to it, men of letters are subject to illnesses.",
+        "Her loose and tangled hair shows that the man who occupies himself with the speculation of intelligible matters forgets all else for it, and neglects even the care of his body.",
+        "The flowers she wears teach us that by her means truth is discovered, and falsehood stifled; just as, by an effect of nature, flowers are born of the grass, which cover it once they are grown.",
+        "The serpent she holds teaches us two things: the first, that prudence is necessary to this profession, since the greatest effort of human industry is to know how to discern the true from the false, and to act according to this distinction with a proportion conforming to the truth one has recognized. The second, that Logic is taken for a venomous matter, inaccessible to those who do not have a mind strong enough to conceive it, although nevertheless it teaches them the contrary, and destroys those who, with too great a rashness, set themselves against its doctrine.",
+        "A second picture of her is also made, which is that of a young woman clothed in white, whose face bears witness to a marvelous liveliness. She carries a long rapier in her right hand, four nails in her left, a helmet on her head, and for a crest, a falcon.",
+        "Logic, by which one considers the nature and property of the operations of the understanding, is painted with a rapier in hand, to show the marvelous subtlety of her mind in forming various arguments, which make us distinguish the true from the false: and with a helmet on her head, to mark the strength of her reasons, which carry her to the highest knowledge. For as the falcon dives into the clouds after the bird it pursues, the Logician likewise disputes loftily about the most sublime things, to subject them to his reasoning.",
+        "The four nails she carries signify that in every syllogistic figure there are four means of discovering the truth, which are taught by the Professors of this art: and by her white robe, that she proposes to herself no other end but the truth; for as this color is the most perfect of all, so Logic likewise is the knowledge most capable of clearing away the clouds of a soul, so as to make it understand the truth, provided that he who undertakes it acquits himself as a good Logician, and not as a bad Sophist."
+      ]
     },
     {
       "id": "p1-90",
@@ -4621,12 +4718,66 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-90.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Прекрасная женщина в белом с яшмовым самоцветом на груди, гирляндой роз, трубой в правой руке и указывающей левой",
+          "meaning": "Белый цвет — чистота истинной похвалы, враждебная лести; труба — возвещение добрых дел по всему свету; роза — сладость похвалы; указующая рука — похвала, обращённая к достойному",
+          "what_en": "A beautiful woman in white with a jasper jewel at her breast, a garland of roses, a trumpet in her right hand and her left hand pointing",
+          "meaning_en": "The white signifies the purity of true praise, hostile to flattery; the trumpet, the proclaiming of good deeds across the world; the rose, the sweetness of praise; the pointing hand, praise directed at the deserving"
+        }
+      ],
+      "text_ru": [
+        "Эта женщина, наделённая столь многими красотами и столь изящно одетая в белое платье, есть образ Похвалы. На груди она носит сверкающий яшмовый самоцвет зелёного цвета, на голове — гирлянду роз, в правой руке — трубу, в которую трубит, а левой, которую простирает, кажется, подаёт знак и указывает на какое-то определённое лицо.",
+        "Её изображают прекрасной, ибо нет очарования столь приятного, как её, и нет созвучий, столь сладких для слуха, как те, что образуются из её слов.",
+        "Её одежда бела, поскольку истинная Похвала должна быть чиста и быть смертельным врагом ухищрений лести. По этому поводу уместно заметить, что человеческая Похвала бывает двух родов, а именно истинная и ложная. Истинная — та, что по праву воздаётся людям добродетельным; ложная же — та, что злонамеренно присваивается людям порочным. Первой должны удостаиваться те, кто становится её достойным благодаря своим добрым качествам, каковы цельность жизни, кротость духа, искренность, учёность, мудрость, но прежде всего страх Божий, любовь к ближнему и чистота сердца: отчего и сказано в Писании, что мудрый муж будет осыпан благословениями и восхвален теми, кто его увидит. А в другом месте — что похвала не подобает устам грешника. К этому же относится и слово Философа, что не менее постыдно быть хвалимым людьми бесчестными, нежели быть хвалимым за дела бесчестные. Яшмовый самоцвет, висящий у неё на шее, есть, по мнению Натуралистов, символ благодати, ибо, говорят они, этот камень особым свойством делает приятным и располагает к похвале того, кто его носит.",
+        "И поскольку нет цветка ни прекраснее, ни благоуханнее розы, ей дают из неё гирлянду, дабы изобразить человеческую Похвалу, которая подобна сладостному благоуханию для тех, кто её получает. Ибо как венец есть фигура круглая, не имеющая ни начала, ни конца, так и Похвала Божия, будучи вечной, не имеет пределов. Потому-то все народы мира и стихии, являющиеся венцом творения рук Его, не перестают славить Его как верховного творца своего бытия.",
+        "Дивный звук, что слышится из трубы, в которую она трубит, означает блеск имени тех добродетельных душ, что заслуживают справедливых похвал. Поэтому-то в древности римляне воздвигали на самом верху храма Сатурна изображения Тритонов и других морских божеств, чьи хвосты не были видны, дабы показать тем самым, что история событий, случившихся во времена царствования Сатурна, была столь хорошо известна, что не было способа утратить о ней память: тогда как, напротив, случившееся прежде оставалось скрытым и погребённым во тьме.",
+        "Она простирает левую руку, словно желая на кого-то указать, оттого, говорит святой Фома, что похвала есть речь, проясняющая величие Добродетели, ибо истинно то, что всё, обладающее ею, заслуживает быть восхваленным. Это подтверждает нам и Аристотель, говоря, что хвалить — не что иное, как в ясных словах превозносить добрые качества, какие есть в другом. И вот почему полагают, что Катон заслужил больше славы, изгнав порок из Рима, нежели Сципион — победив карфагенян, ибо, собственно говоря, Похвала, как замечает тот же Философ, касается действий.",
+        "Но поскольку, если взять это вообще, существует два различных рода похвалы, а именно истинная и ложная, то и изображают их по-разному.",
+        "Первая — женщина, держащая трубу в правой руке, а в левой — оливковую ветвь; сверх того у неё за спиной крылья, а на шее — золотая цепь, на конце которой висит сердце в виде драгоценности.",
+        "Трубой возвещается, что ей обычно свойственно повсюду разглашать деяния добрых людей, дабы повсеместно снискать им всеобщее уважение по всей земле. Оливковой ветвью — что тщетно стараются хулить то, что само по себе достохвально: ибо это дерево и его плод всегда принимаются благосклонно. Вот почему в Священном Писании имя Господа нашего Иисуса Христа мистически уподобляется разлитому елею; а в Псалмах Давида говорится об оливе, цветущей в доме Господнем. Правдоподобно также, что древние венчали ею Юпитера, полагая его чрезвычайно благим и совершеннейшим из всех богов.",
+        "А поскольку добрый человек воодушевляется, когда его хвалят, это показывается изображением сердца, подвешенного на шее, как о том читаем у Ора Аполлона; равно как под белыми крыльями следует разуметь дивную быстроту и искренность истинной похвалы.",
+        "Что до ложной, её изображают в причудливом одеянии, усеянном маленькими чёрными фигурками, пригодными для обозначения низких и подлых поступков людей без заслуг, которые, желая быть хвалимыми, хотя и недостойно, имеют обыкновение покупать голоса льстецов и продажных людей.",
+        "В противоположность этому на некоей медали Антиноя подобным образом изображена славная, истинная Похвала."
+      ],
+      "text_fr": [
+        "Cette femme douée de tant de beautez, & si proprement vestuë d'vne robe blanche, est la figure de la Louange. Elle porte sur le sein vn joyau de jaspe luisant & de couleur verte, à la teste vne guirlande de roses, en la main droite vne trompette dont elle sonne; & de la gauche qu'elle tend, elle semble faire signe, & montrer quelque personne en particulier.",
+        "On la peint belle, parce qu'il n'y a point de charmes si agreables que les siens, ny point de concerts si doux à l'oreille, que ceux qui se forment de ses paroles.",
+        "Son habit est blanc, dautant que la vraye Louange doit estre pure, & mortelle ennemie des artifices de la flaterie. Surquoy il est à propos de remarquer, que la Louange humaine est de deux sortes, à sçavoir, ou vraye ou fausse. La vraye est celle qui se donne legitimement aux hommes vertueux; & la fausse, celle qui s'attribuë malicieusement aux personnes vicieuses. De la premiere doivent estre honorez ceux qui s'en rendent capables par leurs bonnes qualitez, qui sont l'integrité de vie, la douceur d'esprit, la franchise, la doctrine, la sagesse, mais principalement la crainte de Dieu, la charité envers le prochain, & la pureté de cœur: d'où vient qu'il est dit dans l'Escriture, que l'homme sage sera comblé de benedictions, & loué de ceux qui le verront. Et en vn autre endroit, que la louange n'est pas bien seante dans la bouche du pecheur. A quoy se rapporte encore le dire du Philosophe, qu'il n'est pas moins honteux d'estre loué par des infames, que si on l'estoit pour des choses deshonnestes. Le joyau de jaspe qui pend à son col, est vn symbole de la grace, selon les Naturalistes, qui disent que par vne vertu specifique cette pierre rend agreable, & fait louër celuy qui la porte.",
+        "Et dautant qu'il n'est point de fleur ny plus belle, ny de meilleur odeur que la rose, on luy en donne vne guirlande, pour demontrer la Louange humaine, qui est comme vn doux parfum à ceux qui la reçoivent. Car comme la couronne est vne figure ronde, qui n'a ny commencement ny fin: ainsi la Louange de Dieu, comme estant eternelle, n'a point de limites. Aussi est-ce pour cela que tous les peuples du monde, & les elemens, qui sont le chef-d'œuvre de ses mains, ne cessent de le louër comme le souverain autheur de leur estre.",
+        "Le merveilleux son qu'on entend sortir de la trompette dont elle sonne, signifie la splendeur du nom de ces ames vertueuses, qui meritent de justes louanges. C'estoit pour cela qu'au plus haut du temple de Saturne les anciens Romains élevoient les figures des Tritons & des autres dieux marins, dont les queuës ne paroissoient point, pour montrer par là que l'histoire des evenemens passez sous le regne de Saturne estoit si connuë, qu'il n'y avoit pas moyen d'en perdre le souvenir: comme au contraire les choses arrivées auparavant, estoient cachées & ensevelies dans les tenebres.",
+        "Elle étend le bras gauche comme si elle vouloit montrer quelqu'vn, à cause, dit S. Thomas, que la louange est vn discours qui éclaircit la grandeur de la Vertu, estant veritable que tout ce qui en a, merite d'estre loué. Ce qui nous est confirmé par Aristote, quand il dit que louër n'est autre chose qu'elever en termes exprés les bonnes qualitez qui sont en autruy. Et voila pourquoy l'on tient que Caton merita plus de gloire pour avoir banny le vice de Rome, que Scipion pour avoir vaincu les Carthaginois, veu qu'à proprement parler, la Louange, comme le remarque le mesme Philosophe, regarde les actions.",
+        "Or parce qu'à le prendre en general, il y a deux sortes de louanges differentes, à sçavoir la vraye & la fausse; elles sont aussi diversement representées.",
+        "La premiere est vne femme qui tient vne trompette en la main droite, & en la gauche vn rameau d'olivier; outre qu'elle a des aisles au dos, & qu'elle porte au col vne chaisne d'or, au bout de laquelle pend vn cœur en forme de joyau.",
+        "Par la trompette il est declaré que ce luy est vne chose ordinaire de publier de tous costez les actions des gens de bien, afin d'en rendre l'estime vniverselle par toute la terre. Par le rameau d'olivier, qu'on s'efforce en vain de blasmer ce qui est louable de soy: car cet arbre & son fruit sont toûjours pris en bonne part. Voila pourquoy dans les saintes Lettres le nom de Nostre Seigneur Jesus-Christ est mystiquement comparé à de l'huile répanduë; & dans les Pseaumes de David il est parlé de l'olivier, qui fructifie dans la maison du Seigneur. Aussi est-il vray-semblable que les anciens en couronnoient Jupiter, parce qu'ils le croyoient extremement bon, & le plus parfait de tous les dieux.",
+        "Et dautant que l'homme de bien est animé quand on le louë, cela se demontre par la figure du cœur pendu au col, comme il se lit dans Orus Apollo; de mesme que par les aisles blanches il faut entendre la merveilleuse vitesse, & la sincerité de la vraye louange.",
+        "Quant à la fausse, elle est dépeinte avec vn habillement bizarre, semé de petites figures noires, propres à denoter les actions basses & lasches des gens sans merite, qui pour estre louëz, bien qu'indignement, ont accoustumé d'acheter les suffrages des flateurs & des hommes mercenaires.",
+        "Au contraire de cecy, dans vne certaine medaille d'Antinous est representée de cette sorte l'illustre Louange."
+      ],
       "en": "Praise",
-      "group_en": "L"
+      "group_en": "L",
+      "scans": [
+        "p1-090-1.jpg",
+        "p1-090-2.jpg",
+        "p1-090-3.jpg"
+      ],
+      "text_en": [
+        "This woman, endowed with so many beauties, and so becomingly clothed in a white robe, is the figure of Praise. She wears upon her breast a gleaming jasper jewel of green color, upon her head a garland of roses, in her right hand a trumpet which she sounds; and with her left, which she extends, she seems to make a sign, and to point out some particular person.",
+        "She is painted beautiful, because there are no charms so agreeable as hers, nor any concerts so sweet to the ear, as those formed of her words.",
+        "Her garment is white, inasmuch as true Praise must be pure, and a mortal enemy to the artifices of flattery. Whereupon it is fitting to note that human Praise is of two kinds, namely true or false. The true is that which is legitimately given to virtuous men; and the false, that which is maliciously attributed to vicious persons. By the first should be honored those who render themselves capable of it by their good qualities, which are integrity of life, gentleness of spirit, candor, learning, wisdom, but chiefly the fear of God, charity toward one's neighbor, and purity of heart: whence it is said in Scripture that the wise man shall be filled with blessings, and praised by those who see him. And elsewhere, that praise is not becoming in the mouth of the sinner. To which also relates the saying of the Philosopher, that it is no less shameful to be praised by the infamous, than if one were praised for dishonest things. The jasper jewel that hangs at her neck is a symbol of grace, according to the Naturalists, who say that by a specific virtue this stone renders agreeable, and causes him who wears it to be praised.",
+        "And inasmuch as there is no flower either more beautiful or of better scent than the rose, she is given a garland of it, to signify human Praise, which is like a sweet perfume to those who receive it. For as the crown is a round figure, having neither beginning nor end, so the Praise of God, being eternal, has no limits. It is likewise for this that all the peoples of the world, and the elements, which are the masterwork of His hands, cease not to praise Him as the sovereign author of their being.",
+        "The marvelous sound heard issuing from the trumpet she sounds signifies the splendor of the name of those virtuous souls who deserve just praise. It was for this that, at the very top of the temple of Saturn, the ancient Romans raised up the figures of Tritons and other sea gods, whose tails did not appear, to show thereby that the history of events that passed under the reign of Saturn was so well known that there was no way to lose the memory of it: whereas, on the contrary, things that had happened before were hidden and buried in darkness.",
+        "She extends her left arm as if she wished to point someone out, because, says St. Thomas, praise is a discourse that makes clear the greatness of Virtue, it being true that all that possesses it deserves to be praised. This is confirmed for us by Aristotle, when he says that to praise is nothing other than to extol in express terms the good qualities that are in another. And this is why it is held that Cato deserved more glory for having banished vice from Rome, than Scipio for having conquered the Carthaginians, since, properly speaking, Praise, as the same Philosopher observes, regards actions.",
+        "Now because, taken in general, there are two different kinds of praise, namely the true and the false, they are also represented differently.",
+        "The first is a woman who holds a trumpet in her right hand, and in her left an olive branch; besides which she has wings on her back, and wears at her neck a gold chain, at the end of which hangs a heart in the form of a jewel.",
+        "By the trumpet it is declared that it is her ordinary custom to publish on every side the deeds of good people, so as to render their esteem universal throughout the earth. By the olive branch, that one strives in vain to blame what is praiseworthy in itself: for this tree and its fruit are always taken in good part. This is why, in the sacred Scriptures, the name of Our Lord Jesus Christ is mystically compared to poured-out oil; and in the Psalms of David mention is made of the olive tree that flourishes in the house of the Lord. It is likewise probable that the ancients crowned Jupiter with it, because they believed him extremely good, and the most perfect of all the gods.",
+        "And inasmuch as a good man is animated when he is praised, this is shown by the figure of the heart hung at the neck, as may be read in Orus Apollo; just as by the white wings one must understand the marvelous speed, and the sincerity, of true praise.",
+        "As for the false kind, she is depicted with a bizarre garment, strewn with small black figures, fit to denote the base and cowardly actions of men without merit, who, wishing to be praised, though undeservedly, are accustomed to buy the votes of flatterers and mercenary men.",
+        "Contrary to this, on a certain medal of Antinous, illustrious, true Praise is represented in this manner."
+      ]
     },
     {
       "id": "p1-91",
