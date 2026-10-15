@@ -101,7 +101,19 @@
 
   function esc(s){ return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];}); }
   function norm(s){ return String(s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")
-    .replace(/ſ/g,"s").replace(/ё/g,"е").replace(/j/g,"i").replace(/v/g,"u").replace(/y/g,"i").replace(/['’]/g," "); }
+    .replace(/¶/g,"").replace(/ſ/g,"s").replace(/ё/g,"е").replace(/j/g,"i").replace(/v/g,"u").replace(/y/g,"i").replace(/['’]/g," "); }
+  // paragraphs may embed a quoted verse after a ¶ marker, with lines separated by " / ";
+  // render the verse as its own italic, line-broken block instead of running it into the prose.
+  function paraHtml(arr){
+    return (arr||[]).map(function(p){
+      var parts = String(p||"").split("¶"), html = "";
+      if(parts[0]) html += "<p>"+esc(parts[0])+"</p>";
+      for(var i=1;i<parts.length;i++){
+        html += '<p class="ic-verse">'+parts[i].split(" / ").map(esc).join("<br>")+'</p>';
+      }
+      return html;
+    }).join("");
+  }
   function ready(it){ return (it.img&&it.img.length) || (it.text_ru&&it.text_ru.length); }
   // заголовок/перевод/группа на текущем языке, с откатом на русский, если EN ещё не готов
   function titleOf(it){ return state.lang==="en" && it.en ? it.en : it.ru; }
@@ -255,7 +267,7 @@
       return '<li><b>'+esc(what)+'</b><span>'+esc(meaning)+'</span></li>';
     }).join("");
     var translArr = state.lang==="en" && it.text_en && it.text_en.length ? it.text_en : it.text_ru;
-    var transl=(translArr||[]).map(function(p){ return "<p>"+esc(p)+"</p>"; }).join("");
+    var transl=paraHtml(translArr);
     var hasScans = it.scans && it.scans.length;
     var hasFr = it.text_fr && it.text_fr.length;
 
@@ -319,7 +331,7 @@
     var view = det.querySelector(".ic-orig-view");
     var page = 0;
     function textHtml(){
-      return '<div class="ic-text ic-fr-text">'+(it.text_fr||[]).map(function(p){ return "<p>"+esc(p)+"</p>"; }).join("")+'</div>';
+      return '<div class="ic-text ic-fr-text">'+paraHtml(it.text_fr)+'</div>';
     }
     function scanHtml(){
       var scans = it.scans||[];
