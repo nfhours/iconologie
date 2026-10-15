@@ -5570,12 +5570,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-107.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в долгом одеянии с копьём, образом Минервы в руке и двумя венцами под ногами",
+          "meaning": "Долгое платье — важность нравов знатных; копьё и Минерва — науки и оружие, облагораживающие человека; два венца — блага тела и души как основа истинного благородства",
+          "what_en": "A woman in a long robe with a lance, an image of Minerva in hand and two crowns underfoot",
+          "meaning_en": "The long robe signifies the gravity befitting the noble; the lance and Minerva, the sciences and arms that ennoble a man; the two crowns, the goods of body and soul that found true nobility"
+        }
+      ],
+      "text_ru": [
+        "Она изображена здесь в долгом одеянии, как её можно видеть на медали Геты, где она держит копьё в одной руке, а в другой — небольшое изображение Минервы, с двумя венцами внизу. Долгим платьем, какое во времена римлян могли носить только Дворяне, показано, что важность нравов весьма подобает людям благородным; копьём, соединённым с образом Минервы, — что науки и оружие облагораживают человека; а двумя венцами — что блага тела и блага души всецело тому способствуют: чему весьма служит, по мнению Поэтов, богиня Паллада, рождённая из мозга Юпитера, что следует разуметь иносказательно как речь и разум, посредством которых можно снискать уважение и обрести качества, необходимые для истинного благородства.",
+        "Другие изображают её со звездой на голове и скипетром в руке, дабы дать понять, что Благородство рождается от доблести прославленного мужества и легко сохраняется посредством богатства."
+      ],
+      "text_fr": [
+        "Elle est icy peinte en habit long, comme elle se voit en la medaille de Geta, où elle tient vne lance d'vne main, & de l'autre vne petite image de Minerve, avec deux couronnes en bas. Par la robe longue, que les seuls Gentilshommes pouvoient porter au temps des Romains, il est demontré que la gravité des mœurs est bien seante aux personnes nobles; par la lance jointe à l'image de Minerve, que les sciences & les armes ennoblissent l'homme; & par les deux couronnes, que les biens du corps, & ceux de l'ame y contribuent entierement: à quoy sert beaucoup, selon les Poëtes, la Deesse Pallas, pour estre née du cerveau de Jupiter, ce qui doit s'entendre mystiquement du discours & de l'intellect, par le moyen desquels on peut se mettre en estime, & s'acquerir les qualitez qui sont necessaires à la vraye noblesse.",
+        "D'autres la peignent avec vne estoille sur la teste, & vn sceptre en main, pour donner à connoistre que la Noblesse naist de la vertu d'vn courage illustre, & qu'elle se conserve facilement par le moyen des richesses."
+      ],
       "en": "Nobility",
-      "group_en": "N"
+      "group_en": "N",
+      "scans": [
+        "p1-107-1.jpg",
+        "p1-107-2.jpg"
+      ],
+      "text_en": [
+        "She is here painted in a long robe, as she is seen on the medal of Geta, where she holds a lance in one hand, and in the other a small image of Minerva, with two crowns below. By the long robe, which only Gentlemen could wear in Roman times, it is shown that gravity of manners well befits noble persons; by the lance joined to the image of Minerva, that sciences and arms ennoble man; and by the two crowns, that the goods of the body and those of the soul contribute to it entirely: to which, according to the Poets, the Goddess Pallas greatly contributes, for having been born from the brain of Jupiter, which must be understood mystically as discourse and intellect, by whose means one may win esteem and acquire the qualities necessary to true nobility.",
+        "Others paint her with a star upon her head, and a scepter in hand, to make known that Nobility is born of the virtue of an illustrious courage, and that it is easily preserved by means of riches."
+      ]
     },
     {
       "id": "p1-108",
@@ -5588,12 +5611,61 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-108.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Растрёпанная, дурно одетая женщина, лежащая на земле с перевёрнутыми часами в руке",
+          "meaning": "Перевёрнутые часы — потерянное время; черепаха — медлительность лени; праздность изображена худшей из пороков, разрушающей разум и все достойные качества человека",
+          "what_en": "A disheveled, poorly dressed woman lying on the ground with an overturned clock in hand",
+          "meaning_en": "The overturned clock signifies wasted time; the tortoise, the slowness of sloth; idleness is pictured as worse than vice itself, destroying reason and every quality that brings a person esteem"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде растрёпанной, дурно одетой женщины, лежащей на земле, где она спит, опираясь на одну руку, а в другой держит перевёрнутые часы.",
+        "Её растрёпанные волосы, бедный наряд и сонливость показывают, что беспечный человек всегда прозябает и что его леность неприятна всем.",
+        "Что до часов, которые она держит криво и из которых не может сыпаться песок, это означает потерянное время; к чему можно добавить черепаху, ползущую по её платью, в знак того, что ленивец столь же медлителен и тяжёл, как говорит Ариосто: ¶«Он не может ни ходить, ни стоять на ногах, / И, страшась действовать, повсюду ложится».",
+        "Другие изображают её сидящей с печальным видом, с склонённой головой, руками на груди и скрещёнными руками. Если верить Пьерию, египтяне изображали её так, дабы дать понять, что человек становится неспособен ко всякого рода добрым делам, как только праздной жизнью объявляет себя врагом труда. И правда, что Праздность, или Беспечность, есть столь опасная зараза, что там, где она встречается, не блещет ни один луч разума, не зарождается и малейшая мысль о славе, и, наконец, не видно ни следа добродетели, ни тени бессмертия. Можно поэтому сказать, что праздные души не имеют жизни, подобно тем болотным водам, которые от долгого застоя портятся и становятся зловонными; и что все их деяния — чистое безумие, как восклицает мудрейший из людей.",
+        "В самом деле, поскольку леность есть корень и источник всех жизненных зол, отсюда можно заключить, что вообще она губительнее самого порока. В этой истине нельзя усомниться, если рассудить, что хотя порок и свойствен по природе многим, он всё же не противен природе человека, дурные склонности которого суть как бы побеги, порождаемые смешением противоположных и нестройных настроений: леность же есть зараза, роковая для человеческой природы, которой она смертельный враг; ибо поскольку несомненно, что действие и созерцание естественны человеку, то, конечно, противно его природе, если он не предаётся ни тому, ни другому. Посему чем более отвратительны и гнусны вещи, противные природе, тем более следует бежать праздности, нежели порока, ибо она совершенно разрушает разум, здравый смысл, великодушие, учтивость и прочие качества, снискивающие человеку уважение.",
+        "И зло это направлено не только против естественного тела, но и против государственного, ибо несомненно, что эта зараза губит не менее великих, чем малых, и столь же скоро разрушает дома Государей, сколь и частные состояния, ибо, как говорит Катулл, ¶«Она губит великих Царей, разоряет города / И сеет яд гражданских раздоров».",
+        "Именно дабы предупредить зло, обычно ею причиняемое, во время царствования Амазиса было постановлено, чтобы каждый гражданин ежегодно являлся к своему Судье и под страхом смерти объявлял, каково его занятие и на что он тратит время. Солон поступил так же, когда, узнав у народов Египта подобный закон, впоследствии ввёл его у афинян; и пожелал сверх того, чтобы каждому было дозволено обвинять в суде лентяев и бездельников как людей, недостойных жить. То же соблюдалось и в Риме, где ни один гражданин не смел появиться на людях, если не носил на себе знаков своего занятия или ремесла, которым добывал себе пропитание.",
+        "Если же в благоустроенных Республиках проявляли столько заботы и бдительности, дабы изгнать Праздность, это, без сомнения, делалось лишь затем, чтобы устранить последствия столь дурной причины и тем самым искоренить пороки мира.",
+        "Эти соображения, на мой взгляд, достаточно веские, дабы обязать нас бежать порока Беспечности и питать к нему тем большее отвращение, что, как замечает Аристотель, в природе нет ничего праздного. Это доказывается примером здешних вещей, у каждой из которых есть свой труд и своя задача. Даже сами Ангелы не свободны от этого, ибо они беспрестанно заняты служением Богу, подобно тому как Небеса непрестанно вращаются, Светила сообщают свои влияния, а Стихии их принимают, дабы производить различные действия. Одним словом, нет в мире ничего, что не было бы занято неким делом: птицы — летать, рыбы — плавать, четвероногие — бегать, пресмыкающиеся — ползать, а растения — обновляться.",
+        "Нам, разумным созданиям, следует хорошо им подражать и никогда не уставать творить полезные дела. Если же мы беспечно трудимся над своим спасением, вспомним, что рано или поздно за этим последует наказание, и что всякое дерево, не приносящее доброго плода, будет срублено и брошено в огонь."
+      ],
+      "text_fr": [
+        "On la represente par vne femme échevelée, mal-vestuë, & couchée par terre, où elle dort, appuyée sur l'vn de ses bras, & tient de l'autre main vne horloge renversée.",
+        "Ses cheveux épars, son pauvre équipage, & son assoupissement, font voir qu'vne personne nonchalante rampe toûjours, & que sa faineantise déplaist à tout le monde.",
+        "Quant à l'horloge qu'elle tient de travers, & dont le sable ne peut couler, cela denote le temps perdu; à quoy l'on peut adjoûter vne tortuë qui se traine sur sa robe, pour vne marque de ce que le paresseux est si tardif & si pesant, que comme dit l'Arioste, ¶Il ne peut ny marcher, ny se tenir debout, / Et de crainte d'agir il se couche par tout.",
+        "D'autres la peignent assise avec vne mine triste, la teste panchée, les mains dans son sein, & les bras croisez. S'il en faut croire Pierius, les Egyptiens la representoient ainsi, afin de faire connoistre que l'homme estoit inhabile à toutes sortes de bonnes actions, depuis que par vne vie lâche il se declaroit ennemy du travail. Aussi est-il vray, que l'Oisiveté ou la Nonchalance est vne peste si dangereuse, qu'où elle se rencontre, là n'éclate aucun rayon d'esprit, là n'est conçuë la moindre pensée de gloire, & là finalement ne se remarque ny trace de vertu, ny ombre d'immortalité. On peut donc bien dire que les ames oisives n'ont point de vie, non plus que ces eaux marécageuses, qui à force de croupir se corrompent & deviennent puantes; & que toutes leurs actions ne sont que pures folies, comme s'écrie le plus sage de tous les hommes.",
+        "En effet la faineantise estant la racine & la source de tous les maux de la vie, il s'en peut tirer cette consequence, qu'elle est plus pernicieuse que le vice mesme, à le prendre en general. Cette verité ne peut estre mise en doute, si l'on sçait considerer, qu'encore que le vice soit comme naturel à plusieurs, il n'est pourtant pas contraire à la nature de l'homme, les mauvaises inclinations duquel sont comme des rejettons que pousse au dehors vn mélange d'humeurs contraires & mal reglées: mais quant à la faineantise, c'est vne contagion fatale à l'humaine nature, de qui elle est mortelle ennemie; car estant certain que l'action & la contemplation sont naturelles à l'homme, c'est asseurément contre sa nature, quand il advient qu'il ne s'adonne ny à l'vn ny à l'autre. Ainsi d'autant plus que sont odieuses & detestables les choses contre nature, d'autant plus aussi doit-on fuir l'oisiveté plûtost que le vice, parce qu'elle détruit entierement la raison, le sens, la generosité, la courtoisie, & les autres qualitez qui mettent l'homme en estime.",
+        "Or ce n'est pas seulement au corps naturel à qui elle en veut, mais encore au politique, estant bien certain que cette peste ne détruit pas moins les grands que les petits, & qu'elle ruine aussi-tost les maisons des Princes, que les estats particuliers, car comme dit Catulle, ¶Elle perd les grands Rois, elle gaste les villes, / Et seme le poison des discordes civiles.",
+        "Ce fut aussi pour empescher les maux qu'elle cause d'ordinaire, que durant le regne d'Amazis il fut ordonné, que chaque citoyen eust à comparoistre tous les ans devant son Juge, pour luy declarer sur peine de la vie quelle estoit sa profession, & à quoy il employoit le temps. Solon en fit de mesme, lorsqu'ayant appris des peuples d'Egypte vne loy semblable, il l'imposa depuis aux Atheniens; & voulut en outre qu'il fust permis à chacun d'accuser en jugement les paresseux & les faineans, comme des personnes indignes de vivre. Ce qui fut encore pratiqué dans Rome, où pas vn des citoyens n'osoit paroistre en public, s'il ne portoit sur luy des enseignes de sa profession, ou du mestier dont il gagnoit sa vie.",
+        "Que si dans les Republiques bien policées on témoignoit tant de soin & de vigilance à bannir l'Oisiveté, cela ne se faisoit sans doute que pour oster les effets d'vne si mauvaise cause, & par consequent pour déraciner les vices du monde.",
+        "Ces considerations sont assez fortes, à mon avis, pour nous obliger à fuir le vice de Nonchalance, & à l'avoir d'autant plus en horreur, qu'il est veritable, comme le remarque Aristote, qu'il n'y a rien d'oisif en la nature. Cela se prouve par l'exemple des choses d'icy bas, qui ont toutes leur travail & leur tasche à faire. Les Anges mesmes n'en sont pas exempts; car ils s'occupent perpetuellement à servir Dieu, comme font les Cieux à rouler sans cesse, les Astres à communiquer leurs influences, & les Elemens à les recevoir, pour en produire divers effets. En vn mot il n'est rien dans le monde qui ne s'employe à quelque chose, comme les oiseaux à voler, les poissons à nager, les quadrupedes à courir, les reptiles à ramper, & les plantes à se renouveller.",
+        "Nous devons donc bien les imiter, nous qui sommes creatures raisonnables, & ne nous lasser jamais de faire des œuvres vtiles. Que si nous travaillons nonchalamment à nôtre salut, souvenons-nous que la punition s'en ensuivra tost ou tard, & que Tout arbre qui ne porte point de bon fruit, sera coupé & jetté au feu."
+      ],
       "en": "Nonchalance",
-      "group_en": "N"
+      "group_en": "N",
+      "scans": [
+        "p1-108-1.jpg",
+        "p1-108-2.jpg",
+        "p1-108-3.jpg",
+        "p1-108-4.jpg"
+      ],
+      "text_en": [
+        "She is represented as a disheveled woman, poorly dressed, and lying on the ground, where she sleeps, leaning on one of her arms, and holds in the other hand an overturned clock.",
+        "Her loose hair, her poor condition, and her drowsiness show that a nonchalant person always crawls along, and that their idleness displeases everyone.",
+        "As for the clock she holds askew, from which the sand cannot run, this denotes lost time; to which may be added a tortoise crawling on her robe, as a sign that the lazy man is as slow and as heavy as, in Ariosto's words, ¶\"He can neither walk, nor stand upright, / And for fear of acting lies down everywhere.\"",
+        "Others paint her seated with a sad air, her head bowed, her hands in her lap, and her arms crossed. If we are to believe Pierius, the Egyptians represented her thus, to make known that man is unfit for every kind of good action, once by a slothful life he declares himself an enemy of work. It is indeed true that Idleness, or Nonchalance, is so dangerous a plague that wherever it is found, no ray of wit shines forth, no least thought of glory is conceived, and finally neither trace of virtue nor shadow of immortality is seen. One may well say, then, that idle souls have no life, any more than those stagnant waters which, by dint of standing still, grow corrupt and foul; and that all their actions are pure folly, as the wisest of all men exclaims.",
+        "Indeed, sloth being the root and source of all the ills of life, from this may be drawn the consequence that it is more pernicious than vice itself, taken in general. This truth cannot be doubted, if one considers that, although vice is as it were natural to many, it is nevertheless not contrary to the nature of man, whose bad inclinations are like shoots put forth by a mixture of contrary and ill-regulated humors: but as for sloth, it is a plague fatal to human nature, to which it is a mortal enemy; for since it is certain that action and contemplation are natural to man, it is assuredly against his nature when it happens that he devotes himself to neither. Thus, the more odious and detestable things against nature are, the more one ought to flee idleness rather than vice, because it entirely destroys reason, good sense, generosity, courtesy, and the other qualities that bring a man esteem.",
+        "Now it is not only the natural body that it assails, but the body politic as well, it being quite certain that this plague destroys the great no less than the small, and ruins the houses of Princes as readily as private estates, for as Catullus says, ¶\"She ruins great Kings, she lays waste cities, / And sows the poison of civil discord.\"",
+        "It was likewise to prevent the harms she ordinarily causes that, during the reign of Amasis, it was ordained that every citizen should appear each year before his Judge, to declare, on pain of death, what his profession was, and how he spent his time. Solon did the same, when, having learned of a similar law among the peoples of Egypt, he afterward imposed it on the Athenians; and further wished that everyone be permitted to accuse the lazy and the idle in judgment, as persons unworthy to live. This was likewise practiced at Rome, where not a single citizen dared appear in public unless he bore on him the badges of his profession, or of the trade by which he earned his living.",
+        "And if in well-ordered Republics such care and vigilance was shown in banishing Idleness, this was doubtless done only to remove the effects of so evil a cause, and consequently to uproot the vices of the world.",
+        "These considerations are, in my opinion, strong enough to oblige us to flee the vice of Nonchalance, and to hold it in all the greater horror, since it is true, as Aristotle observes, that there is nothing idle in nature. This is proved by the example of things here below, all of which have their work and their task to perform. Even the Angels are not exempt from this; for they are perpetually occupied in serving God, just as the Heavens ceaselessly turn, the Stars impart their influences, and the Elements receive them, so as to produce various effects. In a word, there is nothing in the world that is not employed at something, as birds at flying, fish at swimming, quadrupeds at running, reptiles at crawling, and plants at renewing themselves.",
+        "We, who are rational creatures, ought therefore to imitate them well, and never tire of doing useful works. And if we labor nonchalantly toward our salvation, let us remember that punishment will sooner or later follow, and that every tree that bears no good fruit shall be cut down and cast into the fire."
+      ]
     },
     {
       "id": "p1-109",
@@ -5606,12 +5678,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-109.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Монахиня с Распятием в левой руке и ярмом с надписью SUAVE в правой",
+          "meaning": "Распятие — послушание ради любви к вере; ярмо со словом «сладостно» — отсутствие горечи в покорности воле Божией и законным наставникам",
+          "what_en": "A nun with a Crucifix in her left hand and a yoke inscribed SUAVE in her right",
+          "meaning_en": "The crucifix signifies obedience for love of faith; the yoke inscribed \"sweet\" shows there is no bitterness in submitting to God's will and to lawful superiors"
+        }
+      ],
+      "text_ru": [
+        "Эта дева, одетая как Монахиня, с весьма скромным лицом, держит в левой руке Распятие, а в правой — ярмо с надписью SUAVE (сладостно).",
+        "Послушание по праву причислено к Добродетелям, поскольку состоит в умении умерщвлять свои желания и подчинять ради большего блага собственную волю воле другого: что человеку трудно исполнить, если он не расположен от природы к вещам похвальным и добродетельным. Потому-то её и изображают с лицом, полным скромности, ибо те, в ком её много, обычно честнее прочих и более склонны любить разум, от которого главным образом зависит умение хорошо повиноваться.",
+        "Распятие и облачение, носимое в Монастыре, показывают, что ради любви к Религии Послушание весьма похвально. Вот почему созерцательные люди, боящиеся Бога, говорят, что ради него божественная Благость весьма охотно внимает нашим молитвам и исполнению наших желаний.",
+        "Ярмо, которое она несёт, со словом SUAVE, учит нас, что в этой Добродетели нет никакой горечи. Лев X носил этот девиз в юности и сохранил его впоследствии, когда был возведён на Папский престол. Это легко видеть и поныне во многих великолепных постройках, оставленных им в Риме и за его пределами, где отмечено то же слово, взятое из слов Иисуса Христа: Iugum meum suave est, то есть «иго моё благо»: под чем этот великий Глава Церкви разумел, без сомнения, Послушание, какое истинно верующие должны оказывать своим законным Наместникам.",
+        "Её можно изобразить также в виде женщины, одетой в белое, несущей крест на плечах и обращающей взор к Небу, откуда исходят многие сияющие, подобные молниям лучи.",
+        "Всё это заставляет нас заметить, что Послушание должно попирать ногами мирские интересы, стремиться к наградам бессмертия и терпеливо подчиняться законам и правилам, налагаемым на него, сколь бы невыносимыми они ни казались чувствам.",
+        "Некоторые изображали Послушание, подобающее Богу, в виде честно одетой женщины, внимательно смотрящей на жертвоприношение на Алтаре и касающейся кончика правого уха рукой, омочённой в крови жертвы.",
+        "Объяснение этого образа взято из Библии, где сказано, что Моисей касался края ушей верховного Жреца Аарона и его сыновей теми же пальцами, которые он омочил в крови жертвы: отсюда, как говорят Богословы, нам даётся наставление быть послушными и в точности исполнять всё, что относится к священному служению Богу."
+      ],
+      "text_fr": [
+        "Cette vierge vestuë en Religieuse, & dont le visage est fort modeste, tient de la main gauche vn Crucifix, & de la droite vn joug, avec ce mot, SUAVE.",
+        "L'Obeissance est mise à bon droit au nombre des Vertus, puisqu'elle consiste à sçavoir mortifier ses appetits, & à soûmettre pour vn plus grand bien sa volonté propre à celle d'autruy: ce qu'vne personne peut difficilement faire, si elle n'est portée d'inclination aux choses louables & vertueuses. Aussi est-elle peinte avec vn visage plein de modestie, à cause que ceux qui en ont beaucoup sont d'ordinaire plus honnestes gens que les autres, & plus enclins à aimer la raison, d'où dépend principalement le moyen de bien obeïr.",
+        "Le Crucifix & l'habillement qui se porte dans le Cloistre montrent, que pour l'amour de la Religion, l'Obeissance est grandement recommandable. Voila pourquoy les hommes contemplatifs & qui craignent Dieu, disent que pour l'amour d'elle la divine Bonté nous accorde tres-volontiers nos prieres, & l'accomplissement de nos desirs.",
+        "Le joug qu'elle porte avec le mot SUAVE, nou apprend qu'il n'y a point d'amertume en cette Vertu. Leon X. eut cette devise en sa jeunesse, & la retint depuis, quand il fut élevé au Pontificat. Ce qui est aisé de voir encore aujourd'huy en plusieurs magnifiques bastimens qu'il a laissez dans Rome, & dehors, où se remarque le mesme mot, tiré de ses paroles de Jesus-Christ, Iugum meum suave est, c'est à dire, mon joug est doux à porter: par où ce grand Chef de l'Eglise entendoit parler sans doute de l'Obeissance que doivent les vrais fideles à leurs Vicaires legitimes.",
+        "On la peut representer encore par vne femme vestuë de blanc, qui porte vne croix sur ses épaules, & qui tourne les yeux vers le Ciel, d'où rejalissent plusieurs rayons resplendissans comme des éclairs.",
+        "Toutes ces choses nous font remarquer que l'Obeissance doit fouler aux pieds les interests du monde, aspirer aux recompenses de l'immortalité, & se soûmettre patiemment aux loix & aux regles qui luy sont imposées, quoiqu'elles semblent insupportables aux sens.",
+        "Quelques-vns ont peint l'Obeissance qu'on doit à Dieu, par vne femme honnestement vestuë, qui regarde attentivement vn sacrifice sur vn Autel, & qui d'vne main qu'elle a trempée au sang de la victime, se touche le bout de l'oreille droite.",
+        "L'explication de cette figure est tirée de la Bible, où il est dit, que Moyse s'en alloit touchant l'extremité des oreilles du souverain Prestre Aaron, & de ses enfans, avec les mesmes doigts qu'il avoit trempez dans le sang de la victime: par où, comme disent les Theologiens, nous sommes avisez d'estre obeissans, & d'executer de point en point tout ce qui appartient au sacré culte de Dieu."
+      ],
       "en": "Obedience",
-      "group_en": "O"
+      "group_en": "O",
+      "scans": [
+        "p1-109-1.jpg",
+        "p1-109-2.jpg"
+      ],
+      "text_en": [
+        "This maiden, clothed as a Nun, and whose face is very modest, holds in her left hand a Crucifix, and in her right a yoke, with this word, SUAVE.",
+        "Obedience is rightly numbered among the Virtues, since it consists in knowing how to mortify one's appetites, and in submitting, for a greater good, one's own will to that of another: which a person can hardly do, unless inclined by nature to praiseworthy and virtuous things. She is accordingly painted with a face full of modesty, because those who have much of it are ordinarily more honest than others, and more inclined to love reason, on which chiefly depends the means of obeying well.",
+        "The Crucifix and the habit worn in the Cloister show that, for the love of Religion, Obedience is greatly to be commended. This is why contemplative men who fear God say that, for love of her, the divine Goodness very willingly grants our prayers, and the fulfillment of our desires.",
+        "The yoke she bears with the word SUAVE teaches us that there is no bitterness in this Virtue. Leo X bore this device in his youth, and kept it afterward, when he was raised to the Pontificate. This may still easily be seen today in several magnificent buildings he left in Rome and elsewhere, where the same word is noted, taken from the words of Jesus Christ, Iugum meum suave est, that is to say, my yoke is easy to bear: by which this great Head of the Church doubtless meant to speak of the Obedience that true believers owe to their lawful Vicars.",
+        "She may also be represented as a woman clothed in white, bearing a cross upon her shoulders, and turning her eyes toward Heaven, whence shoot forth several rays, resplendent as lightning.",
+        "All these things make us remark that Obedience must trample underfoot the interests of the world, aspire to the rewards of immortality, and patiently submit to the laws and rules imposed upon it, however intolerable they may seem to the senses.",
+        "Some have painted the Obedience owed to God as a decently clothed woman, attentively watching a sacrifice upon an Altar, and touching the tip of her right ear with a hand she has dipped in the blood of the victim.",
+        "The explanation of this figure is drawn from the Bible, where it is said that Moses went about touching the tips of the ears of the high Priest Aaron, and of his sons, with the same fingers he had dipped in the blood of the victim: by which, as the Theologians say, we are advised to be obedient, and to carry out point by point all that belongs to the sacred worship of God."
+      ]
     },
     {
       "id": "p1-110",
@@ -5624,12 +5737,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-110.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с двумя раскрытыми ладонями, на каждой из которых — глаз",
+          "meaning": "Руки — орудия деяний; глаз на них — ясность и чистота побуждения, не ищущего тщеславия или выгоды, а творящего добро себе и ближнему",
+          "what_en": "A woman with both hands open, an eye upon each palm",
+          "meaning_en": "The hands are the instruments of deeds; the eye upon them, the clarity and purity of intention, seeking neither vainglory nor gain, but doing good to oneself and one's neighbor"
+        }
+      ],
+      "text_ru": [
+        "Это женщина с двумя раскрытыми ладонями, с глазом посредине каждой из них.",
+        "Этот образ, изобретённый древними, довольно ясен сам по себе. Под руками разумеются деяния, чьими главными орудиями они служат, тогда как глазом является их качество; ибо оно должно быть ясным, а не подобным фонарю, светящему для других, но не освещающему себя самого, — в чём он противоположен глазу, который украшается собственным светом; тем самым нам объявляется, что не следует браться за дело из своего рода тщеславия, ни ради механической выгоды, но дабы творить добро себе самому и своему ближнему."
+      ],
+      "text_fr": [
+        "C'est vne femme qui a les deux mains ouvertes, avec vn œil au milieu tant de l'vne que de l'autre.",
+        "Cette figure de l'invention des anciens, est assez claire d'elle-mesme. Par les mains s'entendent les œuvres, dont elles sont les principaux instrumens, comme par l'œil est demontré leur qualité; car il faut qu'elle soit claire, & non pas semblable à la lanterne qui luit pour les autres, sans s'éclairer elle-mesme; en cela contraire à l'œil, qui s'embellit par sa propre lumiere; ce qui nous declare, qu'il ne faut point mettre la main à l'œuvre par vne espece de vaine gloire, ny pour vne fin mecanique, mais pour se faire du bien à soy, & à son prochain."
+      ],
       "en": "Manifest Work",
-      "group_en": "O"
+      "group_en": "O",
+      "scans": [
+        "p1-110-1.jpg",
+        "p1-110-2.jpg"
+      ],
+      "text_en": [
+        "It is a woman who has both hands open, with an eye in the middle of each one.",
+        "This figure, an invention of the ancients, is clear enough in itself. By the hands are understood works, of which they are the principal instruments, as by the eye their quality is shown; for it must be clear, and not like the lantern that shines for others without lighting itself; in this contrary to the eye, which is beautified by its own light; which declares to us that one must not set one's hand to the work out of a kind of vainglory, nor for a mechanical end, but to do good to oneself, and to one's neighbor."
+      ]
     },
     {
       "id": "p1-111",
