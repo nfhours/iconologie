@@ -1,0 +1,21 @@
+{
+  "slug": "iconologie",
+  "title": {
+    "ru": "Иконология",
+    "en": "Iconologia",
+    "original": "Iconologie"
+  },
+  "subtitle": {
+    "ru": "Чезаре Рипа во французском переводе Жана Бодуэна, Париж, 1644. Указатель обеих частей с переводом. Нажмите на сюжет, чтобы открыть статью.",
+    "en": "Cesare Ripa, in the French translation of Jean Baudoin, Paris, 1644. Index of both parts with translation. Click a subject to open the article."
+  },
+  "author": "Cesare Ripa (trad. Jean Baudoin)",
+  "year": 1644,
+  "place": "Paris",
+  "idPrefix": "p",
+  "viewer": "figure",
+  "parts": [
+    { "n": 1, "ru": "Часть первая", "en": "Part One" },
+    { "n": 2, "ru": "Часть вторая", "en": "Part Two" }
+  ]
+}

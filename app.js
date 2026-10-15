@@ -1,16 +1,20 @@
-/* Иконология Бодуэна: указатель и карточки статей.
-   Данные: data/entries.json, гравюры: img/, сканы страниц: pages/ рядом с этим файлом. */
+/* Библиотека: указатель книг и карточки статей.
+   Реестр книг: library.json. Каждая книга: books/<slug>/book.json + entries.json,
+   гравюры: books/<slug>/img/, сканы страниц: books/<slug>/pages/. */
 (function(){
   // Бампать при каждой правке app.css (и, по желанию, когда меняется логика
   // в app.js, завязанная на новую разметку), чтобы браузеры и CDN не отдавали
   // старую закэшированную копию стилей после деплоя.
-  var APP_VER = "10";
+  var APP_VER = "11";
   var me = document.currentScript;
   var BASE = (me && me.src) ? me.src.replace(/[^\/]*$/, "") : "./";
   var root = document.getElementById("iconologie");
   if(!root){ root = document.createElement("div"); root.id = "iconologie"; (me && me.parentNode ? me.parentNode : document.body).appendChild(root); }
   root.className = "ic";
   if(root.dataset.top) root.style.setProperty("--top", root.dataset.top);
+  // data-book="iconologie" на блоке запирает библиотеку на одной книге (так подключается
+  // блок на Тильде); без атрибута показывается вся библиотека со списком книг.
+  var forcedBook = root.getAttribute("data-book") || null;
 
   // шрифты и стили
   function addLink(href){ var l=document.createElement("link"); l.rel="stylesheet"; l.href=href; document.head.appendChild(l); }
@@ -23,9 +27,10 @@
 
   /* ---------- i18n ---------- */
   var DICT = {
-    title:        {ru:"Иконология", en:"Iconologia"},
-    subtitle:     {ru:"Чезаре Рипа во французском переводе Жана Бодуэна, Париж, 1644. Указатель обеих частей с переводом. Нажмите на сюжет, чтобы открыть статью.",
-                    en:"Cesare Ripa, in the French translation of Jean Baudoin, Paris, 1644. Index of both parts with translation. Click a subject to open the article."},
+    libTitle:     {ru:"Библиотека", en:"Library"},
+    libSub:       {ru:"Старые книги об образах и древностях, с переводом на русский и английский.",
+                    en:"Old books on allegory and antiquities, translated into Russian and English."},
+    libEmpty:     {ru:"Книги ещё не добавлены.", en:"No books added yet."},
     progress:     {ru:"Переведено статей: {done} из {total}", en:"Articles translated: {done} of {total}"},
     searchPh:     {ru:"Найти: сюжет, предмет, слово по-русски, по-французски или по-английски", en:"Search: subject, motif, a word in English, French, or Russian"},
     fAll:         {ru:"Все", en:"All"},
@@ -39,13 +44,13 @@
     emptyReady:   {ru:"Пока нет готовых статей. Они появятся здесь по мере перевода.", en:"No articles finished yet. They will appear here as the translation progresses."},
     emptySearch:  {ru:"Ничего не найдено. Попробуйте другое слово или старое написание, например «hyver» вместо «hiver».",
                     en:"Nothing found. Try another word or the old spelling, e.g. “hyver” instead of “hiver”."},
-    part1:        {ru:"Часть первая", en:"Part One"},
-    part2:        {ru:"Часть вторая", en:"Part Two"},
     partN:        {ru:"ч. {n}", en:"pt. {n}"},
     pageAbbr:     {ru:"с.", en:"p."},
     loading:      {ru:"Загрузка…", en:"Loading…"},
     loadError:    {ru:"Не удалось загрузить данные. Обновите страницу.", en:"Could not load the data. Please refresh the page."},
+    bookError:    {ru:"Эта книга временно недоступна.", en:"This book is temporarily unavailable."},
     back:         {ru:"← Указатель", en:"← Index"},
+    toLibrary:    {ru:"← Библиотека", en:"← Library"},
     prevArticle:  {ru:"Предыдущая статья", en:"Previous article"},
     nextArticle:  {ru:"Следующая статья", en:"Next article"},
     position:     {ru:"Часть {part}, с. {page}", en:"Part {part}, p. {page}"},
@@ -76,9 +81,15 @@
     if(vars) for(var k in vars) s = s.replace("{"+k+"}", vars[k]);
     return s;
   }
+  // текст с полки книги: {ru,en} -> строка на текущем языке, с откатом на ru
+  function bt(field){ return field ? (field[state.lang] || field.ru || "") : ""; }
+  function partLabel(book, n){
+    var p = book && book.meta && book.meta.parts && book.meta.parts.filter(function(x){return x.n===n;})[0];
+    if(p) return p[state.lang] || p.ru;
+    return t("partN",{n:n});
+  }
 
-  var items=[], byId={}, state={q:"",filter:"all",sort:"book",scroll:0,lang:"ru"};
-  try{ var s=sessionStorage.getItem("ic-state"); if(s){ var o=JSON.parse(s); state.q=o.q||""; state.filter=o.filter||"all"; state.sort=o.sort||"book"; } }catch(e){}
+  var state={q:"",filter:"all",sort:"book",scroll:0,lang:"ru"};
 
   // язык: ?lang= в URL (приоритет и запоминается) > сохранённый выбор > data-lang на блоке > ru
   (function initLang(){
@@ -103,7 +114,11 @@
     root.setAttribute("data-lang", l);
     route();
   }
-  function keep(){ try{ sessionStorage.setItem("ic-state", JSON.stringify({q:state.q,filter:state.filter,sort:state.sort})); }catch(e){} }
+  function keep(slug){ try{ sessionStorage.setItem("ic-state:"+slug, JSON.stringify({q:state.q,filter:state.filter,sort:state.sort})); }catch(e){} }
+  function restoreState(slug){
+    state.q=""; state.filter="all"; state.sort="book";
+    try{ var s=sessionStorage.getItem("ic-state:"+slug); if(s){ var o=JSON.parse(s); state.q=o.q||""; state.filter=o.filter||"all"; state.sort=o.sort||"book"; } }catch(e){}
+  }
 
   function esc(s){ return String(s==null?"":s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];}); }
   function norm(s){ return String(s||"").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")
@@ -125,27 +140,87 @@
   function titleOf(it){ return state.lang==="en" && it.en ? it.en : it.ru; }
   function groupOf(it){ return state.lang==="en" && it.group_en ? it.group_en : it.group; }
 
-  root.innerHTML = '<div class="ic-wrap"><p class="ic-sub">'+t("loading")+'</p></div>';
+  /* ---------- загрузка библиотеки и книг ---------- */
+  var library = null;        // содержимое library.json
+  var books = {};            // кэш: slug -> {meta, items, byId} | "error" | undefined(загружается)
 
-  fetch(BASE+"data/entries.json",{cache:"no-cache"}).then(function(r){ if(!r.ok) throw 0; return r.json(); }).then(function(d){
-    items = d.items || [];
-    items.forEach(function(it,i){
-      it.ord=i; byId[it.id]=it; it.pn=parseInt(it.page,10)||0;
-      it.key = norm([it.fr,it.ru,it.en||"",it.group,it.group_fr,it.group_en||"",it.num,it.caption||"",
-        (it.attrs||[]).map(function(a){return a.what+" "+a.meaning+" "+(a.what_en||"")+" "+(a.meaning_en||"");}).join(" "),
-        (it.text_ru||[]).join(" "),(it.text_en||[]).join(" "),(it.text_fr||[]).join(" ")].join(" "));
+  function loadLibrary(cb){
+    if(library){ cb(library); return; }
+    fetch(BASE+"library.json",{cache:"no-cache"}).then(function(r){ if(!r.ok) throw 0; return r.json(); })
+      .then(function(d){ library = d.books || []; cb(library); })
+      .catch(function(){ library = []; cb(library); });
+  }
+
+  function openBook(slug, cb){
+    if(books[slug] !== undefined){ cb(books[slug]==="error" ? null : books[slug]); return; }
+    root.innerHTML = '<div class="ic-wrap"><p class="ic-sub">'+t("loading")+'</p></div>';
+    Promise.all([
+      fetch(BASE+"books/"+slug+"/book.json",{cache:"no-cache"}).then(function(r){ if(!r.ok) throw 0; return r.json(); }),
+      fetch(BASE+"books/"+slug+"/entries.json",{cache:"no-cache"}).then(function(r){ if(!r.ok) throw 0; return r.json(); })
+    ]).then(function(res){
+      var meta = res[0], data = res[1];
+      var items = data.items || [], byId = {};
+      items.forEach(function(it,i){
+        it.ord=i; byId[it.id]=it; it.pn=parseInt(it.page,10)||0;
+        it.key = norm([it.fr,it.ru,it.en||"",it.group,it.group_fr,it.group_en||"",it.num,it.caption||"",
+          (it.attrs||[]).map(function(a){return a.what+" "+a.meaning+" "+(a.what_en||"")+" "+(a.meaning_en||"");}).join(" "),
+          (it.text_ru||[]).join(" "),(it.text_en||[]).join(" "),(it.text_fr||[]).join(" ")].join(" "));
+      });
+      var book = {slug:slug, meta:meta, items:items, byId:byId};
+      books[slug] = book;
+      cb(book);
+    }).catch(function(){
+      books[slug] = "error";
+      root.innerHTML = '<div class="ic-wrap"><p class="ic-empty">'+t("bookError")+'</p><button type="button" class="ic-back ic-to-lib">'+t("toLibrary")+'</button></div>';
+      var b = root.querySelector(".ic-to-lib"); if(b) b.addEventListener("click",function(){ location.hash=""; });
+      cb(null);
     });
-    window.addEventListener("hashchange", route);
-    route();
-  }).catch(function(){
-    root.innerHTML = '<div class="ic-wrap"><p class="ic-empty">'+t("loadError")+'</p></div>';
-  });
+  }
+
+  /* ---------- маршрутизация ---------- */
+  // Форматы адреса: "#/<slug>/<id>" — карточка; "#/<slug>" — указатель книги;
+  // "#/" или пусто — библиотека (когда книга не закреплена через data-book).
+  // Старый формат без слага "#/p1-3" по-прежнему работает и ведёт в "iconologie" —
+  // так не ломаются ссылки, сохранённые до появления библиотеки.
+  function parseHash(){
+    var h = location.hash;
+    var m2 = h.match(/^#\/([a-z][a-z0-9-]*)\/([A-Za-z0-9][A-Za-z0-9-]*)$/);
+    if(m2) return {slug:m2[1], id:m2[2]};
+    var mLegacy = h.match(/^#\/(p[12]-\d+)$/);
+    if(mLegacy) return {slug:"iconologie", id:mLegacy[1]};
+    var m1 = h.match(/^#\/([a-z][a-z0-9-]*)$/);
+    if(m1) return {slug:m1[1], id:null};
+    return {slug:null, id:null};
+  }
 
   function route(){
-    var m = location.hash.match(/^#\/(p[12]-\d+)$/);
-    if(m && byId[m[1]]) renderCard(byId[m[1]]); else renderIndex();
+    if(forcedBook){
+      var h = location.hash;
+      var id = null;
+      var m2 = h.match(/^#\/([a-z][a-z0-9-]*)\/([A-Za-z0-9][A-Za-z0-9-]*)$/);
+      var m1 = h.match(/^#\/([A-Za-z0-9][A-Za-z0-9-]*)$/);
+      if(m2 && m2[1]===forcedBook) id = m2[2];
+      else if(m1) id = m1[1];
+      openBook(forcedBook, function(book){
+        if(!book) return;
+        if(id && book.byId[id]) renderCard(book, book.byId[id]);
+        else renderIndex(book);
+      });
+      return;
+    }
+    var p = parseHash();
+    if(!p.slug){ renderLibraryHome(); return; }
+    openBook(p.slug, function(book){
+      if(!book){ renderLibraryHome(); return; }
+      if(p.id && book.byId[p.id]) renderCard(book, book.byId[p.id]);
+      else renderIndex(book);
+    });
   }
-  function go(id){ state.scroll = window.scrollY; location.hash = "#/"+id; }
+  window.addEventListener("hashchange", route);
+  loadLibrary(function(){ route(); });
+
+  function go(book, id){ state.scroll = window.scrollY; location.hash = forcedBook ? "#/"+id : "#/"+book.slug+"/"+id; }
+  function goIndex(book){ location.hash = forcedBook ? "" : "#/"+book.slug; }
   function toTop(){ var r=root.getBoundingClientRect(); if(r.top<0) window.scrollTo(0, window.scrollY+r.top); }
   // WebKit (в т.ч. iPadOS) иногда не перерисовывает position:sticky после замены
   // innerHTML на SPA-переходе — элемент «застревает» в старом положении/размере.
@@ -164,10 +239,42 @@
     container.querySelectorAll(".ic-lang-b").forEach(function(b){ b.addEventListener("click",function(){ setLang(b.getAttribute("data-lang")); }); });
   }
 
-  /* ---------- указатель ---------- */
-  function filtered(){
+  /* ---------- библиотека: список книг ---------- */
+  function renderLibraryHome(){
+    root.innerHTML = '<div class="ic-wrap"><p class="ic-sub">'+t("loading")+'</p></div>';
+    loadLibrary(function(list){
+      Promise.all(list.map(function(b){
+        return fetch(BASE+"books/"+b.slug+"/book.json",{cache:"no-cache"}).then(function(r){return r.ok?r.json():null;}).catch(function(){return null;});
+      })).then(function(metas){
+        var cards = list.map(function(b,i){
+          var m = metas[i]; if(!m) return "";
+          return '<li class="ic-book-card" tabindex="0" role="link" data-slug="'+esc(b.slug)+'">'+
+            '<h2 class="ic-book-title">'+esc(bt(m.title))+'</h2>'+
+            (m.author?'<p class="ic-book-author">'+esc(m.author)+(m.year?", "+m.year:"")+'</p>':"")+
+            (m.subtitle?'<p class="ic-book-sub">'+esc(bt(m.subtitle))+'</p>':"")+
+          '</li>';
+        }).join("");
+        root.innerHTML =
+          '<div class="ic-wrap">'+
+            '<div class="ic-top-row">'+langSwitch()+'</div>'+
+            '<h1 class="ic-title">'+t("libTitle")+'</h1>'+
+            '<p class="ic-sub">'+t("libSub")+'</p>'+
+            '<ul class="ic-booklist">'+(cards || '<p class="ic-empty">'+t("libEmpty")+'</p>')+'</ul>'+
+          '</div>';
+        bindLangSwitch(root);
+        root.querySelectorAll(".ic-book-card").forEach(function(c){
+          c.addEventListener("click",function(){ location.hash = "#/"+c.getAttribute("data-slug"); });
+          c.addEventListener("keydown",function(e){ if(e.key==="Enter"||e.key===" "){ e.preventDefault(); location.hash = "#/"+c.getAttribute("data-slug"); } });
+        });
+        nudgeRepaint();
+      });
+    });
+  }
+
+  /* ---------- указатель книги ---------- */
+  function filtered(book){
     var nq = norm(state.q.trim());
-    var res = items.filter(function(it){
+    var res = book.items.filter(function(it){
       if(state.filter==="1" && it.part!==1) return false;
       if(state.filter==="2" && it.part!==2) return false;
       if(state.filter==="ready" && !ready(it)) return false;
@@ -178,18 +285,21 @@
     return res;
   }
 
-  function renderIndex(){
+  function renderIndex(book){
+    restoreState(book.slug);
+    var items = book.items;
     var done = items.filter(ready).length, pct = items.length ? Math.round(done*100/items.length) : 0;
+    var multiPart = book.meta.parts && book.meta.parts.length > 1;
     root.innerHTML =
       '<div class="ic-wrap">'+
-        '<div class="ic-top-row">'+langSwitch()+'</div>'+
-        '<h1 class="ic-title">'+t("title")+'</h1>'+
-        '<p class="ic-sub">'+t("subtitle")+'</p>'+
+        '<div class="ic-top-row">'+(forcedBook?"":'<button type="button" class="ic-to-lib-link">'+t("toLibrary")+'</button>')+langSwitch()+'</div>'+
+        '<h1 class="ic-title">'+esc(bt(book.meta.title))+'</h1>'+
+        '<p class="ic-sub">'+esc(bt(book.meta.subtitle))+'</p>'+
         '<p class="ic-progress">'+t("progress",{done:done,total:items.length})+'<span class="ic-bar"><i style="width:'+pct+'%"></i></span></p>'+
         '<div class="ic-controls">'+
           '<input class="ic-search" type="search" placeholder="'+esc(t("searchPh"))+'" autocomplete="off" aria-label="'+esc(t("searchPh"))+'">'+
           '<div class="ic-row"><div class="ic-seg" role="group" aria-label="Filter">'+
-            chip("all",t("fAll"))+chip("1",t("fPart1"))+chip("2",t("fPart2"))+chip("ready",t("fReady"))+
+            chip("all",t("fAll"))+(multiPart?chip("1",t("fPart1"))+chip("2",t("fPart2")):"")+chip("ready",t("fReady"))+
           '</div><select class="ic-sort" aria-label="Sort">'+
             opt("book",t("sBook"))+opt("ru",t("sAlpha"))+opt("page",t("sPage"))+
           '</select></div>'+
@@ -198,41 +308,44 @@
         '<div class="ic-list"></div>'+
       '</div>';
     bindLangSwitch(root);
+    var toLib = root.querySelector(".ic-to-lib-link"); if(toLib) toLib.addEventListener("click",function(){ location.hash=""; });
     var q=root.querySelector(".ic-search"); q.value=state.q;
-    q.addEventListener("input",function(){ state.q=q.value; keep(); fill(); });
-    root.querySelector(".ic-sort").addEventListener("change",function(e){ state.sort=e.target.value; keep(); fill(); });
+    q.addEventListener("input",function(){ state.q=q.value; keep(book.slug); fill(book); });
+    root.querySelector(".ic-sort").addEventListener("change",function(e){ state.sort=e.target.value; keep(book.slug); fill(book); });
     root.querySelectorAll(".ic-chip").forEach(function(b){ b.addEventListener("click",function(){
-      state.filter=b.getAttribute("data-f"); keep();
+      state.filter=b.getAttribute("data-f"); keep(book.slug);
       root.querySelectorAll(".ic-chip").forEach(function(x){ x.setAttribute("aria-pressed", x===b); });
-      fill();
+      fill(book);
     });});
     root.querySelector(".ic-list").addEventListener("click",function(e){
-      var r=e.target.closest(".ic-row-item"); if(r) go(r.getAttribute("data-id"));
+      var r=e.target.closest(".ic-row-item"); if(r) go(book, r.getAttribute("data-id"));
     });
     root.querySelector(".ic-list").addEventListener("keydown",function(e){
-      var r=e.target.closest(".ic-row-item"); if(r && (e.key==="Enter"||e.key===" ")){ e.preventDefault(); go(r.getAttribute("data-id")); }
+      var r=e.target.closest(".ic-row-item"); if(r && (e.key==="Enter"||e.key===" ")){ e.preventDefault(); go(book, r.getAttribute("data-id")); }
     });
-    fill();
+    fill(book);
     if(state.scroll){ var y=state.scroll; state.scroll=0; requestAnimationFrame(function(){ window.scrollTo(0,y); }); }
     nudgeRepaint();
   }
-  function chip(v,t){ return '<button type="button" class="ic-chip" data-f="'+v+'" aria-pressed="'+(state.filter===v)+'">'+t+'</button>'; }
-  function opt(v,t){ return '<option value="'+v+'"'+(state.sort===v?" selected":"")+'>'+t+'</option>'; }
+  function chip(v,t_){ return '<button type="button" class="ic-chip" data-f="'+v+'" aria-pressed="'+(state.filter===v)+'">'+t_+'</button>'; }
+  function opt(v,t_){ return '<option value="'+v+'"'+(state.sort===v?" selected":"")+'>'+t_+'</option>'; }
 
-  function fill(){
+  function fill(book){
     var list=root.querySelector(".ic-list"), count=root.querySelector(".ic-count");
-    var res=filtered(), nq=state.q.trim();
+    var res=filtered(book), nq=state.q.trim();
+    var multiPart = book.meta.parts && book.meta.parts.length > 1;
     count.textContent = res.length ? t("found",{n:res.length}) : "";
     if(!res.length){
       list.innerHTML = '<p class="ic-empty">'+(state.filter==="ready" && !nq ? t("emptyReady") : t("emptySearch"))+'</p>';
       return;
     }
-    var grouped = state.sort==="book" && !nq, showPart = state.sort==="ru" || (!grouped && state.filter!=="1" && state.filter!=="2");
+    var grouped = state.sort==="book" && !nq, showPart = multiPart && (state.sort==="ru" || (!grouped && state.filter!=="1" && state.filter!=="2"));
     var html="", part=0, grp=null, open=false;
     res.forEach(function(it){
       if(state.sort!=="ru" && it.part!==part){
         if(open){ html+="</ul></section>"; open=false; }
-        html+='<h2 class="ic-part">'+(it.part===1?t("part1"):t("part2"))+'</h2>'; part=it.part; grp=null;
+        if(multiPart) html+='<h2 class="ic-part">'+esc(partLabel(book,it.part))+'</h2>';
+        part=it.part; grp=null;
       }
       if(grouped){
         var gk=it.part+"|"+it.group+"|"+it.group_fr;
@@ -255,15 +368,17 @@
   }
 
   /* ---------- карточка статьи ---------- */
-  function seq(){ var r=filtered(); if(state.sort==="ru") return r; return r.slice().sort(function(a,b){return a.ord-b.ord;}); }
+  function seq(book){ var r=filtered(book); if(state.sort==="ru") return r; return r.slice().sort(function(a,b){return a.ord-b.ord;}); }
 
-  function renderCard(it){
-    var s=seq(), i=s.indexOf(it);
-    if(i<0){ s=items; i=it.ord; }
+  function renderCard(book, it){
+    var s=seq(book), i=s.indexOf(it);
+    if(i<0){ s=book.items; i=it.ord; }
     var prev=s[i-1], next=s[i+1];
     var pos=t("position",{part:it.part,page:it.page});
+    var imgBase = BASE+"books/"+book.slug+"/img/";
+    var pagesBase = BASE+"books/"+book.slug+"/pages/";
     var imgs=(it.img||[]).map(function(src,k){
-      return '<figure class="ic-fig" data-src="'+esc(BASE+"img/"+src)+'"><img loading="lazy" src="'+esc(BASE+"img/"+src)+'" alt="'+esc(t("engravingAlt",{title:titleOf(it)}))+'">'+
+      return '<figure class="ic-fig" data-src="'+esc(imgBase+src)+'"><img loading="lazy" src="'+esc(imgBase+src)+'" alt="'+esc(t("engravingAlt",{title:titleOf(it)}))+'">'+
         (it.img.length>1?'<figcaption>'+t("figOf",{k:k+1,n:it.img.length})+'</figcaption>':"")+'</figure>';
     }).join("");
     var captionLine = it.caption ? '<p class="ic-caption"><b>'+esc(t("captionLbl"))+'</b> '+esc(it.caption)+'</p>' : "";
@@ -287,7 +402,7 @@
           langSwitch()+
         '</div>'+
         '<header class="ic-head">'+
-          '<p class="ic-kicker">'+(it.num?it.num+". ":"")+esc(it.group_fr?groupOf(it):(it.part===1?t("part1"):""))+'</p>'+
+          '<p class="ic-kicker">'+(it.num?it.num+". ":"")+esc(it.group_fr?groupOf(it):(book.meta.parts&&book.meta.parts.length>1?partLabel(book,it.part):""))+'</p>'+
           '<h1 class="ic-h-fr">'+esc(it.fr)+'</h1>'+
           '<p class="ic-h-ru">'+esc(titleOf(it))+'</p>'+
         '</header>'+
@@ -304,13 +419,13 @@
 
     bindLangSwitch(root);
     root.querySelector(".ic-back").addEventListener("click",function(){
-      location.hash="";
+      goIndex(book);
     });
     root.querySelectorAll("[data-go]").forEach(function(b){ b.addEventListener("click",function(){
-      var id=b.getAttribute("data-go"); if(id) location.hash="#/"+id;
+      var id=b.getAttribute("data-go"); if(id) go(book, id);
     });});
     root.querySelectorAll(".ic-fig").forEach(function(f){ f.addEventListener("click",function(){ lightbox(f.getAttribute("data-src")); }); });
-    if(hasScans||hasFr) bindOriginal(it);
+    if(hasScans||hasFr) bindOriginal(it, pagesBase);
     toTop();
     nudgeRepaint();
   }
@@ -330,7 +445,7 @@
       '</div>'+
     '</details>';
   }
-  function bindOriginal(it){
+  function bindOriginal(it, pagesBase){
     var det = root.querySelector(".ic-original");
     if(!det) return;
     var body = det.querySelector(".ic-orig-body");
@@ -342,7 +457,7 @@
     function scanHtml(){
       var scans = it.scans||[];
       if(!scans.length) return "";
-      var src = BASE+"pages/"+scans[page];
+      var src = pagesBase+scans[page];
       return '<div class="ic-scan">'+
         '<div class="ic-scan-frame" data-src="'+esc(src)+'">'+
           '<img src="'+esc(src)+'" alt="'+esc(t("engravingAlt",{title:titleOf(it)}))+'">'+
@@ -393,7 +508,7 @@
 
   // стрелки клавиатуры в карточке
   document.addEventListener("keydown",function(e){
-    if(!/^#\/p/.test(location.hash) || document.querySelector(".ic-lb")) return;
+    if(!/^#\/.*[a-z0-9]-/i.test(location.hash) || document.querySelector(".ic-lb")) return;
     if(e.target.matches && e.target.matches("input,textarea,select")) return;
     var b = e.key==="ArrowLeft" ? root.querySelector(".ic-arrow[data-go]") : e.key==="ArrowRight" ? root.querySelectorAll(".ic-arrow")[1] : null;
     if(b && !b.disabled) b.click();
