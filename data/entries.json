@@ -4797,12 +4797,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-91.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в оливковом венке, опирающаяся рукой на слона",
+          "meaning": "Слон — природный образ кротости, не нападающий первым и щадящий слабых; оливковый венок и масло — символ мира и усмирения ярости",
+          "what_en": "A woman crowned with olive, her hand resting on an elephant",
+          "meaning_en": "The elephant is nature's own image of mildness, never attacking first and sparing the weak; the olive garland and its oil symbolize peace and the stilling of fury"
+        }
+      ],
+      "text_ru": [
+        "Это женщина, увенчанная оливковым венком, рядом с которой стоит слон, на которого она кладёт правую руку.",
+        "Кротость, которая, по Аристотелю, держится в пределах умеренности и укрощает движения гнева, не может быть лучше представлена, чем слоном, на которого она опирается: недаром он всегда был у египтян символом этой добродетели; ибо от природы ему свойственно никогда не сражаться со зверями слабее себя и даже равными ему, если они не раздражают его чрезвычайно: а если он встречает их во множестве, то тотчас удаляется в сторону, опасаясь причинить им вред; к тому же, если он встречает в пустынях заблудившегося путника, он не причиняет ему никакого зла, но с дивной сноровкой выводит его на верный путь.",
+        "С полным основанием и оливковый венок служит наградой этой добродетели; ибо это прекрасное дерево издревле было знаком Кротости: вот почему древние египетские жрецы желали, чтобы все изваяния их богов были сделаны из этого дерева. Тем самым они, без сомнения, хотели сказать, что Богу свойственно щедро сообщать людям свои милости, прощать им обиды и обходиться с ними со всяческой кротостью и мягкостью. К этому можно добавить, что олива не только миролюбива, но и масло, из неё получаемое, обладает такой силой против неистовства, что, будучи брошено в море, усмиряет его и прекращает буйство волнующих его ветров."
+      ],
+      "text_fr": [
+        "C'Est vne femme couronnée d'olivier, ayant à son costé vn elephant, sur qui elle pose la main droite.",
+        "La Mansuetude, qui selon Aristote se tient dans les bornes de la moderation, & dompte les mouvemens de la colere, ne peut estre mieux representée que par l'elephant sur qui elle s'appuye: aussi a-t'il toûjours esté chez les Egyptiens le symbole de cette vertu; car il tient cela de la nature, de ne combattre jamais avec des bestes moins fortes que luy, ny mesme qui luy soient égales, si elles ne l'irritent extremement: que s'il en rencontre plusieurs, il se tire aussi-tost à l'écart, de peur qu'il a de leur nuire; joint que s'il trouve dans les deserts quelque voyageur qui soit égaré, il ne luy fait aucun mal, & le remet dans son chemin avec vne adresse merveilleuse.",
+        "C'est encore à fort bon droit qu'vne guirlande d'olivier est le prix de cette vertu; car ce bel arbre a esté de tout temps vne marque de Mansuetude: & voila pourquoy les anciens Prestres Egyptiens vouloient que toutes les figures de leurs dieux fussent faites de ce bois. Par où ils vouloient dire sans doute, que c'est le propre de Dieu de communiquer ses graces liberalement aux hommes, de leur pardonner leurs offenses, & de les traiter avec toute sorte de douceur & de mansuetude. A quoy l'on peut adjoûter que l'olivier n'est pas seulement pacifique, mais que l'huile qui en sort a tant de force contre la fureur, qu'estant jettée dans la mer elle la rend calme, & fait cesser la violence des vents qui l'agitent."
+      ],
       "en": "Meekness",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-091-1.jpg"
+      ],
+      "text_en": [
+        "She is a woman crowned with olive, having at her side an elephant, upon which she lays her right hand.",
+        "Mansuetude, which according to Aristotle keeps within the bounds of moderation and tames the movements of anger, cannot be better represented than by the elephant on which she leans: indeed it has always been, among the Egyptians, the symbol of this virtue; for it has it from nature never to fight with beasts weaker than itself, nor even with those equal to it, unless they provoke it extremely: and if it meets several of them, it withdraws at once to the side, for fear of harming them; moreover, if it finds in the deserts some traveler who has lost his way, it does him no harm, and sets him back on his path with marvelous skill.",
+        "It is likewise with very good reason that a garland of olive is the prize of this virtue; for this fine tree has at all times been a mark of Mansuetude: and this is why the ancient Egyptian Priests wished all the figures of their gods to be made of this wood. By which they doubtless meant to say that it is proper to God to communicate His graces liberally to men, to forgive them their offenses, and to treat them with every kind of gentleness and mildness. To which may be added that the olive is not only peaceable, but that the oil which comes from it has such force against fury that, cast into the sea, it calms it, and stills the violence of the winds that trouble it."
+      ]
     },
     {
       "id": "p1-92",
@@ -4815,12 +4840,40 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-92.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Богато одетая женщина с ярмом на шее, айвой в руке, оковами на ногах и гадюкой под ними",
+          "meaning": "Ярмо и оковы — тяжесть брачных уз, лишающих свободы; айва — плодородие и взаимная любовь; гадюка — предостережение против измены, рождающейся от избытка сладострастия",
+          "what_en": "A richly clothed woman with a yoke on her neck, a quince in hand, fetters on her feet and a viper beneath them",
+          "meaning_en": "The yoke and fetters signify the weight of the marriage bond, which gives up liberty; the quince, fertility and mutual love; the viper, a warning against infidelity born of excess desire"
+        }
+      ],
+      "text_ru": [
+        "Его лучше всего изобразить в облике богато одетой женщины, с ярмом на шее, айвой в одной руке, оковами на ногах и гадюкой под ними.",
+        "Оковами и ярмом показано, что Брак — довольно тяжкое бремя для сил человека, который сам себя продаёт, лишаясь свободы, дабы обязать себя вечным законом и чаще всего подчиниться прихотям женщины. Со всем тем, однако, он не перестаёт быть желанным по многим соображениям, а особенно потому, что даёт детей, которые ради общественной пользы наследуют имущество и добродетели своих отцов.",
+        "Она держит в руке айву, поскольку по установлению Солона этот плод в древности подносили в Афинах новобрачным. Он также символ плодородия и взаимной любви, как видно на медалях, где его дают нести юному Гименею.",
+        "Гадюка под её ногами показывает, что женщина чести должна отвергать всякую мысль, хоть сколько-нибудь оскорбляющую верность, обещанную мужу, не уподобляясь гадюке, которая от избытка скотского сладострастия убивает змея, в чьих объятиях она сплетена."
+      ],
+      "text_fr": [
+        "Il ne peut mieux estre dépeint que par le portrait de cette femme richement vestuë, ayant sur le col vn joug, vn coin en vne main, des entraves aux pieds, & vne vipere au dessous.",
+        "Par les entraves & par le joug il est demontré que le Mariage est vn assez pesant fardeau pour les forces de l'homme, qui se vend soy-mesme, se privant de liberté, pour s'obliger à vne loy perpetuelle, & se soûmettre le plus souvent aux caprices d'vne femme. Avec tout cela neanmoins il ne laisse pas d'estre desirable, pour plusieurs considerations, & particulierement pour celle d'avoir des enfans, qui pour l'vtilité publique succedent aux biens & aux vertus de leurs peres.",
+        "Elle tient vn coin en la main, dautant que par l'ordonnance de Solon on presentoit anciennement ce fruit dans Athenes aux nouveaux-mariez. Aussi est-il vn symbole de fecondité & d'amour reciproque, comme il se voit en des medailles, où on le fait porter au jeune Hymenée.",
+        "La vipere qui est sous ses pieds, montre qu'il faut qu'vne femme d'honneur rejette toutes les pensées qui choquent tant soit peu la foy promise à son mary, ne faisant pas comme la vipere, qui par vn excés de volupté brutale tuë le serpent, dans les embrassémens duquel elle est enlacée."
+      ],
       "en": "Marriage",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-092-1.jpg"
+      ],
+      "text_en": [
+        "It cannot be better depicted than by the portrait of this richly clothed woman, having on her neck a yoke, a quince in one hand, fetters on her feet, and a viper beneath them.",
+        "By the fetters and the yoke it is shown that Marriage is a rather heavy burden for the strength of man, who sells himself, depriving himself of liberty, to bind himself by a perpetual law, and most often to submit to the whims of a woman. With all that, nevertheless, it does not fail to be desirable, for several considerations, and particularly for that of having children, who, for the public good, succeed to the goods and virtues of their fathers.",
+        "She holds a quince in her hand, inasmuch as by the ordinance of Solon this fruit was anciently presented in Athens to the newly married. It is likewise a symbol of fertility and mutual love, as is seen on medals, where it is made to be carried by young Hymen.",
+        "The viper beneath her feet shows that a woman of honor must reject every thought that in the least offends the faith promised to her husband, not acting like the viper, which, through an excess of brutish pleasure, kills the serpent in whose embraces she is entwined."
+      ]
     },
     {
       "id": "p1-93",
@@ -4833,12 +4886,34 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-93.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в прозрачном покрове, с крыльями на голове, небесным глобусом и циркулем",
+          "meaning": "Прозрачная ткань — ясность и неоспоримость математических доказательств; крылья — возвышение ума; глобус и циркуль — изучение мер и соразмерностей",
+          "what_en": "A woman in a transparent veil, with wings on her head, a celestial globe and a compass",
+          "meaning_en": "The transparent cloth signifies the clarity and certainty of mathematical proofs; the wings, the mind's elevation; the globe and compass, the study of measure and proportion"
+        }
+      ],
+      "text_ru": [
+        "Это женщина средних лет, покрытая белым прозрачным покровом, с крыльями на голове, небесным глобусом в левой руке, а в правой — циркулем, которым она чертит различные фигуры.",
+        "Её несколько зрелый возраст показывает, что эта наука, будучи одной из прекраснейших и достовернейших, поскольку действует лишь посредством доказательств, не должна удивлять тем, что для её обретения требуется время. Её прозрачная одежда — что приводимые ею доказательства столь ясны, что в них нельзя усомниться; а крылья на её голове — что силой своего ума она возносится к созерцанию высочайших материй. Это же являют и небесный глобус, который она держит, и циркуль — орудие, присущее этому занятию, изучающему меры и соразмерность всех вещей."
+      ],
+      "text_fr": [
+        "C'Est vne femme d'âge mediocre, couverte d'vn voile blanc & transparant, avec des aisles à sa teste, vn globe celeste en la main gauche, & en la droite vn compas, dont elle trace plusieurs figures.",
+        "Son âge vn peu avancé nous montre que cette science estant des plus belles & des plus certaines, parce qu'elle n'agit que par demonstrations, l'on ne doit pas s'étonner s'il faut du temps pour l'acquerir. Son habit transparant, que les preuves qu'elle donne sont si claires, qu'on ne les peut mettre en doute: Et les aisles de sa teste, qu'avec la force de son esprit elle s'éleve à la contemplation des matieres les plus hautes. Ce qui est encore declaré par le globe celeste qu'elle tient; & aussi par le compas, instrument propre à cette profession, qui s'étudie à connoistre les mesures & les proportions de toutes choses."
+      ],
       "en": "Mathematics",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-093-1.jpg"
+      ],
+      "text_en": [
+        "She is a woman of middling age, covered with a white and transparent veil, with wings on her head, a celestial globe in her left hand, and in her right a compass, with which she traces several figures.",
+        "Her somewhat advanced age shows us that this science, being among the most beautiful and the most certain, because it operates only by demonstrations, one should not be surprised if it takes time to acquire. Her transparent garment, that the proofs she gives are so clear that they cannot be put in doubt: and the wings on her head, that by the strength of her mind she rises to the contemplation of the highest matters. This is further declared by the celestial globe she holds; and also by the compass, an instrument proper to this profession, which studies to know the measures and proportions of all things."
+      ]
     },
     {
       "id": "p1-94",
@@ -4851,12 +4926,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-94.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина зрелых лет, сидящая в задумчивости, со щекой на руке, закрытой книгой в другой руке и книгами под ногами",
+          "meaning": "Поза раздумья и закрытая книга — сосредоточенное размышление над прочитанным; книги под ногами — основа, на которой строится собственная мысль",
+          "what_en": "A mature woman seated in thought, cheek on her hand, a closed book in the other and books beneath her feet",
+          "meaning_en": "Her pensive pose and closed book signify concentrated reflection on what has been read; the books beneath her feet, the foundation on which her own thought is built"
+        }
+      ],
+      "text_ru": [
+        "Это женщина зрелых лет, с лицом важным и скромным. По тому, как она сидит, она кажется совершенно погружённой в раздумья: щека её опирается на левую руку, а в правой она держит закрытую книгу, не считая прочих, что лежат у её ног.",
+        "Её изображают важной и скромной, ибо эти качества весьма подобают занятию, в котором она рассматривает простую сущность вещей, дабы научиться отличать истинное от ложного.",
+        "Её задумчивый вид — знак серьёзности её мыслей, не имеющих иной цели, кроме как полезные вещи, которые мудрец должен себе предполагать, дабы действовать совершенно, а не наугад.",
+        "Книги, на которые она опирается, суть знаки её собственного труда, основанного на писаниях добрых авторов, содержащих естественные начала, через которые идут к поиску истины.",
+        "Что до другой книги, которую она держит закрытой, это означает, что она делает различные размышления о познании вещей, дабы составить из них добрые суждения, не менее славные, нежели полезные."
+      ],
+      "text_fr": [
+        "C'Est vne femme d'vn âge meur, & d'vn visage grave & modeste. De la maniere qu'elle est assise, elle paroist toute pensive, ayant la joüe appuyée sur sa main gauche, & en la droite vn livre fermé, sans y comprendre les autres qu'elle a sous ses pieds.",
+        "Elle est peinte grave & modeste, à cause que ces qualitez conviennent fort bien à la profession qu'elle fait de considerer la simple vertu des choses, pour apprendre à discerner le vray d'avec le faux.",
+        "Son action réveuse est vne marque de la gravité de ses pensées, qui n'ont pour but que les choses profitables, que le sage se doit proposer, pour agir parfaitement, & non pas à la volée.",
+        "Les livres sur qui elle s'appuye sont les marques de sa propre operation, fondée sur les écrits des bons autheurs, qui contiennent les principes naturels par qui l'on procede à la recherche de la verité.",
+        "Pour ce qui regarde l'autre livre qu'elle tient fermé, cela veut dire qu'elle fait diverses reflexions sur la connoissance des choses, pour en former de bons sentimens, qui ne sont pas moins glorieux que profitables."
+      ],
       "en": "Meditation",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-094-1.jpg"
+      ],
+      "text_en": [
+        "She is a woman of mature age, with a grave and modest countenance. By the manner in which she is seated, she appears altogether pensive, her cheek resting on her left hand, and in her right a closed book, not counting the others she has beneath her feet.",
+        "She is painted grave and modest, because these qualities suit very well the profession she makes of considering the simple nature of things, so as to learn to discern the true from the false.",
+        "Her dreamy bearing is a mark of the gravity of her thoughts, which aim at nothing but profitable things, which the wise man must set before himself, in order to act perfectly, and not at random.",
+        "The books on which she leans are the marks of her own work, founded on the writings of good authors, which contain the natural principles by which one proceeds to the search for truth.",
+        "As for the other book she holds closed, this means that she makes various reflections on the knowledge of things, so as to form from them good judgments, no less glorious than profitable."
+      ]
     },
     {
       "id": "p1-95",
