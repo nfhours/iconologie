@@ -5176,12 +5176,55 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-99.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с мерой римской стопы, наугольником, циркулем, геометрическим квадратом и уровнем с отвесом",
+          "meaning": "Орудия землемерия — символ соразмерности и справедливости; нравственно Мера учит умеренности в желаниях и расходах по примеру изречений Горация и Сенеки",
+          "what_en": "A woman with the measure of the Roman foot, a square, a compass, a geometric square and a level with its plumb",
+          "meaning_en": "The surveyor's tools symbolize due proportion and justice; morally, Measure teaches moderation in desire and expense, after the maxims of Horace and Seneca"
+        }
+      ],
+      "text_ru": [
+        "Эта искусная женщина привлекает внимание не менее скромностью наряда, чем приятной наружностью. В правой руке она держит меру римской стопы, в левой — наугольник и циркуль, под ногами — геометрический квадрат, а сбоку у платья — уровень с отвесом.",
+        "Под словом Мера, по Исидору, следует разуметь всё, чем ограничены протяжённость, длина, высота и разум. Многие авторы, говорит Полидор Вергилий, изобрели её в разных странах: ибо у Евтропия сказано, что некий Сидоний был изобретателем мер и весов во времена, когда в Албании царствовал Прокс, в Иудее — Аза, а в Иерусалиме — Иеровоам. Впрочем, это касается вещей жидких и мелких: но поскольку мнения расходятся, Геллий приписывает изобретение Паламеду, а Плиний — Фидону Аргосскому, бывшему десятым царём элейцев после великого Геркулеса, превзошедшего всех прочих государей своего времени: отсюда, если не ошибаюсь, и произошла фидонова мера, сделанная из олова, железа и подобного вещества, которое молот мог сделать податливым.",
+        "Но поскольку орудия, изображённые на этой фигуре, суть те, какими пользуются для измерения земли, именно о них мы и поговорим особо. Нужно знать, что первым, кто применил их для раздела земли, был некий египтянин, которого Геродот называет Сесострисом, царём Египта. Он, распределив каждому из своих подданных равный участок земли, обложил всех податью, взимаемой ежегодно. Если же случалось, что чьи-то земли пострадали от разлива вод, он соразмерно убавлял сумму обложения на величину понесённого убытка. Так знание геометрии пришло прежде всего из Египта, откуда перешло затем в Грецию: отчего Кардан говорит, что Фалес Милетский провёл первые её линии в Афинах. Вот что говорят Авторы, рассуждая об этом искусстве. Однако они не принимают во внимание, что происхождение его несравненно древнее, чем они полагают: ибо, по Иосифу Флавию, Каин, первый сын Евы, разделил землю, поставив ей межи, и построил город Енох, о котором говорится в Писании: чего он, по всей видимости, не смог бы сделать без каких-либо мер и без знания геометрии.",
+        "Из всех орудий, представленных на этой фигуре, нет ни одного, которое не было бы заимствовано из древних надписей. Первое — римская стопа, от которой происходят главные меры, как локоть, оргия, геометрический шест и прочие, о чём пространно говорится в сочинениях учёного Бюде, Хабальда, Эрмолая Барбара и им подобных.",
+        "Мера, называемая Decempeda, поскольку она была длиной в десять стоп, служила вообще всем Зодчим и Землемерам для снятия размеров возводимых ими строений; но особенно пользовались ею военные люди, когда им нужно было располагаться лагерем, будь то для измерения местности, разметки ширины рва, составления планов или определения мест, удобных для разбивки палаток. Для этого у них были Землемеры и Квартирьеры, шедшие впереди войска и в точности размечавшие стоянки в каждой части лагеря, как и поныне делают Квартирмейстеры. Я мог бы подробнее об этом рассказать, если бы доказательства не были столь очевидны в книгах Вегеция, Тита Ливия, Кассиодора, Тюрнеба и многих других.",
+        "Что до уровня, среди многих надписей есть одна — Гнея Косутия, где этот инструмент изображён в виде заглавной буквы А, с отвесом, привязанным на нити, падающей посредине прямой линией. Этот геометрический инструмент был у Древних символом Правосудия, и мы сами им до сих пор пользуемся, дабы показать, что следует быть справедливым не только в измерении построек, но и, говоря иносказательно, что люди обязаны точно соблюдать это равенство во всех делах, какие им приходится улаживать друг с другом. С этой же целью законом императора Грациана, занесённым в кодекс Феодосия, было решено дать народу меры и веса, дабы каждый знал свой счёт и, по возможности, не совершалось никакого обмана. Святой Фома также почитал их необходимыми для сохранения Государств и верности, какую должно соблюдать в торговле. Отсюда происходит, что в Левите, где Бог повелевает Моисею увещевать свой народ соблюдать справедливость, Он предлагает ему правила естественного Правосудия такими словами: Не делайте неправды в суде, в мерах, в весе и в измерении.",
+        "От этой вещественной Меры мы можем теперь перейти к нравственной и по праву сказать, что нет занятия прекраснее, чем умеренность в отношении самого себя, ибо, по Гесиоду, ¶«Нет ничего прекраснее равной справедливости». К этому, в качестве символа, мы можем весьма удачно применить орудия Геометрии, прежде всего стопу, о которой сказано у Горация: ¶«Хорошо, чтобы каждый мерил себя по своей стопе». Равно и шест, служащий для измерения наших земель, владений и поместий, дающих нам средства к жизни, учит нас иносказательно соразмерять наше состояние с нашими доходами и следовать этому совету Горация: ¶«Сообразно своему доходу умеряй свои расходы».",
+        "Это же являет нам и уровень — мистический образ правосудия и равенства, которые мы должны соблюдать здесь, на земле. И подобно тому, как посредством отвеса измеряется высота, так и нам следует измерять высоту наших помыслов благоразумием и рассудительностью; ибо, как говорит Сенека, ¶«Дело, сделанное без веса и без меры, / Не бывает прочным». И как опыт нам показывает, ¶«Для тяжёлых нош всегда должно / Иметь достаточные силы»."
+      ],
+      "text_fr": [
+        "Cette femme ingenieuse ne se fait pas moins remarquer par son habillement modeste, que par sa bonne mine. Elle a en sa main droite la mesure du pied Romain: en la gauche l'équiere & le compas, sous les pieds le carré geometrique, & à costé de sa robe le niveau avec son plomb.",
+        "Par le mot de Mesure, selon Isidore, se doit entendre tout ce que l'étenduë, la longueur, la hauteur & l'esprit limitent. Plusieurs autheurs, dit Polidore Virgile, l'ont inventée en divers païs: car il se voit dans Eutrope, qu'vn certain Sidonius fut inventeur des mesures & des poids, au temps que Procax regnoit en Albanie, Aza en Judée, & Jeroboam en Jerusalem. Ce qui s'entend neanmoins des choses liquides & menuës: mais comme les opinions sont differentes, Gellius en attribuë l'invention à Palamede, & Pline à Fidon Argien, qui fut le dixiéme Roy des Eliens, ensuite du grand Hercule, qui surpassa tous les autres Princes de son temps: ce qui a donné lieu, si je ne me trompe, à la mesure Fidonienne, qui estoit faite d'estain, de fer & de semblable matiere, que le marteau pouvoit rendre souple.",
+        "Mais parce que les outils representez en cette figure, sont ceux dont on vse à mesurer la terre, c'est dequoy nous parlerons particulierement. Il faut donc sçavoir, que le premier qui s'en servit à la partager, fut vn certain Egyptien, qu'Herodote nomme Sosostre, Roy d'Egypte. Celuy-cy ayant distribué à chacun de ses vassaux vne égale portion de terre, les mit tous à la taille, dont l'imposition fut annuelle. Que s'il arrivoit de fortune, que quelqu'vn d'entre eux eust souffert du dégast en ses terres par vn débordement d'eau, il luy faisoit rabattre de la somme à laquelle il estoit taxé, à l'égal de la perte qu'il se trouvoit avoir faite. Ainsi la connoissance de la geometrie vint premierement d'Egypte, d'où elle passa depuis en Grece: ce qui fait dire à Cardan, que Talés le Milesien en traça les premieres lignes dans Athenes. Voila ce que disent les Autheurs, quand ils parlent de cet art. Ils ne considerent pas neanmoins, que l'origine en est incomparablement plus ancienne qu'il ne la font: car, selon Josephe, Caïn premier enfant d'Eve, divisa la terre, à laquelle il mit des bornes, & bastit la ville d'Enoch, dont il est parlé dans l'Escriture: ce qu'il n'eust pû faire apparemment, sans aucunes mesures, ny sans avoir connoissance de la geometrie.",
+        "Or de tous les instrumens que nous étalons en cette figure, il n'y en a pas vn qui ne soit pris des anciennes inscriptions. Le premier est le pied Romain, d'où sont tirées les principales mesures, comme l'aulne, l'orgie, la perche geometrique, & ainsi des autres, dont il est parlé au long dans les écrits du docte Budée, d'Habaldus, d'Ermolaüs Barbarus, & de leurs semblables.",
+        "La Mesure appellée Decempeda, parce qu'elle estoit longue de dix pieds, servoit generalement à tous les Architectes & Arpenteurs, pour prendre les dimensions des bastimens qu'ils avoient à faire; mais les gens de guerre en vsoient particulierement, quand il leur falloit camper, soit qu'il fust question ou de mesurer le terrain, ou de tracer la largeur d'vn fossé, ou de faire les plans, ou de regler les lieux propres à dresser des tentes. Ils avoient pour cet effet des Arpenteurs & des Fourriers, qui marchoient devant la soldatesque, & qui marquoient ponctuellement les logemens en chaque quartier du camp, comme sont encore aujourd'huy les Maréchaux des logis. Ce que je pourrois deduire plus au long, si les preuves n'en estoient evidentes dans les livres de Vegece, de Tite-Live, de Cassiodore, de Turnebe, & de plusieurs autres.",
+        "Pour ce qui est du niveau, parmy plusieurs inscriptions il s'en voit vne de Cneus Cosutius, où cet instrument est marqué en forme d'vn A capital, avec son plomb attaché à vne ficelle, qui tombe au milieu en forme de ligne droite. Cet instrument de geometrie estoit aux Anciens vn symbole de Justice, & nous-mesmes en vsons encore, pour montrer qu'il ne faut pas seulement estre juste en la mesure des bastimens, mais qu'à parler mystiquement les hommes sont obligez d'observer exactement cette égalité en toutes les affaires qu'ils ont à démesler ensemble. Pour cette mesme fin par la loy de l'Empereur Gratian, enregistrée dans le code de Theodose, l'on s'est avisé de donner au public des mesures & des poids, afin que chacun sçache son compte, & que s'il est possible, il ne se commette aucune fraude. Aussi S. Thomas les estimoit necessaires à la conservation des Estats, & à la fidelité qui se doit garder dans le commerce. De là vient que dans le Levitique, où Dieu commande à Moyse d'exhorter son peuple à maintenir l'équité; il luy propose les regles de la Justice naturelle, par ces paroles, Vous ne ferez rien de frauduleux en vos jugemens, en vos regles, en vos poids, ny en vos mesures.",
+        "De cette Mesure materielle, nous pouvons passer maintenant à la morale, & dire à bon droit, qu'il n'est point de plus belle estude, que celle de la moderation de soy-mesme, puisque selon Hesiode, ¶Il n'est rien de si beau qu'vne égale justesse. A quoy par maniere de symbole nous pouvons fort bien appliquer les instrumens de Geometrie, principalement le pied, dont il est dit dans Horace: ¶Qu'il est bon que chacun à son pied se mesure. Et pareillement la perche, qui servant à mesurer nos terres, nos possessions & nos mestairies, qui nous fournissent dequoy vivre; nous apprend par metaphore à mesurer nostre bien par nos rentes, & à suivre cet avis d'Horace, ¶Selon son revenu modere sa despense.",
+        "Cela nous est encore demonstré par le niveau, qui est vne figure mystique de la justice & de l'égalité, qu'il faut que nous observions icy-bas. Et comme par le moyen du plomb est prise la dimension de la hauteur, nous devons de mesme mesurer celle de nos pensées avec prudence & jugement; puisque, comme dit Seneque, ¶L'ouvrage que l'on fait sans poids & sans mesure, / N'est pas chose qui dure. Et que l'experience nous monstre, ¶Qu'il faut toûjours avoir pour les charges pesantes, / Des forces suffisantes."
+      ],
       "en": "Measure",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-099-1.jpg",
+        "p1-099-2.jpg",
+        "p1-099-3.jpg",
+        "p1-099-4.jpg"
+      ],
+      "text_en": [
+        "This ingenious woman is no less remarkable for her modest attire than for her good appearance. She has in her right hand the measure of the Roman foot: in her left the square and the compass, beneath her feet the geometric square, and beside her robe the level with its plumb line.",
+        "By the word Measure, according to Isidore, is to be understood all that which extent, length, height, and the mind limit. Several authors, says Polydore Vergil, invented it in various countries: for it is seen in Eutropius that a certain Sidonius was the inventor of measures and weights, at the time when Procas reigned in Albania, Asa in Judea, and Jeroboam in Jerusalem. This, however, concerns liquid and small things: but as opinions differ, Gellius attributes the invention to Palamedes, and Pliny to Phidon of Argos, who was the tenth King of the Eleans after the great Hercules, who surpassed all the other Princes of his time: whence, if I am not mistaken, arose the Phidonian measure, made of tin, iron, and similar matter, which the hammer could render pliable.",
+        "But because the tools shown in this figure are those used for measuring land, it is of these that we shall speak in particular. One must know that the first to use them for dividing land was a certain Egyptian, whom Herodotus names Sesostris, King of Egypt. Having distributed to each of his vassals an equal portion of land, he taxed them all, the levy being annual. If it happened by chance that one of them had suffered damage to his lands from a flood, he reduced the sum at which he was taxed, in proportion to the loss he was found to have suffered. Thus the knowledge of geometry came first from Egypt, whence it passed afterward into Greece: which makes Cardan say that Thales of Miletus traced its first lines in Athens. This is what the Authors say when they speak of this art. They do not consider, however, that its origin is incomparably more ancient than they make it: for, according to Josephus, Cain, the first child of Eve, divided the land, to which he set boundaries, and built the city of Enoch, of which Scripture speaks: which he apparently could not have done without any measures, nor without knowledge of geometry.",
+        "Now of all the instruments displayed in this figure, there is not one that is not taken from ancient inscriptions. The first is the Roman foot, from which the principal measures are derived, such as the ell, the orgyia, the geometric perch, and so on for the others, of which it is spoken at length in the writings of the learned Budé, of Habaldus, of Ermolao Barbaro, and their like.",
+        "The Measure called Decempeda, because it was ten feet long, served generally for all Architects and Surveyors, for taking the dimensions of the buildings they had to make; but soldiers used it particularly when they had to make camp, whether it was a question of measuring the terrain, or tracing the width of a ditch, or making plans, or determining places fit for pitching tents. For this they had Surveyors and Quartermasters, who marched ahead of the soldiery, and who precisely marked out the lodgings in each quarter of the camp, as the Quartermasters still do today. I could expand on this at greater length, were the proofs not evident in the books of Vegetius, Livy, Cassiodorus, Turnèbe, and several others.",
+        "As for the level, among several inscriptions there is seen one of Gnaeus Cossutius, where this instrument is marked in the form of a capital A, with its plumb attached to a string, which falls in the middle in the form of a straight line. This instrument of geometry was to the Ancients a symbol of Justice, and we ourselves still use it so, to show that one must be just not only in the measuring of buildings, but that, mystically speaking, men are obliged to observe this same equality exactly in all the affairs they have to settle with one another. To this same end, by the law of the Emperor Gratian, registered in the code of Theodosius, it was resolved to give the public measures and weights, so that everyone might know their account, and that, if possible, no fraud be committed. St. Thomas likewise esteemed them necessary for the preservation of States, and for the fidelity that must be kept in commerce. Hence it is that in Leviticus, where God commands Moses to exhort his people to maintain equity, He sets before him the rules of natural Justice in these words: You shall do no unrighteousness in judgment, in measures of length, of weight, or of quantity.",
+        "From this material Measure, we may now pass to the moral, and rightly say that there is no finer study than that of moderation in oneself, since, according to Hesiode, ¶\"There is nothing so beautiful as an even-handed justice.\" To which, by way of symbol, we may very fittingly apply the instruments of Geometry, chiefly the foot, of which it is said in Horace: ¶\"It is good that each should measure himself by his own foot.\" And likewise the perch, which, serving to measure our lands, our possessions and our farms, which furnish us with our livelihood, teaches us by metaphor to measure our wealth by our income, and to follow this counsel of Horace: ¶\"According to his income let him moderate his expense.\"",
+        "This is further shown to us by the level, which is a mystical figure of the justice and equality we must observe here below. And as by means of the plumb the dimension of height is taken, so we ought likewise to measure that of our thoughts with prudence and judgment; since, as Seneca says, ¶\"A work made without weight and without measure / Is not a thing that lasts.\" And as experience shows us, ¶\"For heavy burdens one must always have / Sufficient strength.\""
+      ]
     },
     {
       "id": "p1-100",
@@ -5194,12 +5237,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-100.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с завязанными глазами, в венце, со скипетром, часами и глобусом у ног",
+          "meaning": "Завязанные глаза — презрение к земным суетам; венец и скипетр — первенство Метафизики среди наук; часы и глобус, попранные её вниманием, — пренебрежение всем, что подвластно времени",
+          "what_en": "A blindfolded woman, crowned, with a scepter, a clock and a globe at her feet",
+          "meaning_en": "The blindfold signifies contempt for earthly vanity; the crown and scepter, Metaphysics' primacy among the sciences; the clock and globe at her feet, her disregard for all that is subject to time"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде женщины с завязанными глазами, венцом на голове, скипетром в руке, а у её ног — часы и глобус.",
+        "Повязкой на глазах означено, что она держит их всегда закрытыми для всех предметов, влекущих смертных созданий к суетам земным.",
+        "Венцом и скипетром — что она Царица всех прочих наук, обретаемых естественным светом разума; а часами и глобусом — что, презирая всё подвластное круговороту времени, она посвящает себя лишь созерцанию вещей небесных."
+      ],
+      "text_fr": [
+        "On la represente par vne femme qui a les yeux bandez, vne couronne à la teste, vn sceptre en main, & à ses pieds vne horloge & vn globe.",
+        "Par le voile de ses yeux il est signifié qu'elle les tient sans cesse fermez à tous les objets qui attirent les creatures mortelles aprés les vanitez de la terre.",
+        "Par sa couronne & son sceptre, qu'elle est Reine de toutes les autres sciences, qui s'acquierent par la lumiere naturelle; & par l'horloge & le globe, que méprisant tout ce qui est sujet aux revolutions du temps, elle ne s'employe qu'à la contemplation des choses celestes."
+      ],
       "en": "Metaphysics",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-100-1.jpg"
+      ],
+      "text_en": [
+        "She is represented as a woman with bandaged eyes, a crown upon her head, a scepter in her hand, and at her feet a clock and a globe.",
+        "By the veil over her eyes it is signified that she keeps them forever closed to all objects that draw mortal creatures after the vanities of the earth.",
+        "By her crown and her scepter, that she is Queen of all the other sciences, which are acquired by the natural light of reason; and by the clock and the globe, that, despising all that is subject to the revolutions of time, she occupies herself only with the contemplation of heavenly things."
+      ]
     },
     {
       "id": "p1-101",
@@ -5212,12 +5280,44 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-101.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с оливковым венком, веткой кедра в руке и галкой у ног, с открытыми для объятия руками",
+          "meaning": "Олива и кедр — библейские символы милосердия; раскрытые объятия — подражание Христу; галка — птица, которую египтяне почитали за склонность к состраданию",
+          "what_en": "A woman with an olive garland, a cedar branch in hand and a crow at her feet, her arms open in embrace",
+          "meaning_en": "The olive and cedar are biblical symbols of mercy; the open arms imitate Christ; the crow is a bird the Egyptians revered for its inclination to compassion"
+        }
+      ],
+      "text_ru": [
+        "Мы изображаем её в виде женщины чрезвычайно белого цвета лица, с несколько орлиным носом, оливковым венком на голове, с левой рукой, открытой навстречу, веткой кедра в правой руке, и с галкой у ног.",
+        "Милосердие, которое, по святому Иоанну Дамаскину, есть расположение сердца, исполненного нежности и сострадающего чужому несчастью, имеет такой облик, какой мы только что описали, ибо таков же, по Аристотелю, и внешний вид человека, склонного к жалости.",
+        "Оливковый венок в Священном Писании — символ Милосердия, как и ветвь кедра — другой его символ, что отмечает и Пьерий.",
+        "Она раскрывает объятия, ибо, по примеру Господа нашего Иисуса Христа, источника этой добродетели, она всегда готова помочь страждущим и обнять их в самой сильной тяжести их бедствий.",
+        "Что до галки, помещённой у её ног, достаточно прочесть, что говорит о ней Ор Аполлон, чтобы узнать, что египтяне особо почитали эту птицу, зная её более прочих склонной к состраданию."
+      ],
+      "text_fr": [
+        "Nous la dépeignons par vne femme qui a le teint extremement blanc, le nez vn peu aquilin, vne guirlande d'olivier à la teste, le bras gauche ouvert, vn rameau de cedre en la main droite, & à ses pieds vne corneille.",
+        "La Misericorde, qui selon S. Jean Damascene est l'affection d'vn cœur remply de tendresse, & qui prend part à la misere d'autruy, a le visage tel que nous le venons de décrire, parce que telle est aussi, selon Aristote, la physionomie d'vne personne qui a de l'inclination à la pitié.",
+        "La guirlande d'olivier est dans les saintes Lettres vn symbole de Misericorde, comme le rameau de cedre en est vn autre, ainsi que le remarque Pierius.",
+        "Elle ouvre les bras, parce qu'à l'exemple de nostre Seigneur Jesus-Christ, source de cette vertu, elle est toûjours preste à secourir les affligez, & à les embrasser dans la plus forte violence de leurs miseres.",
+        "Quant à la corneille que l'on a mise à ses pieds, il ne faut que lire ce qu'en dit Orus Apollo, pour apprendre que les Egyptiens reveroient particulierement cet oiseau, à cause qu'ils le connoissoient enclin à la compassion pardessus tous les autres."
+      ],
       "en": "Mercy",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-101-1.jpg",
+        "p1-101-2.jpg"
+      ],
+      "text_en": [
+        "We depict her as a woman of an extremely fair complexion, a somewhat aquiline nose, a garland of olive upon her head, her left arm open, a branch of cedar in her right hand, and at her feet a crow.",
+        "Mercy, which according to St. John Damascene is the affection of a heart filled with tenderness, taking part in the misery of another, has the countenance we have just described, because such also is, according to Aristotle, the physiognomy of a person inclined to pity.",
+        "The garland of olive is in Holy Scripture a symbol of Mercy, as the branch of cedar is another, as Pierius observes.",
+        "She opens her arms, because, after the example of Our Lord Jesus Christ, the source of this virtue, she is ever ready to help the afflicted, and to embrace them in the greatest violence of their miseries.",
+        "As for the crow placed at her feet, one need only read what Orus Apollo says of it, to learn that the Egyptians particularly revered this bird, because they knew it to be inclined to compassion above all others."
+      ]
     },
     {
       "id": "p1-102",
@@ -5230,12 +5330,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-102.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Дева в белом с золотым поясом, со склонённой головой и скипетром, увенчанным глазом",
+          "meaning": "Золотой пояс — обуздание страстей; склонённая голова — смирение; скипетр с глазом — зоркость души, удерживающая от падения, и власть разума над страстями",
+          "what_en": "A maiden in white with a golden girdle, her head bowed, holding a scepter topped by an eye",
+          "meaning_en": "The golden girdle signifies the chaining of the passions; the bowed head, humility; the eye-topped scepter, the soul's clear sight that guards against falling, and reason's rule over the passions"
+        }
+      ],
+      "text_ru": [
+        "Эта дева, одетая в белое, с простым покровом на голове, без иного украшения, кроме золотого пояса, держит голову склонённой и таинственный скипетр в руке, с глазом наверху.",
+        "Скромность, состоящая главным образом в избегании крайностей и в пребывании в должной середине, одета просто и в белое платье, ибо довольствуется малым и, избегая всякого излишества, не желает ничего, кроме как сохранить в истинной умеренности чистоту своей души.",
+        "Это являет нам её золотой пояс, который Апостол советует нам принять, то есть, по Евтимию, заковать в цепь наши беспорядочные страсти и похотливые вожделения; достичь чего лучше всего можно добродетельной Скромностью и чистой искренностью сердца.",
+        "Она подтверждает и то и другое своим спокойным видом и смирением глаз, опущенных долу, в подражание честным девицам и благочестивым Монахиням, которые этими неотделимыми от них знаками покорности поистине показывают, сколь они пекутся о повиновении этой заповеди святого Павла: да будет скромность ваша известна всем человекам.",
+        "Скипетр с глазом на конце — иероглиф этой добродетели, так изображавшейся египетскими жрецами. И правда, что обладающий ею имеет довольно зоркие очи души, дабы уберечься от падения в пропасть, и довольно власти над своими страстями, дабы подчинить их скипетру разума. Отсюда видно, что главная цель скромного человека — умеренность в отношении самого себя.",
+        "Но поскольку не исключено, что добродетели, выходя за свои пределы, становятся пороками, — ведь на опыте видно, что доблесть вырождается в грубость, щедрость — в расточительность, а благочестие — в лицемерие, когда есть избыток, — то может статься и так, что чрезмерная Скромность порой сходит в свете за малодушие; это случается чаще всего, когда человек, так сказать, уничижает себя, не зная себя и не смея предпринять то, с чем мог бы справиться, будь у него чуть лучшее мнение о самом себе: так что не стоит удивляться, если некоторые древние Мифологи изображали подобную изнеженность в виде женщины беспечной, растрёпанной, плохо одетой и лежащей на земле. И правда, что женщины из-за слабости своего пола обычно более малодушны, чем мужчины, когда дело доходит до исполнения важных замыслов."
+      ],
+      "text_fr": [
+        "Cette vierge vestuë de blanc, & coëffée d'vn simple couvre-chef, sans avoir autre ornement qu'vne ceinture d'or, tient la teste baissée, & vn sceptre mysterieux à la main, avec vn œil au dessus.",
+        "La Modestie, qui consiste principalement à fuir les extremitez, & à se tenir dans vn juste milieu, est simplement coëffée, & vestuë d'vne robe blanche, parce qu'elle se contente de peu, & que fuyant tous excés, elle n'a rien desirer, que de conserver dans vne vraye moderation la pureté de son ame.",
+        "Cela nous est figuré par sa ceinture d'or, que l'Apostre nous conseille de prendre, c'est à dire, selon Eutymius, de mettre à la chaîne nos passions déreglées & nos lascives concupiscences; à quoy l'on ne peut mieux parvenir, que par vne vertueuse Modestie, & vne pure sincerité de cœur.",
+        "Elle donne des preuves de tous les deux par son action posée, & par l'humilité de ses yeux qu'elle panche en bas à l'imitation des honnestes filles, & des devotes Religieuses, qui par ces marques de soumission inseparables d'avec elles, montrent veritablement combien elles sont soigneuses d'obeïr à ce precepte de S. Paul, que vostre Modestie soit manifeste à tous les hommes.",
+        "Le sceptre, avec vn œil au bout, est vn hieroglyphe de cette vertu, ainsi representée par les Prestres Egyptiens. Aussi est-il vray que celuy qui la possede, a les yeux de l'ame assez clair-voyans pour s'empécher de tomber dans le precipice; & assez d'empire sur ses passions, pour les assujetir au sceptre de la raison. Par où l'on peut voir, que la principale fin de l'homme modeste se rapporte à la moderation de soy-mesme.",
+        "Or comme il n'est pas incompatible que les vertus hors de leurs bornes ne deviennent vices, puisqu'il se voit par épreuve, que la vaillance dégenere en humeur brutale, la largesse en prodigalité, & la devotion en hypocrisie, quand il y a de l'excés. Il se peut faire de mesme qu'vne trop grande Modestie passe quelquefois pour lâcheté dans le monde; ce qui arrive la pluspart du temps, lorsque l'homme s'aneantit par maniere de dire, à force de ne se connoistre pas, & de n'oser entreprendre ce dequoy il pourroit venir à bout, s'il avoit vn peu meilleure opinion de soy-mesme: tellement qu'il ne faut pas s'étonner si quelques anciens Mythologistes ont representé cette sorte de mollesse par vne femme nonchalante, échevelée, mal vestuë, & couchée par terre. Aussi est-il vray que les femmes, à cause de la foiblesse de leur sexe, sont d'ordinaire plus lâches que les hommes, quand il est question d'executer quelques desseins d'importance."
+      ],
       "en": "Modesty",
-      "group_en": "M"
+      "group_en": "M",
+      "scans": [
+        "p1-102-1.jpg",
+        "p1-102-2.jpg"
+      ],
+      "text_en": [
+        "This maiden, clothed in white, and wearing a simple headcovering, with no other ornament than a golden girdle, holds her head bowed, and a mysterious scepter in her hand, with an eye above it.",
+        "Modesty, which consists chiefly in fleeing extremes, and in keeping to a just mean, is simply covered, and clothed in a white robe, because she is content with little, and, fleeing all excess, desires nothing but to preserve, in true moderation, the purity of her soul.",
+        "This is figured for us by her golden girdle, which the Apostle counsels us to take up, that is, according to Euthymius, to chain our disordered passions and our wanton desires; which can best be attained by a virtuous Modesty, and a pure sincerity of heart.",
+        "She gives proof of both by her composed bearing, and by the humility of her eyes, which she casts down in imitation of honest maidens and devout Nuns, who by these marks of submission, inseparable from them, truly show how careful they are to obey this precept of St. Paul, that your Modesty be known to all men.",
+        "The scepter, with an eye at its end, is a hieroglyph of this virtue, so represented by the Egyptian Priests. It is likewise true that whoever possesses it has the eyes of the soul clear-sighted enough to keep from falling into the precipice, and enough command over their passions to subject them to the scepter of reason. By which one may see that the principal end of the modest man relates to the moderation of himself.",
+        "Now as it is not incompatible that virtues, beyond their bounds, should become vices, since it is seen by experience that valor degenerates into brutal temper, generosity into prodigality, and devotion into hypocrisy, when there is excess — it may likewise happen that too great a Modesty sometimes passes for cowardice in the world; which occurs most often when a man, so to speak, annihilates himself, through not knowing himself, and not daring to undertake what he might well accomplish, had he a somewhat better opinion of himself: so that it is not surprising if some ancient Mythologists have represented this kind of softness by a nonchalant woman, disheveled, poorly clothed, and lying upon the ground. It is likewise true that women, because of the weakness of their sex, are ordinarily more faint-hearted than men, when it comes to carrying out undertakings of importance."
+      ]
     },
     {
       "id": "p1-103",
