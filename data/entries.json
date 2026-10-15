@@ -5778,12 +5778,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-111.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с зеркалом в правой руке, наугольником и циркулем в левой",
+          "meaning": "Зеркало — разум, рождающий замыслы; наугольник и циркуль — соразмерение сил с задачей, без чего труд рушится, подобно хрупкой паутине",
+          "what_en": "A woman with a mirror in her right hand, a square and a compass in her left",
+          "meaning_en": "The mirror is the understanding, which conceives ideas; the square and compass, the matching of one's strength to the task, without which a work collapses like a fragile spiderweb"
+        }
+      ],
+      "text_ru": [
+        "Она достаточно примечательна изображением этой женщины, держащей зеркало в правой руке, а в левой — наугольник и циркуль.",
+        "Зеркало подобно нашему разумению, в котором рождаются у нас идеи о многих вещах, которых мы не видим, чему способствует естественная расположенность, хотя они всё же могут быть воплощены посредством искусства и орудий, которые для этого применяют.",
+        "Но чтобы хорошо исполнить задуманное, нужно прежде знать, какие качества для этого необходимы; чему весьма служат циркуль и наугольник: ибо нужно, чтобы мы соразмеряли наши силы с требуемыми затратами, а воображаемую вещь — с действительной; если же поступать иначе, то, приложив немало труда, в конце концов обнаруживают, что можно было и не начинать того, что сделано впустую.",
+        "Если же кто захочет изобразить не завершённое, но несостоятельное произведение, ему достаточно написать изумлённую женщину, разглядывающую несколько паутин, которые она держит между пальцами; ибо как эти паутины, сотканные хоть и с большим трудом и тщанием, всё же слишком тонки и потому столь хрупки, что для их разрушения довольно малейшего прикосновения, так и тщетные труды, не имеющие разума истинным и прочным основанием, вдруг колеблются и, едва поколебленные, оказываются поверженными на землю."
+      ],
+      "text_fr": [
+        "Elle est assez remarquable par la peinture de cette femme, qui tient vn miroir de la main droite, & de la gauche vne équiere, & vn compas.",
+        "Le miroir est tel que nostre entendement, où nous faisons naistre des idées de plusieurs choses que nous ne voyons point, aidez en cecy de la disposition naturelle, bien que toutesfois elles puissent estre mises en œuvre par le moyen de l'art, & des instrumens qu'on y employe.",
+        "Mais pour bien executer ce qu'on a dessigné, il faut sçavoir premierement quelles qualitez y sont necessaires; à quoy le compas & l'équiere servent de beaucoup: car il faut que nous adjoûtions nos forces à la dépense requise, & la chose imaginée à la réelle: que si l'on fait autrement, aprés s'estre beaucoup donné de peine, l'on trouve à la fin, qu'on peut achever ce qu'inutilement on a commencé.",
+        "Que si au lieu d'vne œuvre achevée quelqu'vn en veut representer vne qui ne puisse reüssir, il n'a qu'à peindre vne femme étonnée, qui regarde plusieurs toiles d'araignée, qu'elle tient entre ses doigts; car comme ces toiles, bien que tissuës avec beaucoup de peine & de soin, sont neanmoins trop deliées, & par consequent si fragiles, qu'il ne faut que la moindre chose pour tout gaster; ainsi les ouvrages vains & qui n'ont point la raison pour vray & solide fondement, s'ébranlent tout à coup, & ne sont pas plûtost ébranlez, qu'on les voit portez par terre."
+      ],
       "en": "Perfect Work",
-      "group_en": "O"
+      "group_en": "O",
+      "scans": [
+        "p1-111-1.jpg",
+        "p1-111-2.jpg"
+      ],
+      "text_en": [
+        "She is notable enough for the portrait of this woman, who holds a mirror in her right hand, and in her left a square and a compass.",
+        "The mirror is like our understanding, in which we give birth to ideas of many things we do not see, aided in this by natural disposition, although these may nonetheless be put into effect by means of art, and the instruments employed for it.",
+        "But to properly carry out what one has designed, one must first know what qualities are necessary for it; to which the compass and the square are of great service: for we must match our strength to the effort required, and the imagined thing to the real one; for if one does otherwise, after having taken much trouble, one finds in the end that one might as well not have begun what was undertaken in vain.",
+        "And if, instead of a finished work, someone wishes to represent one that cannot succeed, he need only paint an astonished woman, looking at several spiderwebs she holds between her fingers; for as these webs, though woven with much pains and care, are nevertheless too fine, and consequently so fragile that the least thing is enough to ruin them entirely, so vain works, which have no reason for a true and solid foundation, are shaken all at once, and no sooner shaken than they are seen brought down to the ground."
+      ]
     },
     {
       "id": "p1-112",
@@ -5796,12 +5825,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-112.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Пожилая женщина в белом, на коленях, с кадилом и чётками, с глазами, обращёнными к небу",
+          "meaning": "Кадило — молитва, возносящаяся как фимиам; чётки заменяют цепь — «Отче наш» и «Богородице»; возраст — склонность предаваться молитве ближе к концу жизни",
+          "what_en": "An elderly woman in white, kneeling, with a censer and a rosary, her eyes turned to heaven",
+          "meaning_en": "The censer signifies prayer rising like incense; the rosary stands in for a chain — the Lord's Prayer and the Hail Mary; her age, the greater devotion to prayer as life nears its end"
+        }
+      ],
+      "text_ru": [
+        "Эта женщина, одетая в белое, в преклонных уже летах, изображает Молитву. Глаза её подняты к небу, руки раскрыты, и, стоя на коленях, она держит кадило, к которому вместо обычных цепочек привязаны чётки.",
+        "Она одета в белое, поскольку, как говорит святой Амвросий, молитва должна быть чистой, простой, ясной и открытой.",
+        "Она стоит на коленях с раскрытыми руками в знак почтения, подобающего Богу, особенно когда к Нему обращают какую-либо просьбу.",
+        "Её глаза, устремлённые к небу, откуда на неё изливаются сияющие лучи, показывают, как говорит святой Фома, что Молитва есть возвышение духа и пламя чувства, посредством которого человек, говоря со своим Богом, обращает к Нему мольбы и открывает тайны своего сердца.",
+        "Кадило, которое она несёт, есть истинный символ её сущности, сообразно словам Давида: да направится молитва моя, Господи, пред лицо Твоё, как фимиам. Что же до чёток, они по праву служат ей цепью, ибо состоят из Молитвы Господней и Ангельского приветствия, из коих первая была составлена Господом нашим Иисусом Христом и преподана Апостолам, когда те просили Его научить их молиться, а второе — Ангелом Гавриилом, святой Елисаветой и Церковью, нашей доброй матерью.",
+        "Молитву, впрочем, изображают старой, поскольку в этом закате лет мы предаёмся ей более, чем в каком-либо ином возрасте, будучи ближе к нашему последнему концу."
+      ],
+      "text_fr": [
+        "Cette femme vestuë de blanc, & qui est sur le declin de son âge, represente l'Oraison. Elle a les yeux haussez vers le ciel, & les bras ouverts, tenant à genoux vn encensoir, où est attaché vn chapelet, au lieu des chaînons qu'on a coûtume d'y mettre.",
+        "Elle est vestuë de blanc, dautant, dit saint Ambroise, qu'elle doit estre pure, simple, claire & manifeste.",
+        "Elle se tient à genoux, & les bras ouverts, pour vne marque de la reverence qui se doit à Dieu, & particulierement quand on luy adresse quelque priere.",
+        "Ses yeux qui regardent le ciel, d'où s'épandent sur elle des rayons resplendissans, montrent, comme dit S. Thomas, que l'Oraison est vne élevation d'esprit, & vne ardeur d'affection, par qui l'homme parlant à son Dieu, luy fait ses prieres, & luy découvre les secrets de son cœur.",
+        "L'encensoir qu'elle porte est vn vray symbole de son estre, conformément à ces paroles de David, que mon Oraison, Seigneur, soit adressée vers toy comme l'encens. Et pour le regard du chapelet, il luy sert de chaine à bon droit, parce qu'il consiste en l'Oraison Dominicale, & en la Salutation Angelique, dont l'vn fut composé par nostre Seigneur Jesus-Christ, & enseigné aux Apostres, quand ils luy demanderent qu'il leur apprist à prier; & l'autre par l'Ange Gabriel, par sainte Elizabet, & par l'Eglise nostre bonne mere.",
+        "L'Oraison au reste est peinte vieille, dautant qu'en ce declin-là nous y vaquons plus qu'en pas-vn autre âge, comme estant plus proches de nostre derniere fin."
+      ],
       "en": "Prayer",
-      "group_en": "O"
+      "group_en": "O",
+      "scans": [
+        "p1-112-1.jpg",
+        "p1-112-2.jpg"
+      ],
+      "text_en": [
+        "This woman, clothed in white, and in the decline of her years, represents Prayer. Her eyes are raised toward heaven, and her arms open, as, kneeling, she holds a censer, to which a rosary is attached in place of the chains usually put there.",
+        "She is clothed in white, inasmuch as, says St. Ambrose, prayer must be pure, simple, clear and manifest.",
+        "She kneels, with arms open, as a mark of the reverence owed to God, and particularly when one addresses some petition to Him.",
+        "Her eyes, which look toward heaven, whence resplendent rays pour down upon her, show, as St. Thomas says, that Prayer is an elevation of the mind, and an ardor of affection, by which man, speaking to his God, makes his prayers to Him, and discloses to Him the secrets of his heart.",
+        "The censer she carries is a true symbol of her being, in keeping with these words of David, let my prayer, O Lord, be directed before Thee as incense. And as for the rosary, it rightly serves her as a chain, since it consists of the Lord's Prayer and the Angelic Salutation, of which the one was composed by Our Lord Jesus Christ, and taught to the Apostles, when they asked Him to teach them to pray; and the other by the Angel Gabriel, by Saint Elizabeth, and by the Church our good mother.",
+        "Prayer, moreover, is painted old, inasmuch as in that decline we devote ourselves to it more than at any other age, being then nearer our final end."
+      ]
     },
     {
       "id": "p1-113",
@@ -5814,12 +5878,49 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-113.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная красавица с круглым зеркалом, обращённым к солнцу, зажигающим факел, и свитком с надписью SIC IN CORDE FACIT AMOR INCENDIUM",
+          "meaning": "Зеркало и солнце — встреча взглядов, от которой рождается любовь; зажжённый факел — пламя, вспыхивающее в сердце от этой встречи, по учению Платона и Фичино о лучах, исходящих из глаз",
+          "what_en": "A young beauty with a round mirror turned to the sun, kindling a torch, and a scroll inscribed SIC IN CORDE FACIT AMOR INCENDIUM",
+          "meaning_en": "The mirror and sun signify the meeting of glances from which love is born; the kindled torch, the flame that springs up in the heart from that meeting, after Plato's and Ficino's teaching on rays issuing from the eyes"
+        }
+      ],
+      "text_ru": [
+        "Рождение этой страсти уместно изображено здесь в виде юной красавицы, держащей в одной руке круглое зеркало, которое она подставляет лучам Солнца, чьё отражение зажигает факел, который она несёт в другой руке; а под зеркалом виден свиток с начертанными словами: SIC IN CORDE FACIT AMOR INCENDIUM, что означает: ¶«Так Любовь зажигает в сердце пожар».",
+        "Хотя многие стараются доказать различными примерами, что Любовь порождается не только зрением, но и слухом, — ибо, говорят они, не несовместимо, чтобы эта страсть передавалась через уши так же, как через глаза, которые можно назвать двумя окнами души, — я всё же склоняюсь скорее к одному, нежели к другому: ибо мне кажется, что каким бы чарующим ни был рассказ о красотах некоей дамы, он не может произвести столь же сильного впечатления, какое производит обычно то, чему наши глаза служат свидетелями и судьями. Пусть слух и побуждает нас любить, отсюда не следует, что он есть предмет любви; ибо он лишь поражает воображение чудесами, которые рассказывают о прекрасной вещи, тогда как зрение действительно подтверждает нам эту веру. Было бы весьма трудно опровергнуть эту истину, не будь иного доказательства, кроме того, что приводит учёный Фичино в своей десятой речи о Пире Платона. Там он показывает, что любовный недуг происходит от взаимной встречи глаз, и там же приводит немало прекрасных доводов, к которым я вас и отсылаю, дабы не наскучить.",
+        "Эту встречу, от которой рождается Любовь, лучше всего можно изобразить встречей Солнца и зеркала, противопоставленных друг другу: при этом стоит заметить, что это круглое и прозрачное зеркало, о котором здесь идёт речь, той же природы, что и описанные Плутархом в жизни Нумы Помпилия, второго Царя римлян, где он говорит, что девы-весталки пользовались им, дабы вновь обрести небесный огонь, когда тот, что они хранили на земле, угасал. Архимед, как говорят, был его изобретателем и успешно применил его против римлян при осаде Сиракуз, города своего рождения: в чём впоследствии с равным успехом подражал ему математик Прокл, который, по Зонаре, посредством этих зажигательных стёкол сжёг морской флот Виталиана, восставшего против императора Анастасия.",
+        "Итак, можно сказать, в объяснение этого образа, что подобно тому как от лучей зеркала, творения искусства, противопоставленных лучам Солнца, зажигается факел, так от встречи наших глаз, истинных зеркал природы, с глазами красавицы или одушевлённого светила, бросающего в них свой свет, в наших сердцах зажигается пламя Любви. Если же мы хотим поистине узнать, как это происходит, нам достаточно прочесть Фичино, который нас этому научит. Духи, говорит он, порождаемые теплотой сердца из чистейшей крови, всегда таковы в нас, каков испаряющийся из неё состав. А поскольку этот пар крови, называемый духом, который из неё образуется, таков же, как сама кровь, то и испускает он вовне подобные себе лучи, проходящие через глаза, как через стеклянные окна. То же подтверждает нам Целий Родигин, говоря, что по подобию Солнца, которое есть сердце мира, совершающее свой оборот и сообщающее ему свой свет, наше сердце непрестанным движением, волнуя кровь, что находится близ него, разливает посредством этого духи по всему телу. Именно этими же духами оно мечет искры и лучи на все члены, главным образом через глаза; ибо дух, будучи лёгким по природе, легко возносится к самым высоким частям тела, к тому же свет его гораздо обильнее вспыхивает через глаза: причина в том, что они обладают преимуществом быть прозрачными, парообразными, сияющими и полными искр. При таком положении дел не стоит удивляться, если глаза двух людей, пристально глядящих друг на друга, взаимно ранят друг друга лучами, которые они друг в друга мечут. Так дивными действиями эти острые и полные пламени стрелы пронзают и одновременно сжигают сердца несчастных влюблённых. Это учение заимствовано у Платона, который полагает, что раны Любви суть некие чрезвычайно тонкие лучи, вонзаемые в сердце, являющееся седалищем крови весьма сладостной и горячей, так что глаза любимого предмета, открывая себе путь в глазах Любящего, проникают в самую глубину его сердца.",
+        "Вот рассуждение божественного Философа, довольно согласное с мнением древнего Поэта Мусея, который первым из всех помещает в глазах источник Любви, откуда, по его словам, родилась та любовь, какую Леандр питал к Геро. ¶«В самом деле, прекрасные глаза источают летучие пламена, / Или, вернее, молнии, полные огня и стрел, / Заставляющие сердце ощущать неистовый жар / Любовных взглядов».",
+        "С этой истиной согласны с Мусеем и все прочие Поэты, писавшие о Любви на различных языках; так что мне было бы нетрудно опереться на их авторитет, если бы я взялся за это: но вместо того, чтобы забавляться доказательствами вещи, столь мало в них нуждающейся и которой люди учатся себе же во вред, мне куда уместнее посоветовать им закрывать глаза, нежели открывать их для предметов, способных их погубить. Пусть они вспомнят лишь, что красота яблока, едва увиденная нашей праматерью, навлекла общую погибель рода человеческого; что никогда не увидели бы воды небесные, разлившиеся по земле и устроившие всемирный потоп, если бы не были тому причиной похотливость взора; что ни Фимнафянка, прекрасная Филистимлянка, ни знаменитая Далила не смогли бы одолеть Самсона, которого почитали непобедимым, если бы он не смотрел на них слишком пристально; что из-за того лишь, что узрел прекрасную Вирсавию в купальне, развратился мудрейший Царь своего времени. И что в глазах Клеопатры зажглась та любовь, какую Марк Антоний к ней возымел, — любовь заразительная и роковая для этого несчастного любовника, сколь же она была славной и благотворной для победителя Августа. Ко всем этим примерам я мог бы присовокупить ещё множество других, если бы не поставил себе целью кратко изъяснять эти образы, вместо того чтобы останавливаться на долгих рассуждениях."
+      ],
+      "text_fr": [
+        "La naissance de cette passion est icy representée fort à propos par vne jeune beauté, qui tient d'vne main vn miroir rond, qu'elle oppose aux rayons du Soleil, dont la reflexion allume vn flambeau qu'elle porte en l'autre main; & au dessous du miroir se voit vn rouleau, où sont écrites ces paroles, SIC IN CORDE FACIT AMOR INCENDIUM, qui signifient, ¶C'est ainsi que l'Amour s'allume dans le cœur.",
+        "Bien que plusieurs s'étudient de prouver par divers exemples, que l'Amour ne s'engendre pas seulement de la veuë, mais encore de l'ouïe; parce, disent-ils, qu'il n'est pas incompatible, que cette passion ne se communique par les oreilles, comme par les yeux, qu'on peut appeller les deux fenestres de l'ame; je suis neanmoins pour l'vn plûtost que pour l'autre: car il me semble que pour charmant que soit vn recit des beautez de quelque dame, il n'est pas possible qu'il y fasse vne aussi forte impression, que celle qui s'y fait d'ordinaire, quand nos yeux en sont les témoins & les juges. Je veux que l'ouïe nous porte à aimer, il ne s'ensuit pas pourtant qu'elle soit vn sujet d'amour; car elle ne fait seulement que frapper l'imagination des merveilles qu'on raconte d'vne belle chose, au lieu que la veuë nous en confirme effectivement la creance. Il seroit bien difficile de contredire cette verité, quand il n'y en auroit point d'autre preuve que celle qu'en donne le docte Ficin en son dixiéme discours sur le banquet de Platon. C'est là qu'il montre que la maladie amoureuse procede de la mutuelle rencontre des yeux, & là mesme qu'il en donne plusieurs belles raisons, où je vous renvoye pour n'estre pas ennuyeux.",
+        "Or cette rencontre d'où vient l'Amour, ne se peut mieux figurer que par celle du Soleil & du miroir, opposez l'vn à l'autre: où il est à remarquer que ce miroir rond & transparent, dont il est icy question, est de la nature de ceux que décrit Plutarque en la vie de Numa Pompilius, second Roy des Romains, où il dit que les vierges vestales s'en servoient pour recouvrer le feu du Ciel, quand celuy qu'elles gardoient sur terre venoit à s'éteindre. Archimede, à ce que l'on dit, en fut inventeur, & s'en servit heureusement contre les Romains au siege de Syracuse, ville de sa naissance: en quoy l'imita depuis avec pareil succés le Mathematicien Proculus, qui selon Zonare, par le moyen de ces glaces enflammées brûla l'armée navale de Vatilianus, qui s'estoit revolté contre l'Empereur Anastase.",
+        "L'on peut donc bien dire, pour expliquer cette figure, que comme des rayons du miroir, qui sont les creatures de l'art, opposez à ceux du Soleil, s'allume vn flambeau: ainsi par la rencontre de nos yeux, vrais miroirs de la nature, avec ceux d'vne beauté, ou d'vn astre animé, qui leur darde sa lumiere, la flamme d'Amour s'allume en nos cœurs. Que si nous voulons sçavoir au vray, comment cela se peut faire, nous n'avons qu'à lire Ficin, qui nous l'apprendra. Les esprits, dit-il, qui par la chaleur du cœur s'engendrent du plus pur sang, sont toûjours tels en nous que l'humeur qui s'en exhale. Or comme cette vapeur de sang, qu'on appelle esprit, qui en est formé, est telle que le sang mesme; aussi envoye-t'elle au dehors des rayons qui luy ressemblent, & qui passent par les yeux, comme par des fenestres de verre. Celius Rhodiginus nous assûre le mesme, quand il dit qu'à l'imitation du Soleil, qui est le cœur du monde, où il fait son tour, & luy communique sa lumiere, nostre cœur par vn perpetuel mouvement agitant le sang qui est prés de luy, épand par son moyen les esprits dans tous les corps. C'est par ces mesmes esprits encore qu'il darde des étincelles & des rayons sur tous les membres, principalement par les yeux; car l'esprit estant leger de soy, ce luy est vne chose facile de s'élever aux parties du corps les plus hautes, joint que sa lumiere éclatte bien plus abondamment par les yeux: la raison est, parce qu'ils ont l'avantage d'estre transparens, vaporeux, resplendissans, & pleins d'étincelles. Cela estant, il ne faut pas s'étonner si les yeux de deux personnes qui se regardent fixement, s'entreblessent par les rayons qu'ils se décochent. Ainsi par des effets merveilleux, ces traits aigus & remplis de flammes percent & brûlent en mesme temps les cœurs des miserables amans. Cette doctrine est tirée de Platon, qui veut que les blessures d'Amour soient certains rayons extremement subtils, dardez au cœur, qui est le siege d'vn sang tres-doux & tres-chaud, si bien que les yeux de l'objet aimé s'ouvrant vn passage en ceux de l'Amant, penetrent dans le profond de son cœur.",
+        "Voila le raisonnement du divin Philosophe, assez conforme à l'opinion de l'ancien Poëte Musée, qui le premier de tous met dans les yeux la source d'Amour, d'où il dit que prit naissance celle que Leandre avoit pour Hero. ¶En effet les beaux yeux ont des flammes volantes, / Ou plûtost des éclairs pleins de feux & de dards, / Qui font sentir au cœur les ardeurs violentes / Des amoureux regards.",
+        "De cette verité demeurent d'accord avec Musée, tous les autres Poëtes qui ont écrit de l'Amour en diverses langues; tellement qu'il ne me seroit pas difficile de me prévaloir de leur authorité, si je l'avois entrepris: mais au lieu de m'amuser aux preuves d'vne chose, qui en a si peu besoin, & que les hommes apprennent à leur dommage; il est bien plus à propos que je leur conseille de fermer les yeux, que de les ouvrir pour des objets qui les peuvent perdre. Qu'ils se souviennent seulement, que la beauté de la pomme, si-tost que nostre premiere mere l'eust veuë, attira la commune ruine du genre humain; qu'on n'eust jamais vû les eaux du Ciel se déborder sur la terre, & faire vn deluge vniversel, si les lascivetez de l'œil n'en eussent esté la cause: que ny Themnata la belle Philistine, ny la fameuse Dalila, n'eussent pû vaincre Sanson, que l'on croyoit invincible, s'il ne les eust trop fixement regardées: que pour avoir vû la belle Berzabée dans le bain, le plus sage Roy de son temps se pervertit. Et que dans les yeux de Cleopatre s'alluma l'amour que Marc-Antoine eut pour elle, amour contagieuse & fatale à ce malheureux amant, autant qu'elle fut glorieuse & profitable au victorieux Auguste. A tous ces exemples j'en pourrois joindre quantité d'autres, si je n'avois fait dessein d'expliquer succintement ces figures, plûtost que de m'arrester à de longs raisonnemens."
+      ],
       "en": "Origin of Love",
-      "group_en": "O"
+      "group_en": "O",
+      "scans": [
+        "p1-113-1.jpg",
+        "p1-113-2.jpg",
+        "p1-113-3.jpg",
+        "p1-113-4.jpg"
+      ],
+      "text_en": [
+        "The birth of this passion is here very fittingly represented by a young beauty, who holds in one hand a round mirror, which she turns to face the Sun's rays, whose reflection lights a torch she carries in the other hand; and beneath the mirror is seen a scroll, on which are written these words, SIC IN CORDE FACIT AMOR INCENDIUM, which mean, ¶\"Thus does Love kindle a fire in the heart.\"",
+        "Although many take pains to prove by various examples that Love is engendered not only by sight, but also by hearing — because, they say, it is not incompatible that this passion should communicate itself through the ears, as through the eyes, which one may call the two windows of the soul — I am nevertheless for the one rather than the other: for it seems to me that, however charming an account of some lady's beauties may be, it cannot make as strong an impression as that ordinarily made when our eyes are its witnesses and judges. Granted that hearing may lead us to love, it does not follow that it is a cause of love; for it does no more than strike the imagination with the marvels told of some beautiful thing, whereas sight actually confirms our belief in it. It would be quite difficult to contradict this truth, even were there no other proof than that given by the learned Ficino in his tenth discourse on Plato's Symposium. There he shows that the malady of love proceeds from the mutual meeting of eyes, and there too he gives several fine reasons, to which I refer you, so as not to be tedious.",
+        "Now this meeting from which Love arises can be no better figured than by that of the Sun and the mirror, set opposite one another: wherein it is to be noted that this round, transparent mirror here in question is of the kind Plutarch describes in the life of Numa Pompilius, second King of the Romans, where he says the vestal virgins used it to recover the fire of Heaven, when that which they kept on earth came to be extinguished. Archimedes, it is said, was its inventor, and made fortunate use of it against the Romans at the siege of Syracuse, the city of his birth: in which the Mathematician Proclus later imitated him with like success, who, according to Zonaras, by means of these burning mirrors set fire to the naval fleet of Vitalian, who had revolted against the Emperor Anastasius.",
+        "One may therefore well say, to explain this figure, that as from the rays of the mirror, which are the creatures of art, set against those of the Sun, a torch is kindled: so from the meeting of our eyes, true mirrors of nature, with those of a beauty, or of some living star, which darts its light into them, the flame of Love is kindled in our hearts. And if we wish to know truly how this can be, we need only read Ficino, who will teach us. The spirits, he says, which by the heart's heat are engendered from the purest blood, are always in us such as the humor that exhales from it. Now as this vapor of blood, called spirit, which is formed from it, is of the same nature as the blood itself, it likewise sends outward rays resembling it, which pass through the eyes, as through windows of glass. Caelius Rhodiginus assures us of the same, when he says that, in imitation of the Sun, which is the heart of the world, making its circuit and imparting its light, our heart, by a perpetual motion agitating the blood near it, spreads by its means the spirits throughout the whole body. It is by these same spirits, too, that it darts sparks and rays over all the limbs, chiefly through the eyes; for the spirit, being light of itself, finds it easy to rise to the highest parts of the body, and besides, its light bursts forth far more abundantly through the eyes: the reason being that they have the advantage of being transparent, vaporous, resplendent, and full of sparks. This being so, it is no wonder if the eyes of two persons who gaze fixedly at one another wound each other mutually with the rays they loose. Thus, by marvelous effects, these sharp darts, full of flame, pierce and burn at the same time the hearts of wretched lovers. This doctrine is drawn from Plato, who holds that the wounds of Love are certain extremely subtle rays, darted into the heart, which is the seat of a blood most sweet and most hot, so that the eyes of the beloved object, opening a passage into those of the Lover, penetrate into the depths of his heart.",
+        "Such is the reasoning of the divine Philosopher, well in keeping with the opinion of the ancient Poet Musaeus, who first of all placed in the eyes the source of Love, whence, he says, arose the love Leander bore for Hero. ¶\"Indeed fair eyes have flying flames, / Or rather lightning full of fire and darts, / Which make the heart feel the violent ardors / Of amorous glances.\"",
+        "In this truth all the other Poets who have written of Love in various tongues agree with Musaeus; so that it would not be difficult for me to avail myself of their authority, had I undertaken to do so: but instead of amusing myself with proofs of a thing that has so little need of them, and that men learn to their own cost, it is far more fitting that I counsel them to close their eyes, rather than open them to objects that may ruin them. Let them remember only that the beauty of the apple, as soon as our first mother had seen it, drew on the common ruin of mankind; that the waters of Heaven would never have been seen to overflow the earth, and make a universal flood, had not the wantonness of the eye been the cause of it; that neither Timnah, the fair Philistine, nor the famous Delilah, could have overcome Samson, thought invincible, had he not looked upon them too fixedly; that for having seen the fair Bathsheba in her bath, the wisest King of his time was corrupted. And that in the eyes of Cleopatra was kindled the love Mark Antony bore her, a love as contagious and fatal to that unhappy lover, as it was glorious and profitable to the victorious Augustus. To all these examples I could add a great many others, had I not resolved to explain these figures succinctly, rather than dwell on long arguments."
+      ]
     },
     {
       "id": "p1-114",
@@ -5832,12 +5933,57 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-114.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Спящий крылатый младенец в венке из маков, у источника с надписью FONS CYZICI, со сломанными луком и стрелами",
+          "meaning": "Сон и маки — забвение любви; сломанное оружие — угасшая страсть; источник Кизика, по преданию, отнимал память о любимом у пивших его воду",
+          "what_en": "A sleeping winged child crowned with poppies, beside a fountain inscribed FONS CYZICI, his bow and arrows broken",
+          "meaning_en": "The sleep and poppies signify love's forgetting; the broken weapons, a spent passion; the fountain of Cyzicus was said to rob of memory of the beloved anyone who drank its water"
+        }
+      ],
+      "text_ru": [
+        "Его изображают в виде младенца, увенчанного маками, с крыльями, который у источника, на краю которого начертаны слова FONS CYZICI (Кизикский источник), спит обнажённым на земле, только что сломав свой лук и стрелы.",
+        "Крылья, которые мы придаём этому младенцу, суть символы Забвения, показывающие, что Любовь не всегда настолько прочно запечатлена в памяти любящих, чтобы не ускользнуть и не улететь, стоит её прогневать. Этому, впрочем, возражают некоторые Авторы, утверждающие, что бежит не она сама, а скорее непостоянный Влюблённый. И правда, следуя различным движениям своей души, он предаётся непостоянству и не может удержать свои мысли на одном.",
+        "Мы изображаем здесь Любовь спящей, ибо, едва влюблённые забудут предмет своей любви, действия их души кажутся совершенно усыплёнными; так что насколько пылки они были в преследовании желанной красоты, настолько же становятся малодушны, отчаявшись в завоевании, которое воображали себе возможным.",
+        "Мак, которым увенчан этот младенец, означает сон и забвение; ибо это растение обычно производит оба эти действия в тех, кто употребляет его чрезмерно. И нет никого, кто не знал бы хорошо, что сон и забвение имеют столь великое сходство, что почти неразделимы. Поэт Еврипид учит нас этой истине, когда вымышляет, что Орест приписывает им причину облегчения, данного его неистовству, и благодарит того и другого, восклицая: ¶«Единственная причина моего покоя, / Сон, которому я завидую; / О, сколь ты мне кстати, / Дабы смягчить тяготы моей жизни! / И ты, сладкое Забвение бедствий, / Божество мудрое и почтенное, / О, сколько слёз ты осушаешь / И сколь спасительна для смертных твоя рука!»",
+        "Примечательнее же всего в этих стихах то, что великий Поэт называет забвение бед мудрым и почтенным, дабы показать, сколь достойны чести и почитания те великодушные люди, что умеют забывать беспорядочные страсти, — в противоположность тем другим, что всецело им предаются и хвалятся своей более чем скотской чувственностью.",
+        "Что же до Кизикского источника, названного так по городу того же имени, который Географы полагают в Анатолии, он не без причины помещён здесь как символ забвения: ибо, если верить Плинию, он обладал свойством заставлять терять память о любимой вещи всех, кто пил его воду; что я счёл бы баснословным, если бы Павсаний в своих «Ахаиках» не приписывал подобного же свойства реке Селлеенте.",
+        "Некоторые, желая означить забвение матерей к своим детям, изображают женщину, носящую на шее, в виде драгоценности, подвешенный камень, который греки называют галатитом, а в правой руке — страусиное яйцо.",
+        "Этот камень, о котором упоминает Плиний, весьма уместно приписан женщине, о которой мы говорим, ибо, по тому же автору, он обладает тайным свойством увеличивать молоко у кормилиц и равным образом заставлять терять память о прошедшем. Так что иносказательно можно вполне сказать о матерях, забывающих своих детей, что у них на шее камень галатит.",
+        "По той же причине их сравнивают и со страусами, которые, дабы вывести птенцов летом, зарывают яйца в песок, а немного спустя уже не помнят, что их туда положили: что весьма хорошо подмечает многострадальный Иов, восклицая: ¶«Страус оставляет яйца свои на земле и забывает о них, рискуя растоптать их ногами»."
+      ],
+      "text_fr": [
+        "On le represente par vn enfant couronné de pavots, qui a des aisles, & qui prés d'vne fontaine, au bord de laquelle sont écrits ces mots, FONS CYZICI, dort nud sur la terre, où il vient de rompre son arc & ses fleches.",
+        "Les aisles que nous donnons à cet enfant sont des symboles d'Oubly; qui font voir qu'Amour n'est pas toûjours si bien imprimé dans le souvenir de ceux qui aiment, qu'il ne s'enfuye & ne s'envole quand on le fâche. A quoy toutefois s'opposent quelques Autheurs, qui soûtiennent que ce n'est pas luy qui s'enfuit, mais plûtost l'Amant volage. Comme en effet, pour suivre les divers mouvemens de son ame, il s'abandonne à l'inconstance, & ne peut tirer en arrest ses pensées.",
+        "Nous peignons icy l'Amour endormy, parce que les amans n'ont pas plûtost oublié le sujet aimé, que les fonctions de leur ame semblent entierement assoupies; de maniere qu'autant qu'ils ont esté ardens aprés la poursuite de la beauté desirée, autant deviennent-ils lâches, quand ils desesperent de la conqueste qu'ils s'imaginent de pouvoir faire.",
+        "Le pavot dont cet enfant est couronné, signifie le sommeil & l'oubly; car cette plante produit d'ordinaire ces deux effets en la personne de ceux qui en vsent par excés. Or est-il qu'il n'y a celuy qui ne sçache bien que le sommeil & l'oubliance ont vne conformité si grande, qu'ils sont comme inseparables. Le Poëte Euripide nous apprend cette verité, lorsqu'il feint qu'Oreste leur attribuë la cause du relâche que sa fureur luy a donné, & qu'il en remercie l'vn & l'autre quand il s'écrie, ¶Seule cause de mon repos, / Sommeil, à qui je porte envie; / O que tu me viens à propos, / Pour adoucir les ennuis de ma vie! / Et toy, doux Oubly des malheurs, / Deité sage & venerable, / O que tu fais tarir de pleurs, / Et qu'aux mortels ta main est secourable!",
+        "Or ce qu'il y a de plus remarquable en ces vers, c'est que ce grand Poëte appelle sage & venerable l'oubliance des maux, pour montrer combien sont dignes d'honneur & de veneration ces personnes genereuses, qui sçavent oublier les passions déreglées; au contraire de ces autres qui s'y abandonnent entierement, & qui font gloire de leurs sensualitez plus que brutales.",
+        "Quant à la fontaine de Cyzique, ainsi appellée d'vne ville de ce mesme nom, que les Geographes disent estre la Natolie, ce n'est pas sans raison qu'elle est icy mise pour vn symbole d'oubly: car s'il en faut croire Pline, elle avoit la proprieté de faire perdre le souvenir de la chose aimée à tous ceux qui beuvoient de son eau; ce que je tiendrois pour fabuleux, si Pausanias en ses Achaïques n'attribuoit vne pareille vertu à la riviere Sellienne.",
+        "Quelques-vns voulant signifier l'oubly des meres envers leurs enfans, peignent vne femme qui porte penduë au col en forme de joyau, la pierre que les Grecs appellent Galathite, & en sa main droite vn œuf d'Austruche.",
+        "Cette pierre dont Pline fait mention, est fort à propos attribuée à la femme dont nous parlons, parce que selon le mesme autheur, elle a vne secrete proprieté d'augmenter le lait aux nourrices, & pareillement de faire perdre la memoire des choses passées. Tellement que par vne façon de parler figurée, nous pouvons bien dire des meres qui oublient leurs enfans, qu'elles ont au col la pierre Galathite.",
+        "Pour la mesme raison encore on les compare aux Autruches, qui pour faire éclorre leurs œufs en Esté les ensevelissent dans le sable, & vn peu aprés ne se souviennent plus de les y avoir mis: ce que le patient Job remarque fort bien, quand il s'écrie. ¶L'Autruche laisse ses œufs à terre, & les oublie, au hazard de les fouler aux pieds."
+      ],
       "en": "Forgetting of Love",
-      "group_en": "O"
+      "group_en": "O",
+      "scans": [
+        "p1-114-1.jpg",
+        "p1-114-2.jpg",
+        "p1-114-3.jpg"
+      ],
+      "text_en": [
+        "He is represented as a child crowned with poppies, who has wings, and who, near a fountain, on whose edge are written these words, FONS CYZICI, sleeps naked on the ground, having just broken his bow and arrows.",
+        "The wings we give this child are symbols of Forgetting, which show that Love is not always so firmly imprinted in the memory of those who love, but that it flees and flies away when vexed. To this, however, some Authors object, maintaining that it is not he who flees, but rather the fickle Lover. For indeed, in following the various movements of his soul, he gives himself over to inconstancy, and cannot fix his thoughts in one place.",
+        "We paint Love asleep here, because no sooner have lovers forgotten the beloved object than the functions of their soul seem entirely lulled; so that as ardent as they were in pursuit of the desired beauty, so faint-hearted do they become, when they despair of the conquest they had imagined they could make.",
+        "The poppy with which this child is crowned signifies sleep and forgetting; for this plant ordinarily produces these two effects in those who use it to excess. Now there is no one who does not well know that sleep and forgetfulness bear so great a resemblance that they are, as it were, inseparable. The Poet Euripides teaches us this truth, when he feigns that Orestes attributes to them the cause of the respite his madness has given him, and thanks them both when he exclaims, ¶\"Sole cause of my repose, / Sleep, whom I envy; / O how timely you come to me, / To soften the troubles of my life! / And you, sweet Forgetting of misfortunes, / Wise and venerable Deity, / O how many tears you dry up, / And how helpful your hand is to mortals!\"",
+        "Now what is most remarkable in these verses is that this great Poet calls the forgetting of ills wise and venerable, to show how worthy of honor and veneration are those generous persons who know how to forget disordered passions; unlike those others who abandon themselves entirely to them, and glory in sensualities more than brutish.",
+        "As for the fountain of Cyzicus, so called from a city of that same name, which the Geographers say is in Anatolia, it is not without reason placed here as a symbol of forgetting: for, if Pliny is to be believed, it had the property of making all who drank of its water lose the memory of the beloved thing; which I would hold to be fabulous, did not Pausanias, in his Achaica, attribute a like virtue to the river Selemnus.",
+        "Some, wishing to signify the forgetfulness of mothers toward their children, paint a woman wearing hung at her neck, in the form of a jewel, the stone the Greeks call Galactite, and in her right hand an Ostrich egg.",
+        "This stone, which Pliny mentions, is quite fittingly attributed to the woman we speak of, because, according to the same author, it has a secret property of increasing milk in nursing women, and likewise of causing the loss of memory of things past. So that, in a figurative way of speaking, we may well say of mothers who forget their children, that they wear at their neck the Galactite stone.",
+        "For the same reason they are also compared to Ostriches, which, to hatch their eggs in Summer, bury them in the sand, and a little while after no longer remember having put them there: which the patient Job notes very well, when he exclaims, ¶\"The Ostrich leaveth her eggs on the earth, and forgetteth them, at the risk of trampling them underfoot.\""
+      ]
     },
     {
       "id": "p1-115",
