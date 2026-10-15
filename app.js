@@ -1,6 +1,10 @@
 /* Иконология Бодуэна: указатель и карточки статей.
    Данные: data/entries.json, гравюры: img/, сканы страниц: pages/ рядом с этим файлом. */
 (function(){
+  // Бампать при каждой правке app.css (и, по желанию, когда меняется логика
+  // в app.js, завязанная на новую разметку), чтобы браузеры и CDN не отдавали
+  // старую закэшированную копию стилей после деплоя.
+  var APP_VER = "9";
   var me = document.currentScript;
   var BASE = (me && me.src) ? me.src.replace(/[^\/]*$/, "") : "./";
   var root = document.getElementById("iconologie");
@@ -11,8 +15,10 @@
   // шрифты и стили
   function addLink(href){ var l=document.createElement("link"); l.rel="stylesheet"; l.href=href; document.head.appendChild(l); }
   addLink("https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&display=swap");
-  if(!document.querySelector('link[data-ic]')){
-    var l=document.createElement("link"); l.rel="stylesheet"; l.href=BASE+"app.css"; l.setAttribute("data-ic","1"); document.head.appendChild(l);
+  var existingLink = document.querySelector('link[data-ic]');
+  if(existingLink && existingLink.getAttribute("data-ic")!==APP_VER){ existingLink.remove(); existingLink=null; }
+  if(!existingLink){
+    var l=document.createElement("link"); l.rel="stylesheet"; l.href=BASE+"app.css?v="+APP_VER; l.setAttribute("data-ic",APP_VER); document.head.appendChild(l);
   }
 
   /* ---------- i18n ---------- */
