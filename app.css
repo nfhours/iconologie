@@ -1,0 +1,123 @@
+/* Иконология Бодуэна. Светлое оформление, не зависит от темы сайта. */
+.ic{
+  --paper:#F8F7F3; --sheet:#FFFFFF; --ink:#22201C; --soft:#69645B; --rule:#DEDAD0;
+  --accent:#8B1E2D; --accent-soft:#F3E7E8; --ready:#2F6B4F;
+  --serif:"Literata", Georgia, "Times New Roman", serif;
+  --old:"EB Garamond", Garamond, Georgia, serif;
+  --top:0px;
+  all:initial; display:block; box-sizing:border-box;
+  background:var(--paper); color:var(--ink);
+  font-family:var(--serif); font-size:20px; line-height:1.6;
+  -webkit-text-size-adjust:100%; text-align:left;
+}
+.ic *,.ic *::before,.ic *::after{box-sizing:border-box}
+.ic p,.ic h1,.ic h2,.ic h3,.ic ul,.ic ol,.ic li,.ic figure{margin:0;padding:0}
+.ic button,.ic input,.ic select{font:inherit;color:inherit;letter-spacing:normal;text-transform:none}
+.ic a{color:var(--accent);text-decoration:none}
+.ic img{max-width:100%;display:block;border:0}
+.ic :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.ic-wrap{max-width:780px;margin:0 auto;padding:36px 20px 72px}
+
+/* шапка указателя */
+.ic-title{font-family:var(--old);font-weight:500;font-size:2.4em;line-height:1.05;color:var(--ink)}
+.ic-sub{color:var(--soft);font-size:.9em;margin-top:8px;max-width:36em}
+.ic-progress{margin-top:14px;font-size:.85em;color:var(--soft)}
+.ic-bar{display:block;height:4px;background:var(--rule);border-radius:2px;margin-top:6px;overflow:hidden;max-width:320px}
+.ic-bar i{display:block;height:100%;background:var(--ready)}
+
+.ic-controls{position:sticky;top:var(--top);z-index:4;background:var(--paper);
+  padding:16px 0 12px;margin-top:18px;border-bottom:1px solid var(--rule)}
+.ic-search{width:100%;font-size:1em;padding:12px 14px;border:1px solid var(--rule);border-radius:8px;
+  background:var(--sheet);-webkit-appearance:none;appearance:none;box-shadow:none;margin:0}
+.ic-search:focus{outline:2px solid var(--accent);outline-offset:1px}
+.ic-row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:10px}
+.ic-seg{display:flex;flex-wrap:wrap;gap:6px}
+.ic-chip,.ic-sort{font-size:.8em;padding:6px 14px;border:1px solid var(--rule);background:var(--sheet);
+  border-radius:999px;cursor:pointer;line-height:1.3;margin:0}
+.ic-chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.ic-sort{border-radius:8px;margin-left:auto}
+.ic-count{color:var(--soft);font-size:.78em;margin-top:10px}
+
+.ic-part{font-family:var(--old);font-size:1.6em;font-weight:500;color:var(--accent);margin-top:36px}
+.ic-group{margin-top:26px}
+.ic-group h2{font-size:1.02em;font-weight:600;display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline;
+  padding-bottom:6px;border-bottom:2px solid var(--ink)}
+.ic-gfr{font-family:var(--old);font-style:italic;font-weight:400;color:var(--soft);font-size:1.05em}
+.ic-gpg{margin-left:auto;color:var(--accent);font-weight:400;font-size:.9em}
+.ic-list ul{list-style:none}
+.ic-row-item{display:grid;grid-template-columns:4.4rem 1fr auto;gap:14px;align-items:center;
+  padding:12px 4px;border-bottom:1px solid var(--rule);cursor:pointer;color:var(--ink)}
+.ic-row-item:hover{background:var(--sheet)}
+.ic-pg{font-family:var(--old);font-size:1.7em;line-height:1;color:var(--accent);text-align:right}
+.ic-pg small{display:block;font-family:var(--serif);font-size:.4em;color:var(--soft);margin-top:4px}
+.ic-fr{font-family:var(--old);font-style:italic;font-size:1.1em;line-height:1.3;display:block}
+.ic-ru{display:block;font-size:.92em;color:var(--soft);line-height:1.4}
+.ic-num{font-family:var(--serif);font-style:normal;font-size:.7em;color:var(--soft);margin-right:8px}
+.ic-dot{width:10px;height:10px;border-radius:50%;border:1.5px solid var(--rule)}
+.ic-dot.on{background:var(--ready);border-color:var(--ready)}
+.ic-empty{color:var(--soft);padding:32px 0}
+
+/* карточка статьи */
+.ic-nav{position:sticky;top:var(--top);z-index:4;background:var(--paper);display:flex;align-items:center;gap:10px;
+  padding:12px 0;border-bottom:1px solid var(--rule)}
+.ic-back{font-size:.85em;padding:7px 14px;border:1px solid var(--rule);border-radius:999px;background:var(--sheet);cursor:pointer}
+.ic-nav-pos{color:var(--soft);font-size:.8em;margin-left:auto}
+.ic-arrow{width:42px;height:42px;border:1px solid var(--rule);border-radius:50%;background:var(--sheet);
+  cursor:pointer;font-size:1.1em;line-height:1;display:flex;align-items:center;justify-content:center}
+.ic-arrow:disabled{opacity:.35;cursor:default}
+
+.ic-head{margin-top:30px}
+.ic-kicker{font-size:.8em;color:var(--soft)}
+.ic-h-fr{font-family:var(--old);font-style:italic;font-weight:500;font-size:2.5em;line-height:1.05;margin-top:6px}
+.ic-h-ru{font-size:1.3em;font-weight:500;margin-top:6px}
+
+.ic-figs{margin-top:26px;display:grid;gap:14px}
+.ic-fig{background:var(--sheet);border:1px solid var(--rule);border-radius:4px;padding:14px;cursor:zoom-in}
+.ic-fig img{margin:0 auto;max-height:78vh;width:auto}
+.ic-fig figcaption{font-size:.75em;color:var(--soft);margin-top:8px;text-align:center}
+
+.ic-sec{margin-top:34px}
+.ic-sec h3{font-size:.85em;font-weight:600;color:var(--accent);padding-bottom:6px;border-bottom:1px solid var(--rule);margin-bottom:12px}
+.ic-attrs{list-style:none}
+.ic-attrs li{display:grid;grid-template-columns:minmax(7em,34%) 1fr;gap:14px;padding:9px 0;border-bottom:1px solid var(--rule)}
+.ic-attrs b{font-weight:600}
+.ic-attrs span{color:var(--ink)}
+.ic-text p{margin:0 0 1em;max-width:36em}
+.ic-text p:last-child{margin-bottom:0}
+.ic-fr-text{font-family:var(--old);font-size:1.08em;line-height:1.55}
+.ic-details{margin-top:34px;border-top:1px solid var(--rule)}
+.ic-details summary{cursor:pointer;padding:14px 0;font-size:.9em;font-weight:600;color:var(--accent);list-style:none}
+.ic-details summary::-webkit-details-marker{display:none}
+.ic-details summary::before{content:"+ "}
+.ic-details[open] summary::before{content:"− "}
+.ic-missing{margin-top:30px;padding:22px;background:var(--sheet);border:1px dashed var(--rule);border-radius:6px;color:var(--soft)}
+.ic-missing b{color:var(--ink);font-weight:600}
+
+.ic-pager{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:44px}
+.ic-pager button{text-align:left;padding:14px 16px;border:1px solid var(--rule);border-radius:6px;background:var(--sheet);cursor:pointer}
+.ic-pager button:last-child{text-align:right}
+.ic-pager small{display:block;font-size:.72em;color:var(--soft)}
+.ic-pager span{font-family:var(--old);font-style:italic;font-size:1.05em}
+.ic-pager button:disabled{visibility:hidden}
+
+/* просмотр гравюры */
+.ic-lb{position:fixed;inset:0;z-index:99999;background:rgba(248,247,243,.97);display:flex;align-items:center;justify-content:center;
+  padding:16px;cursor:zoom-out}
+.ic-lb img{max-width:100%;max-height:100%;object-fit:contain;box-shadow:0 2px 24px rgba(0,0,0,.12)}
+.ic-lb button{position:absolute;top:12px;right:12px;width:44px;height:44px;border-radius:50%;border:1px solid var(--rule);
+  background:#fff;font-size:1.3em;cursor:pointer;color:var(--ink)}
+
+@media (max-width:520px){
+  .ic{font-size:18px}
+  .ic-wrap{padding:24px 16px 56px}
+  .ic-title{font-size:2em}
+  .ic-row-item{grid-template-columns:3.6rem 1fr auto;gap:10px}
+  .ic-sort{margin-left:0}
+  .ic-h-fr{font-size:2em}
+  .ic-attrs li{grid-template-columns:1fr;gap:2px}
+  .ic-fig{padding:8px}
+}
+@media (prefers-reduced-motion:no-preference){
+  .ic-row-item{transition:background .15s}
+}
