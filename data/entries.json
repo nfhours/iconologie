@@ -2667,12 +2667,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-47.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Почтенная дама с венком из оливы, циркулем в левой руке, жезлом в правой и рулём корабля рядом",
+          "meaning": "Жезл — власть хозяина над слугами, руль — забота отца о детях, венок из оливы — труд ради мира в доме, циркуль — благоразумие и умеренность в хозяйстве",
+          "what_en": "A venerable lady with an olive wreath, a compass in her left hand, a rod in her right, and a ship's rudder beside her",
+          "meaning_en": "The rod is a master's authority over servants, the rudder a father's care for his children, the olive wreath the effort to keep peace at home, the compass prudence and moderation in household affairs"
+        }
+      ],
+      "text_ru": [
+        "Эта почтенная Дама несёт на голове венок из оливы, в левой руке циркуль, в правой — жезл, а рядом с собой — рулевое весло корабля.",
+        "Поскольку несомненно, что для общего блага государственной жизни необходимо единение многих семей, живущих по общему порядку, и что для доброго своего сохранения каждой семье нужны особые законы, более строгие, чем общие, — потому-то это особое устроение, или управление, и называется Экономией, словом, заимствованным из греческого, дабы придать выражению большую силу. А поскольку нет такой семьи, что не состояла бы из мужа, жены, отца, детей, хозяина и слуг, всё это довольно ясно показано в этом изображении. Жезл означает власть, которую хозяин имеет над слугами; руль — заботу, которую истинный отец проявляет о детях; оливковый венок — труд, который он должен прилагать, дабы сохранять мир в своём доме; а циркуль — благоразумие и умеренность, которые он должен соблюдать в своём хозяйстве, ибо он должен соразмерять расходы со своим достатком, если хочет избавить свой дом от неустройства и сохранить в нём добрый порядок."
+      ],
+      "text_fr": [
+        "Cette venerable Dame a sur la teste vne couronne d'olivier, en sa main gauche vn compas, en la droite vne baguette, & à son costé vn timon de navire.",
+        "Comme il est certain qu'à la commune felicité de la vie politique est requise l'vnion de plusieurs familles, qui vivent sous vn mesme ordre, & que pour bien se maintenir, chaque famille a besoin de loix particulieres, & qui soient plus resserrées que les generales. C'est pour cela que cette conduite ou ce gouvernement particulier est appellé Economie, mot tiré du Grec, pour en rendre l'expression plus forte. Et dautant qu'il n'y a point de famille qui ne soit composée de mary, de femme, de pere, d'enfans, de maistre & de serviteurs, tout cela nous est assez bien demontré dans cette peinture. La baguette signifie l'empire qu'vn maistre a sur ses valets; le timon, le soin qu'vn vray pere a sur ses enfans; la guirlande d'olivier, la peine qu'il doit prendre à maintenir la paix dans sa maison; & le compas, la prudence & la moderation dont il doit vser dans son ménage: car il faut qu'il mesure sa dépense par son bien, s'il veut bannir l'incommodité de son logis, & y maintenir le bon ordre."
+      ],
       "en": "Household Management",
-      "group_en": "E"
+      "group_en": "E",
+      "scans": [
+        "p1-047-1.jpg",
+        "p1-047-2.jpg"
+      ],
+      "text_en": [
+        "This venerable Lady wears upon her head a crown of olive, in her left hand a compass, in her right a rod, and at her side a ship's rudder.",
+        "As it is certain that the common happiness of political life requires the union of several families, living under a common order, and that for its good maintenance each family needs particular laws, stricter than the general ones — for this reason this particular conduct, or government, is called Economy, a word drawn from the Greek, to render the expression stronger. And inasmuch as there is no family that is not composed of husband, wife, father, children, master, and servants, all this is fairly well shown us in this picture. The rod signifies the authority a master has over his servants; the rudder, the care a true father has for his children; the olive garland, the effort he must make to maintain peace in his household; and the compass, the prudence and moderation he must use in his household affairs: for he must measure his spending by his means, if he wishes to banish disorder from his home, and maintain good order in it."
+      ]
     },
     {
       "id": "p1-48",
@@ -2685,12 +2708,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-48.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина средних лет с весами в правой руке",
+          "meaning": "Весы — вечный символ Справедливости, беспристрастно взвешивающей поступки и воздающей каждому своё",
+          "what_en": "A woman of middle age with a balance in her right hand",
+          "meaning_en": "The balance is the eternal symbol of Justice, weighing everyone's actions equitably and rendering to each their due"
+        },
+        {
+          "what": "Ласточкино гнездо в левой руке, где она кормит птенцов поровну",
+          "meaning": "У египтян ласточка — образ истинного отца семейства, равно делящего достояние между всеми детьми",
+          "what_en": "A swallow's nest in her left hand, where she feeds the young equally",
+          "meaning_en": "To the Egyptians, the swallow was an image of a true father, dividing his goods equally among all his children"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде женщины средних лет, держащей весы в правой руке, а в левой — ласточкино гнездо, из которого она кормит птенцов.",
+        "Объяснение этого образа довольно просто, ибо нет никого, кто не знал бы, что весы всегда были символом Справедливости, чьё свойство — беспристрастно взвешивать поступки всех людей и воздавать каждому то, что ему причитается.",
+        "То же самое означает для нас ласточка, которую египтяне приняли за образ истинного отца семейства, поровну делящего своё достояние между детьми, — по подобию этой заботливой птицы, уравнивающей долю своих птенцов и никогда не отнимающей у одного, чтобы отдать другому."
+      ],
+      "text_fr": [
+        "Elle est figurée par vne femme de moyen âge, tenant vne balance de la main droite, & de la gauche le nid d'vne hirondelle, qui donne à manger à ses petits.",
+        "L'explication de cette figure est assez facile, n'y ayant personne qui ne sçache que la balance a toûjours esté le symbole de la Justice, le propre de laquelle est de peser equitablement les actions de tout le monde, & de rendre à chacun ce qui luy appartient.",
+        "Le mesme nous est signifié par l'hirondelle, que les Egyptiens ont prise pour vn vray pere de famille, qui partage également son bien à ses enfans; à l'imitation de cet oiseau charitable, qui fait égale la portion de ses petits, & qui n'oste jamais rien à l'vn pour le donner à l'autre."
+      ],
       "en": "Equality",
-      "group_en": "E"
+      "group_en": "E",
+      "scans": [
+        "p1-048-1.jpg"
+      ],
+      "text_en": [
+        "She is figured as a woman of middle age, holding a balance in her right hand, and in her left a swallow's nest, from which she feeds its young.",
+        "The explanation of this figure is fairly easy, there being no one who does not know that the balance has always been the symbol of Justice, whose proper function is to weigh everyone's actions equitably, and to render to each what belongs to them.",
+        "The same is signified for us by the swallow, which the Egyptians took as a true father of a family, dividing his goods equally among his children, in imitation of this charitable bird, which makes equal the portion of its young, and never takes from one to give to another."
+      ]
     },
     {
       "id": "p1-49",
@@ -2703,12 +2757,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-49.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Вооружённая фигура в шлеме с золотым венцом, с молнией в одной руке",
+          "meaning": "Доспех означает, что без основания учёности и рассуждения красноречие было бы безоружным и не достигало бы цели; молния — силу, с которой оно сокрушает упрямство невежд",
+          "what_en": "An armed figure in a helmet with a golden crown, holding a thunderbolt in one hand",
+          "meaning_en": "The armour signifies that without the foundation of learning and reasoning, eloquence would be disarmed and miss its mark; the thunderbolt, the force with which it beats down the obstinacy of the ignorant"
+        },
+        {
+          "what": "Открытая книга и песочные часы в другой руке",
+          "meaning": "Слова, сотканные искусством, — орудия красноречия; часы означают нужную меру и порядок времени, дающие речи стройность и силу убеждения",
+          "what_en": "An open book and an hourglass in her other hand",
+          "meaning_en": "Words woven with art are the instruments of eloquence; the hourglass signifies the due measure and order of time that give speech its structure and persuasive force"
+        }
+      ],
+      "text_ru": [
+        "Не без причины, дабы выразить её разнообразные действия, её изображают вооружённой шлемом, увенчанным золотым венцом, нагрудником и мечом, который она носит при себе; притом одной рукой, засученной до локтя, она сжимает молнию, а другой держит открытую книгу, над которой — песочные часы.",
+        "Красноречие изображают юным, прекрасным и вооружённым, ибо оно не ставит себе иной цели, кроме убеждения; а поскольку достичь этого оно может лишь посредством своей привлекательности и своих чар, ему придают их во множестве на лице, дабы показать тем самым, что украшения и прелести слога безусловно необходимы всякому, кто хочет убедить другого. Именно потому в древности изображали юным и приятным бога Меркурия, дабы олицетворить Красноречие, которое с трудом может нравиться, если оно не прекрасно, не исполнено силы, цветуще и величаво.",
+        "Тонкость слога означена здесь также обнажёнными руками: ибо без основания прочного учения и крепкого рассуждения Красноречие было бы безоружным и никогда не могло бы поразить цель, к которой стремится; отсюда и оно само, и Убеждение по праву зовутся порождениями Учёности. Но поскольку доводы, порождаемые Наукой, имеют трудности, мешающие их лёгкому пониманию, к ним для этой цели прибавляют украшения и прелести слога, проясняющие их и часто производящие действия, благодаря которым распутываются затруднения ума несовершенного и грубого. С той же целью, идёт ли речь о том, чтобы доводами объяснить трудные материи, или взволновать страсти души, или остановить их неупорядоченные движения, — необходимо, чтобы Оратор был искусен в том, чтобы прикрывать своё искусство приятным сочетанием избранных и хорошо расставленных слов: ибо сколь бы ни был усыплён ум, она, несомненно, разбудит его тонкостью своих доводов или привлечёт мягкостью своей речи; до такой степени, что её действие и слова, подобно грозным молниям, поразят самых дерзких и заставят выпасть оружие из их рук.",
+        "Её золотой венец — знак её великой власти, посредством которой она царит над мужеством людей; истинно, как говорит Платон, что достоинство Оратора соединяется с достоинством Царей, когда через него убеждают в справедливом и употребляют его на управление Государствами.",
+        "Открытая книга и часы, которые она держит в одной руке, учат двум вещам: во-первых, что слова, искусно сотканные и оживлённые живостью действия, либо записанные на благо потомству, суть орудия Красноречия; во-вторых, что надлежит соблюдать в этом должный порядок и верную меру времени, которая придаёт периодам число, слогу — изящество, а всему телу речи — душу убеждения.",
+        "Что до молнии, которую ей приписывает Пиерий в 33-й книге, это означает, что с той же лёгкостью, с какой она повергает наземь высочайшие башни, Красноречие сокрушает упрямство невежд и разрушает мнения, построенные ими на дурных основаниях."
+      ],
+      "text_fr": [
+        "Ce n'est pas sans raison que pour exprimer ses divers effets on la peint armée d'vn morion environné d'vne couronne d'or, d'vn corcelet, & d'vne épée qu'elle porte à son costé; outre que de l'vn de ses bras, qu'elle a retroussez jusques au coude, elle empoigne la foudre, & que de l'autre elle tient vn livre ouvert, au dessus duquel est vne horloge de sable.",
+        "On represente l'Eloquence, jeune, belle, & armée, à cause qu'elle ne se propose point d'autre fin que la persuasion; dequoy ne pouvant venir à bout que par le moyen de ses attraits & de ses charmes, on luy en met quantité sur le visage, pour montrer par là que les ornemens & les graces des paroles sont absolument necessaires à quiconque veut persuader autruy. Aussi n'estoit-ce que pour cela qu'anciennement on peignoit jeune & agreable le Dieu Mercure, pour figurer l'Eloquence, qui peut agréer difficilement, si elle n'est belle, vigoureuse, fleurie, & pleine de majesté.",
+        "La delicatesse des paroles nous est encore denotée par ses bras nuds: car sans les fondemens d'vne solide doctrine & d'vn fort raisonnement, l'Eloquence seroit desarmée, & ne pourroit jamais donner dans le but où elle vise; d'où vient qu'elle & la Persuasion sont à bon droit appellées les creatures de la Doctrine. Mais parce que les raisons que produit la Science, ont des difficultez qui empeschent qu'on ne les entende si aisément, l'on y adjoûte pour cet effet les ornemens & les graces des paroles, qui les éclaircissent, & qui engendrent souvent des effets, par le moyen desquels l'on develope les embarras d'vn esprit defectueux & grossier. Pour cette mesme fin encore, soit qu'il s'agisse ou d'expliquer par raisons les matieres difficiles, ou d'émouvoir les passions de l'ame, ou d'arrester ses mouvemens déreglez; il est necessaire que l'Orateur soit ingenieux à couvrir son art d'vn agreable mélange de paroles choisies & bien rangées: car quelque endormy que soit vn esprit, elle l'éveillera sans doute par la subtilité de ses argumens, ou l'attirera par la douceur de son langage; jusques là mesme que son action & ses paroles comme des foudres redoutables étonneront les plus audacieux, & leur feront tomber les armes des mains.",
+        "Sa couronne d'or est vne marque de sa grande authorité, par qui elle regne dans le courage des hommes; estant veritable, comme dit Platon, que la dignité de l'Orateur se trouve jointe avec celle des Rois, lorsque par elle il persuade ce qui est juste, & qu'il l'employe au gouvernement des Estats.",
+        "Le livre ouvert, & l'horloge qu'elle tient d'vne main, enseignent deux choses: l'vne, que les paroles tissuës avec art, & animées par la vivacité de l'action, ou mises par écrit pour le bien de la posterité, sont les instrumens de l'Eloquence: l'autre, qu'il y faut apporter l'ordre requis, & la juste mesure du temps, qui donne aux periodes le nombre, au stile la grace, & à tout le corps du discours l'ame de la persuasion.",
+        "Quant à la foudre que Pierius liv. 33. luy attribuë, cela signifie qu'avec la mesme facilité qu'elle met par terre les plus hautes tours, l'Eloquence abbat l'obstination des ignorans, & ruine les opinions qu'ils ont basties sur de mauvais fondemens."
+      ],
       "en": "Eloquence",
-      "group_en": "E"
+      "group_en": "E",
+      "scans": [
+        "p1-049-1.jpg",
+        "p1-049-2.jpg"
+      ],
+      "text_en": [
+        "It is not without reason that, to express her various effects, she is painted armed with a morion crowned with a golden wreath, a corselet, and a sword she wears at her side; moreover, with one of her arms, which she has rolled up to the elbow, she grips a thunderbolt, and with the other holds an open book, above which is an hourglass.",
+        "Eloquence is represented young, beautiful, and armed, because she sets herself no other goal than persuasion; and since she cannot achieve this except by means of her charms and allurements, she is given a great deal of them upon her face, to show thereby that ornaments and graces of speech are absolutely necessary to whoever wishes to persuade another. Indeed, it was for this very reason that in ancient times the god Mercury was painted young and pleasing, to figure Eloquence, who can hardly please unless she is beautiful, vigorous, blooming, and full of majesty.",
+        "The delicacy of speech is also denoted for us by her bare arms: for without the foundations of solid learning and strong reasoning, Eloquence would be disarmed, and could never strike the mark she aims at; whence she and Persuasion are rightly called the offspring of Learning. But because the reasons produced by Science have difficulties that prevent their being so easily understood, there are added to them for this purpose the ornaments and graces of speech, which clarify them, and which often produce effects by which the perplexities of a defective and coarse mind are unraveled. To this same end, whether it is a matter of explaining difficult subjects through reasons, or of stirring the passions of the soul, or of checking its unruly movements, it is necessary that the Orator be ingenious in covering his art with an agreeable blend of chosen and well-arranged words: for however drowsy a mind may be, she will doubtless awaken it by the subtlety of her arguments, or draw it in by the sweetness of her language; so much so that her action and her words, like fearsome thunderbolts, will astonish the boldest, and make them drop their weapons from their hands.",
+        "Her golden crown is a mark of her great authority, by which she reigns over the courage of men; it being true, as Plato says, that the dignity of the Orator is found joined with that of Kings, when through it he persuades what is just, and employs it in the governing of States.",
+        "The open book, and the hourglass she holds in one hand, teach two things: one, that words woven with art, and animated by the liveliness of delivery, or set down in writing for the good of posterity, are the instruments of Eloquence: the other, that the proper order must be brought to it, and the just measure of time, which gives to periods their number, to style its grace, and to the whole body of the discourse the soul of persuasion.",
+        "As for the thunderbolt which Pierius, book 33, attributes to her, this signifies that with the same ease with which it levels the highest towers, Eloquence beats down the obstinacy of the ignorant, and ruins the opinions they have built upon bad foundations."
+      ]
     },
     {
       "id": "p1-50",
@@ -2721,12 +2816,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-50.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Человек с завязанными глазами, бредущий наощупь с посохом",
+          "meaning": "Заблуждение — уклонение от пути; повязка означает, что ум легко помрачается мирскими интересами, посох — что без разума и истинного рассудка человек спотыкается на каждом шагу",
+          "what_en": "A blindfolded man groping his way with a staff",
+          "meaning_en": "Error is a straying from the path; the blindfold signifies that the mind is easily darkened by worldly interests, the staff that without reason and true judgement one stumbles at every step"
+        }
+      ],
+      "text_ru": [
+        "Этот человек, бредущий наощупь, с завязанными глазами и посохом в руке, — символ Заблуждения. Стоики определяют его как уклонение от пути; тогда как держаться на нём, ни на йоту не сбиваясь, и называется идти прямо, не плутая.",
+        "Так мы можем по праву сказать, что во всех наших делах, будь то духа или тела, мы лишь странствуем здесь, на земле, и что эта жизнь — не более чем паломничество, из которого мы надеемся прибыть на Небо. Этому учит нас явление Иисуса Христа ученикам Своим в облике странника; а также то, что в Левите Бог прямо повелевает народу Израиля всегда идти прямым путём и никогда не отклоняться от большой дороги.",
+        "Повязка, ослепляющая этого путника, означает, что нет такого заблуждения, в которое человек не впал бы легко, как только свет его ума однажды помрачается мирскими интересами, словно густыми облаками; а посох означает, что тот, кто даёт вести себя путём чувства, может спотыкаться на каждом шагу, если не имеет верными проводниками действия разума и истинного рассудка."
+      ],
+      "text_fr": [
+        "Cet homme qui marche à tastons, les yeux bandez, & vn baston à la main, est vn symbole de l'Erreur. Les Stoïciens la definissent vn écartement du chemin; comme au contraire s'y tenir dedans sans s'égarer tant soit peu, est ce qu'on appelle aller droit, & ne se point fourvoyer.",
+        "Ainsi pouvons-nous bien dire qu'en toutes nos actions, soit de l'esprit soit du corps, nous ne faisons que voyager icy-bas, & que cette vie n'est qu'vn pellerinage en terre, d'où nous esperons d'arriver au Ciel. Cecy nous est enseigné par l'apparition de Jesus-Christ à ses Disciples, en habit de pellerin; joint que dans le Levitique Dieu commande exprés au peuple d'Israël d'aller toûjours droit, & de ne s'égarer iamais du grand chemin.",
+        "Par le bandeau qui aveugle ce voyageur, il est signifié qu'il n'est point d'erreur où l'homme ne tombe facilement, depuis que la lumiere de son esprit est vne fois obscurcie par les interests du monde, comme par des nuages épais; & par le baston, que celuy qui se laisse conduire par la voye du sens, peut choper à chaque pas, s'il n'a pour fideles guides les operations de l'esprit, & celles de la vraye raison."
+      ],
       "en": "Error",
-      "group_en": "E"
+      "group_en": "E",
+      "scans": [
+        "p1-050-1.jpg"
+      ],
+      "text_en": [
+        "This man, who walks groping, his eyes blindfolded, and a staff in hand, is a symbol of Error. The Stoics define it as a straying from the path; whereas to keep to it without ever straying in the least is what is called going straight, and not losing one's way.",
+        "Thus we may well say that in all our actions, whether of mind or of body, we do nothing but journey here below, and that this life is but a pilgrimage upon earth, from which we hope to arrive in Heaven. This is taught us by the appearance of Jesus Christ to his Disciples, in a pilgrim's garb; together with the fact that in Leviticus God expressly commands the people of Israel always to go straight, and never to stray from the highway.",
+        "By the blindfold that blinds this traveler, it is signified that there is no error into which man does not easily fall, once the light of his mind is darkened by worldly interests, as by thick clouds; and by the staff, that he who lets himself be guided by the way of sense may stumble at every step, unless he has for faithful guides the workings of the mind, and those of true reason."
+      ]
     },
     {
       "id": "p1-51",
