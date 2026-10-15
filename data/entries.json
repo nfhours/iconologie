@@ -1418,12 +1418,56 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-23.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в золотом платье и венке из руты, с пеликаном в объятиях",
+          "meaning": "Золото означает, что доброта сообщается всему земному; пеликан, кормящий птенцов своей кровью, — образ пламенного милосердия",
+          "what_en": "A woman in a golden robe and a garland of rue, holding a pelican",
+          "meaning_en": "Gold signifies that goodness is communicated to all earthly things; the pelican, feeding its young with its own blood, is an image of ardent charity"
+        },
+        {
+          "what": "Зеленеющее дерево у реки рядом с ней",
+          "meaning": "Аллегория праведника из псалма — человека, подобного дереву, посаженному у чистого потока",
+          "what_en": "A green tree by a river beside her",
+          "meaning_en": "An allegory of the righteous man from the Psalms, likened to a tree planted by a clear stream"
+        }
+      ],
+      "text_ru": [
+        "Эта Нимфа, или, вернее, Богиня, одетая в платье из золотой газовой ткани и увенчанная гирляндой из руты, устремляет взор к небу, держит в объятиях пеликана, а по сторонам от неё — зеленеющее дерево, посаженное на берегу реки.",
+        "Доброта в человеке есть сочетание многих добрых качеств, таких как вера, справедливость, честность, терпение и тому подобных.",
+        "Её платье соткано из золота, ибо это лучший из всех металлов. По той же причине поэт Гораций называет золотой и умеренность, ибо истинно, что через неё Доброта сообщается всему земному.",
+        "Её гирлянда из руты показывает, что она способна истреблять дурные мысли, непрестанно с ней враждующие, не менее сильно, чем эта трава действует против чар и наваждений злых духов, которые от природы её избегают и питают к ней отвращение. Более того, подобно тому как не последнее из её свойств — постепенно угашать мирскую любовь, так и истинная Доброта имеет обыкновение попирать все свои собственные интересы и подчинять разуму себялюбие, обычно нарушающее гармонию прочих добродетелей.",
+        "Она обращает взор к Небу, дабы не видеть сует земных. Ибо предметы низменные и бренные ей столь же ненавистны, сколь приятно ей созерцание вещей божественных.",
+        "Пеликан, которого она держит в объятиях, есть образ её пламенного милосердия; ибо она урезает собственное пропитание, дабы поделиться с бедными — подражая этой заботливой птице, которая, дабы её птенцы не умерли от голода, пронзает себе бок ударами клюва и питает их собственной кровью.",
+        "Дерево, изображённое рядом с ней, имеет аллегорический и таинственный смысл, заимствованный из точных слов царственного Пророка, который, говоря о человеке праведном, следующем закону Божьему, уподобляет его дереву, посаженному на берегу чистого ручья."
+      ],
+      "text_fr": [
+        "Cette Nymphe, ou plûtost cette Deesse, vestuë d'vne robe de gaze d'or, & couronnée d'vne guirlande de ruë, a les yeux fixes au ciel, vn pelican entre ses bras, & à ses costez vn arbre verdoyant, planté sur le bord d'vne riviere.",
+        "La bonté en l'homme est vn mélange de plusieurs bonnes qualitez, comme celles-cy; la foy, la justice, l'integrité, la patience, & ainsi des autres.",
+        "Sa robe est tissuë d'or, à cause que c'est le meilleur de tous les metaux. Et pour la mesme raison encore le Poëte Horace donne à la mediocrité l'epithete de dorée, parce qu'il est veritable que par son moyen la Bonté se communique à toutes les choses d'icy bas.",
+        "Sa guirlande faite de ruë, montre qu'elle n'a pas moins de force à exterminer les mauvaises pensées, qui luy font sans cesse la guerre, que cette herbe a de vertu contre les enchantemens & les charmes des malins esprits, qui la fuyent naturellement, & l'ont en horreur. Davantage, comme ce n'est pas la moindre de ses qualitez que d'esteindre peu à peu l'amour prophane; la vraye Bonté de mesme a cela de propre de fouler aux pieds tous ses interests, & d'assujettir à la raison l'amour de soy-mesme, qui trouble ordinairement l'harmonie des autres vertus.",
+        "Elle tourne les yeux vers le Ciel, pour ne voir point les vanitez de la terre. Car les objets de bassesse & de fragilité ne luy sont pas moins odieux, que la contemplation des choses divines luy est agreable.",
+        "Le Pelican qu'elle tient entre ses bras, est vne figure de son ardente charité; car elle retranche de sa propre nourriture, pour en faire part aux pauvres; à l'imitation de cet oiseau secourable, qui pour empescher que ses petits ne meurent de faim, se perce le flanc à coups de bec, & les nourrit du sang qu'il en fait sortir.",
+        "L'arbre qu'on a peint prés d'elle a vn sens allégorique & mysterieux, tiré des termes exprés du royal Prophete, lorsque parlant de l'homme juste & qui suit la loy de Dieu, il le compare à vn arbre qu'on a planté sur le bord d'vn clair ruisseau."
+      ],
       "en": "Goodness",
-      "group_en": "B"
+      "group_en": "B",
+      "scans": [
+        "p1-023-1.jpg",
+        "p1-023-2.jpg"
+      ],
+      "text_en": [
+        "This Nymph, or rather this Goddess, clothed in a robe of golden gauze, and crowned with a garland of rue, keeps her eyes fixed upon the sky, holds a pelican in her arms, and at her sides a green tree, planted on the bank of a river.",
+        "Goodness in man is a blend of several good qualities, such as faith, justice, integrity, patience, and the like.",
+        "Her robe is woven of gold, because it is the best of all metals. For the same reason, too, the Poet Horace gives mediocrity the epithet golden, because it is true that through it Goodness is communicated to all things here below.",
+        "Her garland of rue shows that she has no less power to exterminate evil thoughts, which wage ceaseless war on her, than this herb has virtue against the enchantments and charms of evil spirits, which naturally flee it and hold it in horror. Moreover, as it is not the least of her qualities to extinguish profane love little by little, true Goodness likewise has this property of trampling all its own interests underfoot, and of subjecting to reason the self-love that commonly disturbs the harmony of the other virtues.",
+        "She turns her eyes toward Heaven, so as not to see the vanities of earth. For objects of baseness and frailty are no less hateful to her than the contemplation of divine things is pleasing to her.",
+        "The Pelican she holds in her arms is a figure of her ardent charity; for she cuts short her own food, to share it with the poor, in imitation of that helpful bird, which, to keep its young from dying of hunger, pierces its own side with its beak, and feeds them with the blood it draws forth.",
+        "The tree painted near her has an allegorical and mysterious meaning, drawn from the express words of the royal Prophet, who, speaking of the just man who follows the law of God, compares him to a tree planted on the bank of a clear stream."
+      ]
     },
     {
       "id": "p1-24",
@@ -1436,12 +1480,56 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-24.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша в зелёном, со звездой на голове и лебедем в объятиях",
+          "meaning": "Зелёный — цвет надежды; звезда отмечала у древних авгуров счастливый исход; лебедь, посвящённый Венере, издревле считался добрым знаком",
+          "what_en": "A young man in green, with a star on his head and a swan in his arms",
+          "meaning_en": "Green is the colour of hope; the star marked a happy outcome for ancient augurs; the swan, sacred to Venus, was long held a good omen"
+        }
+      ],
+      "text_ru": [
+        "Здесь мы изображаем доброе Предзнаменование в виде юноши, одетого в зелёное, со звездой на голове и лебедем в объятиях.",
+        "Зелёный цвет — символ надежды, а следовательно, и доброго предзнаменования, ибо зелень земли обильно сулит нам блага и плоды.",
+        "Звезда, сияющая на его голове, весьма ему подобает, ибо древние Авгуры всегда отмечали счастливые исходы, как это видно у Пиерия в его Иероглифических фигурах, кн. 1.",
+        "Что до лебедя, то всякий хорошо знает, что он издревле считался добрым предзнаменованием — как за свою крайнюю белизну, так и за то, что был посвящён богине Венере; отчего Вергилий и говорит: ¶«Ты можешь видеть, если хочешь, в просторе воздуха / Двенадцать лебедей летящих».",
+        "В противоположность сказанному, дурное Предзнаменование можно изобразить немощным стариком, одетым в цвет опавшей листвы, держащим в руке ласку, добавив, если угодно, ворону, взлетающую с левой стороны.",
+        "Цвет его одежды показывает, что дурное Предзнаменование обычно происходит от дурной причины, не способной произвести доброго следствия — как это видно по листьям деревьев, никогда не теряющим свой цвет, пока ствол не утратит своей силы.",
+        "Что до ласки и вороны, этих двух животных всегда считали зловещими. Альциат отмечает это в одной эмблеме, где говорит: ¶«Всегда ласка — дурное предвестие, / Когда на твоём пути она перебегает дорогу»,",
+        "А Вергилий в своих Эклогах утверждает то же о вороне, которую называет роковой: ¶«Из дупла старого дуба ворона не раз / Предрекала это несчастье» и т. д.",
+        "Ко всему этому довольно близка медаль императора Адриана, изображающая стоящего человека, глядящего на летящую птицу и держащего в одной руке авгурский жезл, называемый Lituus, который большинство древних Авторов, и в особенности Цицерон и Авл Геллий, достаточно подробно описали."
+      ],
+      "text_fr": [
+        "Nous peignons icy le bon Augure sous la forme d'vn jeune homme vestu de verd, ayant sur la teste vne estoile, & vn cygne entre ses bras.",
+        "La couleur verte est vn symbole de l'esperance, & par consequent du bon augure, à cause que la verdure de la terre nous promet abondamment des biens & des fruits.",
+        "L'estoile qui brille sur sa teste luy convient fort bien, parce que les anciens Augurs marquoient toûjours les heureux succés, comme il se voit dans Pierius en ses Figures hieroglyphiques liv. 1.",
+        "Quant au cygne, il n'y a celuy qui ne sçache bien, qu'il estoit jadis de bon augure, tant pour son extreme blancheur, que pour estre consacré à la Deesse Venus; ce qui fait dire à Virgile, ¶Tu peux voir, si tu veux, dans le vague de l'air, / Douze cygnes voler.",
+        "Au contraire de ce que je viens de dire, l'on peut peindre le mauvais Augure en foible vieillard, vestu de couleur de feuille-morte, & luy faire tenir en main vne belette, y ajoûtant, si l'on veut, vne corneille, qui prenne son vol du costé gauche.",
+        "La couleur de son habit montre, que le mauvais Augure se tire ordinairement d'vne mauvaise cause, qui ne peut produire vn bon effet; comme il se voit aux feuilles des arbres, qui ne perdent jamais leur couleur, que le tronc n'ait perdu sa vertu.",
+        "Pour le regard de la belette & de la corneille, on a toûjours tenu ces deux animaux pour mal-encontreux. Alciat le remarque en vn emblême, où il dit, ¶Que toûjours la belette est de mauvais presage, / Lors que dans ton chemin elle s'ouvre vn passage,",
+        "Et Virgile en ses Eclogues asseure le mesme de la corneille, qu'il appelle fatale, ¶Du creux d'vn chesne vieux maintesfois la corneille / A predit ce malheur, &c.",
+        "A toutes ces choses se rapporte à peu prés la medaille de l'Empereur Adrian, representant vn homme debout, qui regarde voler vn oiseau, & qui tient d'vne main le baston Augural, appellé Lituus, que la plûpart des anciens Autheurs, & particulierement Ciceron & Aule-Gelle ont décrit assez au long."
+      ],
       "en": "Good Omen",
-      "group_en": "B"
+      "group_en": "B",
+      "scans": [
+        "p1-024-1.jpg",
+        "p1-024-2.jpg"
+      ],
+      "text_en": [
+        "We here paint good Omen in the form of a young man clothed in green, with a star upon his head and a swan in his arms.",
+        "The color green is a symbol of hope, and consequently of good omen, because the greenness of the earth abundantly promises us goods and fruits.",
+        "The star that shines upon his head suits him very well, because the ancient Augurs always marked happy outcomes thus, as may be seen in Pierius, in his Hieroglyphic Figures, book 1.",
+        "As for the swan, everyone well knows that it was of old a bird of good omen, both for its extreme whiteness and for being consecrated to the Goddess Venus; which makes Virgil say, ¶You may see, if you wish, in the open air, / Twelve swans flying.",
+        "Contrary to what I have just said, bad Omen may be painted as a feeble old man, clothed in the color of dead leaves, holding a weasel in his hand, adding, if one wishes, a crow taking flight on the left side.",
+        "The color of his garment shows that bad Omen commonly arises from a bad cause, which cannot produce a good effect; as is seen in the leaves of trees, which never lose their color unless the trunk has lost its vigor.",
+        "As for the weasel and the crow, these two animals have always been held unlucky. Alciato remarks this in an emblem, where he says, ¶That the weasel is always an ill omen, / When it crosses your path,",
+        "And Virgil, in his Eclogues, asserts the same of the crow, which he calls fatal, ¶From the hollow of an old oak the crow has many a time / Foretold this misfortune, etc.",
+        "To all this relates fairly closely the medal of the Emperor Hadrian, representing a man standing, watching a bird fly, and holding in one hand the Augural staff called the Lituus, which most ancient Authors, and particularly Cicero and Aulus Gellius, have described at some length."
+      ]
     },
     {
       "id": "p1-25",
@@ -1454,12 +1542,62 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-25.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в белом, похожем на весталкино, платье, с бичом в одной руке и решетом в другой",
+          "meaning": "Бич означает усмирение плоти; решето, из которого вода вытекает мгновенно, — то, как быстро дурные мысли должны покидать душу",
+          "what_en": "A woman in a white, vestal-like robe, with a whip in one hand and a sieve in the other",
+          "meaning_en": "The whip signifies the chastisement of the flesh; the sieve, through which water runs out instantly, shows how quickly evil thoughts should leave the soul"
+        },
+        {
+          "what": "Побеждённый Купидон у её ног — с завязанными глазами и сломанным луком",
+          "meaning": "Вожделение, сколь бы сильным его ни представляли, не имеет власти над целомудрием",
+          "what_en": "A vanquished Cupid at her feet, blindfolded, his bow broken",
+          "meaning_en": "Desire, however strong one imagines it, has no power over chastity"
+        }
+      ],
+      "text_ru": [
+        "Никогда не было красоты более великой и более скромной, чем эта. В одной руке она держит бич, а в другой — решето, из которого вытекает вода. Её белое платье похоже на одеяние Весталки; на поясе её, представляющем собой довольно широкую ленту, начертаны слова апостола Павла: Castigo corpus meum, то есть «усмиряю тело моё»; а у её ног лежит побеждённый Купидон с завязанными глазами и сломанным луком.",
+        "Этот образ Целомудрия лучше всего объясняется определением, которое даёт ему великий святой Фома, говоря, что эта прекрасная добродетель, берущая своё имя от усмирения плоти, очищает того, кто ею обладает, и омывает его от всякой скверны и нечистоты.",
+        "Для этого она держит бич, которым усмиряет своё тело, — таков девиз, начертанный на её поясе.",
+        "Решетом, которое она несёт, показано, что вода, туда налитая, вытекает не быстрее, чем дурные мысли быстро утекают из её души; а поверженным Купидоном под её ногами ясно показано, что вожделение, сколь бы сильным его ни представляли, не может иметь над ней никакой власти.",
+        "К этому изображению Целомудрия можно добавить ещё одно, представляющее его одетым в белое, согласно Тибуллу: ¶«Ибо бессмертные Боги, / Враждебные всякой скверне, / Не любят видеть на своих Алтарях / Ничего, кроме целомудренного и чистого».",
+        "Лицо её под покровом, ибо, как говорит святой Григорий, свойство целомудренных душ — тщательно следить, чтобы порок не проник к ним через глаза, и ради этого отвращать их от бесчестных предметов.",
+        "Скипетр, который ей дают держать, означает, что целомудренный человек имеет над собой такую власть, что хотя плоть и смертельный враг духа, она всё же не может его победить, если он ей противится.",
+        "По той же причине Целомудрие здесь словно шагает, как оно и изображено, — дабы показать тем, кто его чтит, сколь важно им держать душу в деятельности и не унижаться пороком праздности, источником всех жизненных бед. Но важнее всего это в отношении самой пылкой из всех страстей, ибо, конечно же, как говорит Овидий, ¶«У Купидона нет ни лука, ни стрел, ни пламени / Для того, кто изгнал праздность из души».",
+        "Что до горлиц, я нахожу, что они весьма подобают описываемой нами добродетели, символом которой эта птица по праву служит; ибо, однажды потеряв свою подругу, она не желает иметь другой и проводит остаток жизни в непрестанном одиночестве."
+      ],
+      "text_fr": [
+        "Il n'y eut jamais de beauté plus grande ny plus modeste que celle-cy. Elle tient vn fouet d'vne main, & de l'autre vn crible, d'où il s'écoule de l'eau. Sa robe blanche ressemble à peu prés à celle d'vne Vestale; sur la ceinture de laquelle, qui est en forme de bande assez large, sont écrits ces mots tirez de saint Paul, Castigo corpus meum, c'est à dire, je chastie mon corps; & à ses pieds se voit vn Cupidon vaincu, avec les yeux bandez, & l'arc tout rompu.",
+        "Cette figure de la Chasteté ne peut mieux estre expliquée que par la definition qu'en donne le grand Saint Thomas, quand il dit, qu'vne si belle vertu, qui prend son nom du chastiment de la chair, purifie la personne qui la possede, & la nettoye de toutes sortes d'impuretez & d'ordures.",
+        "Elle tient pour cet effet vne discipline, dont elle chatie son corps, qui est la devise écrite sur sa ceinture.",
+        "Par le crible qu'elle porte, il est demonstré, que l'eau qu'on y répand n'en sort pas plus promptement, que les mauvaises pensées s'écoulent viste de son ame; & par le Cupidon qu'elle foule aux pieds, se voit clairement que la concupiscence quelque forte qu'on se la figure, ne peut avoir aucun empire sur elle.",
+        "A cette peinture de la Chasteté l'on en peut ajoûter vne autre, qui la represente vestuë de blanc, selon Tibulle, ¶Pource que les Dieux immortels, / Qui sont ennemis des ordures, / N'aiment à voir sur leurs Autels, / Que des choses chastes & pures.",
+        "Son visage est voilé, à cause, dit S. Gregoire, que c'est le propre des ames pudiques d'empescher soigneusement que le vice n'entre chez elles par les yeux, & de les détourner pour cet effet des objets deshonnestes.",
+        "Le sceptre qu'on luy fait tenir, signifie que l'homme chaste a tant de pouvoir sur soy, qu'encore que la chair soit mortelle ennemie de l'esprit, elle ne peut neanmoins le vaincre, s'il luy resiste.",
+        "C'est pour la mesme raison encore, que la Chasteté semble marcher icy, de la façon qu'elle est peinte; afin de monstrer à ceux qui la cherissent, combien il leur importe de tenir l'ame en action, & de ne point s'avilir dans le vice des feineants, qui est la source de tous les maux de la vie. Mais il l'est sur tout de la plus ardente de toutes les passions, puis qu'asseurément, comme dit Ovide, ¶Cupidon n'a point d'arc, point de traits, point de flame, / Pour celuy qui bannit l'oisiveté de l'ame.",
+        "Quant aux tourterelles, je trouve qu'elles conviennent fort bien à la vertu que nous décrivons, dont cet oiseau est à bon droit le symbole; parce qu'ayant vne fois perdu sa compagne, il n'en veut point avoir d'autre, & qu'il passe le reste de sa vie dans vne solitude continuelle."
+      ],
       "en": "Chastity",
-      "group_en": "C"
+      "group_en": "C",
+      "scans": [
+        "p1-025-1.jpg",
+        "p1-025-2.jpg"
+      ],
+      "text_en": [
+        "There was never a beauty greater or more modest than this one. She holds a whip in one hand, and in the other a sieve, from which water trickles. Her white robe much resembles that of a Vestal Virgin; on whose girdle, a fairly wide band, are written these words taken from Saint Paul, Castigo corpus meum, that is, I chastise my body; and at her feet is seen a vanquished Cupid, his eyes blindfolded and his bow entirely broken.",
+        "This figure of Chastity can best be explained by the definition given of it by the great Saint Thomas, when he says that this fair virtue, which takes its name from the chastisement of the flesh, purifies the person who possesses it, and cleanses them of every kind of impurity and filth.",
+        "For this she holds a discipline, with which she chastises her body — this is the device written upon her girdle.",
+        "By the sieve she carries, it is shown that the water poured into it runs out no faster than evil thoughts swiftly drain from her soul; and by the Cupid she tramples underfoot, it is clearly shown that concupiscence, however strong one may imagine it, can have no power over her.",
+        "To this image of Chastity another may be added, representing her clothed in white, according to Tibullus, ¶For the immortal Gods, / Who are enemies of filth, / Love to see upon their Altars / Nothing but chaste and pure things.",
+        "Her face is veiled, because, as Saint Gregory says, it is proper to modest souls to take careful pains that vice should not enter them through the eyes, and for that purpose to turn them away from dishonest objects.",
+        "The scepter she is made to hold signifies that the chaste man has such power over himself that, though the flesh be the mortal enemy of the spirit, it cannot nonetheless conquer him, if he resists it.",
+        "It is for the same reason, too, that Chastity here seems to walk, in the manner she is painted; so as to show those who cherish her how much it matters to them to keep the soul active, and not to debase themselves in the vice of idleness, which is the source of all life's ills. But this matters above all with regard to the most ardent of all passions, since assuredly, as Ovid says, ¶Cupid has neither bow, nor darts, nor flame, / For him who banishes idleness from the soul.",
+        "As for turtledoves, I find them very fitting to the virtue we describe, of which this bird is rightly the symbol; for, having once lost its mate, it will have no other, and spends the rest of its life in continual solitude."
+      ]
     },
     {
       "id": "p1-26",
@@ -1472,12 +1610,31 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-26.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Фигура с молнией в руке, ястребом у головы и дельфином у ног",
+          "meaning": "Три символа наибольшей быстроты в природе — в небе, в воздухе и в воде",
+          "what_en": "A figure with a thunderbolt in hand, a sparrowhawk by her head, and a dolphin at her feet",
+          "meaning_en": "Three symbols of nature's greatest swiftness — in the sky, in the air, and in the water"
+        }
+      ],
+      "text_ru": [
+        "Описание этого изображения взято у Пиерия, в его иероглифических фигурах, где он изображает Быстроту такой, какой мы видим её здесь: с молнией в руке, ястребом возле головы и дельфином у ног. Этому я не стану искать иных объяснений, кроме как самих проявлений опыта, показывающих нам крайнюю стремительность этих трёх вещей: ибо несомненно, что после молнии, быстрота которой невообразима, нет в воздухе птицы, что сравнилась бы в полёте с ястребом, и нет в воде рыбы, что плавала бы так же быстро, как дельфин."
+      ],
+      "text_fr": [
+        "La description de cette peinture est tirée de Pierius en ses figures hieroglyphiques, où il dépeint la Vitesse telle qu'on la voit icy; à sçavoir la foudre à la main, vn épervier prés de sa teste, & vn dauphin à ses pieds. Dequoy je ne m'amuseray point à rendre d'autres raisons, que les seuls effets de l'experience, qui nous monstre l'extreme promptitude de ces trois choses: car il est certain qu'aprés celle de la foudre, qui n'est pas imaginable, il n'est point d'oiseau en l'air qui égale le vol de l'épervier, ny point de poisson dans l'eau qui nage si viste que le dauphin."
+      ],
       "en": "Celerity, or Swiftness",
-      "group_en": "C"
+      "group_en": "C",
+      "scans": [
+        "p1-026-1.jpg"
+      ],
+      "text_en": [
+        "The description of this image is drawn from Pierius, in his hieroglyphic figures, where he depicts Swiftness just as she is seen here: a thunderbolt in hand, a sparrowhawk near her head, and a dolphin at her feet. For which I shall not trouble to give other reasons than the sheer evidence of experience, which shows us the extreme quickness of these three things: for it is certain that, after the swiftness of the thunderbolt, which is beyond imagining, there is no bird in the air that equals the sparrowhawk's flight, nor any fish in the water that swims as fast as the dolphin."
+      ]
     },
     {
       "id": "p1-27",
