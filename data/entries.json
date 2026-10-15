@@ -3333,12 +3333,50 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-63.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина, играющая на флейте, со спящим у её ног оленем возле улья",
+          "meaning": "Олень, зачарованный звуком флейты, забывает об опасности — так слабые души попадают в силки льстецов, убаюканные красивыми словами",
+          "what_en": "A woman playing a flute, with a stag asleep at her feet by a beehive",
+          "meaning_en": "The stag, enchanted by the flute's sound, forgets all danger — so weak souls fall into flatterers' snares, lulled by fine words"
+        },
+        {
+          "what": "Хамелеон у её ног (в другом изводе)",
+          "meaning": "Как хамелеон меняет цвет от страха, так лесть ежеминутно меняет речь и лицо, подлаживаясь под слушателя",
+          "what_en": "A chameleon at her feet (in another version)",
+          "meaning_en": "As the chameleon changes colour from fear, flattery constantly changes its speech and face to suit the listener"
+        }
+      ],
+      "text_ru": [
+        "Это женщина, приятно одетая и играющая на флейте, у ног которой спит олень возле улья или пня, из которого вылетают пчёлы.",
+        "Этот образ, как замечает Пиерий, — изобретение Ора Аполлона. Оба они говорят, что олень так любит звук флейты и так ею очарован, что, слушая её, забывает о себе самом и даёт себя поймать. Это учит нас, что слабые души обычно попадают в силки льстецов, ибо охотно склоняют к ним слух и рады, что их убаюкивают красивыми словами; от чего, впрочем, им не так уж хорошо, ибо в конце концов они убеждаются, что эта сладость, как и сладость мёда, сопровождается опасным укусом.",
+        "Некоторые другие одевают её в переменчивый цвет, давая ей держать в одной руке верёвку, а в другой — кузнечные мехи; сверх того у её ног помещают хамелеона. Смена цветов, в которые она одета, означает её непостоянство и коварную изворотливость, заставляющую её ежеминутно менять речь и выражение лица, дабы угодить вкусу слушающего, — в этом она подобна хамелеону, который, будучи малокровным и весьма пугливым, меняет цвет каждое мгновение. Отсюда видно, что Лесть — порок низкий, завладевающий лишь низкими и раболепными душами.",
+        "Более того, подобно тому как мехами раздувают огонь, когда он угас, или гасят, когда он разгорелся, так и льстецы раздувают пыл страстей мягким дуновением своих слов, если их слушают, или же заглушают свет истины, внушая ложь.",
+        "Что до верёвки, которую она держит в левой руке, это учит нас, как говорит святой Августин, что ничто так крепко не привязывает людей ко греху, как Лесть: ибо ей по нраву некоторые вещи, которые, сколь бы порочны они ни были, заставляют этот проклятый род людей восхвалять тех, кто их совершает, вместо того чтобы хоть сколько-нибудь их порицать."
+      ],
+      "text_fr": [
+        "C'est vne femme agreablement vestuë, & qui jouë d'vne fluste, ayant vn cerf qui dort à ses pieds auprés d'vne ruche ou d'vn tronc d'arbre, d'où sortent des mouches à miel.",
+        "Cette figure, comme le remarque Pierius, est de l'invention d'Orus Apollo. Ils disent tous deux que le cerf aime tellement le son de la fluste, & en est si fort charmé, qu'en l'écoutant il s'oublie soy-mesme, & se laisse prendre. Cela nous enseigne que les ames foibles tombent ordinairement dans les pieges des flateurs, parce qu'ils leur prestent volontiers l'oreille, & se plaisent qu'on les endorme de belles paroles; dequoy toutefois ils ne se trouvent pas si bien, qu'ils n'éprouvent à la fin que cette douceur, comme celle des mouches à miel, est suivie d'vne dangereuse piqueure.",
+        "Quelques autres l'habillent d'vne couleur changeante, luy faisant tenir vne corde d'vne main, & des soufflets de l'autre; outre qu'à ses pieds ils mettent vn cameleon. Le changement des couleurs dont elle est vestuë, signifie son inconstance & son artificieuse souplesse, qui luy fait à tout moment changer de discours & de visage, pour s'accommoder au goust de celuy qui l'écoute; estant en cela semblable au cameleon, qui pour estre peu sanguin, & fort timide, change de couleur à tout moment. Par où l'on peut voir que la Flatterie est vn vice lasche, qui ne possede jamais que les ames basses & serviles.",
+        "Davantage, comme on se sert de soufflets pour r'allumer le feu quand il est éteint, ou pour l'éteindre quand il est allumé; les flatteurs de mesme attisent l'ardeur des passions avec le doux vent de leurs paroles, si on les écoute; ou bien ils étouffent la lumiere de la verité, en persuadant le mensonge.",
+        "Quant à la corde qu'elle tient en la main gauche, cela nous apprend, comme dit S. Augustin, qu'il n'y a rien qui attache si fortement les hommes au peché, que la Flatterie: car elle se plaist à certaines choses, qui pour vicieuses qu'elles soient, font louër par cette maudite engeance ceux qui en sont les autheurs, tant s'en faut qu'on les en daigne reprendre."
+      ],
       "en": "Flattery",
-      "group_en": "F"
+      "group_en": "F",
+      "scans": [
+        "p1-063-1.jpg",
+        "p1-063-2.jpg"
+      ],
+      "text_en": [
+        "She is a pleasingly dressed woman, playing a flute, with a stag sleeping at her feet near a hive or tree trunk from which bees issue forth.",
+        "This figure, as Pierius notes, is the invention of Horapollo. Both say that the stag so loves the sound of the flute, and is so charmed by it, that in listening to it, it forgets itself, and lets itself be caught. This teaches us that weak souls commonly fall into flatterers' snares, because they willingly lend them their ear, and delight in being lulled by fine words; from which, however, they fare no better, for in the end they find that this sweetness, like that of bees, is followed by a dangerous sting.",
+        "Some others dress her in a changing color, making her hold a rope in one hand, and bellows in the other; moreover, at her feet they place a chameleon. The change of colors in which she is dressed signifies her inconstancy and her artful suppleness, which makes her change her speech and her face at every moment, to suit the taste of whoever listens to her — being in this like the chameleon, which, being of little blood and very timid, changes color at every moment. By which one may see that Flattery is a base vice, possessing none but low and servile souls.",
+        "Moreover, just as bellows are used to rekindle a fire when it is out, or to put it out when it is lit, so flatterers likewise fan the ardor of the passions with the soft wind of their words, if they are listened to; or else they smother the light of truth, by persuading falsehood.",
+        "As for the rope she holds in her left hand, this teaches us, as Saint Augustine says, that there is nothing that binds men so fast to sin as Flattery: for she delights in certain things which, however vicious they may be, make this accursed brood praise those who are their authors, far from deigning to reprove them for it."
+      ]
     },
     {
       "id": "p1-64",
@@ -3351,12 +3389,57 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-64.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Дева в белом с крестом и открытой книгой в правой руке",
+          "meaning": "Крест и книга означают два пути познания веры — слух (проповедь) и чтение Писания",
+          "what_en": "A maiden in white with a cross and an open book in her right hand",
+          "meaning_en": "The cross and book signify the two paths to knowledge of the faith — hearing (preaching) and reading Scripture"
+        },
+        {
+          "what": "Лавровый венец, скипетр и два лисёнка, попираемые ногами",
+          "meaning": "Венец и скипетр — величие веры, победившей мир, дьявола и плоть; лисята — еретики, которых нужно уличать в коварстве",
+          "what_en": "A laurel crown, a sceptre, and two foxes trampled underfoot",
+          "meaning_en": "The crown and sceptre signify the majesty of a faith that has conquered the world, the devil, and the flesh; the foxes are heretics, to be caught out in their cunning"
+        }
+      ],
+      "text_ru": [
+        "Это дева, одетая в белое, держащая в правой руке крест и открытую книгу, пристально глядя на то и другое, и словно подающая знак левой рукой, которую она держит у уха.",
+        "Это движение руки и открытая книга означают, что есть два способа наставиться в Христианской Вере: один — слух, от которого она происходит, как говорит святой Павел римлянам; другой — чтение канонических книг, которое, впрочем, не имеет такой силы; ибо, по слову того же Апостола, слово Божие столь действенно, что проникает до самой сути, и нет меча, что проникал бы глубже. Некоторые добавляют ей постамент, на который она опирается, дабы показать этим, что она — твёрдая опора прочих Добродетелей, а Иисус Христос — её краеугольный камень.",
+        "Её также изображают в сочинениях древних Христиан в виде юной девы с покрытым лицом, обнажёнными плечами, венцом на голове, скипетром в руке, а под ногами — двумя лисятами, которых она попирает с непобедимой решимостью.",
+        "Её изображают под покровом, дабы научить нас, что в этом мире у нас нет никакого явного свидетельства истин нашей Веры, ибо, как говорит святой Павел, здесь мы видим лишь гадательно, как бы сквозь зеркало. По этой причине Иисус Христос уверяет святого Фому, что блаженны уверовавшие, не видев. Добавим к этому, что лицо её под покровом, ибо навык Веры, как замечают Богословы, проистекает просто из предмета тёмного, более того — невидимого и неощутимого.",
+        "Плечи её обнажены, дабы показать, что надлежит проповедовать Евангелие словами понятными, а не прикрывать его загадками и тёмными речами, как делают Еретики.",
+        "А поскольку она день ото дня одерживает новые победы над общими нашими врагами — миром, диаволом и плотью, — потому она носит лавровый венец и скипетр в руке, в знак величия и величества нашей святой Веры, творения Вечного Царя.",
+        "Лисята, которых она попирает ногами, — это Еретики, так названные в Писании за их коварство, в котором их надлежит уличать, как говорит святой Павел в своём 1-м Послании к Коринфянам."
+      ],
+      "text_fr": [
+        "C'est vne vierge vestuë de blanc, qui tient de la main droite vne croix & vn livre ouvert, regardant fixement tous les deux, & qui semble faire signe de la gauche, qu'elle porte prés de son oreille.",
+        "Cette action de la main, & le livre ouvert signifient qu'il y a deux moyens pour s'instruire en la Foy Chrestienne: l'vn est celuy de l'ouye, d'où elle vient, comme dit saint Paul aux Romains: l'autre, la lecture des livres canoniques, qui toutefois n'a pas tant de force; car selon le mesme Apostre, la parole de Dieu est de si grande efficace, qu'elle touche au vif, & il n'y a point d'épée qui penetre plus avant. Quelques-vns y adjoûtent vne baze, sur qui elle s'appuye, pour montrer par là qu'elle est le ferme soûtien des autres Vertus, & que Jesus-Christ en est la pierre fondamentale.",
+        "Elle se voit encore representée dans les écrits des anciens Chrestiens, comme vne jeune fille, qui a le visage voilé, les épaules nuës, vne couronne sur la teste, vn sceptre en main, & sous ses pieds deux petits renards, qu'elle foule avec vne resolution invincible.",
+        "Elle est peinte voilée, pour nous apprendre que nous n'avons en ce monde aucune évidence des articles de nostre Foy, parce que, comme dit S. Paul, nous ne voyons icy que par enigme, & comme par vn miroir. A raison dequoy Jesus-Christ asseure S. Thomas, que bienheureux sont ceux qui ont creu sans voir. Adjoûtons à cecy, qu'elle a le visage voilé, à cause que l'habitude de la Foy, comme le remarquent les Theologiens, procede simplement d'vn objet obscur, & qui mesme est invisible & insensible.",
+        "Elle a les épaules découvertes, pour montrer qu'il faut prescher l'Evangile en termes intelligibles, & non pas le pâlier par enigmes & par des paroles obscures, comme font les Heretiques.",
+        "Et dautant qu'elle gagne tous les jours de nouvelles victoires sur nos communs ennemis, qui sont le monde, le diable & la chair, c'est pour cela qu'elle porte vne couronne de laurier, & vn sceptre en la main, pour vne marque de la grandeur & de la majesté de nostre sainte Foy, qui est la creature du Roy Eternel.",
+        "Les renardeaux qu'elle foule aux pieds, sont les Heretiques, ainsi appellez dans l'Ecriture à cause de leur malice, en laquelle il les faut surprendre, comme dit saint Paul dans sa 1. Epistre aux Corinthiens."
+      ],
       "en": "Christian Faith",
-      "group_en": "F"
+      "group_en": "F",
+      "scans": [
+        "p1-064-1.jpg",
+        "p1-064-2.jpg",
+        "p1-064-3.jpg"
+      ],
+      "text_en": [
+        "It is a maiden clothed in white, holding in her right hand a cross and an open book, gazing fixedly at both, and seeming to make a sign with her left hand, which she holds near her ear.",
+        "This motion of the hand, and the open book, signify that there are two means of instructing oneself in the Christian Faith: one is that of hearing, whence it comes, as Saint Paul says to the Romans: the other, the reading of the canonical books, which however does not have as much force; for according to the same Apostle, the word of God is of such great efficacy that it cuts to the quick, and there is no sword that penetrates deeper. Some add a base, on which she leans, to show thereby that she is the firm support of the other Virtues, and that Jesus Christ is her cornerstone.",
+        "She is also seen represented in the writings of the ancient Christians, as a young girl, her face veiled, her shoulders bare, a crown upon her head, a scepter in hand, and under her feet two little foxes, which she tramples with invincible resolve.",
+        "She is painted veiled, to teach us that we have in this world no clear evidence of the articles of our Faith, because, as Saint Paul says, here we see only as through a riddle, and as in a mirror. For which reason Jesus Christ assures Saint Thomas that blessed are those who have believed without seeing. Let us add to this, that her face is veiled, because the habit of Faith, as the Theologians remark, proceeds simply from an obscure object, one that is even invisible and imperceptible.",
+        "Her shoulders are uncovered, to show that the Gospel must be preached in intelligible terms, and not veiled in riddles and obscure words, as the Heretics do.",
+        "And inasmuch as she wins new victories every day over our common enemies, who are the world, the devil, and the flesh, for this reason she wears a laurel crown, and a scepter in hand, as a mark of the greatness and majesty of our holy Faith, which is the creature of the Eternal King.",
+        "The little foxes she tramples underfoot are the Heretics, so called in Scripture because of their malice, in which they must be caught unawares, as Saint Paul says in his 1st Epistle to the Corinthians."
+      ]
     },
     {
       "id": "p1-65",
@@ -3369,12 +3452,48 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-65.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Вооружённая женщина крепкого сложения с копьём, дубовой ветвью и щитом, на котором лев сражается с вепрем",
+          "meaning": "Дуб — крепчайшее из деревьев, символ силы тела; лев, искусно соразмеряющий силы в бою (в отличие от безрассудного вепря), — образ силы духа",
+          "what_en": "An armed woman of robust build with a spear, an oak branch, and a shield showing a lion fighting a boar",
+          "meaning_en": "The oak, strongest of trees, symbolises bodily strength; the lion, skilfully husbanding its strength in battle (unlike the reckless boar), images strength of mind"
+        }
+      ],
+      "text_ru": [
+        "Её изображают вооружённой, почти как богиню Палладу; и с какой бы стороны на неё ни смотреть, она являет облик человека крепкого: ибо тело её сбито, стан прекрасен, плечи широки, члены жилисты, цвет кожи смугл, волосы жёстки, глаз блестящ и не слишком узок. В правой руке она держит копьё вместе с дубовой ветвью, а в левой — щит, посреди которого изображён лев, сражающийся с вепрем.",
+        "Хотя доблестные усилия в борьбе с трудностями подобают всем частным Добродетелям, однако исполнение их принадлежит одной лишь Силе, чьё свойство — мужественно сносить ради любви к Добродетели всевозможные превратности и удары судьбы. А если её изображают женщиной, то не потому, что подразумевают её изнеженность, но скорее дабы приноровить изображение к грамматическому роду этого слова.",
+        "Её оружие — символы силы её тела; а ветвь, которую она держит в руке, — символ силы её духа. Одним она противостоит оружию вещественному, другим — духовному, то есть порокам. Это показано нам дубом, деревом более крепким, чем прочие, — то ли потому, что он противостоит силе ветров и вод, то ли потому, что из него делают машины, служащие весьма долго: потому же латиняне и называют его именем людей сильных и крепких. Копьё, которое она несёт, означает, что отражать несправедливо творимое над нами насилие есть дело естественное, и для этого нужно прибегать к силам, какие у нас есть.",
+        "Если верить Пиерию, битвой льва и вепря, изображённой на её щите, нам объявляются две силы — тела и духа. Ибо вепрь при каждой встрече бросается очертя голову, лев же, напротив, искусно соразмеряет силы, нападает ли он или обороняется.",
+        "Скажу по этому поводу, что мне помнится, будто я читал у Ора, что египтяне изображали Силу в виде женщины крепкого сложения, имевшей на голове два бычьих рога, а рядом с собой — слона с хоботом. И в самом деле, опыт показывает нам, что нет животных сильнее этих; отчего мудрый Катон и говорил, что никогда в самой цветущей своей юности не желал ни силы одного, ни силы другого.",
+        "То же показано на двух древних медалях: на первой из них видна юная женщина с палицей, подобной Геркулесовой; а на второй — вооружённая Амазонка, которая левой рукой держит щит с изображением головы этого благородного животного, а правой — обнажённый меч, обвитый змеёй от рукояти до острия. Это лучше всего можно понимать как силу тела, благоразумие души и величие духа — добродетели столь превосходные, что благодаря им нередко можно было видеть, как простые солдаты достигали высших почестей триумфа, достойно пройдя все высшие должности военной службы."
+      ],
+      "text_fr": [
+        "On la represente armée, telle à peu prés que la Deesse Pallas; & de quelque sorte qu'on la considere, elle porte la physionomie d'vne personne robuste: car elle a le corps ramassé, la taille belle, les épaules larges, les membres nerveux, le teint brun, les cheveux rudes, l'œil brillant, & guere fendu. Elle tient vne lance en la main droite, avec vne branche de chesne, & en la gauche vn écu, au milieu duquel est peint vn lion qui combat vn sanglier.",
+        "Bien que les valeureux efforts que l'on fait pour lutter contre les choses difficiles, conviennent à toutes les Vertus particulieres, toutefois l'execution n'en appartient qu'à la Force, dont le propre est de souffrir courageusement pour l'amour de la Vertu toutes sortes d'evenemens & de fortunes contraires. Que si on la peint en femme, ce n'est pas que l'on pretende qu'elle doive estre efféminée; mais c'est plûtost pour en accommoder la figure à la façon de parler.",
+        "Ses armes sont des symboles de la force de son corps; & le rameau qu'elle tient en main, en est vn de celle de son esprit. Par l'vn elle resiste aux armes materielles, & par l'autre aux spirituelles, qui sont les vices. Ce qui nous est demontré par le chesne, arbre plus fort que les autres, soit à cause qu'il se roidit contre la violence des vents & des eaux, soit parce que l'on en fait des machines qui durent tres long-temps: aussi est-ce pour cela que les Latins appellent de son nom les hommes forts & robustes. La lance qu'elle porte signifie que c'est vne chose naturelle de repousser la violence qui nous est faite injustement, & de nous aider pour cet effet des forces que nous avons.",
+        "Que s'il en faut croire Pierius, par le combat du lion & du sanglier peint en son écu, nous sont declarées les deux forces du corps & de l'esprit. Car au lieu que le sanglier se precipite à chaque rencontre, le lion au contraire ménage les forces avec adresse, soit qu'il attaque, ou qu'il se defende.",
+        "Je diray à ce propos, qu'il me souvient d'avoir leu dans Orus, que les Egyptiens representoient la Force par vne femme de complexion vigoureuse, qui avoit sur sa teste les deux cornes d'vn taureau, & à son costé vn elephant avec sa trompe. En effet l'experience nous montre, qu'il n'y a point d'animaux plus forts que ceux-cy; ce qui fait dire au sage Caton, qu'il n'avoit jamais souhaité les forces de l'vn, ny celles de l'autre en sa plus verte jeunesse.",
+        "La mesme demonstration nous est faite en deux anciennes medailles, en la premiere desquelles on voit vne jeune femme qui a vne massuë, pareille à celle d'Hercule; & en la seconde vne Amazone armée, qui de la main gauche porte vn écu où est dépeint la teste de ce genereux animal; & de la droite vne épée nuë, qui est environnée d'vn serpent depuis la garde jusques à la pointe. Ce qui ne peut mieux s'entendre que de la force du corps, de la prudence de l'ame, & de la grandeur de courage, qui sont des vertus si excellentes, qu'on a veu souvent par leur moyen de simples soldats parvenir aux souverains honneurs du triomphe, aprés avoir passé dignement par toutes les plus hautes charges de la milice."
+      ],
       "en": "Strength",
-      "group_en": "F"
+      "group_en": "F",
+      "scans": [
+        "p1-065-1.jpg",
+        "p1-065-2.jpg",
+        "p1-065-3.jpg"
+      ],
+      "text_en": [
+        "She is represented armed, much like the Goddess Pallas; and however one considers her, she bears the look of a robust person: for she has a compact body, a fine stature, broad shoulders, sinewy limbs, a swarthy complexion, coarse hair, a bright eye, scarcely slit. She holds a lance in her right hand, with an oak branch, and in her left a shield, in the middle of which is painted a lion fighting a boar.",
+        "Although valiant efforts made to struggle against difficult things suit all the particular Virtues, nonetheless the execution of them belongs to Strength alone, whose proper function is to suffer courageously, for love of Virtue, every kind of adverse event and fortune. If she is painted as a woman, it is not that she is meant to be effeminate; rather it is to suit the figure to the gender of the word.",
+        "Her weapons are symbols of the strength of her body; and the branch she holds in hand is one of that of her mind. By the one she resists material weapons, and by the other, spiritual ones, which are the vices. This is shown us by the oak, a tree stronger than the others, whether because it stiffens itself against the violence of winds and waters, or because machines are made of it that last a very long time: it is for this, too, that the Latins call strong and robust men by its name. The lance she bears signifies that it is a natural thing to repel violence unjustly done to us, and to help ourselves to this end with the strength we have.",
+        "If Pierius is to be believed, by the combat of the lion and the boar painted on her shield are declared to us the two strengths, of body and of mind. For whereas the boar rushes headlong at every encounter, the lion, on the contrary, husbands his strength with skill, whether attacking or defending himself.",
+        "I shall say on this subject that I recall having read in Horapollo that the Egyptians represented Strength by a woman of vigorous build, who had upon her head the two horns of a bull, and at her side an elephant with its trunk. Indeed experience shows us that there are no animals stronger than these; which makes wise Cato say that he had never, even in his greenest youth, wished for the strength of either.",
+        "The same is shown us in two ancient medals, in the first of which is seen a young woman with a club, like that of Hercules; and in the second an armed Amazon, who in her left hand carries a shield on which is depicted the head of that noble animal; and in her right a bare sword, entwined by a serpent from hilt to point. Which can best be understood as strength of body, prudence of soul, and greatness of courage — virtues so excellent that through them simple soldiers have often been seen to attain the sovereign honors of triumph, after worthily passing through all the highest offices of the militia."
+      ]
     },
     {
       "id": "p1-66",
@@ -3387,12 +3506,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-66.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Амур без лука и факела, с рыбой в руке и гирляндой",
+          "meaning": "Рыба и гирлянда показывают власть Любви над морем и землёй — по греческой эпиграмме, переведённой Альциатом",
+          "what_en": "Cupid without bow or torch, holding a fish and a garland",
+          "meaning_en": "The fish and garland show Love's power over sea and land — after the Greek epigram translated by Alciato"
+        }
+      ],
+      "text_ru": [
+        "Это изображение Амура — копия эмблемы Альциата, который заимствовал оригинал у греческой эпиграммы, служащей ему объяснением и переведённой мною так: ¶Здесь Амур изображён без лука и без факела, / От сердец, которые он ранил, он желает приношения; / И являет свою власть над морем и водой / Через рыбу, которую держит, и через гирлянду.",
+        "Тот же автор, желая обозначить владычество Купидона, возносит его на колеснице, запряжённой двумя львами; а в другом месте заставляет его поднимать правую руку к Небу, откуда под ним в беспорядке падают стрелы и пламя, уступающие силе его собственных, — ибо они ранят и жгут одновременно, как говорят Поэты, и даже сам Юпитер от этого не избавлен; так что можно сказать: ¶Что Дитя, носящее крылья, / Укрощает отца людей, / Ибо ради смертных красавиц / Молния падает из его рук."
+      ],
+      "text_fr": [
+        "Cette peinture d'Amour est vne copie d'vne emblême d'Alciat, qui en a tiré l'original d'vne epigramme Grecque, qui luy sert d'explication, & que j'ay ainsi traduite: ¶Icy l'Amour dépeint sans arc & sans flambeau, / Des cœurs qu'il a blessez veut avoir vne offrande; / Et montre son pouvoir sur la mer & sur l'eau, / Par vn poisson qu'il tient, & par vne guirlande.",
+        "Le mesme autheur voulant marquer l'empire de Cupidon, l'eleve sur vn chariot tiré par deux lions; & en vn autre endroit il luy fait hausser la main droite vers le Ciel, d'où tombent sous luy en confusion des fleches & des flammes, qui cedent à la violence des siennes: car elles blessent & brulent tout ensemble, comme disent les Poëtes, sans que Jupiter mesme en soit exempt; tellement qu'on peut dire, ¶Qu'vn Enfant qui porte des aisles, / Dompte le pere des humains, / Puisque pour des beautez mortelles / La foudre luy tombe des mains."
+      ],
       "en": "Strength of Love by Sea and Land",
-      "group_en": "F"
+      "group_en": "F",
+      "scans": [
+        "p1-066-1.jpg",
+        "p1-066-2.jpg"
+      ],
+      "text_en": [
+        "This picture of Love is a copy of an emblem by Alciato, who drew its original from a Greek epigram, which serves as its explanation, and which I have translated thus: ¶Here Love is depicted without bow and without torch, / Of the hearts he has wounded he wishes to have an offering; / And shows his power over the sea and the water, / By a fish he holds, and by a garland.",
+        "The same author, wishing to mark Cupid's dominion, raises him upon a chariot drawn by two lions; and elsewhere makes him lift his right hand toward Heaven, whence fall beneath him, in confusion, arrows and flames, which yield to the violence of his own: for they wound and burn all at once, as the Poets say, nor is even Jupiter exempt from this; so that one may say, ¶That a Child who bears wings / Tames the father of mankind, / Since for mortal beauties / The thunderbolt falls from his hands."
+      ]
     },
     {
       "id": "p1-67",
