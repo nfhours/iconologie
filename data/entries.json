@@ -940,12 +940,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-15.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатая фигура в синем одеянии, с циркулем в правой руке и небесным глобусом в левой",
+          "meaning": "Синий цвет означает созерцание небес и звёзд; крылья — свойство этой науки возносить ум к высшим познаниям",
+          "what_en": "A winged figure in a blue garment, with a compass in her right hand and a celestial globe in her left",
+          "meaning_en": "Blue signifies the contemplation of the heavens and stars; the wings, this science's power to raise the mind to lofty knowledge"
+        },
+        {
+          "what": "Звёзды над головой",
+          "meaning": "Небеса и звёзды — предмет и украшение астрологии",
+          "what_en": "Stars above her head",
+          "meaning_en": "The heavens and stars are astrology's subject and ornament"
+        }
+      ],
+      "text_ru": [
+        "Этот образ Астрологии взят из описания, которое дали ей многие превосходные Поэты. На ней синее одеяние, крылья за спиной, циркуль в правой руке, а в левой — небесный глобус.",
+        "Она облачена в синее, дабы научить нас, что предметом её созерцания являются небеса и звёзды, которые служат им украшением; потому она ими и увенчана.",
+        "Её изображают с глобусом и циркулем в руках, потому что она занимается измерением небес и рассмотрением их движений и точной соразмерности. То же самое означают и её крылья, ибо этой науке свойственно возносить ум к самым похвальным и возвышенным познаниям.",
+        "Некоторые ещё дают ей скипетр, дабы тем самым показать, что светила обладают могущественной властью над всеми подлунными телами; а другие помещают рядом с ней орла, чтобы показать, что, подражая этому царю птиц, пристально глядящему на солнце, Астрология столь прозорлива, что даже во тьме создаёт себе свет, дабы проникнуть в самые Небеса."
+      ],
+      "text_fr": [
+        "Cette figure de l'Astrologie est tirée de la description que plusieurs excellens Poëtes en ont faite. Elle a vn habillement bleu, des aisles au dos, vn compas en la main droite, & en la gauche vn globe celeste.",
+        "Elle est vestuë de bleu, pour nous apprendre qu'elle a pour objet la contemplation des cieux & des estoiles, qui leur servent d'ornement; aussi en est-elle couronnée.",
+        "On la peint avec vn globe & vn compas à la main, parce qu'elle s'étudie à mesurer les cieux, & à considerer leurs mouvemens, & leur juste symmetrie. Le mesme nous est signifié par ses aisles, à cause que cette science a cela de propre, d'élever l'esprit aux connoissances les plus loüables & les plus hautes.",
+        "Quelques-vns encore luy donnent vn sceptre, afin de faire voir par là, que les astres ont vn empire puissant sur tous les corps sublunaires; & d'autres mettent vn aigle à ses costez, pour monstrer qu'à l'imitation de ce Roy des oiseaux, qui regarde le soleil fixement, l'Astrologie est si clair-voyante, que dans l'obscurité mesme elle se fait des lumieres, pour penetrer jusques dans les Cieux."
+      ],
       "en": "Astrology",
-      "group_en": "A"
+      "group_en": "A",
+      "scans": [
+        "p1-015-1.jpg",
+        "p1-015-2.jpg"
+      ],
+      "text_en": [
+        "This figure of Astrology is drawn from the description given of her by several excellent Poets. She wears a blue garment, has wings on her back, a compass in her right hand, and in her left a celestial globe.",
+        "She is clothed in blue, to teach us that her object is the contemplation of the heavens and the stars, which serve as their ornament; and for that reason she is crowned with them.",
+        "She is painted with a globe and a compass in hand, because she studies to measure the heavens, and to consider their movements and their exact symmetry. The same is signified by her wings, because it is proper to this science to raise the mind to the most praiseworthy and lofty kinds of knowledge.",
+        "Some also give her a scepter, to show thereby that the stars hold a powerful empire over all sublunary bodies; and others place an eagle at her side, to show that, in imitation of that King of birds, who gazes fixedly at the sun, Astrology is so clear-sighted that even in darkness she makes herself lights, to penetrate as far as the Heavens."
+      ]
     },
     {
       "id": "p1-16",
@@ -958,12 +993,56 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-16.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Почтенная дама на троне, в усыпанном камнями платье, с двумя ключами в правой руке",
+          "meaning": "Ключи означают духовную власть — по слову Христа апостолу Петру о ключах Царства Небесного",
+          "what_en": "A venerable lady on a throne, in a jewel-covered robe, with two keys in her right hand",
+          "meaning_en": "The keys signify spiritual power — after Christ's words to Peter about the keys of the Kingdom of Heaven"
+        },
+        {
+          "what": "Скипетр в левой руке, оружие и книги по сторонам трона",
+          "meaning": "Скипетр и оружие означают временную (светскую) власть, книги — власть Писания",
+          "what_en": "A sceptre in her left hand, with weapons and books at the sides of the throne",
+          "meaning_en": "The sceptre and weapons signify temporal power, the books the authority of Scripture"
+        }
+      ],
+      "text_ru": [
+        "Я не думаю, что Могущество, или Власть, можно изобразить лучше, чем на этом портрете, представляющем её в виде почтенной Дамы, восседающей на великолепном троне, одетой в прекрасное платье, усыпанное драгоценными камнями: с двумя ключами в правой руке, скипетром в левой и двойным трофеем из оружия и книг по бокам.",
+        "Её изображают в летах, ибо, по слову Цицерона, почтенная старость столь полна власти, что намного превосходит все прочие удовольствия жизни, будучи источником благоразумия и мудрости: отсюда следует также, что молодые должны повиноваться, а старики — повелевать.",
+        "Она восседает на троне, ибо это действие, свойственное государям и высшим сановникам, есть знак власти и спокойствия духа. По этой причине судьи, имеющие власть оправдывать и осуждать, не могут делать это по закону иначе, как сидя.",
+        "Её одеяние полно блеска и пышности, дабы показать великое превосходство, которым обладают над прочими люди высокого положения и власти.",
+        "Ключи означают ту же власть, и в особенности духовную; как это явствует из слов Иисуса Христа, обращённых к святому Петру: ¶«Дам тебе ключи Царства Небесного, и что свяжешь на земле, то будет связано на небесах, и что разрешишь на земле, то будет разрешено».",
+        "А то, что она поднимает правую руку, словно желая вознести к Небу держимые ею ключи, дано нам в научение, как говорит святой Павел, ¶что всякая власть — от Бога; и, следовательно, все, кто подчинён власти другого, обязаны её признавать и ей подчиняться.",
+        "Что до скипетра, который она несёт, то это знак власти временной, как и оружие, видимое по её сторонам, — другой её знак; а книги — явный знак власти Писания."
+      ],
+      "text_fr": [
+        "Ie ne pense pas que la Puissance ou l'Authorité se puisse mieux peindre qu'en ce portrait, qui la represente comme vne Dame venerable, assise dans vn magnifique thrône, & vestuë d'vne belle robe, couverte de pierreries: avec deux clefs en la main droite, vn sceptre en la gauche, & à ses costez vn double trophée d'armes & de livres.",
+        "On la peint âgée, parce qu'au dire de Ciceron, vne vieillesse honorable est si pleine d'authorité, qu'elle surpasse de bien loin tous les autres plaisirs de la vie, comme estant la source de la prudence & de la sagesse: d'où il s'ensuit aussi, que les jeunes doivent obéïr, & les vieillards doivent commander.",
+        "Elle est assise en vn thrône, à cause que cette action, propre aux Souverains, & aux premiers Magistrats, est vne marque d'authorité, & de tranquilité d'esprit. A raison dequoy les Juges, qui ont puissance d'absoudre & de condamner, ne le peuvent faire selon les loix, s'ils ne sont assis.",
+        "Son habillement est plein d'éclat & de pompe, pour monstrer la grande preéminence qu'ont sur autruy les personnes de condition & d'authorité.",
+        "Les clefs signifient cette mesme puissance, & particulierement la spirituelle; comme il nous est declaré par ces paroles de Iesus-Christ, parlant à saint Pierre, ¶Ie te donneray les clefs du Royaume des Cieux, où sera lié tout ce que tu lieras sur la terre, & tout ce que tu delieras y sera pareillement delié.",
+        "Or ce qu'elle hausse la main droite, comme si elle vouloit élever au Ciel les clefs qu'elle tient, est pour nous apprendre, comme dit S. Paul, ¶que toute puissance vient de Dieu; & par consequent, que tous ceux qui relevent de celle d'autruy, sont obligez de la reconnoistre, & de s'y assujettir.",
+        "Quant au sceptre qu'elle porte, c'est vne marque de la puissance temporelle, comme les armes qui se voyent à ses costez en sont vne autre; & les livres vn signe exprés de l'authorité des écritures."
+      ],
       "en": "Authority",
-      "group_en": "A"
+      "group_en": "A",
+      "scans": [
+        "p1-016-1.jpg",
+        "p1-016-2.jpg"
+      ],
+      "text_en": [
+        "I do not think Power, or Authority, could be better painted than in this portrait, which represents her as a venerable Lady, seated on a magnificent throne, clothed in a beautiful robe covered with jewels: with two keys in her right hand, a scepter in her left, and at her sides a double trophy of arms and books.",
+        "She is painted aged, because, as Cicero says, an honorable old age is so full of authority that it far surpasses all the other pleasures of life, being the source of prudence and wisdom: whence it also follows that the young must obey, and the old must command.",
+        "She sits upon a throne, because this action, proper to Sovereigns and chief Magistrates, is a mark of authority and tranquility of mind. For which reason Judges, who have power to absolve and to condemn, cannot do so lawfully unless seated.",
+        "Her garment is full of splendor and pomp, to show the great preeminence that persons of rank and authority hold over others.",
+        "The keys signify this same power, and particularly the spiritual power; as is declared to us by these words of Jesus Christ, speaking to Saint Peter: ¶I will give thee the keys of the Kingdom of Heaven, and whatsoever thou shalt bind on earth shall be bound in Heaven, and whatsoever thou shalt loose on earth shall likewise be loosed.",
+        "Now her raising her right hand, as if she wished to lift to Heaven the keys she holds, is to teach us, as Saint Paul says, ¶that all power comes from God; and consequently, that all who are subject to another's power are bound to acknowledge it, and to submit to it.",
+        "As for the scepter she bears, it is a mark of temporal power, as are the weapons seen at her sides another mark of it; and the books an express sign of the authority of Scripture."
+      ]
     },
     {
       "id": "p1-17",
@@ -976,12 +1055,63 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-17.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатая женщина с румяными щеками, в жёлтом платье, с факелом в одной руке",
+          "meaning": "Жёлтый и алый цвета — цвета рассветного неба; крылья означают стремительность, с которой заря сменяется солнцем",
+          "what_en": "A winged woman with rosy cheeks, in a yellow robe, holding a torch",
+          "meaning_en": "Yellow and crimson are the colours of the dawn sky; the wings signify the swiftness with which dawn gives way to the sun"
+        },
+        {
+          "what": "Цветы, которые она рассыпает другой рукой",
+          "meaning": "Роса, которую, по поэтическому вымыслу, Заря роняет из глаз, даёт цветам свежесть и цветение",
+          "what_en": "Flowers she scatters with her other hand",
+          "meaning_en": "The dew, which poets feigned to fall from Dawn's eyes, gives flowers their freshness and bloom"
+        }
+      ],
+      "text_ru": [
+        "Эта прекрасная вестница дня, которой, как и Молве, даны крылья, приметна румянцем своих щёк и платьем жёлтого цвета.",
+        "В одной руке она держит факел, а другой рассыпает цветы, умиротворяя воздух своим приходом, который тем не менее радует землю и растения, орошаемые её слезами.",
+        "Её крылья изображают удивительную быстроту её движения, тотчас же исчезающего. Ибо подобно тому, как ночь уступает ей своё место, так и она должна уступить своё солнцу, которое своими рождающимися лучами затмевает все прочие огни.",
+        "Красный и жёлтый цвета ей чрезвычайно подобают, ибо при восходе она окрашивает ими весь горизонт, как это отмечается в разных местах у Гомера, где он говорит: ¶«Шафранным покровом она словно окутана».",
+        "К этому же относятся и стихи Вергилия: ¶«Меж тем Заря, желтизной окрашенная, / Выходит из лазурной волны».",
+        "И эти — Овидия: ¶«Кефал познал, что Судьба / Пожинает прекраснейшее, / И стал постыдной добычей / Розоликой Богини».",
+        "Она несёт зажжённый факел, ибо, как я сказал, едва она восходит, то место неба, где она является, озаряется приятным светом.",
+        "Что до цветов, которые она рассыпает, это означает, что те, которыми расцвечивается земля, обязаны своим цветением и свежестью росе, которую Поэты вымыслили рождающейся от Зари и стекающей из её глаз, подобно жидким жемчужинам.",
+        "Некоторые ещё изображали её сидящей на коне Пегасе, дабы показать, с какой быстротой она летит по Небу; а может быть, потому, что она любит Муз, и Поэты, вдохновляемые ею, создают по утрам более прекрасные творения духа, чем во всё остальное время дня."
+      ],
+      "text_fr": [
+        "Cette belle fourriere du jour, à qui l'on donne des aisles comme à la Renommée, se fait remarquer par le vermillon de ses joües, & par sa robe de couleur jaune.",
+        "Elle tient vn flambeau d'vne main, & seme des fleurs de l'autre, sereinant l'air à son arrivée, qui cependant rejoüit la terre & les plantes, qu'elle arrose de ses larmes.",
+        "Ses aisles figurent la merveilleuse vistesse de son mouvement, qui disparoist aussi-tost. Car de la mesme façon que la nuit luy quitte sa place, il faut qu'elle cede la sienne au soleil, qui par ses rayons naissans efface toutes les autres lumieres.",
+        "Le rouge & le jaune luy conviennent extremement bien, à cause qu'à son lever elle peint tout l'horizon de ces couleurs, comme il se remarque en divers endroits d'Homere, où il dit: ¶Que d'vn teint de saffran elle semble voilée.",
+        "A quoy se rapportent les vers de Virgile. ¶L'Aurore cependant de jaune colorée, / Sort de l'onde azurée.",
+        "Et ceux-cy d'Ovide, ¶Cephale sceut que le Destin, / Moissonne les plus belles choses, / Et devint le honteux butin, / De la Deesse au teint de roses.",
+        "Elle porte vn flambeau allumé, à cause, comme j'ay dit, qu'aussi-tost qu'elle se leve, cet endroit du ciel où elle paroist, brille d'vne agreable clarté.",
+        "Touchant les fleurs qu'elle seme, cela signifie que celles dont la terre s'émaille, doivent leur épanoüissement & leur fraischeur à la rosée, que les Poëtes ont feint naistre de l'Aurore, & distiller de ses yeux, comme des perles liquides.",
+        "Quelques-vns encore l'ont peinte assise sur le cheval Pegase, pour monstrer avec combien de vistesse elle vole dans le Ciel; ou possible, parce qu'elle aime les Muses, & que les Poëtes qui en sont inspirez font de plus belles productions d'esprit au matin, que tout le reste de la journée."
+      ],
       "en": "Dawn",
-      "group_en": "A"
+      "group_en": "A",
+      "scans": [
+        "p1-017-1.jpg",
+        "p1-017-2.jpg",
+        "p1-017-3.jpg"
+      ],
+      "text_en": [
+        "This fair forerunner of the day, to whom wings are given as to Fame, is known by the crimson of her cheeks and by her robe of yellow hue.",
+        "She holds a torch in one hand, and scatters flowers with the other, calming the air at her arrival, which nonetheless gladdens the earth and the plants, which she waters with her tears.",
+        "Her wings figure the marvelous swiftness of her motion, which vanishes as soon as it appears. For just as night yields her place to her, so must she yield her own to the sun, which with its newborn rays blots out every other light.",
+        "Red and yellow suit her extremely well, because at her rising she paints the whole horizon with these colors, as is noted in various places in Homer, where he says: ¶“She seems veiled in a saffron hue.”",
+        "To which Virgil's verses relate: ¶“Meanwhile the Dawn, tinged with yellow, / Rises from the azure wave.”",
+        "And these of Ovid's: ¶“Cephalus learned that Fate / Reaps the fairest things, / And became the shameful prize / Of the rosy-faced Goddess.”",
+        "She carries a lit torch, because, as I have said, as soon as she rises, that part of the sky where she appears shines with a pleasant brightness.",
+        "As for the flowers she scatters, this signifies that those with which the earth is enameled owe their blossoming and their freshness to the dew, which the Poets feigned to be born of the Dawn and to drip from her eyes like liquid pearls.",
+        "Some have also painted her seated on the horse Pegasus, to show with what swiftness she flies through the Sky; or perhaps because she loves the Muses, and the Poets inspired by her produce finer works of the mind in the morning than during all the rest of the day."
+      ]
     },
     {
       "id": "p1-18",
@@ -994,12 +1124,59 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-18.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Безобразная, бледная, исхудалая старуха, одной рукой держащаяся за живот",
+          "meaning": "Бледность — от снедающей её зависти к удаче других; вздутый живот уподобляет её больному водянкой, вечно неутолимому",
+          "what_en": "An ugly, pale, gaunt old woman, one hand clutching her belly",
+          "meaning_en": "Her pallor comes from the envy that consumes her; her swollen belly likens her to a dropsical man, forever unable to quench his thirst"
+        },
+        {
+          "what": "Кошелёк, крепко зажатый в другой руке",
+          "meaning": "Скупая радуется виду денег больше, чем их трате на нужное и полезное",
+          "what_en": "A purse clutched tightly in her other hand",
+          "meaning_en": "The miser takes more pleasure in looking at money than in spending it on useful, necessary things"
+        },
+        {
+          "what": "Голодный тощий волк рядом с ней",
+          "meaning": "Как волк не знает покоя, пока не передушит всех овец в стаде, так скупец думает лишь о способах завладеть чужим добром",
+          "what_en": "A starving, lean wolf beside her",
+          "meaning_en": "As the wolf has no rest until it has killed every sheep in the fold, the miser thinks only of ways to seize others' goods"
+        }
+      ],
+      "text_ru": [
+        "Это старуха, страшная на вид, до крайности безобразная, бледная, исхудалая, меланхоличная и всем телом своим чудовищная. Сила испытываемой ею боли заставляет её держать одну руку на животе, который больше, чем у водяночного больного. При этом она словно пожирает глазами кошелёк, который крепко сжимает другой рукой, и единственным её спутником служит голодный волк, такой же тощий, как она сама, и не отходящий от неё ни на шаг.",
+        "Скупость, смертельная врагиня нравственных и христианских добродетелей, есть чрезмерное вожделение обладания благами, которое в сердце того, кто им одержим, порождает ненависть, жестокость, раздор, неблагодарность и предательство. Потому её и принято изображать старухой — не только из-за власти, которую она имеет над стариками, но и чтобы показать, что она — древняя мать всевозможных обманов и злодейств.",
+        "Бледность лица есть следствие злокозненной зависти, которая беспрестанно её гложет и терзает; ибо даже на вершине своего богатства она не может отделаться от мысли, что удача ближнего лучше её собственной. Добавим также, что если что и заставляет скупца бледнеть, так это страх, что его состояние уменьшится; это внушает ему такую тревогу, что он никогда не находит полной уверенности в других, не говоря уже о том, чтобы обрести её в самом себе.",
+        "Здесь же добавляют, что этот ненасытный аппетит к земным благам не без основания сравнивают с недугом водяночного больного. Ибо как тот только сильнее томится жаждой, чем больше пьёт, так и Скупец, подобно Танталу, не может утолить палящую жажду богатства и чувствует себя бедным посреди изобилия.",
+        "Наша старая Гарпия обращает взор лишь на свой кошелёк; ибо, представляя Скупость, она получает больше удовольствия, глядя на свои деньги, нежели тратя их на полезные и нужные вещи.",
+        "Ей дают в спутники волка, дабы показать, что скупой человек обращает все свои мысли лишь на то, как бы завладеть чужим добром — то тайными хитростями, то явным грабежом. В этом он подобен тому прожорливому и ненасытному зверю, который, не довольствуясь уже добытой добычей, старается застать врасплох то пастухов, то собак, и не знает покоя, пока не удушит всех овец в овчарне — так он боится, что ему не хватит, чем насытиться."
+      ],
+      "text_fr": [
+        "C'est vne vieille effroyable à voir, pour estre extremement laide, pasle, décharnée, melancolique, & monstrueuse par tout le corps. La violence de la douleur qu'elle sent luy fait porter l'vne de ses mains sur son ventre, qui est plus gros que celuy d'vn hydropique. Elle semble cependant devorer des yeux vne bourse, qu'elle tient estroitement serrée de l'autre, & n'a pour toute compagnie qu'vn loup affamé, aussi maigre qu'elle, & qui ne bouge de ses costez.",
+        "L'Avarice, mortelle ennemie des vertus morales & chrestiennes, est vne excessive convoitise d'avoir du bien, qui dans le cœur de celuy qu'elle possede, engendre la haine, la cruauté, la discorde, l'ingratitude, & la trahison. Aussi a-t'on accoustumé de la peindre vieille, non seulement pour la puissance qu'elle a sur les vieillards, mais pour faire voir encore, qu'elle est l'ancienne mere de toutes sortes de fourberies & de malices.",
+        "Le visage pasle est vn effet de la malignité de son envie, qui la ronge & la bourelle sans cesse; parce que dans le comble mesme de ses richesses il est impossible de luy oster de l'esprit, que la fortune de son prochain ne soit meilleure que la sienne. Disons encore, que si quelque chose fait pâlir vn homme avare, c'est l'apprehension qu'il a que son bien ne diminuë; ce qui luy donne si fort l'allarme, qu'il ne rencontre jamais vne parfaite asseurance en autruy, tant s'en faut qu'il la puisse trouver en soy-mesme.",
+        "L'on ajouste icy, qu'avec beaucoup de raison cet insatiable appetit des biens du monde est comparé au mal d'vn hydropique. Car comme celuy-cy ne fait que s'alterer davantage à force de boire; l'Avare de mesme semblable à Tantale, ne peut esteindre l'ardante soif qu'il a des richesses, & se croit pauvre dans l'abondance.",
+        "Nostre vieille Harpie ne tourne les yeux que sur sa bourse; à cause que representant l'Avarice, elle prend plus de plaisir à regarder son argent, qu'à l'employer aux choses vtiles & necessaires.",
+        "On luy donne vn loup qui l'accompagne, pour monstrer que l'homme avare ne tourne ses pensées qu'aux moyens d'attraper le bien d'autruy, soit par ruses couvertes, soit par manifestes rapines. En cela semblable à ce glouton & insatiable animal, qui ne se contentant pas de la proye qu'il a faite, tasche de surprendre ou les bergers ou les chiens, & n'a jamais de repos, qu'il n'ait estranglé tout ce qu'il y a de brebis dans vne bergerie, tant il a peur de n'avoir pas dequoy se souler."
+      ],
       "en": "Avarice",
-      "group_en": "A"
+      "group_en": "A",
+      "scans": [
+        "p1-018-1.jpg",
+        "p1-018-2.jpg"
+      ],
+      "text_en": [
+        "She is an old woman, dreadful to look upon, extremely ugly, pale, gaunt, melancholic, and monstrous in her whole body. The violence of the pain she feels makes her hold one of her hands upon her belly, which is bigger than that of a dropsical man. She seems nonetheless to devour with her eyes a purse, which she holds tightly clutched in the other hand, and has for all company only a starving wolf, as lean as she, which never leaves her side.",
+        "Avarice, the mortal enemy of moral and Christian virtues, is an excessive covetousness for possessions, which in the heart of whoever is possessed by it breeds hatred, cruelty, discord, ingratitude, and treachery. For this reason she is commonly painted old, not only for the power she holds over old men, but also to show that she is the ancient mother of every kind of deceit and malice.",
+        "Her pale face is an effect of the malignity of her envy, which gnaws and torments her ceaselessly; for even at the height of her riches it is impossible to rid her mind of the thought that her neighbor's fortune may be better than her own. Let us add, too, that if anything makes a miser turn pale, it is the fear that his wealth might diminish; which alarms him so greatly that he never finds perfect assurance in others, still less can he find it in himself.",
+        "It is added here that this insatiable appetite for worldly goods is, with good reason, compared to the dropsical man's malady. For just as the latter only grows thirstier the more he drinks, so the Miser, like Tantalus, cannot quench the burning thirst he has for riches, and believes himself poor amid abundance.",
+        "Our old Harpy turns her eyes only upon her purse; for, representing Avarice, she takes greater pleasure in looking at her money than in spending it on useful and necessary things.",
+        "She is given a wolf as her companion, to show that the miserly man turns his thoughts only to ways of seizing another's goods, whether by covert trickery or by open plunder. In this he is like that gluttonous, insatiable beast which, not content with the prey it has already taken, seeks to surprise either the shepherds or the dogs, and never rests until it has strangled every sheep in a fold, so afraid is it of not having enough to glut itself."
+      ]
     },
     {
       "id": "p1-19",
