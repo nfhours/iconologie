@@ -5,16 +5,20 @@
   // Бампать при каждой правке app.css (и, по желанию, когда меняется логика
   // в app.js, завязанная на новую разметку), чтобы браузеры и CDN не отдавали
   // старую закэшированную копию стилей после деплоя.
-  var APP_VER = "11";
+  var APP_VER = "12";
   var me = document.currentScript;
   var BASE = (me && me.src) ? me.src.replace(/[^\/]*$/, "") : "./";
   var root = document.getElementById("iconologie");
   if(!root){ root = document.createElement("div"); root.id = "iconologie"; (me && me.parentNode ? me.parentNode : document.body).appendChild(root); }
   root.className = "ic";
   if(root.dataset.top) root.style.setProperty("--top", root.dataset.top);
-  // data-book="iconologie" на блоке запирает библиотеку на одной книге (так подключается
-  // блок на Тильде); без атрибута показывается вся библиотека со списком книг.
-  var forcedBook = root.getAttribute("data-book") || null;
+  // data-book="<slug>" запирает блок на одной книге (так подключается блок на Тильде).
+  // Без атрибута — поведение по умолчанию, то же самое, что было до появления библиотеки:
+  // блок показывает "iconologie" напрямую, старые адреса "#/p1-3" продолжают работать
+  // без каких-либо правок на стороне Тильды. data-book="library" — особое значение,
+  // которое явно включает список всех книг (так подключён index.html на GitHub Pages).
+  var dataBookAttr = root.getAttribute("data-book");
+  var forcedBook = dataBookAttr === "library" ? null : (dataBookAttr || "iconologie");
 
   // шрифты и стили
   function addLink(href){ var l=document.createElement("link"); l.rel="stylesheet"; l.href=href; document.head.appendChild(l); }

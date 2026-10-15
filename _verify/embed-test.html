@@ -3,14 +3,18 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Тест встраивания (имитация Тильды)</title>
-<style>html,body{margin:0;background:#fff}
-.page-chrome{max-width:900px;margin:0 auto;padding:20px;font:14px/1.4 sans-serif;color:#333;border-bottom:1px dashed #ccc}
+<title>Тест встраивания (имитация Тильды, без data-book)</title>
+<style>html,body{margin:0;background:#15161a}
+.page-chrome{max-width:900px;margin:0 auto;padding:28px 20px;font:14px/1.4 -apple-system,sans-serif;color:#cfd2d8}
+.page-chrome h1{color:#fff;font-size:22px}
 </style>
 </head>
 <body>
-<div class="page-chrome">Это имитация страницы Тильды вокруг блока (вне #ic). Если стили блока утекли сюда — здесь будет видно.</div>
-<div id="iconologie" data-book="iconologie"></div>
-<script src="../app.js?v=11"></script>
+<div class="page-chrome">
+  <h1>Archive Ottawa — тёмная страница вокруг блока</h1>
+  <p>Имитация страницы Тильды: тёмный фон, свой шрифт, блок ниже подключён как сейчас на сайте — без атрибута data-book и с полным адресом app.js. Если стили блока потекли наружу или фон сайта потёк внутрь — будет видно.</p>
+</div>
+<div id="iconologie"></div>
+<script src="../app.js?v=12"></script>
 </body>
 </html>
