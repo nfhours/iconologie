@@ -4351,30 +4351,112 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-83.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в золотой газовой ткани, с гирляндой на голове, со сферой в одной руке и змеёй в другой",
+          "meaning": "Золотая ткань — драгоценность истинного разумения; сфера — высшие, небесные предметы познания; змея, ползущая по земле, — путь к пониманию через земные, простые начала вещей",
+          "what_en": "A woman in cloth of gold gauze, a garland on her head, a sphere in one hand and a serpent in the other",
+          "meaning_en": "The cloth of gold signifies the preciousness of true understanding; the sphere, the higher, heavenly objects of knowledge; the crawling serpent, the path to understanding through humble, earthly first principles"
+        }
+      ],
+      "text_ru": [
+        "Это женщина, одетая в золотую газовую ткань и увенчанная гирляндой, держащая в одной руке сферу, а в другой — змею.",
+        "Разум, который можно определить как взаимное единение, образуемое нашим духом с тем, что он постигает, одет в золотую газовую ткань, ибо он должен быть блистателен, как этот металл, и не быть обыденным, но драгоценным, вовсе чуждым низким и пошлым понятиям.",
+        "К этому можно добавить образ того высшего Разума, который, по мнению Философов, приводит в движение небесные сферы: но поскольку наша главная цель — трактовать о вещах, зависящих от человеческого познания, мы будем говорить лишь об этом последнем, который посредством сферы и змеи, что он держит в руке, учит нас, что для верного понимания высоких материй нужно прежде всего ползти, подобно змее, и держаться земли в началах вещей земных, несравненно менее совершенных, чем небесные, а потому более соразмерных возможностям нашего разума."
+      ],
+      "text_fr": [
+        "C'Est vne femme vestuë de gaze d'or, & couronnée d'vne guirlande, tenant vne sphere d'vne main, & vn serpent de l'autre.",
+        "L'Intelligence, qui peut estre definie, vne mutuelle vnion que fait nostre esprit avec la chose qu'il entend, est vestuë de gaze d'or, parce qu'elle doit estre resplendissante comme ce metail; & non pas commune, mais precieuse, & tout à fait éloignée des notions basses & vulgaires.",
+        "Nous pouvons adjoûter à cecy la figure de cette haute Intelligence, qui selon les Philosophes fait mouvoir les spheres celestes: mais nostre principal dessein estant de traiter des choses qui dépendent des connoissances humaines, nous ne parlerons que de celle-cy, qui par la sphere & le serpent qu'elle tient en main, nous apprend que pour bien entendre les hautes matieres, il faut premierement ramper comme le serpent, & aller terre à terre dans les principes des choses terrestres, qui sont incomparablement moins parfaites que les celestes, & plus conformes par consequent à la portée de nos esprits."
+      ],
       "en": "Intelligence",
-      "group_en": "I"
+      "group_en": "I",
+      "scans": [
+        "p1-083-1.jpg"
+      ],
+      "text_en": [
+        "She is a woman clothed in cloth of gold gauze, and crowned with a garland, holding a sphere in one hand, and a serpent in the other.",
+        "Intelligence, which may be defined as a mutual union that our mind forms with the thing it understands, is clothed in cloth of gold gauze, because it must be resplendent like that metal, and not common, but precious, and wholly removed from base and vulgar notions.",
+        "We may add to this the figure of that high Intelligence which, according to the Philosophers, moves the celestial spheres: but our principal design being to treat of things that depend on human knowledge, we shall speak only of this latter one, which, by the sphere and the serpent it holds in hand, teaches us that to properly understand lofty matters, one must first crawl like the serpent, and keep close to the ground among the principles of earthly things, which are incomparably less perfect than the heavenly ones, and consequently more suited to the reach of our minds."
+      ]
     },
     {
       "id": "p1-84",
       "part": 1,
       "num": "LXXXIV",
-      "fr": "Intention",
-      "ru": "Намерение",
+      "fr": "Invention",
+      "ru": "Изобретение",
       "page": "122",
       "group": "I",
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
-      "en": "Intention",
-      "group_en": "I"
+      "img": [
+        "p1-84.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в белом платье с надписью NON ALIUNDE, крылышками на голове, образом Природы в одной руке и свитком с надписью AD OPERAM в другой",
+          "meaning": "Белый цвет — чистота изобретения, не заимствующего чужого труда; крылья — возвышение ума; образ Природы — её неисчерпаемый источник; AD OPERAM — вечная готовность к действию",
+          "what_en": "A woman in a white robe inscribed NON ALIUNDE, small wings on her head, an image of Nature in one hand and a scroll inscribed AD OPERAM in the other",
+          "meaning_en": "The white signifies the purity of invention, which borrows no one else's labor; the wings, the elevation of the mind; the image of Nature, its inexhaustible source; AD OPERAM, its constant readiness to act"
+        }
+      ],
+      "text_ru": [
+        "Эта Владычица Искусств одета в белое платье, на котором написаны два слова: NON ALIUNDE. На голове у неё два крылышка, в одной руке — образ Природы, а в другой — свиток, на котором написано: AD OPERAM.",
+        "Её изображают юной, поскольку в этом раннем возрасте жар крови заставляет дух возноситься в разум, где изобретения образуются силой рассуждения.",
+        "Она одета в белое, ибо Изобретение должно быть чистым и не должно пользоваться чужим трудом, отчего и говорится: ¶«Легко прибавлять к вещам уже изобретённым». Так что оно должно зависеть лишь от собственного действия, как показывает слово NON ALIUNDE.",
+        "Крылышки на её голове означают возвышение всех умственных способностей, ибо, будучи побуждаемы чувствами к обретению желаемого познания, они собираются воедино и прилагают усилие, чтобы изобрести всё, что им предложено.",
+        "В руке она держит образ Природы, дабы показать, что изобретает всё сущее. А поскольку нет никакого проку в изобретении, если его не вывести на свет, то по этой причине ей дают держать руки засученными и наполовину обнажёнными, дабы видно было, что она всегда готова к действию, как о том возвещают два латинских слова AD OPERAM, начертанные на свитке, который она носит. К тому же её побуждает надежда на обещанную награду — золотой браслет, который по обычаю давали тем, кто ради блага Республики нашёл какое-либо остроумное и похвальное изобретение.",
+        "Изобретение изображено во Флоренции, в кабинете Великого Герцога Фердинанда, в виде прекрасной женщины с крыльями на голове, подобными крыльям Меркурия, и с медведицей у её ног, вылизывающей своего детёныша, дабы придать форму этой тяжёлой глыбе плоти.",
+        "Его можно означить также юной красавицей, держащей скипетр, над которым — раскрытая рука с глазом посредине, а на конце этой руки — два маленьких крыла, похожих на крылья кадуцея.",
+        "Скипетр — знак величия и быстроты, как рука — знак трудолюбия и искусства; так что одно, поддержанное другим, показывает, что Государи и Владыки, имеющие власть над своими подданными, пробуждают их изобретательность и изощряют их ум посредством наград, которые суть сильные побуждения к Добродетели.",
+        "Таково мнение Артемидора, что руками обозначается Искусство, являющееся порождением Изобретения; по крайней мере, египтяне так являли это своими иероглифическими изображениями. И правда, что почти все Искусства обязаны своим проявлением трудолюбию руки, которую Аристотель за это назвал Орудием орудий.",
+        "Что до глаза, он означает благоразумие, которое должно сопутствовать Изобретению, подобно тому как крылья на конце её скипетра означают живость, потребную для счастливого исполнения.",
+        "Скажем далее, что образом Меркурия, держащего кадуцей в правой руке, а в левой — флейту, древние изобразили два главных предмета, являющихся как бы источниками Изобретения, а именно собственный интерес и удовольствие других; из коих один обозначен кадуцеем, посредством которого, как вымышляли Поэты, Меркурий воскрешал мёртвых, а другой — флейтой, инструментом, пригодным для увеселения духа и усмирения его беспорядочных движений.",
+        "Завершим это изображение Изобретения тем, какое и поныне можно видеть в Риме, где оно написано в виде обнажённой молодой женщины, лишь с шишаком на голове, мечом в руке и неким подобием перевязи, усеянной цветами и листьями, с надписью вокруг: PROPRIO MARTE.",
+        "По её наготе мы узнаём, что она чаще всего рождается из жизненных неудобств; по шишаку — что она держится духом, который укрепляет благоразумие; по мечу — что она всегда готова защищать то, что произвела на свет, дабы слава и польза от того оставались при ней; а по перевязи, усеянной цветами, — что весь труд, который она прилагает к изобретению превосходных вещей, основан на надежде однажды вкусить от них плод и поделиться им с обществом."
+      ],
+      "text_fr": [
+        "Cette Maistresse des Arts est vestuë d'vne robe blanche, où ces deux mots sont écrits, NON ALIUNDE. Elle a sur la teste deux aislerons, en vne main l'image de la Nature, & en l'autre vn rouleau, où il est écrit, AD OPERAM.",
+        "On la represente jeune, dautant qu'en ce premier âge la chaleur du sang fait que les esprits s'élevent dans l'intellect, où les inventions se forment par la force du raisonnement.",
+        "Elle est vestuë de blanc, parce que l'Invention doit estre pure, & ne se point servir du travail d'autruy, d'où vient qu'il est dit, ¶Qu'on adiouste aisément aux choses inventées. De maniere qu'il faut qu'elle ne dépende que de sa propre operation, comme le montre le mot, NON ALIUNDE.",
+        "Les aillerons qu'elle a sur la teste signifient l'élevation de toutes les parties intellectuelles, à cause qu'estant poussées par les sens à l'acquisition des choses que l'on desire sçavoir, elles se ramassent ensemble, & font vn effort pour inventer tout ce qu'ils leur proposent.",
+        "Elle tient en main l'image de la Nature, pour montrer par là qu'elle invente toutes choses. Et dautant qu'il ne sert de rien d'avoir vne invention, si l'on ne la met en lumiere; c'est à raison de cela qu'on luy fait tenir les bras retroussez & à demy nuds, afin que l'on voye qu'elle est toûjours en estat d'agir, comme le declarent ces deux mots Latins, AD OPERAM, qui sont dans le rouleau qu'elle porte. A quoy l'incite encore l'esperance du prix proposé, qui est vn bracelet d'or, qu'on avoit coustume de donner à ceux qui pour le bien de la Republique avoient trouvé quelque invention ingenieuse & louable.",
+        "L'Invention se voit representée à Florence dans le cabinet du Grand Duc Ferdinand, sous la figure d'vne belle femme, qui a des aisles à la teste comme celles de Mercure, & à ses pieds vn ours qui leche son faon, pour donner vne forme à cette lourde masse de chair.",
+        "On la peut encore denoter par vne jeune beauté, qui tient vn sceptre, au dessus duquel est vne main ouverte, vn œil au milieu, & au bout de cette main deux petites aisles, qui ressemblent à peu prés à celles du caducée.",
+        "Le sceptre est vne marque de grandeur & de promptitude, comme la main en est vne d'industrie & d'art; tellement que l'vn soûtenu par l'autre, fait voir que les Princes & les Seigneurs qui ont de l'empire sur leurs sujets, réveillent leur invention, & leur éguisent l'esprit par le moyen des recompenses, qui sont de forts aiguillons de Vertu.",
+        "C'est l'opinion d'Artemidore, que par les mains est signifié l'Art, qui est la creature de l'Invention; au moins les Egyptiens le demontroient ainsi par leurs figures hieroglyphiques. Aussi est-il vray que presque tous les Arts sont mis en evidence par l'Industrie de la main, qu'Aristote nomme pour cet effet l'Instrument des instrumens.",
+        "Pour ce qui est de l'œil, il figure la prudence qui doit suivre l'Invention, comme les aisles qui sont au bout de son sceptre signifient la vivacité requise à executer heureusement.",
+        "Disons ensuite, que par vne image de Mercure qui tient vn caducée de la main droite, & de la gauche vne fluste, les anciens ont figuré les deux sujets principaux, qui sont comme les sources de l'Invention, à sçavoir l'interest propre, & le plaisir d'autruy; dont l'vn est denoté par le caducée, par le moyen duquel, comme les Poëtes ont feint, Mercure ressuscitoit les morts; & l'autre par la fluste, instrument propre à réjouïr l'esprit, & à calmer ses mouvemens déreglez.",
+        "Achevons ce tableau de l'Invention par celuy qui s'en voit encore aujourd'huy à Rome, où elle est peinte en jeune femme nuë, hormis qu'elle a sur la teste vn morion, vne épée à la main, & vne maniere d'écharpe semée de fleurs & de feuilles, avec ces mots à l'entour, PROPRIO MARTE.",
+        "Par sa nudité nous apprenons qu'elle s'engendre la plus part du temps des incommoditez de la vie: par son morion, qu'elle subsiste par son esprit, que la prudence fortifie: par son épée, qu'elle est toûjours preste à defendre ce qu'elle a mis au jour, afin que la gloire & le profit luy en demeurent: & par son écharpe semée de fleurs, que toute la peine qu'elle prend à inventer d'excellentes choses, se fonde sur l'esperance d'en cueillir vn jour le fruit, & d'en faire part au public."
+      ],
+      "en": "Invention",
+      "group_en": "I",
+      "scans": [
+        "p1-084-1.jpg",
+        "p1-084-2.jpg",
+        "p1-084-3.jpg"
+      ],
+      "text_en": [
+        "This Mistress of the Arts is clothed in a white robe, on which these two words are written: NON ALIUNDE. On her head she has two little wings, in one hand the image of Nature, and in the other a scroll, on which is written: AD OPERAM.",
+        "She is represented young, inasmuch as in this early age the heat of the blood makes the spirits rise into the intellect, where inventions are formed by the power of reasoning.",
+        "She is clothed in white, because Invention must be pure, and must not make use of another's labor, whence it is said, ¶\"One readily adds to things already invented.\" So that it must depend only on its own operation, as the word NON ALIUNDE shows.",
+        "The little wings on her head signify the elevation of all the intellectual faculties, because, being driven by the senses to the acquisition of what one desires to know, they gather together and make an effort to invent all that is proposed to them.",
+        "She holds in her hand the image of Nature, to show thereby that she invents all things. And inasmuch as it serves no purpose to have an invention if one does not bring it to light, for this reason she is made to hold her arms rolled up and half bare, so that one may see she is always ready to act, as these two Latin words declare, AD OPERAM, which are on the scroll she carries. To this she is further spurred by the hope of the offered prize, which is a gold bracelet, customarily given to those who, for the good of the Republic, had found some ingenious and praiseworthy invention.",
+        "Invention is seen represented at Florence, in the cabinet of the Grand Duke Ferdinand, under the figure of a beautiful woman who has wings on her head like those of Mercury, and at her feet a bear licking its cub, to give shape to that shapeless mass of flesh.",
+        "She may also be denoted by a young beauty holding a scepter, above which is an open hand, an eye in its middle, and at the end of this hand two small wings, which resemble fairly closely those of the caduceus.",
+        "The scepter is a mark of greatness and swiftness, as the hand is one of industry and art; so that the one, sustained by the other, shows that Princes and Lords who have dominion over their subjects awaken their subjects' invention, and sharpen their minds by means of rewards, which are powerful spurs to Virtue.",
+        "It is the opinion of Artemidorus that by the hands is signified Art, which is the offspring of Invention; at least the Egyptians showed this by their hieroglyphic figures. It is likewise true that almost all the Arts are brought to light by the industry of the hand, which Aristotle for this reason called the Instrument of instruments.",
+        "As for the eye, it figures the prudence that must accompany Invention, just as the wings at the end of her scepter signify the liveliness required to carry things through successfully.",
+        "Let us say further that by an image of Mercury holding a caduceus in his right hand, and in his left a flute, the ancients figured the two principal matters that are, as it were, the sources of Invention, namely self-interest and the pleasure of others; of which the one is denoted by the caduceus, by means of which, as the Poets feigned, Mercury raised the dead; and the other by the flute, an instrument fit to delight the spirit and calm its disordered movements.",
+        "Let us complete this picture of Invention with the one still seen today at Rome, where she is painted as a naked young woman, save that she has a helmet upon her head, a sword in her hand, and a kind of sash strewn with flowers and leaves, with these words around it: PROPRIO MARTE.",
+        "By her nakedness we learn that she is engendered, most of the time, by the discomforts of life: by her helmet, that she subsists by her spirit, which prudence fortifies: by her sword, that she is always ready to defend what she has brought to light, so that the glory and the profit of it may remain hers: and by her sash strewn with flowers, that all the pains she takes in inventing excellent things rest on the hope of one day gathering their fruit, and sharing it with the public."
+      ]
     },
     {
       "id": "p1-85",
@@ -4387,12 +4469,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-85.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Худая женщина с открытой грудью, опирающаяся на посох и обмахивающаяся веером",
+          "meaning": "Худоба и опора на посох — изнурение от летнего зноя и чрезмерных усилий; веер — поиск прохлады",
+          "what_en": "A thin woman with a bare breast, leaning on a staff and fanning herself",
+          "meaning_en": "Her thinness and the staff she leans on picture exhaustion from summer heat and excessive exertion; the fan, her search for coolness"
+        }
+      ],
+      "text_ru": [
+        "Это очень худая женщина, легко одетая, с открытой грудью. Она опирается левой рукой на посох, а в правой держит веер, которым, кажется, обмахивается.",
+        "Усталость, о которой мы говорим, вызванная не болезнью, а слишком сильным напряжением или слишком жарким временем года, изображена худой, ибо когда здоровье тела истощается через жар, оно неизбежно иссыхает.",
+        "Её одежда и открытая грудь — знаки чрезмерного летнего зноя; ведь в это время принято одеваться легко, дабы освежиться и не утомляться так скоро.",
+        "Она опирается на посох, ибо нуждается в опоре, не имея сил: это вполне соответствует изнеможению, которое мы описываем и которое происходит лишь от слабости.",
+        "С полным основанием она пользуется и веером, который, колебля нагретый воздух, словно порождает иной, более удобный и более пригодный для освежения человеческого тела."
+      ],
+      "text_fr": [
+        "C'est vne femme fort maigre, legerement vestuë, & qui a la gorge découverte. Elle s'appuye de la main gauche sur vn baston, & tient de la main droite vn éventail, dont il semble qu'elle s'évente.",
+        "La Lassitude dont nous parlons, qui n'est point causée de maladie, mais d'vn trop violent exercice, ou d'vne saison trop chaude, est dépeinte maigre, parce que la santé du corps venant à s'exhaler par le moyen de la chaleur, il faut necessairement qu'elle se desseche.",
+        "Son habillement & son sein découvert sont des marques des trop violentes ardeurs de l'Esté; car en ce temps-là l'on a de coustume de s'habiller à la legere, afin de se rafraichir, & de n'estre si-tost lassé.",
+        "Elle s'appuye, parce qu'elle a besoin de soûtien, à cause qu'elle manque de forces: ce qui s'accommode fort bien à la langueur que nous décrivons, qui ne procede que de foiblesse.",
+        "C'est encore avec raison qu'elle se sert d'vn éventail, qui par l'agitation qu'il fait de l'air échauffé, en semble produire vn autre plus commode & plus propre à rafraichir le corps humain."
+      ],
       "en": "Lassitude",
-      "group_en": "L"
+      "group_en": "I",
+      "scans": [
+        "p1-085-1.jpg"
+      ],
+      "text_en": [
+        "She is a very thin woman, lightly clothed, and with her throat bare. She leans with her left hand on a staff, and holds in her right hand a fan, with which she seems to be fanning herself.",
+        "The Weariness we speak of, which is caused not by illness but by too violent exercise, or too hot a season, is depicted thin, because when the body's vigor comes to be exhaled through heat, it must necessarily dry out.",
+        "Her dress and bared breast are marks of the too-violent heat of Summer; for at that time it is customary to dress lightly, so as to cool oneself, and not to be so soon wearied.",
+        "She leans, because she needs support, lacking strength: which well suits the languor we describe, which proceeds only from weakness.",
+        "It is likewise with reason that she makes use of a fan, which, by the agitation it gives the heated air, seems to produce another, more comfortable and better suited to refresh the human body."
+      ]
     },
     {
       "id": "p1-86",
@@ -4405,12 +4518,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-86.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в белом со скипетром, колпаком вольноотпущенника и кошкой у ног",
+          "meaning": "Скипетр — власть над собой; колпак — римский обряд освобождения раба; кошка — животное, не терпящее неволи",
+          "what_en": "A woman in white with a scepter, a freedman's cap and a cat at her feet",
+          "meaning_en": "The scepter is dominion over oneself; the cap recalls the Roman rite of freeing a slave; the cat is the animal that cannot bear confinement"
+        }
+      ],
+      "text_ru": [
+        "Её облик — облик женщины, одетой в белое, со скипетром в правой руке, колпаком в левой и кошкой рядом с ней.",
+        "Скипетр означает владычество Свободы, которая держит его лишь от самой себя, будучи, как она есть, полным обладанием духом, телом и временными благами, что побуждают нас к добру различными путями: дух — особой благодатью Божией, тело — помощью добродетели, а богатство — руководством благоразумия.",
+        "Её изображают с колпаком в руке, поскольку по древнему римскому обычаю его надевали на рабов, которых хотели отпустить на волю и дать свободу, предварительно обрив им волосы; обряд этот обычно совершался в храме богини Феронии.",
+        "У её ног помещают кошку, ибо нет другого животного, столь любящего свободу, как она, не способного никоим образом сносить заточение: по этой причине некоторые народы, и в особенности бургундцы, издревле носили её изображение на своих военных знамёнах.",
+        "Не премину заметить, что среди многих медалей Свободы встречаются и такие, где она держит в одной руке палицу, а в другой — колпак, с надписью LIBERTAS AUGUSTI EX SC, что означает свободу, обретённую доблестью, как это видно на медали Антонина Гелиогабала, где добавлено разбитое ярмо."
+      ],
+      "text_fr": [
+        "Sa figure est celle d'vne femme vestuë de blanc, ayant vn sceptre en la main droite, vn bonnet en la gauche, & vn chat prés d'elle.",
+        "Le sceptre signifie l'empire de la Liberté, qui ne le tient que de soy-mesme, estant comme elle est, vne absoluë possession d'esprit, de corps & de commoditez temporelles, qui nous incitent au bien par divers moyens; à sçavoir l'esprit par vne grace particuliere de Dieu, le corps par l'aide de la vertu, & la richesse par la direction de la prudence.",
+        "Elle est peinte avec vn bonnet en main, dautant que par vne ancienne coustume les Romains le faisoient porter aux esclaves qu'ils vouloient affranchir & mettre en liberté, aprés leur avoir rasé les cheveux; ceremonie qui se faisoit d'ordinaire dans le temple de la Deesse Feronia.",
+        "L'on met vn chat à ses pieds, parce qu'il n'y a point d'animal qui aime tant la liberté que celuy-là, qui ne peut souffrir en aucune sorte d'estre enfermé: à cause dequoy quelques peuples, & particulierement les Bourguinons, le portoient anciennement pour devise en leurs enseignes de guerre.",
+        "J'obmets que parmy plusieurs medailles de la Liberté il s'en trouve quelques-vnes où elle se voit tenant d'vne main vne massuë, & de l'autre vn bonnet, avec ces mots, LIBERTAS AUGUSTI EX SC. ce qui signifie vne liberté acquise par la valeur, comme il se remarque dans la medaille d'Antonin Heliogabale, où est adjoûté vn joug rompu."
+      ],
       "en": "Liberty",
-      "group_en": "L"
+      "group_en": "I",
+      "scans": [
+        "p1-086-1.jpg"
+      ],
+      "text_en": [
+        "Her figure is that of a woman clothed in white, having a scepter in her right hand, a cap in her left, and a cat beside her.",
+        "The scepter signifies the dominion of Liberty, which she holds from herself alone, being, as she is, an absolute possession of mind, body, and temporal conveniences, which spur us toward the good by various means: the mind, by a particular grace of God; the body, by the aid of virtue; and wealth, by the direction of prudence.",
+        "She is painted with a cap in hand, inasmuch as by an ancient custom the Romans made slaves whom they wished to free and set at liberty wear it, after having shaved their heads; a ceremony ordinarily performed in the temple of the Goddess Feronia.",
+        "A cat is placed at her feet, because there is no animal that loves liberty so much as that one, which cannot in any way bear to be shut in: for which reason some peoples, and the Burgundians in particular, anciently bore it as a device on their war standards.",
+        "I omit not to mention that among several medals of Liberty there are some where she is seen holding a club in one hand, and a cap in the other, with these words, LIBERTAS AUGUSTI EX SC, which signifies a liberty acquired by valor, as is observed on the medal of Antoninus Heliogabalus, where a broken yoke is added."
+      ]
     },
     {
       "id": "p1-87",
