@@ -3547,12 +3547,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-67.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная девушка в золотом одеянии, опирающаяся на голову льва, раздающая драгоценности",
+          "meaning": "Щедрость — свойство благородного, великого духа, отрешённого от корысти; лев — благороднейшее и непобедимое из животных",
+          "what_en": "A young girl in golden robes, leaning on a lion's head, distributing jewels",
+          "meaning_en": "Generosity is a quality of a noble, great spirit free of self-interest; the lion is the noblest and most invincible of animals"
+        }
+      ],
+      "text_ru": [
+        "Её образ — юная девушка, столь прекрасная и чарующая, что привлекает к себе взоры всего света. Она одета в золотую газовую ткань, опираясь левой рукой на голову льва, а правой, которую поднимает, держит цепочки из драгоценных камней и жемчуга, словно желая сделать из них подарки.",
+        "Её изображают юной, ибо, говорит Аристотель, у молодых людей дух велик, а значит, благороден и щедр; это же означено и золотом её платья. Потому щедрым по праву зовётся то, что не вырождается из своей природы.",
+        "Правая рука её обнажена, и кажется, что она хочет раздать драгоценности, которые носит, дабы предупредить нас, что свойство этой добродетели — отрешиться от всякой корысти и творить добро без надежды получить что-либо взамен.",
+        "А поскольку она определяется как превосходное свойство, которым обладает человек в силу собственной добродетели, то, дабы дать это понять, она опирается на голову льва — животного, обладающего наибольшим величием и благородством духа среди всех. Ибо он непобедим при любом стечении обстоятельств; а если и вынужден отступить, то делает это с таким достоинством, что никогда не теряет из виду преследующего его."
+      ],
+      "text_fr": [
+        "Son image est celle d'vne jeune fille si belle & si charmante, qu'elle attire à soy les yeux de tout le monde. Elle est vestuë de gaze d'or, s'appuyant de la main gauche sur la teste d'vn lion; & de la droite qu'elle hausse, elle tient des chaisnes de pierreries & de perles, avec demonstration d'en vouloir faire des presens.",
+        "Elle est peinte jeune, parce, dit Aristote, que les jeunes gens ont le courage grand, & par consequent genereux & noble; ce qui est encore denoté par l'or de sa robe. Aussi appelle-t'on proprement genereux, ce qui ne degenere point de sa nature.",
+        "Elle a le bras droit nud, & semble vouloir distribuer les riches joyaux qu'elle porte, pour nous avertir que le propre de cette vertu est de se dépouiller de toutes sortes d'interests, & de faire du bien sans esperance d'en recevoir en échange.",
+        "Or parce qu'elle se definit, vn Estre excellent en la personne qui en est pourveuë, & qui la tient de sa propre vertu; pour donner à entendre cela, elle s'appuye sur la teste d'vn lion, qui est celuy de tous les animaux qui a plus de grandeur & de generosité de courage. Car il est invincible à quelque avanture que ce soit; & s'il est contraint de se retirer, c'est de si bonne grace, qu'il n'abandonne jamais de veuë celuy qui le poursuit."
+      ],
       "en": "Generosity",
-      "group_en": "G"
+      "group_en": "G",
+      "scans": [
+        "p1-067-1.jpg",
+        "p1-067-2.jpg"
+      ],
+      "text_en": [
+        "Her image is that of a young girl so beautiful and so charming that she draws to herself the eyes of all the world. She is clothed in golden gauze, leaning with her left hand upon a lion's head; and with her right, which she raises, she holds chains of jewels and pearls, with the gesture of wishing to make gifts of them.",
+        "She is painted young, because, says Aristotle, the young have great courage, and consequently are generous and noble; which is further denoted by the gold of her robe. Indeed, that which does not degenerate from its nature is properly called generous.",
+        "Her right arm is bare, and she seems to wish to distribute the rich jewels she wears, to warn us that the proper nature of this virtue is to strip itself of every kind of self-interest, and to do good without hope of receiving anything in exchange.",
+        "Now because she is defined as an excellent quality in the person endowed with it, held by their own virtue, to convey this she leans upon the head of a lion, which of all animals has the greatest grandeur and generosity of courage. For he is invincible in whatever encounter, and if forced to withdraw, he does so with such grace that he never loses sight of his pursuer."
+      ]
     },
     {
       "id": "p1-68",
@@ -3565,12 +3594,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-68.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Нагой смеющийся ребёнок с гирляндой мака, колосьями и виноградной гроздью",
+          "meaning": "Церера (колосья), Вакх (виноград) и Сон (мак) дают смертным наслаждение, которое умножается благосклонностью Гения",
+          "what_en": "A naked, laughing child with a poppy garland, ears of grain, and a bunch of grapes",
+          "meaning_en": "Ceres (grain), Bacchus (grapes), and Sleep (poppy) give mortals pleasure, multiplied by the favour of Genius"
+        }
+      ],
+      "text_ru": [
+        "В сочинениях Винченцо Картари имеется множество изображений Гения, заимствованных им у Лилия Гиральда; но это мне нравится более всех — оно взято с мраморного барельефа, найденного в Риме несколько лет назад. Оно изображает нагого ребёнка с улыбающимся лицом, с гирляндой из мака на голове, колосьями в одной руке и виноградной гроздью в другой; объяснением чему служит приведённая ниже эпиграмма, которой показано: ¶«Что светлокудрая Церера, Вакх и Сон / Дают смертным вкусить ни с чем не сравнимое наслаждение, / Если случится, что к их дарам могущественно присоединится / Благосклонность Гения».",
+        "А поскольку древние принимали его за общее хранение вещей мира, неудивительно, что у них не только человеческие создания, но даже неодушевлённые предметы имели своего Гения, как видно по разным медалям, приписывающим ему охрану сокровищ и житниц.",
+        "Но что до того другого гения, который обычно принимается за склонность, какую мы имеем к чему-либо, и за удовольствие, от того проистекающее, ему можно дать крылья как символ вещи, что нам нравится и всегда возвращается в воображении. Например, если кто-то склонен к учёности, пусть ему дадут в руки книги; если к музыке — лютни и подобные инструменты; если к войне — оружие, и так далее. Тем же образом его венчают листьями платана, дерева гениального, которое, будучи не менее прекрасным, чем полезным благодаря большой тени, которую даёт, было одним из самых приятных украшений Афинской Академии.",
+        "На некоторых медалях Гений римлян увенчан лавром, ибо этот народ находил удовольствие лишь в войне и триумфах. На других ему дают нести колосья, цветы и оливковые ветви, как на медалях Траяна и Марка Аврелия Антонина. Но самая замечательная из всех — медаль Нерона, держащего в правой руке жертвенную чашу перед алтарём, а в левой — рог изобилия. Приходится верить, что из чрезмерной лести эта медаль была отчеканена в его честь, ибо несомненно, что гений — то есть нрав — этого Государя склонялся скорее ко злу, чем к добру, к нечестию, а не к Религии, и охотнее к разорению богатств, нежели к их умножению."
+      ],
+      "text_fr": [
+        "Il y a dans les écrits de Vincent Cartari quantité d'images du Genie, qu'il a prises de Lilius Giraldus: mais celle-cy me plaist pardessus toutes, tirée d'vne statuë de marbre de bas relief, qui fut trouvée à Rome il y a quelques années. Elle represente vn enfant nud, & d'vn visage riant, avec vne guirlande de pavot sur la teste, des épics en vne main, & vne grappe de raisin en l'autre; à quoy sert d'explication l'epigramme qui se voit au dessous, par où il est montré: ¶Que la blonde Cerés, Bacchus, & le Sommeil / Font gouster aux mortels vn plaisir nompareil, / S'il advient qu'à leurs dons soit puissamment vnie / La faveur du Genie.",
+        "Et dautant que les anciens le prenoient pour la commune conservation des choses du monde, il ne faut pas s'étonner si chez eux non seulement les creatures humaines, mais les insensibles mesme avoient leur Genie, comme il se voit par diverses medailles qui luy attribuent la garde des tresors & des greniers.",
+        "Mais quant à cet autre genie qui se prend d'ordinaire pour l'inclination que nous avons à quelque chose, & pour le plaisir qui en revient; on luy peut donner des aisles pour vn symbole de la chose qui nous plaist, & qui nous revient toûjours en la fantaisie. Par exemple, si quelqu'vn est porté aux lettres, qu'on luy mette des livres en main: si à la musique, des luths & autres tels instrumens: si à la guerre, des armes; & ainsi du reste. Par mesme moyen qu'on le couronne de feuilles de Plane, arbre genial, & qui pour n'estre pas moins beau que commode pour la grande ombre qu'il fait, fut l'vn des plus agreables ornemens de l'Academie d'Athenes.",
+        "En quelques medailles le Genie des Romains est couronné de laurier, parce que ce peuple ne se plaisoit qu'à la guerre & aux triomphes. En d'autres on luy fait porter des épics, des fleurs, & des branches d'olivier, comme en celles de Trajan & de Marc Aurele Antonin. Mais la plus remarquable de toutes est celle de Neron, tenant de la main droite vne coupe à sacrifier devant vn autel, & de la gauche vne corne d'abondance. Il faut bien croire que par vn excés de flaterie l'on frappa cette medaille en sa faveur, puisqu'il est certain que le genie de ce Prince, c'est à dire son humeur, se portoit au mal plûtost qu'au bien, à l'impieté non pas à la Religion, & à la ruine des biens plus volontiers qu'à leur accroissement."
+      ],
       "en": "Genius",
-      "group_en": "G"
+      "group_en": "G",
+      "scans": [
+        "p1-068-1.jpg",
+        "p1-068-2.jpg"
+      ],
+      "text_en": [
+        "There are, in the writings of Vincenzo Cartari, a great many images of Genius, which he took from Lilius Gyraldus; but this one pleases me above all, drawn from a marble bas-relief statue found at Rome some years ago. It represents a naked child, with a laughing face, with a garland of poppy upon his head, ears of grain in one hand, and a bunch of grapes in the other; for which the epigram seen below serves as explanation, by which it is shown: ¶That fair-haired Ceres, Bacchus, and Sleep / Give mortals a pleasure beyond compare, / Should it happen that to their gifts be powerfully joined / The favor of Genius.",
+        "And inasmuch as the ancients took him for the common preservation of the things of the world, it is no wonder that among them not only human creatures, but even insensible things, had their Genius, as is seen by various medals that attribute to him the guarding of treasures and granaries.",
+        "But as for that other genius commonly taken for the inclination we have toward something, and for the pleasure that comes of it, he may be given wings as a symbol of the thing that pleases us, and that always returns to our fancy. For example, if someone is inclined to letters, let books be placed in his hand: if to music, lutes and other such instruments: if to war, weapons; and so for the rest. By the same means he is crowned with plane-tree leaves, a genial tree, which, being no less beautiful than useful for the great shade it gives, was one of the most pleasing ornaments of the Academy of Athens.",
+        "On some medals the Genius of the Romans is crowned with laurel, because this people delighted only in war and triumphs. On others he is made to bear ears of grain, flowers, and olive branches, as on those of Trajan and Marcus Aurelius Antoninus. But the most remarkable of all is that of Nero, holding in his right hand a sacrificial cup before an altar, and in his left a horn of abundance. One must well believe that out of an excess of flattery this medal was struck in his favor, since it is certain that the genius of this Prince, that is, his disposition, inclined to evil rather than good, to impiety rather than Religion, and more readily to the ruin of wealth than to its increase."
+      ]
     },
     {
       "id": "p1-69",
@@ -3583,12 +3641,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-69.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Полуобнажённая фигура со сферой, на которой знаки Зодиака, и образом Победы в руке",
+          "meaning": "Слава заботится не о земном, а о небесной награде за труды; Слава и Победа неразлучны, одна порождает другую",
+          "what_en": "A half-naked figure with a sphere bearing the Zodiac signs and an image of Victory in hand",
+          "meaning_en": "Glory cares not for earthly but for heavenly reward for its labours; Glory and Victory are inseparable, one the offspring of the other"
+        }
+      ],
+      "text_ru": [
+        "Этот образ заимствован из древних медалей, где она изображена точно так же, как здесь: ибо при том что верхняя часть её тела почти полностью обнажена, она несёт сферу с двенадцатью знаками Зодиака и небольшую фигуру, держащую в одной руке пальмовую ветвь, а в другой — гирлянду.",
+        "Её нагота означает, что в славных деяниях никогда нет притворства, ибо они являются взору открыто, в какое бы время это ни случилось. Сфера, которую она несёт, — что земные заботы обязывают её не столько к героическим подвигам, сколько заботы Небесные, где она обещает себе награду за свои труды. А образ, который она поддерживает правой рукой, — образ Победы, — что они обе неразлучны, ибо одна, несомненно, порождение другой.",
+        "Есть и такие, кто надевает ей на голову золотой венец, вкладывает в левую руку трубу, а в правую — рог изобилия. Первым из этих предметов хотят показать, что награда Славы всегда блистательна, ибо она обладает драгоценнейшими знаками чести, какие только возможны, — скипетрами и венцами. Вторым — что её высокие свершения никогда не остаются непровозглашёнными устами Молвы. А третьим — что, будучи законной и основанной на Добродетели, она не может быть лишена истинных благ и не может не одержать победу тем или иным образом над злой судьбой."
+      ],
+      "text_fr": [
+        "Cette image est tirée des anciennes medailles, où elle est peinte de mesme qu'icy: car avec ce que le haut de son corps est presque tout nud, elle porte vne sphere où sont les douze Signes du Zodiaque, & vne petite figure qui tient vne palme d'vne main, & de l'autre vne guirlande.",
+        "Sa nudité signifie qu'il n'y a jamais de fard dans les actions glorieuses, parce qu'elles paroissent à découvert en quelque temps que ce soit. La sphere qu'elle porte, que les considerations d'icy-bas ne l'obligent pas tant à des exploits heroïques, que celles du Ciel, où elle se promet la recompense de ses travaux: Et l'image qu'elle soûtient de la main droite, qui est celle de la Victoire; qu'elles sont toutes deux inseparables, puisque l'vne asseurément est la creature de l'autre.",
+        "Il y en a qui luy mettent sur la teste vne couronne d'or, avec vne trompette en la main gauche, & en la droite vne corne d'abondance. Par la premiere de ces choses ils pretendent montrer que le prix de la Gloire est toûjours illustre, puisqu'elle possede les plus precieuses marques d'honneur que l'on puisse avoir, qui sont les sceptres & les couronnes. Par la seconde, que ses hautes entreprises ne manquent jamais d'estre publiées par la bouche de la Renommée: Et par la troisiéme, qu'estant legitime, & fondée sur la Vertu, elle ne peut manquer de vrais biens, ny d'estre victorieuse en plusieurs façons de la mauvaise fortune."
+      ],
       "en": "Glory",
-      "group_en": "G"
+      "group_en": "G",
+      "scans": [
+        "p1-069-1.jpg"
+      ],
+      "text_en": [
+        "This image is drawn from ancient medals, where she is painted just as here: for along with the upper part of her body being almost entirely bare, she carries a sphere bearing the twelve Signs of the Zodiac, and a small figure holding a palm in one hand, and a garland in the other.",
+        "Her nakedness signifies that there is never any pretense in glorious actions, for they appear openly, whatever the time may be. The sphere she carries, that earthly considerations oblige her not so much to heroic exploits as do those of Heaven, where she promises herself the reward of her labors: And the image she holds up with her right hand, that of Victory, that the two are inseparable, since the one is assuredly the offspring of the other.",
+        "There are some who place upon her head a golden crown, with a trumpet in her left hand, and in her right a horn of abundance. By the first of these things they mean to show that the prize of Glory is always illustrious, since she possesses the most precious marks of honor one could have, which are scepters and crowns. By the second, that her lofty undertakings never fail to be proclaimed by the mouth of Fame: And by the third, that being lawful, and founded on Virtue, she cannot lack true goods, nor fail to be victorious in many ways over ill fortune."
+      ]
     },
     {
       "id": "p1-70",
@@ -3601,12 +3684,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-70.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Фигура с золотым венцом на голове и ещё одним в руке, поддерживающая пирамиду",
+          "meaning": "Золотой венец — награда государям за славные деяния; пирамида — их слава, воплощённая в величественных постройках, переживающих время",
+          "what_en": "A figure with a golden crown on her head and another in hand, supporting a pyramid",
+          "meaning_en": "The golden crown is the reward of princes for glorious deeds; the pyramid, their glory embodied in magnificent structures that outlast time"
+        }
+      ],
+      "text_ru": [
+        "Изобретение этого образа заимствовано с одной из прекраснейших медалей императора Адриана. На голове у неё богатый золотой венец, другой она держит в правой руке, а левой поддерживает мощную пирамиду.",
+        "Золотой венец означает награду, которую получают великие Государи за славные предприятия, непрестанно их занимающие, и за прекрасные деяния, из них проистекающие; подобно тому как лавровый — славная награда, которую они сами дают в знак чести тем, кто следует за ними в случаях, когда нужно явить свою доблесть.",
+        "Пирамида равным образом есть символ их Славы, по-разному проявляющейся в храмах и богатых дворцах, которые они возводят с царским великолепием: ибо эти величественные знаки их величия делают их достохвальными для потомства; свидетельством чему служат и поныне те исполинские груды камней, оставшиеся нам от египетских пирамид, которые время не смогло разрушить и не смогло помешать тому, чтобы они считались чудесами света, к славе их создателей."
+      ],
+      "text_fr": [
+        "L'invention de cette figure est prise d'vne des plus belles medailles de l'Empereur Adrian. Elle a sur la teste vne riche couronne d'or, & en tient vne autre en la main droite, soûtenant de la gauche vne forte pyramide.",
+        "La couronne d'or signifie la recompense que reçoivent les grands Princes des fameuses entreprises qui les occupent sans cesse, & des belles actions qui s'en ensuivent: comme celle de laurier est vn illustre prix qu'ils donnent eux-mesmes pour marque d'honneur à ceux qui les suivent dans les occasions de signaler leur vaillance.",
+        "La pyramide est pareillement vn symbole de leur Gloire, qui éclate en diverses façons dans les temples & dans les riches palais qu'ils font bastir avec vne magnificence royale: car ces superbes marques de leur grandeur les rendent recommandables à la posterité; ce que témoignent encore aujourd'huy ces prodigieuses masses de pierres qui nous sont restées des pyramides d'Egypte, que le temps n'a pû démolir, ny empescher qu'elles ne passent pour des miracles du monde, à la gloire de leurs autheurs."
+      ],
       "en": "Glory of Princes",
-      "group_en": "G"
+      "group_en": "G",
+      "scans": [
+        "p1-070-1.jpg"
+      ],
+      "text_en": [
+        "The invention of this figure is taken from one of the finest medals of the Emperor Hadrian. She has upon her head a rich golden crown, and holds another in her right hand, supporting with her left a sturdy pyramid.",
+        "The golden crown signifies the reward that great Princes receive for the famous undertakings that occupy them ceaselessly, and for the noble actions that follow from them: just as the laurel crown is the illustrious prize they themselves give as a mark of honor to those who follow them when occasion calls for displaying their valor.",
+        "The pyramid is likewise a symbol of their Glory, which shines forth in various ways in the temples and rich palaces they have built with royal magnificence: for these splendid marks of their greatness commend them to posterity; as is still attested today by those prodigious masses of stone that remain to us from the pyramids of Egypt, which time has been unable to demolish, nor prevent from being counted among the world's wonders, to the glory of those who made them."
+      ]
     },
     {
       "id": "p1-71",
