@@ -5,7 +5,7 @@
   // Бампать при каждой правке app.css (и, по желанию, когда меняется логика
   // в app.js, завязанная на новую разметку), чтобы браузеры и CDN не отдавали
   // старую закэшированную копию стилей после деплоя.
-  var APP_VER = "21";
+  var APP_VER = "22";
   var me = document.currentScript;
   var BASE = (me && me.src) ? me.src.replace(/[^\/]*$/, "") : "./";
   var root = document.getElementById("iconologie");
@@ -87,7 +87,9 @@
     plateHint:    {ru:"Нажмите на номер, чтобы открыть предмет.", en:"Click a number to open that object."},
     infoSec:      {ru:"Сведения", en:"Details"},
     objCount:     {ru:"Предметов: {n}", en:"Objects: {n}"},
-    progressShort:{ru:"{done} из {total} переведено", en:"{done} of {total} translated"}
+    progressShort:{ru:"{done} из {total} переведено", en:"{done} of {total} translated"},
+    viewList:     {ru:"Список предметов", en:"Object list"},
+    viewBook:     {ru:"Как в книге", en:"As printed"}
   };
   function t(key, vars){
     var s = (DICT[key] && (DICT[key][state.lang] || DICT[key].ru)) || key;
@@ -712,6 +714,30 @@
       });
     });
   }
+  // режим «как в книге»: сплошной текст Гроссона для всей таблицы, каждый
+  // предмет начинается с кликабельного номера-ссылки, который подсвечивает
+  // этот предмет на гравюре (и на телефоне открывает его панель).
+  function bookTextHtml(book, objs){
+    return objs.map(function(it){
+      var arr = state.lang==="en" && it.text_en && it.text_en.length ? it.text_en : it.text_ru;
+      if(!arr || !arr.length) return "";
+      var html = paraHtml(arr);
+      var marker = '<a href="#" class="ic-numref" data-id="'+it.id+'">'+esc(it.num||"")+'</a> ';
+      return html.replace(/^<p>/, "<p>"+marker);
+    }).join("");
+  }
+  function wireBookText(book, objs, container){
+    container.querySelectorAll(".ic-numref").forEach(function(a){
+      a.addEventListener("click",function(e){
+        e.preventDefault();
+        var id = a.getAttribute("data-id");
+        if(isPhoneWidth()){ openObjectSheet(book, objs, objs.indexOf(book.byId[id])); return; }
+        highlightHotspot(id);
+        var hs = root.querySelector('.ic-hotspot[data-id="'+id+'"]');
+        if(hs) hs.scrollIntoView({block:"center", behavior:"smooth"});
+      });
+    });
+  }
   function openObjectInline(book, id){
     var li = root.querySelector('.ic-obj[data-id="'+id+'"]');
     if(!li) return;
@@ -809,11 +835,30 @@
         introHtml+
         '<div class="ic-plate-wrap"><img src="'+esc(src)+'" alt="">'+hotspots+'</div>'+
         captionHtml+
-        objListHtml(book, objs)+
+        '<div class="ic-view-toggle" role="group">'+
+          '<button type="button" class="ic-ov-b" data-view="list" aria-pressed="true">'+t("viewList")+'</button>'+
+          '<button type="button" class="ic-ov-b" data-view="book" aria-pressed="false">'+t("viewBook")+'</button>'+
+        '</div>'+
+        '<div class="ic-view-body" data-view="list">'+objListHtml(book, objs)+'</div>'+
       '</div>';
     bindLangSwitch(root);
     root.querySelector(".ic-back").addEventListener("click",function(){ goIndex(book); });
     wireObjList(book, objs);
+    var viewBody = root.querySelector(".ic-view-body");
+    root.querySelectorAll(".ic-view-toggle .ic-ov-b").forEach(function(b){
+      b.addEventListener("click",function(){
+        root.querySelectorAll(".ic-view-toggle .ic-ov-b").forEach(function(x){ x.setAttribute("aria-pressed", x===b); });
+        var v = b.getAttribute("data-view");
+        viewBody.setAttribute("data-view", v);
+        if(v==="book"){
+          viewBody.innerHTML = '<div class="ic-text ic-book-text">'+bookTextHtml(book, objs)+'</div>';
+          wireBookText(book, objs, viewBody);
+        } else {
+          viewBody.innerHTML = objListHtml(book, objs);
+          wireObjList(book, objs);
+        }
+      });
+    });
     root.querySelectorAll(".ic-hotspot").forEach(function(b){
       b.addEventListener("click",function(){
         var id = b.getAttribute("data-id");

@@ -93,6 +93,13 @@
 .ic-hotspot.focus{border-color:var(--accent);background:rgba(139,30,45,.22)}
 .ic-hotspot.focus span{background:var(--accent)}
 .ic-plate-intro{margin-top:22px}
+.ic-view-toggle{display:flex;gap:6px;margin-top:28px}
+.ic-view-body{margin-top:6px}
+.ic-book-text{max-width:none}
+.ic-book-text .ic-numref{display:inline-flex;align-items:center;justify-content:center;min-width:1.5em;height:1.5em;
+  padding:0 .3em;margin-right:.4em;font-family:var(--serif);font-style:normal;font-size:.68em;font-weight:600;
+  color:#fff;background:var(--accent);border-radius:3px;text-decoration:none;vertical-align:.15em}
+.ic-book-text .ic-numref:hover{background:var(--ink)}
 
 /* указатель книги-табличек: одна строка на таблицу */
 .ic-plate-ul{list-style:none;margin-top:18px}
