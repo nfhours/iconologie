@@ -1,3 +1,22 @@
 {
-  "motifs": []
+  "motifs": [
+    { "id": "diana",        "fr": "Diane",            "ru": "Диана",            "en": "Diana" },
+    { "id": "mars",         "fr": "Mars",             "ru": "Марс",             "en": "Mars" },
+    { "id": "apollo",       "fr": "Apollon",          "ru": "Аполлон",          "en": "Apollo" },
+    { "id": "lion",         "fr": "Lion",             "ru": "Лев",              "en": "Lion" },
+    { "id": "eagle",        "fr": "Aigle",            "ru": "Орёл",             "en": "Eagle" },
+    { "id": "bull",         "fr": "Taureau",          "ru": "Бык",              "en": "Bull" },
+    { "id": "griffin",      "fr": "Griffon",          "ru": "Грифон",           "en": "Griffin" },
+    { "id": "cross",        "fr": "Croix",            "ru": "Крест",            "en": "Cross" },
+    { "id": "wheel",        "fr": "Roue",             "ru": "Колесо",           "en": "Wheel" },
+    { "id": "trident",      "fr": "Trident",          "ru": "Трезубец",         "en": "Trident" },
+    { "id": "diadem",       "fr": "Diadême",          "ru": "Диадема",          "en": "Diadem" },
+    { "id": "quiver",       "fr": "Carquois",         "ru": "Колчан",           "en": "Quiver" },
+    { "id": "bow",          "fr": "Arc",              "ru": "Лук",              "en": "Bow" },
+    { "id": "javelin",      "fr": "Javelot",          "ru": "Дротик",           "en": "Javelin" },
+    { "id": "olive-crown",  "fr": "Couronne d'olivier", "ru": "Оливковый венец", "en": "Olive crown" },
+    { "id": "laurel-crown", "fr": "Couronne de laurier", "ru": "Лавровый венец", "en": "Laurel crown" },
+    { "id": "turban",       "fr": "Turban",           "ru": "Тюрбан",           "en": "Turban" },
+    { "id": "cuirass",      "fr": "Cuirasse",         "ru": "Кираса",           "en": "Cuirass" }
+  ]
 }

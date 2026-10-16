@@ -41,11 +41,17 @@
         "That of no. 1 represents on one side the Bust of Diana, tutelary Divinity of the Republic, whose cult was first in the order of religious objects; the head is adorned with a Diadem, as a mark of the sovereignty of Marseille; the Quiver and the bow leave no doubt as to the Divinity represented there; the Pearl necklace and the hair swept up denote the costume of those times, which has reappeared again in our own day.",
         "The reverse is a walking Lion; the Lion was for a long time the Emblem of Marseille: it was probably on its Standards, as the Eagle was on those of the Roman Republic. One reads this word in the field, in Greek characters: MASSALIETON. The moneyer's countermark is placed beneath the Lion's hind paws."
       ],
-      "motifs": [],
-      "obverse_fr": "Buste de Diane, diadème, carquois",
-      "obverse_ru": "бюст Дианы, диадема, колчан",
-      "obverse_en": "bust of Diana, diadem, quiver",
-      "reverse_fr": "Lion passant, MASSALIETON",
+      "motifs": [
+        "diana",
+        "diadem",
+        "quiver",
+        "bow",
+        "lion"
+      ],
+      "obverse_fr": "buste de Diane, diadème, carquois et arc",
+      "obverse_ru": "бюст Дианы, диадема, колчан и лук",
+      "obverse_en": "bust of Diana, diadem, quiver and bow",
+      "reverse_fr": "lion passant, MASSALIETON",
       "reverse_ru": "идущий лев, MASSALIETON",
       "reverse_en": "walking lion, MASSALIETON"
     },
@@ -54,9 +60,9 @@
       "part": 1,
       "plate": 1,
       "num": "2",
-      "fr": "Tête / Lion, MASSA ΛΗΤΟΝ",
-      "ru": "Голова / лев, MASSA ΛΗΤΟΝ",
-      "en": "Head / Lion, MASSA ΛΗΤΟΝ",
+      "fr": "Diane / Lion (gueule béante), MASSALIETON",
+      "ru": "Диана / лев (с открытой пастью), MASSALIETON",
+      "en": "Diana / Lion (open jaws), MASSALIETON",
       "page": "25",
       "group": "I",
       "group_fr": "Planche I",
@@ -78,25 +84,34 @@
         8.75
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête casquée",
-      "obverse_ru": "голова в шлеме",
-      "obverse_en": "helmeted head",
-      "reverse_fr": "lion passant, légende MASSA ΛΗΤΟΝ",
-      "reverse_ru": "идущий лев, легенда MASSA ΛΗΤΟΝ",
-      "reverse_en": "walking lion, legend MASSA ΛΗΤΟΝ"
+      "text_fr": [
+        "La Médaille désignée par le n°. 2. ne diffère de la premiere, que par les airs de tête, qui conservent toujours un caractere grec. Le revers ne différe également que par le Lion, qui a la gueule béante, & une de ses pattes en l'air; la contre-marque du Monétaire varie également, & le mot MASSALIETON se lit de même qu'à la précédente."
+      ],
+      "text_ru": [
+        "Монета под №2 отличается от первой только чертами головы, которые по-прежнему сохраняют греческий характер. Оборот также отличается только львом, у которого пасть раскрыта и одна лапа поднята; клеймо монетчика тоже иное, но слово MASSALIETON читается так же, как и на предыдущей."
+      ],
+      "text_en": [
+        "The medal marked no. 2 differs from the first only in the style of the head, which still retains a Greek character. The reverse likewise differs only in the Lion, whose jaws are open and one paw raised; the moneyer's countermark also varies, while the word MASSALIETON reads the same as on the preceding one."
+      ],
+      "motifs": [
+        "diana",
+        "lion"
+      ],
+      "obverse_fr": "buste de Diane, airs de tête grecs",
+      "obverse_ru": "бюст Дианы, греческие черты головы",
+      "obverse_en": "bust of Diana, Greek-style features",
+      "reverse_fr": "lion à la gueule béante, une patte levée, MASSALIETON",
+      "reverse_ru": "лев с раскрытой пастью, одна лапа поднята, MASSALIETON",
+      "reverse_en": "lion with open jaws, one paw raised, MASSALIETON"
     },
     {
       "id": "pl1-3",
       "part": 1,
       "plate": 1,
       "num": "3",
-      "fr": "Tête / Lion, MASSA ΧΙΙΙΙ",
-      "ru": "Голова / лев, MASSA ΧΙΙΙΙ",
-      "en": "Head / Lion, MASSA ΧΙΙΙΙ",
+      "fr": "Diane (trident) / Lion cuirassé, MASSA XIIII",
+      "ru": "Диана (трезубец) / лев в кирасе, MASSA XIIII",
+      "en": "Diana (trident) / Cuirassed lion, MASSA XIIII",
       "page": "25",
       "group": "I",
       "group_fr": "Planche I",
@@ -118,26 +133,37 @@
         7.81
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête, boucle d'oreille, lettre Ρ",
-      "obverse_ru": "голова, серьга, буква Ρ",
-      "obverse_en": "head, earring, letter Ρ",
-      "reverse_fr": "lion passant, légende MASSA et chiffre ΧΙΙΙΙ",
-      "reverse_ru": "идущий лев, легенда MASSA и число ΧΙΙΙΙ",
-      "reverse_en": "walking lion, legend MASSA and numeral ΧΙΙΙΙ"
+      "text_fr": [
+        "Sous le chiffre 3. est représentée une Médaille curieuse à plusieurs titres; la coiffure est en rouleaux, avec le diadême; Diane a pour Boucle d'oreille un Trident, symbole de la pêche, ou du commerce maritime de la Ville de Marseille; le Lion qui est représenté au revers, est couvert d'un corset de cuirasse. Nos Peres n'auroient-ils point voulu représenter par-là, que la République étoit en état de résister aux armes de ses ennemis. On lit au haut du revers, ces lettres MASSA, en caracteres grecs, par abréviation de MASSALIETON, & au bas, les chiffres Romains XIIII. qui me paroissent désigner la valeur de cette monnoie."
+      ],
+      "text_ru": [
+        "Под числом 3 изображена монета, любопытная по нескольким признакам: причёска уложена в валики, с диадемой; у Дианы серьгой служит трезубец — символ рыболовства или морской торговли города Марселя; лев, изображённый на обороте, одет в кирасу. Не хотели ли этим наши предки показать, что Республика способна противостоять оружию своих врагов? Вверху оборота читаются буквы MASSA греческими знаками, сокращение от MASSALIETON, а внизу — римские цифры XIIII, которые, как мне кажется, обозначают достоинство этой монеты."
+      ],
+      "text_en": [
+        "Under the number 3 is a medal curious on several counts: the hairstyle is in rolls, with the diadem; Diana's earring is a Trident, symbol of fishing, or of the maritime trade of the City of Marseille; the Lion shown on the reverse is covered with a cuirass. Did our forefathers not mean by this to show that the Republic was able to resist the arms of its enemies? At the top of the reverse one reads the letters MASSA, in Greek characters, an abbreviation of MASSALIETON, and at the bottom, the Roman numerals XIIII, which seem to me to indicate the value of this coin."
+      ],
+      "motifs": [
+        "diana",
+        "trident",
+        "lion",
+        "cuirass"
+      ],
+      "obverse_fr": "Diane, coiffure en rouleaux, trident en boucle d'oreille",
+      "obverse_ru": "Диана, причёска валиками, трезубец-серьга",
+      "obverse_en": "Diana, rolled hairstyle, trident earring",
+      "reverse_fr": "lion cuirassé, MASSA, XIIII",
+      "reverse_ru": "лев в кирасе, MASSA, XIIII",
+      "reverse_en": "cuirassed lion, MASSA, XIIII"
     },
     {
       "id": "pl1-4",
       "part": 1,
       "plate": 1,
       "num": "4",
-      "fr": "Tête (Β) / Lion, MASSA ΑΜΕ",
-      "ru": "Голова (Β) / лев, MASSA ΑΜΕ",
-      "en": "Head (Β) / Lion, MASSA ΑΜΕ",
-      "page": "",
+      "fr": "Diane (boucles de perles) / Lion, MASSA AAE",
+      "ru": "Диана (жемчужные серьги) / лев, MASSA AAE",
+      "en": "Diana (pearl earrings) / Lion, MASSA AAE",
+      "page": "26",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -158,26 +184,35 @@
         8.37
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête, lettre Β",
-      "obverse_ru": "голова, буква Β",
-      "obverse_en": "head, letter Β",
-      "reverse_fr": "lion passant, légende MASSA ΑΜΕ",
-      "reverse_ru": "идущий лев, легенда MASSA ΑΜΕ",
-      "reverse_en": "walking lion, legend MASSA ΑΜΕ"
+      "text_fr": [
+        "La coiffure de Diane, dans la Médaille du n°. 4. varie des premieres; elle a de vraies Boucles d'oreilles en perles, au lieu du Trident; elle n'a point de colier. Le Lion représenté sur le revers, est moins bien dessiné; les lettres MASSA sont au haut, & dans le bas, AAE. Cette Médaille paroît être d'une époque postérieure à celle des précédentes; elle a moins de noblesse & moins d'exactitude dans le dessein."
+      ],
+      "text_ru": [
+        "Причёска Дианы на монете №4 отличается от предыдущих: у неё настоящие жемчужные серьги вместо трезубца, и нет ожерелья. Лев на обороте изображён менее искусно; буквы MASSA расположены вверху, а внизу — AAE. Эта монета, по-видимому, относится к более позднему периоду, чем предыдущие: в ней меньше благородства и меньше точности в рисунке."
+      ],
+      "text_en": [
+        "The hairstyle of Diana on the medal no. 4 differs from the earlier ones; she has true pearl earrings instead of the Trident, and no necklace. The Lion shown on the reverse is less well drawn; the letters MASSA are at the top, and at the bottom, AAE. This medal appears to be of a later period than the preceding ones; it has less nobility and less accuracy in the design."
+      ],
+      "motifs": [
+        "diana",
+        "lion"
+      ],
+      "obverse_fr": "Diane, boucles d'oreilles en perles, sans collier",
+      "obverse_ru": "Диана, жемчужные серьги, без ожерелья",
+      "obverse_en": "Diana, pearl earrings, no necklace",
+      "reverse_fr": "lion (dessin moins soigné), MASSA / AAE",
+      "reverse_ru": "лев (менее тщательный рисунок), MASSA / AAE",
+      "reverse_en": "lion (less careful drawing), MASSA / AAE"
     },
     {
       "id": "pl1-5",
       "part": 1,
       "plate": 1,
       "num": "5",
-      "fr": "Tête / Lion, MASSA ΑΗΠΙ",
-      "ru": "Голова / лев, MASSA ΑΗΠΙ",
-      "en": "Head / Lion, MASSA ΑΗΠΙ",
-      "page": "",
+      "fr": "Diane / Lion, MASSA ΑΗ",
+      "ru": "Диана / лев, MASSA ΑΗ",
+      "en": "Diana / Lion, MASSA ΑΗ",
+      "page": "26",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -198,26 +233,39 @@
         8.68
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête",
-      "obverse_ru": "голова",
-      "obverse_en": "head",
-      "reverse_fr": "lion passant, légende MASSA ΑΗΠΙ",
-      "reverse_ru": "идущий лев, легенда MASSA ΑΗΠΙ",
-      "reverse_en": "walking lion, legend MASSA ΑΗΠΙ"
+      "text_fr": [
+        "Le chiffre 5. présente encore le Buste de Diane ornée du diadême, avec l'épaule découverte, l'oreille décorée d'un Trident; la coiffure est à rézeau, & à cheveux courts; le collier est un simple ruban. Nos Citoyennes mettoient probablement autrefois autant d'inconstance dans leurs ajustemens de tête, qu'elles en mettent de nos jours; les Monétaires & les Graveurs copioient ces coiffures d'après le costume en vogue, lors de la refonte ou des nouveaux coins.",
+        "Le revers de cette Médaille, est un Lion, la gueule béante, avec les lettres MASSA, & au bas A, H en caracteres grecs; la contre-marque est différente des précédentes, & désigne un autre Monétaire."
+      ],
+      "text_ru": [
+        "Под номером 5 вновь представлен бюст Дианы с диадемой, с обнажённым плечом, ухо украшено трезубцем; причёска — сетчатая, с короткими волосами; ожерелье — простая лента. Наши гражданки, вероятно, в старину проявляли в уборах головы не меньше непостоянства, чем в наши дни; монетчики и гравёры копировали эти причёски с моды, бытовавшей во время перечеканки или изготовления новых штемпелей.",
+        "Оборот этой монеты — лев с раскрытой пастью, с буквами MASSA, а внизу — греческие буквы Α, Η; клеймо отличается от предыдущих и указывает на другого монетчика."
+      ],
+      "text_en": [
+        "The number 5 again shows the Bust of Diana adorned with the diadem, the shoulder bare, the ear decorated with a Trident; the hairstyle is in a net, with short hair; the necklace is a simple ribbon. Our Citizenesses probably once put as much inconstancy into their head-dressing as they do in our own day; the Moneyers and Engravers copied these hairstyles after the fashion in vogue at the time of a recoinage or new dies.",
+        "The reverse of this medal is a Lion, jaws open, with the letters MASSA, and below, the Greek letters Α, Η; the countermark differs from the preceding ones and denotes another moneyer."
+      ],
+      "motifs": [
+        "diana",
+        "trident",
+        "lion"
+      ],
+      "obverse_fr": "Diane, épaule découverte, coiffure à rézeau",
+      "obverse_ru": "Диана, обнажённое плечо, сетчатая причёска",
+      "obverse_en": "Diana, bare shoulder, netted hairstyle",
+      "reverse_fr": "lion, gueule béante, MASSA / ΑΗ",
+      "reverse_ru": "лев с открытой пастью, MASSA / ΑΗ",
+      "reverse_en": "lion with open jaws, MASSA / ΑΗ"
     },
     {
       "id": "pl1-6",
       "part": 1,
       "plate": 1,
       "num": "6",
-      "fr": "Tête (Β) / Lion (Β), MASSA ΛΗΤΟΝ",
-      "ru": "Голова (Β) / лев (Β), MASSA ΛΗΤΟΝ",
-      "en": "Head (Β) / Lion (Β), MASSA ΛΗΤΟΝ",
-      "page": "",
+      "fr": "Diane / Lion courroucé, MASSALIETON",
+      "ru": "Диана / разгневанный лев, MASSALIETON",
+      "en": "Diana / Enraged lion, MASSALIETON",
+      "page": "26",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -238,26 +286,35 @@
         8.85
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête, lettre Β",
-      "obverse_ru": "голова, буква Β",
-      "obverse_en": "head, letter Β",
-      "reverse_fr": "lion passant, lettre Β, légende MASSA ΛΗΤΟΝ",
-      "reverse_ru": "идущий лев, буква Β, легенда MASSA ΛΗΤΟΝ",
-      "reverse_en": "walking lion, letter Β, legend MASSA ΛΗΤΟΝ"
+      "text_fr": [
+        "Sous le numéro 6, est encore représenté le Buste de Diane, sans Boucles d'oreilles, avec le diadême; la coiffure est en tresses retroussées, nouées avec des rubans; une plume ou une palme semble sortir du carquois. Le Lion qui est au revers, est courroucé, la crinière hérissée; le mot MASSALIETON se lit tout au long; la contre-marque du Monétaire est un Beta, & au-dessous un Delta."
+      ],
+      "text_ru": [
+        "Под номером 6 снова представлен бюст Дианы без серёг, с диадемой; причёска — в заплетённых косах, подвязанных лентами; из колчана словно выходит перо или пальмовая ветвь. Лев на обороте разгневан, грива вздыблена; слово MASSALIETON читается полностью; клеймо монетчика — бета, а под ней — дельта."
+      ],
+      "text_en": [
+        "Under number 6 is again shown the Bust of Diana, without earrings, with the diadem; the hairstyle is in braids swept up, tied with ribbons; a feather or a palm seems to emerge from the quiver. The Lion on the reverse is enraged, its mane bristling; the word MASSALIETON is spelled out in full; the moneyer's countermark is a Beta, with a Delta below."
+      ],
+      "motifs": [
+        "diana",
+        "lion"
+      ],
+      "obverse_fr": "Diane, tresses nouées de rubans, sans boucles d'oreilles",
+      "obverse_ru": "Диана, косы, подвязанные лентами, без серёг",
+      "obverse_en": "Diana, braids tied with ribbons, no earrings",
+      "reverse_fr": "lion courroucé, crinière hérissée, MASSALIETON, Β/Δ",
+      "reverse_ru": "разгневанный лев, грива вздыблена, MASSALIETON, Β/Δ",
+      "reverse_en": "enraged lion, bristling mane, MASSALIETON, Β/Δ"
     },
     {
       "id": "pl1-7",
       "part": 1,
       "plate": 1,
       "num": "7",
-      "fr": "Tête / Lion, MASSA ΛΗΤΟΝ",
-      "ru": "Голова / лев, MASSA ΛΗΤΟΝ",
-      "en": "Head / Lion, MASSA ΛΗΤΟΝ",
-      "page": "",
+      "fr": "Diane (feuillage) / Lion, MASSALIETON",
+      "ru": "Диана (с листвой) / лев, MASSALIETON",
+      "en": "Diana (foliage) / Lion, MASSALIETON",
+      "page": "27",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -278,26 +335,35 @@
         8.26
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête",
-      "obverse_ru": "голова",
-      "obverse_en": "head",
-      "reverse_fr": "lion passant, légende MASSA ΛΗΤΟΝ",
-      "reverse_ru": "идущий лев, легенда MASSA ΛΗΤΟΝ",
-      "reverse_en": "walking lion, legend MASSA ΛΗΤΟΝ"
+      "text_fr": [
+        "Le Buste de Diane est encore dans la Médaille du numéro 7; ce qui la distingue de la premiere, c'est un ornement en feuillages, sur le côté de la coiffure, & des fleurs ou des fruits à l'endroit où les cheveux sont retroussés; même revers que la précédente."
+      ],
+      "text_ru": [
+        "Бюст Дианы представлен и на монете №7; от первой её отличает украшение в виде листвы сбоку причёски и цветы или плоды в том месте, где волосы собраны; оборот тот же, что и у предыдущей."
+      ],
+      "text_en": [
+        "The Bust of Diana appears again on the medal no. 7; what distinguishes it from the first is a leaf ornament on the side of the hairstyle, and flowers or fruit where the hair is gathered up; the same reverse as the preceding one."
+      ],
+      "motifs": [
+        "diana",
+        "lion"
+      ],
+      "obverse_fr": "Diane, ornement de feuillage et fleurs dans la coiffure",
+      "obverse_ru": "Диана, украшение из листвы и цветов в причёске",
+      "obverse_en": "Diana, leaf-and-flower ornament in the hairstyle",
+      "reverse_fr": "lion courroucé, MASSALIETON (comme n°. 6)",
+      "reverse_ru": "разгневанный лев, MASSALIETON (как №6)",
+      "reverse_en": "enraged lion, MASSALIETON (as no. 6)"
     },
     {
       "id": "pl1-8",
       "part": 1,
       "plate": 1,
       "num": "8",
-      "fr": "Tête / Lion, MASSA",
-      "ru": "Голова / лев, MASSA",
-      "en": "Head / Lion, MASSA",
-      "page": "",
+      "fr": "Diane (couronne d'olivier) / Lion, MASSA",
+      "ru": "Диана (оливковый венец) / лев, MASSA",
+      "en": "Diana (olive crown) / Lion, MASSA",
+      "page": "27",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -318,26 +384,39 @@
         6.98
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête, collier de perles",
-      "obverse_ru": "голова, жемчужное ожерелье",
-      "obverse_en": "head, pearl necklace",
-      "reverse_fr": "lion passant à gauche, légende MASSA",
-      "reverse_ru": "идущий влево лев, легенда MASSA",
-      "reverse_en": "lion walking left, legend MASSA"
+      "text_fr": [
+        "Ce chiffre offre une Médaille, où est représentée la tête de Diane, terminant simplement au col, la coiffure en rond, négligée & couronnée de branches d'olivier avec leur fruit. La Boucle d'oreille est à un seul pendant, au lieu que les autres sont à trois. Le revers, un Lion, & les lettres MASSA.",
+        "Cette couronne d'olivier étoit peut-être destinée, par nos Peres, à servir d'ornement de tête, à l'Effigie de la Divinité tutélaire de la République, empreinte sur les monnoies; lorsqu'après quelque expédition militaire, ou une guerre, on venoit de conclure la paix avec les peuples ennemis; ainsi trouvoient-ils à peu de frais, & par des moyens bien simples, l'art de perpétuer les événemens intéressans pour la Patrie."
+      ],
+      "text_ru": [
+        "Под этим числом — монета с головой Дианы, заканчивающейся просто у шеи; причёска округлая, небрежная, увенчана ветвями оливы с плодами. Серьга — с одной подвеской, тогда как на других — с тремя. Оборот — лев и буквы MASSA.",
+        "Этот оливковый венец наши предки, возможно, предназначали как украшение головы изображения покровительствующего божества Республики на монетах — чеканенных после военного похода или войны, когда только что был заключён мир с враждебными народами; так, с небольшими затратами и вполне простыми средствами, они находили способ увековечить события, важные для Отечества."
+      ],
+      "text_en": [
+        "This number shows a medal with the head of Diana, ending simply at the neck, the hairstyle round, loose, and crowned with olive branches and their fruit. The earring has a single drop, whereas the others have three. The reverse, a Lion, and the letters MASSA.",
+        "This olive crown was perhaps intended by our forefathers to adorn the head of the effigy of the Republic's tutelary Divinity on the coinage, struck after a military expedition, or a war, when peace had just been concluded with hostile peoples; thus they found, at little cost and by quite simple means, the art of perpetuating events of interest to the Homeland."
+      ],
+      "motifs": [
+        "diana",
+        "olive-crown",
+        "lion"
+      ],
+      "obverse_fr": "tête de Diane, couronne d'olivier, boucle d'oreille à un pendant",
+      "obverse_ru": "голова Дианы, оливковый венец, серьга с одной подвеской",
+      "obverse_en": "head of Diana, olive crown, single-drop earring",
+      "reverse_fr": "lion, MASSA",
+      "reverse_ru": "лев, MASSA",
+      "reverse_en": "lion, MASSA"
     },
     {
       "id": "pl1-9",
       "part": 1,
       "plate": 1,
       "num": "9",
-      "fr": "Tête casquée / Aigle, MASSA",
-      "ru": "Голова в шлеме / орёл, MASSA",
-      "en": "Helmeted head / Eagle, MASSA",
-      "page": "",
+      "fr": "Mars / Aigle, MASSA",
+      "ru": "Марс / орёл, MASSA",
+      "en": "Mars / Eagle, MASSA",
+      "page": "27",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -358,26 +437,35 @@
         5.88
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête casquée, lettre Β",
-      "obverse_ru": "голова в шлеме, буква Β",
-      "obverse_en": "helmeted head, letter Β",
-      "reverse_fr": "aigle debout, légende MASSA",
-      "reverse_ru": "стоящий орёл, легенда MASSA",
-      "reverse_en": "standing eagle, legend MASSA"
+      "text_fr": [
+        "La tête du Dieu Mars, ornée du casque, est représentée sur cette Médaille; le revers est une Aigle. Je crois qu'elle ne fut frappée qu'après la prise de Marseille par César; l'Aigle étant un signe caractéristique de la puissance Romaine. La contre-marque est une étoile: on y lit les lettres MASSA."
+      ],
+      "text_ru": [
+        "На этой монете изображена голова бога Марса в шлеме; оборот — орёл. Полагаю, что она была отчеканена лишь после взятия Марселя Цезарем, поскольку орёл — характерный знак римской власти. Клеймо — звезда; на ней читаются буквы MASSA."
+      ],
+      "text_en": [
+        "The head of the god Mars, helmeted, is shown on this medal; the reverse is an Eagle. I believe it was struck only after the capture of Marseille by Caesar, the Eagle being a characteristic sign of Roman power. The countermark is a star: the letters MASSA are read on it."
+      ],
+      "motifs": [
+        "mars",
+        "eagle"
+      ],
+      "obverse_fr": "tête de Mars casquée",
+      "obverse_ru": "голова Марса в шлеме",
+      "obverse_en": "helmeted head of Mars",
+      "reverse_fr": "aigle, contre-marque étoile, MASSA",
+      "reverse_ru": "орёл, клеймо — звезда, MASSA",
+      "reverse_en": "eagle, star countermark, MASSA"
     },
     {
       "id": "pl1-10",
       "part": 1,
       "plate": 1,
       "num": "10",
-      "fr": "Tête / Lion, Α ΑΛ",
-      "ru": "Голова / лев, Α ΑΛ",
-      "en": "Head / Lion, Α ΑΛ",
-      "page": "",
+      "fr": "Diane / Lion, Α ΛΛ",
+      "ru": "Диана / лев, Α ΛΛ",
+      "en": "Diana / Lion, Α ΛΛ",
+      "page": "27",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -398,26 +486,35 @@
         7.71
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête",
-      "obverse_ru": "голова",
-      "obverse_en": "head",
-      "reverse_fr": "lion (gueule ouverte), lettres Α ΑΛ",
-      "reverse_ru": "лев (с открытой пастью), буквы Α ΑΛ",
-      "reverse_en": "lion (open jaw), letters Α ΑΛ"
+      "text_fr": [
+        "Le Buste de Diane représenté dans cette Médaille, ne différe en rien de celui du numéro 2, si ce n'est par les plis de la robe sur le sein; le revers est un Lion, la patte gauche levée. La différence la plus sensible de cette Médaille, est qu'elle ne porte nulle part le nom de Marseille; il y a seulement dans le champ, la lettre A, & au bas, deux Lambda."
+      ],
+      "text_ru": [
+        "Бюст Дианы на этой монете ничем не отличается от бюста на монете №2, кроме складок одежды на груди; оборот — лев с поднятой левой лапой. Наиболее заметное отличие этой монеты в том, что нигде на ней нет имени Марселя; в поле есть только буква Α, а внизу — две буквы Λ."
+      ],
+      "text_en": [
+        "The Bust of Diana shown on this medal does not differ at all from that of no. 2, except for the folds of drapery on the chest; the reverse is a Lion with its left paw raised. The most noticeable difference of this medal is that it bears the name of Marseille nowhere; there is only the letter Α in the field, and below, two Lambdas."
+      ],
+      "motifs": [
+        "diana",
+        "lion"
+      ],
+      "obverse_fr": "Diane (comme n°. 2), plis de robe sur le sein",
+      "obverse_ru": "Диана (как №2), складки одежды на груди",
+      "obverse_en": "Diana (as no. 2), drapery folds on the chest",
+      "reverse_fr": "lion, patte gauche levée, Α / ΛΛ (sans le nom de Marseille)",
+      "reverse_ru": "лев с поднятой левой лапой, Α / ΛΛ (без имени Марселя)",
+      "reverse_en": "lion, left paw raised, Α / ΛΛ (no name of Marseille)"
     },
     {
       "id": "pl1-11",
       "part": 1,
       "plate": 1,
       "num": "11",
-      "fr": "Tête / Lion, MASSA ΤΑΛ",
-      "ru": "Голова / лев, MASSA ΤΑΛ",
-      "en": "Head / Lion, MASSA ΤΑΛ",
-      "page": "",
+      "fr": "Diane / Lion, MASSA TAA",
+      "ru": "Диана / лев, MASSA TAA",
+      "en": "Diana / Lion, MASSA TAA",
+      "page": "28",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -438,35 +535,44 @@
         7.95
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête, lettre Λ",
-      "obverse_ru": "голова, буква Λ",
-      "obverse_en": "head, letter Λ",
-      "reverse_fr": "lion passant, légende MASSA ΤΑΛ",
-      "reverse_ru": "идущий лев, легенда MASSA ΤΑΛ",
-      "reverse_en": "walking lion, legend MASSA ΤΑΛ"
+      "text_fr": [
+        "Médaille semblable à la précédente; le revers varie, par les lettres MASSA au haut, & en bas, TAA."
+      ],
+      "text_ru": [
+        "Монета, схожая с предыдущей; оборот отличается буквами MASSA вверху и ТАА внизу."
+      ],
+      "text_en": [
+        "A medal similar to the preceding one; the reverse differs, with the letters MASSA at the top, and TAA at the bottom."
+      ],
+      "motifs": [
+        "diana",
+        "lion"
+      ],
+      "obverse_fr": "Diane (comme n°. 10)",
+      "obverse_ru": "Диана (как №10)",
+      "obverse_en": "Diana (as no. 10)",
+      "reverse_fr": "lion, MASSA / TAA",
+      "reverse_ru": "лев, MASSA / TAA",
+      "reverse_en": "lion, MASSA / TAA"
     },
     {
       "id": "pl1-12",
       "part": 1,
       "plate": 1,
       "num": "12",
-      "fr": "Tête / Taureau, ΜΑ",
-      "ru": "Голова / бык, ΜΑ",
-      "en": "Head / Bull, ΜΑ",
-      "page": "",
+      "fr": "Apollon / Taureau, MA",
+      "ru": "Аполлон / бык, MA",
+      "en": "Apollo / Bull, MA",
+      "page": "28",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
       "group_page": "24",
       "flag": "",
       "type": "medal",
-      "material_fr": "",
-      "material_ru": "",
-      "material_en": "",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
       "img": [
         "pl1-12.jpg"
       ],
@@ -478,26 +584,35 @@
         9.09
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête laurée",
-      "obverse_ru": "голова в лавровом венке",
-      "obverse_en": "laureate head",
-      "reverse_fr": "taureau passant, légende ΜΑ",
-      "reverse_ru": "идущий бык, легенда ΜΑ",
-      "reverse_en": "walking bull, legend ΜΑ"
+      "text_fr": [
+        "Cette Médaille est assurément des beaux siècles de la République de Marseille; la correction du Dessein, & la netteté l'annoncent. Elle avoit été en mon pouvoir; on la trouve communément en bronze. La tête d'Apollon y est représentée sous la figure d'un Jeune-homme, qui annonce la douceur dans tous ses traits; ce qui est bien propre à caractériser la divinité des Arts, & l'aménité que les connoissances procurent: le revers est un Taureau menaçant, avec ces deux lettres MA. Le Taureau fut également une des Enseignes Marseilloises; c'est ce qui donna lieu au nom de Tauroentum, Colonie Marseilloise, placée entre Toulon & la Ciotat, dont on voit encore les vestiges."
+      ],
+      "text_ru": [
+        "Эта монета, безусловно, относится к прекрасным векам Марсельской Республики; об этом говорят правильность рисунка и чёткость чеканки. Она была в моём собрании; обычно такие монеты встречаются в бронзе. На ней изображена голова Аполлона в облике юноши, черты которого выражают мягкость, — что хорошо подходит для характеристики божества Искусств и той приветливости, которую дают знания; оборот — угрожающий бык с двумя буквами MA. Бык также был одной из марсельских эмблем; отсюда произошло название Тауроэнтум — марсельская колония между Тулоном и Сьота, следы которой видны и поныне."
+      ],
+      "text_en": [
+        "This medal certainly belongs to the fine centuries of the Republic of Marseille; the correctness of the design and its clarity announce it. It had been in my possession; such medals are commonly found in bronze. The head of Apollo is shown on it in the guise of a Young man, whose features announce gentleness throughout, which is well suited to characterize the divinity of the Arts, and the amenity that knowledge provides: the reverse is a threatening Bull, with the two letters MA. The Bull was also one of the Marseillois emblems; this gave rise to the name Tauroentum, a Marseillois Colony, situated between Toulon and la Ciotat, whose remains can still be seen."
+      ],
+      "motifs": [
+        "apollo",
+        "bull"
+      ],
+      "obverse_fr": "tête d'Apollon (jeune homme)",
+      "obverse_ru": "голова Аполлона (в облике юноши)",
+      "obverse_en": "head of Apollo (as a young man)",
+      "reverse_fr": "taureau menaçant, MA",
+      "reverse_ru": "угрожающий бык, MA",
+      "reverse_en": "threatening bull, MA"
     },
     {
       "id": "pl1-13",
       "part": 1,
       "plate": 1,
       "num": "13",
-      "fr": "Tête / Lion, MASSA",
-      "ru": "Голова / лев, MASSA",
-      "en": "Head / Lion, MASSA",
-      "page": "",
+      "fr": "Diane (javelot) / Lion, MASSA",
+      "ru": "Диана (с дротиком) / лев, MASSA",
+      "en": "Diana (javelin) / Lion, MASSA",
+      "page": "28",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -518,26 +633,36 @@
         8.02
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête, collier",
-      "obverse_ru": "голова, ожерелье",
-      "obverse_en": "head, necklace",
-      "reverse_fr": "lion passant, légende MASSA",
-      "reverse_ru": "идущий лев, легенда MASSA",
-      "reverse_en": "walking lion, legend MASSA"
+      "text_fr": [
+        "Le Buste de Diane est représenté dans cette Médaille; le revers est un Lion, avec les lettres MASSA: la différence de cette Médaille d'avec les autres, c'est qu'au lieu de carquois & de l'arc, la Déesse porte sur l'épaule le Javelot."
+      ],
+      "text_ru": [
+        "На этой монете изображён бюст Дианы; оборот — лев с буквами MASSA; отличие этой монеты от прочих в том, что вместо колчана и лука богиня несёт на плече дротик."
+      ],
+      "text_en": [
+        "The Bust of Diana is shown on this medal; the reverse is a Lion, with the letters MASSA: this medal differs from the others in that, instead of the quiver and bow, the Goddess carries a Javelin on her shoulder."
+      ],
+      "motifs": [
+        "diana",
+        "javelin",
+        "lion"
+      ],
+      "obverse_fr": "Diane, javelot sur l'épaule (au lieu du carquois)",
+      "obverse_ru": "Диана, дротик на плече (вместо колчана)",
+      "obverse_en": "Diana, javelin on shoulder (instead of quiver)",
+      "reverse_fr": "lion, MASSA",
+      "reverse_ru": "лев, MASSA",
+      "reverse_en": "lion, MASSA"
     },
     {
       "id": "pl1-14",
       "part": 1,
       "plate": 1,
       "num": "14",
-      "fr": "Tête / Lion, MASSA",
-      "ru": "Голова / лев, MASSA",
-      "en": "Head / Lion, MASSA",
-      "page": "",
+      "fr": "Diane (double couronne) / Lion, MASSA",
+      "ru": "Диана (двойной венец) / лев, MASSA",
+      "en": "Diana (double crown) / Lion, MASSA",
+      "page": "28",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -558,26 +683,37 @@
         9.06
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête",
-      "obverse_ru": "голова",
-      "obverse_en": "head",
-      "reverse_fr": "lion passant (tête retournée), légende MASSA",
-      "reverse_ru": "идущий лев (голова повёрнута назад), легенда MASSA",
-      "reverse_en": "walking lion (head turned back), legend MASSA"
+      "text_fr": [
+        "Tête de Diane, ornée d'une double couronne d'olivier, un Trident pour Boucle d'oreille. Cet emblême me paroît signifier la navigation assurée par la paix; le revers est un Lion, & l'abréviation, MASSA."
+      ],
+      "text_ru": [
+        "Голова Дианы, украшенная двойным венцом из оливы, трезубец служит серьгой. Эта эмблема, как мне кажется, означает мореплавание, обеспеченное миром; оборот — лев и сокращение MASSA."
+      ],
+      "text_en": [
+        "Head of Diana, adorned with a double olive crown, a Trident serving as earring. This emblem seems to me to signify navigation made safe by peace; the reverse is a Lion, and the abbreviation MASSA."
+      ],
+      "motifs": [
+        "diana",
+        "trident",
+        "olive-crown",
+        "lion"
+      ],
+      "obverse_fr": "Diane, double couronne d'olivier, trident en boucle d'oreille",
+      "obverse_ru": "Диана, двойной оливковый венец, трезубец-серьга",
+      "obverse_en": "Diana, double olive crown, trident earring",
+      "reverse_fr": "lion, MASSA",
+      "reverse_ru": "лев, MASSA",
+      "reverse_en": "lion, MASSA"
     },
     {
       "id": "pl1-15",
       "part": 1,
       "plate": 1,
       "num": "15",
-      "fr": "Tête / Roue à quatre rayons, ΜΙΡ",
-      "ru": "Голова / колесо на четыре спицы, ΜΙΡ",
-      "en": "Head / Four-spoked wheel, ΜΙΡ",
-      "page": "",
+      "fr": "Tête de jeune homme / Croix, MA",
+      "ru": "Голова юноши / крест, MA",
+      "en": "Head of a young man / Cross, MA",
+      "page": "29",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -598,26 +734,34 @@
         5.15
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête, collier de perles",
-      "obverse_ru": "голова, жемчужное ожерелье",
-      "obverse_en": "head, pearl necklace",
-      "reverse_fr": "roue (bouclier?) à quatre rayons dans un cercle, lettres ΜΙΡ",
-      "reverse_ru": "колесо (щит?) на четыре спицы в круге, буквы ΜΙΡ",
-      "reverse_en": "four-spoked wheel (shield?) in a circle, letters ΜΙΡ"
+      "text_fr": [
+        "Tête d'un Jeune-homme, au revers d'une Croix, avec les lettres MA. Cette Médaille n'est pas rare; elle doit être des premiers siècles de l'Eglise, la Croix, dans les Médailles Marseilloises, ne pouvant guère s'interpréter autrement."
+      ],
+      "text_ru": [
+        "Голова юноши, на обороте — крест с буквами MA. Эта монета не редкость; она должна относиться к первым векам Церкви, поскольку крест на марсельских монетах едва ли можно истолковать иначе."
+      ],
+      "text_en": [
+        "Head of a Young man, with a Cross on the reverse, with the letters MA. This medal is not rare; it must belong to the early centuries of the Church, the Cross on Marseillois medals hardly being open to any other interpretation."
+      ],
+      "motifs": [
+        "cross"
+      ],
+      "obverse_fr": "tête de jeune homme",
+      "obverse_ru": "голова юноши",
+      "obverse_en": "head of a young man",
+      "reverse_fr": "croix, MA",
+      "reverse_ru": "крест, MA",
+      "reverse_en": "cross, MA"
     },
     {
       "id": "pl1-16",
       "part": 1,
       "plate": 1,
       "num": "16",
-      "fr": "Tête / Roue à quatre rayons, Μ",
-      "ru": "Голова / колесо на четыре спицы, Μ",
-      "en": "Head / Four-spoked wheel, Μ",
-      "page": "",
+      "fr": "Diane (laurier) / Croix, MASSA / M",
+      "ru": "Диана (с лавром) / крест, MASSA / M",
+      "en": "Diana (laurel) / Cross, MASSA / M",
+      "page": "29",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -638,26 +782,36 @@
         5.05
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête",
-      "obverse_ru": "голова",
-      "obverse_en": "head",
-      "reverse_fr": "roue (bouclier?) à quatre rayons dans un cercle, lettre Μ",
-      "reverse_ru": "колесо (щит?) на четыре спицы в круге, буква Μ",
-      "reverse_en": "four-spoked wheel (shield?) in a circle, letter Μ"
+      "text_fr": [
+        "Tête de Diane, couronnée d'un Laurier, avec l'abréviation MASSA, & au revers, une Croix, avec la lettre M. Ce mélange d'Idolâtrie, & du signe de notre salut, ne peut-il pas être regardé comme une preuve de ce que j'ai avancé dans le Discours préliminaire, que les deux Religions avoient eu pendant quelque temps un libre exercice promiscuement dans Marseille. Le Gouvernement étant peut-être mi-parti de Payens & de Chrétiens, qui exerçoient les charges publiques, on mettoit par esprit de conciliation, les marques des deux croyances sur les monnoies, afin d'éviter des contestations."
+      ],
+      "text_ru": [
+        "Голова Дианы, увенчанная лавром, с сокращением MASSA, а на обороте — крест с буквой M. Не может ли это смешение язычества и знака нашего спасения служить доказательством того, что я утверждал во вступительном рассуждении: обе религии некоторое время свободно и совместно исповедовались в Марселе. Власть, возможно, была поровну поделена между язычниками и христианами, занимавшими общественные должности, и ради примирения на монетах помещали знаки обеих вер, чтобы избежать раздоров."
+      ],
+      "text_en": [
+        "Head of Diana, crowned with a Laurel, with the abbreviation MASSA, and on the reverse, a Cross, with the letter M. May this mixture of Idolatry and the sign of our salvation not be regarded as proof of what I put forward in the Preliminary Discourse, that the two Religions had for some time a free, intermingled practice in Marseille. The Government being perhaps shared between Pagans and Christians, who held public office, the marks of both beliefs were placed on the coinage out of a spirit of conciliation, so as to avoid disputes."
+      ],
+      "motifs": [
+        "diana",
+        "laurel-crown",
+        "cross"
+      ],
+      "obverse_fr": "Diane, couronne de laurier, MASSA",
+      "obverse_ru": "Диана, лавровый венец, MASSA",
+      "obverse_en": "Diana, laurel crown, MASSA",
+      "reverse_fr": "croix, M",
+      "reverse_ru": "крест, M",
+      "reverse_en": "cross, M"
     },
     {
       "id": "pl1-17",
       "part": 1,
       "plate": 1,
       "num": "17",
-      "fr": "Tête, ΓΑΡΓΑΝΟΥ / Quadrilobe",
-      "ru": "Голова, ΓΑΡΓΑΝΟΥ / четырёхлистник",
-      "en": "Head, ΓΑΡΓΑΝΟΥ / Quatrefoil",
-      "page": "",
+      "fr": "Tête, LACYDON / Croix (de Malte), MA",
+      "ru": "Голова, ЛАКИДОН / крест (мальтийского типа), MA",
+      "en": "Head, LACYDON / Cross (Maltese-style), MA",
+      "page": "29",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -678,26 +832,37 @@
         5.15
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête, légende ΓΑΡΓΑΝΟΥ",
-      "obverse_ru": "голова, легенда ΓΑΡΓΑΝΟΥ",
-      "obverse_en": "head, legend ΓΑΡΓΑΝΟΥ",
-      "reverse_fr": "ornement en forme de quatrefeuille (croix) dans un cercle",
-      "reverse_ru": "орнамент в виде четырёхлистника (креста) в круге",
-      "reverse_en": "quatrefoil (cross) ornament in a circle"
+      "text_fr": [
+        "Tête de Jeune-homme, sans aucune marque qui puisse désigner si c'est une Divinité, avec ce mot grec: LACYDON. Pomponius Mela, dans sa description de la Gaule Narbonnoise, nomme le Port de Marseille de ce nom: Tunc post Athenopolis, & Olbia, & Taurois, & Citharistes, & Lacydon, Massiliensium Portus, & in eo ipsa Massilia.",
+        "Lacydes, Philosophe Cyrénéen, fut le Fondateur de la nouvelle Académie, selon Suidas. Il vivoit 215 ans avant J.C. il donnoit ses leçons dans les Jardins d'Attale, Roi de Pergame, qui furent nommés pour cette raison, Lacydium, comme ceux d'Academus, où Platon enseigna, donnerent naissance au nom d'Académie. Ne seroit-ce pas parce que le Lycée Marseillois étoit désigné par le nom de Lacydium, que cette Ville mettoit ce mot sur ses monnoies, pour désigner sa célèbre Académie? Le revers est une Croix épatée à huit pointes, comme celle de Malte, avec les lettres MA. Marseille, quoique devenue Chrétienne, avoit encore conservé long-temps cet établissement. Les premiers Ecrivains Ecclésiastiques attestent ce fait."
+      ],
+      "text_ru": [
+        "Голова юноши, без каких-либо признаков, позволяющих определить, божество ли это, с греческим словом ЛАКИДОН. Помпоний Мела в своём описании Нарбоннской Галлии называет этим именем порт Марселя: «Затем после Афенополиса, и Ольбии, и Тавроиса, и Цитаристы, и Лакидона — порт марсельцев, а в нём и сама Массалия».",
+        "Лакид, философ из Кирены, был, по свидетельству Суды, основателем Новой Академии. Он жил за 215 лет до Р.Х.; свои уроки он давал в садах Аттала, царя Пергама, которые по этой причине были названы Лакидиум, подобно тому как сады Академа, где учил Платон, дали начало слову «академия». Не потому ли, что марсельский Ликей именовался Лакидиум, этот Город помещал это слово на своих монетах, чтобы обозначить свою знаменитую Академию? Оборот — восьмиконечный крест с расширяющимися концами, подобный мальтийскому, с буквами MA. Марсель, хотя и стал христианским, долгое время ещё сохранял это учреждение. Первые церковные писатели свидетельствуют об этом факте."
+      ],
+      "text_en": [
+        "Head of a Young man, with no mark that might indicate whether it is a Divinity, with this Greek word: LACYDON. Pomponius Mela, in his description of Narbonensian Gaul, names the Port of Marseille by this name: Tunc post Athenopolis, & Olbia, & Taurois, & Citharistes, & Lacydon, Massiliensium Portus, & in eo ipsa Massilia.",
+        "Lacydes, a Cyrenean Philosopher, was the Founder of the New Academy, according to Suidas. He lived 215 years before Christ; he gave his lessons in the Gardens of Attalus, King of Pergamum, which were for this reason named Lacydium, just as those of Academus, where Plato taught, gave rise to the name Academy. Might it not be because the Marseillois Lyceum was designated by the name Lacydium, that this City placed this word on its coinage, to denote its famous Academy? The reverse is an eight-pointed cross pattée, like that of Malta, with the letters MA. Marseille, although it had become Christian, had still long preserved this institution. The earliest Ecclesiastical Writers attest to this fact."
+      ],
+      "motifs": [
+        "cross"
+      ],
+      "obverse_fr": "tête de jeune homme, légende ΛΑΚΥΔΩΝ",
+      "obverse_ru": "голова юноши, легенда ΛΑΚΥΔΩΝ (Лакидон)",
+      "obverse_en": "head of a young man, legend ΛΑΚΥΔΩΝ (Lacydon)",
+      "reverse_fr": "croix pattée à huit pointes (comme celle de Malte), MA",
+      "reverse_ru": "восьмиконечный крест с расширяющимися концами (мальтийского типа), MA",
+      "reverse_en": "eight-pointed cross pattée (Maltese-style), MA"
     },
     {
       "id": "pl1-18",
       "part": 1,
       "plate": 1,
       "num": "18",
-      "fr": "Tête / Croix dans un cercle, ΑΙ ΑΝ",
-      "ru": "Голова / крест в круге, ΑΙ ΑΝ",
-      "en": "Head / Cross in a circle, ΑΙ ΑΝ",
-      "page": "",
+      "fr": "Diane (diadème) / Croix, MA",
+      "ru": "Диана (с диадемой) / крест, MA",
+      "en": "Diana (diadem) / Cross, MA",
+      "page": "30",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -718,26 +883,36 @@
         6.15
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête, lettre Γ",
-      "obverse_ru": "голова, буква Γ",
-      "obverse_en": "head, letter Γ",
-      "reverse_fr": "croix (bouclier) dans un cercle, lettres ΑΙ ΑΝ",
-      "reverse_ru": "крест (щит) в круге, буквы ΑΙ ΑΝ",
-      "reverse_en": "cross (shield) in a circle, letters ΑΙ ΑΝ"
+      "text_fr": [
+        "La tête de Diane est ornée du Diadême, dans la Médaille représentée sous le numéro 18; le revers est une Croix, avec les lettres MA. Le Diadême qui est sur la tête de Diane dans cette Médaille, prouve que Marseille jouissoit encore du droit de souveraineté après la prise de cette Ville par César, puisqu'elle en prenoit encore long-temps après les marques, lors de l'établissement du Christianisme."
+      ],
+      "text_ru": [
+        "Голова Дианы украшена диадемой на монете под номером 18; оборот — крест с буквами MA. Диадема на голове Дианы на этой монете доказывает, что Марсель ещё пользовался правом суверенитета после взятия этого города Цезарем, поскольку его знаки сохранялись ещё долго, вплоть до утверждения христианства."
+      ],
+      "text_en": [
+        "The head of Diana is adorned with the Diadem on the medal shown under number 18; the reverse is a Cross, with the letters MA. The Diadem on Diana's head in this medal proves that Marseille still enjoyed the right of sovereignty after the capture of this City by Caesar, since it still bore its marks long after, at the time of the establishment of Christianity."
+      ],
+      "motifs": [
+        "diana",
+        "diadem",
+        "cross"
+      ],
+      "obverse_fr": "Diane, diadème",
+      "obverse_ru": "Диана, диадема",
+      "obverse_en": "Diana, diadem",
+      "reverse_fr": "croix, MA",
+      "reverse_ru": "крест, MA",
+      "reverse_en": "cross, MA"
     },
     {
       "id": "pl1-19",
       "part": 1,
       "plate": 1,
       "num": "19",
-      "fr": "Tête / Lion (petit module), MASSA",
-      "ru": "Голова / лев (малый модуль), MASSA",
-      "en": "Head / Lion (small module), MASSA",
-      "page": "",
+      "fr": "Tête (turban) / Taureau, MASSA",
+      "ru": "Голова (в тюрбане) / бык, MASSA",
+      "en": "Head (turban) / Bull, MASSA",
+      "page": "30",
       "group": "I",
       "group_fr": "Planche I",
       "group_en": "I",
@@ -758,16 +933,28 @@
         4.94
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "motifs": [],
-      "obverse_fr": "tête",
-      "obverse_ru": "голова",
-      "obverse_en": "head",
-      "reverse_fr": "petit lion passant, légende MASSA",
-      "reverse_ru": "маленький идущий лев, легенда MASSA",
-      "reverse_en": "small walking lion, legend MASSA"
+      "text_fr": [
+        "La derniere Médaille, sous le numéro 19, représente la tête d'un Homme, avec la coiffure en bonnet, ressemblant à un Turban. Cette coiffure orientale, n'étoit donnée à aucune divinité; & il est bien difficile de poser quelque certitude sur cette figure. Des Antiquaires que j'ai consultés, ont cru que c'étoit la figure & la coiffure d'un Magistrat: cette opinion m'a paru susceptible de difficultés.",
+        "Le revers de cette Médaille est un Taureau menaçant, avec les lettres MASSA."
+      ],
+      "text_ru": [
+        "Последняя монета, под номером 19, изображает голову Мужчины в уборе наподобие тюрбана. Этот восточный убор не придавался ни одному божеству; и установить что-либо достоверное об этом изображении весьма затруднительно. Антиквары, с которыми я советовался, полагали, что это облик и убор Магистрата; это мнение показалось мне небесспорным.",
+        "Оборот этой монеты — угрожающий бык с буквами MASSA."
+      ],
+      "text_en": [
+        "The last medal, under number 19, shows the head of a Man, with a headdress like a Turban. This oriental headdress was given to no divinity; and it is quite difficult to establish any certainty about this figure. Antiquarians whom I consulted believed it to be the figure and headdress of a Magistrate: this opinion seemed to me open to difficulties.",
+        "The reverse of this medal is a threatening Bull, with the letters MASSA."
+      ],
+      "motifs": [
+        "turban",
+        "bull"
+      ],
+      "obverse_fr": "tête d'homme, coiffure en turban",
+      "obverse_ru": "голова мужчины, убор в виде тюрбана",
+      "obverse_en": "head of a man, turban-like headdress",
+      "reverse_fr": "taureau menaçant, MASSA",
+      "reverse_ru": "угрожающий бык, MASSA",
+      "reverse_en": "threatening bull, MASSA"
     }
   ]
 }
