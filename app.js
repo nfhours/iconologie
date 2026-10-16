@@ -5,7 +5,7 @@
   // Бампать при каждой правке app.css (и, по желанию, когда меняется логика
   // в app.js, завязанная на новую разметку), чтобы браузеры и CDN не отдавали
   // старую закэшированную копию стилей после деплоя.
-  var APP_VER = "19";
+  var APP_VER = "20";
   var me = document.currentScript;
   var BASE = (me && me.src) ? me.src.replace(/[^\/]*$/, "") : "./";
   var root = document.getElementById("iconologie");
@@ -650,6 +650,8 @@
      opts.focus — id предмета: раскрыть, прокрутить и подсветить на гравюре
      (так адрес вида #/grosson/pl1-3 попадает в нужное место таблицы). */
   function objectDetailHtml(book, it){
+    var imgSrc = BASE+"books/"+book.slug+"/img/"+((it.img&&it.img[0])||"");
+    var imgHtml = it.img && it.img[0] ? '<img class="ic-obj-img" src="'+esc(imgSrc)+'" alt="">' : "";
     var fieldsHtml = "";
     if(book.meta.fields){
       Object.keys(book.meta.fields).forEach(function(key){
@@ -664,9 +666,10 @@
     var hasScans = it.scans && it.scans.length;
     var hasFr = it.text_fr && it.text_fr.length;
     if(!fieldsHtml && !transl){
-      return '<div class="ic-missing"><b>'+t("missing")+'</b></div>';
+      return imgHtml+'<div class="ic-missing"><b>'+t("missing")+'</b></div>';
     }
-    return (fieldsHtml?'<section class="ic-sec"><h3>'+t("infoSec")+'</h3><ul class="ic-attrs">'+fieldsHtml+'</ul></section>':"")+
+    return imgHtml+
+      (fieldsHtml?'<section class="ic-sec"><h3>'+t("infoSec")+'</h3><ul class="ic-attrs">'+fieldsHtml+'</ul></section>':"")+
       (transl?'<section class="ic-sec"><h3>'+t("translSec")+'</h3><div class="ic-text">'+transl+'</div></section>':"")+
       ((hasScans||hasFr)?renderOriginal(it):"");
   }
@@ -679,11 +682,9 @@
   }
   function objListHtml(book, objs){
     return '<ul class="ic-objlist">'+objs.map(function(it){
-      var thumbSrc = BASE+"books/"+book.slug+"/img/"+((it.img&&it.img[0])||"");
       return '<li class="ic-obj" data-id="'+it.id+'">'+
         '<details class="ic-obj-d">'+
           '<summary class="ic-obj-sum">'+
-            '<img class="ic-obj-thumb" loading="lazy" src="'+esc(thumbSrc)+'" alt="">'+
             '<span class="ic-obj-num">'+esc(it.num||"")+'</span>'+
             '<span class="ic-obj-name">'+esc(titleOf(it))+'</span>'+
             '<span class="ic-obj-dot'+(ready(it,book)?" on":"")+'"></span>'+
@@ -745,7 +746,6 @@
     var it = objs[idx];
     var d = document.createElement("div");
     d.className = "ic ic-sheet";
-    var thumbSrc = BASE+"books/"+book.slug+"/img/"+((it.img&&it.img[0])||"");
     d.innerHTML =
       '<div class="ic-sheet-backdrop"></div>'+
       '<div class="ic-sheet-panel" role="dialog" aria-label="'+esc(titleOf(it))+'">'+
@@ -755,7 +755,7 @@
           '<button type="button" class="ic-sheet-next" aria-label="'+esc(t("nextArticle"))+'"'+(idx===objs.length-1?" disabled":"")+'>›</button>'+
           '<button type="button" class="ic-sheet-close" aria-label="'+esc(t("close"))+'">×</button>'+
         '</div>'+
-        '<div class="ic-sheet-body"><img class="ic-sheet-img" src="'+esc(thumbSrc)+'" alt=""></div>'+
+        '<div class="ic-sheet-body"></div>'+
       '</div>';
     document.body.appendChild(d);
     lockBodyScroll();

@@ -111,16 +111,16 @@
 .ic-objlist{list-style:none;margin-top:26px}
 .ic-obj{border-bottom:1px solid var(--rule)}
 .ic-obj-d{padding:0}
-.ic-obj-sum{display:grid;grid-template-columns:5.2rem auto 1fr 10px;gap:12px;align-items:center;
+.ic-obj-sum{display:grid;grid-template-columns:auto 1fr 10px;gap:12px;align-items:center;
   padding:10px 2px;cursor:pointer;list-style:none}
 .ic-obj-sum::-webkit-details-marker{display:none}
 .ic-obj-sum:hover{background:var(--sheet)}
-.ic-obj-thumb{width:5.2rem;height:2.6rem;object-fit:contain;border:1px solid var(--rule);border-radius:4px;background:var(--sheet)}
 .ic-obj-num{font-family:var(--old);color:var(--accent);font-size:1.1em;text-align:right}
 .ic-obj-name{font-size:.96em;line-height:1.35}
 .ic-obj-dot{width:9px;height:9px;border-radius:50%;border:1.5px solid var(--rule);justify-self:end}
 .ic-obj-dot.on{background:var(--ready);border-color:var(--ready)}
 .ic-obj-body{padding:4px 2px 22px}
+.ic-obj-img{border:1px solid var(--rule);border-radius:4px;background:var(--sheet);margin:0 auto 6px;max-height:40vh;object-fit:contain}
 
 /* мобильная панель снизу для предмета, открытого с гравюры.
    Заголовок — обычный flex-блок, а не position:sticky: внутри
@@ -145,7 +145,6 @@
 .ic-sheet-prev:disabled,.ic-sheet-next:disabled{opacity:.35;cursor:default}
 .ic-sheet-body{flex:1 1 auto;overflow-y:auto;-webkit-overflow-scrolling:touch;
   padding:16px 16px calc(28px + env(safe-area-inset-bottom))}
-.ic-sheet-img{border:1px solid var(--rule);border-radius:4px;margin:0 auto 6px}
 
 /* карточка статьи */
 .ic-nav{position:sticky;top:var(--top);z-index:4;background:var(--paper);display:flex;flex-wrap:wrap;align-items:center;gap:10px;
@@ -231,8 +230,7 @@
   .ic-nav-pos{order:3;margin-left:0;flex:1 0 100%}
   .ic-plate-row{grid-template-columns:4.4rem 1fr;gap:12px}
   .ic-plate-thumb{width:4.4rem;height:4.4rem}
-  .ic-obj-sum{grid-template-columns:4.2rem auto 1fr 8px;gap:8px}
-  .ic-obj-thumb{width:4.2rem;height:2.1rem}
+  .ic-obj-sum{grid-template-columns:auto 1fr 8px;gap:8px}
 }
 @media (prefers-reduced-motion:no-preference){
   .ic-row-item{transition:background .15s}
