@@ -10343,12 +10343,65 @@
       "group_fr": "Les quatre Aages",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-37.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Общий вводный текст (без собственного медальона) об учениях разных авторов о числе возрастов человеческой жизни; на иллюстрации — общий вид страницы с четырьмя медальонами Золотого, Серебряного, Бронзового и Железного веков",
+          "meaning": "Разные школы делят жизнь на 3, 4, 5, 6 или 7 возрастов; принятое автором деление на четыре (Отрочество, Юность, Мужество, Старость) согласуется с учением Галена; семичастное деление связывает возрасты с семью планетами",
+          "what_en": "A general introductory text (without its own roundel) surveying various authors' theories on the number of ages of human life; the illustration shows the full page with the four roundels of the Golden, Silver, Bronze and Iron Ages",
+          "meaning_en": "Different schools divide life into 3, 4, 5, 6 or 7 ages; the author's adopted fourfold division (Adolescence, Youth, Manhood, Old Age) follows Galen's teaching; the sevenfold division links the ages to the seven planets"
+        }
+      ],
+      "text_ru": [
+        "Возрасты были по-разному разделены различными Авторами; одни насчитывали лишь три, другие — четыре, пять, шесть и семь. Но как бы то ни было, если мы хорошенько рассмотрим эти мнения, то обнаружим, что они вовсе не разнятся между собою.",
+        "Мнение древних Философов было таково, что возрастов лишь три: поскольку они рассматривали человека как вещь естественную, имеющую, по свидетельству Аристотеля, своё начало, середину и конец. По каковой причине они полагали началом Отрочество, серединой — Юность, а концом — Старость.",
+        "Второе, самое распространённое из всех мнение, принадлежит Гиппократу, Галену, Авиценне, и именно его мы разделяем вместе с ними. Оно делит возраст на четыре части: Отрочество, Юность, Мужество и Старость, которые Гален определяет так.",
+        "Отрочество — это возраст, в котором тело растёт, поскольку тогда теплота и влага обретают силу и крепость.",
+        "Юность — цвет возраста, названная так от латинского глагола Iuvare, что значит «помогать», ибо в эту пору человек, уже закончив расти, способен помогать другим.",
+        "Возраст мужества — тот, в коем человек пребывает в своей силе, и в коем то, что истребляет теплота, равно пище, что принимается.",
+        "В Старости, называемой латинянами senectus, от «уменьшения чувств», человек действительно убывает, поскольку теплота и сок ему изменяют, и в нём самом возрастают холод и сухость. Надлежит заметить, что Философы и Поэты сравнивают все эти четыре возраста с четырьмя временами года. Сверх того, есть такие, кто соотносит их с четырьмя стихиями, простыми телами, из коих образуется всё сложное.",
+        "Те, кто держится третьего мнения, полагают, что возрастов пять, и среди прочих Фернель, различающий Отрочество, Юность, Мужество, Старость и возраст дряхлости. На что мы можем ответить, что последний не есть отдельный возраст, но может быть по справедливости назван последней частью старости и временем, ближайшим к смерти.",
+        "Четвёртое мнение принадлежит Исидору в его Этимологиях, где он насчитывает шесть возрастов: Младенчество, Детство, Отрочество, Юность, Мужество и Старость. В этом авторитет столь великого мужа воистину не отступает от числа четырёх, поскольку он помещает Младенчество и Детство как части Отрочества.",
+        "Пятое и последнее мнение принадлежит многим Астрологам и Философам, насчитывающим в жизни человека: Младенчество, Детство, Отрочество, Юность, Мужество, Старость и возраст дряхлости; откуда они желают заключить, что как весь объём времени заключён в семи днях, так и вся наша жизнь стеснена в семи возрастах, сообразно семи Планетам, посредством коих здесь, внизу, совершаются рождение и тление.",
+        "Так первый из всех этих возрастов — Младенчество, управляемое Луной и длящееся, по мнению одних, до седьмого года, а по мнению других — лишь до четвёртого.",
+        "Второй — Детство, повелеваемое Меркурием, Планетой знания и разума. И тогда же детей надлежит отдавать под руководство учителей, поскольку они начинают быть способными к учению.",
+        "Третий возраст — под властью Венеры, Планеты радости и наслаждения, чья власть над человеком длится восемь лет.",
+        "Четвёртый управляется Солнцем, поскольку оно занимает четвёртое место в мире, что позволяет назвать его совершеннейшей из всех Планет, и простирается на девятнадцать лет.",
+        "Пятым восходящим светилом служит Марс; и в этом возрасте, в коем человек пребывает пятнадцать лет, он печётся о чести и славными деяниями старается оставить потомству похвальную о себе память.",
+        "Шестой, в коем человек пребывает двенадцать лет, зависит от Юпитера; и тогда человек, желая лишь жить в мире, раскаивается в прошлых проступках, которые старается исправить добрыми и добродетельными делами.",
+        "Над последним из всех возрастов преобладает Сатурн, планета холодная, сухая, полная печали, обременяющая человека недугами и болезнями, не покидающими его до самой смерти.",
+        "Таковы были мнения многих великих мужей о различных возрастах жизни. Хотя их все с достаточным основанием можно свести к четырём, как мы сказали выше, надлежит всё же заметить, что они не всегда заключены в определённое и точное число лет; ведь правдоподобно, как говорит Гален, что возраст измеряется не годами, но темпераментом."
+      ],
+      "text_fr": [
+        "LES âges ont esté diversement divisées par divers Autheurs; les uns en ont fait trois seulement, & les autres quatre, cinq, six, & sept. Mais quoy qu'il en soit, si nous considerons bien ces opinions, nous trouverons qu'elles ne sont point differentes entr'elles.",
+        "Le sentiment des anciens Philosophes a esté, qu'il n'y avoit que trois âges: dautant qu'ils ont consideré l'homme comme une chose naturelle, laquelle au rapport d'Aristote, a son commencement, son milieu, & sa fin. A raison dequoy ils ont mis pour commencement l'Adolescence, pour milieu la Jeunesse, & la Vieillesse pour fin.",
+        "La seconde opinion la plus commune de toutes, est d'Hypocrate, de Galien, d'Avicenne, & c'est celle-mesme que nous suivons avec eux. Elle divise l'âge en quatre parties, qui sont, l'Adolescence, la Jeunesse, la Virilité, & la Vieillesse, que Galien definit ainsi.",
+        "L'Adolescence est un âge où le corps prend accroissement, à cause qu'alors la chaleur & l'humeur reçoivent force & vigueur.",
+        "La Jeunesse est la fleur de l'âge, ainsi dite du verbe Latin Iuvare, qui signifie aider, à cause qu'en ce temps-là l'homme ayant achevé de croistre, est capable d'assister autruy.",
+        "L'âge viril est celuy auquel l'homme est en sa force, & où ce que la chaleur consume est égal à l'aliment que l'on prend.",
+        "En la Vieillesse, appellée des Latins senectus, à sensuum diminutione, l'homme diminuë en effet, parce que la chaleur & la seve luy manquent, & qu'en luy-mesme la froideur & la secheresse s'augmentent. Où il est à remarquer que les Philosophes & les Poëtes comparent tous ces quatre âges aux quatre saisons de l'année. Outre qu'il y en a qui les rapportent aux quatre elemens, qui sont des corps simples d'où se forme tout ce qui est composé.",
+        "Ceux qui tiennent la troisiéme opinion, veulent qu'il y ait cinq âges, & entr'autres Fernel, qui les distingue en Adolescence, en Jeunesse, en Virilité, en Vieillesse, & âge décrepit. A quoy nous pouvons répondre que ce dernier n'est pas un âge separé, mais qui se peut appeller plus proprement la derniere partie de la vieillesse, & le temps le plus proche de la mort.",
+        "La quatriéme opinion est d'Isidore en ses Ethymologies, où il compte six âges, qui sont l'Enfance, la Puerilité, l'Adolescence, la Jeunesse, la Virilité, & la Vieillesse. En quoy veritablement l'authorité d'un si grand homme ne déroge point au nombre des quatre, puisqu'il met l'Enfance & la Puerilité comme parties de l'Adolescence.",
+        "La cinquiéme & derniere opinion est de plusieurs Astrologues & Philosophes, qui font cet âge de la vie de l'homme, à sçavoir, l'Enfance, la Puerilité, l'Adolescence, la Jeunesse, la Virilité, la Vieillesse, & l'âge décrepit; d'où ils veulent inferer, que comme toute l'estenduë du temps est comprise en sept jours, ainsi toute nostre vie est resserrée en sept âges, suivant les sept Planettes; par le moyen desquelles la generation & la corruption se font icy bas.",
+        "Ainsi le premier de tous ces âges est l'Enfance, qui est gouvernée par la Lune, & qui dure jusques à la septiéme année, selon quelques-uns, & suivant les autres jusqu'à la quatriéme seulement.",
+        "Le second est la Puerilité, commandée par Mercure, Planette de science & de raison. Aussi est-ce alors que les enfans doivent estre mis sous la discipline des maistres, parce qu'ils commencent d'estre capables d'apprendre.",
+        "Le troisiéme âge est sous la domination de Venus, Planette de joye & de volupté, de qui l'empire sur l'homme dure huit ans.",
+        "Le quatriéme est reglé par le Soleil, à cause qu'il tient le quatriéme lieu dans le monde, qui se peut dire par consequent la plus parfaite de toutes les Planetes, qui s'étend au nombre de dix-neuf ans.",
+        "Le cinquiéme a Mars pour ascendant; & cet âge-cy, dans lequel l'homme se maintient quinze ans, fait qu'il se pique d'honneur, & que par des actions glorieuses il tasche de laisser à la posterité une louable memoire de soy.",
+        "Le sixiéme, où l'homme subsiste douze ans, dépend de Jupiter; & c'est alors que l'homme ne demandant qu'à vivre en paix, se repent des fautes passées qu'il tasche d'amander par de bonnes & vertueuses actions.",
+        "Au dernier de tous les âges prédomine Saturne, Planete froide, seche, pleine de chagrin, qui accable l'homme d'incommoditez & de maladies, qui ne l'abandonnent point jusques à la mort.",
+        "Voila quelles ont esté les opinions de plusieurs grands hommes touchant les divers âges de la vie. Or bien qu'avec beaucoup de fondement on les puisse tous reduire à quatre, comme nous avons dit cy-dessus, il faut remarquer pourtant qu'ils ne sont pas toûjours referrez dans un nombre d'années qui soit certain & prefix; estant vray-semblable, comme dit Galien, que l'âge ne se mesure point par les années, mais par le temperament."
+      ],
       "en": "Of the Age of Man in General",
-      "group_en": "The Four Ages"
+      "group_en": "The Four Ages",
+      "scans": [
+        "p2-37-1.jpg",
+        "p2-37-2.jpg",
+        "p2-37-3.jpg",
+        "p2-37-4.jpg"
+      ]
     },
     {
       "id": "p2-38",
@@ -10361,12 +10414,33 @@
       "group_fr": "Les quatre Aages",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-38.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Прекрасная дева в простом одеянии и венке из цветов, держащая улей с пчёлами в правой руке и оливковую ветвь в левой",
+          "meaning": "Венок и простое одеяние — чистота и безыскусность золотого века; улей — сладостная жизнь без труда; оливковая ветвь — дивный мир без войн и раздоров",
+          "what_en": "A beautiful maiden in a plain robe and flower garland, holding a beehive in her right hand and an olive branch in her left",
+          "meaning_en": "The garland and plain robe signify the purity and artlessness of the Golden Age; the beehive, the sweet, effortless life then led; the olive branch, the wondrous peace of a world without war or strife"
+        }
+      ],
+      "text_ru": [
+        "Его изображают прекрасной девой, увенчанной гирляндой цветов, одетой в простое одеяние, которая держит в правой руке улей с пчёлами, а в левой — оливковую ветвь.",
+        "Её гирлянда и простое одеяние означают чистоту того времени, когда всё было без ухищрений.",
+        "Улей с пчёлами означает сладостную жизнь, которую вели тогда живые существа; а олива — дивное спокойствие, царившее в мире, откуда были совершенно изгнаны раздоры и войны. Ибо, как замечает вслед за Древними самый изысканный из наших Поэтов господин де Малерб: Земля повсюду производила все вещи, Все металлы были золотом, все цветы были розами, Все деревья — оливами: Не было более Зимы, день не отбрасывал более тени, И несчётные жемчужины Прорастали под водами среди гальки."
+      ],
+      "text_fr": [
+        "IL est representé par une belle fille, couronnée d'une guirlande de fleurs, vestuë d'un simple habillement, & qui tient de la main droite une ruche de mouches à miel, & de la gauche un rameau d'olivier.",
+        "Par sa guirlande & son habillement simple, est denotée la pureté de ce temps-là, où toutes choses estoient sans artifice.",
+        "Par la ruche de mouches à miel, la vie douce que menoient alors les creatures vivantes; & par l'olivier, la merveilleuse tranquillité qui regnoit au monde, d'où les seditions & les guerres estoient tout à fait bannies. Car comme le remarque aprés les Anciens le plus poly de nos Poëtes Monsieur de Malherbe: La terre en tous endroits produisoit toutes choses, Tous metaux estoient or, toutes fleurs estoient roses, Tous arbres oliviers: L'on n'avoit plus d'Hyver, le jour n'avoit plus d'ombre, Et les perles sans nombre Germoient dessous les eaux au milieu des graviers."
+      ],
       "en": "The Golden Age",
-      "group_en": "The Four Ages"
+      "group_en": "The Four Ages",
+      "scans": [
+        "p2-38-1.jpg",
+        "p2-38-2.jpg"
+      ]
     },
     {
       "id": "p2-39",
@@ -10379,12 +10453,33 @@
       "group_fr": "Les quatre Aages",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-39.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Менее прекрасная, чем Золотой век, дева в серебряном газовом одеянии, украшенная самоцветами и жемчугом, опирающаяся на лемех плуга и несущая сноп колосьев",
+          "meaning": "Меньшая красота и пышное убранство — упадок простоты золотого века; лемех плуга и колосья — начало земледелия, к коему люди были вынуждены прибегнуть ради пропитания",
+          "what_en": "A maiden less beautiful than the Golden Age, in silver gauze adorned with gems and pearls, resting on a plowshare and carrying a sheaf of wheat",
+          "meaning_en": "Her lesser beauty and elaborate adornment signify the decline from the Golden Age's simplicity; the plowshare and wheat sheaf, the beginning of agriculture, to which men were forced to turn for sustenance"
+        }
+      ],
+      "text_ru": [
+        "Её облик — облик девы, вовсе не столь прекрасной, как предыдущая, но чей наряд восполняет недостаток её красоты: ибо она облачена в одеяние из серебряного газа, выгодно причёсана и украшена самоцветами и жемчугом; сверх того правой рукой она опирается на плуговой лемех, а левой несёт сноп или пучок желтеющих колосьев.",
+        "Её изображают менее прекрасной, нежели ту, что являет золотой век, и украшенной так, как мы только что сказали, дабы означить различие между тем и другим из этих веков.",
+        "Что до колосьев и лемеха плуга, они означают, что в серебряном веке люди начали возделывать землю, дабы извлечь из неё средства для поддержания своей жизни."
+      ],
+      "text_fr": [
+        "SA peinture est celle d'une fille qui n'est pas du tout si belle que la precedente, mais dont l'habillement supplée au defaut de sa beauté: car elle est vestuë d'une robe de gaze d'argent, coiffée à l'avantage, & parée de pierreries & de perles; outre que de la main droite elle s'appuye sur un soc de charruë, & que de la gauche elle porte une gerbe ou un faisceau d'espics jaunissans.",
+        "On la peint moins belle que celle qui represente l'âge d'or, & parée de la façon que nous venons de dire, pour marquer la difference de l'un & de l'autre de ces âges.",
+        "Quant aux espics & au soc de charruë, ils signifient qu'au siecle d'argent les hommes commencerent à cultiver la terre, pour tirer d'elle dequoy pourvoir à l'entretenement de leur vie."
+      ],
       "en": "The Silver Age",
-      "group_en": "The Four Ages"
+      "group_en": "The Four Ages",
+      "scans": [
+        "p2-39-1.jpg",
+        "p2-39-2.jpg"
+      ]
     },
     {
       "id": "p2-40",
@@ -10397,12 +10492,30 @@
       "group_fr": "Les quatre Aages",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-40.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Вооружённая женщина с решительным лицом, в вышитом одеянии, со львиной головой на шлеме и копьём в руке",
+          "meaning": "Вооружение и решительный облик — наступление века войн; львиная голова на шлеме — воинственная свирепость; копьё — оружие, впервые вложенное в руки юношей, по слову Овидия",
+          "what_en": "An armed woman with a resolute face, in an embroidered robe, a lion's head crest on her helmet and a lance in hand",
+          "meaning_en": "Her arms and resolute bearing signify the onset of an age of war; the lion-head crest, warlike ferocity; the lance, the weapon first placed in young warriors' hands, per Ovid"
+        }
+      ],
+      "text_ru": [
+        "Его изображают вооружённой женщиной с решительным лицом и в одеянии, сплошь покрытом вышивкой. Нашлемником ей служит львиная голова, а в руке она держит копьё. Что не нуждается в ином объяснении, кроме того, что даёт Овидий, говоря: что этот жестокий век бесчеловечным искусством вложил оружие в руки юных воинов."
+      ],
+      "text_fr": [
+        "ON le represente par une femme armée, dont le visage est resolu, & la robe toute de broderie. Elle a pour cimier sur son heaume la teste d'un lion, & tient en main une lance. Ce qui n'a pas besoin d'autre explication que de celle que luy donne Ovide, quand il dit, Que cet âge cruel par un art inhumain Mit aux jeunes guerriers les armes à la main."
+      ],
       "en": "The Bronze Age",
-      "group_en": "The Four Ages"
+      "group_en": "The Four Ages",
+      "scans": [
+        "p2-40-1.jpg",
+        "p2-40-2.jpg",
+        "p2-40-3.jpg"
+      ]
     },
     {
       "id": "p2-41",
@@ -10415,12 +10528,31 @@
       "group_fr": "Les quatre Aages",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-41.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Устрашающая женщина в железном доспехе, в шлеме с волчьей головой, обнажённым мечом в правой руке и щитом (с изображением чудовища-сирены — Обмана) в левой, среди военных трофеев и знамён",
+          "meaning": "Железный цвет — суровость последнего, самого жестокого века; волчья голова на шлеме — хищническая жестокость; чудовище-сирена на щите — Обман и ложь, впервые воцарившиеся в мире; боевые трофеи — всеобщая война, пришедшая на смену миру золотого века",
+          "what_en": "A dreadful woman in iron armor, a wolf's-head helmet, a bare sword in her right hand and a shield (bearing a monstrous siren representing Fraud) in her left, amid trophies of war and military standards",
+          "meaning_en": "The iron color signifies the harshness of this last, cruelest age; the wolf-head helmet, predatory savagery; the siren-monster on the shield, the Fraud and falsehood that first entered the world; the war trophies, the universal strife that replaced the Golden Age's peace"
+        }
+      ],
+      "text_ru": [
+        "Ужасающая на вид женщина — эмблема этого последнего, самого сурового из всех веков. Одеяние её цвета железа, или самое железо; ибо она носит шлем с символом волчьей головы, держит в правой руке обнажённый меч, словно готовясь к бою, а в левой — щит, посреди коего изображён Обман в виде чудовища с головой человека и телом змеи, покрытым разными пятнами, или, если угодно, Сирены, что завлекает прохожих, дабы пожрать их. Ко всему этому присовокуплены различные доспехи в виде трофея и многочисленные военные знамёна.",
+        "Сирена и Чудовище суть оба истинный символ Обмана, чьи действия начали проявляться особенно в этом веке, как замечает Овидий, говоря: Тогда честность, разум, справедливость, Покинув земную обитель; В сердцах смертных воцарились в свой черёд Ложь, заблуждение, обман и злоба. Эти чудовища и эти беды, вместе спущенные с цепи, Из глубин Преисподней вышли вперемешку, И в то же самое время это жестокое племя Терзало злодеев, упорствующих в своём пороке."
+      ],
+      "text_fr": [
+        "UNE femme épouventable à voir est l'embléme de ce dernier siecle, le plus rude de tous. Son habillement est de couleur de fer, ou de fer mesme; car elle porte un heaume qui a pour symbole une teste de loup, tenant de la main droite une espée nuë, comme si elle vouloit combattre, & de la gauche un escu, au milieu duquel est dépeint la Fraude sous la figure d'un monstre, ayant la teste d'un homme, & le corps d'un serpent couvert de diverses taches, ou si vous voulez, d'une Sereine qui attire les passans pour les devorer. A toutes lesquelles choses sont jointes diverses armes en forme de trophée, & plusieurs enseignes de guerre.",
+        "La Sereine & le Monstre sont tous deux le vray symbole de la Fraude, dont les effets commencerent à se produire en cet âge-cy particulierement, comme le remarque Ovide, quand il dit, Alors la probité, la raison, la justice Ayant abandonné le terrestre sejour; Dans les cœurs des mortels regnerent à leur tour Le mensonge, l'erreur, la fraude & la malice. Ces monstres & ces maux ensemble déchainez, Du profond des Enfers sortirent pesle-mesle, Et tout à mesme temps cette engeance cruelle Tourmenta les méchans en leur vice obstinez."
+      ],
       "en": "The Iron Age",
-      "group_en": "The Four Ages"
+      "group_en": "The Four Ages",
+      "scans": [
+        "p2-41-1.jpg",
+        "p2-41-2.jpg"
+      ]
     },
     {
       "id": "p2-42",
