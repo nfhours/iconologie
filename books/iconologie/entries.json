@@ -7555,12 +7555,31 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-147.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в расцвете лет с петухом в правой руке и узловатым посохом, обвитым змеёй, в левой",
+          "meaning": "Петух, посвящённый Эскулапу, — бдительность, необходимая доброму врачу; змея на посохе — атрибут бога врачевания, символ самого искусства медицины",
+          "what_en": "A woman in the flower of her age, a cockerel in her right hand and a knotted staff entwined by a serpent in her left",
+          "meaning_en": "The cockerel, sacred to Aesculapius, signifies the vigilance a good physician must have; the serpent on the staff, the attribute of the god of healing and a symbol of the art of medicine itself"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде женщины в цвете лет, с петухом в правой руке и узловатым посохом, обвитым змеёй, в левой.",
+        "Петух посвящён Эскулапу, изобретателю Медицины, дабы показать, что доброму Врачу непременно надлежит быть бдительным и всегда заботливым в посещении своих больных. И правда, эта солнечная птица, которой древние приносили жертвы как некоему Богу, столь сильно её почитая, есть истинный символ бдительности. Именно потому Сократ незадолго до смерти завещал по духовному завету своего петуха Эскулапу, дабы научить Философов своего времени, из коих он был мудрейшим, что лишь боги, от коих они получили своё бытие, способны исцелить тревоги и томления жизни."
+      ],
+      "text_fr": [
+        "ELLE est representée par vne femme qui est en la fleur de son âge, ayant vn coq en la main droite, & en la gauche vn baston noueux, où s'entortille vn serpent.",
+        "Le coq est consacré à Esculape inventeur de la Medecine, pour montrer qu'il faut de necessité qu'vn bon Medecin soit vigilant & toûjours soigneux de visiter ses malades. Aussi est-il vray que cet oiseau solaire, à qui les anciens sacrifioient comme à quelque Dieu, si fort ils le reveroient, est le vray symbole de la vigilance. Ce fut pour cela que Socrate vn peu avant que mourir, legua par son testament son coq à Esculape, pour apprendre aux Philosophes de son temps, dont il estoit le plus sage, qu'il n'y avoit que les dieux, desquels ils tenoient l'estre, qui pûssent guerir les inquietudes & les langueurs de la vie."
+      ],
       "en": "Health",
-      "group_en": "S"
+      "group_en": "S",
+      "scans": [
+        "p1-147-1.jpg",
+        "p1-147-2.jpg"
+      ]
     },
     {
       "id": "p1-148",
@@ -7573,12 +7592,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-148.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная дева во тьме ночи с зажжённой лампадой в правой руке и большой книгой в левой",
+          "meaning": "Юность — неподвластность Премудрости времени и светилам; зажжённая лампада — немеркнущий свет разумения, даруемый благодатью; книга — Священное Писание, единственный источник совершенной Премудрости",
+          "what_en": "A young maiden in the darkness of night, holding a lit lamp in her right hand and a great book in her left",
+          "meaning_en": "Her youth signifies Wisdom's freedom from time and the stars; the lit lamp, the never-dimming light of understanding kindled by grace; the book, the Holy Scripture, the sole source of perfect Wisdom"
+        }
+      ],
+      "text_ru": [
+        "Её облик — облик юной девы, которая во тьме ночи держит в правой руке зажжённую лампаду, а в левой — большую книгу.",
+        "Её изображают юной, ибо она повелевает светилами, которые не могут состарить её, ни отнять у неё разумение тайн Божиих, кои вечны.",
+        "Зажжённая лампада означает свет разумения, что особой милостью Божией возгорается и поддерживается в душе нашей, никогда не умаляясь; ибо лишь по собственной вине разумение теряет свою ясность, позволяя омрачить себя тьмою порока, которая не может дать места Премудрости, но окутывает дух заблуждениями и дурными помыслами.",
+        "Что до книги, что она несёт, то это книга Священного Писания — единственная, где постигается совершенная Премудрость и всё, что потребно для спасения."
+      ],
+      "text_fr": [
+        "SA figure est celle d'vne jeune fille, qui dans l'obscurité de la nuit tient de la main droite vne lampe allumée, & de la gauche vn grand livre.",
+        "On la peint jeune, parce qu'elle commande aux astres, qui ne la peuvent faire vieillir, ny luy oster l'intelligence qu'elle a des secrets de Dieu, qui sont eternels.",
+        "La lampe allumée signifie la lumiere de l'entendement, qui par vne grace particuliere de Dieu s'allume & s'entretient dans nostre ame, sans jamais diminuer; car c'est par nostre seule faute que l'entendement perd sa propre clarté, en se laissant offusquer par les tenebres du vice, qui ne peuvent donner lieu à la Sapience, mais enveloppent l'esprit d'erreurs & de mauvaises pensées.",
+        "Quant au livre qu'elle porte, c'est celuy des saintes Ecritures, qui est le seul où l'on apprend la parfaite Sapience, & toutes les choses qui sont necessaires au salut."
+      ],
       "en": "Sapience",
-      "group_en": "S"
+      "group_en": "S",
+      "scans": [
+        "p1-148-1.jpg",
+        "p1-148-2.jpg"
+      ]
     },
     {
       "id": "p1-149",
@@ -7591,12 +7633,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-149.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Дама в белом одеянии, стоящая на четырёхугольном камне, в латах и шлеме с петухом-нашлемником, с круглым щитом (с голубем) в правой руке и запечатанной книгой Премудрости (с Пасхальным Агнцем) в левой",
+          "meaning": "Четырёхугольный камень и белое одеяние — незыблемость и чистота Премудрости; мистические доспехи — справедливость, верное суждение и правосудие; петух — разум; голубь на щите — Святой Дух, правящий Вселенной; запечатанная книга — сокрытые от людей суды Премудрости, обретаемые лишь тщанием; Агнец — достоинство и чистая, смиренная природа, нужная для стяжания Премудрости",
+          "what_en": "A lady in white standing on a square stone, in cuirass and helmet crested with a cockerel, a round shield (bearing a dove) in her right hand and a sealed book of Wisdom (topped by the Paschal Lamb) in her left",
+          "meaning_en": "The square stone and white robe signify Wisdom's steadfastness and purity; the mystical armor, justice, sound judgment, and equity; the cockerel, reason; the dove on the shield, the Holy Spirit who governs the Universe; the sealed book, Wisdom's judgments hidden from men, won only by effort; the Lamb, the worthy, pure and humble nature needed to attain Wisdom"
+        }
+      ],
+      "text_ru": [
+        "Этот образ Божественной Премудрости почти целиком заимствован из Священного Писания. Это дама, которую делают почтенной её дивная скромность и взор. Она облачена в белое и стоит на четырёхугольном камне. В качестве оружия у неё латы и шлем, нашлемником коего служит петух; круглый щит в правой руке, с изображением Святого Духа посредине, а в левой — книга Премудрости, с которой свисают семь печатей, с Пасхальным Агнцем сверху.",
+        "Мы ставим её на четырёхугольный камень, дабы показать тем самым, что она всегда тверда и непоколебима в своих основаниях; и сверх того даём ей белое одеяние, поскольку этот цвет, как мы уже говорили в другом месте, чище всех прочих и, следственно, наиболее угоден Богу.",
+        "Что до её оружия, оно всё мистическое; и, по слову самой Премудрости, чрезвычайно подобающее Богу: Кто возьмёт справедливость за латы, верное суждение за шлем, а правосудие за непроницаемый щит. Латы, которые латиняне называют Thorax, почитались у них главной частью вооружения ратника: именно они защищают благороднейшие части тела и подобают собственно Премудрости, поскольку служат оплотом желудку (чреву), где некоторые древние её и помещали.",
+        "Петух, служащий ей нашлемником, означает разум и разумный свет, который, по Платону, восседает в голове; потому-то Сократ и Пифагор мистически разумели под этой птицей нашу душу, одну лишь способную к истинному разумению. И впрямь достоверно, что петух обладает разумением гораздо большим, нежели прочие животные; ибо он знает звёзды, взирает на Небо, наблюдает ход Солнца и своим пением возвещает день. За эти дивные познания он был посвящён Меркурию и Аполлону, богам наиболее почтенных искусств; к чему можно добавить, что в Священном Писании довольно часто говорится о петухе, под коим разумеются Проповедники и Учители, воспевающие и возвещающие в Церквах Премудрость Божию.",
+        "Голубь, изображённый на её щите, есть Святой Дух, Который, как говорит Иов, учит нас Премудрости. А под этим круглым щитом разумеется Вселенная, коей те, кто вознесён на высочайшие достоинства, должны прилежать мудрым правлением. К чему в особенности призывают прекрасные слова Писания: Если верно, что вы любите престолы и скипетры ваши, о цари народов, возлюбите Премудрость, дабы царствовать вовеки, и прочее. Посему Святой Дух весьма уместно помещён здесь в круглом образе, поскольку через Него Божественная Премудрость правит Вселенной и внушает истинный свет и спасительные наставления тем, кто ею руководит.",
+        "Закрытая книга со свисающими печатями означает, что суды Божественной Премудрости сокрыты от людей; и поскольку она окутана многими облаками, обретение её чрезвычайно затруднительно; оттого мудрейший из всех людей и уподобляет её сокровищу, скрытому в земле. А то, что она так запечатана, делается не для того, чтобы люди были её лишены, но дабы побудить их обрести её собственным тщанием, не становясь притом ни надменнее, ни более влюблёнными в самих себя; притом неясность слова Божия можно назвать полезной, ибо она тем ярче являет истину даже среди туманов, тогда как одни и другие толкуют её различно, как замечают в особенности великий святой Григорий и святой Августин.",
+        "Пасхальный Агнец по праву помещён на книге, ибо, согласно словам Апокалипсиса, Сей самый Агнец, что был заклан, достоин приять Силу, Премудрость и Божественность. Другая же причина касается удела человеческих созданий, кои не должны быть ни горды, ни злобны, если стремятся к Премудрости; ибо она обитает лишь в душах чистых и непорочных, имея твёрдым своим основанием страх Божий; что явлено нам примером агнца — самого невинного и самого боязливого из всех земных животных."
+      ],
+      "text_fr": [
+        "CETTE figure de la Sapience divine est presque toute tirée des saintes Lettres. C'est vne dame que sa modestie merveilleuse & ses regards rendent venerable. Elle est vestuë de blanc, & se tient debout sur vne pierre carrée. Elle a pour armes vn corcelet, & vn heaume, dont le cimier est vn coq; vn escu rond en sa main droite, avec la figure du Saint Esprit au milieu, & en la gauche le livre de la Sapience, d'où pendent sept sceaux, avec l'Agneau Paschal au dessus.",
+        "Nous la posons sur vne pierre carrée, pour montrer par là, qu'elle est toûjours ferme & inébranlable en ses fondemens: & luy donnons de plus vne robe blanche, parce que cette couleur, comme nous avons dit ailleurs, est la plus pure de toutes, & par consequent la plus agreable à Dieu.",
+        "Quant à ses armes, elles sont toutes mystiques; & comme dit la Sapience mesme, extremément propres à Dieu, Qui prendra pour corcelet la justice, pour heaume vn jugement certain, & l'equité pour vn écu impenetrable. Le corcelet, que les Latins appellent Thorax, passoit chez eux pour la principale piece des armes d'vn homme de guerre: aussi est-ce luy qui defend les parties nobles, & qui convient proprement à la Sapience, dautant qu'il sert de rempart à l'estomach, où quelques anciens l'ont placée.",
+        "Le coq qu'elle a pour cimier, signifie l'intelligence & la lumiere raisonnable, qui selon Platon, a son siege dans la teste; c'est pourquoy Socrate & Pythagore ont par cet oiseau mystiquement entendu nostre ame, qui seule est capable d'vne vraye intelligence. Aussi est-il certain que le coq en a vne bien plus grande que les autres animaux; car il connoist les Estoilles, il regarde le Ciel, il considere le cours du Soleil, & par son chant annonce le jour. Pour ces merveilleuses connoissances il estoit consacré à Mercure & à Apollon, qui estoient les Dieux des arts les plus recommandables: à quoy l'on peut ajoûter, que dans la Sainte Ecriture il est assez souvent parlé du coq, par qui sont entendus les Predicateurs & les Docteurs, qui chantent & publient dans les Eglises la Sapience divine.",
+        "La colombe qui se voit peinte sur son écu, est le S. Esprit, qui comme dit Job, nous apprend la Sapience. Or par cet écu de forme ronde, s'entend l'Vnivers, où ceux qui sont elevez aux dignitez les plus hautes doivent s'estudier à vne sage conduite. A quoy les invitent particulierement ces belles paroles de l'Ecriture, S'il est vray que vous aimiez vos Thrones & vos Sceptres, ô Rois des peuples, aimez la Sapience, afin que vous regniez à jamais, &c. Le Saint Esprit est donc mis icy fort à propos dans vne figure ronde, dautant que par luy la Sapience divine gouverne l'Vnivers, & qu'il inspire vne vraye lumiere, & de salutaires instructions à ceux qui en ont la conduite.",
+        "Le livre fermé où pendent des sceaux, signifie que les jugemens de la Sapience divine sont cachez aux hommes; & qu'à cause qu'elle est enveloppée de plusieurs nuages, l'acquisition en est extremément difficile; voila pourquoy le plus sage de tous les hommes la compare à vn tresor qu'on a caché dans la terre. Or ce qu'elle est ainsi scellée, n'est pas afin que les hommes en soient privez, mais pour les induire à se l'acquerir par leur industrie, sans que toutefois ils en deviennent ny plus altiers, ny plus amoureux d'eux-mesmes: d'ailleurs l'obscurité de la parole divine se peut dire vtile, en ce qu'elle fait éclater davantage la verité, mesme parmy les brouillards, tandis que les vns & les autres l'expliquent diversement, comme le remarquent particulierement le grand S. Gregoire, & S. Augustin.",
+        "L'Agneau Paschal est mis à fort bon droit sur le livre, parce que suivant ces paroles de l'Apocalypse, Ce mesme Agneau qui a esté immolé, est vn digne sujet de Vertu, de Sapience, & de Divinité. L'autre raison est à l'égard de la condition des creatures humaines, qui ne doivent point estre superbes ny malicieuses, si elles aspirent à la Sapience; car elle ne fait sa demeure que dans les ames pures & nettes, ayant comme elle a pour solide fondement la crainte de Dieu; ce qui nous a esté declaré par l'exemple de l'agneau, qui est le plus innocent & le plus craintif de tous les animaux de la terre."
+      ],
       "en": "Divine Wisdom",
-      "group_en": "S"
+      "group_en": "S",
+      "scans": [
+        "p1-149-1.jpg",
+        "p1-149-2.jpg",
+        "p1-149-3.jpg",
+        "p1-149-4.jpg"
+      ]
     },
     {
       "id": "p1-150",
@@ -7609,12 +7682,34 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-150.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша с (символически) четырьмя руками и четырьмя ушами, с колчаном у бедра и флейтой в правой руке",
+          "meaning": "Множество рук — соединение созерцания с опытным деланием мирских дел; множество ушей — готовность внимать чужому совету; флейта, на которой не играют, и стрелы про запас — умеренность и бдительная сдержанность, защита от лести и от нападения",
+          "what_en": "A youth with (symbolically) four hands and four ears, a quiver at his side and a flute in his right hand",
+          "meaning_en": "The many hands join contemplation to the practical conduct of worldly affairs; the many ears, a readiness to heed others' counsel; the unplayed flute and the arrows held in reserve, a moderation that guards against flattery and against being caught unprepared"
+        }
+      ],
+      "text_ru": [
+        "Весьма наглядна фигура этого юноши, имеющего четыре руки и четыре уха, с колчаном у бедра и флейтой — орудием, посвящённым богу Аполлону, — в правой руке.",
+        "Этот образ — изобретение лакедемонян, составивших его рисунок, дабы научить нас, что для обладания наукой и мудростью одного созерцания недостаточно, но необходимо присоединить к нему употребление и практику мирских дел, означаемые руками; а также охотно внимать совету других, что обозначено ушами; и поскольку всё это должно совершаться с таким умерением, чтобы человек не поддавался щекотке собственных похвал и не был застигнут врасплох, когда нужно защищаться, — для того ему и дают держать флейту, на которой он не играет, и стрелы в колчане, пользование коими он приберегает до нужды.",
+        "Если же теперь говорить об истинной Мудрости, я скажу, что она не принадлежит к числу тех добродетельных навыков, что приобретаются упражнением и опытом, но есть особый дар Святого Духа, сообщающего свои милости и благодеяния тому, кому Ему угодно. Даже древние, похоже, признавали эту истину; ибо хотя они и не были просвещены светом нашей веры, они всё же говорили о сверхъестественной Премудрости с великим благоговением и почтением. Они утверждали при этом, что она есть дар небес и что, не будучи совершенным и безупречным в своих делах, ни один из смертных не мог быть удостоен славного имени Мудреца. И впрямь во всей древней Греции, матери наук и добродетелей, никогда не находилось более семи человек, достойных этого имени: что заставляет меня полагать, что эта добродетель непременно должна обладать дивными преимуществами перед всеми прочими. Так, по слову Соломона, она была прежде, нежели были Небеса и земля, и от вечности сохранялась в лоне Отца Предвечного, откуда, по Его праведным судам, изливается в души Верных. И потому обретает спасение тот, кто стяжает истинную Премудрость, неустанно её ища, и кто умеет отличить её от ложной мудрости мирских людей."
+      ],
+      "text_fr": [
+        "C'EN est vne figure bien expresse que celle de ce jeune garçon, qui a quatre mains & quatre oreilles, vn carquois à son costé, & en sa main droite vne flûte, instrument consacré au Dieu Apollon.",
+        "Ce tableau est de l'invention des Lacedemoniens, qui en ont fait le dessein, pour nous apprendre que pour avoir de la science & de la sagesse, la contemplation ne suffit pas, mais qu'il y faut joindre necessairement l'vsage & la pratique des affaires du monde, signifiée par les mains; & aussi écouter volontiers le conseil d'autruy, ce qui est denoté par les oreilles; & dautant que cela se doit faire avec vne moderation qui soit telle, que l'homme ne se laisse point chatouiller ny par le son de ses propres louanges, ny prendre au dépourvû quand il est question de se defendre; c'est pour cela qu'on luy fait tenir vne flute sans en jouer, & des fleches en vn carquois, dont il se reserve l'vsage au besoin.",
+        "Que s'il faut parler maintenant de la vraye Sagesse, je dis qu'elle n'est pas du nombre de ces habitudes vertueuses, qui s'acquierent par l'vsage & par l'experience, mais bien vn don particulier du saint Esprit, qui communique ses graces & ses faveurs à qui luy plaist. Les anciens mesmes semblent avoir reconnu cette verité; car bien qu'ils ne fussent point éclairez de la lumiere de nostre foy, ils parloient neanmoins de la Sapience surnaturelle avec beaucoup de religion & de reverence. Ils disoient à ce propos, qu'elle estoit vn don du ciel, & qu'à moins que d'estre parfait & irreprochable en ses actions, pas vn des mortels ne pouvoit estre honoré du glorieux titre de Sage. En effet dans toute l'ancienne Grece, mere des sciences & des vertus, ne se trouverent jamais que sept personnes qui meritassent ce nom: ce qui me fait croire, qu'il faut necessairement que cette vertu ait de merveilleux avantages sur toutes les autres. Aussi a-t'elle esté, comme dit Salomon, avant que les Cieux & la terre fussent, & s'est conservée de toute eternité dans le sein du Pere Eternel, d'où selon ses justes jugemens elle s'épand dans les ames des Fideles. Celuy-là trouve donc le salut, qui s'acquiert la vraye Sapience à force de la chercher, & qui la sçait discerner d'avec la fausse sagesse des hommes du monde."
+      ],
       "en": "Human Wisdom",
-      "group_en": "S"
+      "group_en": "S",
+      "scans": [
+        "p1-150-1.jpg",
+        "p1-150-2.jpg",
+        "p1-150-3.jpg"
+      ]
     },
     {
       "id": "p1-151",
