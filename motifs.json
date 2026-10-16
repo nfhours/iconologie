@@ -23,6 +23,7 @@
     { "id": "minotaur",     "fr": "Minotaure",        "ru": "Минотавр",         "en": "Minotaur" },
     { "id": "caduceus",     "fr": "Caducée",          "ru": "Кадуцей",          "en": "Caduceus" },
     { "id": "tripod",       "fr": "Trépied",          "ru": "Треножник",        "en": "Tripod" },
-    { "id": "wing",         "fr": "Aile",             "ru": "Крыло",            "en": "Wing" }
+    { "id": "wing",         "fr": "Aile",             "ru": "Крыло",            "en": "Wing" },
+    { "id": "cornucopia",   "fr": "Corne d'abondance", "ru": "Рог изобилия",    "en": "Cornucopia" }
   ]
 }

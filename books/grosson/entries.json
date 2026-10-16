@@ -2555,6 +2555,453 @@
       "reverse_ru": "",
       "reverse_en": "",
       "motifs": []
+    },
+    {
+      "id": "pl5-1",
+      "part": 1,
+      "plate": 5,
+      "num": "1",
+      "fr": "Apollon / Taureau, MASSALIETON",
+      "ru": "Аполлон / бык, MASSALIETON",
+      "en": "Apollo / Bull, MASSALIETON",
+      "page": "45",
+      "group": "V",
+      "group_fr": "Planche V",
+      "group_en": "V",
+      "group_page": "45",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl5-1.jpg"
+      ],
+      "plate_img": "pl5-full.jpg",
+      "bbox": [
+        7.05,
+        11.01,
+        36.0,
+        12.67
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LES Médailles comprises sous les n°. 1, 2, 3, 5, 6 & 7, sont des mêmes grandeurs que les Gravures; celles désignées par les autres chiffres, ont été tant soit peu augmentées; elles sont toutes en bronze.",
+        "N°. 1. Tête d'Apollon couronnée de laurier; la contre-marque est fruste, & ressemble à un fléau, ou une main: on ne peut déchiffrer exactement si c'est l'un ou l'autre de ces objets que le Graveur a voulu représenter. J'ai eu trois de ces Médailles en mon pouvoir; elles étoient toutes également mutilées. Il m'a été conséquemment impossible d'asseoir une opinion certaine sur cette contre-marque. Le revers est un Taureau menaçant, avec le mot MASSALIETON en caractères grecs."
+      ],
+      "text_ru": [
+        "Монеты, помещённые под №№ 1, 2, 3, 5, 6 и 7, того же размера, что и сами гравюры; монеты под остальными номерами были слегка увеличены; все они бронзовые.",
+        "№1. Голова Аполлона, увенчанная лавром; клеймо стёрто и напоминает цеп либо руку: невозможно точно разобрать, какой из этих предметов хотел изобразить Гравёр. У меня в своё время было три таких монеты; все они были одинаково повреждены. Поэтому мне не удалось составить определённого мнения об этом клейме. Оборот — угрожающий бык, со словом MASSALIETON греческими буквами."
+      ],
+      "text_en": [
+        "The medals included under nos. 1, 2, 3, 5, 6 and 7 are of the same size as the engravings; those designated by the other numbers have been enlarged somewhat; they are all in bronze.",
+        "No. 1. Head of Apollo crowned with laurel; the countermark is worn, and resembles a flail, or a hand: one cannot tell exactly which of these objects the Engraver meant to represent. I had three of these medals in my possession; they were all equally mutilated. It has consequently been impossible for me to settle on a definite opinion about this countermark. The reverse is a threatening Bull, with the word MASSALIETON in Greek characters."
+      ],
+      "obverse_fr": "tête d'Apollon couronnée de laurier, contremarque fruste (fléau ou main)",
+      "obverse_ru": "голова Аполлона в лавровом венке, клеймо стёрто (цеп или рука)",
+      "obverse_en": "head of Apollo, laurel-crowned, worn countermark (a flail or a hand)",
+      "reverse_fr": "taureau menaçant, MASSALIETON",
+      "reverse_ru": "угрожающий бык, MASSALIETON",
+      "reverse_en": "threatening bull, MASSALIETON",
+      "motifs": [
+        "apollo",
+        "bull"
+      ]
+    },
+    {
+      "id": "pl5-2",
+      "part": 1,
+      "plate": 5,
+      "num": "2",
+      "fr": "Tête (laurier, raisin) / Taureau, MASSALIETON",
+      "ru": "Голова (лавр, виноград) / бык, MASSALIETON",
+      "en": "Head (laurel, grapes) / Bull, MASSALIETON",
+      "page": "45",
+      "group": "V",
+      "group_fr": "Planche V",
+      "group_en": "V",
+      "group_page": "45",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl5-2.jpg"
+      ],
+      "plate_img": "pl5-full.jpg",
+      "bbox": [
+        6.78,
+        27.73,
+        33.59,
+        10.63
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 2. Tête couronnée de laurier avec le raisin; comme celle du numéro 2 de la troisième Planche; le revers est un Taureau menaçant, & un croissant renversé par-dessus."
+      ],
+      "text_ru": [
+        "№2. Голова, увенчанная лавром, с виноградом; как на монете №2 третьей Таблицы; оборот — угрожающий бык, а сверху — перевёрнутый полумесяц."
+      ],
+      "text_en": [
+        "No. 2. Head crowned with laurel with the grapes; like that of number 2 of the third Plate; the reverse is a threatening Bull, with an inverted crescent above."
+      ],
+      "obverse_fr": "tête couronnée de laurier, avec une grappe de raisin (comme Planche III n°2)",
+      "obverse_ru": "голова в лавровом венке, с гроздью винограда (как на Planche III №2)",
+      "obverse_en": "head crowned with laurel, with a bunch of grapes (as Planche III no. 2)",
+      "reverse_fr": "taureau menaçant, croissant renversé par-dessus, MASSALIETON",
+      "reverse_ru": "угрожающий бык, перевёрнутый полумесяц сверху, MASSALIETON",
+      "reverse_en": "threatening bull, an inverted crescent above, MASSALIETON",
+      "motifs": [
+        "bull"
+      ]
+    },
+    {
+      "id": "pl5-3",
+      "part": 1,
+      "plate": 5,
+      "num": "3",
+      "fr": "Apollon / Taureau (gouvernail), MASSALIETON",
+      "ru": "Аполлон / бык (рулевое весло), MASSALIETON",
+      "en": "Apollo / Bull (rudder), MASSALIETON",
+      "page": "45",
+      "group": "V",
+      "group_fr": "Planche V",
+      "group_en": "V",
+      "group_page": "45",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl5-3.jpg"
+      ],
+      "plate_img": "pl5-full.jpg",
+      "bbox": [
+        6.16,
+        42.8,
+        33.39,
+        10.25
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 3. Tête d'Apollon couronnée de laurier; derrière la tête, on distingue les vestiges d'un ornement si imparfaitement conservé, qu'on ne peut assurer si c'est un raisin. Le revers est un Taureau menaçant, avec un gouvernail par-dessus: le mot MASSALIETON se lit au bas."
+      ],
+      "text_ru": [
+        "№3. Голова Аполлона, увенчанная лавром; за головой различимы следы украшения, сохранившиеся настолько плохо, что нельзя с уверенностью сказать, виноград ли это. Оборот — угрожающий бык, а сверху — рулевое весло: внизу читается слово MASSALIETON."
+      ],
+      "text_en": [
+        "No. 3. Head of Apollo crowned with laurel; behind the head one makes out the traces of an ornament so imperfectly preserved that one cannot be sure whether it is a bunch of grapes. The reverse is a threatening Bull, with a rudder above: the word MASSALIETON reads at the bottom."
+      ],
+      "obverse_fr": "tête d'Apollon couronnée de laurier; vestiges d'un ornement derrière la tête (raisin?), mal conservés",
+      "obverse_ru": "голова Аполлона в лавровом венке; за головой — плохо сохранившиеся следы украшения (виноград?)",
+      "obverse_en": "head of Apollo, laurel-crowned; poorly preserved traces of an ornament behind the head (grapes?)",
+      "reverse_fr": "taureau menaçant, gouvernail par-dessus, MASSALIETON",
+      "reverse_ru": "угрожающий бык, рулевое весло сверху, MASSALIETON",
+      "reverse_en": "threatening bull, a rudder above, MASSALIETON",
+      "motifs": [
+        "apollo",
+        "bull"
+      ]
+    },
+    {
+      "id": "pl5-4",
+      "part": 1,
+      "plate": 5,
+      "num": "4",
+      "fr": "Monnaie remaniée: Lion / Trépied / Croix",
+      "ru": "Перечеканенная монета: лев / треножник / крест",
+      "en": "Re-struck coin: Lion / Tripod / Cross",
+      "page": "46",
+      "group": "V",
+      "group_fr": "Planche V",
+      "group_en": "V",
+      "group_page": "45",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl5-4.jpg"
+      ],
+      "plate_img": "pl5-full.jpg",
+      "bbox": [
+        6.31,
+        59.78,
+        36.66,
+        13.85
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Cette Médaille est curieuse à plusieurs égards, en ce qu'elle a passé trois fois sous des coins différens: on y distingue d'un côté une tête coiffée du casque Macédonien, & de l'autre, une tête à cheveux épars. Sur le premier côté on voit le Lion frappé après coup, avec l'abréviation MASSA, de façon à laisser appercevoir que cette figure est l'effet d'un second coin, sous lequel on a fait passer cette Médaille après l'avoir battue une première fois. C'est à la même cause qu'on doit rapporter le Trépied qui se trouve empreint de l'autre côté, avec les lettres MA. Enfin une marque certaine d'un troisième coin, c'est la figure d'un pot, au dessus duquel on voit un cercle qui renferme la Croix. Cette dernière empreinte prenant sur le Trépied, comme le Trépied lui-même prend sur la figure. Au lieu d'ordonner des refontes coûteuses, nos Pères mettoient probablement l'empreinte des nouveaux coins sur les monnoies de bon aloi qu'on présentoit à la monnoie, lors des recherches sur le billonage: cette sage économie mettoit le particulier dans le cas de ne point se soustraire à la vérification des monnoies, & l'Etat s'assuroit par-là un moyen de combattre la criminelle avidité des usuriers & des contrevenans; la figure de la Croix en dessous du Trépied ne pouvant avoir été empreinte en même temps, pour ne pas mêler ainsi le signe de notre salut avec les objets destinés au culte des fausses divinités, il faut de nécessité recourir à ce que nous venons d'exposer, pour expliquer ces variétés."
+      ],
+      "text_ru": [
+        "Эта монета любопытна во многих отношениях, поскольку она трижды прошла под разными штемпелями: на ней различимы с одной стороны голова в македонском шлеме, а с другой — голова с распущенными волосами. На первой стороне виден лев, отчеканенный поверх прежнего изображения, с сокращением MASSA, — так, что заметно, что эта фигура есть результат второго штемпеля, под который эту монету пропустили после того, как она уже была отчеканена в первый раз. По той же причине следует отнести и Треножник, отпечатавшийся с другой стороны, с буквами MA. Наконец, верный признак третьего штемпеля — изображение сосуда, над которым виден круг, заключающий в себе Крест. Этот последний оттиск наложен поверх Треножника, подобно тому как сам Треножник наложен поверх фигуры. Вместо того чтобы прибегать к дорогостоящей переплавке, наши Предки, вероятно, ставили оттиск новых штемпелей на доброкачественных монетах, предъявляемых к обмену при проверках на предмет порчи монеты: эта мудрая экономия ставила частное лицо перед необходимостью не уклоняться от проверки монет, а Государство тем самым обеспечивало себе средство борьбы с преступной алчностью ростовщиков и нарушителей закона; поскольку изображение Креста под Треножником не могло быть оттиснуто одновременно с ним — дабы не смешивать знак нашего спасения с предметами, предназначенными для культа ложных божеств, — приходится по необходимости прибегнуть к только что изложенному объяснению этих различий."
+      ],
+      "text_en": [
+        "This medal is curious in several respects, in that it passed three times under different dies: one makes out on it, on one side, a head wearing the Macedonian helmet, and on the other, a head with loose hair. On the first side one sees the Lion struck over the design, with the abbreviation MASSA, in such a way as to reveal that this figure is the effect of a second die, under which this medal was passed after having been struck a first time. The Tripod found stamped on the other side, with the letters MA, must be attributed to the same cause. Finally, a sure mark of a third die is the figure of a pot, above which one sees a circle enclosing the Cross. This last imprint overlays the Tripod, just as the Tripod itself overlays the figure. Instead of ordering costly recoinages, our Forefathers probably stamped the imprint of new dies onto sound coins that were presented for exchange during inquiries into debasement: this wise economy put the individual in a position where he could not evade the verification of coinage, and the State thereby secured for itself a means of combating the criminal greed of usurers and offenders; since the figure of the Cross beneath the Tripod could not have been stamped at the same time - so as not to mix the sign of our salvation with objects intended for the worship of false divinities - one must necessarily resort to the explanation just given, to account for these varieties."
+      ],
+      "obverse_fr": "côté 1: tête casquée (macédonienne); côté 2: tête aux cheveux épars",
+      "obverse_ru": "сторона 1: голова в (македонском) шлеме; сторона 2: голова с распущенными волосами",
+      "obverse_en": "side 1: helmeted (Macedonian) head; side 2: head with loose hair",
+      "reverse_fr": "lion frappé après coup, MASSA; trépied, MA; et, d'une troisième frappe, un pot surmonté d'un cercle renfermant une croix",
+      "reverse_ru": "лев, отчеканенный поверх, MASSA; треножник, MA; и, от третьей чеканки, сосуд, увенчанный кругом с крестом внутри",
+      "reverse_en": "a lion struck over the design, MASSA; a tripod, MA; and, from a third striking, a pot topped by a circle enclosing a cross",
+      "motifs": [
+        "lion",
+        "cross",
+        "tripod"
+      ]
+    },
+    {
+      "id": "pl5-5",
+      "part": 1,
+      "plate": 5,
+      "num": "5",
+      "fr": "Apollon (corne d'abondance) / Taureau, MASSALIETON",
+      "ru": "Аполлон (рог изобилия) / бык, MASSALIETON",
+      "en": "Apollo (cornucopia) / Bull, MASSALIETON",
+      "page": "47",
+      "group": "V",
+      "group_fr": "Planche V",
+      "group_en": "V",
+      "group_page": "45",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl5-5.jpg"
+      ],
+      "plate_img": "pl5-full.jpg",
+      "bbox": [
+        57.68,
+        11.27,
+        37.48,
+        11.64
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 5. Tête d'Apollon couronnée de laurier, avec une corne d'abondance derrière la tête; le revers, le Taureau menaçant, & un épi de blé par dessus. Cette Médaille désigne une récolte abondante, ou des grains fournis à quelques peuples voisins: on lit le mot MASSALIETON."
+      ],
+      "text_ru": [
+        "№5. Голова Аполлона, увенчанная лавром, с рогом изобилия за головой; оборот — угрожающий бык, а сверху — колос пшеницы. Эта монета обозначает обильный урожай либо зерно, предоставленное каким-то соседним народам: читается слово MASSALIETON."
+      ],
+      "text_en": [
+        "No. 5. Head of Apollo crowned with laurel, with a cornucopia behind the head; the reverse, the threatening Bull, with an ear of wheat above. This medal denotes an abundant harvest, or grain supplied to some neighboring peoples: the word MASSALIETON reads on it."
+      ],
+      "obverse_fr": "tête d'Apollon couronnée de laurier, une corne d'abondance derrière la tête",
+      "obverse_ru": "голова Аполлона в лавровом венке, рог изобилия за головой",
+      "obverse_en": "head of Apollo, laurel-crowned, a cornucopia behind the head",
+      "reverse_fr": "taureau menaçant, un épi de blé par-dessus, MASSALIETON",
+      "reverse_ru": "угрожающий бык, колос пшеницы сверху, MASSALIETON",
+      "reverse_en": "threatening bull, an ear of wheat above, MASSALIETON",
+      "motifs": [
+        "apollo",
+        "bull",
+        "cornucopia"
+      ]
+    },
+    {
+      "id": "pl5-6",
+      "part": 1,
+      "plate": 5,
+      "num": "6",
+      "fr": "Apollon (trois mesures) / Taureau, MASSALIETON",
+      "ru": "Аполлон (три меры) / бык, MASSALIETON",
+      "en": "Apollo (three measures) / Bull, MASSALIETON",
+      "page": "47",
+      "group": "V",
+      "group_fr": "Planche V",
+      "group_en": "V",
+      "group_page": "45",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl5-6.jpg"
+      ],
+      "plate_img": "pl5-full.jpg",
+      "bbox": [
+        57.58,
+        27.06,
+        36.15,
+        9.94
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 6. Tête d'Apollon couronnée de laurier; derrière la tête, trois cônes renversés l'un dans l'autre: ils me paroissent être des mesures, les anciens boisseaux ayant à peu près la même forme, ainsi qu'on peut les remarquer dans les figures de Serapis, qui sont presque toutes avec un boisseau sur la tête; le revers, le Taureau menaçant, avec le mot MASSALIETON."
+      ],
+      "text_ru": [
+        "№6. Голова Аполлона, увенчанная лавром; за головой — три конуса, вложенных один в другой, перевёрнутых: мне они представляются мерами объёма, поскольку древние хлебные меры имели примерно ту же форму, что можно заметить на изображениях Сераписа, почти все из которых несут на голове такую меру; оборот — угрожающий бык, со словом MASSALIETON."
+      ],
+      "text_en": [
+        "No. 6. Head of Apollo crowned with laurel; behind the head, three cones inverted one within another: they seem to me to be measures, the ancient bushel-measures having roughly the same shape, as can be noted in figures of Serapis, almost all of which wear a bushel-measure on the head; the reverse, the threatening Bull, with the word MASSALIETON."
+      ],
+      "obverse_fr": "tête d'Apollon couronnée de laurier, trois cônes renversés l'un dans l'autre derrière la tête (mesures, comme sur les figures de Serapis)",
+      "obverse_ru": "голова Аполлона в лавровом венке, за головой — три перевёрнутых конуса один в другом (меры, как на изображениях Сераписа)",
+      "obverse_en": "head of Apollo, laurel-crowned, three inverted cones nested behind the head (measures, as on figures of Serapis)",
+      "reverse_fr": "taureau menaçant, MASSALIETON",
+      "reverse_ru": "угрожающий бык, MASSALIETON",
+      "reverse_en": "threatening bull, MASSALIETON",
+      "motifs": [
+        "apollo",
+        "bull"
+      ]
+    },
+    {
+      "id": "pl5-7",
+      "part": 1,
+      "plate": 5,
+      "num": "7",
+      "fr": "Apollon (ornement rond) / Taureau, MASSALIETON",
+      "ru": "Аполлон (круглое украшение) / бык, MASSALIETON",
+      "en": "Apollo (round ornament) / Bull, MASSALIETON",
+      "page": "47",
+      "group": "V",
+      "group_fr": "Planche V",
+      "group_en": "V",
+      "group_page": "45",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl5-7.jpg"
+      ],
+      "plate_img": "pl5-full.jpg",
+      "bbox": [
+        55.13,
+        41.54,
+        37.23,
+        11.91
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 7. Tête d'Apollon couronnée de laurier, avec un ornement en rond attaché derrière la tête; le revers, le Taureau, avec le mot MASSALIETON."
+      ],
+      "text_ru": [
+        "№7. Голова Аполлона, увенчанная лавром, с круглым украшением, прикреплённым за головой; оборот — бык, со словом MASSALIETON."
+      ],
+      "text_en": [
+        "No. 7. Head of Apollo crowned with laurel, with a round ornament attached behind the head; the reverse, the Bull, with the word MASSALIETON."
+      ],
+      "obverse_fr": "tête d'Apollon couronnée de laurier, un ornement en rond attaché derrière la tête",
+      "obverse_ru": "голова Аполлона в лавровом венке, круглое украшение прикреплено за головой",
+      "obverse_en": "head of Apollo, laurel-crowned, a round ornament attached behind the head",
+      "reverse_fr": "taureau, MASSALIETON",
+      "reverse_ru": "бык, MASSALIETON",
+      "reverse_en": "bull, MASSALIETON",
+      "motifs": [
+        "apollo",
+        "bull"
+      ]
+    },
+    {
+      "id": "pl5-8",
+      "part": 1,
+      "plate": 5,
+      "num": "8",
+      "fr": "Diane (mitella) / Lion au laurier, MASSALIETO",
+      "ru": "Диана (мителла) / лев у лавра, MASSALIETO",
+      "en": "Diana (mitella) / Lion by the laurel, MASSALIETO",
+      "page": "47",
+      "group": "V",
+      "group_fr": "Planche V",
+      "group_en": "V",
+      "group_page": "45",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl5-8.jpg"
+      ],
+      "plate_img": "pl5-full.jpg",
+      "bbox": [
+        53.59,
+        59.8,
+        38.66,
+        14.51
+      ],
+      "attrs": [],
+      "text_fr": [
+        "La Médaille du n°. 8. est une de celles qui peuvent être réputées des plus intéressantes; elle représente Diane en Buste, la tête ornée du Diadême, les cheveux retroussés avec des bandes d'étoffe. Ces bandes pourroient bien être la mitelle des anciens Grecs, ornement de tête, dont les personnes du sexe se servoient pour arranger leurs cheveux avec plus de grace. Virgile dit dans son épigramme contre la fameuse Copa Syrisca: Caput Graïa redimita mitella. Le redimitus étoit un ornement ou un ruban qui servoit à lier la coiffure des femmes; ce qui paroît convenir à la coiffure de la tête empreinte sur notre Médaille; la contre-marque est une étoile à huit pointes. Le revers n'est pas moins curieux: il représente un Lion arrêté au pied d'un jeune laurier, comme pour le garder. Les forces militaires de la République de Marseille furent invincibles, & le seul César peut les surmonter: cette Médaille ayant été frappée avant que ce grand Capitaine eût assiégé Marseille; ce qu'on distingue aisément à tout l'ancien costume grec, conservé dans les ajustemens de la tête de Diane, & au caractère du dessein; il est probable que les Marseillois firent graver ce symbole sur leurs monnoies, après avoir fait éprouver leur valeur à quelques peuples ennemis. On lit dans le champ les lettres MASSALIETO."
+      ],
+      "text_ru": [
+        "Монета под №8 — одна из тех, что можно признать наиболее интересными; она представляет бюст Дианы, голова украшена диадемой, волосы подвязаны полосами ткани. Эти полосы вполне могут быть той мителлой древних Греков, головным украшением, которым женщины пользовались, чтобы изящнее уложить волосы. Вергилий говорит в своей эпиграмме против знаменитой Копы Сирийской: «Caput Graïa redimita mitella» (голова, повязанная греческой мителлой). «Redimitus» означало украшение или ленту, служившую для подвязывания женской причёски; это, по-видимому, соответствует убору головы, отчеканенной на нашей монете; клеймо — восьмиконечная звезда. Оборот не менее любопытен: он изображает льва, остановившегося у подножия молодого лавра, словно охраняя его. Военные силы Марсельской Республики были непобедимы, и лишь один Цезарь смог их одолеть: эта монета была отчеканена ещё до того, как этот великий полководец осадил Марсель; что легко различимо по всему древнегреческому убранству, сохранённому в уборе головы Дианы, и по характеру рисунка; вероятно, марсельцы повелели выгравировать этот символ на своих монетах после того, как дали некоторым враждебным народам испытать их доблесть. В поле читаются буквы MASSALIETO."
+      ],
+      "text_en": [
+        "The medal of no. 8 is one of those that may be deemed among the most interesting; it shows Diana in Bust, her head adorned with the Diadem, the hair swept up with bands of cloth. These bands may well be the mitella of the ancient Greeks, a head ornament that women used to arrange their hair more gracefully. Virgil says in his epigram against the famous Copa Syrisca: Caput Graïa redimita mitella (her head bound with a Greek mitella). The redimitus was an ornament or ribbon that served to tie up women's hairstyles; which seems to suit the headdress stamped on our medal; the countermark is an eight-pointed star. The reverse is no less curious: it shows a Lion stopped at the foot of a young laurel, as if to guard it. The military forces of the Republic of Marseille were invincible, and Caesar alone could overcome them: this medal having been struck before that great Captain besieged Marseille; which is easily recognized by the whole ancient Greek costume preserved in the arrangement of Diana's head, and by the character of the design; it is probable that the Marseillais had this symbol engraved on their coinage after having made some enemy peoples feel their valor. In the field one reads the letters MASSALIETO."
+      ],
+      "obverse_fr": "buste de Diane, diadème, cheveux retroussés avec des bandes d'étoffe (mitella), contremarque étoile à huit pointes",
+      "obverse_ru": "бюст Дианы, диадема, волосы подвязаны полосами ткани (мителла), клеймо — восьмиконечная звезда",
+      "obverse_en": "bust of Diana, diadem, hair bound up with cloth bands (a mitella), eight-pointed star countermark",
+      "reverse_fr": "lion arrêté au pied d'un jeune laurier, comme pour le garder, MASSALIETO",
+      "reverse_ru": "лев, остановившийся у подножия молодого лавра, словно охраняя его, MASSALIETO",
+      "reverse_en": "lion stopped at the foot of a young laurel tree, as if guarding it, MASSALIETO",
+      "motifs": [
+        "diana",
+        "diadem",
+        "lion",
+        "laurel-crown"
+      ]
+    },
+    {
+      "id": "pl5-9",
+      "part": 1,
+      "plate": 5,
+      "num": "9",
+      "fr": "Diane / Corne d'abondance, MASSEILS",
+      "ru": "Диана / рог изобилия, MASSEILS",
+      "en": "Diana / Cornucopia, MASSEILS",
+      "page": "48",
+      "group": "V",
+      "group_fr": "Planche V",
+      "group_en": "V",
+      "group_page": "45",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl5-9.jpg"
+      ],
+      "plate_img": "pl5-full.jpg",
+      "bbox": [
+        26.32,
+        75.06,
+        39.48,
+        13.33
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 9. C'est à l'amitié & à l'amour patriotique de M. Germain de Marseille, ancien Chancelier de la Nation Françoise à Alger, que je suis redevable de la connoissance de cette Médaille, dont il avoit été possesseur. Lorsqu'il la céda à notre célèbre compatriote M. Carry, il en garda un dessein dans des Mémoires manuscrits, qu'il m'a obligeamment communiqués, & d'après lesquels j'ai fait exécuter la Gravure. La tête de Diane est sans ornement; le revers représente une Effigie, avec les attributs du jeu sur le revers (c'étoit peut-être les Jettons de la Société), une corne d'abondance, au milieu des deux constellations de Castor & Pollux représentées par deux étoiles & les deux bonnets de la liberté. On lit au bas, toujours en caractères grecs, les lettres MASSEILS: la conformité de la tête avec celles empreintes sur d'autres Médailles de Marseille, ne laisse aucun doute que cette Médaille ait été frappée dans cette Ville."
+      ],
+      "text_ru": [
+        "№9. Знанием этой монеты, которой он некогда владел, я обязан дружбе и патриотической любви г-на Жермена из Марселя, бывшего канцлера Французской нации в Алжире. Когда он уступил её нашему прославленному соотечественнику г-ну Карри, он сохранил её рисунок в рукописных Записках, которые любезно мне сообщил и по которым я велел изготовить гравюру. Голова Дианы лишена украшений; оборот представляет изображение с игровыми атрибутами на обороте (возможно, это были жетоны некоего Общества) — рог изобилия посреди двух созвездий Кастора и Поллукса, представленных двумя звёздами, и двух фригийских колпаков свободы. Внизу, также греческими буквами, читаются буквы MASSEILS: сходство этой головы с теми, что отчеканены на других марсельских монетах, не оставляет никаких сомнений, что эта монета была отчеканена в этом Городе."
+      ],
+      "text_en": [
+        "No. 9. It is to the friendship and patriotic affection of M. Germain of Marseille, former Chancellor of the French Nation at Algiers, that I owe my knowledge of this medal, of which he had been the owner. When he gave it up to our celebrated countryman M. Carry, he kept a drawing of it in manuscript Memoirs, which he kindly communicated to me, and from which I had the Engraving made. The head of Diana bears no ornament; the reverse shows a device with the attributes of a game on it (these were perhaps the Tokens of some Society), a cornucopia, amid the two constellations of Castor and Pollux represented by two stars and the two caps of liberty. At the bottom, again in Greek characters, one reads the letters MASSEILS: the conformity of the head with those stamped on other medals of Marseille leaves no doubt that this medal was struck in this City."
+      ],
+      "obverse_fr": "tête de Diane, sans ornement",
+      "obverse_ru": "голова Дианы, без украшений",
+      "obverse_en": "head of Diana, unadorned",
+      "reverse_fr": "corne d'abondance entre les deux étoiles de Castor et Pollux et deux bonnets de la liberté, MASSEILS",
+      "reverse_ru": "рог изобилия между двумя звёздами Кастора и Поллукса и двумя фригийскими колпаками свободы, MASSEILS",
+      "reverse_en": "cornucopia between the two stars of Castor and Pollux and two caps of liberty, MASSEILS",
+      "motifs": [
+        "diana",
+        "cornucopia"
+      ]
     }
   ]
 }
