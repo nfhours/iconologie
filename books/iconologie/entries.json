@@ -11122,12 +11122,34 @@
       "group_fr": "Diverses Concordes",
       "group_page": "70",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-55-overview.jpg",
+        "p2-55.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Общее вступление (без отдельного номера) о природе Согласия вообще; на иллюстрации — общий вид страницы со всеми четырьмя медальонами «Diverses Concordes»; затем юноша и женщина в пурпурных одеждах, скованные одной цепью, держащие в руках одно сердце",
+          "meaning": "Пучок прутьев — сила, обретаемая через единение, в противовес слабости разобщённости; общая цепь и единое сердце — нерасторжимая связь супружеской любви, установленная Божественным законом",
+          "what_en": "A general introduction (without its own number) on the nature of Concord in general; the illustration shows the full page with all four \"Diverse Concords\" roundels; then a youth and a woman in purple robes, bound by one chain, holding a single heart between them",
+          "meaning_en": "The bundle of rods signifies the strength gained through union, as opposed to the weakness of division; the shared chain and single heart, the indissoluble bond of conjugal love established by divine law"
+        }
+      ],
+      "text_ru": [
+        "Под Согласием должно разуметь взаимное единение многих людей, живущих и общающихся между собою со столь доброй взаимностью, что они никогда не противоречат друг другу в своих желаниях. Отчего я полагаю, что для него не может быть символа более подобающего, чем тесно связанный пучок прутьев, из коих каждый по отдельности слаб, но, соединённые все вместе, становятся чрезвычайно крепкими. И впрямь истинно, что через единение действия людей обретают мощную твёрдость, как замечает Саллюстий, говоря, что Согласием малые вещи обретают приращение, тогда как, напротив, раздор приводит к упадку величайших.",
+        "Его изображают юношей по правую руку от женщины: оба облачены в пурпур, их стягивает одна и та же цепь, и оба держат в руке одно и то же сердце.",
+        "Это означает, что брак, будучи плодом любви между мужчиной и женщиной, установлен Божественными Законами, желающими, чтобы супруги были неразлучны до самой смерти."
+      ],
+      "text_fr": [
+        "PAR la Concorde se doit entendre l'union mutuelle de plusieurs personnes qui vivent & conversent ensemble avec tant de bonne correspondance, qu'elles ne se contredisent jamais dans leurs volontez. Ce qui me fait croire qu'elle ne peut avoir de symbole plus convenable qu'un faisceau de verges étroitement liées, chacune desquelles est foible; mais si on les joint toutes, elles deviennent extremement fortes. Aussi est-il vray que par l'union les actions des hommes s'affermissent puissamment, comme le remarque Salluste, où il dit, que par la Concorde les petites choses prennent accroissement, comme au contraire la discorde fait décroistre les plus grandes.",
+        "On la represente par un jeune homme qui est à la main droite d'une femme: l'un & l'autre vestu de pourpre, n'ayant qu'une mesme chaisne qui les étreint, ny qu'un mesme cœur que l'un & l'autre tient dans la main.",
+        "Cela signifie que le mariage estant un effet d'amour entre l'homme & la femme, a esté institué par les Loix divines, qui veulent que les personnes mariées soient inséparables jusques à la mort."
+      ],
       "en": "Conjugal Concord",
-      "group_en": "Various Kinds of Concord"
+      "group_en": "Various Kinds of Concord",
+      "scans": [
+        "p2-55-1.jpg",
+        "p2-55-2.jpg"
+      ]
     },
     {
       "id": "p2-56",
@@ -11140,12 +11162,33 @@
       "group_fr": "Diverses Concordes",
       "group_page": "70",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-56.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина, увенчанная оливковой ветвью, с сосудом огня в одной руке и рогом изобилия в другой",
+          "meaning": "Олива — символ мира; огонь — пламенная любовь и милосердие; рог изобилия — богатства и блага, которые мир и согласие приносят государствам",
+          "what_en": "A woman crowned with an olive branch, a vessel of fire in one hand and a cornucopia in the other",
+          "meaning_en": "The olive signifies peace; the fire, ardent love and charity; the cornucopia, the riches and blessings that peace and concord bring to states"
+        }
+      ],
+      "text_ru": [
+        "Её эмблема — женщина, увенчанная оливковой ветвью, держащая в одной руке сосуд, полный огня, а в другой — рог изобилия.",
+        "Олива — символ мира, как огонь — другой символ любви и пламенного милосердия.",
+        "Что до рога изобилия, он помещён здесь, дабы показать, что Согласие обогащает Государства, кои через него самого наслаждаются благами и желанными плодами, что обычно приносит мир."
+      ],
+      "text_fr": [
+        "ELLE a pour emblême une femme couronnée d'une branche d'olivier, tenant d'une main un vase plein de feu, & de l'autre une corne d'abondance.",
+        "L'olivier est un symbole de paix, comme le feu en est un autre d'amour & d'ardente charité.",
+        "Quant à la corne d'abondance elle est icy mise pour montrer que la Concorde enrichit les Estats, qui par elle-mesme jouïssent des biens & des fruits souhaitables qu'apporte ordinairement la paix."
+      ],
       "en": "Peaceful Concord",
-      "group_en": "Various Kinds of Concord"
+      "group_en": "Various Kinds of Concord",
+      "scans": [
+        "p2-56-1.jpg",
+        "p2-56-2.jpg"
+      ]
     },
     {
       "id": "p2-57",
@@ -11158,12 +11201,32 @@
       "group_fr": "Diverses Concordes",
       "group_page": "70",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-57.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Трёхликий вооружённый Герион в золотой короне, с шестью руками (держащими копьё, меч, скипетр и щит) и шестью ногами",
+          "meaning": "Множественность тела при единстве облика — три брата, живущие в столь полном согласии, что кажутся одной личностью; вооружение — непобедимая сила, рождаемая этим единством",
+          "what_en": "A three-faced armed Geryon in a golden crown, with six arms (bearing a lance, sword, scepter and shield) and six legs",
+          "meaning_en": "The multiplied body within a single figure represents three brothers living in such perfect accord that they seemed to be one person; the armor, the invincible strength born of that unity"
+        }
+      ],
+      "text_ru": [
+        "Не без веского основания представляют нам его в облике вооружённого Гериона, имеющего три лика, голову, увенчанную золотой короной, шесть рук и столько же ног. Он держит копьё в правой руке, в другой — обнажённый меч, а в третьей — скипетр. Причём надлежит заметить, что три прочие его руки с левой стороны все возложены на щит.",
+        "Этот Герион, по мнению некоторых, был испанским Царём, о коем измышляли, будто он имел три тела, поскольку владел тремя Царствами, кои потерял вместе с жизнью от доблести Геркулеса: но те, кто говорит о том более правдоподобно, утверждают, что под этим Герионом должно разуметь трёх братьев, живших вместе в столь добром согласии, что казались единой-единственной особой."
+      ],
+      "text_fr": [
+        "C'EST avec grande raison qu'on nous la figure par un Gerion armé, qui a trois visages, la teste environnée d'une couronne d'or, six bras, & autant de jambes. Il tient une lance de la main droite, de l'autre une épée nuë, & de la troisiéme un sceptre. Où il est à remarquer que ses autres trois mains du costé gauche, sont toutes posées sur un bouclier.",
+        "Ce Gerion, selon quelques-uns, estoit un Roy d'Espagne, duquel on feignoit qu'il avoit trois corps, parce qu'il possedoit trois Royaumes, lesquels il perdit avec la vie par la vaillance d'Hercule: mais ceux qui en parlent vraysemblablement, disent que par ce Gerion se doivent entendre trois freres, qui vivoient ensemble dans une si bonne intelligence, qu'ils ne sembloient estre qu'une seule personne."
+      ],
       "en": "Invincible Concord",
-      "group_en": "Various Kinds of Concord"
+      "group_en": "Various Kinds of Concord",
+      "scans": [
+        "p2-57-1.jpg",
+        "p2-57-2.jpg",
+        "p2-57-3.jpg"
+      ]
     },
     {
       "id": "p2-58",
@@ -11176,12 +11239,34 @@
       "group_fr": "Diverses Concordes",
       "group_page": "70",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-58.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Вооружённая подобно Палладе женщина с копьём в правой руке и змеями в левой",
+          "meaning": "Копьё — готовность обороняться оружием; змеи — яд гнева, которым согласие, нарушенное раздором, может вредить другим; упоминаемые альтернативные образы (нос корабля со знаменем, сидящая фигура с двумя рогами изобилия) иллюстрируют согласие войск и покой, приносимый государствам",
+          "what_en": "A woman armed like Pallas, a lance in her right hand and serpents in her left",
+          "meaning_en": "The lance signifies readiness to defend by arms; the serpents, the venom of anger that concord, when broken, can turn against others; the alternative images mentioned (a ship's prow with a standard, a seated figure with two cornucopias) illustrate military concord and the peace it brings to states"
+        }
+      ],
+      "text_ru": [
+        "Она вооружена подобно Палладе, держа в правой руке копьё, а в левой — нескольких змей, дабы показать тем самым, что она всегда готова обороняться оружием и вредить другим ядом, который порождает гнев.",
+        "Это же Согласие видно также изображённым на медали Императора Нервы в облике женщины, держащей в правой руке нос корабля, на коем виднеется военное знамя, посреди коего можно приметить иероглиф Верности, а именно две сплетённые руки, с надписью Concordia exercituum (Согласие войск).",
+        "Опускаю, что на другой медали она изображена сидящей и держащей два рога изобилия, дабы означить, что покой есть одно из главных следствий Согласия, и что оно само сохраняет Царства, наполняя их всевозможными благами, тогда как, напротив, как говорит г-н де Малерб: Раздор со змеиными власами, Гибельная чума для властителей, Не прекращает своих трагических деяний, Доколе не погубит сами государства. От него родилось безумие Греции против Азии, И от него они взяли факел, Коим опустошили свою землю, — Те два брата, чья война Не прекратилась и в могиле."
+      ],
+      "text_fr": [
+        "ELLE est armée en Pallas, tenant de la main droite une lance, & de la gauche plusieurs serpens, pour montrer par là, qu'elle est toûjours preste de se defendre soy-mesme par les armes, & à nuire aux autres par le venin que la colere produit.",
+        "Cette mesme Concorde se voit encore representée dans une medaille de l'Empereur Nerva, par une femme qui de la main droite tient une pointe de navire, sur qui se voit une enseigne militaire, au milieu de laquelle on peut remarquer le hieroglyfe de la Foy, à sçavoir deux mains qui s'entretiennent, avec ces mots, Concordia exercituum.",
+        "J'obmets qu'en une autre medaille elle est peinte assise & tenant deux cornes d'abondance, pour signifier que le repos est un des principaux effets de la Concorde, & qu'elle-mesme conserve les Royaumes en les comblant de toutes sortes de biens, comme au contraire, ainsi que dit M. de Malherbe: La Discorde aux crains de couleuvre, Peste fatale aux Potentats, Ne finit ses tragiques œuvres Que par la perte des Estats. D'elle nasquit la frenaisie De la Grece contre l'Asie, Et d'elle prirent le flambeau Dont ils desolerent leurs terres, Ces deux freres, de qui les guerres Durerent jusques au tombeau."
+      ],
       "en": "Military Concord",
-      "group_en": "Various Kinds of Concord"
+      "group_en": "Various Kinds of Concord",
+      "scans": [
+        "p2-58-1.jpg",
+        "p2-58-2.jpg",
+        "p2-58-3.jpg"
+      ]
     },
     {
       "id": "p2-59",
