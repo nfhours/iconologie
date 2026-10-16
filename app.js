@@ -5,7 +5,7 @@
   // Бампать при каждой правке app.css (и, по желанию, когда меняется логика
   // в app.js, завязанная на новую разметку), чтобы браузеры и CDN не отдавали
   // старую закэшированную копию стилей после деплоя.
-  var APP_VER = "18";
+  var APP_VER = "19";
   var me = document.currentScript;
   var BASE = (me && me.src) ? me.src.replace(/[^\/]*$/, "") : "./";
   var root = document.getElementById("iconologie");
@@ -719,6 +719,28 @@
     requestAnimationFrame(function(){ li.scrollIntoView({block:"center", behavior:"smooth"}); });
   }
   function isPhoneWidth(){ return window.matchMedia("(max-width: 640px)").matches; }
+  // iOS Safari does not reliably stop the page behind a fixed overlay from
+  // scrolling under touch with just overflow:hidden; pinning body to the
+  // current scroll position is the common, reliable fix. Kept across
+  // prev/next navigation inside the sheet (locked once, unlocked on close),
+  // so swiping through objects doesn't jump or re-trigger the lock.
+  var sheetScrollY = null;
+  function lockBodyScroll(){
+    if(sheetScrollY!=null) return;
+    sheetScrollY = window.scrollY;
+    document.body.style.position="fixed";
+    document.body.style.top=(-sheetScrollY)+"px";
+    document.body.style.left="0"; document.body.style.right="0";
+    document.documentElement.style.overflow="hidden";
+  }
+  function unlockBodyScroll(){
+    if(sheetScrollY==null) return;
+    document.body.style.position=""; document.body.style.top="";
+    document.body.style.left=""; document.body.style.right="";
+    document.documentElement.style.overflow="";
+    window.scrollTo(0, sheetScrollY);
+    sheetScrollY = null;
+  }
   function openObjectSheet(book, objs, idx){
     var it = objs[idx];
     var d = document.createElement("div");
@@ -736,16 +758,17 @@
         '<div class="ic-sheet-body"><img class="ic-sheet-img" src="'+esc(thumbSrc)+'" alt=""></div>'+
       '</div>';
     document.body.appendChild(d);
-    document.documentElement.style.overflow="hidden";
+    lockBodyScroll();
     var body = d.querySelector(".ic-sheet-body");
     body.insertAdjacentHTML("beforeend", objectDetailHtml(book, it));
     bindObjectDetail(book, it, body);
     highlightHotspot(it.id);
-    function cleanup(){ d.remove(); document.documentElement.style.overflow=""; highlightHotspot(null); document.removeEventListener("keydown",onKey); }
-    function onKey(e){ if(e.key==="Escape") cleanup(); }
-    function goTo(j){ if(j<0||j>=objs.length) return; cleanup(); openObjectSheet(book, objs, j); }
-    d.querySelector(".ic-sheet-backdrop").addEventListener("click", cleanup);
-    d.querySelector(".ic-sheet-close").addEventListener("click", cleanup);
+    function remove(){ d.remove(); document.removeEventListener("keydown",onKey); }
+    function close(){ remove(); unlockBodyScroll(); highlightHotspot(null); }
+    function onKey(e){ if(e.key==="Escape") close(); }
+    function goTo(j){ if(j<0||j>=objs.length) return; remove(); openObjectSheet(book, objs, j); }
+    d.querySelector(".ic-sheet-backdrop").addEventListener("click", close);
+    d.querySelector(".ic-sheet-close").addEventListener("click", close);
     document.addEventListener("keydown", onKey);
     d.querySelector(".ic-sheet-prev").addEventListener("click",function(){ goTo(idx-1); });
     d.querySelector(".ic-sheet-next").addEventListener("click",function(){ goTo(idx+1); });
