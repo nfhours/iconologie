@@ -9104,12 +9104,29 @@
       "group_fr": "Les quatre Saisons de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-9.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Молодая женщина в венке из цветов, держащая в обеих поднятых руках букеты разных цветов",
+          "meaning": "Венок и букеты цветов — обновление всей растительности в эту пору года, прекраснейшую и приятнейшую из всех",
+          "what_en": "A young woman garlanded with flowers, holding bouquets of various blossoms in both raised hands",
+          "meaning_en": "The garland and bouquets signify the renewal of all plant life in this season, the most pleasing of the year"
+        }
+      ],
+      "text_ru": [
+        "Эта фигура довольно объясняет себя сама, так что нет нужды распространяться о ней подробнее, ибо гирландой и букетами разных цветов, что она несёт, явлено, что все растения обновляются в эту прекрасную пору, приятнейшую из всех времён года."
+      ],
+      "text_fr": [
+        "CETTE figure s'explique assez d'elle-mesme, sans qu'il soit besoin d'en faire vn plus ample recit, puisque par la guirlande & les bouquets de diverses fleurs qu'elle porte, il est demontré que toutes les plantes se renouvellent en cette belle saison, la plus agreable de toutes celles de l'année."
+      ],
       "en": "Spring",
-      "group_en": "The Four Seasons of the Year"
+      "group_en": "The Four Seasons of the Year",
+      "scans": [
+        "p2-9-1.jpg",
+        "p2-9-2.jpg"
+      ]
     },
     {
       "id": "p2-10",
@@ -9122,12 +9139,39 @@
       "group_fr": "Les quatre Saisons de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-10.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная дева, увенчанная венком из колосьев, одетая в жёлтое, с зажжённым факелом в руке",
+          "meaning": "Венок из колосьев — главный плод летней поры; жёлтое одеяние — цвет созревшей пшеницы; зажжённый факел — великий солнечный жар лета",
+          "what_en": "A young maiden crowned with a wreath of wheat ears, clothed in yellow, holding a lit torch",
+          "meaning_en": "The wreath of ears signifies summer's chief fruit; the yellow robe, the color of ripened wheat; the lit torch, the great heat the sun pours out in summer"
+        }
+      ],
+      "text_ru": [
+        "Лучше её, думается мне, не изобразить, нежели как она явлена здесь: юной девой, увенчанной колосьями, одетой в жёлтое и держащей зажжённый факел.",
+        "Её изображают юной, поскольку Лето можно по праву назвать юностью года, ибо жар земли тогда более в своей силе, чем в любое иное время, дабы созревали плоды, что производит природа.",
+        "Гирлянда из колосьев, коей она увенчана, есть символ главного плода, что даёт эта пора года.",
+        "Её облачают в жёлтое за сходство этого цвета с пшеницей, когда она в своей зрелости.",
+        "Что до зажжённого факела, вложенного ей в руку, он собственно означает великий жар, что Солнце являет летом, как замечает Овидий во второй книге Метаморфоз.",
+        "К сказанному можно прибавить, что Древние, по свидетельству Григория Джиральди, обычно изображали Лето в облике богини Цереры, которую облачали величественной Дамой крепких лет, давая ей держать снопы колосьев, маки и другие подобающие ей растения."
+      ],
+      "text_fr": [
+        "IL ne peut mieux estre dépeint, ce me semble, qu'il est icy, par vne jeune fille couronnée d'espics, vestuë de jaune, & qui tient vne torche allumée.",
+        "Elle est peinte jeune, dautant que l'Esté se peut nommer proprement la jeunesse de l'année, parce que la chaleur de la terre est alors plus en sa force qu'en tout autre temps, pour faire meurir les fruits que la nature produit.",
+        "La guirlande dont elle est couronnée faite d'espics, est le symbole du principal fruit que donne cette saison.",
+        "On l'habille de jaune, pour la ressemblance qu'a cette couleur avec le bled quand il est en sa maturité.",
+        "Quand au flambeau allumé qu'on luy met en la main, il denote proprement la grande chaleur que le Soleil rend en Esté, comme le remarque Ovide liv. 2. Met.",
+        "A ce que je viens de dire on peut adjoûter que les Anciens, au rapport de Gregoire Giraldi, representoient ordinairement l'Esté par la Deesse Cerés, qu'ils habilloient en Dame majestueuse & d'âge robuste, luy faisant tenir des faisceaux d'espics, des pavots, & d'autres plantes qui luy estoient convenables."
+      ],
       "en": "Summer",
-      "group_en": "The Four Seasons of the Year"
+      "group_en": "The Four Seasons of the Year",
+      "scans": [
+        "p2-10-1.jpg",
+        "p2-10-2.jpg"
+      ]
     },
     {
       "id": "p2-11",
@@ -9140,12 +9184,36 @@
       "group_fr": "Les quatre Saisons de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-11.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Дородная женщина в богатом одеянии, увенчанная гирляндой виноградных листьев, с виноградной гроздью в правой руке и рогом изобилия в левой",
+          "meaning": "Дородство и роскошное одеяние — плодороднейшая и богатейшая пора года; виноград и рог изобилия — вино, плоды и обилие даров, приносимых осенью",
+          "what_en": "A full-figured woman in rich attire, garlanded with vine leaves, a bunch of grapes in her right hand and a cornucopia in her left",
+          "meaning_en": "Her fullness and splendid attire signify the most fertile and bountiful season of the year; the grapes and cornucopia, the wine, fruit and abundance of gifts autumn brings"
+        }
+      ],
+      "text_ru": [
+        "Здесь она является в облике женщины, которую отличает дородство, не менее чем и весьма богатое её одеяние. Она увенчана гирляндой виноградных листьев; сверх того в правой руке держит крупную виноградную гроздь, а в левой — рог изобилия, полный плодов различного рода.",
+        "Её изображают в зрелом возрасте, ибо пору Осени называют зрелостью года; а если Поэты так её именуют, то дабы показать, что земля тогда расположена давать людям плоды, что созрели от летнего зноя, и сбрасывает листья и семена, как бы утомлённая деторождением.",
+        "Её дородство и великолепное одеяние показывают, что эта пора — самая плодородная и богатая из всех времён года.",
+        "То же означено и виноградом с рогом изобилия, что несёт Осень, ибо она сама в изобилии даёт вино, плоды и прочие подобные вещи, необходимые для их поддержания."
+      ],
+      "text_fr": [
+        "IL se voit icy sous la figure d'vne femme que son embonpoint rend remarquable aussi bien que son habillement qui est fort riche. Elle est couronnée d'vne guirlande de pampres; outre que de la main droite elle tient vn gros raisin, & de la gauche vne corne d'abondance, pleine de fruits de diverses sortes.",
+        "Elle est peinte d'vn âge viril, à cause que la saison de l'Automne est appellée la virilité de l'année; & si les Poëtes la nomment ainsi, c'est pour montrer que la terre est alors disposée à donner aux hommes les fruits que la chaleur de l'Esté a meuris, & de se dépouiller des feuilles & des semences, estant comme lassée d'engendrer.",
+        "Son embonpoint & son habillement superbe montrent que cete saison est la plus feconde & la plus riche de toutes celles de l'année.",
+        "Le mesme est encore signifié par le raisin & la corne d'abondance que porte l'Automne, parce que luy-mesme donne abondamment du vin, des fruits, & autres choses semblables, necessaires à leur entretenement."
+      ],
       "en": "Autumn",
-      "group_en": "The Four Seasons of the Year"
+      "group_en": "The Four Seasons of the Year",
+      "scans": [
+        "p2-11-1.jpg",
+        "p2-11-2.jpg",
+        "p2-11-3.jpg"
+      ]
     },
     {
       "id": "p2-12",
@@ -9158,12 +9226,38 @@
       "group_fr": "Les quatre Saisons de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-12.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Старая женщина в меховом одеянии, стоящая спиной к огню у стола с едой",
+          "meaning": "Старость и меховое одеяние — усталость и оскудение земли в зимнюю пору; еда и питьё у огня — мирное наслаждение плодами годового труда; (упоминаемая альтернатива) четверо разновозрастных детей с корзиной цветов, косой, коробом плодов и посохом с мёртвыми птицами — четыре времени года на медали Антонина Каракаллы",
+          "what_en": "An old woman in furred robes, standing with her back to the fire beside a table of food",
+          "meaning_en": "Her age and furred robe signify the earth's weariness and barrenness in winter; the eating and drinking by the fire, a peaceful enjoyment of the year's harvest; (an alternative mentioned) four children of unequal age bearing a basket of flowers, a scythe, a basket of fruit, and a staff hung with dead birds represent the four seasons on a medal of Antoninus Caracalla"
+        }
+      ],
+      "text_ru": [
+        "Его изображают старой женщиной, облачённой в меховое одеяние, стоящей спиной к огню, не заботящейся ни о чём, кроме как есть, пить и греться.",
+        "Её старость являет нам старость года, ибо зимою земля, утомлённая своими природными трудами, становится оледенелой, унылой и лишённой своих величайших красот. Эти стихи Овидия являют то же: Зима, холодная и дрожащая, вся покрытая льдом, / Странными разорениями приходит опустошить землю, / Она лишает поля плодов и урожаев, / Ведя со зверями ужасающую войну.",
+        "Её меховое одеяние и то, что она ест и пьёт у огня, заставляют нас заметить вместе с Пиэрием, что после трудов, понесённых нами летом, Зима призывает нас мирно наслаждаться богатствами, что дала нам земля, и словно побуждает нас жить пышнее обычного.",
+        "Сверх того, что я привёл, некоторые Поэты, желая изобразить Зиму, представляли Вулкана у его кузницы, равно как и Эола, выпускающего без разбора из пещеры самые неистовые ветры, ибо они обычно вызывают бури, более частые зимою, нежели во все иные времена года.",
+        "Не должно здесь забыть и того, что на медали Антонина Каракаллы эти же времена года означены фигурами четырёх детей неравного возраста, из коих первый несёт на плечах корзину, полную цветов; второй держит в правой руке косу; третий — короб, наполненный плодами; а четвёртый, одетый, тогда как прочие наги, имеет голову под покрывалом и на спине посох, на концах коего видны мёртвые птицы, различные меж собою."
+      ],
+      "text_fr": [
+        "ON le represente par vne vieille femme, vestuë d'vne robe fourée, ayant le dos tourné vers le feu, sans autre soin que de manger, de boire, & de se chauffer.",
+        "Sa vieillesse nous figure celle de l'année, parce qu'en Hyver la terre lassée de ses travaux naturels, devient glacée, melancolique, & dépouillée de ses plus grandes beautez. Ces vers d'Ovide le demontrent. L'Hyver froid & tremblant tout couvert de glaçons / Par d'étranges dégasts vient desoler la terre, / Il dépouille les champs de fruits & de moissons, / Faisant aux animaux vne effroyable guerre.",
+        "Sa robe fourée, & l'action de manger & de boire prés du feu, nous font remarquer avec Pierius, qu'aprés la peine que nous avons prise en Esté, l'Hyver nous invite à joüir paisiblement des richesses que la terre nous a données, & semble nous inciter à vivre plus splendidement que de coustume.",
+        "Outre ces choses que j'ay rapportées, quelques Poëtes voulant décrire l'Hyver, ont representé Vulcan prés sa forge, comme encore Eole, laschant pesle-mesme d'vne grotte les vents les plus impetueux, à cause qu'ils émeuvent ordinairement les tempestes, qui sont plus frequentes en Hyver qu'en toutes les autres saisons de l'année.",
+        "Il ne faut pas oublier icy que dans la medaille d'Antonin Caracalla, ces mesmes saisons sont denotées par les figures de quatre enfans qui sont inégaux en âge, dont le premier porte sur ses épaules vne corbeille pleine de fleurs; le second, vne faulx de la main droite; le troisiéme, vn pannier qui est remply de fruits; & le quatriéme qui est vestu, au lieu que les autres sont nuds, a la teste voilée, & sur son dos vn baston, aux extremitez duquel se voyent des oiseaux morts & differens l'vn de l'autre."
+      ],
       "en": "Winter",
-      "group_en": "The Four Seasons of the Year"
+      "group_en": "The Four Seasons of the Year",
+      "scans": [
+        "p2-12-1.jpg",
+        "p2-12-2.jpg",
+        "p2-12-3.jpg"
+      ]
     },
     {
       "id": "p2-13",
