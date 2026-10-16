@@ -7199,12 +7199,39 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-139.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Вооружённая дева в шлеме с золотым венцом, с обнажённым мечом в правой руке, на узде ведущая льва в левой, с нагрудником, усеянным числами",
+          "meaning": "Золотой венец — превосходство Разума над силами души; меч — мужественное искоренение пороков по примеру Христа; узда на льве — власть над дикими страстями; числа на нагруднике — достоверность познания, добытого Разумом",
+          "what_en": "An armed maiden in a helmet crowned with gold, a bare sword in her right hand, leading a bridled lion with her left, a breastplate sown with numerals",
+          "meaning_en": "The golden crown signifies Reason's mastery over the soul's powers; the sword, the courageous rooting-out of vices after Christ's example; the bridled lion, mastery over wild passions; the numerals on the breastplate, the certainty of knowledge Reason attains"
+        }
+      ],
+      "text_ru": [
+        "Эта юная дева, вооружённая почти как богиня Паллада, являет собою Разум; на шлеме её — богатый золотой венец, в правой руке — обнажённый меч, в левой — лев, которому она надела узду, а на груди — некое подобие нагрудника, усеянного арифметическими знаками.",
+        "Эта добродетель, которую богословы именуют мощнейшей силой души, ибо она повелевает человеком и даёт ему истинные законы, изображается юной и вооружённой, поскольку держится необычайной крепостью мудрости. Это древние и означили внешним оружием, преимущественно оружием Минервы.",
+        "Золотой венец учит нас, что один лишь Разум способен вывести доброе мужество на подмостки и в общее уважение людей; ибо золото не имеет перед прочими металлами столь великого преимущества, какое Разум имеет над силами души, кои он направляет своим водительством: оттого и восседает он в благороднейшей части тела.",
+        "Под её обнажёнными руками должно разуметь деяния, кои всегда добры и безупречны, когда предают себя водительству Разума.",
+        "Меч, что она носит, напоминает нам, что его должно мужественно употреблять для истребления чудовищ души, то есть пороков, воюющих против неё. Совершенным примером сего нам служит Иисус Христос, Владыка наш, чьё учение не имеет иной цели, кроме как вырвать застарелые грехи из душ наших и отсечь их корень посредством Разума, озарённого Его благодатью.",
+        "Узда, коей она удерживает льва, означает власть, которую она имеет над страстями, от природы дикими и необузданными. И подобно тому как через число доказываются вещи подлинные, так силою Разума обретается познание того, что служит нашему общему благу."
+      ],
+      "text_fr": [
+        "CETTE jeune fille armée à peu prés comme la Deesse Pallas, represente la raison; elle a sur son heaume vne riche couronne d'or, en la main droite vne épée nuë, en la gauche vn lion, à qui elle a mis vn frain, & devant son estomach vne maniere de plastron, semé de notes d'Arithmetique.",
+        "Cette vertu, que les Thologiens appellent la plus puissante force de l'ame, parce qu'elle commande à l'homme, & luy donne de vrayes Loix, est peinte jeune & armée, à cause qu'elle subsiste par vne extraordinaire vigueur de sagesse. Ce que les anciens nous ont figuré par les armes exterieures, principalement par celles de Minerve.",
+        "La couronne d'or nous enseigne, que la Raison seule est capable de mettre les bons courages sur le theatre, & dans l'estime vniverselle des hommes; car l'or n'a pas de plus grands avantages sur les metaux, qu'en a la Raison sur les puissances de l'ame, qu'elle regle par sa conduite: aussi a-t'elle son siege en la plus noble partie du corps.",
+        "Par ses bras nuds se doivent entendre les actions, qui sont toûjours bonnes & sans tache, quand elles se laissent guider à la Raison.",
+        "L'épée qu'elle porte nous fait souvenir, qu'il faut s'en servir courageusement à exterminer les monstres de l'ame, c'est à dire les vices qui luy font la guerre. Nous avons pour vn parfait exemple de cecy Jesus-Christ nostre souverain Maistre, la doctrine duquel n'a point d'autre but que d'arracher les vieux pechez de nos ames, & d'en couper la racine par le moyen de la Raison, éclairée de sa grace.",
+        "Le frain dont elle arreste le lion, signifie l'empire qu'elle a sur les passions, qui sont naturellement farouches, & indomptables. Et comme par le moyen du chifre on prouve les choses reélles: ainsi par la force de la Raison l'on s'acquiert la connoissance de celles qui regardent nostre commun bien."
+      ],
       "en": "Reason",
-      "group_en": "R"
+      "group_en": "R",
+      "scans": [
+        "p1-139-1.jpg",
+        "p1-139-2.jpg"
+      ]
     },
     {
       "id": "p1-140",
@@ -7217,12 +7244,40 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-140.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина-воительница в шлеме, латах, с ятаганом, в юбке, усеянной глазами и ушами, с жезлом в левой руке, опирающаяся правой на голову льва",
+          "meaning": "Воинское облачение — безразличие государственных соображений ко всему, кроме достижения цели; глаза и уши на юбке — всевидящая и всеслышащая бдительность; жезл — господство государей; лев — властное подчинение сильных, при соединении бдительности и силы",
+          "what_en": "A woman-at-arms in helmet and cuirass with a scimitar, her skirt sown with eyes and ears, a rod in her left hand, her right resting on a lion's head",
+          "meaning_en": "The armor signifies state policy's indifference to all but reaching its ends; the eyes and ears on the skirt, an all-seeing, all-hearing vigilance; the rod, the dominion of sovereigns; the lion, the mastering of the powerful, achieved by joining vigilance to force"
+        }
+      ],
+      "text_ru": [
+        "Мы изображаем её в облике женщины-воительницы, облачённой в шлем, латы и ятаган.",
+        "Сверх того на ней зелёная юбка, вся усеянная глазами и ушами, в левой руке — жезл, а правую она опирает на голову льва.",
+        "Её изображают вооружённой, дабы показать, что тот, кто действует по политическим соображениям, почитает все прочие соображения безразличными, лишь бы ему удалось довести свои притязания до конца и силою оружия совершить новые завоевания.",
+        "Юбка её, полная глаз и ушей, являет нам ревность (бдительную подозрительность), которая, дабы лучше вести свои замыслы и задерживать замыслы прочих, желает всё видеть, всё слышать.",
+        "Жезл, что она держит, есть знак господства государей над их подданными; хотя, впрочем, и люди меньшего звания не лишены, хоть и неподобающим образом, неких государственных соображений для управления своими делами.",
+        "Она опирается на льва, ибо по своим правилам великие мира сего стремятся подчинить себе сильнейших, подражая этому властному зверю, что ставит всех прочих ниже себя; этим же показано, что для сохранения Государства бдительность должна быть соединена с силой."
+      ],
+      "text_fr": [
+        "NOVS la representons par vne femme aguerrie, & qui est armée d'vn heaume, d'vne cuirasse, & d'vn cimeterre.",
+        "Elle a de plus vne juppe verte, toute semée d'yeux & d'oreilles, vne baguette en la main gauche, & la droite appuyée sur la teste d'vn lion.",
+        "On la peint armée, pour montrer, que celuy qui agit par les Raisons politiques, tient toutes les autres pour indifferentes, pourvû qu'il puisse venir à bout de ses pretentions, & par la force des armes faire de nouvelles conquestes.",
+        "Sa juppe pleine d'yeux & d'oreilles nous represente la jalousie, qui pour mieux acheminer ses desseins, & retarder ceux des autres, veut tout voir, tout oüir.",
+        "La baguette qu'elle tient est vne marque de la domination des Souverains sur leurs sujets; bien que toutefois les moindres personnes ne laissent pas, mais improprement, d'avoir certaines Raisons d'Estat, pour la direction & la conduite de leurs affaires.",
+        "Elle s'appuye sur vn lion, parce que par leurs maximes, les grands du monde cherchent à s'assujetir les plus puissans, à l'imitation de cet imperieux animal, qui met tous les autres au dessous de luy; par où il est encore montré, que pour la conservation d'vn Estat la vigilance doit estre jointe à la force."
+      ],
       "en": "Reason of State",
-      "group_en": "R"
+      "group_en": "R",
+      "scans": [
+        "p1-140-1.jpg",
+        "p1-140-2.jpg",
+        "p1-140-3.jpg"
+      ]
     },
     {
       "id": "p1-141",
@@ -7235,12 +7290,42 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-141.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша в доспехах с кошачьим нашлемником, оглядывающийся назад, с дротиком в обеих руках, попирающий сломанное ярмо",
+          "meaning": "Юность и вооружённость — нетерпение чужой власти и готовность нападать или обороняться; кот на шлеме — природная неприязнь к принуждению; попираемое ярмо — дерзкое презрение к власти законов и государя",
+          "what_en": "A youth in armor with a cat as his helmet crest, looking back over his shoulder, a javelin in both hands, trampling a broken yoke",
+          "meaning_en": "His youth and armor mean impatience of others' rule and readiness to attack or defend; the cat on his helmet, a creature's natural hatred of constraint; the trampled yoke, insolent contempt for the power of law and sovereign"
+        }
+      ],
+      "text_ru": [
+        "При одном взгляде на облик этого юноши, что озирается назад с осанкой столь же надменной, сколь и несуразной, тотчас заключают, что это Мятежник.",
+        "Он вооружён панцирем и дротиком, который держит обеими руками; к тому же на шлеме его — изображение кота, а стопами он попирает сломанное ярмо.",
+        "Его изображают юным, ибо в эту пору жизни тот, кто склонен к Мятежу, с трудом выносит чужую власть: так что кипящая в его жилах кровь заставляет его на всё отваживаться без всякого страха, как замечает Аристотель.",
+        "Он никогда не выходит невооружённым, ибо непрестанные опасения внезапного нападения требуют, чтобы он всегда был готов либо нападать, либо обороняться.",
+        "Кот служит ему нашлемником, ибо это животное по природе своей не терпит подчинения и принуждения. Так мы читаем, что свевы, англы и древние бургундцы носили его на своих знамёнах как знак свободы.",
+        "Его презрительная повадка и взор, обращённый назад, показывают, сколь мало почтения мятежники привыкли оказывать своим господам; и что, дойдя до такого, они уже никогда не бывают в безопасности, какими бы доспехами ни прикрывались.",
+        "Под ярмом, которое он попирает ногами, должно разуметь власть законов; в этом же смысле понимает его и Вергилий, говоря о судьбе Энея: что под ярмом законов он подчинит себе людей. Ибо воистину можно сказать, что подданные находятся под ярмом своего Государя; и если мятежники пытаются его стряхнуть, то к этому их толкает их надменный и неблагодарный нрав, влекущий их к презрению законов, без всякого уважения к послушанию, которое они обязаны оказывать своим государям. Посему по праву, дабы явить здесь дерзость мятежа, мы кладём ему под ноги ярмо, которое он топчет в явном презрении."
+      ],
+      "text_fr": [
+        "A VOIR la mine de ce jeune homme, qui regarde arriere luy avec vne posture qui n'est pas moins altiere qu'extravagante, on juge aussi-tost que c'est vn Rebelle.",
+        "Il est armé d'vn corcelet & d'vn javelot qu'il tient à deux mains; joint que pour cimier il porte la figure d'vn chat, & qu'il foule aux pieds vn joug rompu.",
+        "On le represente jeune, parce qu'en cet âge-là, celuy qui se porte à la Rebellion souffre difficilement l'empire d'autruy: de maniere que le sang qui boût dans ses vaines luy fait tout entreprendre sans rien craindre, comme le remarque Aristote.",
+        "Il ne va jamais sans estre armé, à cause que les continuelles apprehensions qu'il a de quelque surprise, veulent qu'il soit toûjours en estat, ou d'attaquer, ou de se defendre.",
+        "Vn chat luy sert de cimier, parce que cet animal abhorre naturellement d'estre sujet & dans la contrainte. Aussi lisons-nous que les Sueves, les Analois, & les anciens Bourguignons le portoient en leurs drapeaux, pour vne marque de liberté.",
+        "Son action dédaigneuse, & ses yeux qu'il tourne derriere luy, montrent le peu de respect que les rebelles ont accoûtumé de porter à leurs Seigneurs; & que depuis qu'ils en viennent là, ils ne sont jamais en seureté, de quelques armes dont ils se couvrent.",
+        "Par le joug qu'il foule aux pieds se doit entendre la puissance des loix; & c'est en ce mesme sens que le prend Virgile, lorsque parlant du destin d'Enée, il dit, Que sous le joug des loix il rangeroit les hommes. Car on peut dire veritablement, que les sujets sont sous le joug de leur Prince; que si les rebelles tachent de le secoüer, c'est leur humeur altiere & ingrate qui les y pousse, & qui les porte au mépris des loix, sans faire estat de l'obeïssance qu'ils sont obligez de rendre à leurs Souverains. C'est donc à bon droit, que pour faire voir icy l'insolence de la rebellion, nous luy mettons vn joug sous les pieds, qu'elle foule par vn mépris manifeste."
+      ],
       "en": "Rebellion",
-      "group_en": "R"
+      "group_en": "R",
+      "scans": [
+        "p1-141-1.jpg",
+        "p1-141-2.jpg",
+        "p1-141-3.jpg"
+      ]
     },
     {
       "id": "p1-142",
@@ -7253,12 +7338,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-142.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная дева с сапфиром на шее, кубком в правой руке и двумя амурами, которых она держит за руки",
+          "meaning": "Сапфир — ложно приписываемая драгоценному камню сила примирять поссорившихся, на деле же власть даров умилостивлять сердца; кубок — власть подарков над сердцем дамы; два амура — дружба и любовь, укрепляющиеся после ссоры и примирения",
+          "what_en": "A young maiden wearing a sapphire at her throat, a cup in her right hand, and two cherubs she holds by the hand",
+          "meaning_en": "The sapphire represents the power, falsely ascribed to the gem itself, of reconciling quarrelers — in truth the power of gifts to soften hearts; the cup, that same power over a lady's heart; the two cherubs, the friendship and love that grow stronger after a quarrel and reconciliation"
+        }
+      ],
+      "text_ru": [
+        "Здесь она изображена в облике юной девы, носящей на шее прекрасный сапфир, в правой руке держащей кубок, а в левой — двух маленьких амуров.",
+        "Примирением называют обновлённую Любовь, что случается, когда вновь обретают согласие с любимым существом; ибо всякому ведомо, что избыток Любви часто порождает подозрения и обиды, за коими по обыкновению следуют пренебрежение, презрение и гнев. Поэт Гораций весьма удачно сказал об этом: что среди всех зол, что Любовь рассеяла по земле, война следует за миром, а мир — за войной.",
+        "Все эти распри суть порождения слишком сильной страсти; ибо чем больше любви в любящем, тем более он уязвляется малейшей мелочью, воображая всегда, будто любимый предмет не отвечает на его чувство и чинит обиду его заслугам. Однако эта тень, что он сам на себя навлекает, ведёт на время к пренебрежению; но, опечалив как следует любимую особу, он в конце концов раскаивается, уже не может сдержать своего гнева, обвиняет самого себя и страстно желает заключить мир, — это и зовётся примирением в Любви. Меж истинными влюблёнными Любовь обновляется их же собственной ссорой.",
+        "Сапфир небесного цвета — символ этого Примирения, ибо, по Диоскориду, он обладает тайным свойством вновь приводить к доброму согласию тех, кто его носит и кто в разладе друг с другом; но это, на мой взгляд, скорее нелепость, нежели истина, — разве что понимать так, что драгоценности, подносимые дамам в дар, чересчур способны их умиротворить, сколь бы они ни были рассержены; ибо, как говорит Овидий, дары способны смягчить и богов, и людей.",
+        "Так и кубок, что держит эта дева, являет дивную власть, какую имеют дары над дамой, сколь бы суровой она ни была; ибо если она великодушна настолько, что отказывается от них, то по крайней мере будет за них благодарна; если же, напротив, она склонна их принять, собственный интерес принудит её примириться со своим возлюбленным.",
+        "Что до двух амуров, коих она держит за руку, то это означает, что дружба после Примирения укрепляется; ибо тогда, по слову Плавта, и любящие, и друзья наперебой стараются превзойти друг друга в ласке. Это показалось бы малоправдоподобным, если бы опыт того не подтверждал, — не считая примеров, что оставили нам древние, и в особенности Элиан, повествуя о Павсании и поэте Агафоне."
+      ],
+      "text_fr": [
+        "LA voicy representée sous la figure d'vne jeune fille, qui porte à son col vn beau saphir, en sa main droite vne coupe, tandis que de la gauche elle tient deux petits Amours.",
+        "L'on appelle reconciliation vne Amour renouvellé; ce qui advient quand on se remet bien avec la personne aimée; car tout le monde sçait qu'vn excez d'Amour engendre souvent les soupçons & les injures; à quoy le dédain, le mépris, & le courroux succedent pour l'ordinaire. Le Poëte Horace a fort bien dit à ce propos, Qu'en tous les maux qu'Amour a semez sur la terre, La guerre suit la paix, & la paix suit la guerre.",
+        "Toutes ces picoteries sont les creatures d'vne passion trop forte; car plus vn amant a d'Amour, & plus il s'offence de la moindre chose, s'imaginant toûjours que le sujet aimé ne répond pas à son affection, & qu'il fait tort à ses merites. Cependant cét ombrage qu'il se donne le porte au dédain pour quelque temps; mais apres avoir bien fâché la chose aimée il s'en repent à la fin, il ne peut plus tenir sa colere, il s'accuse soy-mesme, & desire passionnément de faire sa paix, ce qui s'appelle reconciliation d'Amour. Entre les vrais amans l'Amour se renouvelle Par leur propre querelle.",
+        "Le saphir de couleur celeste est vn symbole de cette Reconciliation, parce que selon Discoride, il a cette vertu secrete de remettre en bonne intelligence ceux qui le portent, & qui sont mal ensemble; mais cela tient du ridicule, à mon avis, plûtost que du veritable, si ce n'est que l'on vueille dire, que les pierreries dont ont fait present aux Dames ne sont que trop capables de les appaiser, quelques faschées qu'elles soient; puisque, comme dit Ovide, Les dons peuvent fléchir & les Dieux & les hommes.",
+        "Aussi par la coupe que tient cette fille, est demontré le merveilleux pouvoir qu'ils ont sur vne Dame, quelque severe qu'elle soit; car si elle est genereuse jusques au point de les refuser, du moins en sçaura-t'elle du gré; comme au contraire, si elle est d'humeur à les recevoir, ses interests propres l'obligeront à faire la paix avec son amant.",
+        "Quant aux deux Amours qu'elle tient par la main, cela signifie, que les amitiez se renforcent aprés la Reconciliation; car alors, comme dit Plaute, & les amants, & les amis font à l'envy à qui se caressera davantage. Ce qui sembleroit peu croyable, si l'experience ne l'asseuroit, outre les exemples que les anciens nous en donnent, & particulierement Elian, parlant de Pausanias & du Poëte Agaton."
+      ],
       "en": "Reconciliation of Love",
-      "group_en": "R"
+      "group_en": "R",
+      "scans": [
+        "p1-142-1.jpg",
+        "p1-142-2.jpg",
+        "p1-142-3.jpg",
+        "p1-142-4.jpg"
+      ]
     },
     {
       "id": "p1-143",
