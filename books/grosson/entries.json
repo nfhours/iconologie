@@ -5,9 +5,9 @@
       "part": 1,
       "plate": 1,
       "num": "1",
-      "fr": "Diane / Lion, MASSALIETON",
-      "ru": "Диана / лев, MASSALIETON",
-      "en": "Diana / Lion, MASSALIETON",
+      "fr": "Diane / Lion",
+      "ru": "Диана / лев",
+      "en": "Diana / Lion",
       "page": "24",
       "group": "I",
       "group_fr": "Planche I",
@@ -53,16 +53,19 @@
       "obverse_en": "bust of Diana, diadem, quiver and bow",
       "reverse_fr": "lion passant, MASSALIETON",
       "reverse_ru": "идущий лев, MASSALIETON",
-      "reverse_en": "walking lion, MASSALIETON"
+      "reverse_en": "walking lion, MASSALIETON",
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl1-2",
       "part": 1,
       "plate": 1,
       "num": "2",
-      "fr": "Diane / Lion (gueule béante), MASSALIETON",
-      "ru": "Диана / лев (с открытой пастью), MASSALIETON",
-      "en": "Diana / Lion (open jaws), MASSALIETON",
+      "fr": "Diane / Lion (gueule béante)",
+      "ru": "Диана / лев (с открытой пастью)",
+      "en": "Diana / Lion (open jaws)",
       "page": "25",
       "group": "I",
       "group_fr": "Planche I",
@@ -102,16 +105,19 @@
       "obverse_en": "bust of Diana, Greek-style features",
       "reverse_fr": "lion à la gueule béante, une patte levée, MASSALIETON",
       "reverse_ru": "лев с раскрытой пастью, одна лапа поднята, MASSALIETON",
-      "reverse_en": "lion with open jaws, one paw raised, MASSALIETON"
+      "reverse_en": "lion with open jaws, one paw raised, MASSALIETON",
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl1-3",
       "part": 1,
       "plate": 1,
       "num": "3",
-      "fr": "Diane (trident) / Lion cuirassé, MASSA XIIII",
-      "ru": "Диана (трезубец) / лев в кирасе, MASSA XIIII",
-      "en": "Diana (trident) / Cuirassed lion, MASSA XIIII",
+      "fr": "Diane (trident) / Lion cuirassé",
+      "ru": "Диана (трезубец) / лев в кирасе",
+      "en": "Diana (trident) / Cuirassed lion",
       "page": "25",
       "group": "I",
       "group_fr": "Planche I",
@@ -153,16 +159,19 @@
       "obverse_en": "Diana, rolled hairstyle, trident earring",
       "reverse_fr": "lion cuirassé, MASSA, XIIII",
       "reverse_ru": "лев в кирасе, MASSA, XIIII",
-      "reverse_en": "cuirassed lion, MASSA, XIIII"
+      "reverse_en": "cuirassed lion, MASSA, XIIII",
+      "legend_fr": "MASSA XIIII",
+      "legend_ru": "MASSA XIIII",
+      "legend_en": "MASSA XIIII"
     },
     {
       "id": "pl1-4",
       "part": 1,
       "plate": 1,
       "num": "4",
-      "fr": "Diane (boucles de perles) / Lion, MASSA ΛΛΕ",
-      "ru": "Диана (жемчужные серьги) / лев, MASSA ΛΛΕ",
-      "en": "Diana (pearl earrings) / Lion, MASSA ΛΛΕ",
+      "fr": "Diane (boucles de perles) / Lion",
+      "ru": "Диана (жемчужные серьги) / лев",
+      "en": "Diana (pearl earrings) / Lion",
       "page": "26",
       "group": "I",
       "group_fr": "Planche I",
@@ -202,16 +211,19 @@
       "obverse_en": "Diana, pearl earrings, no necklace",
       "reverse_fr": "lion (dessin moins soigné), MASSA / ΛΛΕ",
       "reverse_ru": "лев (менее тщательный рисунок), MASSA / ΛΛΕ",
-      "reverse_en": "lion (less careful drawing), MASSA / ΛΛΕ"
+      "reverse_en": "lion (less careful drawing), MASSA / ΛΛΕ",
+      "legend_fr": "MASSA ΛΛΕ",
+      "legend_ru": "MASSA ΛΛΕ",
+      "legend_en": "MASSA ΛΛΕ"
     },
     {
       "id": "pl1-5",
       "part": 1,
       "plate": 1,
       "num": "5",
-      "fr": "Diane / Lion, MASSA ΑΗΠΙ",
-      "ru": "Диана / лев, MASSA ΑΗΠΙ",
-      "en": "Diana / Lion, MASSA ΑΗΠΙ",
+      "fr": "Diane / Lion",
+      "ru": "Диана / лев",
+      "en": "Diana / Lion",
       "page": "26",
       "group": "I",
       "group_fr": "Planche I",
@@ -255,16 +267,19 @@
       "obverse_en": "Diana, bare shoulder, netted hairstyle",
       "reverse_fr": "lion, gueule béante, MASSA / ΑΗΠΙ",
       "reverse_ru": "лев с открытой пастью, MASSA / ΑΗΠΙ",
-      "reverse_en": "lion with open jaws, MASSA / ΑΗΠΙ"
+      "reverse_en": "lion with open jaws, MASSA / ΑΗΠΙ",
+      "legend_fr": "MASSA ΑΗΠΙ",
+      "legend_ru": "MASSA ΑΗΠΙ",
+      "legend_en": "MASSA ΑΗΠΙ"
     },
     {
       "id": "pl1-6",
       "part": 1,
       "plate": 1,
       "num": "6",
-      "fr": "Diane / Lion courroucé, MASSALIETON",
-      "ru": "Диана / разгневанный лев, MASSALIETON",
-      "en": "Diana / Enraged lion, MASSALIETON",
+      "fr": "Diane / Lion courroucé",
+      "ru": "Диана / разгневанный лев",
+      "en": "Diana / Enraged lion",
       "page": "26",
       "group": "I",
       "group_fr": "Planche I",
@@ -304,16 +319,19 @@
       "obverse_en": "Diana, braids tied with ribbons, no earrings",
       "reverse_fr": "lion courroucé, crinière hérissée, MASSALIETON, Β/Δ",
       "reverse_ru": "разгневанный лев, грива вздыблена, MASSALIETON, Β/Δ",
-      "reverse_en": "enraged lion, bristling mane, MASSALIETON, Β/Δ"
+      "reverse_en": "enraged lion, bristling mane, MASSALIETON, Β/Δ",
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl1-7",
       "part": 1,
       "plate": 1,
       "num": "7",
-      "fr": "Diane (feuillage) / Lion, MASSALIETON",
-      "ru": "Диана (с листвой) / лев, MASSALIETON",
-      "en": "Diana (foliage) / Lion, MASSALIETON",
+      "fr": "Diane (feuillage) / Lion",
+      "ru": "Диана (с листвой) / лев",
+      "en": "Diana (foliage) / Lion",
       "page": "27",
       "group": "I",
       "group_fr": "Planche I",
@@ -353,16 +371,19 @@
       "obverse_en": "Diana, leaf-and-flower ornament in the hairstyle",
       "reverse_fr": "lion courroucé, MASSALIETON (comme n°. 6)",
       "reverse_ru": "разгневанный лев, MASSALIETON (как №6)",
-      "reverse_en": "enraged lion, MASSALIETON (as no. 6)"
+      "reverse_en": "enraged lion, MASSALIETON (as no. 6)",
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl1-8",
       "part": 1,
       "plate": 1,
       "num": "8",
-      "fr": "Diane (couronne d'olivier) / Lion, MASSA",
-      "ru": "Диана (оливковый венец) / лев, MASSA",
-      "en": "Diana (olive crown) / Lion, MASSA",
+      "fr": "Diane (couronne d'olivier) / Lion",
+      "ru": "Диана (оливковый венец) / лев",
+      "en": "Diana (olive crown) / Lion",
       "page": "27",
       "group": "I",
       "group_fr": "Planche I",
@@ -406,16 +427,19 @@
       "obverse_en": "head of Diana, olive crown, single-drop earring",
       "reverse_fr": "lion, MASSA",
       "reverse_ru": "лев, MASSA",
-      "reverse_en": "lion, MASSA"
+      "reverse_en": "lion, MASSA",
+      "legend_fr": "MASSA",
+      "legend_ru": "MASSA",
+      "legend_en": "MASSA"
     },
     {
       "id": "pl1-9",
       "part": 1,
       "plate": 1,
       "num": "9",
-      "fr": "Mars / Aigle, MASSA",
-      "ru": "Марс / орёл, MASSA",
-      "en": "Mars / Eagle, MASSA",
+      "fr": "Mars / Aigle",
+      "ru": "Марс / орёл",
+      "en": "Mars / Eagle",
       "page": "27",
       "group": "I",
       "group_fr": "Planche I",
@@ -455,16 +479,19 @@
       "obverse_en": "helmeted head of Mars",
       "reverse_fr": "aigle, contre-marque étoile, MASSA",
       "reverse_ru": "орёл, клеймо — звезда, MASSA",
-      "reverse_en": "eagle, star countermark, MASSA"
+      "reverse_en": "eagle, star countermark, MASSA",
+      "legend_fr": "MASSA",
+      "legend_ru": "MASSA",
+      "legend_en": "MASSA"
     },
     {
       "id": "pl1-10",
       "part": 1,
       "plate": 1,
       "num": "10",
-      "fr": "Diane / Lion, A Λ",
-      "ru": "Диана / лев, A Λ",
-      "en": "Diana / Lion, A Λ",
+      "fr": "Diane / Lion",
+      "ru": "Диана / лев",
+      "en": "Diana / Lion",
       "page": "27",
       "group": "I",
       "group_fr": "Planche I",
@@ -504,16 +531,19 @@
       "obverse_en": "Diana (as no. 2), drapery folds on the chest",
       "reverse_fr": "lion, patte gauche levée, A / Λ (sans le nom de Marseille)",
       "reverse_ru": "лев с поднятой левой лапой, A / Λ (без имени Марселя)",
-      "reverse_en": "lion, left paw raised, A / Λ (no name of Marseille)"
+      "reverse_en": "lion, left paw raised, A / Λ (no name of Marseille)",
+      "legend_fr": "A Λ",
+      "legend_ru": "A Λ",
+      "legend_en": "A Λ"
     },
     {
       "id": "pl1-11",
       "part": 1,
       "plate": 1,
       "num": "11",
-      "fr": "Diane / Lion, MASSA TAΛ",
-      "ru": "Диана / лев, MASSA TAΛ",
-      "en": "Diana / Lion, MASSA TAΛ",
+      "fr": "Diane / Lion",
+      "ru": "Диана / лев",
+      "en": "Diana / Lion",
       "page": "28",
       "group": "I",
       "group_fr": "Planche I",
@@ -553,16 +583,19 @@
       "obverse_en": "Diana (as no. 10)",
       "reverse_fr": "lion, MASSA / TAΛ",
       "reverse_ru": "лев, MASSA / TAΛ",
-      "reverse_en": "lion, MASSA / TAΛ"
+      "reverse_en": "lion, MASSA / TAΛ",
+      "legend_fr": "MASSA TAΛ",
+      "legend_ru": "MASSA TAΛ",
+      "legend_en": "MASSA TAΛ"
     },
     {
       "id": "pl1-12",
       "part": 1,
       "plate": 1,
       "num": "12",
-      "fr": "Apollon / Taureau, MA",
-      "ru": "Аполлон / бык, MA",
-      "en": "Apollo / Bull, MA",
+      "fr": "Apollon / Taureau",
+      "ru": "Аполлон / бык",
+      "en": "Apollo / Bull",
       "page": "28",
       "group": "I",
       "group_fr": "Planche I",
@@ -602,16 +635,19 @@
       "obverse_en": "head of Apollo (as a young man)",
       "reverse_fr": "taureau menaçant, MA",
       "reverse_ru": "угрожающий бык, MA",
-      "reverse_en": "threatening bull, MA"
+      "reverse_en": "threatening bull, MA",
+      "legend_fr": "MA",
+      "legend_ru": "MA",
+      "legend_en": "MA"
     },
     {
       "id": "pl1-13",
       "part": 1,
       "plate": 1,
       "num": "13",
-      "fr": "Diane (javelot) / Lion, MASSA",
-      "ru": "Диана (с дротиком) / лев, MASSA",
-      "en": "Diana (javelin) / Lion, MASSA",
+      "fr": "Diane (javelot) / Lion",
+      "ru": "Диана (с дротиком) / лев",
+      "en": "Diana (javelin) / Lion",
       "page": "28",
       "group": "I",
       "group_fr": "Planche I",
@@ -652,16 +688,19 @@
       "obverse_en": "Diana, javelin on shoulder (instead of quiver)",
       "reverse_fr": "lion, MASSA",
       "reverse_ru": "лев, MASSA",
-      "reverse_en": "lion, MASSA"
+      "reverse_en": "lion, MASSA",
+      "legend_fr": "MASSA",
+      "legend_ru": "MASSA",
+      "legend_en": "MASSA"
     },
     {
       "id": "pl1-14",
       "part": 1,
       "plate": 1,
       "num": "14",
-      "fr": "Diane (double couronne) / Lion, MASSA",
-      "ru": "Диана (двойной венец) / лев, MASSA",
-      "en": "Diana (double crown) / Lion, MASSA",
+      "fr": "Diane (double couronne) / Lion",
+      "ru": "Диана (двойной венец) / лев",
+      "en": "Diana (double crown) / Lion",
       "page": "28",
       "group": "I",
       "group_fr": "Planche I",
@@ -703,16 +742,19 @@
       "obverse_en": "Diana, double olive crown, trident earring",
       "reverse_fr": "lion, MASSA",
       "reverse_ru": "лев, MASSA",
-      "reverse_en": "lion, MASSA"
+      "reverse_en": "lion, MASSA",
+      "legend_fr": "MASSA",
+      "legend_ru": "MASSA",
+      "legend_en": "MASSA"
     },
     {
       "id": "pl1-15",
       "part": 1,
       "plate": 1,
       "num": "15",
-      "fr": "Tête de jeune homme / Croix, MA",
-      "ru": "Голова юноши / крест, MA",
-      "en": "Head of a young man / Cross, MA",
+      "fr": "Tête de jeune homme / Croix",
+      "ru": "Голова юноши / крест",
+      "en": "Head of a young man / Cross",
       "page": "29",
       "group": "I",
       "group_fr": "Planche I",
@@ -751,16 +793,19 @@
       "obverse_en": "head of a young man",
       "reverse_fr": "croix, MA",
       "reverse_ru": "крест, MA",
-      "reverse_en": "cross, MA"
+      "reverse_en": "cross, MA",
+      "legend_fr": "MA",
+      "legend_ru": "MA",
+      "legend_en": "MA"
     },
     {
       "id": "pl1-16",
       "part": 1,
       "plate": 1,
       "num": "16",
-      "fr": "Diane (laurier) / Croix, MASSA / M",
-      "ru": "Диана (с лавром) / крест, MASSA / M",
-      "en": "Diana (laurel) / Cross, MASSA / M",
+      "fr": "Diane (laurier) / Croix",
+      "ru": "Диана (с лавром) / крест",
+      "en": "Diana (laurel) / Cross",
       "page": "29",
       "group": "I",
       "group_fr": "Planche I",
@@ -801,16 +846,19 @@
       "obverse_en": "Diana, laurel crown, MASSA",
       "reverse_fr": "croix, M",
       "reverse_ru": "крест, M",
-      "reverse_en": "cross, M"
+      "reverse_en": "cross, M",
+      "legend_fr": "MASSA / M",
+      "legend_ru": "MASSA / M",
+      "legend_en": "MASSA / M"
     },
     {
       "id": "pl1-17",
       "part": 1,
       "plate": 1,
       "num": "17",
-      "fr": "Tête, ΛΑΚΥΔΩΝ / Croix (de Malte)",
-      "ru": "Голова, ΛΑΚΥΔΩΝ / крест (мальтийского типа)",
-      "en": "Head, ΛΑΚΥΔΩΝ / Cross (Maltese-style)",
+      "fr": "Tête / Croix (de Malte)",
+      "ru": "Голова / Крест (мальтийского типа)",
+      "en": "Head / Cross (Maltese-style)",
       "page": "29",
       "group": "I",
       "group_fr": "Planche I",
@@ -852,16 +900,19 @@
       "obverse_en": "head of a young man, legend ΛΑΚΥΔΩΝ (Lacydon)",
       "reverse_fr": "croix pattée à huit pointes (comme celle de Malte), sans lettres visibles sur la gravure",
       "reverse_ru": "восьмиконечный крест с расширяющимися концами (мальтийского типа); на гравюре букв MA не видно",
-      "reverse_en": "eight-pointed cross pattée (Maltese-style); no letters visible on the engraving"
+      "reverse_en": "eight-pointed cross pattée (Maltese-style); no letters visible on the engraving",
+      "legend_fr": "ΛΑΚΥΔΩΝ",
+      "legend_ru": "ΛΑΚΥΔΩΝ",
+      "legend_en": "ΛΑΚΥΔΩΝ"
     },
     {
       "id": "pl1-18",
       "part": 1,
       "plate": 1,
       "num": "18",
-      "fr": "Diane (diadème) / Croix, Α Μ",
-      "ru": "Диана (с диадемой) / крест, Α Μ",
-      "en": "Diana (diadem) / Cross, Α Μ",
+      "fr": "Diane (diadème) / Croix",
+      "ru": "Диана (с диадемой) / крест",
+      "en": "Diana (diadem) / Cross",
       "page": "30",
       "group": "I",
       "group_fr": "Planche I",
@@ -902,16 +953,19 @@
       "obverse_en": "Diana, diadem",
       "reverse_fr": "croix, lettres Α (en haut) et Μ (en bas) dans les quartiers",
       "reverse_ru": "крест, буквы Α (вверху) и Μ (внизу) в четвертях",
-      "reverse_en": "cross, letters Α (top) and Μ (bottom) in the quarters"
+      "reverse_en": "cross, letters Α (top) and Μ (bottom) in the quarters",
+      "legend_fr": "Α Μ",
+      "legend_ru": "Α Μ",
+      "legend_en": "Α Μ"
     },
     {
       "id": "pl1-19",
       "part": 1,
       "plate": 1,
       "num": "19",
-      "fr": "Tête (turban) / Taureau, MASSA",
-      "ru": "Голова (в тюрбане) / бык, MASSA",
-      "en": "Head (turban) / Bull, MASSA",
+      "fr": "Tête (turban) / Taureau",
+      "ru": "Голова (в тюрбане) / бык",
+      "en": "Head (turban) / Bull",
       "page": "30",
       "group": "I",
       "group_fr": "Planche I",
@@ -954,16 +1008,19 @@
       "obverse_en": "head of a man, turban-like headdress",
       "reverse_fr": "taureau menaçant, MASSA",
       "reverse_ru": "угрожающий бык, MASSA",
-      "reverse_en": "threatening bull, MASSA"
+      "reverse_en": "threatening bull, MASSA",
+      "legend_fr": "MASSA",
+      "legend_ru": "MASSA",
+      "legend_en": "MASSA"
     },
     {
       "id": "pl2-1",
       "part": 1,
       "plate": 2,
       "num": "1",
-      "fr": "Diane (laurier) / Lion, MASSA",
-      "ru": "Диана (с лавром) / лев, MASSA",
-      "en": "Diana (laurel) / Lion, MASSA",
+      "fr": "Diane (laurier) / Lion",
+      "ru": "Диана (с лавром) / лев",
+      "en": "Diana (laurel) / Lion",
       "page": "32",
       "group": "II",
       "group_fr": "Planche II",
@@ -1004,16 +1061,19 @@
         "diana",
         "laurel-crown",
         "lion"
-      ]
+      ],
+      "legend_fr": "MASSA",
+      "legend_ru": "MASSA",
+      "legend_en": "MASSA"
     },
     {
       "id": "pl2-2",
       "part": 1,
       "plate": 2,
       "num": "2",
-      "fr": "Diane (diadème) / Caducée, Λ Δ",
-      "ru": "Диана (с диадемой) / кадуцей, Λ Δ",
-      "en": "Diana (diadem) / Caduceus, Λ Δ",
+      "fr": "Diane (diadème) / Caducée",
+      "ru": "Диана (с диадемой) / кадуцей",
+      "en": "Diana (diadem) / Caduceus",
       "page": "32",
       "group": "II",
       "group_fr": "Planche II",
@@ -1054,16 +1114,19 @@
         "diana",
         "diadem",
         "caduceus"
-      ]
+      ],
+      "legend_fr": "Λ Δ",
+      "legend_ru": "Λ Δ",
+      "legend_en": "Λ Δ"
     },
     {
       "id": "pl2-3",
       "part": 1,
       "plate": 2,
       "num": "3",
-      "fr": "Diane (triple diadème) / Lion, MASSA XZA",
-      "ru": "Диана (тройная диадема) / лев, MASSA XZA",
-      "en": "Diana (triple diadem) / Lion, MASSA XZA",
+      "fr": "Diane (triple diadème) / Lion",
+      "ru": "Диана (тройная диадема) / лев",
+      "en": "Diana (triple diadem) / Lion",
       "page": "32",
       "group": "II",
       "group_fr": "Planche II",
@@ -1107,16 +1170,19 @@
         "diana",
         "trident",
         "lion"
-      ]
+      ],
+      "legend_fr": "MASSA XZA",
+      "legend_ru": "MASSA XZA",
+      "legend_en": "MASSA XZA"
     },
     {
       "id": "pl2-4",
       "part": 1,
       "plate": 2,
       "num": "4",
-      "fr": "Diane (trident) / Chien, MASSA",
-      "ru": "Диана (с трезубцем) / пёс, MASSA",
-      "en": "Diana (trident) / Dog, MASSA",
+      "fr": "Diane (trident) / Chien",
+      "ru": "Диана (с трезубцем) / пёс",
+      "en": "Diana (trident) / Dog",
       "page": "33",
       "group": "II",
       "group_fr": "Planche II",
@@ -1157,16 +1223,19 @@
         "diana",
         "trident",
         "dog"
-      ]
+      ],
+      "legend_fr": "MASSA",
+      "legend_ru": "MASSA",
+      "legend_en": "MASSA"
     },
     {
       "id": "pl2-5",
       "part": 1,
       "plate": 2,
       "num": "5",
-      "fr": "Diane (boucle en delta) / Lion, MASSALIETO",
-      "ru": "Диана (серьга-дельта) / лев, MASSALIETO",
-      "en": "Diana (delta earring) / Lion, MASSALIETO",
+      "fr": "Diane (boucle en delta) / Lion",
+      "ru": "Диана (серьга-дельта) / лев",
+      "en": "Diana (delta earring) / Lion",
       "page": "34",
       "group": "II",
       "group_fr": "Planche II",
@@ -1206,16 +1275,19 @@
       "motifs": [
         "diana",
         "lion"
-      ]
+      ],
+      "legend_fr": "MASSALIETO",
+      "legend_ru": "MASSALIETO",
+      "legend_en": "MASSALIETO"
     },
     {
       "id": "pl2-6",
       "part": 1,
       "plate": 2,
       "num": "6",
-      "fr": "Diane / Minotaure, MASSA O.T",
-      "ru": "Диана / Минотавр, MASSA O.T",
-      "en": "Diana / Minotaur, MASSA O.T",
+      "fr": "Diane / Minotaure",
+      "ru": "Диана / Минотавр",
+      "en": "Diana / Minotaur",
       "page": "35",
       "group": "II",
       "group_fr": "Planche II",
@@ -1255,16 +1327,19 @@
       "motifs": [
         "diana",
         "minotaur"
-      ]
+      ],
+      "legend_fr": "MASSA O.T",
+      "legend_ru": "MASSA O.T",
+      "legend_en": "MASSA O.T"
     },
     {
       "id": "pl2-7",
       "part": 1,
       "plate": 2,
       "num": "7",
-      "fr": "Diane (trident) / Lion, MASSA ΙΠΛ",
-      "ru": "Диана (трезубец) / лев, MASSA ΙΠΛ",
-      "en": "Diana (trident) / Lion, MASSA ΙΠΛ",
+      "fr": "Diane (trident) / Lion",
+      "ru": "Диана (трезубец) / лев",
+      "en": "Diana (trident) / Lion",
       "page": "36",
       "group": "II",
       "group_fr": "Planche II",
@@ -1305,16 +1380,19 @@
         "diana",
         "trident",
         "lion"
-      ]
+      ],
+      "legend_fr": "MASSA ΙΠΛ",
+      "legend_ru": "MASSA ΙΠΛ",
+      "legend_en": "MASSA ΙΠΛ"
     },
     {
       "id": "pl2-8",
       "part": 1,
       "plate": 2,
       "num": "8",
-      "fr": "Diane / Lion, MASSALIETON",
-      "ru": "Диана / лев, MASSALIETON",
-      "en": "Diana / Lion, MASSALIETON",
+      "fr": "Diane / Lion",
+      "ru": "Диана / лев",
+      "en": "Diana / Lion",
       "page": "36",
       "group": "II",
       "group_fr": "Planche II",
@@ -1354,16 +1432,19 @@
       "motifs": [
         "diana",
         "lion"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl2-9",
       "part": 1,
       "plate": 2,
       "num": "9",
-      "fr": "Diane (trident) / Lion, MASSA TILD",
-      "ru": "Диана (с трезубцем) / лев, MASSA TILD",
-      "en": "Diana (trident) / Lion, MASSA TILD",
+      "fr": "Diane (trident) / Lion",
+      "ru": "Диана (с трезубцем) / лев",
+      "en": "Diana (trident) / Lion",
       "page": "37",
       "group": "II",
       "group_fr": "Planche II",
@@ -1404,16 +1485,19 @@
         "diana",
         "trident",
         "lion"
-      ]
+      ],
+      "legend_fr": "MASSA TILD",
+      "legend_ru": "MASSA TILD",
+      "legend_en": "MASSA TILD"
     },
     {
       "id": "pl3-1",
       "part": 1,
       "plate": 3,
       "num": "1",
-      "fr": "Apollon / Cheval, MASSA",
-      "ru": "Аполлон / конь, MASSA",
-      "en": "Apollo / Horse, MASSA",
+      "fr": "Apollon / Cheval",
+      "ru": "Аполлон / конь",
+      "en": "Apollo / Horse",
       "page": "37",
       "group": "III",
       "group_fr": "Planche III",
@@ -1436,13 +1520,13 @@
       ],
       "attrs": [],
       "text_fr": [
-        "LES Médailles contenues dans cette Planche, sont toutes en bronze, & des mêmes grandeurs que celles des Gravures. Celle désignée par le n°. 1, représente d'un côté la tête d'Apollon, & sur le revers, un Cheval broutant l'herbe; la contre-marque est un Delta."
+        "Celle désignée par le n°. 1, représente d'un côté la tête d'Apollon, & sur le revers, un Cheval broutant l'herbe; la contre-marque est un Delta."
       ],
       "text_ru": [
-        "Монеты, помещённые на этой Таблице, все бронзовые и того же размера, что и сами гравюры. Монета под №1 представляет с одной стороны голову Аполлона, а на обороте — коня, щиплющего траву; клеймо — буква дельта."
+        "Монета под №1 представляет с одной стороны голову Аполлона, а на обороте — коня, щиплющего траву; клеймо — буква дельта."
       ],
       "text_en": [
-        "The medals contained in this Plate are all in bronze, and of the same size as the engravings. The one designated by no. 1 shows on one side the head of Apollo, and on the reverse, a Horse grazing; the countermark is a Delta."
+        "The one designated by no. 1 shows on one side the head of Apollo, and on the reverse, a Horse grazing; the countermark is a Delta."
       ],
       "obverse_fr": "tête d'Apollon",
       "obverse_ru": "голова Аполлона",
@@ -1452,16 +1536,19 @@
       "reverse_en": "horse grazing, countermark Delta",
       "motifs": [
         "apollo"
-      ]
+      ],
+      "legend_fr": "MASSA",
+      "legend_ru": "MASSA",
+      "legend_en": "MASSA"
     },
     {
       "id": "pl3-2",
       "part": 1,
       "plate": 3,
       "num": "2",
-      "fr": "Guerrier (Bacchus?) / Trépied, MA",
-      "ru": "Воин (Вакх?) / треножник, MA",
-      "en": "Warrior (Bacchus?) / Tripod, MA",
+      "fr": "Guerrier (Bacchus?) / Trépied",
+      "ru": "Воин (Вакх?) / треножник",
+      "en": "Warrior (Bacchus?) / Tripod",
       "page": "37",
       "group": "III",
       "group_fr": "Planche III",
@@ -1501,16 +1588,19 @@
       "motifs": [
         "mars",
         "tripod"
-      ]
+      ],
+      "legend_fr": "MA",
+      "legend_ru": "MA",
+      "legend_en": "MA"
     },
     {
       "id": "pl3-3",
       "part": 1,
       "plate": 3,
       "num": "3",
-      "fr": "Minerve / Trépied, MA",
-      "ru": "Минерва / треножник, MA",
-      "en": "Minerva / Tripod, MA",
+      "fr": "Minerve / Trépied",
+      "ru": "Минерва / треножник",
+      "en": "Minerva / Tripod",
       "page": "38",
       "group": "III",
       "group_fr": "Planche III",
@@ -1550,16 +1640,19 @@
       "motifs": [
         "minerva",
         "tripod"
-      ]
+      ],
+      "legend_fr": "MA",
+      "legend_ru": "MA",
+      "legend_en": "MA"
     },
     {
       "id": "pl3-4",
       "part": 1,
       "plate": 3,
       "num": "4",
-      "fr": "Mars / Aigle, MASSA",
-      "ru": "Марс / орёл, MASSA",
-      "en": "Mars / Eagle, MASSA",
+      "fr": "Mars / Aigle",
+      "ru": "Марс / орёл",
+      "en": "Mars / Eagle",
       "page": "39",
       "group": "III",
       "group_fr": "Planche III",
@@ -1599,16 +1692,19 @@
       "motifs": [
         "mars",
         "eagle"
-      ]
+      ],
+      "legend_fr": "MASSA",
+      "legend_ru": "MASSA",
+      "legend_en": "MASSA"
     },
     {
       "id": "pl3-5",
       "part": 1,
       "plate": 3,
       "num": "5",
-      "fr": "Mars / Trépied, MA",
-      "ru": "Марс / треножник, MA",
-      "en": "Mars / Tripod, MA",
+      "fr": "Mars / Trépied",
+      "ru": "Марс / треножник",
+      "en": "Mars / Tripod",
       "page": "39",
       "group": "III",
       "group_fr": "Planche III",
@@ -1648,16 +1744,19 @@
       "motifs": [
         "mars",
         "tripod"
-      ]
+      ],
+      "legend_fr": "MA",
+      "legend_ru": "MA",
+      "legend_en": "MA"
     },
     {
       "id": "pl3-6",
       "part": 1,
       "plate": 3,
       "num": "6",
-      "fr": "Apollon (gouvernail) / Taureau, MASSALIETON",
-      "ru": "Аполлон (с рулевым веслом) / бык, MASSALIETON",
-      "en": "Apollo (rudder) / Bull, MASSALIETON",
+      "fr": "Apollon (gouvernail) / Taureau",
+      "ru": "Аполлон (с рулевым веслом) / бык",
+      "en": "Apollo (rudder) / Bull",
       "page": "40",
       "group": "III",
       "group_fr": "Planche III",
@@ -1697,16 +1796,19 @@
       "motifs": [
         "apollo",
         "bull"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl3-7",
       "part": 1,
       "plate": 3,
       "num": "7",
-      "fr": "Tête (turban) / Taureau, MASSALIETON",
-      "ru": "Голова (в тюрбане) / бык, MASSALIETON",
-      "en": "Head (turban) / Bull, MASSALIETON",
+      "fr": "Tête (turban) / Taureau",
+      "ru": "Голова (в тюрбане) / бык",
+      "en": "Head (turban) / Bull",
       "page": "40",
       "group": "III",
       "group_fr": "Planche III",
@@ -1745,16 +1847,19 @@
       "reverse_en": "bull, MASSALIETON",
       "motifs": [
         "bull"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl3-8",
       "part": 1,
       "plate": 3,
       "num": "8",
-      "fr": "Vieillard (Jupiter?) / Aile, MASSA",
-      "ru": "Старец (Юпитер?) / крыло, MASSA",
-      "en": "Old man (Jupiter?) / Wing, MASSA",
+      "fr": "Vieillard (Jupiter?) / Aile",
+      "ru": "Старец (Юпитер?) / крыло",
+      "en": "Old man (Jupiter?) / Wing",
       "page": "40",
       "group": "III",
       "group_fr": "Planche III",
@@ -1793,7 +1898,10 @@
       "reverse_en": "a Wing, abbreviation MASSA",
       "motifs": [
         "wing"
-      ]
+      ],
+      "legend_fr": "MASSA",
+      "legend_ru": "MASSA",
+      "legend_en": "MASSA"
     },
     {
       "id": "pl4-1",
@@ -1825,13 +1933,13 @@
       ],
       "attrs": [],
       "text_fr": [
-        "TOUTES les Médailles contenues dans cette Planche, sont en bronze, & des mêmes grandeurs que les Gravures. Celle désignée par le n°. 1, représente d'un côté la tête de Neptune; ce qu'on distingue à la barbe pointue, effet qui lui est naturel lorsqu'elle est mouillée. Le revers est un Dauphin groupé avec un Trident, marque caractéristique du Dieu des Flots. Quoique cette Médaille soit sans lettres qui désignent Marseille, on la trouve si communément dans cette Ville, & ces Emblèmes lui conviennent si bien, qu'on ne sauroit avoir des indices plus certains qu'elle lui appartient."
+        "Celle désignée par le n°. 1, représente d'un côté la tête de Neptune; ce qu'on distingue à la barbe pointue, effet qui lui est naturel lorsqu'elle est mouillée. Le revers est un Dauphin groupé avec un Trident, marque caractéristique du Dieu des Flots. Quoique cette Médaille soit sans lettres qui désignent Marseille, on la trouve si communément dans cette Ville, & ces Emblèmes lui conviennent si bien, qu'on ne sauroit avoir des indices plus certains qu'elle lui appartient."
       ],
       "text_ru": [
-        "ВСЕ монеты, помещённые на этой Таблице, бронзовые и того же размера, что и сами гравюры. Монета под №1 представляет с одной стороны голову Нептуна; это узнаётся по заострённой бороде — следствие, естественное для неё, когда она намокает. Оборот — дельфин вместе с трезубцем, отличительный знак бога морей. Хотя на этой монете нет букв, обозначающих Марсель, она встречается в этом Городе настолько часто, а эти эмблемы подходят ей настолько хорошо, что нельзя иметь более верных признаков её принадлежности ему."
+        "Монета под №1 представляет с одной стороны голову Нептуна; это узнаётся по заострённой бороде — следствие, естественное для неё, когда она намокает. Оборот — дельфин вместе с трезубцем, отличительный знак бога морей. Хотя на этой монете нет букв, обозначающих Марсель, она встречается в этом Городе настолько часто, а эти эмблемы подходят ей настолько хорошо, что нельзя иметь более верных признаков её принадлежности ему."
       ],
       "text_en": [
-        "ALL the medals contained in this Plate are in bronze, and of the same size as the engravings. The one designated by no. 1 shows on one side the head of Neptune; distinguished by the pointed beard, an effect natural to it when wet. The reverse is a Dolphin grouped with a Trident, a characteristic mark of the God of the Waters. Although this medal bears no letters denoting Marseille, it is found so commonly in this City, and these Emblems suit it so well, that one could have no surer signs of its belonging to it."
+        "The one designated by no. 1 shows on one side the head of Neptune; distinguished by the pointed beard, an effect natural to it when wet. The reverse is a Dolphin grouped with a Trident, a characteristic mark of the God of the Waters. Although this medal bears no letters denoting Marseille, it is found so commonly in this City, and these Emblems suit it so well, that one could have no surer signs of its belonging to it."
       ],
       "obverse_fr": "tête de Neptune, barbe pointue (mouillée)",
       "obverse_ru": "голова Нептуна, заострённая (мокрая) борода",
@@ -1841,16 +1949,19 @@
       "reverse_en": "dolphin grouped with a trident",
       "motifs": [
         "trident"
-      ]
+      ],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": ""
     },
     {
       "id": "pl4-2",
       "part": 1,
       "plate": 4,
       "num": "2",
-      "fr": "Tête (bonnet gaulois) / Aigle, MA",
-      "ru": "Голова (галльский убор) / орёл, MA",
-      "en": "Head (Gaulish cap) / Eagle, MA",
+      "fr": "Tête (bonnet gaulois) / Aigle",
+      "ru": "Голова (галльский убор) / орёл",
+      "en": "Head (Gaulish cap) / Eagle",
       "page": "42",
       "group": "IV",
       "group_fr": "Planche IV",
@@ -1889,16 +2000,19 @@
       "reverse_en": "eagle, abbreviation MA",
       "motifs": [
         "eagle"
-      ]
+      ],
+      "legend_fr": "MA",
+      "legend_ru": "MA",
+      "legend_en": "MA"
     },
     {
       "id": "pl4-3",
       "part": 1,
       "plate": 4,
       "num": "3",
-      "fr": "Tête (bonnet) / Lion, A",
-      "ru": "Голова (в уборе) / лев, A",
-      "en": "Head (cap) / Lion, A",
+      "fr": "Tête (bonnet) / Lion",
+      "ru": "Голова (в уборе) / лев",
+      "en": "Head (cap) / Lion",
       "page": "42",
       "group": "IV",
       "group_fr": "Planche IV",
@@ -1937,7 +2051,10 @@
       "reverse_en": "lion, letter A",
       "motifs": [
         "lion"
-      ]
+      ],
+      "legend_fr": "A",
+      "legend_ru": "A",
+      "legend_en": "A"
     },
     {
       "id": "pl4-4",
@@ -1983,16 +2100,19 @@
       "reverse_fr": "agneau, ou quelqu'autre animal à pied fourchu",
       "reverse_ru": "ягнёнок или иное животное с раздвоенным копытом",
       "reverse_en": "a lamb, or some other cloven-footed animal",
-      "motifs": []
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": ""
     },
     {
       "id": "pl4-5",
       "part": 1,
       "plate": 4,
       "num": "5",
-      "fr": "Diane (rouleau) / Taureau, MASSALIETON",
-      "ru": "Диана (причёска-валик) / бык, MASSALIETON",
-      "en": "Diana (rolled hair) / Bull, MASSALIETON",
+      "fr": "Diane (rouleau) / Taureau",
+      "ru": "Диана (причёска-валик) / бык",
+      "en": "Diana (rolled hair) / Bull",
       "page": "42",
       "group": "IV",
       "group_fr": "Planche IV",
@@ -2032,16 +2152,19 @@
       "motifs": [
         "diana",
         "bull"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl4-6",
       "part": 1,
       "plate": 4,
       "num": "6",
-      "fr": "Apollon (laurier) / Taureau, MASSALIETON",
-      "ru": "Аполлон (с лавром) / бык, MASSALIETON",
-      "en": "Apollo (laurel) / Bull, MASSALIETON",
+      "fr": "Apollon (laurier) / Taureau",
+      "ru": "Аполлон (с лавром) / бык",
+      "en": "Apollo (laurel) / Bull",
       "page": "43",
       "group": "IV",
       "group_fr": "Planche IV",
@@ -2082,16 +2205,19 @@
         "apollo",
         "laurel-crown",
         "bull"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl4-7",
       "part": 1,
       "plate": 4,
       "num": "7",
-      "fr": "Tête (casque simple) / Taureau, MASSA",
-      "ru": "Голова (простой шлем) / бык, MASSA",
-      "en": "Head (simple helmet) / Bull, MASSA",
+      "fr": "Tête (casque simple) / Taureau",
+      "ru": "Голова (простой шлем) / бык",
+      "en": "Head (simple helmet) / Bull",
       "page": "43",
       "group": "IV",
       "group_fr": "Planche IV",
@@ -2130,7 +2256,10 @@
       "reverse_en": "bull (same reverse type as the preceding), abbreviation MASSA",
       "motifs": [
         "bull"
-      ]
+      ],
+      "legend_fr": "MASSA",
+      "legend_ru": "MASSA",
+      "legend_en": "MASSA"
     },
     {
       "id": "pl4-8",
@@ -2178,7 +2307,10 @@
       "reverse_en": "caduceus with wings fully spread",
       "motifs": [
         "mars"
-      ]
+      ],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": ""
     },
     {
       "id": "pl4-9",
@@ -2224,7 +2356,10 @@
       "reverse_fr": "galère (navire)",
       "reverse_ru": "галера (корабль)",
       "reverse_en": "galley (ship)",
-      "motifs": []
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": ""
     },
     {
       "id": "pl4-10",
@@ -2272,16 +2407,19 @@
       "reverse_en": "eagle",
       "motifs": [
         "eagle"
-      ]
+      ],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": ""
     },
     {
       "id": "pl4-11",
       "part": 1,
       "plate": 4,
       "num": "11",
-      "fr": "Minerve / Figure armée, MA",
-      "ru": "Минерва / вооружённая фигура, MA",
-      "en": "Minerva / Armed figure, MA",
+      "fr": "Minerve / Figure armée",
+      "ru": "Минерва / вооружённая фигура",
+      "en": "Minerva / Armed figure",
       "page": "43",
       "group": "IV",
       "group_fr": "Planche IV",
@@ -2320,16 +2458,19 @@
       "reverse_en": "armed figure holding a shield; letters too worn to decipher",
       "motifs": [
         "minerva"
-      ]
+      ],
+      "legend_fr": "MA",
+      "legend_ru": "MA",
+      "legend_en": "MA"
     },
     {
       "id": "pl4-12",
       "part": 1,
       "plate": 4,
       "num": "12",
-      "fr": "Guerrier / Chouette, MA",
-      "ru": "Воин / сова, MA",
-      "en": "Warrior / Owl, MA",
+      "fr": "Guerrier / Chouette",
+      "ru": "Воин / сова",
+      "en": "Warrior / Owl",
       "page": "43",
       "group": "IV",
       "group_fr": "Planche IV",
@@ -2368,7 +2509,10 @@
       "reverse_en": "owl, abbreviation MA",
       "motifs": [
         "minerva"
-      ]
+      ],
+      "legend_fr": "MA",
+      "legend_ru": "MA",
+      "legend_en": "MA"
     },
     {
       "id": "pl4-13",
@@ -2416,16 +2560,19 @@
       "reverse_en": "caduceus",
       "motifs": [
         "caduceus"
-      ]
+      ],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": ""
     },
     {
       "id": "pl4-14",
       "part": 1,
       "plate": 4,
       "num": "14",
-      "fr": "Mars / Caducée, MAC",
-      "ru": "Марс / кадуцей, MAC",
-      "en": "Mars / Caduceus, MAC",
+      "fr": "Mars / Caducée",
+      "ru": "Марс / кадуцей",
+      "en": "Mars / Caduceus",
       "page": "44",
       "group": "IV",
       "group_fr": "Planche IV",
@@ -2464,16 +2611,19 @@
       "reverse_en": "caduceus; MAC on one side, countermarks F.N. and A on the other",
       "motifs": [
         "mars"
-      ]
+      ],
+      "legend_fr": "MAC",
+      "legend_ru": "MAC",
+      "legend_en": "MAC"
     },
     {
       "id": "pl4-15",
       "part": 1,
       "plate": 4,
       "num": "15",
-      "fr": "Apollon (laurier) / Taureau (Cornupète), MASSALIETON",
-      "ru": "Аполлон (с лавром) / бык (Корнупет), MASSALIETON",
-      "en": "Apollo (laurel) / Bull (Cornupeta), MASSALIETON",
+      "fr": "Apollon (laurier) / Taureau (Cornupète)",
+      "ru": "Аполлон (с лавром) / бык (Корнупет)",
+      "en": "Apollo (laurel) / Bull (Cornupeta)",
       "page": "44",
       "group": "IV",
       "group_fr": "Planche IV",
@@ -2514,7 +2664,10 @@
         "apollo",
         "laurel-crown",
         "bull"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl4-16",
@@ -2554,16 +2707,19 @@
       "reverse_fr": "",
       "reverse_ru": "",
       "reverse_en": "",
-      "motifs": []
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": ""
     },
     {
       "id": "pl5-1",
       "part": 1,
       "plate": 5,
       "num": "1",
-      "fr": "Apollon / Taureau, MASSALIETON",
-      "ru": "Аполлон / бык, MASSALIETON",
-      "en": "Apollo / Bull, MASSALIETON",
+      "fr": "Apollon / Taureau",
+      "ru": "Аполлон / бык",
+      "en": "Apollo / Bull",
       "page": "45",
       "group": "V",
       "group_fr": "Planche V",
@@ -2586,15 +2742,12 @@
       ],
       "attrs": [],
       "text_fr": [
-        "LES Médailles comprises sous les n°. 1, 2, 3, 5, 6 & 7, sont des mêmes grandeurs que les Gravures; celles désignées par les autres chiffres, ont été tant soit peu augmentées; elles sont toutes en bronze.",
         "N°. 1. Tête d'Apollon couronnée de laurier; la contre-marque est fruste, & ressemble à un fléau, ou une main: on ne peut déchiffrer exactement si c'est l'un ou l'autre de ces objets que le Graveur a voulu représenter. J'ai eu trois de ces Médailles en mon pouvoir; elles étoient toutes également mutilées. Il m'a été conséquemment impossible d'asseoir une opinion certaine sur cette contre-marque. Le revers est un Taureau menaçant, avec le mot MASSALIETON en caractères grecs."
       ],
       "text_ru": [
-        "Монеты, помещённые под №№ 1, 2, 3, 5, 6 и 7, того же размера, что и сами гравюры; монеты под остальными номерами были слегка увеличены; все они бронзовые.",
         "№1. Голова Аполлона, увенчанная лавром; клеймо стёрто и напоминает цеп либо руку: невозможно точно разобрать, какой из этих предметов хотел изобразить Гравёр. У меня в своё время было три таких монеты; все они были одинаково повреждены. Поэтому мне не удалось составить определённого мнения об этом клейме. Оборот — угрожающий бык, со словом MASSALIETON греческими буквами."
       ],
       "text_en": [
-        "The medals included under nos. 1, 2, 3, 5, 6 and 7 are of the same size as the engravings; those designated by the other numbers have been enlarged somewhat; they are all in bronze.",
         "No. 1. Head of Apollo crowned with laurel; the countermark is worn, and resembles a flail, or a hand: one cannot tell exactly which of these objects the Engraver meant to represent. I had three of these medals in my possession; they were all equally mutilated. It has consequently been impossible for me to settle on a definite opinion about this countermark. The reverse is a threatening Bull, with the word MASSALIETON in Greek characters."
       ],
       "obverse_fr": "tête d'Apollon couronnée de laurier, contremarque fruste (fléau ou main)",
@@ -2606,16 +2759,19 @@
       "motifs": [
         "apollo",
         "bull"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl5-2",
       "part": 1,
       "plate": 5,
       "num": "2",
-      "fr": "Tête (laurier, raisin) / Taureau, MASSALIETON",
-      "ru": "Голова (лавр, виноград) / бык, MASSALIETON",
-      "en": "Head (laurel, grapes) / Bull, MASSALIETON",
+      "fr": "Tête (laurier, raisin) / Taureau",
+      "ru": "Голова (лавр, виноград) / бык",
+      "en": "Head (laurel, grapes) / Bull",
       "page": "45",
       "group": "V",
       "group_fr": "Planche V",
@@ -2654,16 +2810,19 @@
       "reverse_en": "threatening bull, an inverted crescent above, MASSALIETON",
       "motifs": [
         "bull"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl5-3",
       "part": 1,
       "plate": 5,
       "num": "3",
-      "fr": "Apollon / Taureau (gouvernail), MASSALIETON",
-      "ru": "Аполлон / бык (рулевое весло), MASSALIETON",
-      "en": "Apollo / Bull (rudder), MASSALIETON",
+      "fr": "Apollon / Taureau (gouvernail)",
+      "ru": "Аполлон / бык (рулевое весло)",
+      "en": "Apollo / Bull (rudder)",
       "page": "45",
       "group": "V",
       "group_fr": "Planche V",
@@ -2703,7 +2862,10 @@
       "motifs": [
         "apollo",
         "bull"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl5-4",
@@ -2753,16 +2915,19 @@
         "lion",
         "cross",
         "tripod"
-      ]
+      ],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": ""
     },
     {
       "id": "pl5-5",
       "part": 1,
       "plate": 5,
       "num": "5",
-      "fr": "Apollon (corne d'abondance) / Taureau, MASSALIETON",
-      "ru": "Аполлон (рог изобилия) / бык, MASSALIETON",
-      "en": "Apollo (cornucopia) / Bull, MASSALIETON",
+      "fr": "Apollon (corne d'abondance) / Taureau",
+      "ru": "Аполлон (рог изобилия) / бык",
+      "en": "Apollo (cornucopia) / Bull",
       "page": "47",
       "group": "V",
       "group_fr": "Planche V",
@@ -2803,16 +2968,19 @@
         "apollo",
         "bull",
         "cornucopia"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl5-6",
       "part": 1,
       "plate": 5,
       "num": "6",
-      "fr": "Apollon (trois mesures) / Taureau, MASSALIETON",
-      "ru": "Аполлон (три меры) / бык, MASSALIETON",
-      "en": "Apollo (three measures) / Bull, MASSALIETON",
+      "fr": "Apollon (trois mesures) / Taureau",
+      "ru": "Аполлон (три меры) / бык",
+      "en": "Apollo (three measures) / Bull",
       "page": "47",
       "group": "V",
       "group_fr": "Planche V",
@@ -2852,16 +3020,19 @@
       "motifs": [
         "apollo",
         "bull"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl5-7",
       "part": 1,
       "plate": 5,
       "num": "7",
-      "fr": "Apollon (ornement rond) / Taureau, MASSALIETON",
-      "ru": "Аполлон (круглое украшение) / бык, MASSALIETON",
-      "en": "Apollo (round ornament) / Bull, MASSALIETON",
+      "fr": "Apollon (ornement rond) / Taureau",
+      "ru": "Аполлон (круглое украшение) / бык",
+      "en": "Apollo (round ornament) / Bull",
       "page": "47",
       "group": "V",
       "group_fr": "Planche V",
@@ -2901,16 +3072,19 @@
       "motifs": [
         "apollo",
         "bull"
-      ]
+      ],
+      "legend_fr": "MASSALIETON",
+      "legend_ru": "MASSALIETON",
+      "legend_en": "MASSALIETON"
     },
     {
       "id": "pl5-8",
       "part": 1,
       "plate": 5,
       "num": "8",
-      "fr": "Diane (mitella) / Lion au laurier, MASSALIETO",
-      "ru": "Диана (мителла) / лев у лавра, MASSALIETO",
-      "en": "Diana (mitella) / Lion by the laurel, MASSALIETO",
+      "fr": "Diane (mitella) / Lion au laurier",
+      "ru": "Диана (мителла) / лев у лавра",
+      "en": "Diana (mitella) / Lion by the laurel",
       "page": "47",
       "group": "V",
       "group_fr": "Planche V",
@@ -2952,16 +3126,19 @@
         "diadem",
         "lion",
         "laurel-crown"
-      ]
+      ],
+      "legend_fr": "MASSALIETO",
+      "legend_ru": "MASSALIETO",
+      "legend_en": "MASSALIETO"
     },
     {
       "id": "pl5-9",
       "part": 1,
       "plate": 5,
       "num": "9",
-      "fr": "Diane / Corne d'abondance, MASSEILS",
-      "ru": "Диана / рог изобилия, MASSEILS",
-      "en": "Diana / Cornucopia, MASSEILS",
+      "fr": "Diane / Corne d'abondance",
+      "ru": "Диана / рог изобилия",
+      "en": "Diana / Cornucopia",
       "page": "48",
       "group": "V",
       "group_fr": "Planche V",
@@ -3001,16 +3178,19 @@
       "motifs": [
         "diana",
         "cornucopia"
-      ]
+      ],
+      "legend_fr": "MASSEILS",
+      "legend_ru": "MASSEILS",
+      "legend_en": "MASSEILS"
     },
     {
       "id": "pl6-1",
       "part": 1,
       "plate": 6,
       "num": "1",
-      "fr": "Croix / MASSILIA — Louis le Pieux (814)",
-      "ru": "Крест / MASSILIA — Людовик Благочестивый (814)",
-      "en": "Cross / MASSILIA — Louis the Pious (814)",
+      "fr": "Croix / MASSILIA — Louis le Pieux",
+      "ru": "Крест / MASSILIA — Людовик Благочестивый",
+      "en": "Cross / MASSILIA — Louis the Pious",
       "page": "50",
       "group": "VI",
       "group_fr": "Planche VI",
@@ -3033,15 +3213,12 @@
       ],
       "attrs": [],
       "text_fr": [
-        "LES Médailles des Planches suivantes, sont celles qui ont servi de monnoies sous les règnes des Rois de France de la première & seconde race, Souverains de Marseille. Ces Médailles sont des sols, des demi sols, & des tiers de sols d'or, frappées dans cette Ville. Le module des Médailles est augmenté de la moitié dans les Gravures, & même des deux tiers dans quelques-unes.",
         "La Médaille du n°. 1. présente d'un côté une Croix dans un double cercle, avec les mots HLVDOVICVS. IM. c'est-à-dire, Ludovicus Imperator; le revers, le mot MASSILIA. Cette Médaille est du règne de Louis le Débonnaire ou le Pieux, Roi de France, & Empereur d'Occident, qui avoit succédé à Charlemagne, en l'année 814."
       ],
       "text_ru": [
-        "Монеты, помещённые на следующих Таблицах, — это те, что служили денежным обращением при королях Франции первой и второй династии, государях Марселя. Эти монеты — золотые солиды, полусолиды и трети солида, отчеканенные в этом Городе. Размер монет на гравюрах увеличен в полтора раза, а в некоторых — даже вдвое.",
         "Монета под №1 представляет с одной стороны Крест в двойном круге, с надписью HLVDOVICVS. IM., то есть Ludovicus Imperator (Император Людовик); оборот — слово MASSILIA. Эта монета относится к правлению Людовика Простодушного, или Благочестивого, короля Франции и императора Запада, наследовавшего Карлу Великому в 814 году."
       ],
       "text_en": [
-        "The medals of the following Plates are those which served as coinage under the reigns of the Kings of France of the first and second dynasty, Sovereigns of Marseille. These medals are gold sols, half-sols, and third-sols, struck in this City. The scale of the medals is enlarged by half in the Engravings, and even by two-thirds in some of them.",
         "The medal of no. 1 shows on one side a Cross within a double circle, with the words HLVDOVICVS. IM., that is, Ludovicus Imperator; the reverse, the word MASSILIA. This medal belongs to the reign of Louis the Debonair, or the Pious, King of France and Emperor of the West, who had succeeded Charlemagne in the year 814."
       ],
       "obverse_fr": "croix dans un double cercle, légende HLVDOVICVS IM. (Ludovicus Imperator)",
@@ -3052,16 +3229,19 @@
       "reverse_en": "the word MASSILIA",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "HLVDOVICVS IM. / MASSILIA",
+      "legend_ru": "HLVDOVICVS IM. / MASSILIA",
+      "legend_en": "HLVDOVICVS IM. / MASSILIA"
     },
     {
       "id": "pl6-2",
       "part": 1,
       "plate": 6,
       "num": "2",
-      "fr": "Buste / Croix sur barre — Dagobert Ier (victoire de 635)",
-      "ru": "Бюст / крест на перекладине — Дагоберт I (победа 635 г.)",
-      "en": "Bust / Cross on a bar — Dagobert I (victory of 635)",
+      "fr": "Buste / Croix sur barre — Dagobert Ier",
+      "ru": "Бюст / крест на перекладине — Дагоберт I",
+      "en": "Bust / Cross on a bar — Dagobert I",
       "page": "50",
       "group": "VI",
       "group_fr": "Planche VI",
@@ -3100,16 +3280,19 @@
       "reverse_en": "cross set on a crossbar, letters M.A, legend O VICTVRIA",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "BAGOBERTVS REX / O VICTVRIA",
+      "legend_ru": "BAGOBERTVS REX / O VICTVRIA",
+      "legend_en": "BAGOBERTVS REX / O VICTVRIA"
     },
     {
       "id": "pl6-3",
       "part": 1,
       "plate": 6,
       "num": "3",
-      "fr": "Buste (aigrette) / Croix sur globe — Sigebert Ier, tiers de sol",
-      "ru": "Бюст (эгрет) / крест на сфере — Сигеберт I, треть солида",
-      "en": "Bust (aigrette) / Cross on a globe — Sigebert I, third-sol",
+      "fr": "Buste (aigrette) / Croix sur globe — Sigebert Ier",
+      "ru": "Бюст (эгрет) / крест на сфере — Сигеберт I",
+      "en": "Bust (aigrette) / Cross on a globe — Sigebert I",
       "page": "51",
       "group": "VI",
       "group_fr": "Planche VI",
@@ -3148,16 +3331,19 @@
       "reverse_en": "cross on a crossbar set on a globe, letters M.A and three dots on each side (denoting a third-sol in gold), legend SIGEBERTVS R.I",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "MASILIA / SIGEBERTVS R.I",
+      "legend_ru": "MASILIA / SIGEBERTVS R.I",
+      "legend_en": "MASILIA / SIGEBERTVS R.I"
     },
     {
       "id": "pl6-4",
       "part": 1,
       "plate": 6,
       "num": "4",
-      "fr": "Buste (diadème perlé) / Croix — Sigebert, SISEBERTVS",
-      "ru": "Бюст (жемчужная диадема) / крест — Сигеберт, SISEBERTVS",
-      "en": "Bust (pearled diadem) / Cross — Sigebert, SISEBERTVS",
+      "fr": "Buste (diadème perlé) / Croix — Sigebert",
+      "ru": "Бюст (жемчужная диадема) / крест — Сигеберт",
+      "en": "Bust (pearled diadem) / Cross — Sigebert",
       "page": "51",
       "group": "VI",
       "group_fr": "Planche VI",
@@ -3196,16 +3382,19 @@
       "reverse_en": "a cross similar to that of no. 3 but with no value mark, letters M.A, the word MASSILIA spelled in full",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "SISEBERTVS / MASSILIA",
+      "legend_ru": "SISEBERTVS / MASSILIA",
+      "legend_en": "SISEBERTVS / MASSILIA"
     },
     {
       "id": "pl6-5",
       "part": 1,
       "plate": 6,
       "num": "5",
-      "fr": "Buste (vêtements perlés) / Croix — Sigebert, SEGIBERTVS R.",
-      "ru": "Бюст (одежды в жемчуге) / крест — Сигеберт, SEGIBERTVS R.",
-      "en": "Bust (pearled garments) / Cross — Sigebert, SEGIBERTVS R.",
+      "fr": "Buste (vêtements perlés) / Croix — Sigebert",
+      "ru": "Бюст (одежды в жемчуге) / крест — Сигеберт",
+      "en": "Bust (pearled garments) / Cross — Sigebert",
       "page": "51",
       "group": "VI",
       "group_fr": "Planche VI",
@@ -3244,16 +3433,19 @@
       "reverse_en": "a cross similar to the preceding ones, letters M.A, the word MASSILIA partly effaced by time",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "SEGIBERTVS R.",
+      "legend_ru": "SEGIBERTVS R.",
+      "legend_en": "SEGIBERTVS R."
     },
     {
       "id": "pl6-6",
       "part": 1,
       "plate": 6,
       "num": "6",
-      "fr": "Buste (royal) / Croix sur globe — Dagobert, AAGOBERTE",
-      "ru": "Бюст (царский) / крест на сфере — Дагоберт, AAGOBERTE",
-      "en": "Bust (royal) / Cross on a globe — Dagobert, AAGOBERTE",
+      "fr": "Buste (royal) / Croix sur globe — Dagobert",
+      "ru": "Бюст (царский) / крест на сфере — Дагоберт",
+      "en": "Bust (royal) / Cross on a globe — Dagobert",
       "page": "52",
       "group": "VI",
       "group_fr": "Planche VI",
@@ -3292,16 +3484,19 @@
       "reverse_en": "a cross on a globe, within a double circle, abbreviation MA, Roman numeral V (value), legend largely effaced, the letters VICTOM still visible",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "AAGOBERTE / VICTOM",
+      "legend_ru": "AAGOBERTE / VICTOM",
+      "legend_en": "AAGOBERTE / VICTOM"
     },
     {
       "id": "pl6-7",
       "part": 1,
       "plate": 6,
       "num": "7",
-      "fr": "Buste (diadème perlé) / Croix dans couronne — Dagobert, PAGOBE TYS REX",
-      "ru": "Бюст (жемчужная диадема) / крест в венке — Дагоберт, PAGOBE TYS REX",
-      "en": "Bust (pearled diadem) / Cross in a wreath — Dagobert, PAGOBE TYS REX",
+      "fr": "Buste (diadème perlé) / Croix dans couronne — Dagobert",
+      "ru": "Бюст (жемчужная диадема) / крест в венке — Дагоберт",
+      "en": "Bust (pearled diadem) / Cross in a wreath — Dagobert",
       "page": "52",
       "group": "VI",
       "group_fr": "Planche VI",
@@ -3340,16 +3535,19 @@
       "reverse_en": "a cross within an oval pearl wreath resembling a rosary, abbreviation MA, the word VICTVRIA (for Victoria)",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "PAGOBE TYS REX / VICTVRIA",
+      "legend_ru": "PAGOBE TYS REX / VICTVRIA",
+      "legend_en": "PAGOBE TYS REX / VICTVRIA"
     },
     {
       "id": "pl6-8",
       "part": 1,
       "plate": 6,
       "num": "8",
-      "fr": "Buste (chlamyde) / Croix sur barre — Sigebert, MASILIA / MA",
-      "ru": "Бюст (хламида) / крест на перекладине — Сигеберт, MASILIA / MA",
-      "en": "Bust (chlamys) / Cross on a bar — Sigebert, MASILIA / MA",
+      "fr": "Buste (chlamyde) / Croix sur barre — Sigebert",
+      "ru": "Бюст (хламида) / крест на перекладине — Сигеберт",
+      "en": "Bust (chlamys) / Cross on a bar — Sigebert",
       "page": "52",
       "group": "VI",
       "group_fr": "Planche VI",
@@ -3388,16 +3586,19 @@
       "reverse_en": "a cross within a double circle set on a crossbar, a globe beneath, abbreviation MA, barely visible letters SI...T",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "MASILIA / SI...T",
+      "legend_ru": "MASILIA / SI...T",
+      "legend_en": "MASILIA / SI...T"
     },
     {
       "id": "pl6-9",
       "part": 1,
       "plate": 6,
       "num": "9",
-      "fr": "Buste (aigrette) / Croix sur barre — Sigebert, valeur XI",
-      "ru": "Бюст (эгрет) / крест на перекладине — Сигеберт, достоинство XI",
-      "en": "Bust (aigrette) / Cross on a bar — Sigebert, value XI",
+      "fr": "Buste (aigrette) / Croix sur barre — Sigebert",
+      "ru": "Бюст (эгрет) / крест на перекладине — Сигеберт",
+      "en": "Bust (aigrette) / Cross on a bar — Sigebert",
       "page": "53",
       "group": "VI",
       "group_fr": "Planche VI",
@@ -3436,16 +3637,19 @@
       "reverse_en": "a cross adorned with three pearls at the top and sides, set on a crossbar (pedestal), letters M.A, legend SIGIBERTVS, Roman numeral XI (value)",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "MASILIA / SIGIBERTVS XI",
+      "legend_ru": "MASILIA / SIGIBERTVS XI",
+      "legend_en": "MASILIA / SIGIBERTVS XI"
     },
     {
       "id": "pl6-10",
       "part": 1,
       "plate": 6,
       "num": "10",
-      "fr": "Buste (riche) / Croix épatée — Sigebert, SEGIBERTVS",
-      "ru": "Бюст (богатый) / расширяющийся крест — Сигеберт, SEGIBERTVS",
-      "en": "Bust (richer) / Cross pattée — Sigebert, SEGIBERTVS",
+      "fr": "Buste (riche) / Croix épatée — Sigebert",
+      "ru": "Бюст (богатый) / расширяющийся крест — Сигеберт",
+      "en": "Bust (richer) / Cross pattée — Sigebert",
       "page": "53",
       "group": "VI",
       "group_fr": "Planche VI",
@@ -3484,16 +3688,19 @@
       "reverse_en": "a cross pattée (except where it rests on the pedestal), abbreviation MA, legend MAS... (the rest of the word MASSILIA effaced by time)",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "SEGIBERTVS / MAS",
+      "legend_ru": "SEGIBERTVS / MAS",
+      "legend_en": "SEGIBERTVS / MAS"
     },
     {
       "id": "pl7-1",
       "part": 1,
       "plate": 7,
       "num": "1",
-      "fr": "Buste (jeune homme) / Croix, VICTORIA GOTTICA — Clotaire II",
-      "ru": "Бюст (юноша) / крест, VICTORIA GOTTICA — Хлотарь II",
-      "en": "Bust (young man) / Cross, VICTORIA GOTTICA — Clotaire II",
+      "fr": "Buste (jeune homme) / Croix — Clotaire II",
+      "ru": "Бюст (юноша) / крест — Хлотарь II",
+      "en": "Bust (young man) / Cross — Clotaire II",
       "page": "54",
       "group": "VII",
       "group_fr": "Planche VII",
@@ -3516,17 +3723,14 @@
       ],
       "attrs": [],
       "text_fr": [
-        "LES Médailles contenues en cette Planche, sont encore des sols & des tiers de sols d'or; leur module est de beaucoup plus petit que les Gravures.",
         "Celle indiquée par le numéro 1, porte d'un côté le Buste d'un Jeune-homme, la tête ornée d'un simple Diadême décoré de perles; les vêtemens sont figurés par une simple Draperie sans ornement; la légende est composée de ces mots CLOTARIVS REX; le revers, une Croix dans un double cercle; un globe au bas; l'abréviation MA aux côtés de la Croix; & pour légende, VICTORIA GOTTICA. Cette Médaille me paroît appartenir à Clotaire II, Fils de Chilperic I. qui succéda à son Père au Royaume de Soissons, en 584, à l'âge de 4 mois, & réunit tout l'Empire François en 613. Les traits de jeunesse qu'on distingue dans la figure empreinte sur cette Médaille, vérifient cette conjecture, Clotaire II n'étant que dans sa 29e. année, lorsqu'il fut seul Roi de la Monarchie Françoise.",
         "Il est difficile d'assigner au vrai quelle est la victoire remportée sur les Goths, dont il est fait mention dans le revers. Clotaire II vainquit & soumit les Saxons en 627; mais ces peuples n'avoient rien de commun avec les Goths; & l'époque de victoire gothique ne sauroit convenir à cette expédition. Il me paroît plus convenable d'attribuer cette époque à ce que rapporte Marianna dans son Histoire d'Espagne: savoir, que les Goths d'Espagne, qui avoient toujours tenu tête aux François, même en-deçà des Pyrenées dans le Languedoc, depuis la grande défaite de l'armée de Clovis devant Arles, furent tributaires des Rois François, du temps que Gondemar régnoit en Espagne. M. Leblanc, dans son Traité historique des monnoies de France, attribue ce tiers de sol d'or à Clotaire I, qui passa en Espagne avec son Frere Childebert, pour venger leur sœur Clotilde des cruautés d'Amauri ou Amalaric, Roi des Visigoths, qui vouloit la forcer d'être Arienne. Ce sentiment ne m'a pas paru fondé, en ce que Childebert ne partagea point avec Clotaire Ier. la souveraineté de Marseille, que ce dernier n'acquit que par la mort de Childebert & de Théodebert. M. Bonami, dans son Mémoire inséré dans le Recueil de l'Académie des Inscriptions, cite cette Médaille sous ce seul titre: Monnoie de Clotaire, frappée à Marseille."
       ],
       "text_ru": [
-        "Монеты, помещённые на этой Таблице, — вновь золотые солиды и трети солида; их размер значительно меньше, чем на гравюрах.",
         "Монета под номером 1 несёт с одной стороны бюст Юноши, голова которого украшена простой жемчужной диадемой; одежда представлена простой драпировкой без украшений; легенда составлена из слов CLOTARIVS REX; оборот — крест в двойном круге; внизу — сфера; по сторонам креста — сокращение MA; а легенда — VICTORIA GOTTICA. Эта монета представляется мне принадлежащей Хлотарю II, сыну Хильперика I, который наследовал отцу в королевстве Суассонском в 584 году, в возрасте 4 месяцев, и объединил всю Франкскую империю в 613 году. Юношеские черты, различимые в облике, отчеканенном на этой монете, подтверждают это предположение, поскольку Хлотарю II было лишь 29 лет, когда он стал единственным королём Французской монархии.",
         "Трудно точно определить, какая победа над готами упоминается на обороте. Хлотарь II победил и покорил саксов в 627 году; но эти народы не имели ничего общего с готами, и эпоха готской победы не может соответствовать этому походу. Мне представляется более уместным отнести эту эпоху к тому, что сообщает Мариана в своей «Истории Испании»: а именно, что испанские готы, всегда противостоявшие франкам, даже по эту сторону Пиренеев в Лангедоке, со времени великого поражения войска Хлодвига под Арлем платили дань французским королям во времена правления в Испании Гондемара. Г-н Леблан в своём «Историческом трактате о монетах Франции» приписывает эту треть золотого солида Хлотарю I, который переправился в Испанию вместе со своим братом Хильдебертом, чтобы отомстить за их сестру Хлотильду жестокости Амальрика, короля вестготов, желавшего силой обратить её в арианство. Это мнение не показалось мне обоснованным, поскольку Хильдеберт не разделял с Хлотарем I власти над Марселем, которую последний приобрёл лишь после смерти Хильдеберта и Теодеберта. Г-н Бонами в своей записке, помещённой в Собрании Академии Надписей, упоминает эту монету лишь под названием: «Монета Хлотаря, отчеканенная в Марселе»."
       ],
       "text_en": [
-        "The medals contained in this Plate are again gold sols and third-sols; their size is much smaller than the engravings.",
         "The one indicated by number 1 bears on one side the Bust of a Young man, the head adorned with a simple pearl-decorated Diadem; the garments are shown as a plain, unadorned Drapery; the legend is composed of the words CLOTARIVS REX; the reverse, a Cross within a double circle; a globe at the bottom; the abbreviation MA at the sides of the Cross; and for legend, VICTORIA GOTTICA. This medal appears to me to belong to Clotaire II, Son of Chilperic I, who succeeded his Father in the Kingdom of Soissons in 584, at the age of 4 months, and reunited the whole Frankish Empire in 613. The youthful features distinguishable in the figure stamped on this medal confirm this conjecture, Clotaire II being only in his 29th year when he became sole King of the French Monarchy.",
         "It is difficult to say with certainty which victory over the Goths is mentioned on the reverse. Clotaire II defeated and subdued the Saxons in 627; but these peoples had nothing in common with the Goths, and the period of a Gothic victory could hardly fit this expedition. It seems to me more fitting to attribute this period to what Marianna reports in his History of Spain: namely, that the Goths of Spain, who had always held their own against the French, even on this side of the Pyrenees in Languedoc, since the great defeat of Clovis's army before Arles, were tributary to the French Kings at the time Gondemar reigned in Spain. M. Leblanc, in his historical Treatise on the coinage of France, attributes this gold third-sol to Clotaire I, who passed into Spain with his Brother Childebert, to avenge their sister Clotilde for the cruelties of Amauri or Amalaric, King of the Visigoths, who wished to force her to become Arian. This view has not seemed to me well founded, in that Childebert did not share with Clotaire I the sovereignty of Marseille, which the latter acquired only through the death of Childebert and Theodebert. M. Bonami, in his Memoir inserted in the Collection of the Academy of Inscriptions, cites this medal under this title alone: Coin of Clotaire, struck at Marseille."
       ],
@@ -3538,16 +3742,19 @@
       "reverse_en": "cross within a double circle, a globe at the bottom, abbreviation MA, legend VICTORIA GOTTICA",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "CLOTARIVS REX / VICTORIA GOTTICA",
+      "legend_ru": "CLOTARIVS REX / VICTORIA GOTTICA",
+      "legend_en": "CLOTARIVS REX / VICTORIA GOTTICA"
     },
     {
       "id": "pl7-2",
       "part": 1,
       "plate": 7,
       "num": "2",
-      "fr": "Buste / Croix sur globe — VIETVRIA CHLOT (Clotaire I)",
-      "ru": "Бюст / крест на сфере — VIETVRIA CHLOT (Хлотарь I)",
-      "en": "Bust / Cross on a globe — VIETVRIA CHLOT (Clotaire I)",
+      "fr": "Buste / Croix sur globe — Clotaire Ier",
+      "ru": "Бюст / крест на сфере — Хлотарь I",
+      "en": "Bust / Cross on a globe — Clotaire I",
       "page": "56",
       "group": "VII",
       "group_fr": "Planche VII",
@@ -3586,16 +3793,19 @@
       "reverse_en": "cross set on a globe, abbreviation MA, legend VIETVRIA CHLOT (Victoria Chlotarii), numerals V and II (value)",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "CHLOTARIVS R. / VIETVRIA CHLOT",
+      "legend_ru": "CHLOTARIVS R. / VIETVRIA CHLOT",
+      "legend_en": "CHLOTARIVS R. / VIETVRIA CHLOT"
     },
     {
       "id": "pl7-3",
       "part": 1,
       "plate": 7,
       "num": "3",
-      "fr": "Buste / Croix sur piédestal — CHLOTARIVS REX (Clotaire Ier)",
-      "ru": "Бюст / крест на постаменте — CHLOTARIVS REX (Хлотарь I)",
-      "en": "Bust / Cross on a pedestal — CHLOTARIVS REX (Clotaire I)",
+      "fr": "Buste / Croix sur piédestal — Clotaire Ier",
+      "ru": "Бюст / крест на постаменте — Хлотарь I",
+      "en": "Bust / Cross on a pedestal — Clotaire I",
       "page": "57",
       "group": "VII",
       "group_fr": "Planche VII",
@@ -3634,16 +3844,19 @@
       "reverse_en": "cross within a double circle on a crossbar (pedestal), letters MA, four dots on each side, a globe below, the same legend as the obverse",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "CHLOTARIVS REX",
+      "legend_ru": "CHLOTARIVS REX",
+      "legend_en": "CHLOTARIVS REX"
     },
     {
       "id": "pl7-4",
       "part": 1,
       "plate": 7,
       "num": "4",
-      "fr": "Buste (double diadème) / Croix, MASSIIIA — HRIBERTVS (Caribert)",
-      "ru": "Бюст (двойная диадема) / крест, MASSIIIA — HRIBERTVS (Карибер)",
-      "en": "Bust (double diadem) / Cross, MASSIIIA — HRIBERTVS (Caribert)",
+      "fr": "Buste (double diadème) / Croix — Caribert",
+      "ru": "Бюст (двойная диадема) / крест — Карибер",
+      "en": "Bust (double diadem) / Cross — Caribert",
       "page": "57",
       "group": "VII",
       "group_fr": "Planche VII",
@@ -3682,16 +3895,19 @@
       "reverse_en": "cross within a double circle on a crossbar, a globe below, abbreviation MA, legend MASSIIIA",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "HRIBERTVS / MASSIIIA",
+      "legend_ru": "HRIBERTVS / MASSIIIA",
+      "legend_en": "HRIBERTVS / MASSIIIA"
     },
     {
       "id": "pl7-5",
       "part": 1,
       "plate": 7,
       "num": "5",
-      "fr": "Buste (perles) / Croix, VICTORIAM RIGIS — Clotaire Ier",
-      "ru": "Бюст (жемчуг) / крест, VICTORIAM RIGIS — Хлотарь I",
-      "en": "Bust (pearls) / Cross, VICTORIAM RIGIS — Clotaire I",
+      "fr": "Buste (perles) / Croix — Clotaire Ier",
+      "ru": "Бюст (жемчуг) / крест — Хлотарь I",
+      "en": "Bust (pearls) / Cross — Clotaire I",
       "page": "58",
       "group": "VII",
       "group_fr": "Planche VII",
@@ -3730,16 +3946,19 @@
       "reverse_en": "cross with the letters MA at the top on each side (rather than at the bottom as usual), a Gothic M of bizarre form, legend VICTORIAM RIGIS (for Victoria Regis)",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "CHLOTARIVS REX / VICTORIAM RIGIS",
+      "legend_ru": "CHLOTARIVS REX / VICTORIAM RIGIS",
+      "legend_en": "CHLOTARIVS REX / VICTORIAM RIGIS"
     },
     {
       "id": "pl7-6",
       "part": 1,
       "plate": 7,
       "num": "6",
-      "fr": "Buste (aigrette) / Croix sur piédestal, CHLOTARI VICTVRIA — Clotaire Ier",
-      "ru": "Бюст (эгрет) / крест на постаменте, CHLOTARI VICTVRIA — Хлотарь I",
-      "en": "Bust (aigrette) / Cross on a pedestal, CHLOTARI VICTVRIA — Clotaire I",
+      "fr": "Buste (aigrette) / Croix sur piédestal — Clotaire Ier",
+      "ru": "Бюст (эгрет) / крест на постаменте — Хлотарь I",
+      "en": "Bust (aigrette) / Cross on a pedestal — Clotaire I",
       "page": "59",
       "group": "VII",
       "group_fr": "Planche VII",
@@ -3778,16 +3997,19 @@
       "reverse_en": "cross set on a bar in the form of a pedestal, letters MA as usual, legend CHLOTARI VICTVRIA",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "CHLOTARIVS REX / CHLOTARI VICTVRIA",
+      "legend_ru": "CHLOTARIVS REX / CHLOTARI VICTVRIA",
+      "legend_en": "CHLOTARIVS REX / CHLOTARI VICTVRIA"
     },
     {
       "id": "pl7-7",
       "part": 1,
       "plate": 7,
       "num": "7",
-      "fr": "Buste (laurier) / Croix, CHLOTARII VICTVRIA — Clotaire Ier",
-      "ru": "Бюст (лавр) / крест, CHLOTARII VICTVRIA — Хлотарь I",
-      "en": "Bust (laurel) / Cross, CHLOTARII VICTVRIA — Clotaire I",
+      "fr": "Buste (laurier) / Croix — Clotaire Ier",
+      "ru": "Бюст (лавр) / крест — Хлотарь I",
+      "en": "Bust (laurel) / Cross — Clotaire I",
       "page": "59",
       "group": "VII",
       "group_fr": "Planche VII",
@@ -3826,7 +4048,10 @@
       "reverse_en": "cross, a globe below, letters MA as usual, Roman numeral V on each side (value), legend CHLOTARII VICTVRIA",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "CHLOTARIVS R. / CHLOTARII VICTVRIA",
+      "legend_ru": "CHLOTARIVS R. / CHLOTARII VICTVRIA",
+      "legend_en": "CHLOTARIVS R. / CHLOTARII VICTVRIA"
     },
     {
       "id": "pl7-8",
@@ -3875,16 +4100,19 @@
       "motifs": [
         "cross",
         "laurel-crown"
-      ]
+      ],
+      "legend_fr": "CHLOTARLVS REX",
+      "legend_ru": "CHLOTARLVS REX",
+      "legend_en": "CHLOTARLVS REX"
     },
     {
       "id": "pl7-9",
       "part": 1,
       "plate": 7,
       "num": "9",
-      "fr": "Buste (B) / Croix, CHEREBERTVS REX",
-      "ru": "Бюст (B) / крест, CHEREBERTVS REX",
-      "en": "Bust (B) / Cross, CHEREBERTVS REX",
+      "fr": "Buste (B) / Croix — Cherebert",
+      "ru": "Бюст (B) / крест — Керебер",
+      "en": "Bust (B) / Cross — Cherebert",
       "page": "60",
       "group": "VII",
       "group_fr": "Planche VII",
@@ -3923,16 +4151,19 @@
       "reverse_en": "cross within a double circle on a crossbar (pedestal), letters MA as usual, a globe beneath the cross, four dots under each letter MA (value), legend CHEREBERTVS REX",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "MASILIA / CHEREBERTVS REX",
+      "legend_ru": "MASILIA / CHEREBERTVS REX",
+      "legend_en": "MASILIA / CHEREBERTVS REX"
     },
     {
       "id": "pl7-10",
       "part": 1,
       "plate": 7,
       "num": "10",
-      "fr": "Buste (aigrette) / Croix, SIGEBERTVS — Sigebert Ier (?)",
-      "ru": "Бюст (эгрет) / крест, SIGEBERTVS — Сигеберт I (?)",
-      "en": "Bust (aigrette) / Cross, SIGEBERTVS — Sigebert I (?)",
+      "fr": "Buste (aigrette) / Croix — Sigebert Ier (?)",
+      "ru": "Бюст (эгрет) / крест — Сигеберт I (?)",
+      "en": "Bust (aigrette) / Cross — Sigebert I (?)",
       "page": "60",
       "group": "VII",
       "group_fr": "Planche VII",
@@ -3971,7 +4202,10 @@
       "reverse_en": "the same reverse as no. 9, except that four dots are under the letter M and only two under the letter A, legend SIGEBERTVS",
       "motifs": [
         "cross"
-      ]
+      ],
+      "legend_fr": "MASILIA / SIGEBERTVS",
+      "legend_ru": "MASILIA / SIGEBERTVS",
+      "legend_en": "MASILIA / SIGEBERTVS"
     }
   ]
 }

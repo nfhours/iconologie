@@ -5,7 +5,7 @@
   // Бампать при каждой правке app.css (и, по желанию, когда меняется логика
   // в app.js, завязанная на новую разметку), чтобы браузеры и CDN не отдавали
   // старую закэшированную копию стилей после деплоя.
-  var APP_VER = "15";
+  var APP_VER = "18";
   var me = document.currentScript;
   var BASE = (me && me.src) ? me.src.replace(/[^\/]*$/, "") : "./";
   var root = document.getElementById("iconologie");
@@ -85,7 +85,9 @@
     plateLink:    {ru:"Смотреть таблицу целиком", en:"View the full plate"},
     plateTitle:   {ru:"Таблица {n}", en:"Plate {n}"},
     plateHint:    {ru:"Нажмите на номер, чтобы открыть предмет.", en:"Click a number to open that object."},
-    infoSec:      {ru:"Сведения", en:"Details"}
+    infoSec:      {ru:"Сведения", en:"Details"},
+    objCount:     {ru:"Предметов: {n}", en:"Objects: {n}"},
+    progressShort:{ru:"{done} из {total} переведено", en:"{done} of {total} translated"}
   };
   function t(key, vars){
     var s = (DICT[key] && (DICT[key][state.lang] || DICT[key].ru)) || key;
@@ -182,6 +184,7 @@
       items.forEach(function(it,i){
         it.ord=i; byId[it.id]=it; it.pn=parseInt(it.page,10)||0;
         it.key = norm([it.fr,it.ru,it.en||"",it.group,it.group_fr,it.group_en||"",it.num,it.caption||"",
+          it.legend_ru||"",it.legend_en||"",it.legend_fr||"",
           (it.attrs||[]).map(function(a){return a.what+" "+a.meaning+" "+(a.what_en||"")+" "+(a.meaning_en||"");}).join(" "),
           (it.text_ru||[]).join(" "),(it.text_en||[]).join(" "),(it.text_fr||[]).join(" ")].join(" "));
       });
@@ -226,9 +229,12 @@
     if(!p.slug){ renderLibraryHome(); return; }
     openBook(p.slug, function(book){
       if(!book){ if(!forcedBook) renderLibraryHome(); return; }
+      var isPlateBook = book.meta.viewer==="plate";
       if(p.view==="about") renderAbout(book);
       else if(p.view==="plate") renderPlate(book, p.plateNum);
+      else if(p.id && book.byId[p.id] && isPlateBook) renderPlate(book, book.byId[p.id].plate, {focus:p.id});
       else if(p.id && book.byId[p.id]) renderCard(book, book.byId[p.id]);
+      else if(isPlateBook) renderPlateIndex(book);
       else renderIndex(book);
     });
   }
@@ -386,6 +392,89 @@
     list.innerHTML=html;
   }
 
+  /* ---------- указатель книги с просмотром по табличкам (viewer:"plate") ----------
+     Основная единица — таблица, не отдельный предмет: одна строка на таблицу
+     (миниатюра, название, число предметов, страницы, готовность). Поиск
+     переключает список на предметы (как в renderIndex), ведущие через
+     существующий id-маршрут в renderPlate(book, plate, {focus:id}). */
+  function plateRowsOf(book){
+    var byPlate = {};
+    book.items.forEach(function(it){ (byPlate[it.plate]=byPlate[it.plate]||[]).push(it); });
+    return Object.keys(byPlate).map(Number).sort(function(a,b){return a-b;}).map(function(n){
+      return {n:n, objs:byPlate[n]};
+    });
+  }
+  function plateRowsHtml(book){
+    return plateRowsOf(book).map(function(r){
+      var objs = r.objs, n = r.n;
+      var pm = (book.meta.plates||[]).filter(function(p){ return p.n===n; })[0] || {};
+      var title = pm["title_"+state.lang] || pm.title_ru || t("plateTitle",{n:n});
+      var done = objs.filter(function(it){ return ready(it, book); }).length;
+      var pages = objs.map(function(it){ return parseInt(it.page,10); }).filter(function(x){ return x; });
+      var pmin = pages.length?Math.min.apply(null,pages):null, pmax = pages.length?Math.max.apply(null,pages):null;
+      var pageStr = pmin!=null ? (esc(t("pageAbbr"))+" "+(pmin===pmax?pmin:pmin+"–"+pmax)) : "";
+      var thumb = BASE+"books/"+book.slug+"/img/"+objs[0].plate_img;
+      var pct = objs.length?Math.round(done*100/objs.length):0;
+      return '<li class="ic-plate-row" tabindex="0" role="link" data-n="'+n+'">'+
+        '<span class="ic-plate-thumb"><img loading="lazy" src="'+esc(thumb)+'" alt=""></span>'+
+        '<span class="ic-plate-body">'+
+          '<span class="ic-plate-name">'+esc(title)+'</span>'+
+          '<span class="ic-plate-meta">'+esc(t("objCount",{n:objs.length}))+(pageStr?' · '+pageStr:'')+'</span>'+
+          '<span class="ic-plate-prog">'+esc(t("progressShort",{done:done,total:objs.length}))+'<span class="ic-bar"><i style="width:'+pct+'%"></i></span></span>'+
+        '</span>'+
+      '</li>';
+    }).join("");
+  }
+  function renderPlateIndex(book){
+    restoreState(book.slug);
+    var items = book.items;
+    var done = items.filter(function(it){ return ready(it, book); }).length, pct = items.length ? Math.round(done*100/items.length) : 0;
+    root.innerHTML =
+      '<div class="ic-wrap">'+
+        '<div class="ic-top-row">'+(forcedBook?"":'<button type="button" class="ic-to-lib-link">'+t("toLibrary")+'</button>')+
+          (book.meta.about?'<a class="ic-about-link" href="'+esc(hrefFor(book,"about"))+'">'+t("aboutLink")+'</a>':"")+
+          langSwitch()+'</div>'+
+        '<h1 class="ic-title">'+esc(bt(book.meta.title))+'</h1>'+
+        '<p class="ic-sub">'+esc(bt(book.meta.subtitle))+'</p>'+
+        '<p class="ic-progress">'+t("progress",{done:done,total:items.length})+'<span class="ic-bar"><i style="width:'+pct+'%"></i></span></p>'+
+        '<div class="ic-controls">'+
+          '<input class="ic-search" type="search" placeholder="'+esc(t("searchPh"))+'" autocomplete="off" aria-label="'+esc(t("searchPh"))+'">'+
+          '<p class="ic-count"></p>'+
+        '</div>'+
+        '<ul class="ic-plate-ul"></ul>'+
+        '<div class="ic-list"></div>'+
+      '</div>';
+    bindLangSwitch(root);
+    var toLib = root.querySelector(".ic-to-lib-link"); if(toLib) toLib.addEventListener("click",function(){ location.hash=""; });
+    var q=root.querySelector(".ic-search"); q.value=state.q;
+    function refresh(){
+      var plateUl = root.querySelector(".ic-plate-ul"), list = root.querySelector(".ic-list"), count = root.querySelector(".ic-count");
+      if(!state.q.trim()){
+        plateUl.hidden=false; list.hidden=true; count.textContent="";
+        plateUl.innerHTML = plateRowsHtml(book);
+      } else {
+        plateUl.hidden=true; list.hidden=false;
+        fill(book);
+      }
+    }
+    q.addEventListener("input",function(){ state.q=q.value; keep(book.slug); refresh(); });
+    root.querySelector(".ic-list").addEventListener("click",function(e){
+      var r=e.target.closest(".ic-row-item"); if(r) go(book, r.getAttribute("data-id"));
+    });
+    root.querySelector(".ic-list").addEventListener("keydown",function(e){
+      var r=e.target.closest(".ic-row-item"); if(r && (e.key==="Enter"||e.key===" ")){ e.preventDefault(); go(book, r.getAttribute("data-id")); }
+    });
+    root.querySelector(".ic-plate-ul").addEventListener("click",function(e){
+      var r=e.target.closest(".ic-plate-row"); if(r) location.hash = hrefFor(book,"plate/"+r.getAttribute("data-n"));
+    });
+    root.querySelector(".ic-plate-ul").addEventListener("keydown",function(e){
+      var r=e.target.closest(".ic-plate-row"); if(r && (e.key==="Enter"||e.key===" ")){ e.preventDefault(); location.hash = hrefFor(book,"plate/"+r.getAttribute("data-n")); }
+    });
+    refresh();
+    if(state.scroll){ var y=state.scroll; state.scroll=0; requestAnimationFrame(function(){ window.scrollTo(0,y); }); }
+    nudgeRepaint();
+  }
+
   /* ---------- карточка статьи ---------- */
   function seq(book){ var r=filtered(book); if(state.sort==="ru") return r; return r.slice().sort(function(a,b){return a.ord-b.ord;}); }
   // значение «своего» поля книги (book.json -> fields): сперва на текущем языке,
@@ -482,8 +571,8 @@
       '</div>'+
     '</details>';
   }
-  function bindOriginal(it, pagesBase){
-    var det = root.querySelector(".ic-original");
+  function bindOriginal(it, pagesBase, container){
+    var det = (container||root).querySelector(".ic-original");
     if(!det) return;
     var body = det.querySelector(".ic-orig-body");
     var view = det.querySelector(".ic-orig-view");
@@ -554,19 +643,132 @@
     toTop(); nudgeRepaint();
   }
 
-  /* ---------- просмотр таблицы целиком (book.json viewer:"plate") ---------- */
-  function renderPlate(book, plateNum){
+  /* ---------- просмотр таблицы целиком (book.json viewer:"plate") ----------
+     Основной экран для книг-табличек: гравюра с номерами, вводный текст и
+     подпись Гроссона к этой таблице, и компактный список предметов, где
+     нажатие раскрывает сведения на месте (без перехода на отдельную страницу).
+     opts.focus — id предмета: раскрыть, прокрутить и подсветить на гравюре
+     (так адрес вида #/grosson/pl1-3 попадает в нужное место таблицы). */
+  function objectDetailHtml(book, it){
+    var fieldsHtml = "";
+    if(book.meta.fields){
+      Object.keys(book.meta.fields).forEach(function(key){
+        var val = fieldVal(it, key);
+        if(!val) return;
+        var label = book.meta.fields[key][state.lang] || book.meta.fields[key].ru;
+        fieldsHtml += '<li><b>'+esc(label)+'</b><span>'+esc(val)+'</span></li>';
+      });
+    }
+    var translArr = state.lang==="en" && it.text_en && it.text_en.length ? it.text_en : it.text_ru;
+    var transl = paraHtml(translArr);
+    var hasScans = it.scans && it.scans.length;
+    var hasFr = it.text_fr && it.text_fr.length;
+    if(!fieldsHtml && !transl){
+      return '<div class="ic-missing"><b>'+t("missing")+'</b></div>';
+    }
+    return (fieldsHtml?'<section class="ic-sec"><h3>'+t("infoSec")+'</h3><ul class="ic-attrs">'+fieldsHtml+'</ul></section>':"")+
+      (transl?'<section class="ic-sec"><h3>'+t("translSec")+'</h3><div class="ic-text">'+transl+'</div></section>':"")+
+      ((hasScans||hasFr)?renderOriginal(it):"");
+  }
+  function bindObjectDetail(book, it, container){
+    var pagesBase = BASE+"books/"+book.slug+"/pages/";
+    if((it.scans && it.scans.length) || (it.text_fr && it.text_fr.length)) bindOriginal(it, pagesBase, container);
+  }
+  function highlightHotspot(id){
+    root.querySelectorAll(".ic-hotspot").forEach(function(b){ b.classList.toggle("focus", id!=null && b.getAttribute("data-id")===id); });
+  }
+  function objListHtml(book, objs){
+    return '<ul class="ic-objlist">'+objs.map(function(it){
+      var thumbSrc = BASE+"books/"+book.slug+"/img/"+((it.img&&it.img[0])||"");
+      return '<li class="ic-obj" data-id="'+it.id+'">'+
+        '<details class="ic-obj-d">'+
+          '<summary class="ic-obj-sum">'+
+            '<img class="ic-obj-thumb" loading="lazy" src="'+esc(thumbSrc)+'" alt="">'+
+            '<span class="ic-obj-num">'+esc(it.num||"")+'</span>'+
+            '<span class="ic-obj-name">'+esc(titleOf(it))+'</span>'+
+            '<span class="ic-obj-dot'+(ready(it,book)?" on":"")+'"></span>'+
+          '</summary>'+
+          '<div class="ic-obj-body" data-loaded="0"></div>'+
+        '</details>'+
+      '</li>';
+    }).join("")+'</ul>';
+  }
+  function wireObjList(book, objs){
+    root.querySelectorAll(".ic-obj-d").forEach(function(det){
+      var li = det.closest(".ic-obj"), id = li.getAttribute("data-id"), it = book.byId[id];
+      det.addEventListener("toggle",function(){
+        if(det.open){
+          var body = det.querySelector(".ic-obj-body");
+          if(body.getAttribute("data-loaded")==="0"){
+            body.setAttribute("data-loaded","1");
+            body.innerHTML = objectDetailHtml(book, it);
+            bindObjectDetail(book, it, body);
+          }
+          highlightHotspot(id);
+        } else if(!root.querySelector(".ic-obj-d[open]")){
+          highlightHotspot(null);
+        }
+      });
+    });
+  }
+  function openObjectInline(book, id){
+    var li = root.querySelector('.ic-obj[data-id="'+id+'"]');
+    if(!li) return;
+    var det = li.querySelector(".ic-obj-d");
+    if(!det.open) det.open = true; else highlightHotspot(id);
+    requestAnimationFrame(function(){ li.scrollIntoView({block:"center", behavior:"smooth"}); });
+  }
+  function isPhoneWidth(){ return window.matchMedia("(max-width: 640px)").matches; }
+  function openObjectSheet(book, objs, idx){
+    var it = objs[idx];
+    var d = document.createElement("div");
+    d.className = "ic ic-sheet";
+    var thumbSrc = BASE+"books/"+book.slug+"/img/"+((it.img&&it.img[0])||"");
+    d.innerHTML =
+      '<div class="ic-sheet-backdrop"></div>'+
+      '<div class="ic-sheet-panel" role="dialog" aria-label="'+esc(titleOf(it))+'">'+
+        '<div class="ic-sheet-head">'+
+          '<button type="button" class="ic-sheet-prev" aria-label="'+esc(t("prevArticle"))+'"'+(idx===0?" disabled":"")+'>‹</button>'+
+          '<span class="ic-sheet-title">'+esc(it.num||"")+'. '+esc(titleOf(it))+'</span>'+
+          '<button type="button" class="ic-sheet-next" aria-label="'+esc(t("nextArticle"))+'"'+(idx===objs.length-1?" disabled":"")+'>›</button>'+
+          '<button type="button" class="ic-sheet-close" aria-label="'+esc(t("close"))+'">×</button>'+
+        '</div>'+
+        '<div class="ic-sheet-body"><img class="ic-sheet-img" src="'+esc(thumbSrc)+'" alt=""></div>'+
+      '</div>';
+    document.body.appendChild(d);
+    document.documentElement.style.overflow="hidden";
+    var body = d.querySelector(".ic-sheet-body");
+    body.insertAdjacentHTML("beforeend", objectDetailHtml(book, it));
+    bindObjectDetail(book, it, body);
+    highlightHotspot(it.id);
+    function cleanup(){ d.remove(); document.documentElement.style.overflow=""; highlightHotspot(null); document.removeEventListener("keydown",onKey); }
+    function onKey(e){ if(e.key==="Escape") cleanup(); }
+    function goTo(j){ if(j<0||j>=objs.length) return; cleanup(); openObjectSheet(book, objs, j); }
+    d.querySelector(".ic-sheet-backdrop").addEventListener("click", cleanup);
+    d.querySelector(".ic-sheet-close").addEventListener("click", cleanup);
+    document.addEventListener("keydown", onKey);
+    d.querySelector(".ic-sheet-prev").addEventListener("click",function(){ goTo(idx-1); });
+    d.querySelector(".ic-sheet-next").addEventListener("click",function(){ goTo(idx+1); });
+    var touchStartX=null, panel=d.querySelector(".ic-sheet-panel");
+    panel.addEventListener("touchstart",function(e){ touchStartX=e.touches[0].clientX; },{passive:true});
+    panel.addEventListener("touchend",function(e){
+      if(touchStartX==null) return;
+      var dx=e.changedTouches[0].clientX-touchStartX; touchStartX=null;
+      if(Math.abs(dx)>60){ if(dx<0) goTo(idx+1); else goTo(idx-1); }
+    },{passive:true});
+  }
+  function renderPlate(book, plateNum, opts){
     var n = String(plateNum);
     var objs = book.items.filter(function(it){ return String(it.plate)===n; });
     if(!objs.length){ goIndex(book); return; }
     var plateImg = objs[0].plate_img;
     var src = BASE+"books/"+book.slug+"/img/"+plateImg;
-    var plateMeta = (book.meta.plates||[]).filter(function(p){ return String(p.n)===n; })[0];
-    var captionHtml = "";
-    if(plateMeta){
-      var cap = plateMeta["caption_"+state.lang] || plateMeta.caption_ru || plateMeta.caption_fr || "";
-      if(cap) captionHtml = '<p class="ic-plate-caption">'+esc(cap)+'</p>';
-    }
+    var plateMeta = (book.meta.plates||[]).filter(function(p){ return String(p.n)===n; })[0] || {};
+    var title = plateMeta["title_"+state.lang] || plateMeta.title_ru || t("plateTitle",{n:n});
+    var introArr = plateMeta["intro_"+state.lang] || plateMeta.intro_ru;
+    var introHtml = introArr && introArr.length ? '<div class="ic-plate-intro ic-text">'+paraHtml(introArr)+'</div>' : "";
+    var cap = plateMeta["caption_"+state.lang] || plateMeta.caption_ru || plateMeta.caption_fr || "";
+    var captionHtml = cap ? '<p class="ic-plate-caption">'+esc(cap)+'</p>' : "";
     var hotspots = objs.map(function(it){
       var box = it.bbox || [0,0,10,10];
       var isReady = ready(it, book);
@@ -580,17 +782,29 @@
           '<button type="button" class="ic-back">'+t("back")+'</button>'+
           langSwitch()+
         '</div>'+
-        '<header class="ic-head"><h1 class="ic-h-fr">'+esc(t("plateTitle",{n:n}))+'</h1>'+
-          '<p class="ic-h-ru">'+esc(t("plateHint"))+'</p></header>'+
+        '<header class="ic-head"><h1 class="ic-h-fr">'+esc(title)+'</h1></header>'+
+        introHtml+
         '<div class="ic-plate-wrap"><img src="'+esc(src)+'" alt="">'+hotspots+'</div>'+
         captionHtml+
+        objListHtml(book, objs)+
       '</div>';
     bindLangSwitch(root);
     root.querySelector(".ic-back").addEventListener("click",function(){ goIndex(book); });
+    wireObjList(book, objs);
     root.querySelectorAll(".ic-hotspot").forEach(function(b){
-      b.addEventListener("click",function(){ go(book, b.getAttribute("data-id")); });
+      b.addEventListener("click",function(){
+        var id = b.getAttribute("data-id");
+        if(isPhoneWidth()) openObjectSheet(book, objs, objs.indexOf(book.byId[id]));
+        else openObjectInline(book, id);
+      });
     });
-    toTop(); nudgeRepaint();
+    if(opts && opts.focus){
+      if(isPhoneWidth()) openObjectSheet(book, objs, objs.indexOf(book.byId[opts.focus]));
+      else openObjectInline(book, opts.focus);
+    } else {
+      toTop();
+    }
+    nudgeRepaint();
   }
 
   function lightbox(src){

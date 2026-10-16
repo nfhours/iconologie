@@ -23,6 +23,10 @@
   ],
   "partsNote": "Список частей предварительный и неполный: в сохранившихся сканах не нашлось оглавления. Дополнить после сверки с оглавлением книги.",
   "fields": {
+    "legend": {
+      "ru": "Легенда",
+      "en": "Legend"
+    },
     "obverse": {
       "ru": "Лицевая сторона",
       "en": "Obverse"
@@ -57,43 +61,102 @@
       "n": 1,
       "caption_fr": "aux dépens de M. Michel, honoraire de l'Ac. de Peinture et Sculp. de Marseille",
       "caption_ru": "на средства г-на Мишеля, почётного члена Академии живописи и скульптуры Марселя",
-      "caption_en": "at the expense of M. Michel, honorary member of the Academy of Painting and Sculpture of Marseille"
+      "caption_en": "at the expense of M. Michel, honorary member of the Academy of Painting and Sculpture of Marseille",
+      "title_ru": "Таблица I. Греческие монеты Массалии",
+      "title_en": "Plate I. Greek Coins of Massalia"
     },
     {
       "n": 2,
       "caption_fr": "Aux dépens de Mr. Barrigue de Fontainieu de l'Ac. Royale de peint. & Sculp. de Marseille",
       "caption_ru": "на средства г-на Барриг де Фонтанье, Королевской академии живописи и скульптуры Марселя",
-      "caption_en": "at the expense of M. Barrigue de Fontainieu of the Royal Academy of Painting and Sculpture of Marseille"
+      "caption_en": "at the expense of M. Barrigue de Fontainieu of the Royal Academy of Painting and Sculpture of Marseille",
+      "title_ru": "Таблица II. Монеты Массалии",
+      "title_en": "Plate II. Coins of Massalia"
     },
     {
       "n": 3,
       "caption_fr": "Aux depens de Mr Roux depute du Commerce de Marseille",
       "caption_ru": "на средства г-на Ру, депутата торговли Марселя",
-      "caption_en": "at the expense of M. Roux, deputy of the Commerce of Marseille"
+      "caption_en": "at the expense of M. Roux, deputy of the Commerce of Marseille",
+      "title_ru": "Таблица III. Бронзовые монеты: Аполлон, Минерва, Марс",
+      "title_en": "Plate III. Bronze Coins: Apollo, Minerva, Mars",
+      "intro_fr": [
+        "LES Médailles contenues dans cette Planche, sont toutes en bronze, & des mêmes grandeurs que celles des Gravures."
+      ],
+      "intro_ru": [
+        "Монеты, помещённые на этой Таблице, все бронзовые и того же размера, что и сами гравюры."
+      ],
+      "intro_en": [
+        "The medals contained in this Plate are all in bronze, and of the same size as the engravings."
+      ]
     },
     {
       "n": 4,
       "caption_fr": "Aux depens de Mr Mtre B. de Marseille",
       "caption_ru": "на средства г-на мэтра Б. из Марселя (подпись не вполне разборчива)",
-      "caption_en": "at the expense of M. Maitre B. of Marseille (signature only partly legible)"
+      "caption_en": "at the expense of M. Maitre B. of Marseille (signature only partly legible)",
+      "title_ru": "Таблица IV. Нептун, Меркурий и другие божества",
+      "title_en": "Plate IV. Neptune, Mercury and Other Deities",
+      "intro_fr": [
+        "TOUTES les Médailles contenues dans cette Planche, sont en bronze, & des mêmes grandeurs que les Gravures."
+      ],
+      "intro_ru": [
+        "ВСЕ монеты, помещённые на этой Таблице, бронзовые и того же размера, что и сами гравюры."
+      ],
+      "intro_en": [
+        "ALL the medals contained in this Plate are in bronze, and of the same size as the engravings."
+      ]
     },
     {
       "n": 5,
       "caption_fr": "Aux depens de Mr Mtre Lavabre avocat en la Cour",
       "caption_ru": "на средства г-на мэтра Лавабра, адвоката при Суде",
-      "caption_en": "at the expense of M. Lavabre, advocate at the Court"
+      "caption_en": "at the expense of M. Lavabre, advocate at the Court",
+      "title_ru": "Таблица V. Аполлон и бык; перечеканенная монета",
+      "title_en": "Plate V. Apollo and the Bull; a Re-struck Coin",
+      "intro_fr": [
+        "LES Médailles comprises sous les n°. 1, 2, 3, 5, 6 & 7, sont des mêmes grandeurs que les Gravures; celles désignées par les autres chiffres, ont été tant soit peu augmentées; elles sont toutes en bronze."
+      ],
+      "intro_ru": [
+        "Монеты, помещённые под №№ 1, 2, 3, 5, 6 и 7, того же размера, что и сами гравюры; монеты под остальными номерами были слегка увеличены; все они бронзовые."
+      ],
+      "intro_en": [
+        "The medals included under nos. 1, 2, 3, 5, 6 and 7 are of the same size as the engravings; those designated by the other numbers have been enlarged somewhat; they are all in bronze."
+      ]
     },
     {
       "n": 6,
       "caption_fr": "Aux depens de Mr al die Badaraque negociant",
       "caption_ru": "на средства г-на Бадарака, негоцианта",
-      "caption_en": "at the expense of M. Badaraque, merchant"
+      "caption_en": "at the expense of M. Badaraque, merchant",
+      "title_ru": "Таблица VI. Золотые монеты франкских королей",
+      "title_en": "Plate VI. Gold Coins of the Frankish Kings",
+      "intro_fr": [
+        "LES Médailles des Planches suivantes, sont celles qui ont servi de monnoies sous les règnes des Rois de France de la première & seconde race, Souverains de Marseille. Ces Médailles sont des sols, des demi sols, & des tiers de sols d'or, frappées dans cette Ville. Le module des Médailles est augmenté de la moitié dans les Gravures, & même des deux tiers dans quelques-unes."
+      ],
+      "intro_ru": [
+        "Монеты, помещённые на следующих Таблицах, — это те, что служили денежным обращением при королях Франции первой и второй династии, государях Марселя. Эти монеты — золотые солиды, полусолиды и трети солида, отчеканенные в этом Городе. Размер монет на гравюрах увеличен в полтора раза, а в некоторых — даже вдвое."
+      ],
+      "intro_en": [
+        "The medals of the following Plates are those which served as coinage under the reigns of the Kings of France of the first and second dynasty, Sovereigns of Marseille. These medals are gold sols, half-sols, and third-sols, struck in this City. The scale of the medals is enlarged by half in the Engravings, and even by two-thirds in some of them."
+      ]
     },
     {
       "n": 7,
       "caption_fr": "(armoiries de la Ville, sans nom de souscripteur)",
       "caption_ru": "(герб Города, без имени подписчика)",
-      "caption_en": "(the City's coat of arms, no subscriber named)"
+      "caption_en": "(the City's coat of arms, no subscriber named)",
+      "title_ru": "Таблица VII. Золотые монеты: Хлотарь, Карибер, Сигеберт",
+      "title_en": "Plate VII. Gold Coins: Clotaire, Caribert, Sigebert",
+      "intro_fr": [
+        "LES Médailles contenues en cette Planche, sont encore des sols & des tiers de sols d'or; leur module est de beaucoup plus petit que les Gravures."
+      ],
+      "intro_ru": [
+        "Монеты, помещённые на этой Таблице, — вновь золотые солиды и трети солида; их размер значительно меньше, чем на гравюрах."
+      ],
+      "intro_en": [
+        "The medals contained in this Plate are again gold sols and third-sols; their size is much smaller than the engravings."
+      ]
     }
   ],
   "about": {

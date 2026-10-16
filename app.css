@@ -90,6 +90,52 @@
 .ic-hotspot.on span{background:var(--ready)}
 .ic-hotspot span{font-family:var(--serif);font-size:11px;line-height:1;color:#fff;background:var(--soft);
   border-radius:3px;padding:2px 5px;margin:-6px 0 0 -6px;box-shadow:0 1px 3px rgba(0,0,0,.25)}
+.ic-hotspot.focus{border-color:var(--accent);background:rgba(139,30,45,.22)}
+.ic-hotspot.focus span{background:var(--accent)}
+.ic-plate-intro{margin-top:22px}
+
+/* указатель книги-табличек: одна строка на таблицу */
+.ic-plate-ul{list-style:none;margin-top:18px}
+.ic-plate-row{display:grid;grid-template-columns:5.6rem 1fr;gap:16px;align-items:center;
+  padding:14px 4px;border-bottom:1px solid var(--rule);cursor:pointer;color:var(--ink)}
+.ic-plate-row:hover{background:var(--sheet)}
+.ic-plate-thumb{display:block;width:5.6rem;height:5.6rem;border:1px solid var(--rule);border-radius:4px;overflow:hidden;background:var(--sheet)}
+.ic-plate-thumb img{width:100%;height:100%;object-fit:cover;object-position:top}
+.ic-plate-body{display:block;min-width:0}
+.ic-plate-name{font-family:var(--old);font-style:italic;font-size:1.15em;line-height:1.3;display:block}
+.ic-plate-meta{display:block;font-size:.82em;color:var(--soft);margin-top:4px}
+.ic-plate-prog{display:block;font-size:.78em;color:var(--soft);margin-top:8px}
+.ic-plate-prog .ic-bar{max-width:220px}
+
+/* компактный список предметов таблицы, раскрывающийся на месте */
+.ic-objlist{list-style:none;margin-top:26px}
+.ic-obj{border-bottom:1px solid var(--rule)}
+.ic-obj-d{padding:0}
+.ic-obj-sum{display:grid;grid-template-columns:5.2rem auto 1fr 10px;gap:12px;align-items:center;
+  padding:10px 2px;cursor:pointer;list-style:none}
+.ic-obj-sum::-webkit-details-marker{display:none}
+.ic-obj-sum:hover{background:var(--sheet)}
+.ic-obj-thumb{width:5.2rem;height:2.6rem;object-fit:contain;border:1px solid var(--rule);border-radius:4px;background:var(--sheet)}
+.ic-obj-num{font-family:var(--old);color:var(--accent);font-size:1.1em;text-align:right}
+.ic-obj-name{font-size:.96em;line-height:1.35}
+.ic-obj-dot{width:9px;height:9px;border-radius:50%;border:1.5px solid var(--rule);justify-self:end}
+.ic-obj-dot.on{background:var(--ready);border-color:var(--ready)}
+.ic-obj-body{padding:4px 2px 22px}
+
+/* мобильная панель снизу для предмета, открытого с гравюры */
+.ic-sheet{position:fixed;inset:0;z-index:99999}
+.ic-sheet-backdrop{position:absolute;inset:0;background:rgba(34,32,28,.45)}
+.ic-sheet-panel{position:absolute;left:0;right:0;bottom:0;max-height:88vh;overflow-y:auto;
+  background:var(--paper);border-radius:14px 14px 0 0;box-shadow:0 -4px 24px rgba(0,0,0,.2);
+  -webkit-overflow-scrolling:touch}
+.ic-sheet-head{position:sticky;top:0;z-index:2;display:grid;grid-template-columns:auto 1fr auto auto;gap:8px;align-items:center;
+  background:var(--paper);border-bottom:1px solid var(--rule);padding:12px 14px}
+.ic-sheet-title{font-family:var(--old);font-style:italic;font-size:1.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ic-sheet-prev,.ic-sheet-next,.ic-sheet-close{width:36px;height:36px;border:1px solid var(--rule);border-radius:50%;
+  background:var(--sheet);cursor:pointer;font-size:1.1em;line-height:1;display:flex;align-items:center;justify-content:center;color:var(--ink)}
+.ic-sheet-prev:disabled,.ic-sheet-next:disabled{opacity:.35;cursor:default}
+.ic-sheet-body{padding:16px 16px 28px}
+.ic-sheet-img{border:1px solid var(--rule);border-radius:4px;margin:0 auto 6px}
 
 /* карточка статьи */
 .ic-nav{position:sticky;top:var(--top);z-index:4;background:var(--paper);display:flex;flex-wrap:wrap;align-items:center;gap:10px;
@@ -173,6 +219,10 @@
   .ic-fig{padding:8px}
   .ic-scan-frame{padding:8px}
   .ic-nav-pos{order:3;margin-left:0;flex:1 0 100%}
+  .ic-plate-row{grid-template-columns:4.4rem 1fr;gap:12px}
+  .ic-plate-thumb{width:4.4rem;height:4.4rem}
+  .ic-obj-sum{grid-template-columns:4.2rem auto 1fr 8px;gap:8px}
+  .ic-obj-thumb{width:4.2rem;height:2.1rem}
 }
 @media (prefers-reduced-motion:no-preference){
   .ic-row-item{transition:background .15s}
