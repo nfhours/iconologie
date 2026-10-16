@@ -8913,12 +8913,41 @@
       "group_fr": "Les quatre parties du Monde",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-5.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина, увенчанная гирляндой цветов и плодов, в богатом усыпанном самоцветами одеянии, с ветвями благовоний в левой руке и кадильницей в правой, рядом верблюд",
+          "meaning": "Гирлянда — благотворный, умеренный климат; богатое одеяние — роскошь и изобилие Азии; ветви благовоний и кадильница — обилие пряностей и ароматических смол, которыми Азия снабжает весь мир; верблюд — животное, наиболее употребляемое её народами",
+          "what_en": "A woman garlanded with flowers and fruits, in a rich gem-studded robe, holding sprigs of spices in her left hand and a censer in her right, a camel beside her",
+          "meaning_en": "The garland signifies the region's mild, temperate climate; the rich robe, Asia's luxury and abundance; the spice sprigs and censer, the wealth of spices and aromatic gums with which Asia supplies the rest of the world; the camel, the animal most used by her peoples"
+        }
+      ],
+      "text_ru": [
+        "Она увенчана приятной гирляндой цветов и плодов, облачена в богатое одеяние, усыпанное самоцветами и жемчугом. В левой руке она держит несколько ветвей тех деревьев, что приносят кассию, перец, гвоздику и иные подобные вещи, чей облик можно видеть у Маттиоли. В правой руке она несёт кадильницу, от коей исходят чрезвычайно приятные благовония, укрепляющие мозг. К чему Живописец может прибавить лежащего верблюда, или в иной позе, какую сочтёт нужной.",
+        "Азия, которую Космографы почитают третьей частью Света, хотя по своей обширности она могла бы составить и половину его, так названа от дочери Фетиды и Океана, которой приписывают власть над обеими Азиями — Великой и Малой, иначе именуемой Натолией.",
+        "Её венчают гирляндой цветов и плодов, дабы означить тем самым, что воздух её не менее благотворен, сколь хорошо умерен: ведь она производит не только вещи, необходимые для поддержания человеческой жизни, но и всё, что есть наиболее изысканного и приятного в Мире.",
+        "Её богатое одеяние — истинный символ изобилия и плодородия этой страны, народы коей облачаются великолепно, и где женщины в особенности выставляют на своих телах всё, что роскошь и пышность имеют драгоценнейшего и прелестнейшего.",
+        "В правой руке она держит ветви различных благовонных растений, ибо Азия производит их в столь великом множестве, что снабжает ими весь остальной Мир.",
+        "Кадильница, что она держит, означает драгоценные смолы и пряности, прибывающие к нам из различных областей Азии, главным же образом ладан, обычно употребляемый в жертвоприношениях.",
+        "Что до верблюда, помещённого у ног этой фигуры, то это не без веской причины, поскольку из всех животных именно его жители этой страны используют чаще всего."
+      ],
+      "text_fr": [
+        "ELLE est couronnée d'vne agreable guirlande de fleurs & de fruits, & vestuë d'vne riche robe, femée de pierreries & de perles. De la main gauche elle tient plusieurs rameaux de ces arbres qui produisent la casse, le poivre, le gerofle, & autres choses semblables, dont on peut voir la forme dans Mathiole. En la droite elle porte vn encensoir, d'où s'exhalent des parfums extremement agreables, & qui fortifient le cerveau. A quoy le Peintre peut adjoûter vn chameau couché, ou en telle posture qu'il avisera.",
+        "L'Asie, dont les Cosmographes font la troisieme partie du Monde, bien que par son étenduë elle en pourroit faire la moitié, est ainsi appellée d'vne fille de Thetis & de l'Ocean, qu'on a feint avoir eu l'empire des deux Asies, à sçavoir de la grande & de la petite, autrement nommée Natolie.",
+        "On la couronne d'vne guirlande de fleurs & de fruits, pour signifier par là que son air n'est pas moins benin que bien temperé: aussi ne produit-elle pas seulement les choses necessaires à l'entretien de la vie humaine, mais encore tout ce qu'il y a de plus delicieux & de plus agreable dans le Monde.",
+        "Son riche habillement est le vray symbole de l'abondance & de la fertilité de ce pays-là, dont les peuples vont superbement vestus, & où les femmes particulierement étallent dessus leurs corps tout ce que la magnificence & le luxe ont de plus precieux & de plus charmant.",
+        "Elle tient de la main droite des rameaux de divers aromates, à cause que l'Asie en produit vne si grande quantité, qu'elle en fournit le reste du Monde.",
+        "Par l'encensoir qu'elle tient, sont denotées les precieuses gommes & les épiceries qui nous viennent de diverses Provinces d'Asie, principalement l'encens, qu'on employe ordinairement dans les sacrifices.",
+        "Quant au chameau qui est mis au pied de cette figure, ce n'est pas sans vne grande raison, dautant qu'il est celuy de tous les animaux dont ceux de ce pays-là se servent le plus communément."
+      ],
       "en": "Asia",
-      "group_en": "The Four Parts of the World"
+      "group_en": "The Four Parts of the World",
+      "scans": [
+        "p2-5-1.jpg",
+        "p2-5-2.jpg"
+      ]
     },
     {
       "id": "p2-6",
@@ -8931,12 +8960,44 @@
       "group_fr": "Les quatre parties du Monde",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-6.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Почти обнажённая мрачная женщина со слоновьей головой вместо убора, коралловым ожерельем, скорпионом в левой руке, рогом изобилия с колосьями в правой, в сопровождении льва и змей",
+          "meaning": "Нагота — скудость богатств страны; слоновья голова — обилие слонов, которых африканцы используют на войне; коралл — украшение, обычное для местных женщин; скорпион, лев и змеи — изобилие ядовитых и опасных животных; рог изобилия с колосьями — плодородие Африки в злаках при бесплодии в прочем",
+          "what_en": "A nearly naked, somber woman with an elephant's head as headdress, a coral necklace, a scorpion in her left hand and a cornucopia of grain in her right, attended by a lion and serpents",
+          "meaning_en": "Her nakedness signifies the land's scant riches; the elephant's head, the abundance of elephants Africans use in war; the coral, an ornament typical of local women; the scorpion, lion and serpents, the abundance of venomous, dangerous creatures; the grain-filled cornucopia, Africa's fertility in grain despite barrenness elsewhere"
+        }
+      ],
+      "text_ru": [
+        "При взгляде на эту мрачную женщину сразу заключают, что сама собою она являет нам Африку. Она почти совершенно обнажена, с курчавыми волосами, со слоновьей головой вместо нашлемника и ожерельем из коралла. В левой руке она держит скорпиона, а в правой — рог изобилия, полный колосьев, помимо того что её всегда сопровождают лев и змеи.",
+        "Африка, одна из четырёх частей Света, получила своё имя, по Иосифу, от одного из потомков Авраама, именуемого Афер.",
+        "Она изображена в облике мавританки, ибо подвластна Югу и даже знойному Поясу; отсюда и то, что народы её от природы смуглы, а то и вовсе черны.",
+        "Её изображают обнажённой, поскольку эта страна не обладает великими богатствами и во многих местах бесплодна.",
+        "Слоновья голова, что ей дают в качестве убора, заимствована с древней медали Императора Адриана: ибо и впрямь эта страна производит более всего слонов, коими Африканцы обычно пользуются на войне; что в древности не только изумляло врагов их, Римлян, но и внушало им истинный ужас, как о том повествует история.",
+        "Её изображают с чёрными курчавыми волосами, ибо таковы они обычно у мавров; сверх того ей дают в украшение коралл, поскольку их женщины привыкли им убираться.",
+        "Лев, скорпион и змеи добавлены здесь не без причины, ибо Африка изобилует подобными животными, чрезвычайно ядовитыми.",
+        "Что до рога изобилия, полного колосьев, он являет, что насколько Африка бесплодна в прочем, настолько плодородна она зерном, как о том гласит этот стих Горация: И все зёрна, что приходят из Ливии."
+      ],
+      "text_fr": [
+        "A VOIR cette femme morne, on juge aussi-tost que par elle-mesme nous est representée l'Afrique. Elle est presque toute nuë, ayant les cheveux crêpus, pour cimier vne teste d'elephant, & vn collier de corail. Elle tient vn scorpion de la main gauche, & de la droite vne corne d'abondance pleine d'épics, outre qu'elle est toûjours suivie par vn lion & par des serpens.",
+        "L'Afrique qui est vne des quatre parties du Monde, a pris son nom, selon Joseph, d'vn des descendans d'Abraham, qu'on appelloit Afer.",
+        "Elle est representée par vne Moresque, à cause qu'elle est soûmise au Midy, & mesme à la Zone torride; d'où vient que ses peuples ont naturellement le teint brun, ou mesme noir tout à fait.",
+        "On la peint nuë, dautant que ce pays-là n'a pas de grandes richesses, & qu'en divers endroits il est infertile.",
+        "Ce qu'on luy donne pour coiffure la teste d'vn elephant, est tiré d'vne ancienne medaille de l'Empereur Adrian: car en effet c'est ce pays-là qui produit le plus d'elephans, dont les Africains se servent ordinairement à la guerre; ce qui n'étonna pas seulement autrefois les Romains leurs ennemis, mais qui leur donna mesme de la terreur, comme il est parlé dans l'histoire.",
+        "On la peint avec des cheveux noirs & crêpus, parce que les Mores les ont tels ordinairement; outre qu'on leur donne pour ornement le corail, dautant que leurs femmes ont accoûtumé de s'en parer.",
+        "Le lion, le scorpion & les serpens sont icy adjoûtez avec raison, parce que l'Afrique abonde en semblables animaux, qui sont extrememement venimeux.",
+        "Quant à la corne d'abondance pleine d'épics, elle demontre qu'autant que l'Afrique est sterile en autres choses, autant est-elle fertile en grains, comme le declare ce vers d'Horace. Et tous les grains qui viennent de Libye."
+      ],
       "en": "Africa",
-      "group_en": "The Four Parts of the World"
+      "group_en": "The Four Parts of the World",
+      "scans": [
+        "p2-6-1.jpg",
+        "p2-6-2.jpg",
+        "p2-6-3.jpg"
+      ]
     },
     {
       "id": "p2-7",
@@ -8949,12 +9010,42 @@
       "group_fr": "Les quatre parties du Monde",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-7.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Царственно одетая женщина в многоцветном одеянии и богатой короне, восседающая меж двух рогов изобилия, с храмом в правой руке и скипетром в левой, рядом конь, трофеи и оружие, а также диадемы, книги, глобусы и музыкальные инструменты",
+          "meaning": "Корона — первенство Европы над прочими частями света; два рога изобилия — плодороднейший климат мира; храм — истинная Религия, здесь процветающая; скипетр — власть величайших государей и Римского понтифика; конь и оружие — превосходство в ратном деле; книги, глобусы, циркули и музыкальные инструменты — превосходство наук и искусств",
+          "what_en": "A royally dressed woman in a multicolored robe and rich crown, seated between two cornucopias, a temple in her right hand and a scepter in her left, a horse, trophies and arms beside her, along with diadems, books, globes and musical instruments",
+          "meaning_en": "The crown signifies Europe's primacy over the other parts of the world; the two cornucopias, the world's most fertile climate; the temple, the true Religion cultivated there; the scepter, the power of its greatest sovereigns and the Roman Pontiff; the horse and arms, its excellence in warfare; the books, globes, compasses and instruments, its mastery of the sciences and arts"
+        }
+      ],
+      "text_ru": [
+        "Эта часть света, превосходящая все прочие, являет себя нам в облике Дамы, царственно облачённой в одеяние многих цветов. На голове она носит богатую корону и восседает посреди двух рогов изобилия, из коих один полон всевозможных плодов, а другой являет в особенности обилие винограда. Сверх того в правой руке она держит изображение прекрасного храма, а в левой — скипетр. Рядом с нею приметен конь со множеством трофеев и оружия всякого рода. К чему присовокуплены ещё сбоку диадемы, венцы, митры, книги, глобусы, циркули, линейки, кисти и музыкальные инструменты.",
+        "Европа названа так по имени дочери Агенора, Царя Финикийского, похищенной Юпитером и увезённой на остров Крит; здесь же она изображена облачённой как Царица, в различных цветах, дабы показать тем самым, как замечает Страбон, что эта часть света чрезвычайно богата, а красоты её разнообразны.",
+        "Корона, что она носит, являет, что Европа всегда имела главное преимущество перед прочими частями Вселенной, над коими торжествовала как Царица.",
+        "Её изображают сидящей между двумя рогами изобилия, полными всевозможных плодов, ибо, по свидетельству того же Страбона во второй его книге, нет в мире климата более плодоносного и плодородного, нежели этот.",
+        "Ей дают держать в правой руке храм, дабы означить, что в пределах её возделывается истинная и совершенная Религия.",
+        "Скипетр, что она несёт, есть символ могущества, ибо в её владениях держат свой двор величайшие Государи мира, и в особенности верховный Римский Первосвященник, чья власть распространяется повсюду, где исповедуют Христианскую Веру, милостью Божией достигшую ныне и Нового Света.",
+        "Конём и оружием, что видны вокруг неё, означено, что она всегда одерживала первенство в деле благороднейших познаний и ратных упражнений, как о превосходстве умов, как греческих, так и латинских, что она породила во всех родах наук, можно судить по книгам и иным подобным вещам."
+      ],
+      "text_fr": [
+        "CETTE partie du monde qui excelle pardessus toutes les autres, nous est figurée par vne Dame royalement vestuë d'vne robbe de plusieurs couleurs. Elle porte sur la teste vne riche couronne, & se voit assise au milieu de deux cornes d'abondance, dont l'vne est pleine de toutes sortes de fruits, & l'autre étalle particulierement des raisins en abondance. Outre ces choses elle tient de la main droite la figure d'vn beau temple, & de la gauche vn sceptre. Vn cheval est remarquable auprés d'elle, avec quantité de trophées, & d'armes de toutes sortes. A quoy sont joints encore à costé, des diadêmes, des couronnes, des mitres, des livres, des globes, des compas, des regles, des pinceaux, & des instrumens de musique.",
+        "L'Europe est ainsi nommée à cause de la fille d'Agenor Roy des Phœniciens, qui fut enlevée par Jupiter, & menée en l'isle de Crete; & est icy dépeinte vestuë en Reine, & de plusieurs differentes couleurs, pour montrer par là, comme le remarque Strabon, que cette partie du monde est grandement riche, & que les beautez en sont diverses.",
+        "La couronne qu'elle porte fait voir que l'Europe a toûjours eu le principal avantage sur les autres parties de l'Vnivers, dont elle a triomphé comme Reine.",
+        "On la peint assise entre deux cornes d'abondance, pleines de toutes sortes de fruits: parce qu'au rapport du mesme Strabon dans son 2. livre, il n'est point de climat dans le monde qui soit plus fecond & plus fertile que celuy-cy.",
+        "On luy fait tenir vn temple de la main droite, pour signifier que dans son étenduë est cultivée la vraye & parfaite Religion.",
+        "Le sceptre qu'elle porte est le symbole de la puissance, à cause qu'en son enclos tiennent leur court les plus grands Princes du monde, & particulierement le souverain Pontife Romain, l'authorité duquel s'étend generalement par tous les lieux où l'on fait profession de la Foy Chrestienne, qui par la grace de Dieu est aujourd'huy parvenuë jusqu'au nouveau Monde.",
+        "Par le cheval & les armes qui se voyent à l'entour d'elle, il est denoté qu'elle a toûjours emporté le prix en matiere des plus nobles connoissances, & des exercices de guerre, comme par les livres & autres choses semblables on peut juger de l'excellence des esprits tant Grecs que Latins, qu'elle a produits en toutes sortes de disciplines."
+      ],
       "en": "Europe",
-      "group_en": "The Four Parts of the World"
+      "group_en": "The Four Parts of the World",
+      "scans": [
+        "p2-7-1.jpg",
+        "p2-7-2.jpg",
+        "p2-7-3.jpg"
+      ]
     },
     {
       "id": "p2-8",
@@ -8967,12 +9058,40 @@
       "group_fr": "Les quatre parties du Monde",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-8.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Полуобнажённая женщина с оливковой кожей и грозным лицом, в накидке из перьев, с луком и стрелой в руках, колчаном на боку, попирающая оторванную человеческую голову, пронзённую дротиком, рядом с ящерицей-крокодилом",
+          "meaning": "Нагота и перьевой убор — обычаи коренных народов Нового Света; лук и стрелы — оружие, которым владеют и мужчины, и женщины; оторванная голова — людоедство, приписываемое этим народам; ящерица-крокодил — свирепые хищные твари, свойственные новооткрытым землям",
+          "what_en": "A half-naked, olive-skinned woman with a fearsome face, a feathered mantle, a bow and arrow in her hands, a quiver at her side, trampling a severed human head pierced by a dart, a crocodile-like lizard beside her",
+          "meaning_en": "Her nakedness and feathered ornament reflect the customs of the New World's native peoples; the bow and arrow, weapons wielded by both men and women; the severed head, the cannibalism attributed to these peoples; the crocodile-like lizard, the fierce predatory creatures said to inhabit the newly discovered lands"
+        }
+      ],
+      "text_ru": [
+        "Эта женщина с оливковым цветом кожи, устрашающим на вид лицом и покрывалом многих цветов, наполовину скрывающим её тело, являет собой Америку; сверх того перевязь из весьма приятных перьев, искусно соединённых между собою, особо отличает её этим причудливым убором. В одной руке она несёт стрелу, в другой — лук, по бокам же колчан. К чему можно прибавить, что на голове у неё гирлянда из диковинных перьев, а у ног — некое подобие ящерицы, довольно схожее с крокодилом, равно как и человеческая голова, оторванная от тела и пронзённая дротиком.",
+        "Эта последняя часть Света, недавно открытая флорентийцем Америго Веспуччи, от коего и получила своё имя, изображается почти совершенно обнажённой, ибо жители её имеют обыкновение ходить нагими, разве что прикрывают срамные части поясом из перьев и хлопка в виде бахромы.",
+        "Гирлянда перьев — украшение, коим они обычно себя убирают; сверх того в определённое время года они носят одеяние, которое сами изготовляют с немалым искусством, для дикарей, как замечают лучшие Авторы, писавшие об этой стране.",
+        "Лук и стрелы суть оружие, коим привыкли пользоваться не только мужчины, но и женщины, выходя сражаться со своими врагами.",
+        "Голова, что у неё под ногами, помещена туда намеренно и с немалым основанием, дабы показать, что эти бесчеловечные народы обычно питаются человеческим мясом: ибо никогда не упускают случая вместе съесть тех, кого взяли на войне.",
+        "А поскольку среди различных животных, что производит эта страна, примечательны ящерицы, не без причины их здесь изображают, ведь в этих новых землях есть столь огромные и жестокие их виды, что пожирают других животных, да и самих людей."
+      ],
+      "text_fr": [
+        "CETTE femme qui a le teint olivastre, le visage effroyable à voir, & vn voile de plusieurs couleurs qui luy couvre le corps à demy, represente l'Amerique; outre qu'vne écharpe de plumes tres-agreables, artistement jointes ensemble, la fait particulierement remarquer par ce bisare ornement. Elle porte en vne main vne fleche, en l'autre vn arc, & vn carquois à ses costez. A quoy l'on peut ajoûter qu'elle a sur sa teste vne guirlande de plusieurs plumes étranges, & à ses pieds vne espece de lezard ressemblant à peu prés à vn crocodile; comme encore vne teste humaine arrachée de son corps, & traversée d'vn dard.",
+        "Cette derniere partie du Monde nouvellement découverte par Americ Vespuce Florentin, dont elle a pris son nom, est dépeinte presque toute nuë, parce que ses habitans ont accoûtumé d'aller tous nuds, si ce n'est qu'ils se couvrent les parties honteuses d'vne ceinture faite de plumes & de coton, en forme de frange.",
+        "La guirlande de plumes est vn ornement dont ils se parent d'ordinaire; outre qu'en certain temps de l'année ils en portent vn habillement qu'ils font eux-mesmes avec beaucoup d'art pour des Sauvages, comme le remarquent les meilleurs Autheurs qui ont écrit de ce pays-là.",
+        "L'arc & les fleches sont les armes, dont non seulement les hommes, mais encore les femmes ont accoûtumé de se servir en allant combattre leurs ennemis.",
+        "La teste qu'elle a sous ses pieds, y est mise exprés avec beaucoup de raison, pour montrer que ces peuples inhumains se repaissent ordinairement de chair humaine: car ils ne manquent jamais de manger ensemble ceux qu'ils ont pris à la guerre.",
+        "Et dautant qu'entre divers animaux que produit ce pays-là, les lezards sont remarquables, ce n'est pas sans sujet qu'on les peint icy, veu que dans ces terres neuves il y en a de si grands & de si cruels, qu'ils devorent les autres animaux, & les hommes mesmes."
+      ],
       "en": "America",
-      "group_en": "The Four Parts of the World"
+      "group_en": "The Four Parts of the World",
+      "scans": [
+        "p2-8-1.jpg",
+        "p2-8-2.jpg",
+        "p2-8-3.jpg"
+      ]
     },
     {
       "id": "p2-9",
