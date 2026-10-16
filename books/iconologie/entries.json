@@ -10813,12 +10813,44 @@
       "group_fr": "Les 4. complexions de l'homme",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-48.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Худощавый обнажённый юноша с жёлтым цветом лица, грозным взором и мечом в руке, рядом щит с пламенем и разъярённый лев",
+          "meaning": "Худоба и жёлтый цвет лица — преобладание сухого жара (жёлтой желчи); пламя на щите — причина сухости; разъярённый лев — символ вспыльчивого гнева, но также великодушия и щедрости, свойственных холерикам",
+          "what_en": "A lean, naked youth with a sallow complexion and a fierce look, a sword in hand, a shield bearing a flame and an enraged lion beside him",
+          "meaning_en": "His leanness and sallow complexion signify the dominance of dry heat (yellow bile); the flame on the shield, the cause of dryness; the enraged lion, a symbol of quick anger but also of the magnanimity and generosity typical of the choleric temperament"
+        }
+      ],
+      "text_ru": [
+        "Здесь вы видите его в облике худощавого юноши с желтоватым цветом лица, грозным взором, совершенно обнажённым телом и мечом в руке, готовым кого-то ударить. С одной стороны его виден щит с большим пламенем посредине, а с другой — повсюду сопровождающий его разъярённый лев.",
+        "Он худощав, ибо, по свидетельству Галена, в нём всецело преобладает теплота, которая, будучи причиной сухости, представлена пламенем на его щите.",
+        "У него жёлтый цвет лица, чем показано, что цвет лица весьма часто служит знаком, являющим нрав тела. Отсюда и то, что белым цветом является флегма, бледным или жёлтым — желчь (гнев), красным, смешанным с белым, — кровяной нрав, а тёмным, отливающим в чёрное, — меланхолия, как замечает Гален.",
+        "Лик его ужасен и яростен, ибо гнев, как говорит Овидий, обычно производит свои действия: Лик от него вздувается, Жилы чернеют от крови, Огонь краснеет в зрачке, Желчь колет бок.",
+        "Его повадка являет человека вспыльчивого, всегда готового драться из-за малейшего пустяка.",
+        "Его изображают юным и совершенно нагим, со щитом на земле, дабы показать, что сила его страсти столь сильно его ослепляет, что он забывает о том, что могло бы его уберечь, и безрассудно подвергает себя всякого рода опасностям, как замечает Сенека: Юноши, полные дерзости, Следуют первому побуждению И с трудом могут Сдержать свою ярость.",
+        "К чему относится почти то же самое, что говорит Авиценна: что зрело совершённые действия — истинные признаки совершенного темперамента, тогда как, напротив, те, что совершаются без рассуждения и по порыву, суть знаки малого разума и великого жара.",
+        "Что до сопровождающего его льва, он помещён здесь символом гнева, поскольку, по Альциато, этот Царь зверей, когда кто-либо его раздражает, бьёт себя хвостом по бокам и сам приходит в ярость. Львом, однако, показано также, что люди холерического темперамента обладают неким великодушием и щедростью столь великими, что от избытка их часто становятся расточительными."
+      ],
+      "text_fr": [
+        "VOus le voyez icy representé par un jeune homme maigre, qui a le teint jaunastre, le regard furieux, le corps tout nud, & l'épée à la main, en action d'en vouloir battre quelqu'un. En l'un de ses costez se voit un escu, avec une grande flamme au milieu, & en l'autre un lion irrité qui l'accompagne par tout.",
+        "Il est maigre, parce qu'au rapport de Galien, en luy prédomine entierement la chaleur, qui pour estre cause de la secheresse, est representée par la flamme de son escu.",
+        "Il a le teint jaune, & fait voir par là que la couleur du visage est bien souvent une marque qui manifeste l'humeur du corps. D'où il advient que par le teint blanc est demontré le phlegme, par le pasle ou le jaune la colere, par le rouge meslé de blanc l'humeur sanguine, & par la couleur sombre & qui tire sur le noir, la melancolie, comme le remarque Galien.",
+        "Son visage est effroyable & furieux, à cause que la colere, comme dit Ovide, produit ordinairement ses effets. Le visage est enflé par elle, Les veines noircissent de sang, Le feu rougit dans sa prunelle, La bile luy pique le flanc.",
+        "Son action represente celle d'un homme fougueux, & qui pour la moindre pointille est toûjours prest à se battre.",
+        "On le peint jeune & tout nud avec son escu par terre, pour montrer que la force de sa passion l'aveugle si fort, qu'il oublie ce qui le peut conserver, & s'expose temerairement à toutes sortes de dangers, ainsi que remarque Seneque. Les jeunes gens pleins d'insolence Suivent leur premier mouvement, Et peuvent difficilement S'arrester dans leur violence.",
+        "A quoy se rapporte à peu prés le dire d'Avicenne, que les actions qui se font meurement sont les vrais signes d'un temperament parfait; comme au contraire celles qui s'executent sans conseil & par impetuosité, sont des marques de peu de sens, & de beaucoup de chaleur.",
+        "Quant au lion qui le suit, il est mis icy pour un symbole de la colere, veu que selon Alciat, Ce Roy des animaux, quand quelqu'un le dépite, Bat ses flancs de sa queuë, & luy-mesme s'irrite. Par le lion neanmoins il est demontré que les hommes de complexion colerique, ont je ne sçay quoy de magnanime & de si genereux, qu'à force de l'estre ils en deviennent souvent prodigues."
+      ],
       "en": "The Choleric",
-      "group_en": "The Four Temperaments of Man"
+      "group_en": "The Four Temperaments of Man",
+      "scans": [
+        "p2-48-1.jpg",
+        "p2-48-2.jpg",
+        "p2-48-3.jpg"
+      ]
     },
     {
       "id": "p2-49",
@@ -10831,12 +10863,38 @@
       "group_fr": "Les 4. complexions de l'homme",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-49.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Полнолицый русоволосый юноша, играющий на лютне, рядом баран, щиплющий виноград, и открытая нотная книга",
+          "meaning": "Румяно-белый цвет лица — изобилие крови; дородство — ассимулятивная сила, преобладающая у сангвиников; лютня и весёлый вид — жизнерадостный, смешливый нрав; баран с виноградом — склонность сангвиников к любовным и винным наслаждениям",
+          "what_en": "A full-faced, fair-haired youth playing a lute, with a ram browsing on grapes and an open music book beside him",
+          "meaning_en": "His ruddy-white complexion signifies an abundance of blood; his fullness, the assimilative power dominant in sanguine persons; the lute and cheerful look, a merry, laughing temperament; the ram with grapes, the sanguine person's inclination toward love and wine"
+        }
+      ],
+      "text_ru": [
+        "Этот юноша, нас являющий, имеет русые волосы, полное лицо и цвет лица, смешанный из белого и красного. Он проводит время, играя на лютне; и с одной стороны этой фигуры виден баран, щиплющий виноградную гроздь, а с другой — открытая нотная книга.",
+        "Сангвиника изображают со смеющимся лицом, поскольку, по Гиппократу, обычно бывает так, что у тех, кто изобилует совершенно уравновешенным чувством, рождаются жизненные духи, тонкие и чистые, производящие радость и смех. Отсюда следует, что такие люди обычно весёлого нрава и желают лишь играть и развлекаться.",
+        "Его дородство, по Галену, означает, что от силы, именуемой ассимулятивной, преобладающей у сангвиников, рождается склонность тел к полноте и дородству.",
+        "Ему приписывают румяный цвет лица, смешанный с белым, поскольку, по Авиценне, этот цвет означает изобилие крови. Отчего Гален и говорит, что преобладающая в теле жидкость окрашивает плоть.",
+        "Что до барана, щиплющего виноградную гроздь, это означает, что сангвиник весьма привержен наслаждениям Венеры и Вакха; ибо баран, как замечает Пиэрий Валериан, весьма склонен к сладострастию, а виноград здесь принимается за Вакха, его производящего. Надлежит заметить вместе с Аристотелем, что люди сангвинического темперамента особенно склонны к любви, поскольку изобилуют семенем более прочих, как можно видеть из описания, даваемого этому Салернской школой."
+      ],
+      "text_fr": [
+        "CE jeune garçon qui nous le represente, a les cheveux blonds, le visage replet, & le teint meslé de blanc & de rouge. Il passe son temps à jouër du luth; & du costé de cette figure se voit un mouton qui broute une grappe de raisin, & de l'autre un livre de musique ouvert.",
+        "Le Sanguin est peint avec un visage riant, dautant que selon Hypocrate, il arrive d'ordinaire qu'en ceux qui abondent d'un sens parfaitement temperé, s'engendrent des esprits vitaux, subtils & purs, qui produisent la joye & les ris. D'où il s'ensuit que telles personnes sont ordinairement de belle humeur, & qu'elles ne demandent qu'à joüer & à se divertir.",
+        "Son embonpoint, selon Galien, signifie, que de la vertu qu'on appelle assimulative, qui prédomine aux Sanguins, naist l'habitude des corps charnus & replets.",
+        "On luy attribuë le teint vermeil meslé de blanc, dautant que selon Avicenne cette couleur marque une abondance de sang. Ce qui fait dire à Galien, que l'humeur qui prédomine au corps colore la chair.",
+        "Quant au mouton qui broute une grape de raisin, cela signifie que le Sanguin est grandement adonné au plaisir de Venus & de Bachus; parce que le mouton, comme le remarque Pierius Valerian, est grandement enclin à la luxure, & qu'icy le raisin est pris pour Bachus qui le produit. Où il faut remarquer avec Aristote, que ceux de complexion sanguine sont particulierement enclins à l'amour, à cause qu'ils abondent en semence plus que les autres; comme il se peut voir par la description qu'en fait l'Ecole de Salerne."
+      ],
       "en": "The Sanguine",
-      "group_en": "The Four Temperaments of Man"
+      "group_en": "The Four Temperaments of Man",
+      "scans": [
+        "p2-49-1.jpg",
+        "p2-49-2.jpg",
+        "p2-49-3.jpg"
+      ]
     },
     {
       "id": "p2-50",
@@ -10849,12 +10907,31 @@
       "group_fr": "Les 4. complexions de l'homme",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-50.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Тучный муж с белым цветом лица в барсучьей шубе, держащий руки на груди, рядом черепаха",
+          "meaning": "Тучность и белый цвет лица — избыток холода и влаги; барсучий мех — леность и сонливость флегматика; черепаха — тяжёлая, медлительная природа ума, неспособного к возвышенному учению",
+          "what_en": "A corpulent man with a pale complexion in a badger-fur robe, hands held to his chest, a tortoise at his feet",
+          "meaning_en": "His corpulence and pale complexion signify an excess of cold and moisture; the badger fur, the phlegmatic temperament's laziness and drowsiness; the tortoise, the slow, heavy mind incapable of grasping anything lofty or great"
+        }
+      ],
+      "text_ru": [
+        "Его изображают толстым и дородным мужем, с белым цветом лица, в одеянии, подбитом барсучьим мехом; сверх того он держит обе руки на груди, а у ног его видна черепаха.",
+        "Он тучен и дороден, ибо подобно тому как сухость тела проистекает от жара, полнота и тучность, по Галену, вызываются избытком холода и влаги. Его облачают в барсучий мех, дабы показать, что Флегматик не менее ленив и не менее сонлив, чем это животное: что проистекает из того, что у него весьма мало жизненных духов, да и те подавлены чрезвычайным холодом, в нём преобладающим. Отсюда и то, что Флегматики мало способны к учению, ибо, имея притупленный разум, не могут постичь ничего возвышенного и великого. Это же являет и черепаха, передвигающаяся лишь тяжело и медленными шагами."
+      ],
+      "text_fr": [
+        "ON le figure par un homme gras & replet, ayant le teint blanc, & une robe fourée de peau de blereau; outre qu'il tient les deux mains dans son sein, & qu'à ses pieds se voit une tortuë.",
+        "Il est gras & replet, parce que de la mesme sorte que la secheresse du corps procede de la chaleur, la repletion & la graisse sont causes, selon Galien, d'un excés de froideur & d'humidité. On l'habille de la fourure d'un blereau, pour montrer que le Flegmatique n'est pas moins paresseux ny moins assoupy que cet animal: ce qui procede de ce qu'il n'a que fort peu d'esprits, encore sont-ils étouffez par la froideur extraordinaire qui prédomine en luy. D'où il arrive que les Flegmatiques ne sont guere propres à l'étude, à cause qu'ayant l'esprit émoussé, ils ne peuvent comprendre rien de sublime & de grand. Ce qui est encore donné à connoistre par la tortuë, qui ne marche que pesamment & à pas tardifs."
+      ],
       "en": "The Phlegmatic",
-      "group_en": "The Four Temperaments of Man"
+      "group_en": "The Four Temperaments of Man",
+      "scans": [
+        "p2-50-1.jpg",
+        "p2-50-2.jpg"
+      ]
     },
     {
       "id": "p2-51",
@@ -10867,12 +10944,38 @@
       "group_fr": "Les 4. complexions de l'homme",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-51.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Смуглолицый муж с открытой книгой в правой руке и завязанным кошелем в левой, с воробьём на голове и повязкой на устах, стоящий на четырёхугольной фигуре",
+          "meaning": "Повязка на устах — немногословность, свойственная холодному и сухому нраву; открытая книга — склонность меланхоликов к учёности и уединению; одинокий воробей — отчуждённость от общества; завязанный кошель — скупость, присущая меланхоликам",
+          "what_en": "A swarthy man with an open book in his right hand and a tied purse in his left, a solitary sparrow on his head and a band across his mouth, standing on a square figure",
+          "meaning_en": "The band across his mouth signifies the taciturnity of his cold, dry nature; the open book, melancholics' fondness for learning and solitude; the solitary sparrow, estrangement from company; the tied purse, the stinginess typical of melancholics"
+        }
+      ],
+      "text_ru": [
+        "У него смуглый цвет лица, он держит в правой руке открытую книгу, словно желая учиться, а в левой — завязанный кошель, на макушке головы у него одинокий воробей, повязка стягивает ему уста, а под ногами — четырёхугольная фигура.",
+        "Повязка означает, что Меланхолик мало говорит, будучи от природы холоден и сух, тогда как, напротив, теплота делает людей болтливыми.",
+        "Он держит открытую книгу, ибо люди этого темперамента охотно предаются изящной словесности, и, дабы удобнее ею заниматься, ищут уединения. Отчего Гораций и говорит: Что все писатели, как в прозе, так и в стихах, Предпочитают Двору поля и пустыни.",
+        "По той же причине на голову Меланхолика помещают одинокого воробья, обычно сторонящегося прочих птиц.",
+        "Что до закрытого кошеля, он показывает, что Меланхолики мало щедры и весьма скупы."
+      ],
+      "text_fr": [
+        "IL a le teint basanné, tient de la main droite un livre ouvert comme s'il vouloit étudier, & de la gauche une bourse liée, avec un passereau solitaire sur le haut de sa teste, une bandelette qui luy serre la bouche, & sous ses pieds une figure quarrée.",
+        "La bandelette signifie que le Melancolique ne parle pas beaucoup, pour estre d'un naturel froid & sec; comme au contraire la chaleur rend les hommes babillards.",
+        "Il tient un livre ouvert, parce que les gens de cette complexion s'adonnent volontiers aux bonnes lettres, & que pour y vaquer plus commodément ils recherchent la solitude. Ce qui fait dire à Horace, Que tous les écrivains & de prose & de vers Preferent à la Cour les champs & les deserts.",
+        "Aussi est-ce pour cette mesme raison qu'on met sur la teste du Melancolique un passereau solitaire, qui s'écarte ordinairement des autres oiseaux.",
+        "Quant à la bourse fermée, elle montre que les Melancoliques sont peu genereux & grandement avares."
+      ],
       "en": "The Melancholic",
-      "group_en": "The Four Temperaments of Man"
+      "group_en": "The Four Temperaments of Man",
+      "scans": [
+        "p2-51-1.jpg",
+        "p2-51-2.jpg",
+        "p2-51-3.jpg"
+      ]
     },
     {
       "id": "p2-52",
