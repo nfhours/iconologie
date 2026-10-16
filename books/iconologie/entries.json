@@ -10565,12 +10565,47 @@
       "group_fr": "Les cinq sens de Nature",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-42.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Общий вводный текст (без собственного медальона) о пяти чувствах природы; на иллюстрации — общий вид страницы с пятью медальонами всех чувств (Зрение, Слух, Обоняние, Вкус, Осязание)",
+          "meaning": "Автор опирается на Аристотеля, Галена, Авиценну, Плиния и других; традиционные символы: рысь/ястреб для зрения, заяц для слуха, пёс для обоняния, сокол для вкуса, обезьяна для осязания; рассмотрены альтернативные символы (фенхель, мирт, роза, яблоко, горностай/ёж)",
+          "what_en": "A general introductory text (without its own roundel) on the five senses of nature; the illustration shows the full page with all five roundels (Sight, Hearing, Smell, Taste, Touch)",
+          "meaning_en": "The author draws on Aristotle, Galen, Avicenna, Pliny and others; traditional symbols include the lynx/hawk for sight, the hare for hearing, the dog for smell, the falcon for taste, and the ape for touch; alternative symbols are also discussed (fennel, myrtle, rose, apple, ermine/hedgehog)"
+        }
+      ],
+      "text_ru": [
+        "Нет нужды тратить много времени на рассуждения об этом предмете, поскольку мы не сможем сказать ничего более важного, нежели то, что написали об этом Аристотель, Гален, Авиценна и прочие Философы или Естествоиспытатели, равно как и Плиний, Авл Геллий, Плутарх, Лактанций Фирмиан, святой Дамаскин и Целий Родигин; по каковой причине нам довольно будет привести здесь лишь символы и иероглифические изображения.",
+        "Зрение может быть изображено рысью, животным, обладающим, как полагают, чрезвычайно острым и проницательным взором. По той же причине ей также дают в символы ястреба, птицу, неотрывно взирающую на Солнце, чья желчь, как замечают Натуралисты, проясняет зрение и устраняет бельма на глазах. Потому он и был в древности посвящён Солнцу Египтянами, как о том сообщает Плутарх в своём трактате об Исиде и Осирисе: где мы вместе с этим же автором должны заметить, что Зрение находится в дивном соответствии с Небом и светом: ибо хотя мир и один, он тем не менее устроен определённым образом из пяти совершенно различных тел, каковы тело Земли, Воды, Воздуха, Огня и Неба, которое Аристотель называет пятой Субстанцией, некоторые — Светом, а другие — Эфиром. Находятся многие, прилагающие способности Чувств поровну к числу вышеназванных пяти тел; например, Осязание — к Земле, ибо она сопротивляется; Вкус — к Воде, поскольку свойства вкусов извлекаются из влажности языка, будучи он губчатым и влажным; Слух — к Воздуху, откуда отражением образуются голос и звук; Обоняние, по природе своей алчущее, — к Огню; а Эфир — к Ясности, ибо глаз, светоносное орудие зрения, содержит в себе хрустальную влагу и делает нас причастными небесным лучам.",
+        "Слух имеет своим символом зайца, как сообщает Плутарх в своём четвёртом Симпосиаке, вопрос четвёртый, где он говорит, что в отношении слуха это животное превосходит прочих, и что по этой причине Египтяне пользуются им для изображения Слуха в своих иероглифических фигурах.",
+        "Те же Египтяне изображали Обоняние также псом; ибо и впрямь нет животного с лучшим чутьём, нежели он, который природным инстинктом умеет различать чужих от домашних и чует, где прошёл зверь, коего он идёт поднимать вплоть до его логова. Эти три Чувства, что мы только что объяснили, не общи всем животным; ибо достоверно, что одни рождаются слепыми и без глаз, другие глухими и без ушей, третьи без ноздрей и без обоняния, хотя тем не менее обнаруживается, что рыбы, не имеющие ни того ни другого, тем не менее слышат и чуют запахи. Но что до двух последних из пяти Чувств, Аристотель говорит, что ими обладают все совершенные животные. Человек превосходит их всех в том, что касается вкуса и осязания, но в отношении прочих чувств он им уступает. Ибо достоверно, что орёл видит яснее него. Плиний замечает по этому поводу, что гриф — та из птиц, что обладает лучшим обонянием; что крот, хотя и покрыт землёй, тем не менее весьма хорошо слышит; а устрица лишена всякого иного чувства, кроме осязания: мнение, которое можно отвергнуть, сказав, что она в некотором роде обладает и вкусом, если верно, как полагают, что она питается росою.",
+        "Что до Вкуса, следует полагать, что он обретается во всех животных, поскольку нет такого, что не питалось бы пищей и вкусовыми ощущениями. Что, однако, не мешает Плинию сказать, что на крайних пределах Индии, у реки Ганг, рождаются некие безротые народы, именуемые Астонами, кои не едят и не пьют, но живут лишь запахами, вдыхаемыми через ноздри: по каковой причине, отправляясь в какое-либо долгое путешествие, они всегда носят в руках коренья, цветы и дикие яблоки, дабы всегда иметь чем обонять и, следственно, чем питаться. Но как бы то ни было, подобные Чудища, что производит Природа, не могут вкушать пищу, будучи безротыми. Свинья вкушает всё, вплоть до самой грязи и мерзейших нечистот: но оставим это в стороне, поскольку оно проистекает от чревоугодия; и не станем говорить также о длинношеих птицах, таких как журавль и похожий на лебедя пеликан-онокротал, поскольку они также суть истинные символы обжорливого, вконец неумеренного аппетита. Свидетель тому Филоксен, сын Эриксида, роптавший на Природу за то, что она не дала ему шеи журавля, дабы он мог на досуге и дольше вкушать вино и смаковать яства. Но поскольку мы желаем здесь избегать иероглифов, относящихся к пороку, мы примем за истинный символ Вкуса сокола, птицу со столь добрым вкусом, что, по свидетельству святого Григория, сколь бы голоден он ни был, он предпочитает терпеть голод, нежели питаться падалью или гнилым мясом.",
+        "Не будет неуместным, если мы приведём здесь кое-что о языке, поскольку не все приписывают ему чувство Вкуса, но одни — лишь нёбу, другие — лишь языку, а третьи — обоим вместе. Цицерон в своей книге о Природе Богов, кажется, относит его лишь к нёбу, когда говорит, что Эпикур, будучи этому чрезмерно привержен, вовсе не заботился о вещах, касающихся Неба. Квинтилиан также пользуется этим же оборотом речи, равно как и Гораций во втором из своих Посланий, как и Фаворин у Авла Геллия. Иные приписывают Вкус в равной мере языку и нёбу, говоря, что это Чувство воспринимает вкусовые ощущения от того и другого вместе: таково, в частности, мнение Плиния. Но некоторые, чьего мнения мы держимся, помещают Вкус лишь в языке; в их числе Лактанций Фирмиан, полагающий, что яства вкушаются нежнейшими частями языка. К чему относится и сказанное об этом Аристотелем. Опускаю то, что некоторые Философы полагают орган и начало Вкуса в небольшой плёнке под языком и в некоей губчатой и пористой плоти на поверхности самого языка: отчего Аристотель и замечает, что есть животные, вовсе не имеющие языка, но тем не менее вкушающие пищу своим губчатым и мясистым нёбом.",
+        "Что до Осязания, то достоверно, что оно обще всем животным, даже если бы они были лишены всех прочих чувств. Оно же само, по Аристотелю, распространяется по всему телу, которое посредством осязания воспринимает и ощущает свойства осязаемых вещей. Предметом его служат первичные качества — холод, влага, тепло и сухость, равно как и вторичные качества, а именно мягкое, твёрдое, тяжёлое, лёгкое, гладкое, грубое и колючее. Хотя, как я только что сказал, верно, что Осязание простирается по всему телу, оно тем не менее сосредоточено главным образом в руках, коими мы трогаем и берём вещи. Вот почему мы изобразили его в облике обезьяны, весьма близкой к человеческому облику, особенно в отношении пальцев, рук и ногтей, коими она пользуется, чтобы трогать и брать вещи, подражая во ста видах человеческим действиям. По каковой причине Министум обычно называл обезьяной фокусника Калипида за трюки ловкости и фокусы, что он проделывал руками на манер котов и собакоголовых обезьян.",
+        "Хотя мы и составили лишь один образ телесных Чувств, в коем все они непременно должны оказаться заключены воедино, поскольку при отсутствии одного прочие оказались бы несовершенны и лишены гармонии, подобно музыкальному инструменту без струн, — это не мешает, однако, изображать и каждое Чувство в отдельности. Так, например, Зрению можно приписать символом гирлянду или букет фенхеля, ибо эта трава проясняет глаза и рассеивает в них облачка. Отчего Плиний в 19-й книге замечает, что змеи трут глаза его соком, дабы вернуть себе зрение, когда почти его утратили. Слуху — ветвь мирта, ибо масло, извлекаемое из его листьев, очищает уши, если его туда закапать. Обонянию — розу, поскольку она благоуханнейший из цветов. Вкусу — яблоко; а Осязанию — горностая или ежа, дабы означить его различные вторичные качества, а именно грубое и мягкое, первое будучи от природы мягким, а второй — колючим."
+      ],
+      "text_fr": [
+        "IL n'est pas besoin que nous employions beaucoup de temps à discourir sur cette matiere, puisque nous n'en sçaurions dire rien de plus considerable que ce qu'en ont écrit Aristote, Galien, Avicenne, & les autres Philosophes ou Physiciens, comme encore Pline, Aule-Gelle, Plutarque, Lactance Firmien, saint Damascene, & Cœlius Rodige; à raison dequoy il nous suffira d'en rapporter icy les symboles & les figures hieroglyphiques.",
+        "La Veuë peut estre representée par le loup cervier, animal qui a les yeux, à ce que l'on tient, extremement aigus & penetrans. Pour la mesme raison encore on luy donne pour symbole l'épervier, oiseau qui regarde le Soleil fixement, & le fiel duquel, comme le remarquent les Naturalistes, éclaircit la veuë, & oste les taches des yeux. Aussi estoit-il anciennement consacré au Soleil par les Egyptiens, ainsi que le rapporte Plutarque dans son traité d'Isis & d'Osiris: où nous devons remarquer avec le mesme autheur, que la Veuë a un merveilleux rapport avec le Ciel & la lumiere: car en effet bien qu'il n'y ait qu'un monde, il ne laisse pas pourtant d'estre composé en certaine façon de cinq corps tous differens, qui sont le corps de la Terre, de l'Eau, de l'Air, du Feu, & du Ciel, qu'Aristote appelle cinquiéme Substance, quelques-uns Lumiere, & les autres Æther. Il s'en trouve plusieurs qui appliquent les facultez des Sens égaux au nombre des cinq corps susdits; comme par exemple, l'Attouchement à la Terre, parce qu'elle resiste: le Goût à l'Eau, dautant que les qualitez des saveurs se tirent de l'humidité de la langue, pour estre spongieuse & humide: l'Ouye à l'Air, d'où se forment par repercussion la voix & le son: l'Odorat de nature affamée, au Feu; & l'Æther, à la Clarté, parce que l'œil lumineux instrument de la veuë, contient en soy l'humeur chrystaline, & nous fait participans des rayons celestes.",
+        "L'Ouye a pour symbole le lievre, comme le rapporte Plutarque dans son quatriéme Symposiaque question quatriéme, où il dit qu'en matiere d'ouye cet animal surpasse les autres, & qu'à raison de cela les Egyptiens s'en servent à dépeindre l'Ouye dans leurs figures hieroglysiques.",
+        "Les mesmes Egyptiens representoient encore l'Odorat par le chien; comme en effet il n'est point d'animal qui ait meilleur nez que celuy-cy, qui par un instinc naturel sçait discerner les estrangers d'avec les domestiques, & sent par où a passé la beste qu'il va relancer jusques dans son fort. Ces trois Sens que nous venons d'expliquer, ne sont pas communs à tous les animaux; car il est certain que les uns naissent aveugles & sans yeux, les autres sours & sans aureilles, les autres sans narines & sans odorat, bien que neantmoins on trouve que les poissons qui n'ont ny l'un ny l'autre, ne laissent pas d'ouïr & de flairer. Mais quant aux deux derniers des cinq Sens, Aristote dit que tous les animaux parfaits les possedent. L'homme les surpasse tous en ce qui est du goust & de l'attouchement, mais en ce qui regarde les autres sens, il leur est inferieur. Comme en effet il est certain que l'aigle voit plus clairement que luy. Pline remarque à ce propos que le vautour est celuy des oiseaux qui a l'odorat meilleur; que la taupe, quoique couverte de terre, ne laisse pas d'ouïr fort bien; & que l'huistre est privée de tout autre sens, à la reserve de l'attouchement: opinion que l'on peut rejetter, & dire qu'elle jouit du goust en quelque maniere, s'il est vray, comme l'on tient, qu'elle se repaisse de rosée.",
+        "Pour ce qui appartient au Goust, il est à croire qu'il se trouve en tous les animaux, puisqu'il n'en est point qui ne se nourisse de viandes & de saveurs. Ce qui n'empesche pas toutefois que Pline n'ait dit, qu'aux derniers confins de l'Inde, vers la riviere du Gange, naissent sans bouche certains peuples appellez Astons, qui ne mangent & ne boivent point, mais vivent seulement des odeurs qu'ils attirent par les narines: à raison dequoy, quand ils ont à faire quelque long voyage, ils portent toûjours en main des racines, des fleurs & des pommes sauvages, afin qu'ils ayent toûjours dequoy flairer, & par consequent dequoy se nourrir. Mais quoy qu'il en soit, tels Monstres que la Nature produit, ne peuvent goûter les alimens, puisqu'ils sont sans bouche. Le pourceau goûte tout, jusques à la boüe mesme & aux plus sales ordures: mais nous laissons à part ces choses, puisqu'elles procedent d'un effet de gourmandise; & ne parlons non plus des oiseaux à long col, tels que la gruë & l'onocrotale semblable au cygne, puisqu'ils sont aussi de vrais symboles d'un appetit gourmand & tout à fait dereglé. Témoin Phyloxene fils d'Erixide, qui se plaignoit contre la Nature de ce qu'elle ne luy avoit donné le col d'une gruë, pour pouvoir plus à loisir & plus long-temps goûter le vin, & savourer les viandes. Mais dautant que nous voulons éviter icy les hieroglyfes qui regardent le vice, nous prendrons pour vray symbole du Goust le faucon, oiseau qui l'a si bon, qu'au rapport de saint Gregoire, quelque faim qu'il ait, il aime mieux l'endurer, que se repaistre de charognes ou de chair pourrie.",
+        "Il n'est pas hors de propos que nous rapportions icy quelque chose touchant la langue, parce que tous ne luy attribuent pas le sens du Goust, mais les uns au palets seulement, les autres à la langue seule, & les autres à tous les deux. Ciceron dans son livre de la Nature des Dieux, semble ne la rapporter qu'au palets, quand il dit qu'Epicure pour y estre trop adonné, ne se soucioit point des choses qui regardoient le Ciel. Quintilien use encore de cette mesme façon de parler, & Horace pareillement dans la seconde de ses Epistres, comme aussi Favorin dans Aule-Gelle. Les autres attribuent le Goust autant à la langue qu'au palets, quand ils disent que ce Sens-là reçoit les saveurs de l'un & de l'autre ensemble: ce qui est particulierement le sentiment de Pline. Mais quelques-uns, à l'opinion desquels nous nous tenons, mettent le Goust en la langue seulement; du nombre desquels est Lactance Firmian, qui veut qu'on savoure les viandes par les parties les plus tendres de la langue. A quoy se rapporte encore ce qu'en dit Aristote. J'obmets que certains Philosophes font consister l'organe & l'origine du Goust en une petite peau qui est sous la langue, & sous une certaine chair spongieuse & poreuse, qui est en la surface de la langue mesme: ce qui fait qu'Aristote remarque qu'il y a quelques animaux qui n'ont point de langue, & qui ne laissent pas pourtant de goûter les alimens par leurs palets spongieux & charnus.",
+        "Quant à l'Attouchement, c'est chose certaine qu'il est commun à tous les animaux, quand mesme ils seroient privez de tout autre sens. Luy-mesme aussi, selon Aristote, s'épand par tout le corps, lequel, par le moyen de l'attouchement, reçoit & sent les puissances des choses touchées. Il a pour objet les premieres qualitez, qui sont le froid, l'humide, le chaud & le sec: comme encore les qualitez secondes, à sçavoir le mol, le dur, les choses pesantes, les legeres, les douces, les rudes, & les piquantes. Or bien qu'il soit vray, comme je viens de dire, que l'Attouchement s'étend par tout le corps, si est-ce qu'il consiste principalement aux mains, avec lesquelles nous touchons & prenons les choses. Voilà pourquoy nous l'avons representé par la figure du singe, qui approche fort de celle de l'homme, sur tout en ce qui est des doigts, des mains & des ongles, dont il se sert pour toucher & prendre les choses, imitant en cent façons les actions humaines. A raison dequoy Ministum appelloit ordinairement singe le bâteleur Calipidés, à cause des tours de souplesse & de passe-passes qu'il faisoit avec les mains, à la maniere des chats & des sinocephales.",
+        "Quoique nous n'ayons fait qu'une image des Sens du corps, dans lequel il faut necessairement qu'ils se trouvent tous referrez, puisque l'un venant à manquer, les autres se trouveroient imparfaits & sans harmonie, comme un instrument de musique qui n'auroit point de cordes; cela n'empesche pas neantmoins qu'on ne puisse representer encore chaque Sens en particulier. Comme par exemple, on peut attribuer à la Veuë pour symbole une guirlande ou un bouquet de fenouil, à cause que cette herbe éclaircit les yeux, & qu'elle en dissipe les nuages. Ce qui fait remarquer à Pline liv. 19. que les serpens se frottent les yeux de son suc pour recouvrer la veuë quand ils l'ont presque perduë. A l'Ouye, un rameau de myrthe, parce que l'huile qui est tiré de ses feuilles purge les aureilles, si on y en distille dedans. A l'Odorat la rose, dautant qu'elle est la plus odorante des fleurs. Au Goust une pomme; & à l'Attouchement une hermine ou un herisson, pour en denoter les secondes qualitez differentes, qui sont le rude & le doux, la premiere estant douce naturellement, & l'autre piquante."
+      ],
       "en": "General Remarks on the Five Senses of Nature",
-      "group_en": "The Five Senses of Nature"
+      "group_en": "The Five Senses of Nature",
+      "scans": [
+        "p2-42-1.jpg",
+        "p2-42-2.jpg",
+        "p2-42-3.jpg",
+        "p2-42-4.jpg",
+        "p2-42-5.jpg",
+        "p2-42-6.jpg"
+      ]
     },
     {
       "id": "p2-43",
@@ -10583,12 +10618,33 @@
       "group_fr": "Les cinq sens de Nature",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-43.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша, держащий грифа в правой руке и зеркало в левой, с радугой позади",
+          "meaning": "Зеркало — заимствование глазом видимых форм вещей, передаваемых общему чувству и воображению; гриф — острота зрения; радуга — многообразие цветов как предметов зрения",
+          "what_en": "A youth holding a vulture in his right hand and a mirror in his left, with a rainbow behind him",
+          "meaning_en": "The mirror signifies the eye's borrowing of the visible forms of things, conveyed to common sense and imagination; the vulture, sharpness of sight; the rainbow, the variety of colors that are sight's objects"
+        }
+      ],
+      "text_ru": [
+        "Её символ — юноша, держащий в правой руке грифа (ибо это была птица, которую приписывали ей Египтяне, по свидетельству Оруса Аполлона), а в левой — зеркало, с радугой позади.",
+        "Зеркало означает, что это славное качество есть не что иное, как заимствование, совершаемое нашим глазом, блистающим подобно зеркалу или прозрачным подобно воде, видимых форм естественных тел, кои он делает себе доступными, как зеркало, дабы передать их общему чувству, а от общего чувства — воображению; хотя успех в этом нередко бывает ложным. И отсюда проистекают трудности, встречающиеся в науках и познаниях, относящихся к многообразию вещей. Оттого же Аристотель и судит о превосходстве этого самого чувства; и отсюда же равным образом выводит, что оно легче прочих открывает путь к тайнам Природы, погребённым в самой сущности вещей, кои разум впоследствии различными способами выводит на свет.",
+        "Добавлю к этому, как я уже сказал прежде, что грифом означена острота зрения, а радугой — многообразие цветов, являющихся предметами зрения."
+      ],
+      "text_fr": [
+        "ELLE a pour symbole un jeune homme qui tient un vautour de la main droite (car c'estoit l'oiseau que les Egyptiens luy attribuoient, au rapport d'Orus Apollo) & de la gauche un miroir, avec un arc en ciel derriere elle.",
+        "Le miroir signifie, que cette illustre qualité n'est autre chose qu'un emprunt que fait nostre œil, qui est resplendissant comme un miroir, ou diaphane comme l'eau, des formes visibles des corps naturels, dont elle se rend susceptible comme un miroir, pour le communiquer au sens commun, & du sens commun à la fantaisie; bien que le succés en soit faux assez souvent. Et c'est d'où procedent les difficultez qui se rencontrent aux sciences & aux connoissances qui appartiennent à la diversité des choses. Aussi est-ce de là qu'Aristote juge de l'excellence de ce mesme sens; & d'où pareillement il infere, qu'avec plus de facilité que les autres, il ouvre un chemin aux secrets de la Nature, ensevelis dans la substance des choses mesmes, que l'entendement met aprés au jour par divers moyens.",
+        "Ajoûtez à cela, comme j'ay dit cy-devant, que par le vautour est denotée la subtilité de la veuë; & par l'arc en ciel, la diversité des couleurs qui sont les objets des yeux."
+      ],
       "en": "Sight",
-      "group_en": "The Five Senses of Nature"
+      "group_en": "The Five Senses of Nature",
+      "scans": [
+        "p2-43-1.jpg",
+        "p2-43-2.jpg"
+      ]
     },
     {
       "id": "p2-44",
@@ -10601,12 +10657,36 @@
       "group_fr": "Les cinq sens de Nature",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-44.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с лютней в левой руке и бычьим ухом в правой, рядом возлежит лань",
+          "meaning": "Лютня — сладость гармонии, доступная лишь доброму слуху; лань — тонкая настороженность слуха; бычье ухо — тщательное, бдительное внимание, необходимое для самосохранения",
+          "what_en": "A woman with a lute in her left hand and a bull's ear in her right, a doe reclining beside her",
+          "meaning_en": "The lute signifies the sweetness of harmony, perceivable only to a good ear; the doe, the alert keenness of hearing; the bull's ear, the careful, vigilant attention needed for self-preservation"
+        }
+      ],
+      "text_ru": [
+        "Его являет нам женщина, подле коей возлежит лань, держащая лютню в левой руке, а в правой — бычье ухо.",
+        "Лютнею означена сладость гармонии, о коей никогда не судить верно, не имея доброго слуха.",
+        "Ланью — тонкость этого дивного чувства, столь свойственная этому животному, что от малейшего листа, колеблемого ветром, она обращается в бегство, всегда держа ухо настороже.",
+        "Бычьим ухом — что должно слушать тщательно и с совершенно особым усердием, что необходимо для длительности и сохранения нас самих. Сообразно с этим, когда Египтяне желали изобразить Слух, они являли его бычьим ухом, всегда готовым и настороженным к мычанию, издаваемому тёлкой всякий раз, когда она в охоте."
+      ],
+      "text_fr": [
+        "ELLE nous est representée par une femme, auprés de laquelle est couchée une biche, & qui tient un luth de la main gauche, & de la droite une aureille de taureau.",
+        "Par le luth est signifiée la douceur de l'harmonie, de laquelle on ne sçauroit jamais bien juger si on n'a l'aureille bonne.",
+        "Par la biche, la subtilité de ce merveilleux sens, qui est si particuliere à cet animal, qu'à la moindre feuille que le vent ébranle il prend la fuite, & a toûjours l'aureille alerte.",
+        "Par l'aureille de taureau, qu'il faut ouïr soigneusement & avec une diligence tres-particuliere, ce qui est necessaire à la durée & à la conservation de nous-mesmes. Suivant cela quand les Egyptiens vouloient dépeindre l'Ouye, ils la figuroient par l'aureille du taureau, qui l'a toûjours prête & tenduë aux mugissemens que fait la genisse toutes les fois qu'elle est en amour."
+      ],
       "en": "Hearing",
-      "group_en": "The Five Senses of Nature"
+      "group_en": "The Five Senses of Nature",
+      "scans": [
+        "p2-44-1.jpg",
+        "p2-44-2.jpg",
+        "p2-44-3.jpg"
+      ]
     },
     {
       "id": "p2-45",
@@ -10619,12 +10699,33 @@
       "group_fr": "Les cinq sens de Nature",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-45.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша в цветистом одеянии с сосудом в левой руке и букетом в правой, у ног охотничий пёс",
+          "meaning": "Букет — природный запах; сосуд — запах, извлечённый искусством перегонки; цветистое одеяние и охотничий пёс (чующий след) — общепринятые символы Обоняния",
+          "what_en": "A youth in a flower-strewn robe with a vessel in his left hand and a bouquet in his right, a hunting dog at his feet",
+          "meaning_en": "The bouquet signifies natural scent; the vessel, scent extracted by distillation; the flowered robe and scent-tracking hunting dog, well-known symbols of Smell"
+        }
+      ],
+      "text_ru": [
+        "Его облик — облик юноши, держащего в левой руке сосуд, а в правой — букет; сверх того у ног его виден охотничий пёс, повсюду за ним следующий, а одеяние его усеяно цветами всех видов.",
+        "Букет означает природный запах, сосуд — тот, что извлекают из жидкостей искусством перегонки.",
+        "Что до цветов на его одеянии и охотничьего пса, что его сопровождает, это вещи, не нуждающиеся в объяснении, поскольку довольно известно, что и то и другое суть символы Обоняния."
+      ],
+      "text_fr": [
+        "SA peinture est celle d'un jeune garçon, qui tient un vase de la main gauche, & de la droite un bouquet; outre qu'à ses pieds se voit un chien de chasse qui le suit par tout, & qu'il a sa robe semée de toutes sortes de fleurs.",
+        "Le bouquet signifie l'odeur naturelle, le vase celle que l'on tire des liqueurs par l'art de la distillation.",
+        "Quant aux fleurs de sa robe, & au chien de chasse qui l'accompagne, ce sont choses qui n'ont point besoin d'explication, puisqu'on sçait assez que l'un & l'autre sont les symboles de l'Odorat."
+      ],
       "en": "Smell",
-      "group_en": "The Five Senses of Nature"
+      "group_en": "The Five Senses of Nature",
+      "scans": [
+        "p2-45-1.jpg",
+        "p2-45-2.jpg"
+      ]
     },
     {
       "id": "p2-46",
@@ -10637,12 +10738,34 @@
       "group_fr": "Les cinq sens de Nature",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-46.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с персиком в левой руке и коробом плодов в правой",
+          "meaning": "Плоды — традиционный символ Вкуса, особенно персик; предостережение против эпикурейского заблуждения, будто неумеренность в еде и питье полезна телу",
+          "what_en": "A woman with a peach in her left hand and a basket of fruit in her right",
+          "meaning_en": "The fruits are the traditional symbol of Taste, the peach especially; the text warns against the Epicurean error that unrestrained eating and drinking benefits the body"
+        }
+      ],
+      "text_ru": [
+        "Его изображают женщиной, держащей в левой руке персик, а в правой — короб, наполненный плодами всякого рода.",
+        "Вкус — то из пяти телесных Чувств, что чаще всего даёт себя обмануть ложным образом вещей, кажущихся добрыми, но на деле дурных, когда в них впадают чрезмерно. Свидетели тому Эпикурейцы, желавшие уверить, будто телу полезно всецело предаваться пьянству и обжорству, вовсе не уязвляясь в мире никаким жалом чести и добродетели.",
+        "Его изображают несущим различные плоды, ибо Древние принимали их за символ Вкуса, и в особенности персик, что ему дают держать по той же причине."
+      ],
+      "text_fr": [
+        "IL est representé par une femme, qui de la main gauche tient une pesche, & de la droite un pannier remply de toutes sortes de fruits.",
+        "Le Goust est celuy des cinq Sens du corps, qui se laisse le plus souvent tromper par une fausse image des choses bonnes en apparence, mais mauvaises en effet, quand on y apporte de l'excés. Témoin les Epicuriens, qui vouloient que l'on crût qu'il estoit salutaire au corps de s'abandonner entierement à l'yvrognerie & à la gourmandise, sans se piquer dans le monde d'aucun aiguillon d'honneur & de vertu.",
+        "On le peint portant divers fruits, parce que les Anciens le prenoient pour un symbole du Goust, & particulierement la pesche qu'on luy fait tenir pour cette mesme raison."
+      ],
       "en": "Taste",
-      "group_en": "The Five Senses of Nature"
+      "group_en": "The Five Senses of Nature",
+      "scans": [
+        "p2-46-1.jpg",
+        "p2-46-2.jpg",
+        "p2-46-3.jpg"
+      ]
     },
     {
       "id": "p2-47",
@@ -10655,12 +10778,29 @@
       "group_fr": "Les cinq sens de Nature",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-47.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с обнажённой правой рукой, с соколом, расправляющим крылья на левой руке, и черепахой у ног",
+          "meaning": "Обнажённая рука — непосредственность осязания как чувства, требующего прямого контакта; сокол и черепаха — традиционные иероглифические символы Осязания",
+          "what_en": "A woman with a bare right arm, a falcon spreading its wings on her left hand, and a tortoise at her feet",
+          "meaning_en": "Her bare arm signifies touch's directness, a sense requiring immediate contact; the falcon and tortoise are the traditional hieroglyphic symbols of Touch"
+        }
+      ],
+      "text_ru": [
+        "Его символ — женщина с совершенно обнажённой правой рукой, на левой же руке коей Сокол расправляет свои крылья; сверх того у ног её — черепаха, иероглифическая фигура Осязания, как и Сокол был другой таковой, как мы уже сказали прежде."
+      ],
+      "text_fr": [
+        "IL a pour symbole une femme, dont le bras droit est tout nud, & sur la main gauche de laquelle un Faucon étend ses aisles; joint qu'à ses pieds est une tortuë, figure hieroglyfique de l'Attouchement, comme le Faucon en estoit un autre, ainsi que nous avons dit cy-devant."
+      ],
       "en": "Touch",
-      "group_en": "The Five Senses of Nature"
+      "group_en": "The Five Senses of Nature",
+      "scans": [
+        "p2-47-1.jpg",
+        "p2-47-2.jpg"
+      ]
     },
     {
       "id": "p2-48",
