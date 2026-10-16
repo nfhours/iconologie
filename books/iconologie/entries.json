@@ -8260,12 +8260,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-163.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Муж в зрелых летах в златотканом одеянии, со скипетром и лавровым венком в правой руке, ласкающий льва, опирающегося на него",
+          "meaning": "Зрелый возраст — соединение телесной и духовной силы; скипетр — первенство, подобающее доблести; лавровый венец — неизменное мужество перед лицом опасности; укрощённый лев — способность кроткой доблести покорять самые дикие нравы",
+          "what_en": "A man in his prime, in cloth-of-gold, a scepter and laurel wreath in his right hand, caressing a lion that leans against him",
+          "meaning_en": "His maturity signifies the union of bodily and mental strength; the scepter, the preeminence owed to valor; the laurel wreath, unchanging courage in the face of danger; the tamed lion, gentle valor's power to subdue even the wildest natures"
+        }
+      ],
+      "text_ru": [
+        "Этот муж, находящийся в зрелости лет своих, облачённый в златотканую ткань, являет истинную Доблесть. В правой руке он держит подобие скипетра с лавровым венком, а левой ласкает льва, который опирается на него.",
+        "Зрелость недаром зовётся опорой Доблести, ибо в эти лета человек способен соединить силу тела с силою духа: и подобно тому как золото очищается в огне, можно сказать, что злая судьба лишь очищает и укрепляет доблестное сердце.",
+        "Скипетр, что он несёт, являет, что первенство по праву подобает Доблести; а лавровый венец — дерево победоносное, никогда не теряющее своей зелени, — что то же самое свойственно и доблестным сердцам, кои в величайших опасностях не бледнеют и всегда пребывают в одном и том же состоянии.",
+        "Что до льва, которого он ласкает и который ласкается к нему, это означает, что свойство человека с сердцем — уметь завоёвывать расположение и покорять кротостью и обходительностью самые дикие нравы, лишая их природной свирепости."
+      ],
+      "text_fr": [
+        "CET homme qui est en la virilité de son âge, & vestu de drap d'or, represente la vraye Valeur. Il tient en la main droite vne maniere de sceptre, avec vne guirlande de laurier; & de la gauche il caresse vn lion qui s'appuye sur luy.",
+        "La virilité ne s'appelle pas sans cause le soûtien de la Valeur, parce qu'en cet âge-là l'homme est capable de joindre la force du corps à celle de l'esprit: aussi comme l'or se raffine dans les flammes, l'on peut dire de mesme que la mauvaise fortune ne fait qu'épurer & fortifier vn cœur valeureux.",
+        "Par le sceptre qu'il porte, il est demontré que la preéminence est deuë à bon droit à la Valeur; & par la couronne de laurier, arbre victorieux, & qui ne perd jamais sa verdure, qu'il en est de mesme des bons courages, qui dans les plus grands dangers ne pâlissent point, & sont toûjours en mesme posture.",
+        "Quant au lion qu'il caresse, & dont il est caressé, cela signifie que c'est le propre d'vn homme de cœur de sçavoir gagner les volontez, & de s'assujettir par la douceur & par l'accortise les courages les plus barbares, en les dépouillant de leur fierté naturelle."
+      ],
       "en": "Valor",
-      "group_en": "V"
+      "group_en": "V",
+      "scans": [
+        "p1-163-1.jpg",
+        "p1-163-2.jpg"
+      ]
     },
     {
       "id": "p1-164",
@@ -8278,12 +8301,31 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-164.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Богато одетая юная дева с нарумяненным лицом и жеманной осанкой, с чашей на голове и сердцем на груди",
+          "meaning": "Чаша на голове и притворная мина — суетное старание понравиться другим ради вещей ничтожных и преходящих; это представлено как знак нелепой гордыни и смешного тщеславия",
+          "what_en": "A richly dressed young maiden with a painted face and an affected air, a cup upon her head and a heart at her breast",
+          "meaning_en": "The cup on her head and affected manner signify a vain effort to please others for the sake of trifling, passing things — offered here as marks of extravagant pride and ridiculous vanity"
+        }
+      ],
+      "text_ru": [
+        "Здесь она является в облике юной девы, богато одетой, с лицом, полным румян, с жеманным видом, с чашей на голове и сердцем посередине.",
+        "Тщеславием именуют в человеке всё то, что лишено совершенной цели, какую мы должны иметь в наших поступках, как говорят Философы. А поскольку роскошные наряды и труд, затрачиваемый на их прилаживание, имеют цель мало похвальную, тщетно стремясь лишь понравиться другим ради вещи ничтожной и преходящей, — весьма уместно, на мой взгляд, что они помещены здесь как знаки нелепой гордыни и смешного тщеславия."
+      ],
+      "text_fr": [
+        "ELLE paroist icy en jeune fille richement vestuë, avec vn visage plein de fard, vne mine affettée, vne tasse sur la teste, & vn cœur au milieu.",
+        "L'on appelle Vanité en vne personne tout ce qui n'a point de but parfait, tel que nous le devons avoir en nos actions, comme disent les Philosophes. Or parce que les beaux habits & la peine que l'on prend à s'ajuster ont vne fin peu louable, & qui ne tend vainement qu'à plaire à autruy pour vne chose vile, & qui ne fait que passer; c'est fort à propos, à mon avis, qu'on les met icy pour autant de marques d'vn orgueil extravagant, & d'vne vanité ridicule."
+      ],
       "en": "Vanity",
-      "group_en": "V"
+      "group_en": "V",
+      "scans": [
+        "p1-164-1.jpg",
+        "p1-164-2.jpg"
+      ]
     },
     {
       "id": "p1-165",
@@ -8296,12 +8338,44 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-165.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Приятная дева с опущенными глазами и румяными щеками, в красном одеянии, со слоновьей головой в качестве убора, соколом в правой руке и свитком с надписью «Dysoria Procul» в левой",
+          "meaning": "Опущенные глаза и румянец — скромность, украшающая и делающая человека приятнее; красное одеяние — цвет, подобающий юным девам как знак честности; слон и сокол — животные, по преданию самые стыдливые; надпись «прочь, малодушный стыд» — предостережение против крайности, вырождающейся в робость и бездействие",
+          "what_en": "A pleasing maiden with downcast eyes and ruddy cheeks, in a red robe, an elephant's head for a headdress, a falcon in her right hand and a scroll reading \"Dysoria Procul\" in her left",
+          "meaning_en": "The downcast eyes and blush signify a modesty that adorns and endears; the red robe, the color held fitting for young maidens as a mark of honesty; the elephant and falcon, animals traditionally held the most bashful; the motto \"away with craven shame\" warns against the excess that degenerates into timidity and inaction"
+        }
+      ],
+      "text_ru": [
+        "Мы изображаем её в виде весьма приятной девы с глазами, опущенными вниз, румяными щеками, красным одеянием, слоновьей головой вместо убора, соколом в правой руке и свитком в левой, на коем написаны два слова: Dysoria Procul.",
+        "Хотя честный Стыд, или стыдливость, не почитается Добродетелью в глазах некоторых, он тем не менее весьма восхваляется Аристотелем, помещающим его посередине между бесстыдством и страхом и определяющим его как некую досаду души, рождённую опасением зол, способных, по нашему мнению, задеть нашу честь; к чему близко подходит мнение некоторых Итальянских Поэтов, называющих его похвальной скромностью между молодыми людьми, которые из боязни совершить какую-либо неучтивость не смеют ни говорить, ни появляться в обществе. Иные же определяют его как внутреннюю боль и тайное раскаяние в дурно совершённых делах. Но этот последний род Стыда гораздо менее похвален, чем первый; ибо один заставляет воздерживаться от проступка из страха быть за него порицаемым, что есть проявление той добродетели, которую святой Амвросий называет спутницей целомудрия; тогда как другой есть в некотором роде порождение порока, за коим следует раскаяние.",
+        "Не без причины мы изображаем честный Стыд со скромным лицом и опущенными глазами, ибо, по святому Бернарду, он весьма прибавляет изящества и делает человека более приятным: что особенно заметно в глазах, где, по словам Аристотеля, он имеет своё седалище. Плиний же, напротив, полагает, что седалище его — в щеках, из-за румянца, который мы обычно видим там разливающимся.",
+        "По той же причине мы даём ей красное одеяние — цвет, который прекрасная Пифиада, дочь Аристотеля, называла наиболее подобающим юным девам. Того же мнения держались и Катон с Менандром, из коих один более хвалил молодых людей, краснеющих, нежели бледнеющих, а другой принимал румянец в человеке за безошибочный знак честности.",
+        "Убором ей служит голова слона, ибо, по свидетельству Плиния, это животное из всех самое стыдливое; настолько, что, желая совокупиться со своею самкой, он удаляется в леса и ищет мест, кажущихся ему самыми пустынными. Чему учит нас, по слову Пифагора, никогда не делать ничего бесчестного и краснеть скорее за собственные проступки, нежели за чужие.",
+        "К примеру слона можно присоединить пример сокола, чьё мужество столь благородно, что он предпочитает терпеть голод, нежели питаться падалью: и если он бросается на какую-либо птицу и не успевает её поймать, он тотчас отступается, столь он стыдлив, и с большим трудом удаётся вернуть его на руку того, кто его подзывает.",
+        "И поскольку всякая крайность обычно порочна, именно потому эта фигура несёт в левой руке начертанные слова Dysoria Procvl, то есть что мы не должны быть стыдливы до такой степени, чтобы утратить и мужество, и прямой взгляд одновременно: ибо как Катэзией называют тайную тоску, лишающую нас смелости смотреть людям в лицо, так словом Дизория разумеется тот малодушный стыд, что, доходя до крайней низости сердца, мешает одержимым им совершать на людях какое-либо честное и похвальное деяние. Добавим к этому, что Исократ, славный Афинский Оратор, говорил о своих учениках Феопомпе и Эфоре, что к одному он применял узду, дабы сдержать его дерзость, а к другому — шпору, дабы наказать его чрезмерную стыдливость; и делал он это, без сомнения, с большим основанием, ибо опыт ежедневно показывает, что, как говорится, проигрывают именно стыдливые; что чрезмерная сдержанность порою вырождается в глупость; и что судьба подобна тем хитрым женщинам, которые желают, чтобы казалось, будто их принуждают, хотя тем не менее не перестают быть этим довольны."
+      ],
+      "text_fr": [
+        "NOUS la figurons par vne fille fort agreable, qui a les yeux panchez en bas, les joüës vermeilles, vne robe rouge, vne teste d'elephant pour coëffure, vn faucon en la main droite, & en la gauche vn rouleau, où sont écrits ces deux mots, Dysoria Procul.",
+        "Bien que l'honneste Vergogne, ou la pudeur, ne passe point pour Vertu dans l'esprit de quelques-vns, elle ne laisse pas toutefois d'estre fort louée par Aristote, qui luy fait tenir vn milieu entre l'effronterie & la peur; & la definit vne certaine fascherie de l'esprit née de l'apprehension des maux, que nous croyons pouvoir choquer nostre honneur; à quoy s'accommode à peu prés le sentiment de quelques Poëtes Italiens, qui l'appellent vne louable modestie entre jeunes gens, qui de peur qu'ils ont de faire quelque incivilité n'osent point parler ny paroistre en compagnie. D'autres la definissent, vne douleur interieure, & vn secret repentir que nous avons des choses mal faites. Mais cette derniere sorte de Vergogne est bien moins louable que la premiere; car l'vne fait que l'on s'abstient de faillir de peur d'en estre blasmé, ce qui est vne demonstration de cette vertu que saint Ambroise appelle compagne de la pudicité; au lieu que l'autre est en quelque façon la creature du vice, qui est suivy de la repentance.",
+        "Or ce n'est pas sans raison que nous peignons l'honneste Vergogne avec vn visage modeste, & les yeux baissez, puisque, selon saint Bernard, elle ajoûte beaucoup à la grace, & rend la personne plus aimable: ce qui se remarque particulierement dans les yeux où elle a son siege, comme dit Aristote. Pline neanmoins veut qu'elle l'ait dans les joüës, à cause de la rougeur que nous voyons s'y épandre d'ordinaire.",
+        "Pour cette mesme cause nous luy donnons vne robe rouge; couleur que la belle Pythias, fille d'Aristote, disoit estre la mieux seante aux jeunes filles. C'estoit le sentiment qu'avoient encore Caton & Menandre, dont l'vn louoit plus les jeunes gens qui rougissoient, que ceux qui devenoient pasles; & l'autre prenoit la rougeur en vne personne pour vn marque infaillible de probité.",
+        "Elle a pour coëffure la teste d'vn elephant, parce qu'au rapport de Pline, c'est celuy de tous les animaux qui est le plus honteux; jusques-là mesme qu'ayant à s'accoupler à sa femelle, il s'égare dans les forests, & cherche les lieux qui luy semblent les plus deserts. Ce qui nous aprend, comme dit Pythagore, à ne faire jamais rien de deshonneste, & à rougir de nos propres fautes, plûtost que de celles d'autruy.",
+        "A l'exemple de l'elephant on peut joindre celuy du faucon, dont le courage est si noble, qu'il aime mieux endurer la faim, que de se repaistre de charogne: que s'il va fondre sur quelque oiseau qu'il manque de prendre, il se rebute à l'instant, tant il est honteux, & l'on a bien de la peine à le faire revenir sur le poing de celuy qui le reclame.",
+        "Or dautant que tous excés sont ordinairement vicieux, c'est pour cela que cette figure porte en sa main gauche ces paroles écrites, Dysoria Procvl, c'est à dire que nous ne devons pas estre honteux jusques à ce point, que nous en ayons le courage & les yeux abbatus ensemble: car comme on appelle Catesie vn secret chagrin, qui nous oste la hardiesse de regarder les personnes au visage; ainsi par le mot de Dysorie s'entend cette lâche vergogne, qui aboutissant à vne extreme bassesse de cœur, empesche que ceux qui en sont saisis ne puissent faire en public aucune action qui soit honneste & louable. Ajoûtons à ce propos, qu'Isocrate fameux Orateur Athenien, disoit de Theopompe & d'Ephore ses écoliers, qu'il vsoit du frein pour retenir la hardiesse de l'vn, & de l'éperon pour châtier l'humeur trop honteuse de l'autre; ce qu'il ne faisoit sans doute qu'avec beaucoup de raison, puisque l'experience montre tous les jours, qu'il n'y a, comme l'on dit, que les honteux qui perdent; qu'vne humeur trop retenuë degenere quelquefois en sottise; & que la fortune ressemble à ces femmes rusées, qui veulent bien qu'il paroisse qu'on les force, quoique neanmoins elles ne laissent pas d'en estre contentes."
+      ],
       "en": "Honest Shame",
-      "group_en": "V"
+      "group_en": "V",
+      "scans": [
+        "p1-165-1.jpg",
+        "p1-165-2.jpg",
+        "p1-165-3.jpg",
+        "p1-165-4.jpg",
+        "p1-165-5.jpg"
+      ]
     },
     {
       "id": "p1-166",
@@ -8314,12 +8388,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-166.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Обнажённая женщина, держащая в правой руке Солнце, на которое смотрит, а в левой — открытую книгу с пальмовой ветвью, попирающая стопой земной шар",
+          "meaning": "Нагота — природная простота и ясность истины, не нуждающейся в объяснении; Солнце — Бог как источник всякого света и сама Истина; книга — истина, обретаемая в писаниях добрых авторов; пальмовая ветвь — несгибаемая стойкость истины перед противодействием; земной шар под ногой — превосходство истины над всеми вещами мира",
+          "what_en": "A naked woman holding in her right hand a sun she gazes upon, and in her left an open book with a palm branch, treading a globe of the world underfoot",
+          "meaning_en": "Her nakedness signifies truth's natural simplicity, needing no explanation; the sun, God as the source of all light and Truth itself; the book, the truth found in the writings of good authors; the palm branch, truth's unbending resilience against opposition; the globe underfoot, truth's mastery over all things in the world"
+        }
+      ],
+      "text_ru": [
+        "Эта всецело обнажённая красавица держит в правой руке Солнце, на которое смотрит, а в левой — открытую книгу с пальмовой ветвью, и под одной из своих стоп — земной шар.",
+        "Истина есть устойчивое свойство ума, расположенное никоим образом не искажать вещи, говорит ли он о них или пишет; ибо, никогда не меняя своей мысли, он непременно утверждает то, что есть, и отрицает то, чего нет.",
+        "Её изображают обнажённой, дабы показать, что простодушие ей естественно и что она не нуждается в объяснении, чтобы быть понятой.",
+        "Дабы показать также, сколь она дорожит светом, она держит Солнце и смотрит на него, — Солнце есть Бог, источник всякого света, и сама Истина.",
+        "Открытая книга, что она держит, означает, что в писаниях добрых Авторов, обучающих нас наукам, обретается истина вещей; а пальмовая ветвь — что Истина не менее сильна противостоять усилиям, ей противящимся, чем пальма способна распрямляться тем более, чем сильнее её пытаются пригнуть. Отчего Эсхин и говорит, что столь могущественная Царица торжествует над всеми человеческими помыслами; а Вакхилид — что, будучи бессмертной Премудростью, коей ничто не может противостоять, она тем самым сильнее всех вещей мира: по той же причине она и попирает стопою земной шар."
+      ],
+      "text_fr": [
+        "CETTE beauté toute nuë tient de la main droite vn Soleil qu'elle regarde, de la gauche vn livre ouvert, avec vne branche de palme, & sous l'vn de ses pieds le globe du monde.",
+        "La Verité est vne habitude de l'esprit, disposée à ne déguiser aucunement les choses, soit qu'il en parle, ou qu'il en écrive; car sans jamais changer de pensée, il soûtient asseurément ce qui est, & nie ce qui n'est pas.",
+        "Elle est peinte nuë, pour montrer que la naïveté luy est naturelle, & qu'elle n'a pas besoin d'explication pour se faire entendre.",
+        "Pour montrer aussi combien elle cherit la clarté, elle tient & regarde vn Soleil, qui est Dieu, source de toute lumiere, & la mesme Verité.",
+        "Le livre qu'elle tient ouvert, signifie que dans les écrits des bons Autheurs qui nous apprennent les sciences, se trouve la verité des choses; & la branche de palme, que la Verité n'a pas moins de force à se roidir contre les efforts qui s'y opposent, qu'en a la palme à se relever, plus l'on essaye de l'abattre. Ce qui fait dire à Eschinés, qu'vne si puissante Reine triomphe de toutes les pensées humaines; & à Bachilidés, qu'estant cette Sapience immortelle à qui rien ne peut resister, elle est plus forte par consequent que toutes les choses du monde: aussi est-ce pour la mesme raison qu'elle foule vn globe de l'vn de ses pieds."
+      ],
       "en": "Truth",
-      "group_en": "V"
+      "group_en": "V",
+      "scans": [
+        "p1-166-1.jpg",
+        "p1-166-2.jpg",
+        "p1-166-3.jpg"
+      ]
     },
     {
       "id": "p1-167",
