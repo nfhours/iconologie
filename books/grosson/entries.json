@@ -3002,6 +3002,489 @@
         "diana",
         "cornucopia"
       ]
+    },
+    {
+      "id": "pl6-1",
+      "part": 1,
+      "plate": 6,
+      "num": "1",
+      "fr": "Croix / MASSILIA — Louis le Pieux (814)",
+      "ru": "Крест / MASSILIA — Людовик Благочестивый (814)",
+      "en": "Cross / MASSILIA — Louis the Pious (814)",
+      "page": "50",
+      "group": "VI",
+      "group_fr": "Planche VI",
+      "group_en": "VI",
+      "group_page": "49",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl6-1.jpg"
+      ],
+      "plate_img": "pl6-full.jpg",
+      "bbox": [
+        5.5,
+        2.88,
+        38.34,
+        16.88
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LES Médailles des Planches suivantes, sont celles qui ont servi de monnoies sous les règnes des Rois de France de la première & seconde race, Souverains de Marseille. Ces Médailles sont des sols, des demi sols, & des tiers de sols d'or, frappées dans cette Ville. Le module des Médailles est augmenté de la moitié dans les Gravures, & même des deux tiers dans quelques-unes.",
+        "La Médaille du n°. 1. présente d'un côté une Croix dans un double cercle, avec les mots HLVDOVICVS. IM. c'est-à-dire, Ludovicus Imperator; le revers, le mot MASSILIA. Cette Médaille est du règne de Louis le Débonnaire ou le Pieux, Roi de France, & Empereur d'Occident, qui avoit succédé à Charlemagne, en l'année 814."
+      ],
+      "text_ru": [
+        "Монеты, помещённые на следующих Таблицах, — это те, что служили денежным обращением при королях Франции первой и второй династии, государях Марселя. Эти монеты — золотые солиды, полусолиды и трети солида, отчеканенные в этом Городе. Размер монет на гравюрах увеличен в полтора раза, а в некоторых — даже вдвое.",
+        "Монета под №1 представляет с одной стороны Крест в двойном круге, с надписью HLVDOVICVS. IM., то есть Ludovicus Imperator (Император Людовик); оборот — слово MASSILIA. Эта монета относится к правлению Людовика Простодушного, или Благочестивого, короля Франции и императора Запада, наследовавшего Карлу Великому в 814 году."
+      ],
+      "text_en": [
+        "The medals of the following Plates are those which served as coinage under the reigns of the Kings of France of the first and second dynasty, Sovereigns of Marseille. These medals are gold sols, half-sols, and third-sols, struck in this City. The scale of the medals is enlarged by half in the Engravings, and even by two-thirds in some of them.",
+        "The medal of no. 1 shows on one side a Cross within a double circle, with the words HLVDOVICVS. IM., that is, Ludovicus Imperator; the reverse, the word MASSILIA. This medal belongs to the reign of Louis the Debonair, or the Pious, King of France and Emperor of the West, who had succeeded Charlemagne in the year 814."
+      ],
+      "obverse_fr": "croix dans un double cercle, légende HLVDOVICVS IM. (Ludovicus Imperator)",
+      "obverse_ru": "крест в двойном круге, легенда HLVDOVICVS IM. (Ludovicus Imperator)",
+      "obverse_en": "cross within a double circle, legend HLVDOVICVS IM. (Ludovicus Imperator)",
+      "reverse_fr": "mot MASSILIA",
+      "reverse_ru": "слово MASSILIA",
+      "reverse_en": "the word MASSILIA",
+      "motifs": [
+        "cross"
+      ]
+    },
+    {
+      "id": "pl6-2",
+      "part": 1,
+      "plate": 6,
+      "num": "2",
+      "fr": "Buste / Croix sur barre — Dagobert Ier (victoire de 635)",
+      "ru": "Бюст / крест на перекладине — Дагоберт I (победа 635 г.)",
+      "en": "Bust / Cross on a bar — Dagobert I (victory of 635)",
+      "page": "50",
+      "group": "VI",
+      "group_fr": "Planche VI",
+      "group_en": "VI",
+      "group_page": "49",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl6-2.jpg"
+      ],
+      "plate_img": "pl6-full.jpg",
+      "bbox": [
+        3.63,
+        20.28,
+        38.17,
+        15.71
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Le numéro 2 offre une Médaille sur laquelle est empreinte une tête ornée d'un Diadême décoré de perles: on lit autour BAGOBERTVS REX; & au revers, une Croix posée sur une barre en travers, avec ces lettres O. VICTVR IA; à droite & à gauche de la Croix, les deux lettres M. A. par abréviation de Massilia. L'Effigie de cette Médaille est celle de Dagobert Ier., Roi de France, Fils de Clotaire II.; la victoire dont il est fait mention dans le revers, est celle que ce Prince remporta sur les Gascons dans la Novempopulanie, en 635."
+      ],
+      "text_ru": [
+        "Номер 2 являет монету, на которой оттиснута голова, украшенная жемчужной диадемой: вокруг читается BAGOBERTVS REX; а на обороте — крест, поставленный на поперечной перекладине, с буквами O. VICTVR IA; справа и слева от креста — две буквы M. A., сокращение от Massilia. Изображение на этой монете — Дагоберт I, король Франции, сын Хлотаря II; победа, о которой упоминает оборот, — та, что этот государь одержал над гасконцами в Новемпопулании в 635 году."
+      ],
+      "text_en": [
+        "Number 2 offers a medal on which is stamped a head adorned with a pearl-studded Diadem: around it one reads BAGOBERTVS REX; and on the reverse, a Cross set on a crossbar, with these letters O. VICTVR IA; to the right and left of the Cross, the two letters M. A., an abbreviation of Massilia. The Effigy on this medal is that of Dagobert I, King of France, Son of Clotaire II; the victory mentioned on the reverse is the one this Prince won over the Gascons in Novempopulania, in 635."
+      ],
+      "obverse_fr": "buste, diadème orné de perles, légende BAGOBERTVS REX",
+      "obverse_ru": "бюст, диадема с жемчугом, легенда BAGOBERTVS REX",
+      "obverse_en": "bust, pearl-adorned diadem, legend BAGOBERTVS REX",
+      "reverse_fr": "croix posée sur une barre en travers, lettres M.A, légende O VICTVRIA",
+      "reverse_ru": "крест на поперечной перекладине, буквы M.A, легенда O VICTVRIA",
+      "reverse_en": "cross set on a crossbar, letters M.A, legend O VICTVRIA",
+      "motifs": [
+        "cross"
+      ]
+    },
+    {
+      "id": "pl6-3",
+      "part": 1,
+      "plate": 6,
+      "num": "3",
+      "fr": "Buste (aigrette) / Croix sur globe — Sigebert Ier, tiers de sol",
+      "ru": "Бюст (эгрет) / крест на сфере — Сигеберт I, треть солида",
+      "en": "Bust (aigrette) / Cross on a globe — Sigebert I, third-sol",
+      "page": "51",
+      "group": "VI",
+      "group_fr": "Planche VI",
+      "group_en": "VI",
+      "group_page": "49",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl6-3.jpg"
+      ],
+      "plate_img": "pl6-full.jpg",
+      "bbox": [
+        4.99,
+        36.15,
+        37.49,
+        18.02
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 3. Buste avec la tête ornée d'un Diadême, décoré d'une aigrette en perle, avec les ornemens royaux. On lit autour MASILIA; au revers, dans un double cercle, une Croix sur une barre de travers, posée sur un globe; à droite & à gauche dans le champ, les lettres M. A & trois points de chaque côté, pour marquer le tiers de sol d'or, ou les trois sols d'or. On lit autour SIGEBERTVS R. I., c'est-à-dire, Sigebertus Rex Imus. Sigebert Ier. étoit le dernier des enfans de Clotaire."
+      ],
+      "text_ru": [
+        "№3. Бюст, голова украшена диадемой с жемчужным эгретом, с королевскими украшениями. Вокруг читается MASILIA; на обороте, в двойном круге, — крест на поперечной перекладине, стоящей на сфере; справа и слева в поле — буквы M. A и три точки с каждой стороны, обозначающие треть золотого солида, то есть три золотых солида. Вокруг читается SIGEBERTVS R. I., то есть Sigebertus Rex Imus. Сигеберт I был последним из детей Хлотаря."
+      ],
+      "text_en": [
+        "No. 3. Bust with the head adorned with a Diadem, decorated with a pearl aigrette, with the royal ornaments. Around it one reads MASILIA; on the reverse, within a double circle, a Cross on a crossbar, set upon a globe; to the right and left in the field, the letters M. A and three dots on each side, to denote a third of a gold sol, or the three gold sols. Around it one reads SIGEBERTVS R. I., that is, Sigebertus Rex Imus. Sigebert I was the last of the children of Clotaire."
+      ],
+      "obverse_fr": "buste avec diadème et aigrette de perles, ornements royaux, légende MASILIA",
+      "obverse_ru": "бюст с жемчужной диадемой и эгретом, королевские украшения, легенда MASILIA",
+      "obverse_en": "bust with a pearled diadem and aigrette, royal ornaments, legend MASILIA",
+      "reverse_fr": "croix sur une barre en travers posée sur un globe, lettres M.A et trois points de chaque côté (valeur: tiers de sol d'or), légende SIGEBERTVS R.I",
+      "reverse_ru": "крест на перекладине над сферой, буквы M.A и три точки с каждой стороны (достоинство: треть золотого солида), легенда SIGEBERTVS R.I",
+      "reverse_en": "cross on a crossbar set on a globe, letters M.A and three dots on each side (denoting a third-sol in gold), legend SIGEBERTVS R.I",
+      "motifs": [
+        "cross"
+      ]
+    },
+    {
+      "id": "pl6-4",
+      "part": 1,
+      "plate": 6,
+      "num": "4",
+      "fr": "Buste (diadème perlé) / Croix — Sigebert, SISEBERTVS",
+      "ru": "Бюст (жемчужная диадема) / крест — Сигеберт, SISEBERTVS",
+      "en": "Bust (pearled diadem) / Cross — Sigebert, SISEBERTVS",
+      "page": "51",
+      "group": "VI",
+      "group_fr": "Planche VI",
+      "group_en": "VI",
+      "group_page": "49",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl6-4.jpg"
+      ],
+      "plate_img": "pl6-full.jpg",
+      "bbox": [
+        5.6,
+        54.57,
+        36.64,
+        17.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 4. Autre Buste de Sigebert, dont les ornemens différent de ceux de la Médaille précédente; les bouts du Diadême sont ornés d'une perle. On lit autour SISEBERTVS; au revers, une Croix semblable à celle décrite ci-dessus, mais sans marque de la valeur numéraire; à droite & à gauche de la Croix, les lettres M A, par abréviation du mot MASSILIA, qu'on lit tout au long autour de ce revers."
+      ],
+      "text_ru": [
+        "№4. Другой бюст Сигеберта, украшения которого отличаются от предыдущей монеты; концы диадемы украшены жемчужиной. Вокруг читается SISEBERTVS; на обороте — крест, подобный описанному выше, но без обозначения достоинства; справа и слева от креста — буквы M A, сокращение слова MASSILIA, которое полностью читается вокруг этого оборота."
+      ],
+      "text_en": [
+        "No. 4. Another Bust of Sigebert, whose ornaments differ from those of the preceding medal; the ends of the Diadem are adorned with a pearl. Around it one reads SISEBERTVS; on the reverse, a Cross similar to the one described above, but without the mark of monetary value; to the right and left of the Cross, the letters M A, an abbreviation of the word MASSILIA, which is read in full around this reverse."
+      ],
+      "obverse_fr": "autre buste de Sigebert, bouts du diadème ornés d'une perle, légende SISEBERTVS",
+      "obverse_ru": "другой бюст Сигеберта, концы диадемы украшены жемчужиной, легенда SISEBERTVS",
+      "obverse_en": "another bust of Sigebert, the diadem's ends adorned with a pearl, legend SISEBERTVS",
+      "reverse_fr": "croix semblable à celle du n°3 mais sans marque de valeur, lettres M.A, légende MASSILIA au long",
+      "reverse_ru": "крест, подобный №3, но без обозначения достоинства, буквы M.A, слово MASSILIA полностью",
+      "reverse_en": "a cross similar to that of no. 3 but with no value mark, letters M.A, the word MASSILIA spelled in full",
+      "motifs": [
+        "cross"
+      ]
+    },
+    {
+      "id": "pl6-5",
+      "part": 1,
+      "plate": 6,
+      "num": "5",
+      "fr": "Buste (vêtements perlés) / Croix — Sigebert, SEGIBERTVS R.",
+      "ru": "Бюст (одежды в жемчуге) / крест — Сигеберт, SEGIBERTVS R.",
+      "en": "Bust (pearled garments) / Cross — Sigebert, SEGIBERTVS R.",
+      "page": "51",
+      "group": "VI",
+      "group_fr": "Planche VI",
+      "group_en": "VI",
+      "group_page": "49",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl6-5.jpg"
+      ],
+      "plate_img": "pl6-full.jpg",
+      "bbox": [
+        5.93,
+        71.73,
+        36.41,
+        14.33
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 5. Autre Buste de Sigebert, avec les vêtemens enrichis de perles & d'ornemens différens des Bustes précédens. On lit autour SEGIBERTVS. R., c'est-à-dire, Sigebertus Rex; au revers, la Croix semblable à celle empreinte sur la Médaille précédente, avec l'abréviation M A."
+      ],
+      "text_ru": [
+        "№5. Ещё один бюст Сигеберта, с одеждами, украшенными жемчугом и иными узорами, чем на предыдущих бюстах. Вокруг читается SEGIBERTVS. R., то есть Sigebertus Rex (король Сигеберт); на обороте — крест, подобный отчеканенному на предыдущей монете, с сокращением M A."
+      ],
+      "text_en": [
+        "No. 5. Another Bust of Sigebert, with garments enriched with pearls and ornaments differing from the preceding Busts. Around it one reads SEGIBERTVS. R., that is, Sigebertus Rex; on the reverse, the Cross similar to the one stamped on the preceding medal, with the abbreviation M A."
+      ],
+      "obverse_fr": "buste de Sigebert, vêtements enrichis de perles et d'ornements différents des précédents, légende SEGIBERTVS R.",
+      "obverse_ru": "бюст Сигеберта, одежды украшены жемчугом и иными узорами, чем на предыдущих, легенда SEGIBERTVS R.",
+      "obverse_en": "bust of Sigebert, garments enriched with pearls and ornaments differing from the preceding ones, legend SEGIBERTVS R.",
+      "reverse_fr": "croix semblable aux précédentes, lettres M.A, le mot MASSILIA effacé pour partie par le temps",
+      "reverse_ru": "крест, подобный предыдущим, буквы M.A, слово MASSILIA частично стёрто временем",
+      "reverse_en": "a cross similar to the preceding ones, letters M.A, the word MASSILIA partly effaced by time",
+      "motifs": [
+        "cross"
+      ]
+    },
+    {
+      "id": "pl6-6",
+      "part": 1,
+      "plate": 6,
+      "num": "6",
+      "fr": "Buste (royal) / Croix sur globe — Dagobert, AAGOBERTE",
+      "ru": "Бюст (царский) / крест на сфере — Дагоберт, AAGOBERTE",
+      "en": "Bust (royal) / Cross on a globe — Dagobert, AAGOBERTE",
+      "page": "52",
+      "group": "VI",
+      "group_fr": "Planche VI",
+      "group_en": "VI",
+      "group_page": "49",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl6-6.jpg"
+      ],
+      "plate_img": "pl6-full.jpg",
+      "bbox": [
+        52.03,
+        3.81,
+        36.86,
+        13.84
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Sous le numéro 6, est représentée une Médaille de Dagobert, différente de celle désignée par le chiffre 2. L'Effigie de ce Prince est en Buste, avec les ornemens Royaux; le Diadême est orné de trois perles à l'endroit où il est noué derrière la tête. On lit autour de la Médaille, AAGOBERTE; au revers, dans un double cercle, une Croix sur un globe, avec l'abréviation MA, & le chiffre Romain V, marque de la valeur de cette monnoie; la légende est effacée dans les parties marquées de points: on distingue encore les lettres VICTOM."
+      ],
+      "text_ru": [
+        "Под номером 6 изображена монета Дагоберта, отличная от обозначенной под №2. Облик этого государя дан в виде бюста, с царскими украшениями; диадема украшена тремя жемчужинами в том месте, где она завязана за головой. Вокруг монеты читается AAGOBERTE; на обороте, в двойном круге, — крест на сфере, с сокращением MA и римской цифрой V, обозначающей достоинство этой монеты; легенда стёрта в местах, отмеченных точками: всё же различимы буквы VICTOM."
+      ],
+      "text_en": [
+        "Under number 6 is shown a medal of Dagobert, different from the one designated by the figure 2. The Effigy of this Prince is in Bust, with the Royal ornaments; the Diadem is adorned with three pearls at the place where it is tied behind the head. Around the medal one reads AAGOBERTE; on the reverse, within a double circle, a Cross on a globe, with the abbreviation MA, and the Roman numeral V, a mark of the value of this coin; the legend is effaced in the parts marked with dots: the letters VICTOM are still made out."
+      ],
+      "obverse_fr": "buste de Dagobert, ornements royaux, diadème à trois perles noué derrière la tête, légende AAGOBERTE",
+      "obverse_ru": "бюст Дагоберта, царские украшения, диадема с тремя жемчужинами, завязанная за головой, легенда AAGOBERTE",
+      "obverse_en": "bust of Dagobert, royal ornaments, a three-pearled diadem tied behind the head, legend AAGOBERTE",
+      "reverse_fr": "croix sur un globe, dans un double cercle, abréviation MA, chiffre romain V (valeur), légende en grande partie effacée, lettres VICTOM encore visibles",
+      "reverse_ru": "крест на сфере в двойном круге, сокращение MA, римская цифра V (достоинство), легенда почти стёрта, видны буквы VICTOM",
+      "reverse_en": "a cross on a globe, within a double circle, abbreviation MA, Roman numeral V (value), legend largely effaced, the letters VICTOM still visible",
+      "motifs": [
+        "cross"
+      ]
+    },
+    {
+      "id": "pl6-7",
+      "part": 1,
+      "plate": 6,
+      "num": "7",
+      "fr": "Buste (diadème perlé) / Croix dans couronne — Dagobert, PAGOBE TYS REX",
+      "ru": "Бюст (жемчужная диадема) / крест в венке — Дагоберт, PAGOBE TYS REX",
+      "en": "Bust (pearled diadem) / Cross in a wreath — Dagobert, PAGOBE TYS REX",
+      "page": "52",
+      "group": "VI",
+      "group_fr": "Planche VI",
+      "group_en": "VI",
+      "group_page": "49",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl6-7.jpg"
+      ],
+      "plate_img": "pl6-full.jpg",
+      "bbox": [
+        50.17,
+        20.38,
+        40.32,
+        15.18
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Sous ce chiffre est comprise une autre Médaille de Dagobert représenté en Buste, avec le Diadême orné de perles aux deux extrémités; les vêtemens sont sans ornemens. On lit autour PAGOBE TYS REX; au revers, une Croix dans une couronne de perles, de figure ovale, imitant un chapelet; l'abréviation MA, & le mot VICTVRIA pour Victoria. Ces différences dans l'orthographe venoient probablement de la variété de la prononciation dans ces siècles de barbarie."
+      ],
+      "text_ru": [
+        "Под этим числом помещена другая монета Дагоберта, представленного в виде бюста, с диадемой, украшенной жемчугом по обоим концам; одежды без украшений. Вокруг читается PAGOBE TYS REX; на обороте — крест в жемчужном венке овальной формы, напоминающем чётки; сокращение MA и слово VICTVRIA вместо Victoria. Эти различия в написании, вероятно, происходили от разнообразия произношения в эти варварские века."
+      ],
+      "text_en": [
+        "Under this number is included another medal of Dagobert shown in Bust, with the Diadem adorned with pearls at both ends; the garments are without ornament. Around it one reads PAGOBE TYS REX; on the reverse, a Cross within a pearl wreath, oval in shape, resembling a rosary; the abbreviation MA, and the word VICTVRIA for Victoria. These differences in spelling probably arose from the variety of pronunciation in these centuries of barbarism."
+      ],
+      "obverse_fr": "buste de Dagobert, diadème orné de perles aux deux extrémités, vêtements sans ornements, légende PAGOBE TYS REX",
+      "obverse_ru": "бюст Дагоберта, диадема украшена жемчугом по обоим концам, одежды без украшений, легенда PAGOBE TYS REX",
+      "obverse_en": "bust of Dagobert, diadem adorned with pearls at both ends, plain garments, legend PAGOBE TYS REX",
+      "reverse_fr": "croix dans une couronne de perles de forme ovale imitant un chapelet, abréviation MA, mot VICTVRIA (pour Victoria)",
+      "reverse_ru": "крест в жемчужном венке овальной формы, напоминающем чётки, сокращение MA, слово VICTVRIA (вместо Victoria)",
+      "reverse_en": "a cross within an oval pearl wreath resembling a rosary, abbreviation MA, the word VICTVRIA (for Victoria)",
+      "motifs": [
+        "cross"
+      ]
+    },
+    {
+      "id": "pl6-8",
+      "part": 1,
+      "plate": 6,
+      "num": "8",
+      "fr": "Buste (chlamyde) / Croix sur barre — Sigebert, MASILIA / MA",
+      "ru": "Бюст (хламида) / крест на перекладине — Сигеберт, MASILIA / MA",
+      "en": "Bust (chlamys) / Cross on a bar — Sigebert, MASILIA / MA",
+      "page": "52",
+      "group": "VI",
+      "group_fr": "Planche VI",
+      "group_en": "VI",
+      "group_page": "49",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl6-8.jpg"
+      ],
+      "plate_img": "pl6-full.jpg",
+      "bbox": [
+        50.65,
+        36.29,
+        40.27,
+        15.7
+      ],
+      "attrs": [],
+      "text_fr": [
+        "8. Ce numéro indique une autre Médaille de Sigebert, avec un simple Diadême sans ornement; quelques-uns sont à peine répandus sur le vêtement, qui me paroît être un de ces Surtouts nommés Chlamys par les Anciens; au haut, une Croix qui sépare en deux parties le mot MASILIA; au revers, une Croix dans un double cercle, posée sur une barre en travers, un globe en dessous, avec l'abréviation MA, comme aux revers précédens. On distingue à peine autour les lettres SI...T."
+      ],
+      "text_ru": [
+        "8. Этот номер обозначает другую монету Сигеберта, с простой диадемой без украшений; немногие жемчужины едва рассыпаны по одежде, которая представляется мне одним из тех накидок, что древние называли хламидой; наверху — крест, разделяющий надвое слово MASILIA; на обороте — крест в двойном круге, поставленный на поперечной перекладине, со сферой под ним, с сокращением MA, как и на предыдущих оборотах. Вокруг едва различимы буквы SI...T."
+      ],
+      "text_en": [
+        "8. This number indicates another medal of Sigebert, with a plain, unadorned Diadem; a few pearls are barely scattered on the garment, which seems to me to be one of those cloaks the Ancients called a Chlamys; at the top, a Cross dividing the word MASILIA into two parts; on the reverse, a Cross within a double circle, set on a crossbar, a globe beneath, with the abbreviation MA, as on the preceding reverses. Around it one can barely make out the letters SI...T."
+      ],
+      "obverse_fr": "buste de Sigebert, diadème simple sans ornement, quelques perles sur le vêtement (chlamyde), une croix divise le mot MASILIA en haut",
+      "obverse_ru": "бюст Сигеберта, простая диадема без украшений, несколько жемчужин на одежде (хламида), крест наверху разделяет слово MASILIA",
+      "obverse_en": "bust of Sigebert, plain unadorned diadem, a few pearls on the garment (a chlamys), a cross above dividing the word MASILIA",
+      "reverse_fr": "croix dans un double cercle posée sur une barre en travers, un globe en dessous, abréviation MA, lettres SI...T à peine visibles",
+      "reverse_ru": "крест в двойном круге на перекладине, сфера снизу, сокращение MA, едва различимые буквы SI...T",
+      "reverse_en": "a cross within a double circle set on a crossbar, a globe beneath, abbreviation MA, barely visible letters SI...T",
+      "motifs": [
+        "cross"
+      ]
+    },
+    {
+      "id": "pl6-9",
+      "part": 1,
+      "plate": 6,
+      "num": "9",
+      "fr": "Buste (aigrette) / Croix sur barre — Sigebert, valeur XI",
+      "ru": "Бюст (эгрет) / крест на перекладине — Сигеберт, достоинство XI",
+      "en": "Bust (aigrette) / Cross on a bar — Sigebert, value XI",
+      "page": "53",
+      "group": "VI",
+      "group_fr": "Planche VI",
+      "group_en": "VI",
+      "group_page": "49",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl6-9.jpg"
+      ],
+      "plate_img": "pl6-full.jpg",
+      "bbox": [
+        52.96,
+        53.28,
+        39.93,
+        15.5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "9. Médaille de Sigebert représenté en Buste; la tête ornée d'un Diadême de perles avec une aigrette. Les ornemens Royaux enrichis de même; autour le mot MASILIA; au revers, une Croix ornée de trois perles à l'extrémité supérieure, & aux deux latérales. Cette Croix est posée sur une barre en travers, qui sert de Piédestal; les lettres MA sont à côté de la Croix; autour SIGIBERTVS, & les chiffres Romains XI, valeur de cette monnoie."
+      ],
+      "text_ru": [
+        "9. Монета Сигеберта, представленного в виде бюста; голова украшена жемчужной диадемой с эгретом. Царские украшения столь же богаты; вокруг — слово MASILIA; на обороте — крест, украшенный тремя жемчужинами на верхнем конце и по бокам. Этот крест поставлен на поперечной перекладине, служащей постаментом; буквы MA — по сторонам от креста; вокруг — SIGIBERTVS и римские цифры XI, обозначающие достоинство этой монеты."
+      ],
+      "text_en": [
+        "9. Medal of Sigebert shown in Bust; the head adorned with a pearl Diadem with an aigrette. The Royal ornaments likewise enriched; around it the word MASILIA; on the reverse, a Cross adorned with three pearls at the upper end, and at the two sides. This Cross is set on a crossbar, which serves as a Pedestal; the letters MA are beside the Cross; around it SIGIBERTVS, and the Roman numerals XI, the value of this coin."
+      ],
+      "obverse_fr": "buste de Sigebert, diadème de perles avec une aigrette, ornements royaux enrichis, légende MASILIA",
+      "obverse_ru": "бюст Сигеберта, жемчужная диадема с эгретом, богатые царские украшения, легенда MASILIA",
+      "obverse_en": "bust of Sigebert, pearled diadem with an aigrette, enriched royal ornaments, legend MASILIA",
+      "reverse_fr": "croix ornée de trois perles en haut et sur les côtés, posée sur une barre en travers (piédestal), lettres M.A, légende SIGIBERTVS, chiffre romain XI (valeur)",
+      "reverse_ru": "крест, украшенный тремя жемчужинами сверху и по бокам, на поперечной перекладине (постаменте), буквы M.A, легенда SIGIBERTVS, римская цифра XI (достоинство)",
+      "reverse_en": "a cross adorned with three pearls at the top and sides, set on a crossbar (pedestal), letters M.A, legend SIGIBERTVS, Roman numeral XI (value)",
+      "motifs": [
+        "cross"
+      ]
+    },
+    {
+      "id": "pl6-10",
+      "part": 1,
+      "plate": 6,
+      "num": "10",
+      "fr": "Buste (riche) / Croix épatée — Sigebert, SEGIBERTVS",
+      "ru": "Бюст (богатый) / расширяющийся крест — Сигеберт, SEGIBERTVS",
+      "en": "Bust (richer) / Cross pattée — Sigebert, SEGIBERTVS",
+      "page": "53",
+      "group": "VI",
+      "group_fr": "Planche VI",
+      "group_en": "VI",
+      "group_page": "49",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl6-10.jpg"
+      ],
+      "plate_img": "pl6-full.jpg",
+      "bbox": [
+        52.81,
+        70.95,
+        39.53,
+        14.65
+      ],
+      "attrs": [],
+      "text_fr": [
+        "10. Autre Buste de Sigebert, avec un Diadême semblable à celui de la Médaille du numéro 4; les ornemens Royaux sont plus riches que ceux représentés sur la précédente Médaille. On lit autour SEGIBERTVS; au revers, une Croix épatée, excepté dans la partie qui pose sur le Piédestal; l'abréviation MA, comme dans les autres. On distingue encore autour MAS; le reste du mot MASSILIA étant effacé par le temps."
+      ],
+      "text_ru": [
+        "10. Ещё один бюст Сигеберта, с диадемой, подобной той, что на монете №4; царские украшения богаче, чем на предыдущей монете. Вокруг читается SEGIBERTVS; на обороте — расширяющийся крест, за исключением той части, что опирается на постамент; сокращение MA, как и на прочих. Ещё различимо вокруг MAS; остальная часть слова MASSILIA стёрта временем."
+      ],
+      "text_en": [
+        "10. Another Bust of Sigebert, with a Diadem similar to that of the medal of number 4; the Royal ornaments are richer than those shown on the preceding medal. Around it one reads SEGIBERTVS; on the reverse, a Cross pattée, except in the part resting on the Pedestal; the abbreviation MA, as on the others. One still makes out around it MAS; the rest of the word MASSILIA being effaced by time."
+      ],
+      "obverse_fr": "buste de Sigebert, diadème semblable à celui du n°4, ornements royaux plus riches, légende SEGIBERTVS",
+      "obverse_ru": "бюст Сигеберта, диадема, подобная №4, более богатые царские украшения, легенда SEGIBERTVS",
+      "obverse_en": "bust of Sigebert, diadem similar to no. 4, richer royal ornaments, legend SEGIBERTVS",
+      "reverse_fr": "croix épatée (sauf la partie posée sur le piédestal), abréviation MA, légende MAS... (reste du mot MASSILIA effacé par le temps)",
+      "reverse_ru": "расширяющийся крест (кроме части на постаменте), сокращение MA, легенда MAS... (остальная часть слова MASSILIA стёрта временем)",
+      "reverse_en": "a cross pattée (except where it rests on the pedestal), abbreviation MA, legend MAS... (the rest of the word MASSILIA effaced by time)",
+      "motifs": [
+        "cross"
+      ]
     }
   ]
 }
