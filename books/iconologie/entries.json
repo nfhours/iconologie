@@ -8432,12 +8432,42 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-167.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатая юная дева с пикой в правой руке, лавровым венцом в левой и Солнцем на груди",
+          "meaning": "Крылья — возношение над обыденным к высоким наслаждениям; Солнце на груди — добродетель, живущая в сердце и согревающая всё тело; лавровый венец — непобедимость перед любыми бедствиями судьбы; пика — первенство и власть добродетели над пороком",
+          "what_en": "A winged young maiden with a pike in her right hand, a laurel wreath in her left, and a sun upon her breast",
+          "meaning_en": "The wings signify a rising above the common to exalted pleasures; the sun on her breast, virtue dwelling in the heart and warming the whole body; the laurel wreath, invincibility against every stroke of fortune; the pike, virtue's preeminence and power over vice"
+        }
+      ],
+      "text_ru": [
+        "Эта юная дева, являющаяся не менее приятной, чем прекрасной, есть истинный образ Добродетели, имеющей крылья на спине, пику в правой руке, лавровый венец в левой и Солнце посреди прекрасной своей груди.",
+        "Её изображают юной, ибо она никогда не стареет и день ото дня укрепляется; ибо славные дела её становятся навыками и длятся столько же, сколько жизнь.",
+        "Красота её лика — символ красоты её духа; по той же причине ей дают и крылья, ибо ей свойственно возноситься над обыденным, дабы приобщаться к тем сладостным наслаждениям, что вкушают лишь люди необыкновенные.",
+        "Солнце на её груди являет, что как свет этого великого Светила нисходит к нам с Неба, так и Добродетель, чей престол в сердце, внушает движение и бодрость всему нашему телу, которое греки называют малым миром: так что сей тайной Добродетелью оно согревается и укрепляется; отсюда следует, что столь мощные свойства света, тепла и силы суть, по мнению древних Философов, лучшая часть наслаждений и благ, какие мы можем вкусить в этой жизни.",
+        "А поскольку лавр вечно зелен и молния не может его повредить, мы даём для того Добродетели венец, ибо нет врага, способного её одолеть, и она не страшится ни пожаров, ни бедствий, ни иных насилий судьбы.",
+        "Что до пики, что она держит, то как у древних она была знаком первенства и достоинства, так она же есть и знак власти Добродетели, и великих её преимуществ над пороком.",
+        "Некоторые древние Императоры дали это познать через чеканенные ими медали. На медали Люция Вера она представлена доблестным Беллерофонтом, восседающим на коне Пегасе и вооружённым дротиком, коим он поражает химеру, то есть уродство порока. На медали Александра — вооружённой женщиной, держащей в одной руке шар, а в другой копьё, дабы показать, что Добродетель подчиняет себе весь мир; а на медали Гальбы и Домициана — Амазонкой, чьё оружие — латы с копьём и ятаганом, а под стопами — шлем."
+      ],
+      "text_fr": [
+        "CETTE jeune fille qui ne paroist pas moins agreable que belle, est la vraye image de la Vertu, qui a des aisles au dos, vne pique en la main droite, en la gauche vne couronne de laurier, & vn Soleil au milieu de son beau sein.",
+        "Elle est peinte jeune, parce qu'elle ne vieillit jamais, & se fortifie de jour en jour; car ses actions illustres deviennent des habitudes, & durent autant que la vie.",
+        "La beauté de son visage est vn symbole de celle de son esprit; & c'est pour la mesme raison encore qu'on luy donne des aisles, parce qu'elle a cela de propre de s'élever par dessus le commun, pour prendre part à ces doux plaisirs qui ne sont goûtez que des hommes extraordinaires.",
+        "Par le Soleil qu'elle a sur le sein, il est declaré que comme la lumiere de ce grand Astre nous vient du Ciel icy-bas; ainsi la Vertu qui a son siege dans le cœur, inspire le mouvement & la vigueur à tout nostre corps, que les Grecs appellent vn petit monde: de maniere que par cette Vertu secrette il se rechauffe & se fortifie; d'où il s'ensuit que de si puissantes qualitez de lumiere, de chaleur & de force, sont selon les Philosophes anciens, la meilleure partie des plaisirs & des biens que nous pouvons goûter en cette vie.",
+        "Et dautant que le laurier est toûjours verd, & que la foudre ne le peut endommager, nous en donnons pour cet effet vne couronne à la Vertu, parce qu'il n'est point d'ennemy qui la puisse vaincre, & qu'elle ne craint ny les embrazemens, ny les disgraces, non plus que les autres violences de la fortune.",
+        "Pour le regard de la pique qu'elle tient, comme parmy les anciens elle estoit vne marque de preéminence & de dignité, elle en est vne aussi du pouvoir de la Vertu, & des grands avantages qu'elle a sur le vice.",
+        "Quelques anciens Empereurs l'ont ainsi donné à connoistre par les medailles qu'ils en ont faites. En celle de Lucius Verus elle est representée par le vaillant Bellerophon, monté sur le cheval Pegase, & armé d'vn javelot, dont il abat la chimere, c'est à dire la deformité du vice. En celle d'Alexandre, par vne femme armée, qui tient d'vne main vn globe, & vne lance de l'autre, pour montrer que la Vertu s'assujetit tout le monde: & en celle de Galba & de Domitian, par vne Amazone, qui a pour armes vn corcelet avec vne lance & vn cimetere, & sous ses pieds vn morion."
+      ],
       "en": "Virtue",
-      "group_en": "V"
+      "group_en": "V",
+      "scans": [
+        "p1-167-1.jpg",
+        "p1-167-2.jpg",
+        "p1-167-3.jpg"
+      ]
     },
     {
       "id": "p1-168",
@@ -8450,12 +8480,34 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-168.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Геркулес, облачённый в львиную шкуру, с узловатой палицей в правой руке и тремя золотыми яблоками Гесперид в левой",
+          "meaning": "Три яблока — три рода героической добродетели: укрощение гнева, умеренность и презрение к мирским усладам; узловатая палица — трудности, встающие на пути добродетельной жизни; выбор тернистого пути — сознательное предпочтение добродетели лёгкому пороку",
+          "what_en": "Hercules, clad in a lion's skin, a knotted club in his right hand and three golden apples of the Hesperides in his left",
+          "meaning_en": "The three apples signify heroic virtue's three kinds: mastering anger, temperance, and contempt for worldly pleasures; the gnarled club, the hardships besetting a virtuous life from every side; the choice of the thorny path, the deliberate preference of virtue over easy vice"
+        }
+      ],
+      "text_ru": [
+        "В Риме, на Капитолии, видна позолоченная бронзовая статуя, изображающая Геркулеса, облачённого в львиную шкуру. В правой руке он держит палицу, а в левой — три золотых яблока, сорванных в саду Гесперид: этим означены три рода героических Добродетелей, приписываемых этому укротителю чудовищ. Первая — укрощение гнева, вторая — Умеренность, а третья — великодушное презрение к сладострастию и мирским наслаждениям. В соответствии с этим по праву говорят, что человек наделён совершенно героической Добродетелью, когда он подчинил себе неупорядоченные страсти силою столь высокого и совершенного рассудка, что он возносит его над уделом смертных и делает почти подобным Ангелам.",
+        "Палица, что ему дают, шероховата и вся в узлах, дабы показать тем самым великие трудности, со всех сторон встающие перед теми, кто желает жить добродетельно. Поэты измышляют по этому поводу, что Геркулес, будучи ещё юным, оказался в пустынном месте, где было два пути: один усеян розами, а другой тернием, и долго рассуждал сам с собою о том, который избрать, и выбрал наконец последний, сколь бы тернист он ни был, здраво рассудив, что это путь Добродетели.",
+        "Тот же Геркулес неизменно изображается совершенным образцом высочайших качеств великих Героев на большинстве древних медалей; как на медали Императора Гордиана, где он носит львиную шкуру на одной руке, а палицу на другой; на медали Максимина, где он опирается на голову лани, некогда служившей ему для упражнения его Доблести; на медали Геты, где он изображён воздевающим руки, дабы сразить дракона, стерёгшего яблоки Гесперид; и на медали Траяна, где он держит палицу в правой руке, а в левой ведёт на поводке льва и вепря."
+      ],
+      "text_fr": [
+        "IL se voit dans Rome au Capitole vne statuë de bronze doré, representant Hercule vestu de la peau d'vn lion. Il tient vne massuë de la main droite, & de la gauche trois pommes d'or, cueillies dans le jardin des Hesperides: par où sont signifiées trois sortes de Vertus heroïques, attribuées à ce dompteur de monstres. La premiere est la moderation de la colere, la seconde la Temperance, & la troisiéme le genereux mépris des voluptez & des delices du monde. Conformément à cecy l'on a raison de dire, que l'homme est doué d'vne Vertu parfaitement heroïque, quand il a soûmis à soy les passions déreglées, par vne si haute & si parfaite raison, qu'elle l'eleve au dessus de la condition des mortels, & le rend presque semblable aux Anges.",
+        "La massuë qu'on luy donne est raboteuse & pleine de nœuds, pour montrer par là les grandes difficultez qui se presentent de toutes parts à ceux qui veulent vivre vertueusement. Les Poëtes feignent à ce propos, qu'Hercule encore jeune s'estant trouvé dans vn lieu desert où il y avoit deux chemins; l'vn semé de roses, & l'autre d'épines, fut long-temps à deliberer à par soy, touchant celuy qu'il devoit prendre, & choisit enfin le dernier, quelque épineux qu'il fust, jugeant bien par là que c'estoit celuy de la Vertu.",
+        "Le mesme Hercule est toûjours representé pour vn parfait modele des plus hautes qualitez des grands Heros, en la plus part des anciennes medailles; comme en celle de l'Empereur Gordian, où il porte la peau d'vn lion en l'vn de ses bras, & en l'autre vne massuë; en celle de Maximin, où il s'appuye sur la teste d'vne biche, qui servit autrefois à exercer sa Vertu; en celle de Geta, où il est peint haussant les bras pour assommer le dragon qui gardoit les pommes des Hesperides; & en celle de Trajan, où il tient vne massuë de la main droite, & en la gauche vn lion & vn sanglier qu'il mene en lesse."
+      ],
       "en": "Heroic Virtue",
-      "group_en": "V"
+      "group_en": "V",
+      "scans": [
+        "p1-168-1.jpg",
+        "p1-168-2.jpg",
+        "p1-168-3.jpg"
+      ]
     },
     {
       "id": "p1-169",
@@ -8468,12 +8520,40 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-169.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с гирляндой листьев на голове, изображением Эмеробиона на груди, веткой шиповника с латинской надписью в правой руке и каракатицей в левой",
+          "meaning": "Гирлянда увядающих листьев — быстротечность юности и жизненных сил; Эмеробион, живущий один день, — краткость человеческой жизни как «темницы одного дня»; роза, распускающаяся и увядающая быстрее всех цветов, — хрупкость смертной красоты; каракатица, вечно преследуемая, — беззащитность человека перед временем и чужой злой волей",
+          "what_en": "A woman with a garland of leaves on her head, the figure of a mayfly on her breast, a briar-rose branch inscribed in Latin in her right hand, and a cuttlefish in her left",
+          "meaning_en": "The garland of withering leaves signifies the swift passing of youth and vigor; the mayfly, living but a day, the brevity of human life as \"a one-day prison\"; the rose, blooming and fading faster than any flower, mortal beauty's fragility; the ever-hunted cuttlefish, man's defenselessness against time and others' ill will"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде женщины с гирляндой из разных листьев на голове, с изображением Эмеробиона, маленького летучего насекомого, на груди, с веткой шиповника в правой руке, вокруг коей написаны слова: Vna dies aperit, conficit vna dies, то есть «Она распускается и проходит в один день», и с рыбой, именуемой каракатицей, в левой.",
+        "Человек столь влюблён в жизнь, что, подобно Теофрасту, сердится на то, что она не столь долга, как у оленей и ворон; утверждая, что, будь это так, он совершеннее познал бы искусства и науки, тогда как ему приходится умирать именно тогда, когда он начинает получать о них некое понятие: но Саллюстий держится мнения прямо противоположного и говорит, что эти жалобы напрасны и что человеческой природе недостаёт скорее усердия, нежели времени. Этим он хочет показать, что человеку времени даже с избытком, если он пожелает должным образом употребить его на обретение знаний и Добродетелей. Это, впрочем, не мешает тому, что жизнь действительно коротка, и что, если хорошенько её рассмотреть, она исчезает, как сон.",
+        "Для этого эта фигура увенчана гирляндой листьев, ибо с той же лёгкостью, с какой их сбивает ветер, малейшая случайность повергает нас наземь: так что мы вправе сказать, что наш возраст, сколь бы цветущ он ни был, незаметно теряет свою силу, подобно тому как листья деревьев вмиг иссыхают и лишаются прекраснейшей своей зелени.",
+        "Эмеробионом же, являющимся разновидностью довольно крупной мухи, умирающей едва ли не в тот же миг, как родилась, равным образом означена краткая продолжительность жизни, которая, по слову Антифонта, есть темница одного-единственного дня, поскольку в нём заключены все прочие.",
+        "Эту хрупкость смертных лучше всего можно уподобить розе, что рождается последней из цветов, а умирает первой; отчего один великий ум, утешая своего друга в смерти его дочери, сказал: Но она была из мира, где прекраснейшие вещи / Имеют худший удел; / И, как роза, прожила она столько, сколько живут розы, — / Пространство одного утра. И по той же причине Папа Лев XI избрал этот цветок своим девизом с надписью: Sic florui (так я цвёл).",
+        "Что до каракатицы, что она держит в руке, то это, вслед за Аристотелем, показывает, что как эта рыба живёт недолго и вечно подстерегаема то рыбаками, то другими рыбами, ведущими с нею непрестанную войну, дабы её поглотить, — так и человек не может быть уверен, что долго пробудет в мире, и становится добычею либо других людей, избавляющихся от него различными способами, либо насилия времени, пожирающего всё; ибо, как весьма удачно сказал только что упомянутый мною г-н Малерб: Время неприметным своим течением / Влечёт нас к концу наших дней; / Наше мудрое поведение в том и состоит, чтобы, / Не ропща на это, / Утешаться его бегом, / Разумно им распоряжаясь."
+      ],
+      "text_fr": [
+        "ON la represente par vne femme, qui a sur la teste vne guirlande de diverses feuilles, sur le sein la figure de l'Hemorobion, petit animal volatil, en la main droite vne branche de rosier, avec ces mots à l'entour, Vna dies aperit, conficit vna dies, c'est à dire, Elle s'épanouit & se passe en vn jour, & en la gauche le poisson appellé seche.",
+        "L'homme est si amoureux de la vie, qu'à l'exemple de Theophraste, il se fâche de ce qu'elle n'est aussi longue que celle des cerfs & des corneilles; alleguant que si cela estoit, il en sçauroit plus parfaitement les arts & les sciences, au lieu qu'il luy faut mourir sur le point qu'il commence d'en avoir quelque teinture: mais Salluste est bien d'opinion contraire, & dit que ces plaintes se font en vain, & que l'industrie manque à la nature humaine plûtost que le temps. Par où il veut faire voir, que l'homme n'en a que trop, s'il le veut bien employer à l'acquisition des disciplines & des Vertus. Cela n'empesche pas toutefois que la vie ne soit courte en effet, & qu'à la bien considerer, elle ne s'évanoüisse comme vn songe.",
+        "Cette figure est pour cet effet couronnée d'vne guirlande de feuilles, parce qu'avec la mesme facilité que le vent les abat, le moindre accident nous porte par terre: tellement que nous pouvons bien dire, que nostre âge quelque verd qu'il soit, perd sa vigueur insensiblement, comme on voit les feuilles des arbres devenir seiches en vn instant, & se dépouiller de leur plus belle verdure.",
+        "Par l'Hemorobion, qui est vne espece de mouche assez grande, & aussi-tost morte que née, nous est pareillement signifiée la courte durée de la vie, qui comme dit Antiphon, est la prison d'vn seul jour, puisque tous les autres y sont compris.",
+        "Cette fragilité des mortels ne peut mieux estre comparée qu'à la rose, qui naist la derniere des fleurs, & meurt la premiere; ce qui fait dire à vn grand esprit, ayant à consoler son amy sur la mort de sa fille, Mais elle estoit du monde, où les plus belles choses / Ont le pire destin; / Et rose elle a vescu ce que vivent les roses, / L'espace d'vn matin. Et ce fut pour la mesme raison, que le Pape Leon XI. prit cette fleur pour devise, avec ce mot, Sic florui.",
+        "Quant à la seche qu'elle tient en main, c'est pour faire voir avec Aristote, que comme ce poisson ne dure guere, & se voit toûjours guetté, ou par les pescheurs, ou par les autres poissons, qui luy font vne continuelle guerre pour l'engloutir; l'homme de mesme ne peut s'asseurer d'estre long-temps dans le monde, & devient la proye ou des autres hommes, qui s'en defont par divers moyens, ou de la violence du temps qui devore tout; car comme a fort bien dit M. Malherbe que je viens de citer, Le temps d'vn insensible cours / Nous porte à la fin de nos jours; / C'est à nostre sage conduite, / Sans murmurer de ce faut, / De nous consoler de sa fuite, / En le ménageant comme il faut."
+      ],
       "en": "Short Life",
-      "group_en": "V"
+      "group_en": "V",
+      "scans": [
+        "p1-169-1.jpg",
+        "p1-169-2.jpg",
+        "p1-169-3.jpg"
+      ]
     },
     {
       "id": "p1-170",
@@ -8486,12 +8566,33 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-170.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Старая женщина в одеянии старинного покроя, опирающаяся правой рукой на оленью голову и держащая ворону в левой руке",
+          "meaning": "Ветхое одеяние — прожитые долгие годы; олень — по преданию, животное исключительного долголетия (свыше трёхсот лет), подтверждённого историческими примерами с ошейниками; ворона — птица ещё большего долголетия, латинское прозвище которой «Annosa» (многолетняя) означает преклонный возраст",
+          "what_en": "An old woman in antique dress, resting her right hand on a stag's head and holding a crow in her left",
+          "meaning_en": "Her old-fashioned robe signifies many years lived; the stag, an animal traditionally held exceptionally long-lived (over three hundred years), confirmed by historical examples of collared stags; the crow, an even longer-lived bird, called by the Latins \"Annosa\" (full of years), signifying advanced age"
+        }
+      ],
+      "text_ru": [
+        "Её облик — облик старой женщины, одетой на старинный лад, которая правой рукой опирается на голову оленя, а в левой держит ворону.",
+        "Её ветхое одеяние являет собой круговорот многих прожитых ею лет; а олень — её долгую продолжительность; ибо это животное, по свидетельству Плиния, живёт более трёхсот лет, что правдоподобно подтверждается Историей, повествующей, что Агафокл, тиран Сиракузский, будучи на охоте, убил оленя с ошейником, на коем были начертаны слова: Diomedes Artemides. Но наши Летописи свидетельствуют о памяти куда более недавней: что Карл Шестой, находясь в Санлисском лесу, поймал другого оленя, чей золочёный бронзовый ошейник нёс надпись: Hoc Caesar me donavit (сие даровал мне Цезарь); что довольно ясно показывает, сколь долог век оленей, — будь то потому, что природа, как говорят некоторые, научила их искусству омолаживаться, или потому, что она сама пожелала особой милостью продлить их век долее, нежели у людей нынешних столетий.",
+        "Но дабы одни лишь четвероногие не обладали этим преимуществом, она пожелала даровать его и птицам, в особенности вороне, живущей ещё дольше, нежели олень; отчего она и зовётся у латинян Annosa (многолетняя); вот почему мы и поместили её в левую руку этой фигуры."
+      ],
+      "text_fr": [
+        "SA figure est celle d'vne vieille femme vestuë à l'antique, qui de la main droite s'appuye sur la teste d'vn cerf, & tient de la gauche vne corneille.",
+        "Par sa vieille robe est demontrée la revolution qui s'est faite de plusieurs années qu'elle a veuës; & par le cerf, sa longue durée; car cet animal, au rapport de Pline, vit plus de trois cens ans, comme il se prouve vray-semblablement par l'Histoire, qui dit qu'Agathocles tyran de Syracuse estant à la chasse, tua vn cerf, qui avoit vn collier où estoient écrits ces mots, Diomedes Artemides. Mais nos Annales font foy de bien plus recente memoire, que Charles sixiéme estant en la forest de Senlis en prit vn autre, dont le collier de bronze doré avoit pour inscription ces paroles, Hoc Cæsar me donavit; ce qui fait voir assez clairement combien est longue la vie des cerfs, soit que la nature, comme disent quelques-vns, leur ait appris l'art de se rajeunir, ou qu'elle mesme ait voulu que par vne grace particuliere leur âge s'étendist plus loin que celuy des hommes des siecles modernes.",
+        "Mais afin que les seuls quadrupedes n'eussent pas cet avantage, elle a voulu le donner aussi aux volatils, principalement à la corneille, qui vit encore plus long-temps que ne fait le cerf; d'où vient qu'elle est appellée des Latins, Annosa; & voila pourquoy nous en avons mis vne en la main gauche de cette figure."
+      ],
       "en": "Long Life",
-      "group_en": "V"
+      "group_en": "V",
+      "scans": [
+        "p1-170-1.jpg",
+        "p1-170-2.jpg"
+      ]
     },
     {
       "id": "p1-171",
