@@ -11279,12 +11279,35 @@
       "group_fr": "Diverses Fortunes",
       "group_page": "74",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-59-overview.jpg",
+        "p2-59.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Общее вступление (без отдельного номера) о природе Фортуны вообще; на иллюстрации — общий вид страницы со всеми четырьмя медальонами «Diverses Fortunes»; затем крылатая женщина, сидящая, опирающаяся на колесо и держащая рог изобилия",
+          "meaning": "Слепота Фортуны — её безразличие к заслугам людей; колесо — непостоянство и переменчивость судьбы; рог изобилия — щедро расточаемые ею блага; (альтернатива) небесный глобус — непрестанное, круговое движение, в коем пребывает Фортуна",
+          "what_en": "A general introduction (without its own number) on the nature of Fortune in general; the illustration shows the full page with all four \"Diverse Fortunes\" roundels; then a winged woman seated, resting on a wheel and holding a cornucopia",
+          "meaning_en": "Fortune's blindness signifies her indifference to human merit; the wheel, the inconstancy and fickleness of fate; the cornucopia, the blessings she lavishes; (an alternative) the celestial globe, the ceaseless circular motion Fortune is always in"
+        }
+      ],
+      "text_ru": [
+        "Некоторые называют Фортуной эту так называемую действующую силу, посредством коей звёзды своим влиянием по-разному приводят в движение нравы и природу людей, волнуя чувственное влечение и даже разумное, однако не принуждая и не применяя в своём действии никакого насилия. Но мы принимаем здесь Фортуну за тот случайный исход, что может встретиться в вещах, редко совершающихся вопреки намерению действующего: отсюда по большей части проистекает людям либо великое благо, либо великое зло, и они, не имея разумения постичь, что здесь, внизу, ничто не совершается без намерения некоего действователя, безумно внушают себе, будто некая мнимая Богиня, именуемая Фортуной, производит те действия, которые, по их словам, зависят лишь от неё. Все Авторы изображали её слепой, дабы показать, что она равнодушно обходится со всеми людьми, ненавидя или любя их как ей заблагорассудится, и что, одним словом, случайно она их одолжает или обделяет. Отсюда слишком часто случается, что она благоволит тем, кто заслуживал бы скорее кары, нежели награды, и, напротив, делает несчастными тех, кого их собственные заслуги должны были бы сделать блаженными. Но, в конце концов, надлежит признать, вопреки мнению этих Язычников, доныне разделяемому невежественной чернью, что Божественный Промысел, как учит нас святой Фома, один лишь правит и управляет всеми вещами мира.",
+        "На медали Антонина Геты она видна изображённой сидящей и опирающейся правой рукой на колесо, держа в левой руке рог изобилия. Что не нуждается в более пространном объяснении, поскольку ясно видно, что одно есть знак её непостоянства, а другое — благ, коими она расточительна.",
+        "Надлежит добавить здесь, что вместо колеса некоторые влагают ей в руку небесный глобус, чем показано, что как глобус пребывает в непрестанном движении, так и Фортуна равным образом никогда не имеет покоя, но, меняя облик ежечасно, то унижает одних, то с удовольствием возвышает других."
+      ],
+      "text_fr": [
+        "QUELQUES-UNS appellent Fortune cette vertu dite operatrice, par le moyen de laquelle les estoiles par leurs influences font agir diversement les humeurs & la nature des hommes, en ébranlant l'appetit sensitif, & mesme le raisonnable, sans le forcer neanmoins, & sans qu'en son operation il y ait aucune sorte de violence. Mais nous prenons icy la Fortune pour cet evenement casuel qui se peut rencontrer dans les choses qu'on voit rarement avenir contre l'intention de l'agent: d'où il arrive la plûpart du temps ou beaucoup de bien, ou beaucoup de mal aux hommes, qui pour n'avoir pas l'esprit de comprendre que rien ne se peut faire icy bas sans l'intention de quelque agent, se font accroire follement qu'une imaginaire Deesse qu'on nomme Fortune, produise ces effets qu'ils disent ne dépendre que d'elle. Tous les Autheurs nous l'ont peinte aveugle, pour montrer qu'elle traite indifferemment tous les hommes, en les haïssant ou les aimant comme bon luy semble, & qu'en un mot c'est fortuitement qu'elle les oblige ou desoblige. D'où il n'avient que trop souvent qu'elle favorise ceux qui meriteroient mieux des supplices que des recompenses; & qu'au contraire elle rend miserables ceux que leurs propres merites devroient rendre bienheureux. Mais aprés tout il faut avoüer, contre l'opinion de ces Payens, qui est suivie encore aujourd'huy du vulgaire ignorant, que la divine Providence, comme nous l'enseigne S. Thomas, regle & gouverne elle seule toutes les choses du monde.",
+        "Dans une medaille d'Antonin Geta elle se voit peinte assise, & s'appuye du bras droit sur une roüe, tenant de la main gauche une corne d'abondance. Ce qui n'a pas besoin d'une plus ample explication, puisqu'il se voit clairement que l'un est une marque de sa legereté, & l'autre des biens dont elle est prodigue.",
+        "Il faut ajoûter icy qu'au lieu de la roüe, quelques-uns luy mettent en main un globe celeste, par où il est demontré que comme le globe est dans un continuel mouvement, la Fortune de mesme n'a jamais de repos, mais changeant de face à toute heure, tantost elle abaisse les uns, tantost elle prend plaisir à élever les autres."
+      ],
       "en": "Good Fortune",
-      "group_en": "Various Fortunes"
+      "group_en": "Various Fortunes",
+      "scans": [
+        "p2-59-1.jpg",
+        "p2-59-2.jpg",
+        "p2-59-3.jpg"
+      ]
     },
     {
       "id": "p2-60",
@@ -11297,12 +11320,29 @@
       "group_fr": "Diverses Fortunes",
       "group_page": "74",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-60.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина приятной наружности с рогом изобилия в левой руке, ласкающая резвящегося рядом Купидона",
+          "meaning": "Рог изобилия и ласкаемый Купидон — милости и благосклонность, которые Фортуна оказывает влюблённым",
+          "what_en": "A pleasant-looking woman with a cornucopia in her left hand, caressing a cupid frolicking beside her",
+          "meaning_en": "The cornucopia and the caressed cupid signify the favors Fortune bestows upon lovers"
+        }
+      ],
+      "text_ru": [
+        "Её изображают женщиной приятной наружности, держащей в левой руке рог изобилия и ласкающей правой Купидона, резвящегося вокруг неё. Что нельзя понимать иначе, нежели как милости, коими Фортуна наделяет влюблённых."
+      ],
+      "text_fr": [
+        "ELLE est peinte en femme de bonne mine, qui de la main gauche tient une corne d'abondance, & caresse de la droite un Cupidon qui se jouë à l'entour d'elle. Ce qui ne peut s'entendre autrement que des faveurs dont la Fortune fait part aux amans."
+      ],
       "en": "Fortune of Love",
-      "group_en": "Various Fortunes"
+      "group_en": "Various Fortunes",
+      "scans": [
+        "p2-60-1.jpg",
+        "p2-60-2.jpg"
+      ]
     },
     {
       "id": "p2-61",
@@ -11315,12 +11355,33 @@
       "group_fr": "Diverses Fortunes",
       "group_page": "74",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-61.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в корабле без мачт и руля, с изорванными ветром парусами",
+          "meaning": "Корабль — человеческая жизнь, стремящаяся к надёжной гавани; сломанные мачты и изорванные паруса — беспокойство мира, где людей постоянно треплют бури, чаще всего вызванные их же дурным поведением",
+          "what_en": "A woman adrift in a ship without masts or rudder, its sails torn by the wind",
+          "meaning_en": "The ship signifies human life, ever seeking a safe harbor; the broken masts and torn sails, the restlessness of a world where men are forever battered by storms, most often of their own poor making"
+        }
+      ],
+      "text_ru": [
+        "Здесь она является в облике женщины, оставленной в корабле без мачт и без руля, чьи паруса все изорваны неистовством ветров.",
+        "Под кораблём должно разуметь человеческую жизнь, в течение коей нет человека, который не стремился бы пристать к какой-либо надёжной гавани.",
+        "Парус и сломанные мачты суть символы малого покоя, что есть в мире, где люди всегда бьются с какой-либо бурей, чаще всего приключающейся от дурного управления."
+      ],
+      "text_fr": [
+        "ELLE paroist icy sous la figure d'une femme, exposée dans un navire qui n'a ny mats ny timon, & dont les voiles ont esté toutes rompuës par la violence des vents.",
+        "Par le navire se doit entendre la vie humaine, durant laquelle il n'est point d'homme qui ne tasche d'aborder à quelque port asseuré.",
+        "La voile & les mats rompus, sont les symboles du peu de repos qu'il y a dans le monde, où les hommes sont toûjours battus de quelque orage, qui n'arrive le plus souvent que par la mauvaise conduite."
+      ],
       "en": "Bad Fortune",
-      "group_en": "Various Fortunes"
+      "group_en": "Various Fortunes",
+      "scans": [
+        "p2-61-1.jpg",
+        "p2-61-2.jpg"
+      ]
     },
     {
       "id": "p2-62",
@@ -11333,12 +11394,31 @@
       "group_fr": "Diverses Fortunes",
       "group_page": "74",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-62.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатая обнажённая женщина, возлежащая во весь рост, с рулём у ног",
+          "meaning": "Эта «Золотая Фортуна» — особый благоприятствующий образ, который некоторые Императоры, по преданию, держали изображённым в своих покоях всю жизнь как личный залог удачи",
+          "what_en": "A winged, reclining naked woman stretched full length, a rudder at her feet",
+          "meaning_en": "This \"Golden Fortune\" is the specific favorable image that certain Emperors reportedly kept pictured in their chambers throughout their lives and reigns as a personal talisman of luck"
+        }
+      ],
+      "text_ru": [
+        "Её видно на древней медали Императора Адриана, представляющей прекрасную женщину с крыльями на спине, возлежащую во весь рост, с рулём у ног.",
+        "Под этой Фортуной должно разуметь ту, о коей упоминается в истории некоторых Императоров, имевших полное её изображение в своих покоях на протяжении всей своей жизни и правления."
+      ],
+      "text_fr": [
+        "ELLE se voit dans une ancienne medaille de l'Empereur Adrian, representant une belle femme, avec des aisles au dos, & couchée tout de son long, avec un timon à ses pieds.",
+        "Par cette Fortune se doit entendre celle dont il est fait mention dans l'histoire de quelques Empereurs, qui en avoient entierement l'image dans leur chambre durant le cours de leur vie & de leur empire."
+      ],
       "en": "Golden Fortune",
-      "group_en": "Various Fortunes"
+      "group_en": "Various Fortunes",
+      "scans": [
+        "p2-62-1.jpg",
+        "p2-62-2.jpg"
+      ]
     },
     {
       "id": "p2-63",
