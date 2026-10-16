@@ -9476,12 +9476,39 @@
       "group_fr": "Les quatre Vents",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-17.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юный чернокожий Мавр, сеющий цветы на своём пути, с восходящим Солнцем позади и облаками под ногами",
+          "meaning": "Чёрный цвет — сходство с эфиопами Востока, откуда дует этот ветер; крылья — лёгкость и быстрота всех ветров; восходящее Солнце — предвестие дождя, по Вергилию; сеемые цветы — атрибут, общий для всех четырёх ветров",
+          "what_en": "A winged young black Moor sowing flowers along his path, a rising sun behind him and clouds beneath his feet",
+          "meaning_en": "His black color signifies kinship with the Ethiopians of the East, whence this wind blows; the wings, the lightness and swiftness common to all winds; the rising sun, a portent of rain, per Virgil; the sown flowers, an attribute shared by all four winds"
+        }
+      ],
+      "text_ru": [
+        "То, что Поэты измыслили об Эоле, которого назвали Царём Ветров, говоря, что он выпускал их по своей воле из их тёмных пещер, целиком основано на правдоподобии. Ибо и впрямь Диодор Сицилийский в шестой книге своей Истории сообщает, что Эол был великим Царём, правившим на островах, названных по его имени Эоловыми, что находятся в Сицилийском море: и поскольку этот весьма добрый и весьма справедливый Государь научил мореходов пользованию парусами и познал природу Ветров тщательным их наблюдением, он был прозван Царём, что дало повод для баснословного сказания, сложенного о нём впоследствии.",
+        "Хотя многие Авторы, писавшие о Ветрах, упоминают их во множестве, нам предстоит говорить о четырёх главных, дующих с четырёх частей Света, которых Поэт Овидий в особенности описал в своих Метаморфозах.",
+        "Первый из Ветров — Восточный, изображаемый юным Мавром с крыльями на спине, с восходящим Солнцем позади, облаками под ногами, и с различными цветами в руках, которые он сеет повсюду на своём пути.",
+        "Его изображают чёрным цветом за сходство с Эфиопами, что живут на Востоке, откуда он приходит. Так его и изображали Древние.",
+        "Крылья его — символ его лёгкости; этого будет довольно для объяснения и всех прочих Ветров, коим они даны.",
+        "Что до Солнца, что видно позади него, оно помещено здесь как предвестие времени, в которое этому Ветру надлежит дуть; как замечает Вергилий, говоря, что Восточный Ветер предвещает нам дождь."
+      ],
+      "text_fr": [
+        "CE que les Poëtes ont feint d'Eole, qu'ils ont nommé Roy des Vents, disant qu'il les laschoit quand il luy plaisoit de leurs obscures cavernes, est entierement fondé sur la vray-semblance. Car en effet Diodore Sicilien au livre 6. de son Histoire rapporte, qu'Eole fut vn grand Roy qui regna dans les isles appellées de son nom Eoliennes, qui sont sur la mer de Sicile: & dautant que ce Prince tres-bon & tres-juste, apprit aux mariniers l'vsage des voiles, & qu'il connoissoit la nature des Vents par vne soigneuse observation qu'il en avoit faite, il en fut appellé Roy, & donna lieu au fabuleux recit que l'on en fit depuis.",
+        "Or bien qu'il soit fait mention de plusieurs Vents par les Autheurs qui en ont écrit, si est-ce qu'il y en a quatre principaux dont nous avons à parler, qui soufflent des quatre parties du Monde, & que le Poëte Ovide a particulierement décrits dans ses Metamorphoses.",
+        "Le premier des Vents est celuy d'Orient, representé par vn jeune More, qui a des aisles au dos, vn Soleil levant derriere luy, des nuages sous ses pieds, & aux mains diverses fleurs qu'il va semant en tous les lieux par où il passe.",
+        "Il est peint de couleur noire, à raison de sa ressemblance avec les Ethiopiens, qui sont en Levant d'où il vient. Et c'est ainsi que les Anciens nous l'ont figuré.",
+        "Ses aisles sont le symbole de sa legereté; ce qui suffira pour servir d'explication à tous les autres à qui l'on en donne.",
+        "Quant au Soleil qui se voit derriere luy, il est mis icy pour vn pronostic du temps auquel ce Vent doit souffler; comme le remarque Virgile quand il dit, Que le Vent d'Orient nous presage la pluye."
+      ],
       "en": "The East Wind",
-      "group_en": "The Four Winds"
+      "group_en": "The Four Winds",
+      "scans": [
+        "p2-17-1.jpg",
+        "p2-17-2.jpg"
+      ]
     },
     {
       "id": "p2-18",
@@ -9494,12 +9521,34 @@
       "group_fr": "Les quatre Vents",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-18.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юноша с крыльями на спине и на ногах, дующий цветами из уст",
+          "meaning": "Крылья на ногах — чрезвычайная быстрота Западного ветра; производимые дыханием цветы и венок — его влажный, но благотворный для растений нрав, по свидетельству Филострата и Боккаччо",
+          "what_en": "A winged youth with wings on his back and feet, breathing forth flowers from his mouth",
+          "meaning_en": "The winged feet signify the West Wind's extreme swiftness; the flowers breathed forth and his garland, his cold, moist yet plant-nurturing nature, per Philostratus and Boccaccio"
+        }
+      ],
+      "text_ru": [
+        "У него, как и у всех прочих, крылья на спине, и даже на ногах, в знак его чрезвычайной быстроты.",
+        "Некоторые изображают его также производящим цветы силою своего дыхания; и даже дают ему за это гирлянду, как замечает Филострат в своих Картинах, где говорит, что когда этот Ветер начинает подниматься, лебеди поют от того нежнее.",
+        "К чему добавлю, что Боккаччо в четвёртой книге своей Генеалогии Богов говорит, что хотя этот Ветер холодного и влажного сложения, он тем не менее своим нравом производит растения и цветы, за что его и венчают гирляндой."
+      ],
+      "text_fr": [
+        "IL a des aisles au dos comme tous les autres, & mesme à ses pieds, pour vne marque de son extreme vistesse.",
+        "Quelques-vns le peignent aussi en action de produire des fleurs par la force de son haleine; & mesme ils luy en donnent vne guirlande, comme l'observe Philostrate en ses plattes Peintures, où il dit que lorsque ce Vent vient à se lever, les cygnes en chantent plus doucement.",
+        "A quoy j'adjoûte que Bocace, dans le livre 4. de sa Genealogie des Dieux dit, qu'encore que ce Vent soit de complexion froide & humide, il ne laisse pas toutefois par son temperament de produire les plantes & les fleurs, dont pour cet effet on le couronne."
+      ],
       "en": "The West Wind",
-      "group_en": "The Four Winds"
+      "group_en": "The Four Winds",
+      "scans": [
+        "p2-18-1.jpg",
+        "p2-18-2.jpg",
+        "p2-18-3.jpg"
+      ]
     },
     {
       "id": "p2-19",
@@ -9512,12 +9561,29 @@
       "group_fr": "Les quatre Vents",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-19.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крепкий крылатый муж с раздутыми щеками, выдыхающий облако и держащий лейку, из которой льётся вода",
+          "meaning": "Раздутые щёки — великая сила южного ветра; лейка с льющейся водой — дождь, который он обычно приносит",
+          "what_en": "A sturdy winged man with puffed cheeks, breathing out a cloud and holding a watering vessel pouring forth water",
+          "meaning_en": "The puffed cheeks signify the South Wind's great force; the pouring vessel, the rain it customarily brings"
+        }
+      ],
+      "text_ru": [
+        "Его изображают крепким мужем с раздутыми щеками, держащим в руке лейку, дабы показать с одной стороны, что сила его велика, а с другой — что он обычно приносит дождь."
+      ],
+      "text_fr": [
+        "ON le represente en homme robuste, qui a les joüës enflées, & tient vn arrosoir en main, pour faire voir d'vn costé que sa violence est grande, & de l'autre qu'il amene ordinairement la pluye."
+      ],
       "en": "The South Wind",
-      "group_en": "The Four Winds"
+      "group_en": "The Four Winds",
+      "scans": [
+        "p2-19-1.jpg",
+        "p2-19-2.jpg"
+      ]
     },
     {
       "id": "p2-20",
@@ -9530,12 +9596,29 @@
       "group_fr": "Les quatre Vents",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-20.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый муж, возлежащий на тёмных тучах и инее",
+          "meaning": "Тёмные тучи и иней — холодная и сухая природа северного ветра (Бизы), меняющаяся на влажную при прохождении через знойные южные области",
+          "what_en": "A winged man reclining upon dark clouds and frost",
+          "meaning_en": "The dark clouds and frost signify the North Wind's cold, dry nature, which turns moist as it passes through the torrid southern regions"
+        }
+      ],
+      "text_ru": [
+        "Он возлежит, вытянувшись, на тёмных тучах и на инее, дабы показать тем самым, как говорит Боккаччо в своей Генеалогии Богов, что этот Ветер по природе своей холоден и сух; хотя, однако, чтобы дойти до нас, он проходит через Знойный Пояс и, переменив с тех пор свою природу к Югу, покрывает воздух тучами, кои затем разрешаются дождём."
+      ],
+      "text_fr": [
+        "IL est couché de son long sur des nuages obscurs, & sur des frimas, pour montrer par là, comme dit Boccace dans sa Genealogie des Dieux, que ce Vent est naturellement froid & sec; bien que toutefois pour venir jusques à nous, il passe par la Zone Torride, & que changeant depuis de nature vers le Midy, il couvre l'air de nuages, qui viennent depuis à se resoudre en pluye."
+      ],
       "en": "The North Wind (Bise)",
-      "group_en": "The Four Winds"
+      "group_en": "The Four Winds",
+      "scans": [
+        "p2-20-1.jpg",
+        "p2-20-2.jpg"
+      ]
     },
     {
       "id": "p2-21",
