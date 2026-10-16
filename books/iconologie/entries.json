@@ -10136,12 +10136,56 @@
       "group_fr": "Les Solstices & les Equinoxes",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-33.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Обнажённый юноша двадцати пяти лет в пурпурном покрывале, с гирляндой колосьев, кругом с девятью звёздами над головой, шаром (на три четверти светлым) в правой руке и Раком в левой, с разноцветными крылышками на ногах",
+          "meaning": "Нагота и пурпур — наибольший летний зной; поза отступления — поворот солнца вспять от Тропика Рака; круг с девятью звёздами — Тропик Рака; светлый на три четверти шар — долгие дни и короткие ночи; знак Рака — поворотная точка солнцеворота; крылышки на ногах (три белых, одно чёрное) — круговое движение времени и преобладание дня над ночью",
+          "what_en": "A naked twenty-five-year-old youth in a purple veil, garlanded with wheat ears, a nine-starred circle above his head, a globe (three-quarters light) in his right hand and a crab in his left, with mismatched winged sandals",
+          "meaning_en": "The nakedness and purple signify the summer's greatest heat; his backward stance, the sun's turning back from the Tropic of Cancer; the nine-starred circle, the Tropic of Cancer itself; the three-quarters-light globe, the long days and short nights; the crab, the solstice's turning point; the winged feet (three white, one black), time's circular motion and day's dominance over night"
+        }
+      ],
+      "text_ru": [
+        "Его изображают здесь в виде юноши двадцати пяти лет, совершенно обнажённого, за исключением срамных частей, прикрытых пурпурным покрывалом. Он готов отступить назад, увенчан гирляндой колосьев и носит на голове большой круг бирюзовой сини, на коем начертаны девять звёзд. В левой руке он держит довольно большой шар, тёмный в нижней части, а в правой — Рака. Примечательно ещё, что на ногах у него четыре малых крыла в виде крылышек на пятках, из коих два белых на правой ноге, а на левой одно белое и одно чёрное.",
+        "Под словом Солнцестояния должно разуметь те времена, когда Солнце ближе всего, а равно и дальше всего от нас: одно — Летнее Солнцестояние, что бывает 21 июня, а другое — Зимнее, 21 декабря. Называют его Солнцестоянием, ибо тогда Солнце не идёт далее и имеет два круга, ограничивающих его путь, — один к Арктическому Полюсу, другой к Антарктическому, каждый из коих отстоит от своего Полюса на шестьдесят шесть градусов, а от Экватора — на двадцать четыре. К чему надлежит прибавить, что они делят свои сферы на две неравные части, именуемые Тропическими Кругами, то есть обращениями или возвратами; ибо тогда Солнце, находясь в первой точке Рака, описывает вышеназванный круг в движении Небосвода, последний в северной части, который и зовётся кругом Летнего Солнцестояния. Отсюда и то, что, вместо того чтобы прежде приближаться к нам, оно впредь удаляется, доколе не достигнет точки Козерога, описывая другой, последний круг в движении Небосвода, к Антарктическому Полюсу, именуемый кругом Зимнего Солнцестояния.",
+        "Свойство вышеназванных кругов — отмечать Солнцестояния в наибольшем отклонении Солнца (как было сказано) в первом градусе Рака и Козерога.",
+        "Летнее Солнцестояние так называется потому, что, находясь в первой точке Рака и будучи ближе всего к нам, оно приносит жарчайшую из всех пор года; к тому же в это время — самый длинный день и самая короткая ночь года. Когда же оно оказывается в первой точке Козерога, его именуют Зимним Солнцестоянием; в это время Солнце, удалённое от нас настолько, насколько возможно, этим удалением вызывает наступление холодной поры, и тогда у нас самая долгая ночь и самый короткий день года.",
+        "Летнее Солнцестояние изображают юношей двадцати пяти лет, ибо с тех пор как Солнце пришло от первой точки Овна к точке Рака, оно совершило четвёртый свой путь.",
+        "Его нагота и пурпурное покрывало суть символы величайшего зноя года.",
+        "Он в позе отступающего, ибо Солнце не останавливается, но, напротив, отступает с тех пор, как коснулось Экваториального Круга.",
+        "Круг на его голове, где видны девять звёзд, именуется Тропиком Рака; и с полным основанием его помещают ему на голову, ибо Солнце в это время ближе всего к нам, и Солнцестояние наступает, когда оно касается вышеназванного круга.",
+        "Он держит шар в правой руке, поскольку Солнце в это время находится со стороны Севера, являющегося правой частью Мира.",
+        "Три светлые четверти шара означают, что дни долги, а ночи коротки в это время; что происходит от особого действия Солнца.",
+        "Он держит Рака в левой руке, поскольку это животное — один из двенадцати Знаков Зодиака, и Солнце равным образом отступает и поворачивает вспять.",
+        "Малые крылья на его ногах означают движение Времени. Ибо, по мнению некоторых Философов, Время есть не что иное, как круговое и последовательное движение. Так оно последовательно возвращает времена года, как Лето после Весны, а Зима после Осени; так что каждая пора года, возвращаясь таким чередом, производит свои особые действия.",
+        "Три белых крыла показывают, что день тем длиннее, чем короче и скоротечнее ночь, означенная чёрным крылом.",
+        "Гирлянда колосьев помещена лишь для того, чтобы отметить различие, существующее между Зимним и Летним Солнцестоянием."
+      ],
+      "text_fr": [
+        "ON le represente icy par la figure d'vn jeune homme âgé de vingt-cinq ans, & qui est tout nud, à la reserve des parties honteuses qu'il a couvertes d'vn voile de couleur de pourpre. Il est en action de rebrousser en arriere, est couronné d'vne guirlande d'épics, & porte dessus la teste vn grand cercle de bleu turquin, où sont gravées neuf estoiles. Il tient de la main gauche vn globe assez grand, qui est obscur par en bas; & de la droite vne Ecrevice. Il est encore à remarquer qu'il a aux pieds quatre petites aisles en forme de talonnieres, dont il y en a deux blanches au pied droit, & au gauche vne blanche & l'autre noire.",
+        "Par le mot de Solstices se doivent entendre les temps auxquels le Soleil est le plus proche, & pareillement plus eloigné de nous: l'vn est le Solstice d'Esté, qui se fait le 21. jour de Juin; & l'autre celuy d'Hyver, qui est le 21. jour de Decembre. On l'appelle Solstice, parce qu'alors le Soleil ne passe pas plus avant, & qu'il a deux cercles qui limitent sa carriere, l'vn vers le Pole Arctique, l'autre vers l'Antarctique, chacun desquels est éloigné de son Pole de soixante-six degrez, & de l'Equinoxial de vingt-quatre. A quoy il faut adjoûter qu'ils divisent leurs spheres en deux parties inégales, qu'on appelle Cercles Tropiques, c'est à dire conversions ou retours; car alors le Soleil se trouvant au premier point de l'Ecrevice, fait le cercle susdit dans le mouvement du Firmament, & le dernier en la partie septentrionale, qui est celuy que l'on appelle cercle du Solstice d'Esté. D'où il arrive qu'au lieu que par le passé il s'approchoit de nous, il s'en éloigne à l'avenir, iusques à ce qu'il arrive au point du Capricorne, faisant l'autre dernier cercle dans le mouvement du Firmament, & vers le Pole Antarctique, qui est celuy que l'on appelle cercle du Solstice d'Hyver.",
+        "Le propre des cercles susdits est de distinguer les Solstices dans le plus grand declin du Soleil (comme il a esté dit) au premier degré de l'Ecrevice & du Capricorne.",
+        "Le Solstice d'Esté est ainsi appellé, à cause que se trouvant dans le premier point de l'Ecrevice, & le plus prés qu'il sçauroit estre de nous, il ramene la plus chaude de toutes les saisons; joint qu'en ce temps-là est le plus grand jour, & la moindre nuit de l'année. Mais lors qu'il se rencontre au premier point du Capricorne, il est nommé Solstice d'Hyver; auquel temps le Soleil éloigné de nous autant qu'il peut l'estre, est cause par cet éloignement que la froide saison arrive, & c'est alors que nous avons la plus grande nuit, & le moindre jour de l'année.",
+        "On peint le Solstice d'Esté en jeune homme de vingt-cinq ans, parce que depuis que le Soleil est arrivé du premier point du Mouton à celuy de l'Ecrevice, il a fait la quatriéme course.",
+        "Sa nudité & son voile de couleur de pourpre, sont les symboles des plus grandes chaleurs de l'année.",
+        "Il est en posture de rebrousser chemin, à cause que le Soleil ne s'arreste point, & qu'au contraire il recule depuis qu'il a touché le Cercle Equinoxial.",
+        "Le cercle qu'il a sur sa teste, où se voyent neuf estoiles, est nommé le Tropique du Cancer; & c'est avec raison qu'on les luy met sur sa teste, à cause que le Soleil est en ce temps-là plus proche de nous, & que le Solstice se fait quand il vient à toucher le cercle susdit.",
+        "Il tient un globe de la main droite, dautant que le Soleil est en ce temps-là du costé du Septentrion, qui est la partie droite du Monde.",
+        "Les trois quartiers lumineux du globe signifient que les jours sont longs, & les nuits courtes en ce temps-là; ce qui avient par un particulier effet du Soleil.",
+        "Il tient une Ecrevice de la main gauche, dautant que cet animal est un des douze Signes du Zodiaque, & que le Soleil de mesme recule & tourne en arriere.",
+        "Les petites aisles de ses pieds signifient le mouvement du Temps. Car, selon quelques Philosophes, le Temps n'est autre chose qu'un mouvement circulaire & successif. Aussi ramene-t-il les saisons consecutivement, comme l'Esté aprés le Printemps, & l'Hyver aprés l'Automne; tellement que chaque saison retournant ainsi par maniere de succession, produit ses effets particuliers.",
+        "Les trois aisles blanches montrent que le jour est dautant plus long, que la nuit denotée par l'aisle noire se trouve courte & de peu de durée.",
+        "La guirlande d'épics n'est mise au reste que pour marquer la difference qu'il y a entre le Solstice d'Hyver & celuy d'Esté."
+      ],
       "en": "The Summer Solstice",
-      "group_en": "The Solstices and Equinoxes"
+      "group_en": "The Solstices and Equinoxes",
+      "scans": [
+        "p2-33-1.jpg",
+        "p2-33-2.jpg",
+        "p2-33-3.jpg"
+      ]
     },
     {
       "id": "p2-34",
@@ -10154,12 +10198,49 @@
       "group_fr": "Les Solstices & les Equinoxes",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-34.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Старец в меховом одеянии, с кругом (с Козерогом и двенадцатью звёздами) у ног, шаром (на четверть светлым) в левой руке, козой под правой рукой и крылышками на ногах (три чёрных, одно белое)",
+          "meaning": "Старость и мех — наибольший холод года; круг с Козерогом — Тропик Козерога; шар на четверть светлый — долгие ночи и короткие дни зимнего солнцестояния; коза — животное высот, подобное пути начинающего восходить солнца; крылышки (белое на правой ноге) — неравенство дня и ночи",
+          "what_en": "An old man in furred robes, a circle (with Capricorn and twelve stars) at his feet, a globe (one-quarter light) in his left hand, a goat under his right arm, and winged feet (three black, one white)",
+          "meaning_en": "His age and furs signify the year's greatest cold; the circle with Capricorn, the Tropic of Capricorn; the one-quarter-light globe, the long nights and short days of the winter solstice; the goat, a creature of heights like the sun beginning to climb again; the winged feet (white on the right), the inequality between day and night"
+        }
+      ],
+      "text_ru": [
+        "Он является нам в облике старца, облачённого в меховую одежду. У ног его виден круг наподобие венца бирюзовой сини, посреди коего знак Козерога, а по всей окружности круга начертаны двенадцать звёзд.",
+        "В левой руке он держит шар, или, если угодно, глобус, четвёртая часть коего светла, а весь остальной тёмен.",
+        "Под мышкой он несёт козу, а на ногах — четыре малых крыла, из коих на правой ноге одно белое, другое чёрное, а на левой оба чёрные.",
+        "Этого мужа изображают старцем по многим основаниям, ибо Солнце, удалившись от первой точки Овна, дабы приблизиться к Козерогу, оказывается совершившим тогда три четверти своего пути.",
+        "Ему дают меховую одежду по причине холода, в эту пору наибольшего во всём году.",
+        "Ноги его стоят в круге, посреди коего приметны знак Козерога и двенадцать звёзд, по причине удаления Солнца к Антарктическому Полюсу; и такой круг именуется Тропиком Козерога.",
+        "Шаром, что он держит в левой руке, три части коего тёмны, а четвёртая светла, является, что во время этого солнцестояния ночь длиннее, а день короче, нежели во всякое иное время года.",
+        "Он держит этот шар в левой руке, ибо Солнце тогда обращено к тому же месту, то есть к Антарктическому Полюсу.",
+        "Коза, что он держит под правой рукой, есть животное, вполне подобающее вышеназванному Знаку; ибо как она обычно пасётся на самых высоких скалах, так и Солнце в это время начинает восходить над нашим горизонтом.",
+        "Что до малых крыльев на его ногах, они означают, как мы сказали, движение Времени, три чёрные части коего означают Ночь, а белая — День. А то, что эту белую помещают на правой ноге, показывает неравенство, существующее между тем и другим, поскольку свет предшествует тьме."
+      ],
+      "text_fr": [
+        "IL nous est representé par un vieillard, qui est couvert d'une robe fourrée. A ses pieds se voit un cercle en façon de couronne de bleu turquin, au milieu duquel est le Signe du Capricorne, & tout à l'entour du cercle sont gravées douze estoiles.",
+        "De la main gauche il tient une boule, ou si vous voulez un globe, dont la quatriéme partie est lumineuse, & tout le reste obscur.",
+        "Il porte sous son bras une chevre, & aux pieds quatre petites aisles, dont l'une, à sçavoir celles du pied droit, est blanche, & l'autre noire, & celles du gauche sont toutes deux noires.",
+        "Cet homme est peint en vieillard avec beaucoup de raisons, à cause que le Soleil s'estant retiré du premier point du Mouton pour s'approcher du Capricorne, se trouve avoir fait alors les trois parties de son voyage.",
+        "On luy donne une robe fourrée, à raison du froid qui est en cette saison-là plus grand qu'en toute l'année.",
+        "Il a les pieds dans un cercle, au milieu duquel le Signe du Capricorne & douze estoiles sont remarquables, à cause de l'éloignement du Soleil vers le Pole Antarctique; & tel cercle est nommé le Tropique du Capricorne.",
+        "Par le globe qu'il tient de la main gauche, duquel les trois parties sont obscures, & la quatriéme lumineuse, il est demontré que durant ce solstice la nuit est plus longue, & le jour plus court qu'en tout le reste de l'année.",
+        "Il tient ce globe de la main gauche, parce que le Soleil est alors tourné du mesme endroit, c'est à dire vers le Pole Antarctique.",
+        "La chevre qu'il tient sous le bras droit, est un animal entierement convenable au Signe susdit; car comme elle repaist ordinairement au plus haut des rochers, le Soleil de mesme commence en ce temps-là de se lever sur nostre horizon.",
+        "Pour le regard des petites aisles qu'on luy met aux pieds, elles signifient, comme nous avons dit, le mouvement du Temps, dont les trois parties noires denotent la Nuit, & la blanche le Jour. Que si l'on met celle-cy au pied droit, c'est pour montrer l'inégalité qui se trouve entre l'un & l'autre, dautant que la lumiere precede les tenebres."
+      ],
       "en": "Winter Solstice",
-      "group_en": "The Solstices and Equinoxes"
+      "group_en": "The Solstices and Equinoxes",
+      "scans": [
+        "p2-34-1.jpg",
+        "p2-34-2.jpg",
+        "p2-34-3.jpg",
+        "p2-34-4.jpg"
+      ]
     },
     {
       "id": "p2-35",
@@ -10172,12 +10253,45 @@
       "group_fr": "Les Solstices & les Equinoxes",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-35.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша среднего роста в наполовину белом, наполовину чёрном одеянии, с поясом бирюзовой сини в звёздах, бараном под правой рукой, гирляндой цветов в левой и разноцветными крылышками на ногах",
+          "meaning": "Белый и чёрный цвета одеяния — равенство дня и ночи; звёздный пояс — экваториальный круг, окружающий перводвигатель; баран и гирлянда цветов — вступление солнца в знак Овна, несущее весну; крылышки на ногах — лёгкость и быстрый бег времени",
+          "what_en": "A youth of middling height in a robe half white, half black, a star-strewn turquoise sash, a ram under his right arm, a flower garland in his left hand, and winged feet of mismatched color",
+          "meaning_en": "The white and black of his robe signify the equality of day and night; the starry sash, the equatorial circle girding the first mover; the ram and flower garland, the sun's entry into Aries bringing spring; the winged feet, the lightness and swift course of time"
+        }
+      ],
+      "text_ru": [
+        "Это Равноденствие являет нам юноша среднего роста, облачённый в белое одеяние с одной стороны и чёрное с другой. Пояс, что он носит, бирюзовой сини, довольно широкий, без узла и усеянный малыми звёздами. Под правой рукой у него баран, в левой руке — гирлянда цветов, а у ног — два крылышка, одно белое, другое чёрное.",
+        "Именем Равноденствия означено время, отмечающее равенство дня и ночи. Это случается дважды в году: 21 марта, когда Солнце, вступая в знак Овна, возвращает нам Весну; и 23 сентября, когда Осень приносит нам зрелость плодов.",
+        "Его изображают юным, ибо он приходится на начало Марта, месяца, коим Древние начинали год. Иные полагают ещё, что тогда же совершилось сотворение Мира и Страсти нашего Спасителя; к чему прибавляют, что в это же время, в первом градусе Овна, было создано Солнце, виновник этого самого Равноденствия. По каковой причине Древние не без основания говорили, что этот месяц давал начало году; ибо он действительно обладает большими преимуществами, нежели все прочие, не только по причинам, что мы только что привели, но и потому, что из него самого выводят Эпакты, Воскресные Буквы и прочие небесные вычисления.",
+        "Его изображают стройным, ибо он уравнивает дни и ночи, поскольку верно, что Экваториальный круг делит сферу пополам, равно как и Полюса Мира.",
+        "Белый цвет его одеяния означает день, а чёрный — ночь, наступающую следом как менее благородную.",
+        "Его пояс небесного цвета, на коем видны некие звёзды, представляет круг, образующий само Равноденствие и окружающий перводвигатель.",
+        "Баран, что он держит на правой руке, означает, что Солнце, вступая в этот знак, образует Весеннее Равноденствие; что показано гирляндой цветов, вложенной в руку этой фигуры.",
+        "Что до крылышек на его ногах, они суть символы лёгкости времени и бега тех же Знаков, белое крылышко на правой ноге означая скорость дня, а чёрное на левой — скорость ночи."
+      ],
+      "text_fr": [
+        "CET Equinoxe nous est figuré par un jeune homme de moyenne taille, vestu d'une robe blanche d'un costé, & de l'autre noire. La ceinture qu'il porte est de bleu turquin, un peu large, sans nœud, & semée de petites estoiles. Il a sous le bras droit un mouton, en la main gauche une guirlande de fleurs, & à ses pieds deux ailerons, dont l'un est blanc, & l'autre noir.",
+        "Par le nom d'Equinoxe est signifié le temps qui marque l'égalité du jour & de la nuit. Ce qui arrive deux fois l'année, à sçavoir le 21. de Mars, quand le Soleil entrant dans le signe du Mouton, nous ramene le Printemps; & le 23. de Septembre, où l'Automne nous donne ses fruits en leur maturité.",
+        "Il est peint jeune, à cause qu'il se rencontre à l'entrée de Mars, qui est le mois par où les Anciens commençoient l'année. Quelques-uns tiennent encore que ce fut alors qu'avint la creation du Monde, & la Passion de nostre Sauveur; à quoy ils aioûtent qu'en ce mesme temps & au premier degré du Mouton, fut creé le Soleil autheur du mesme Equinoxe. A raison dequoy les Anciens n'ont pas dit hors de propos, que ce mois donnoit commencement à l'année; car en effet il a de plus grands privileges que tous les autres, non seulement pour les causes que nous venons d'alleguer, mais encore parce que de luy-mesme l'on tire les Epactes, les Lettres Dominicales, & les autres supputations celestes.",
+        "Il est representé de juste taille, parce qu'il rend égaux les jours & les nuits, estant veritable que le cercle Equinoxial divise la sphere par le milieu, & pareillement les Poles du Monde.",
+        "La couleur blanche de son habillement nous marque le jour, & la noire la nuit, qui vient aprés pour estre moins noble.",
+        "Sa ceinture de couleur celeste où se voyent quelques estoiles, represente le cercle qui fait le mesme Equinoxe, & qui environne le premier mobile.",
+        "Le mouton qu'il tient sur son bras droit, signifie que le Soleil entrant dans ce signe, forme l'Equinoxe du Printemps; comme il est demonstré par la guirlande de fleurs qu'on a mise en main à cette figure.",
+        "Quant aux ailerons qu'il porte à ses pieds, ils sont les symboles de la legereté du temps, & de la course des mesmes Signes, l'aileron blanc du pied droit marquant la vitesse du jour, & le noir du gauche celle de la nuit."
+      ],
       "en": "The Spring Equinox",
-      "group_en": "The Solstices and Equinoxes"
+      "group_en": "The Solstices and Equinoxes",
+      "scans": [
+        "p2-35-1.jpg",
+        "p2-35-2.jpg",
+        "p2-35-3.jpg",
+        "p2-35-4.jpg"
+      ]
     },
     {
       "id": "p2-36",
@@ -10190,12 +10304,33 @@
       "group_fr": "Les Solstices & les Equinoxes",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-36.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Муж зрелого возраста со звёздным поясом, держащий знак Весов (с двумя наполовину белыми, наполовину чёрными шарами) в правой руке и плоды в левой, с крылышками у ног",
+          "meaning": "Зрелый возраст — совершенство осенней поры; весы с двумя равными бело-чёрными шарами — точное равенство дня и ночи в осеннее равноденствие; плоды — созревший урожай, который приносит эта пора",
+          "what_en": "A man in his prime with a starry sash, holding the sign of Libra (with two half-white, half-black globes) in his right hand and fruits in his left, with winged feet",
+          "meaning_en": "His maturity signifies the perfection of the autumn season; the scale with its two equal black-and-white globes, the exact equality of day and night at the autumn equinox; the fruits, the ripened harvest this season brings"
+        }
+      ],
+      "text_ru": [
+        "Его облик — облик мужа зрелого возраста, облачённого так же, как и предыдущий, с таким же поясом — кругом бирюзовой сини, усеянным звёздами. В правой руке он держит знак Весов, на чашах коих два шара равной точности, у каждого из коих одна половина бела, а другая черна; а в левой он несёт вперемешку различные плоды, с двумя крылышками у ног.",
+        "Объяснение, что я дал относительно круга, крыльев и одеяния предыдущей фигуры, послужит и для этой. Скажу лишь, что тот, кто являет это Равноденствие, пребывает в зрелом возрасте, дабы показать совершенство этой поры, в кою, как полагают многие, Господь наш сотворил Мир. Но, оставив это любопытство в стороне, довольно нам знать, что двадцать третьего Сентября совершается Равноденствие, приносящее нам Осень вместе со зрелостью плодов.",
+        "Весы — один из двенадцати Знаков Зодиака, в который Солнце вступает в месяце Сентябре. Тогда и совершается Равноденствие, то есть равенство дня и ночи. Что являют нам два шара, наполовину белых, наполовину чёрных, обращённые в разные стороны друг от друга и уравновешенные с точностью."
+      ],
+      "text_fr": [
+        "SA figure est celle d'un homme d'âge viril, vestu de mesme que le precedent, & qui a comme luy pour ceinture un cercle de bleu turquin parsemé d'estoiles. Il tient de la main droite le signe de la Balance, dans le bassin de laquelle sont deux globes d'égale justesse, une moitié de chaque globe estant blanche, & l'autre noire; & de la gauche il porte confusément divers fruits, avec deux aisles à ses pieds.",
+        "L'explication que j'ay donnée du cercle, des aisles & de l'habillement de la figure precedente, servira pour celle-cy. Je diray seulement que celuy qui represente cet Equinoxe est d'âge viril, pour montrer la perfection de ce temps-là, auquel plusieurs tiennent que nostre Seigneur crea le Monde. Mais cette curiosité laissée à part, il nous suffit de sçavoir qu'au vingt-troisiéme de Septembre se fait l'Equinoxe qui nous amene l'Automne, avec la maturité des fruits.",
+        "La Balance est un des douze Signes du Zodiaque, où le Soleil entre au mois de Septembre. C'est alors que se fait l'Equinoxe, c'est à dire l'egalité du jour & de la nuit. Ce qui nous est demontré par les deux globes moitié blancs, moitié noirs, tournez à rebours l'un de l'autre, & balancez avec justesse."
+      ],
       "en": "The Autumn Equinox",
-      "group_en": "The Solstices and Equinoxes"
+      "group_en": "The Solstices and Equinoxes",
+      "scans": [
+        "p2-36-1.jpg",
+        "p2-36-2.jpg"
+      ]
     },
     {
       "id": "p2-37",
