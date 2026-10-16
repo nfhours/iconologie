@@ -4206,6 +4206,433 @@
       "legend_fr": "MASILIA / SIGEBERTVS",
       "legend_ru": "MASILIA / SIGEBERTVS",
       "legend_en": "MASILIA / SIGEBERTVS"
+    },
+    {
+      "id": "pl8-1",
+      "part": 1,
+      "plate": 8,
+      "num": "1",
+      "fr": "Buste / Croix sur barre — Sigebert",
+      "ru": "Бюст / крест на перекладине — Сигеберт",
+      "en": "Bust / Cross on a bar — Sigebert",
+      "page": "61",
+      "group": "VIII",
+      "group_fr": "Planche VIII",
+      "group_en": "VIII",
+      "group_page": "61",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl8-1.jpg"
+      ],
+      "plate_img": "pl8-full.jpg",
+      "bbox": [
+        9.36,
+        14.59,
+        37.12,
+        14.1
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LES Médailles de cette Planche, désignées par les numéros 1 & 5, sont d'un module moindre que les Gravures; le reste de la Planche est dans les proportions naturelles.",
+        "La Médaille indiquée par le numéro 1, représente d'un côté le Buste d'un Prince, la tête ornée d'un Diadême en perles, avec les deux bouts décorés de même; le Surtout ou la Chlamyde, avec des bandes d'étoffe ou des galons qui l'ornent: on lit autour de la Médaille, MASILIA; au revers, une Croix posée sur une barre en travers; un globe en dessous; d'un côté de la Croix, quatre points & deux de l'autre: ces points se trouvent placés sous les lettres MA, abréviation de Massilia: on lit autour SISABERTVS REX. Sigebert Ier. & Sigebert II eurent également la Souveraineté de Marseille: il est difficile d'assigner précisément auquel de ces deux Princes on doit rapporter cette monnoie, n'y ayant d'ailleurs aucun caractère ni époque indiquée qui puisse donner un indice certain si elle appartient à l'un plutôt qu'à l'autre, & les vêtemens ayant conservé le même costume sous le règne de ces deux Princes."
+      ],
+      "text_ru": [
+        "Монеты, помещённые на этой Таблице под номерами 1 и 5, меньшего размера, чем гравюры; остальная часть таблицы — в натуральную величину.",
+        "Монета под номером 1 представляет с одной стороны бюст государя, голова украшена жемчужной диадемой, оба конца которой украшены так же; накидка, или хламида, с полосами ткани или галунами, её украшающими: вокруг монеты читается MASILIA; на обороте — крест, поставленный на поперечной перекладине; под ним — сфера; с одной стороны креста — четыре точки, с другой — две: эти точки расположены под буквами MA, сокращением от Massilia: вокруг читается SISABERTVS REX. Сигеберт I и Сигеберт II оба обладали суверенитетом над Марселем: трудно точно определить, к какому из этих двух государей следует отнести эту монету, поскольку нет ни одного признака или указания на эпоху, которые могли бы дать верное указание, принадлежит ли она одному, а не другому, а одежды сохраняли один и тот же покрой при правлении обоих этих государей."
+      ],
+      "text_en": [
+        "The medals of this Plate, designated by numbers 1 and 5, are of a smaller size than the engravings; the rest of the Plate is in natural proportions.",
+        "The medal indicated by number 1 shows on one side the Bust of a Prince, the head adorned with a pearl Diadem, with the two ends likewise decorated; the Overgarment or Chlamys, with bands of cloth or braid adorning it: around the medal one reads MASILIA; on the reverse, a Cross set on a crossbar; a globe beneath; on one side of the Cross, four dots and two on the other: these dots are placed under the letters MA, an abbreviation of Massilia: around it one reads SISABERTVS REX. Sigebert I and Sigebert II both held the Sovereignty of Marseille: it is difficult to say precisely to which of these two Princes this coin should be attributed, there being besides no feature or indicated period that could give a certain clue whether it belongs to the one rather than the other, the garments having kept the same style under the reign of both these Princes."
+      ],
+      "obverse_fr": "buste d'un Prince, diadème de perles aux deux bouts décorés, surtout ou chlamyde à bandes d'étoffe, légende MASILIA",
+      "obverse_ru": "бюст государя, жемчужная диадема с украшенными концами, накидка или хламида с полосами ткани, легенда MASILIA",
+      "obverse_en": "bust of a Prince, pearl diadem with decorated ends, an overgarment or chlamys with cloth bands, legend MASILIA",
+      "reverse_fr": "croix posée sur une barre en travers, globe en dessous, quatre points d'un côté et deux de l'autre sous les lettres MA, légende SISABERTVS REX",
+      "reverse_ru": "крест на поперечной перекладине, сфера снизу, четыре точки с одной стороны и две с другой под буквами MA, легенда SISABERTVS REX",
+      "reverse_en": "cross on a crossbar, a globe beneath, four dots on one side and two on the other under the letters MA, legend SISABERTVS REX",
+      "motifs": [
+        "cross"
+      ],
+      "legend_fr": "MASILIA / SISABERTVS REX",
+      "legend_ru": "MASILIA / SISABERTVS REX",
+      "legend_en": "MASILIA / SISABERTVS REX"
+    },
+    {
+      "id": "pl8-2",
+      "part": 1,
+      "plate": 8,
+      "num": "2",
+      "fr": "Buste / Croix — Clotaire Ier ou II",
+      "ru": "Бюст / крест — Хлотарь I или II",
+      "en": "Bust / Cross — Clotaire I or II",
+      "page": "62",
+      "group": "VIII",
+      "group_fr": "Planche VIII",
+      "group_en": "VIII",
+      "group_page": "61",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl8-2.jpg"
+      ],
+      "plate_img": "pl8-full.jpg",
+      "bbox": [
+        8.91,
+        34.97,
+        34.43,
+        12.15
+      ],
+      "attrs": [],
+      "text_fr": [
+        "La Médaille suivante désignée par le nombre 2, est une des plus intéressantes de ce Recueil, en ce qu'elle est une preuve certaine que la Ville de Marseille a toujours été regardée comme un État distinct & séparé du reste de la Provence, avec laquelle elle n'a jamais fait corps. Cette Médaille est une monnoie de Clotaire Ier. ou de Clotaire II; rien n'indique auquel de ces Princes on doit l'attribuer: ils ont également possédé la Souveraineté de Marseille, & notre Médaille ne renfermant aucune marque qu'elle appartienne plutôt à l'un qu'à l'autre de ces Princes, il est naturel de s'abstenir de toute conjecture à cet égard. Cette Médaille porte d'un côté ces mots à l'entour: CLOTARIVS REX; dans le champ, la croix avec les deux lettres MA: preuve qu'elle a été frappée dans notre Ville, ces deux lettres étant constamment l'abréviation du mot Massilia, selon le sentiment de plusieurs Savans.",
+        "On voit au bas de la Croix les lettres suivantes CONOB. Ces lettres qui se retrouvent sur plusieurs monnoies de nos Rois de la première & seconde Race, sur nombre de celles des Empereurs Romains, dès le temps de Constantin le Grand, ont long-temps exercé les Antiquaires, & malgré leurs recherches, il n'a été donné jusqu'à nos jours, aucune explication qui lève tous les doutes à ce sujet. Les uns [& c'est le plus grand nombre], ont cru que ces lettres signifioient que la monnoie avoit été marquée à Constantinople, en les expliquant par ces deux mots: Constantinopoli obsignata. Cette explication n'a pas été adoptée par d'autres, en ce qu'on trouve ces mêmes lettres sur les monnoies de l'Empereur Honorius, & sur quantité d'autres de ses Successeurs, lesquelles constamment n'ont pas été marquées à Constantinople. D'autres, enfin, ont prétendu que les Empereurs de Constantinople ayant communiqué le titre d'Auguste à Clovis Ier., ainsi que Grégoire de Tours le remarque, ses Successeurs firent mettre le mot CONOB sur leurs monnoies, afin de faire connoître les liaisons & l'affinité qu'il y avoit entre eux & les Empereurs d'Orient, & pour que leurs monnoies passassent dans toutes les Provinces de l'Empire. Cette conjecture essuye encore des contradictions, en ce que ces lettres CONOB se trouvent également sur plusieurs monnoies d'or des anciens Rois d'Espagne, qui ne furent jamais honorés du titre d'Auguste par les Empereurs d'Orient. M. Leblanc, dans son traité historique des monnoies de France, fait une réflexion bien judicieuse à ce sujet: « Il me semble, dit-il, que si les Empereurs d'Occident, & les Rois de France faisoient mettre le mot CONOB sur leurs monnoies, afin qu'elles eussent cours parmi les sujets des Empereurs de Constantinople, on devroit les voir sur toutes leurs monnoies, car je ne vois point d'apparence qu'on eût voulu que les unes eussent eu cet avantage plutôt que les autres. »",
+        "Je ne suis entré dans ces détails, que pour prouver que ces lettres CONOB n'avoient aucun trait à Marseille. Le revers de cette Médaille porte dans le champ la croix avec un globe: dans le bas, les deux lettres MA, placées ainsi qu'au premier côté; & autour, cette légende, CIVITATIS MASILIE; ce qui prouve que nos Rois regardant Marseille comme une Souveraineté particulière, prenoient le titre de Roi de Marseille; car c'est dans ce sens qu'il faut lire les mots empreints sur cette monnoie CLOTARIVS REX CIVITATIS MASILIE, ainsi qu'on lit sur la plupart de nos monnoies actuelles: LVDOVICVS DEI GRATIA d'un côté, & de l'autre, FRANC. ET NAVAR. REX, qui n'a d'autre explication que celle de Louis par la grâce de Dieu, Roi de France & de Navarre. Les Marseillois ont toujours été jaloux de conserver à leur Patrie ce titre de Souveraineté particulière, jusques à sa réunion définitive à la Monarchie Françoise; ce Privilège honorifique est trop glorieux à cette Ville, pour qu'elle ne tâche de le conserver toujours, étant une marque certaine de son importance, & qu'il affranchit ses Administrateurs de la subordination que les Procureurs du Pays seroient en droit d'exiger, sans ce Privilège précieux: marque de la confiance de nos Souverains, qui n'ont assujetti l'administration politique de cette Seigneurie, qu'au seul Secrétaire d'État, ayant ce Département."
+      ],
+      "text_ru": [
+        "Следующая монета, обозначенная номером 2, — одна из самых интересных в этом Собрании, поскольку она служит верным доказательством того, что город Марсель всегда рассматривался как отдельное, обособленное от остального Прованса государство, с которым он никогда не составлял единого целого. Эта монета — чекан Хлотаря I либо Хлотаря II; ничто не указывает, кому из этих государей её следует приписать: оба они в равной мере обладали сувереном над Марселем, и поскольку наша монета не содержит никакого признака, по которому она принадлежала бы скорее одному, чем другому из этих государей, естественно воздержаться от каких-либо домыслов на этот счёт. Эта монета несёт с одной стороны надпись по кругу: CLOTARIVS REX; в поле — крест с двумя буквами MA: доказательство того, что она была отчеканена в нашем Городе, поскольку эти две буквы неизменно служат сокращением слова Massilia, по мнению многих учёных.",
+        "Внизу креста видны следующие буквы: CONOB. Эти буквы, встречающиеся на многих монетах наших королей первой и второй династии, а также на множестве монет римских императоров, начиная со времён Константина Великого, долгое время занимали антиквариев, и, несмотря на их изыскания, до наших дней не было дано ни одного объяснения, снимающего все сомнения на этот счёт. Одни [и таких большинство] полагали, что эти буквы означают, что монета была отчеканена в Константинополе, толкуя их как два слова: Constantinopoli obsignata (отмечено в Константинополе). Это объяснение не было принято другими, поскольку те же буквы встречаются на монетах императора Гонория и на множестве монет его преемников, которые заведомо не чеканились в Константинополе. Наконец, третьи утверждали, что, поскольку императоры Константинополя даровали титул Августа Хлодвигу I, как отмечает Григорий Турский, его преемники стали помещать слово CONOB на своих монетах, дабы показать связь и родство, существовавшие между ними и императорами Востока, и чтобы их монеты имели хождение во всех провинциях Империи. Эта догадка также наталкивается на противоречия, поскольку буквы CONOB равным образом встречаются на многих золотых монетах древних королей Испании, которые никогда не были удостоены титула Августа императорами Востока. Г-н Леблан в своём историческом трактате о монетах Франции делает весьма здравое замечание по этому поводу: «Мне представляется, — говорит он, — что если бы императоры Запада и короли Франции помещали слово CONOB на своих монетах, чтобы те имели хождение среди подданных константинопольских императоров, то их следовало бы видеть на всех их монетах, ибо я не вижу никаких оснований полагать, что одним хотели предоставить это преимущество скорее, чем другим».",
+        "Я вдался в эти подробности лишь затем, чтобы доказать, что буквы CONOB не имели никакого отношения к Марселю. Оборот этой монеты несёт в поле крест со сферой: внизу — те же две буквы MA, что и на первой стороне; а вокруг — легенда CIVITATIS MASILIE; это доказывает, что наши короли, рассматривая Марсель как особый суверенитет, принимали титул короля Марселя; ибо именно в этом смысле следует читать слова, отчеканенные на этой монете: CLOTARIVS REX CIVITATIS MASILIE, — так же, как на большинстве наших нынешних монет читается: LVDOVICVS DEI GRATIA с одной стороны, а с другой — FRANC. ET NAVAR. REX, что не имеет иного толкования, кроме как «Людовик, Божией милостью король Франции и Наварры». Марсельцы всегда ревностно стремились сохранить за своим Отечеством этот титул особого суверенитета вплоть до его окончательного присоединения к Французской монархии; эта почётная привилегия слишком славна для этого Города, чтобы он не стремился сохранять её всегда, ибо она — верный знак его значимости и освобождает его правителей от того подчинения, которого вправе были бы требовать Прокураторы края, не будь этой драгоценной привилегии: знак доверия наших государей, которые не подчинили политическое управление этим владением никому, кроме единственного Государственного Секретаря, ведающего этим департаментом."
+      ],
+      "text_en": [
+        "The following medal, designated by number 2, is one of the most interesting in this Collection, in that it is certain proof that the City of Marseille was always regarded as a State distinct and separate from the rest of Provence, with which it never formed a single body. This medal is a coin of Clotaire I or of Clotaire II; nothing indicates to which of these Princes it should be attributed: they both equally held the Sovereignty of Marseille, and since our medal contains no mark that it belongs to one rather than the other of these Princes, it is natural to refrain from any conjecture on this point. This medal bears on one side these words around it: CLOTARIVS REX; in the field, the cross with the two letters MA: proof that it was struck in our City, these two letters being constantly the abbreviation of the word Massilia, in the view of several Scholars.",
+        "At the bottom of the Cross are seen the following letters: CONOB. These letters, found on several coins of our Kings of the first and second Dynasty, and on a number of those of the Roman Emperors from the time of Constantine the Great, have long occupied Antiquarians, and despite their researches, no explanation has been given to this day that removes all doubt on the subject. Some [and this is the greatest number] have believed that these letters signified that the coin had been struck at Constantinople, explaining them by these two words: Constantinopoli obsignata. This explanation has not been adopted by others, in that the same letters are found on the coins of the Emperor Honorius, and on a great many of his Successors, which were certainly not struck at Constantinople. Others, finally, have claimed that the Emperors of Constantinople having conferred the title of Augustus upon Clovis I, as Gregory of Tours notes, his Successors had the word CONOB placed on their coins, in order to make known the ties and affinity there was between them and the Emperors of the East, and so that their coins might pass in all the Provinces of the Empire. This conjecture still meets with contradictions, in that these letters CONOB are likewise found on several gold coins of the ancient Kings of Spain, who were never honored with the title of Augustus by the Emperors of the East. M. Leblanc, in his historical treatise on the coinage of France, makes a very judicious observation on this subject: \"It seems to me,\" he says, \"that if the Emperors of the West, and the Kings of France had the word CONOB placed on their coins so that they might circulate among the subjects of the Emperors of Constantinople, one ought to see them on all their coins, for I see no likelihood that some should have been meant to have this advantage rather than others.\"",
+        "I have gone into these details only to prove that these letters CONOB had no connection to Marseille. The reverse of this medal bears in the field the cross with a globe: at the bottom, the same two letters MA as on the first side; and around it, this legend, CIVITATIS MASILIE; which proves that our Kings, regarding Marseille as a particular Sovereignty, took the title of King of Marseille; for it is in this sense that one must read the words stamped on this coin, CLOTARIVS REX CIVITATIS MASILIE, just as on most of our present coins one reads: LVDOVICVS DEI GRATIA on one side, and on the other, FRANC. ET NAVAR. REX, which has no other explanation than Louis, by the Grace of God, King of France and Navarre. The Marseillais have always been jealous to preserve for their Homeland this title of particular Sovereignty, up until its final union with the French Monarchy; this honorific Privilege is too glorious to this City for it not to strive always to preserve it, being a certain mark of its importance, and because it frees its Administrators from the subordination that the Procurators of the Country would be entitled to demand, without this precious Privilege: a mark of the trust of our Sovereigns, who have subjected the political administration of this Lordship to none but the Secretary of State alone, having this Department."
+      ],
+      "obverse_fr": "buste, légende CHLOTARIVS REX, dans le champ la croix avec les lettres MA et le mot CONOB en exergue",
+      "obverse_ru": "бюст, легенда CHLOTARIVS REX, в поле крест с буквами MA и словом CONOB внизу",
+      "obverse_en": "bust, legend CHLOTARIVS REX, in the field the cross with the letters MA and the word CONOB below",
+      "reverse_fr": "croix, lettres MA, légende CIVITATIS MASILIE",
+      "reverse_ru": "крест, буквы MA, легенда CIVITATIS MASILIE",
+      "reverse_en": "cross, letters MA, legend CIVITATIS MASILIE",
+      "motifs": [
+        "cross"
+      ],
+      "legend_fr": "CHLOTARIVS REX CONOB / CIVITATIS MASILIE",
+      "legend_ru": "CHLOTARIVS REX CONOB / CIVITATIS MASILIE",
+      "legend_en": "CHLOTARIVS REX CONOB / CIVITATIS MASILIE"
+    },
+    {
+      "id": "pl8-3",
+      "part": 1,
+      "plate": 8,
+      "num": "3",
+      "fr": "Tête (laurier) / Croix clechée — époque des Vicomtes",
+      "ru": "Голова (в лавре) / процветший крест — эпоха виконтов",
+      "en": "Head (laurel) / Cross clechée — era of the Viscounts",
+      "page": "66",
+      "group": "VIII",
+      "group_fr": "Planche VIII",
+      "group_en": "VIII",
+      "group_page": "61",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl8-3.jpg"
+      ],
+      "plate_img": "pl8-full.jpg",
+      "bbox": [
+        10.45,
+        50.84,
+        34.43,
+        11.75
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Médaille du temps des Vicomtes, Souverains de Marseille, représentant d'un côté la tête d'un Jeune-homme dans une couronne de laurier, & au revers, une Croix clechée, avec ce mot, MASILIA. Rien n'indique quel est celui des Vicomtes qui est représenté sur cette monnoie: la Croix clechée nous assure seulement qu'elle doit appartenir à un de ces Princes qui en portoient une pareille sur leurs armoiries, ainsi que les Comtes de Toulouse & ceux de Forcalquier. Cette Médaille est rapportée par M. Bouterove, dans ses recherches curieuses des monnoies de France, & par Ruffy, dans son Histoire de Marseille. C'est la seule que j'aye pu recupérer, malgré les plus exactes recherches."
+      ],
+      "text_ru": [
+        "№3. Монета времён Виконтов, суверенов Марселя, представляющая с одной стороны голову Юноши в лавровом венке, а на обороте — процветший крест, со словом MASILIA. Ничто не указывает, который из Виконтов изображён на этой монете: процветший крест лишь уверяет нас, что она должна принадлежать одному из тех государей, что носили подобный крест на своём гербе, — таким, как графы Тулузские и графы Форкалькье. Эта монета упомянута г-ном Бутрувом в его любопытных изысканиях о монетах Франции, а также Рюффи в его «Истории Марселя». Это единственный экземпляр, который мне удалось раздобыть, несмотря на самые тщательные поиски."
+      ],
+      "text_en": [
+        "No. 3. Medal from the time of the Viscounts, Sovereigns of Marseille, showing on one side the head of a Young man within a laurel wreath, and on the reverse, a Cross clechée, with this word, MASILIA. Nothing indicates which of the Viscounts is shown on this coin: the cross clechée only assures us that it must belong to one of those Princes who bore a similar cross on their coat of arms, such as the Counts of Toulouse and those of Forcalquier. This medal is reported by M. Bouterove, in his curious researches on the coinage of France, and by Ruffy, in his History of Marseille. It is the only one I have been able to recover, despite the most exact searches."
+      ],
+      "obverse_fr": "tête d'un jeune homme dans une couronne de laurier",
+      "obverse_ru": "голова юноши в лавровом венке",
+      "obverse_en": "head of a young man within a laurel wreath",
+      "reverse_fr": "croix clechée (с расширяющимися, process концами), légende MASILIA",
+      "reverse_ru": "процветший крест (с расширяющимися концами), легенда MASILIA",
+      "reverse_en": "a cross clechée (with flared ends), legend MASILIA",
+      "motifs": [
+        "cross",
+        "laurel-crown"
+      ],
+      "legend_fr": "MASILIA",
+      "legend_ru": "MASILIA",
+      "legend_en": "MASILIA"
+    },
+    {
+      "id": "pl8-4",
+      "part": 1,
+      "plate": 8,
+      "num": "4",
+      "fr": "Buste / Croix sur barre — Childeric II",
+      "ru": "Бюст / крест на перекладине — Хильдерик II",
+      "en": "Bust / Cross on a bar — Childeric II",
+      "page": "66",
+      "group": "VIII",
+      "group_fr": "Planche VIII",
+      "group_en": "VIII",
+      "group_page": "61",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl8-4.jpg"
+      ],
+      "plate_img": "pl8-full.jpg",
+      "bbox": [
+        14.68,
+        70.66,
+        29.05,
+        9.79
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4. Médaille de Childeric II, Fils de Clovis II, & de Ste. Bathilde: ce Prince y est représenté en Buste; la tête ornée d'un simple Diadême. On lit autour, CHILDERICVS REX; au revers, CIVITATIS MASILIAE; dans le champ, une Croix sur une barre en travers, un globe au bas, & les deux lettres MA, placées à l'ordinaire. Cette Médaille est encore une preuve que sous le règne de Childeric II, Marseille fut toujours regardée comme une Souveraineté particulière, puisque ce Prince prenoit le titre de Roi de cette Ville, dans un exercice aussi public de la Royauté, que celui de la monnoie à son coin. En rapportant cette Médaille au règne de Childeric II, j'ai eu égard aux traits de jeunesse qu'on remarque sur l'Effigie du Prince qui y est empreinte, Childeric II ayant été tué à l'âge de 23 ans, n'ayant par conséquent régné que pendant sa jeunesse: Childeric III qui fut détrôné par Pepin, étant d'un âge plus avancé, il est à présumer que cette Médaille ne peut lui être attribuée; encore moins à Childeric Premier, Père de Clovis, parce que ce dernier Prince étoit Payen, & la Croix dont cette Médaille est ornée, ne sauroit lui convenir par cette raison; d'ailleurs les François ne furent maîtres de Marseille, que par la cession des Ostrogoths. Cette époque ne date que d'après l'établissement de ces premiers dans les Gaules; ce qui est postérieur au règne de Childeric Premier, puisque ce ne fut que son Fils Clovis qui transporta les Francs de la Germanie dans cette partie de l'Europe, la cinquième année de son règne."
+      ],
+      "text_ru": [
+        "№4. Монета Хильдерика II, сына Хлодвига II и святой Батильды: этот государь представлен здесь в виде бюста; голова украшена простой диадемой. Вокруг читается CHILDERICVS REX; на обороте — CIVITATIS MASILIAE; в поле — крест на поперечной перекладине, внизу — сфера, и две буквы MA, расположенные как обычно. Эта монета также служит доказательством того, что при правлении Хильдерика II Марсель по-прежнему рассматривался как особый суверенитет, поскольку этот государь принимал титул короля этого Города в столь же публичном проявлении королевской власти, как чеканка монеты своим штемпелем. Относя эту монету к правлению Хильдерика II, я учитывал юношеские черты, заметные в изображении государя, отчеканенном на ней, — ведь Хильдерик II был убит в возрасте 23 лет и, следовательно, правил лишь в пору своей молодости: Хильдерик III, свергнутый Пипином, был более зрелого возраста, поэтому следует полагать, что эту монету нельзя приписать ему; тем более — Хильдерику I, отцу Хлодвига, поскольку этот последний государь был язычником, и крест, которым украшена эта монета, по этой причине никак не может ему подходить; кроме того, франки стали хозяевами Марселя лишь благодаря уступке остготов. Эта эпоха начинается лишь с утверждения последних в Галлии, что позднее правления Хильдерика I, поскольку лишь его сын Хлодвиг перенёс франков из Германии в эту часть Европы, на пятом году своего правления."
+      ],
+      "text_en": [
+        "No. 4. Medal of Childeric II, Son of Clovis II, and of St. Bathilde: this Prince is shown here in Bust; the head adorned with a plain Diadem. Around it one reads, CHILDERICVS REX; on the reverse, CIVITATIS MASILIAE; in the field, a Cross on a crossbar, a globe at the bottom, and the two letters MA, placed as usual. This medal is further proof that under the reign of Childeric II, Marseille was still regarded as a particular Sovereignty, since this Prince took the title of King of this City, in as public an exercise of Royalty as that of coinage bearing his own die. In attributing this medal to the reign of Childeric II, I took into account the youthful features noticeable in the Effigy of the Prince stamped on it, Childeric II having been killed at the age of 23, and consequently having reigned only during his youth: Childeric III, who was dethroned by Pepin, being of a more advanced age, it is to be presumed that this medal cannot be attributed to him; still less to Childeric I, Father of Clovis, because this latter Prince was a Pagan, and the Cross with which this medal is adorned could not, for this reason, suit him; moreover the French became masters of Marseille only through the cession of the Ostrogoths. This period dates only from the establishment of the latter in Gaul, which is later than the reign of Childeric I, since it was only his Son Clovis who brought the Franks from Germania into this part of Europe, in the fifth year of his reign."
+      ],
+      "obverse_fr": "buste de Childeric II, tête ornée d'un simple diadème, légende CHILDERICVS REX",
+      "obverse_ru": "бюст Хильдерика II, голова украшена простой диадемой, легенда CHILDERICVS REX",
+      "obverse_en": "bust of Childeric II, head adorned with a plain diadem, legend CHILDERICVS REX",
+      "reverse_fr": "croix sur une barre en travers, globe au bas, lettres MA, légende CIVITATIS MASILIAE",
+      "reverse_ru": "крест на поперечной перекладине, сфера внизу, буквы MA, легенда CIVITATIS MASILIAE",
+      "reverse_en": "cross on a crossbar, a globe below, letters MA, legend CIVITATIS MASILIAE",
+      "motifs": [
+        "cross"
+      ],
+      "legend_fr": "CHILDERICVS REX / CIVITATIS MASILIAE",
+      "legend_ru": "CHILDERICVS REX / CIVITATIS MASILIAE",
+      "legend_en": "CHILDERICVS REX / CIVITATIS MASILIAE"
+    },
+    {
+      "id": "pl8-5",
+      "part": 1,
+      "plate": 8,
+      "num": "5",
+      "fr": "Tête sur un M / Croix à huit pointes — Cherebert Ier",
+      "ru": "Голова на букве M / восьмиконечный крест — Керебер I",
+      "en": "Head on an M / Eight-pointed cross — Cherebert I",
+      "page": "67",
+      "group": "VIII",
+      "group_fr": "Planche VIII",
+      "group_en": "VIII",
+      "group_page": "61",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl8-5.jpg"
+      ],
+      "plate_img": "pl8-full.jpg",
+      "bbox": [
+        58.48,
+        14.21,
+        39.81,
+        14.5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 5. Monnoie de Cherebert Premier, ou Caribert, Fils de Clotaire Premier. Ce tiers de sol d'or est une preuve de ce que le P. Daniel avance dans son Histoire de France, que sous le règne de ce Prince, Marseille fut du Royaume de Paris. M. Leblanc, dans son Traité historique des monnoies de France, regarde comme un fait aussi étonnant qu'inexplicable, que ce Prince ait fait frapper monnoie dans Marseille dont il n'étoit pas le maître, nos Historiens assurant qu'elle appartenoit à Sigebert son Frere; «cela fait voir, dit-il, qu'il y a bien des lieux à défricher dans notre Histoire.» Nous avons effectivement rapporté une Médaille de Sigebert Premier, Frere de Cherebert ou Caribert, frappée à Marseille, qui ne laisse aucun doute qui puisse faire hésiter qu'elle est de ce Prince, puisqu'on lit autour de cette Médaille, SIGEBERTVS REX I [c'est-à-dire, Rex Primus]. A travers ces ténèbres, il n'est pas possible de démêler la vérité, & il faut de nécessité convenir avec M. Leblanc & le P. Daniel, qu'il falloit que Cherebert eût des droits sur Marseille.",
+        "La Médaille dont il est ici question, représente d'un côté la tête d'un Prince posée sur la lettre M, avec des cercles aux extrémités de cette lettre. Les Empereurs de Constantinople mettoient dans les premiers siècles du Christianisme, cette lettre M en l'honneur de Marie sur leurs Médailles, ainsi qu'un autre Monogramme en l'honneur de Jesus-Christ: ce dernier est le même que le Labarum de Constantin. Nos Rois avoient suivi le même usage, par dévotion à la Mère de Dieu. On lit autour de la Médaille, à rebours, les lettres MASSISI, & à côté de la figure, la lettre P, marque du Monétaire; au revers, EREB, seul reste du mot Cherebertus; dans le champ, une Croix à huit pointes, & les deux lettres MA, par abréviation de Massilia."
+      ],
+      "text_ru": [
+        "№5. Монета Керебера I, или Карибера, сына Хлотаря I. Эта треть золотого солида служит доказательством того, что отец Даниель утверждает в своей «Истории Франции»: при правлении этого государя Марсель входил в Парижское королевство. Г-н Леблан в своём «Историческом трактате о монетах Франции» считает столь же удивительным, сколь и необъяснимым, что этот государь велел чеканить монету в Марселе, хозяином которого он не являлся, тогда как наши историки уверяют, что город принадлежал Сигеберту, его брату; «это показывает, — говорит он, — что в нашей Истории есть ещё немало невозделанных мест». Мы действительно упомянули монету Сигеберта I, брата Керебера или Карибера, отчеканенную в Марселе, которая не оставляет никаких сомнений в том, что она принадлежит этому государю, поскольку вокруг этой монеты читается SIGEBERTVS REX I [то есть Rex Primus — король первый]. Сквозь эти потёмки невозможно распутать истину, и приходится по необходимости согласиться с г-ном Лебланом и отцом Даниелем, что у Керебера, должно быть, были права на Марсель.",
+        "Монета, о которой здесь идёт речь, представляет с одной стороны голову государя, помещённую на букве M, с кружками на концах этой буквы. Императоры Константинополя в первые века христианства помещали на своих монетах эту букву M в честь Марии, а также другую монограмму в честь Иисуса Христа: последняя совпадает с лабарумом Константина. Наши короли следовали тому же обычаю из почитания Богоматери. Вокруг монеты, в обратном порядке, читаются буквы MASSISI, а рядом с изображением — буква P, клеймо монетчика; на обороте — EREB, единственный остаток слова Cherebertus; в поле — восьмиконечный крест и две буквы MA, сокращение от Massilia."
+      ],
+      "text_en": [
+        "No. 5. Coin of Cherebert I, or Caribert, Son of Clotaire I. This gold third-sol is proof of what Father Daniel states in his History of France, that under this Prince's reign, Marseille belonged to the Kingdom of Paris. M. Leblanc, in his historical Treatise on the coinage of France, regards it as a fact as astonishing as it is inexplicable that this Prince had coinage struck at Marseille, of which he was not the master, our Historians assuring us that it belonged to Sigebert his Brother; \"this shows,\" he says, \"that there remain many areas to clear in our History.\" We have indeed reported a medal of Sigebert I, Brother of Cherebert or Caribert, struck at Marseille, which leaves no doubt that could make one hesitate that it is of this Prince, since around this medal one reads SIGEBERTVS REX I [that is, Rex Primus]. Through these shadows, it is not possible to disentangle the truth, and one must of necessity agree with M. Leblanc and Father Daniel, that Cherebert must have had rights over Marseille.",
+        "The medal in question here shows on one side the head of a Prince set upon the letter M, with circles at the ends of this letter. The Emperors of Constantinople, in the early centuries of Christianity, placed this letter M in honor of Mary on their medals, as well as another Monogram in honor of Jesus Christ: this latter is the same as Constantine's Labarum. Our Kings had followed the same custom, out of devotion to the Mother of God. Around the medal, in reverse order, one reads the letters MASSISI, and beside the figure, the letter P, the Moneyer's mark; on the reverse, EREB, the sole remnant of the word Cherebertus; in the field, an eight-pointed Cross, and the two letters MA, an abbreviation of Massilia."
+      ],
+      "obverse_fr": "tête d'un Prince posée sur la lettre M avec des cercles aux extrémités, légende (à rebours) MASSISI, lettre P (marque du Monétaire)",
+      "obverse_ru": "голова государя на букве M с кружками на концах, легенда (в обратном порядке) MASSISI, буква P (клеймо монетчика)",
+      "obverse_en": "head of a Prince set upon the letter M with circles at its ends, legend (reversed) MASSISI, letter P (the Moneyer's mark)",
+      "reverse_fr": "légende EREB (reste du mot Cherebertus), croix à huit pointes, lettres MA",
+      "reverse_ru": "легенда EREB (остаток слова Cherebertus), восьмиконечный крест, буквы MA",
+      "reverse_en": "legend EREB (remnant of the word Cherebertus), an eight-pointed cross, letters MA",
+      "motifs": [
+        "cross"
+      ],
+      "legend_fr": "MASSISI / EREB, MA",
+      "legend_ru": "MASSISI / EREB, MA",
+      "legend_en": "MASSISI / EREB, MA"
+    },
+    {
+      "id": "pl8-6",
+      "part": 1,
+      "plate": 8,
+      "num": "6",
+      "fr": "Buste de l'empereur Maurice / Croix",
+      "ru": "Бюст императора Маврикия / крест",
+      "en": "Bust of Emperor Maurice / Cross",
+      "page": "69",
+      "group": "VIII",
+      "group_fr": "Planche VIII",
+      "group_en": "VIII",
+      "group_page": "61",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl8-6.jpg"
+      ],
+      "plate_img": "pl8-full.jpg",
+      "bbox": [
+        59.57,
+        34.59,
+        37.12,
+        12.54
+      ],
+      "attrs": [],
+      "text_fr": [
+        "La Médaille sous le numéro 6, est un de ces monumens qui semblent n'exister que pour épuiser en vain les recherches des Savans. Le Buste de l'Empereur Maurice est représenté d'un côté, la tête ornée du Diadême: on lit autour D. N. MAVRIC. TB. PP. AV. par abréviation de Dominus noster Mauricius Tiberius, Pater Patriae Augustus. L'Empereur Maurice succéda à Tibère dans l'Empire de Constantinople, en 582; il prit le surnom de son Prédécesseur, & c'est à ce Prince qu'on doit attribuer cette monnoie, qui présente une difficulté jusqu'à présent inexplicable, en ce qu'elle a été frappée à Marseille, ainsi que le démontre le revers, sur lequel on voit la Croix, un Globe au-dessous, avec les lettres MA, par abréviation de Massilia; les nombres V & II plus bas; le mot CONOB pour exergue, & pour légende, VICTORIA AVTORVMI. L'Empereur Maurice n'avoit aucun droit sur Marseille; cette Ville appartenoit aux François par la cession libre des Ostrogoths, & par la confirmation que l'Empereur Justinien avoit fait de cette cession, avec le droit de faire frapper monnoie exclusivement; de sorte qu'il est impossible d'expliquer la contradiction que cette Médaille présente avec l'histoire, en rendant en faveur de Maurice Tibère, le témoignage d'un droit de Souveraineté, aussi essentiel que celui de faire frapper monnoie à son coin, dans une Ville soumise à un autre Souverain; car la Seigneurie de Marseille étoit alors possédée par indivis entre Childebert II, Roi d'Austrasie, & Gontran, Roi de Bourgogne. Quelle peut donc être la raison qui a donné lieu de frapper dans Marseille une monnoie au coin d'un Souverain étranger?",
+        "M. Bonami, dans son mémoire imprimé dans le Recueil de l'Académie des Inscriptions, après avoir exposé toutes les difficultés que cette monnoie présente, l'explique cependant de cette manière. »J'ai cru, dit-il, qu'il n'y avoit d'autre dénouement à cette difficulté, que d'avoir recours à une révolution qui arriva dans la France, sous les Enfans de Clotaire Premier, qui fut excitée par Gundevald: cet homme d'abord fugitif réfugié à Constantinople, depuis revenu en France, avec le secours de l'Empereur Maurice, reconnu Roi & Maître de la Provence, aura fait fabriquer à Arles & à Marseille, des monnoies au coin de son bienfaiteur.« M. Bonami ne donne à la vérité cette explication, que comme une conjecture: il avoue même qu'il se soumet à la voir contredire, & c'est avec raison. L'histoire de Gundevald, que quelques Auteurs ont nommé Gondebaud, & d'autres Gondebald, est trop connue pour être rapportée tout au long. Il me suffira d'observer que tous nos Historiens sont d'accord sur ce que M. Bonami avance de sa fuite & de son retour en France; mais ils conviennent en même-temps qu'à son arrivée à Marseille, où il débarqua en venant de Constantinople, il y fut reçu par l'Evêque Théodore, qui lui fit un accueil très-gracieux, & lui donna des chevaux pour transporter ses équipages à Avignon, où il alloit joindre Muinol qui en étoit Gouverneur; Gundevald n'ayant resté que très-peu de jours à Marseille. Un nouveau coin à graver, les intelligences qu'il faut se ménager dans une Ville où l'on est sans pouvoir, pour parvenir à usurper un droit de Souveraineté, tel que celui de faire frapper des monnoies étrangères, demandent un plus long espace de temps que celui du séjour de Gundevald dans Marseille; d'ailleurs, le parti de Gontran dominoit alors en cette Ville, & se seroit opposé à cette usurpation, puisqu'il fut mauvais gré à l'Evêque Théodore d'avoir accueilli cet avanturier, & qu'il lui suscita de grands chagrins à ce sujet; ce qui doit faire rejetter l'explication de M. Bonami, ne résolvant point la difficulté, quelque ingénieuse qu'elle soit.",
+        "Il se présente une autre conjecture, à laquelle je conviens qu'il ne manqueroit que des témoignages plus précis, pour lui donner plus d'apparence de vérité. Je hasarde de l'exposer sans aucune prétention de la soutenir. Au milieu des ténèbres historiques, il est permis de tenter de dissiper les voiles qui nous dérobent la lumière: heureux si l'on parvient à sa découverte. La monnoie de Maurice Tibère, dont il est question, peut avoir été frappée à Marseille, du consentement de ses légitimes Souverains, mais à une autre époque que celle de la révolution occasionnée par Gundevald, & je crois devoir la rapporter à l'alliance que Childebert fit avec l'Empereur Maurice Tibère contre les Lombards: cette alliance fut suivie de plusieurs expéditions; il y en eut une fameuse en 590: le Duc Cedin commandant un Corps d'armée pour les François en Italie, remporta de grands avantages sur les Lombards, & leur prit Tesana, Moletum, Semiana, Appianum, Sagitana, Cimbra, Vitianum, Brentonicum, Volenés, Enemasé, & plusieurs autres Places. Rotharic étoit en ce temps-là Roi des Lombards, & commandoit leurs Troupes. Quelques Auteurs ont nommé ce Prince Autharis, & il ne seroit pas surprenant que dans ces temps de barbarie, où l'on défiguroit sans cesse les noms, il eût été également nommé Autorumus. Cette hypothèse admise, le revers de notre Médaille où l'on lit VICTORIA AVTORVMI, seroit applicable à la victoire remportée sur Autharis, Rotharic, ou Autorumus, Roi des Lombards. Mais sans recourir aux diverses façons d'écrire le nom de ce Prince, il seroit plus vraisemblable de croire que cette monnoie qui fut cependant toujours frappée en mémoire des avantages remportés par les Troupes Françoises & Impériales sur les Lombards, ne porte sur son revers les mots de VICTORIA AVTORVMI, que par abréviation de Victoria Augustorum prima, par allusion à Childebert & à Maurice, Souverains des deux Nations victorieuses; & pour lors il ne seroit pas surprénant que le Roi d'Austrasie eût fait frapper cette monnoie au coin de l'Empereur Maurice, dans une Ville soumise à sa Domination, pour perpétuer un événement aussi glorieux pour l'un que pour l'autre de ces Princes. En interprétant la lettre I à la fin du mot AVTORVM, par le mot prima, & en la séparant de ce premier mot, je ne hasarde point une nouveauté sans exemple. On lit souvent dans les revers des Médailles des époques, de prima, secunda, &c. par des lettres ajoutées à la fin des derniers mots de la légende, sans séparation: c'est ainsi qu'on voit sur le revers d'une Médaille de Gordien Pie, LIBERALITAS AVG. II, que les plus Savans Antiquaires ont expliqué par Liberalitas Augusta Secunda."
+      ],
+      "text_ru": [
+        "Монета под номером 6 — один из тех памятников, что, кажется, существуют лишь для того, чтобы впустую изнурять изыскания учёных. Бюст императора Маврикия изображён с одной стороны, голова украшена диадемой: вокруг читается D. N. MAVRIC. TB. PP. AV., сокращение от Dominus noster Mauricius Tiberius, Pater Patriae Augustus. Император Маврикий наследовал Тиберию в Константинопольской империи в 582 году; он принял прозвание своего предшественника, и именно этому государю следует приписать эту монету, представляющую доселе необъяснимую трудность в том, что она была отчеканена в Марселе, как то доказывает оборот, на котором виден крест, под ним — сфера, с буквами MA, сокращением от Massilia; ниже — цифры V и II; слово CONOB внизу, а легендой — VICTORIA AVTORVMI. Император Маврикий не имел никаких прав на Марсель; этот Город принадлежал франкам по свободной уступке остготов и по подтверждению этой уступки императором Юстинианом, с правом исключительной чеканки монеты; так что невозможно объяснить противоречие, которое эта монета являет с историей, свидетельствуя в пользу Маврикия Тиберия о столь существенном праве суверенитета, как право чеканить монету своим штемпелем, в Городе, подвластном другому государю; ведь владение Марселем в то время было нераздельным между Хильдебертом II, королём Австразии, и Гонтраном, королём Бургундии. Какова же может быть причина, побудившая отчеканить в Марселе монету со штемпелем чужого государя?",
+        "Г-н Бонами в своей записке, напечатанной в Собрании Академии Надписей, изложив все трудности, какие представляет эта монета, объясняет её, однако, следующим образом. «Я полагал, — говорит он, — что единственным разрешением этой трудности может быть обращение к той смуте, что случилась во Франции при детях Хлотаря I и была вызвана Гундевальдом: этот человек, сперва беглец, укрывшийся в Константинополе, а затем возвратившийся во Францию с помощью императора Маврикия, признанный королём и владыкой Прованса, велел, должно быть, изготовить в Арле и в Марселе монеты со штемпелем своего благодетеля». Г-н Бонами, по правде говоря, предлагает это объяснение лишь как догадку: он сам признаёт, что готов услышать возражения, и справедливо. История Гундевальда, которого одни авторы называли Гондебо, а другие Гондебальд, слишком известна, чтобы пересказывать её полностью. Мне достаточно будет заметить, что все наши историки согласны с тем, что сообщает г-н Бонами о его бегстве и возвращении во Францию; но они же сходятся на том, что по прибытии в Марсель, куда он высадился, прибыв из Константинополя, его принял епископ Теодор, оказавший ему весьма радушный приём и давший ему лошадей для перевозки его обоза в Авиньон, где он должен был присоединиться к Муинолу, бывшему там правителем; Гундевальд же оставался в Марселе лишь весьма немного дней. Для изготовления нового штемпеля, для тех связей, что необходимо заручиться в Городе, где не обладаешь властью, дабы добиться узурпации права суверенитета, такого как чеканка иноземной монеты, требуется куда больше времени, чем длилось пребывание Гундевальда в Марселе; к тому же партия Гонтрана тогда преобладала в этом Городе и воспротивилась бы подобной узурпации, поскольку епископу Теодору было поставлено в вину, что он принял этого авантюриста, и это навлекло на него немалые огорчения по этому поводу; что и должно заставить отвергнуть объяснение г-на Бонами, не разрешающее трудности, сколь бы остроумным оно ни было.",
+        "Напрашивается иная догадка, которой, как я признаю, недоставало бы лишь более точных свидетельств, чтобы придать ей больше правдоподобия. Я осмеливаюсь изложить её без всякого притязания её отстаивать. Среди исторических потёмок позволительно пытаться рассеять завесы, скрывающие от нас свет: счастлив тот, кто преуспеет в этом открытии. Монета Маврикия Тиберия, о которой идёт речь, могла быть отчеканена в Марселе с согласия его законных государей, но в иную эпоху, нежели та смута, что была вызвана Гундевальдом, и я полагаю, что её следует отнести к союзу, заключённому Хильдебертом с императором Маврикием Тиберием против лангобардов: за этим союзом последовало несколько походов; один из них, знаменитый, состоялся в 590 году: герцог Кедин, командуя войском франков в Италии, одержал значительные успехи над лангобардами и взял у них Тезану, Молетум, Семиану, Аппиан, Сагитану, Кимбру, Витиан, Брентоник, Воленэ, Энемазе и ряд других крепостей. Ротарик был в то время королём лангобардов и командовал их войсками. Некоторые авторы называли этого государя Автарисом, и неудивительно, что в те варварские времена, когда имена постоянно искажались, его могли также называть Авторумом. Если принять эту гипотезу, оборот нашей монеты, где читается VICTORIA AVTORVMI, можно было бы отнести к победе, одержанной над Автарисом, Ротариком, или Авторумом, королём лангобардов. Но, не прибегая к различным написаниям имени этого государя, было бы правдоподобнее полагать, что эта монета, чеканившаяся, впрочем, неизменно в память об успехах, одержанных франкскими и имперскими войсками над лангобардами, несёт на обороте слова VICTORIA AVTORVMI лишь как сокращение от Victoria Augustorum prima, в намёке на Хильдеберта и Маврикия, государей двух победоносных народов; и в таком случае неудивительно было бы, что король Австразии повелел отчеканить эту монету со штемпелем императора Маврикия в Городе, подвластном его владычеству, дабы увековечить событие, одинаково славное для того и другого из этих государей. Толкуя букву I в конце слова AVTORVM как слово prima и отделяя её от этого первого слова, я не отваживаюсь на новшество, лишённое примеров. На оборотах монет тех эпох нередко читаются prima, secunda и т. д., обозначенные буквами, прибавленными в конце последних слов легенды, без разделения: так на обороте монеты Гордиана Благочестивого видим LIBERALITAS AVG. II, что наиболее учёные антикварии истолковали как Liberalitas Augusta Secunda."
+      ],
+      "text_en": [
+        "The medal under number 6 is one of those monuments that seem to exist only to exhaust in vain the researches of Scholars. The Bust of Emperor Maurice is shown on one side, the head adorned with the Diadem: around it one reads D. N. MAVRIC. TB. PP. AV., an abbreviation of Dominus noster Mauricius Tiberius, Pater Patriae Augustus. Emperor Maurice succeeded Tiberius in the Empire of Constantinople, in 582; he took the surname of his Predecessor, and it is to this Prince that this coin must be attributed, which presents a difficulty hitherto inexplicable, in that it was struck at Marseille, as the reverse demonstrates, on which one sees the Cross, a Globe beneath, with the letters MA, an abbreviation of Massilia; the numbers V and II lower down; the word CONOB for the exergue, and for legend, VICTORIA AVTORVMI. Emperor Maurice had no right over Marseille; this City belonged to the French through the free cession of the Ostrogoths, and through the confirmation Emperor Justinian had made of this cession, with the right to strike coinage exclusively; so that it is impossible to explain the contradiction this medal presents with history, in rendering in favor of Maurice Tiberius the testimony of a right of Sovereignty, as essential as that of striking coinage with his own die, in a City subject to another Sovereign; for the Lordship of Marseille was then held undivided between Childebert II, King of Austrasia, and Gontran, King of Burgundy. What then can be the reason that gave occasion to strike at Marseille a coin bearing the die of a foreign Sovereign?",
+        "M. Bonami, in his memoir printed in the Collection of the Academy of Inscriptions, after setting out all the difficulties this coin presents, explains it nevertheless in this manner. \"I have believed,\" he says, \"that there was no other resolution to this difficulty than to have recourse to an upheaval that occurred in France, under the Children of Clotaire I, which was stirred up by Gundevald: this man, at first a fugitive taking refuge at Constantinople, afterward returned to France with the help of Emperor Maurice, recognized as King and Master of Provence, must have had coins made at Arles and at Marseille bearing the die of his benefactor.\" M. Bonami, in truth, gives this explanation only as a conjecture: he even admits that he submits to seeing it contradicted, and rightly so. The story of Gundevald, whom some Authors have named Gondebaud, and others Gondebald, is too well known to be related in full. It will suffice for me to observe that all our Historians agree on what M. Bonami puts forward regarding his flight and his return to France; but they agree at the same time that upon his arrival at Marseille, where he landed coming from Constantinople, he was received there by Bishop Theodore, who gave him a most gracious welcome, and gave him horses to transport his baggage to Avignon, where he was going to join Muinol, who was Governor there; Gundevald having stayed only very few days at Marseille. A new die to be engraved, the connections one must secure in a City where one is without power, in order to succeed in usurping a right of Sovereignty such as that of striking foreign coinage, require a longer span of time than that of Gundevald's stay in Marseille; moreover, Gontran's party then dominated in this City, and would have opposed this usurpation, since Bishop Theodore was held in ill favor for having welcomed this adventurer, and it caused him great troubles on this account; which must lead to rejecting M. Bonami's explanation, as it does not resolve the difficulty, however ingenious it may be.",
+        "Another conjecture presents itself, to which I grant that it would lack only more precise testimony to give it more appearance of truth. I venture to set it out with no pretension of defending it. Amid historical darkness, it is permitted to try to dispel the veils that hide the light from us: happy is he who succeeds in its discovery. The coin of Maurice Tiberius in question may have been struck at Marseille with the consent of its legitimate Sovereigns, but at a different time than that of the upheaval caused by Gundevald, and I believe it should be attributed to the alliance Childebert made with Emperor Maurice Tiberius against the Lombards: this alliance was followed by several expeditions; there was a famous one in 590: Duke Cedin, commanding a body of troops for the French in Italy, won great advantages over the Lombards, and took from them Tesana, Moletum, Semiana, Appianum, Sagitana, Cimbra, Vitianum, Brentonicum, Volenés, Enemasé, and several other Places. Rotharic was at that time King of the Lombards, and commanded their Troops. Some Authors have named this Prince Autharis, and it would not be surprising that in those barbarous times, when names were constantly disfigured, he had also been named Autorumus. This hypothesis granted, the reverse of our medal where one reads VICTORIA AVTORVMI would be applicable to the victory won over Autharis, Rotharic, or Autorumus, King of the Lombards. But without resorting to the various ways of writing this Prince's name, it would be more plausible to believe that this coin, which was nonetheless always struck in memory of the advantages won by the French and Imperial Troops over the Lombards, bears on its reverse the words VICTORIA AVTORVMI only as an abbreviation of Victoria Augustorum prima, in allusion to Childebert and to Maurice, Sovereigns of the two victorious Nations; and in that case it would not be surprising that the King of Austrasia had this coin struck with the die of Emperor Maurice, in a City subject to his Dominion, to perpetuate an event as glorious for the one as for the other of these Princes. In interpreting the letter I at the end of the word AVTORVM as the word prima, and separating it from this first word, I venture nothing novel without precedent. One often reads on the reverses of medals of these periods, prima, secunda, etc., by letters added to the end of the last words of the legend, without separation: thus one sees on the reverse of a medal of Gordian Pius, LIBERALITAS AVG. II, which the most learned Antiquarians have explained as Liberalitas Augusta Secunda."
+      ],
+      "obverse_fr": "buste de l'empereur byzantin Maurice, tête ornée du diadème, légende D.N. MAVRIC. TB. PP. AV. (Dominus noster Mauricius Tiberius, Pater Patriae Augustus)",
+      "obverse_ru": "бюст византийского императора Маврикия, голова украшена диадемой, легенда D.N. MAVRIC. TB. PP. AV. (Dominus noster Mauricius Tiberius, Pater Patriae Augustus)",
+      "obverse_en": "bust of the Byzantine Emperor Maurice, head adorned with the diadem, legend D.N. MAVRIC. TB. PP. AV. (Dominus noster Mauricius Tiberius, Pater Patriae Augustus)",
+      "reverse_fr": "croix, globe en dessous, lettres MA (abréviation de Massilia), chiffres V et II, CONOB en exergue, légende VICTORIA AVTORVMI",
+      "reverse_ru": "крест, сфера снизу, буквы MA (сокращение Massilia), цифры V и II, CONOB внизу, легенда VICTORIA AVTORVMI",
+      "reverse_en": "cross, a globe beneath, letters MA (abbreviation of Massilia), numerals V and II, CONOB in the exergue, legend VICTORIA AVTORVMI",
+      "motifs": [
+        "cross"
+      ],
+      "legend_fr": "D.N. MAVRIC. TB. PP. AV. / VICTORIA AVTORVMI, CONOB",
+      "legend_ru": "D.N. MAVRIC. TB. PP. AV. / VICTORIA AVTORVMI, CONOB",
+      "legend_en": "D.N. MAVRIC. TB. PP. AV. / VICTORIA AVTORVMI, CONOB"
+    },
+    {
+      "id": "pl8-7",
+      "part": 1,
+      "plate": 8,
+      "num": "7",
+      "fr": "Buste casqué / Croix — Childeric II",
+      "ru": "Бюст в шлеме / крест — Хильдерик II",
+      "en": "Helmeted bust / Cross — Childeric II",
+      "page": "73",
+      "group": "VIII",
+      "group_fr": "Planche VIII",
+      "group_en": "VIII",
+      "group_page": "61",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl8-7.jpg"
+      ],
+      "plate_img": "pl8-full.jpg",
+      "bbox": [
+        59.04,
+        50.83,
+        37.65,
+        12.15
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 7. Médaille de Childeric II: ce Prince y est représenté avec une coiffure bizarre qui paroît être un casque. La grossière ignorance des Artistes de ce temps n'avoit pas su le mieux représenter; les vêtemens n'ont pas plus de régularité dans le dessein. On lit autour de la Médaille, CHILDERICVS REX; le revers, une Croix; une plus petite dans le bas: aux côtés de la première, les lettres MA, & à ceux de l'inférieure, deux petits globes. On lit autour MASSILIA CIVITAS."
+      ],
+      "text_ru": [
+        "№7. Монета Хильдерика II: этот государь представлен здесь в причудливом уборе, напоминающем шлем. Грубое неумение художников того времени не позволило изобразить его лучше; одеяние также лишено правильности рисунка. Вокруг монеты читается CHILDERICVS REX; оборот — крест; внизу — меньший крест: по сторонам первого — буквы MA, а по сторонам нижнего — два маленьких глобуса. Вокруг читается MASSILIA CIVITAS."
+      ],
+      "text_en": [
+        "No. 7. Medal of Childeric II: this Prince is shown here with a bizarre headdress that appears to be a helmet. The crude ignorance of the Artists of that time had not known how to represent it better; the garments likewise lack regularity of design. Around the medal one reads CHILDERICVS REX; the reverse, a Cross; a smaller one at the bottom: at the sides of the first, the letters MA, and at those of the lower one, two small globes. Around it one reads MASSILIA CIVITAS."
+      ],
+      "obverse_fr": "buste de Childeric II, coiffure bizarre paraissant être un casque, légende CHILDERICVS REX",
+      "obverse_ru": "бюст Хильдерика II, причудливый убор, напоминающий шлем, легенда CHILDERICVS REX",
+      "obverse_en": "bust of Childeric II, a bizarre headdress that appears to be a helmet, legend CHILDERICVS REX",
+      "reverse_fr": "croix, une plus petite croix dans le bas, lettres MA de part et d'autre, deux petits globes en dessous, légende MASSILIA CIVITAS",
+      "reverse_ru": "крест, внизу — меньший крест, буквы MA по сторонам, два маленьких глобуса под ним, легенда MASSILIA CIVITAS",
+      "reverse_en": "a cross, a smaller cross below, letters MA on each side, two small globes beneath, legend MASSILIA CIVITAS",
+      "motifs": [
+        "cross"
+      ],
+      "legend_fr": "CHILDERICVS REX / MASSILIA CIVITAS",
+      "legend_ru": "CHILDERICVS REX / MASSILIA CIVITAS",
+      "legend_en": "CHILDERICVS REX / MASSILIA CIVITAS"
+    },
+    {
+      "id": "pl8-8",
+      "part": 1,
+      "plate": 8,
+      "num": "8",
+      "fr": "Buste / Croix — Childeric II et Clotaire III",
+      "ru": "Бюст / крест — Хильдерик II и Хлотарь III",
+      "en": "Bust / Cross — Childeric II and Clotaire III",
+      "page": "74",
+      "group": "VIII",
+      "group_fr": "Planche VIII",
+      "group_en": "VIII",
+      "group_page": "61",
+      "flag": "",
+      "type": "coin",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl8-8.jpg"
+      ],
+      "plate_img": "pl8-full.jpg",
+      "bbox": [
+        62.33,
+        71.04,
+        28.51,
+        9.4
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 8. Médaille de Childeric II, Fils de Clovis II; ce Prince y est représenté en Buste, la tête ornée d'un Diadême de perles. On lit autour de cette Médaille, CHILDRICVS REX; le revers en est curieux, en ce qu'il porte le nom de Clotaire III, Frere de Childeric II: on y lit autour, CHLOTARIVS REX; dans le champ, une Croix au milieu des lettres MA, abréviation de Massilia, & dans le bas, CONOB. Cette Médaille est une preuve de ce que Childeric II ne possédoit pas toute la Souveraineté de Marseille, & que son Frere Clotaire III en possédoit une portion, qui devoit être moindre que celle de Childeric, puisque ce dernier jouissoit de préférence du droit de faire mettre son Effigie sur les espèces frappées à Marseille. M. Leblanc, dans son traité des monnoies, pag. 77, fait mention d'une pareille Médaille."
+      ],
+      "text_ru": [
+        "№8. Монета Хильдерика II, сына Хлодвига II; этот государь представлен здесь в виде бюста, голова украшена жемчужной диадемой. Вокруг этой монеты читается CHILDRICVS REX; оборот её любопытен тем, что несёт имя Хлотаря III, брата Хильдерика II: вокруг читается CHLOTARIVS REX; в поле — крест среди букв MA, сокращение от Massilia, а внизу — CONOB. Эта монета служит доказательством того, что Хильдерик II не обладал всем суверенитетом над Марселем и что его брат Хлотарь III владел его частью, которая должна была быть меньше, чем у Хильдерика, поскольку последний пользовался преимущественным правом помещать своё изображение на монетах, чеканенных в Марселе. Г-н Леблан в своём трактате о монетах, на с. 77, упоминает подобную монету."
+      ],
+      "text_en": [
+        "No. 8. Medal of Childeric II, Son of Clovis II; this Prince is shown here in Bust, the head adorned with a pearl Diadem. Around this medal one reads, CHILDRICVS REX; its reverse is curious, in that it bears the name of Clotaire III, Brother of Childeric II: around it one reads, CHLOTARIVS REX; in the field, a Cross amid the letters MA, abbreviation of Massilia, and at the bottom, CONOB. This medal is proof that Childeric II did not hold the whole Sovereignty of Marseille, and that his Brother Clotaire III held a portion of it, which must have been smaller than that of Childeric, since the latter enjoyed the preferential right of having his Effigy placed on the coinage struck at Marseille. M. Leblanc, in his treatise on coinage, p. 77, mentions a similar medal."
+      ],
+      "obverse_fr": "buste de Childeric II, tête ornée d'un diadème de perles, légende CHILDRICVS REX",
+      "obverse_ru": "бюст Хильдерика II, голова украшена жемчужной диадемой, легенда CHILDRICVS REX",
+      "obverse_en": "bust of Childeric II, head adorned with a pearl diadem, legend CHILDRICVS REX",
+      "reverse_fr": "croix au milieu des lettres MA, CONOB en bas, légende CHLOTARIVS REX — nom du frère de Childeric II",
+      "reverse_ru": "крест между буквами MA, CONOB внизу, легенда CHLOTARIVS REX — имя брата Хильдерика II",
+      "reverse_en": "cross amid the letters MA, CONOB below, legend CHLOTARIVS REX — the name of Childeric II's brother",
+      "motifs": [
+        "cross"
+      ],
+      "legend_fr": "CHILDRICVS REX / CHLOTARIVS REX, CONOB",
+      "legend_ru": "CHILDRICVS REX / CHLOTARIVS REX, CONOB",
+      "legend_en": "CHILDRICVS REX / CHLOTARIVS REX, CONOB"
     }
   ]
 }

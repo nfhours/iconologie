@@ -157,6 +157,23 @@
       "intro_en": [
         "The medals contained in this Plate are again gold sols and third-sols; their size is much smaller than the engravings."
       ]
+    },
+    {
+      "n": 8,
+      "title_ru": "Таблица VIII. Монеты Хильдерика II и императора Маврикия",
+      "title_en": "Plate VIII. Coins of Childeric II and Emperor Maurice",
+      "intro_fr": [
+        "LES Médailles de cette Planche, désignées par les numéros 1 & 5, sont d'un module moindre que les Gravures; le reste de la Planche est dans les proportions naturelles."
+      ],
+      "intro_ru": [
+        "Монеты, помещённые на этой Таблице под номерами 1 и 5, меньшего размера, чем гравюры; остальная часть таблицы — в натуральную величину."
+      ],
+      "intro_en": [
+        "The medals of this Plate, designated by numbers 1 and 5, are of a smaller size than the engravings; the rest of the Plate is in natural proportions."
+      ],
+      "caption_fr": "Aux depens de Mr Mtre Cathalan avocat en la Cour",
+      "caption_ru": "на средства г-на мэтра Каталана, адвоката при Суде",
+      "caption_en": "at the expense of M. Cathalan, advocate at the Court"
     }
   ],
   "about": {
