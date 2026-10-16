@@ -1794,6 +1794,767 @@
       "motifs": [
         "wing"
       ]
+    },
+    {
+      "id": "pl4-1",
+      "part": 1,
+      "plate": 4,
+      "num": "1",
+      "fr": "Neptune / Dauphin et Trident",
+      "ru": "Нептун / дельфин и трезубец",
+      "en": "Neptune / Dolphin and Trident",
+      "page": "42",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-1.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        8.08,
+        7.95,
+        29.89,
+        6.42
+      ],
+      "attrs": [],
+      "text_fr": [
+        "TOUTES les Médailles contenues dans cette Planche, sont en bronze, & des mêmes grandeurs que les Gravures. Celle désignée par le n°. 1, représente d'un côté la tête de Neptune; ce qu'on distingue à la barbe pointue, effet qui lui est naturel lorsqu'elle est mouillée. Le revers est un Dauphin groupé avec un Trident, marque caractéristique du Dieu des Flots. Quoique cette Médaille soit sans lettres qui désignent Marseille, on la trouve si communément dans cette Ville, & ces Emblèmes lui conviennent si bien, qu'on ne sauroit avoir des indices plus certains qu'elle lui appartient."
+      ],
+      "text_ru": [
+        "ВСЕ монеты, помещённые на этой Таблице, бронзовые и того же размера, что и сами гравюры. Монета под №1 представляет с одной стороны голову Нептуна; это узнаётся по заострённой бороде — следствие, естественное для неё, когда она намокает. Оборот — дельфин вместе с трезубцем, отличительный знак бога морей. Хотя на этой монете нет букв, обозначающих Марсель, она встречается в этом Городе настолько часто, а эти эмблемы подходят ей настолько хорошо, что нельзя иметь более верных признаков её принадлежности ему."
+      ],
+      "text_en": [
+        "ALL the medals contained in this Plate are in bronze, and of the same size as the engravings. The one designated by no. 1 shows on one side the head of Neptune; distinguished by the pointed beard, an effect natural to it when wet. The reverse is a Dolphin grouped with a Trident, a characteristic mark of the God of the Waters. Although this medal bears no letters denoting Marseille, it is found so commonly in this City, and these Emblems suit it so well, that one could have no surer signs of its belonging to it."
+      ],
+      "obverse_fr": "tête de Neptune, barbe pointue (mouillée)",
+      "obverse_ru": "голова Нептуна, заострённая (мокрая) борода",
+      "obverse_en": "head of Neptune, pointed (wet) beard",
+      "reverse_fr": "dauphin groupé avec un trident",
+      "reverse_ru": "дельфин вместе с трезубцем",
+      "reverse_en": "dolphin grouped with a trident",
+      "motifs": [
+        "trident"
+      ]
+    },
+    {
+      "id": "pl4-2",
+      "part": 1,
+      "plate": 4,
+      "num": "2",
+      "fr": "Tête (bonnet gaulois) / Aigle, MA",
+      "ru": "Голова (галльский убор) / орёл, MA",
+      "en": "Head (Gaulish cap) / Eagle, MA",
+      "page": "42",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-2.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        8.47,
+        18.32,
+        28.91,
+        6.23
+      ],
+      "attrs": [],
+      "text_fr": [
+        "2. Tête coiffée d'une espèce de Bonnet gaulois, ou Casque simple; on y découvre ces deux lettres grecques H. C.; le revers est une Aigle, avec cette abréviation MA."
+      ],
+      "text_ru": [
+        "2. Голова в уборе наподобие галльского колпака, или простом шлеме; на ней различимы две греческие буквы H. C.; оборот — орёл с сокращением MA."
+      ],
+      "text_en": [
+        "2. Head wearing a kind of Gaulish Cap, or simple Helmet; on it are made out the two Greek letters H. C.; the reverse is an Eagle, with the abbreviation MA."
+      ],
+      "obverse_fr": "tête coiffée d'un bonnet gaulois ou casque simple, lettres H.C",
+      "obverse_ru": "голова в галльском уборе или простом шлеме, буквы H.C",
+      "obverse_en": "head wearing a Gaulish cap or simple helmet, letters H.C",
+      "reverse_fr": "aigle, abréviation MA",
+      "reverse_ru": "орёл, сокращение MA",
+      "reverse_en": "eagle, abbreviation MA",
+      "motifs": [
+        "eagle"
+      ]
+    },
+    {
+      "id": "pl4-3",
+      "part": 1,
+      "plate": 4,
+      "num": "3",
+      "fr": "Tête (bonnet) / Lion, A",
+      "ru": "Голова (в уборе) / лев, A",
+      "en": "Head (cap) / Lion, A",
+      "page": "42",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-3.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        8.16,
+        29.41,
+        29.13,
+        4.52
+      ],
+      "attrs": [],
+      "text_fr": [
+        "3. Tête coiffée d'un Bonnet au revers du Lion; elle est commune; on lit sur le champ la lettre A."
+      ],
+      "text_ru": [
+        "3. Голова в уборе, на обороте — лев; эта монета не редкость; в поле читается буква A."
+      ],
+      "text_en": [
+        "3. Head wearing a Cap, with a Lion on the reverse; it is common; one reads in the field the letter A."
+      ],
+      "obverse_fr": "tête coiffée d'un bonnet",
+      "obverse_ru": "голова в уборе",
+      "obverse_en": "head wearing a cap",
+      "reverse_fr": "lion, lettre A",
+      "reverse_ru": "лев, буква A",
+      "reverse_en": "lion, letter A",
+      "motifs": [
+        "lion"
+      ]
+    },
+    {
+      "id": "pl4-4",
+      "part": 1,
+      "plate": 4,
+      "num": "4",
+      "fr": "Tête d'Homme / Agneau",
+      "ru": "Голова мужчины / ягнёнок",
+      "en": "Head of a man / Lamb",
+      "page": "42",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-4.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        8.07,
+        37.54,
+        29.02,
+        6.16
+      ],
+      "attrs": [],
+      "text_fr": [
+        "4. Tête d'Homme, sans caractère indicatif; le revers est un Agneau, ou quelqu'autre animal à pied fourchu."
+      ],
+      "text_ru": [
+        "4. Голова мужчины, без каких-либо отличительных признаков; оборот — ягнёнок или иное животное с раздвоенным копытом."
+      ],
+      "text_en": [
+        "4. Head of a Man, with no distinguishing character; the reverse is a Lamb, or some other cloven-footed animal."
+      ],
+      "obverse_fr": "tête d'Homme, sans caractère indicatif",
+      "obverse_ru": "голова мужчины, без отличительных признаков",
+      "obverse_en": "head of a man, with no distinguishing character",
+      "reverse_fr": "agneau, ou quelqu'autre animal à pied fourchu",
+      "reverse_ru": "ягнёнок или иное животное с раздвоенным копытом",
+      "reverse_en": "a lamb, or some other cloven-footed animal",
+      "motifs": []
+    },
+    {
+      "id": "pl4-5",
+      "part": 1,
+      "plate": 4,
+      "num": "5",
+      "fr": "Diane (rouleau) / Taureau, MASSALIETON",
+      "ru": "Диана (причёска-валик) / бык, MASSALIETON",
+      "en": "Diana (rolled hair) / Bull, MASSALIETON",
+      "page": "42",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-5.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        8.06,
+        48.03,
+        29.18,
+        6.46
+      ],
+      "attrs": [],
+      "text_fr": [
+        "5. Tête de Diane, coiffée à rouleau, sans Diadême; le revers est un Taureau menaçant, avec l'abréviation MASSALIETON, & dans le bas on distingue un Alpha & un Delta."
+      ],
+      "text_ru": [
+        "5. Голова Дианы, причёска уложена валиком, без диадемы; оборот — угрожающий бык, с сокращением MASSALIETON, а внизу различимы альфа и дельта."
+      ],
+      "text_en": [
+        "5. Head of Diana, with rolled hair, without the Diadem; the reverse is a threatening Bull, with the abbreviation MASSALIETON, and at the bottom one makes out an Alpha and a Delta."
+      ],
+      "obverse_fr": "tête de Diane, coiffée à rouleau, sans diadème",
+      "obverse_ru": "голова Дианы, причёска валиком, без диадемы",
+      "obverse_en": "head of Diana, rolled hairstyle, no diadem",
+      "reverse_fr": "taureau menaçant, MASSALIETON, Alpha et Delta",
+      "reverse_ru": "угрожающий бык, MASSALIETON, альфа и дельта",
+      "reverse_en": "threatening bull, MASSALIETON, Alpha and Delta",
+      "motifs": [
+        "diana",
+        "bull"
+      ]
+    },
+    {
+      "id": "pl4-6",
+      "part": 1,
+      "plate": 4,
+      "num": "6",
+      "fr": "Apollon (laurier) / Taureau, MASSALIETON",
+      "ru": "Аполлон (с лавром) / бык, MASSALIETON",
+      "en": "Apollo (laurel) / Bull, MASSALIETON",
+      "page": "43",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-6.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        9.33,
+        56.89,
+        29.13,
+        7.05
+      ],
+      "attrs": [],
+      "text_fr": [
+        "6. Tête d'Apollon, couronnée de laurier, au revers du Taureau menaçant, avec le mot MASSALIETON."
+      ],
+      "text_ru": [
+        "6. Голова Аполлона, увенчанная лавром, на обороте — угрожающий бык, со словом MASSALIETON."
+      ],
+      "text_en": [
+        "6. Head of Apollo, crowned with laurel, with the threatening Bull on the reverse, with the word MASSALIETON."
+      ],
+      "obverse_fr": "tête d'Apollon, couronnée de laurier",
+      "obverse_ru": "голова Аполлона, увенчанная лавром",
+      "obverse_en": "head of Apollo, laurel-crowned",
+      "reverse_fr": "taureau menaçant, MASSALIETON",
+      "reverse_ru": "угрожающий бык, MASSALIETON",
+      "reverse_en": "threatening bull, MASSALIETON",
+      "motifs": [
+        "apollo",
+        "laurel-crown",
+        "bull"
+      ]
+    },
+    {
+      "id": "pl4-7",
+      "part": 1,
+      "plate": 4,
+      "num": "7",
+      "fr": "Tête (casque simple) / Taureau, MASSA",
+      "ru": "Голова (простой шлем) / бык, MASSA",
+      "en": "Head (simple helmet) / Bull, MASSA",
+      "page": "43",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-7.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        9.7,
+        67.59,
+        28.47,
+        5.52
+      ],
+      "attrs": [],
+      "text_fr": [
+        "7. Tête coiffée d'un bonnet en forme de casque simple; même revers que la précédente. Elle ne contient que l'abréviation MASSA."
+      ],
+      "text_ru": [
+        "7. Голова в уборе в виде простого шлема; оборот того же типа, что и у предыдущей монеты. На ней — лишь сокращение MASSA."
+      ],
+      "text_en": [
+        "7. Head wearing a cap in the form of a simple helmet; the same reverse type as the preceding one. It bears only the abbreviation MASSA."
+      ],
+      "obverse_fr": "tête coiffée d'un bonnet en forme de casque simple",
+      "obverse_ru": "голова в уборе в виде простого шлема",
+      "obverse_en": "head wearing a cap in the form of a simple helmet",
+      "reverse_fr": "taureau (même revers que le précédent), abréviation MASSA",
+      "reverse_ru": "бык (тот же тип оборота, что и у предыдущей), сокращение MASSA",
+      "reverse_en": "bull (same reverse type as the preceding), abbreviation MASSA",
+      "motifs": [
+        "bull"
+      ]
+    },
+    {
+      "id": "pl4-8",
+      "part": 1,
+      "plate": 4,
+      "num": "8",
+      "fr": "Mars / Caducée ailé",
+      "ru": "Марс / крылатый кадуцей",
+      "en": "Mars / Winged caduceus",
+      "page": "43",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-8.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        8.43,
+        76.65,
+        31.36,
+        6.34
+      ],
+      "attrs": [],
+      "text_fr": [
+        "8. Tête de Mars, le casque en tête, orné de Panaches; & au revers, un Caducée avec le vol en plein. La République de Marseille ne brilloit pas moins par le succès de ses armes, que par celui de son commerce, & cette Médaille, qu'on rencontre très-ordinairement, étoit bien propre à caractériser ce double avantage."
+      ],
+      "text_ru": [
+        "8. Голова Марса в шлеме, украшенном султанами; на обороте — кадуцей с полностью раскрытыми крыльями. Марсельская Республика блистала не менее успехами своего оружия, чем успехами своей торговли, и эта монета, встречающаяся весьма часто, была вполне способна выразить это двойное преимущество."
+      ],
+      "text_en": [
+        "8. Head of Mars, helmeted, adorned with plumes; and on the reverse, a Caduceus with wings fully spread. The Republic of Marseille shone no less through the success of its arms than through that of its commerce, and this medal, which is met with very commonly, was well suited to characterize this double advantage."
+      ],
+      "obverse_fr": "tête de Mars, casque orné de panaches",
+      "obverse_ru": "голова Марса, шлем украшен султанами",
+      "obverse_en": "head of Mars, helmet adorned with plumes",
+      "reverse_fr": "caducée avec vol en plein (ailes déployées)",
+      "reverse_ru": "кадуцей с полностью раскрытыми крыльями",
+      "reverse_en": "caduceus with wings fully spread",
+      "motifs": [
+        "mars"
+      ]
+    },
+    {
+      "id": "pl4-9",
+      "part": 1,
+      "plate": 4,
+      "num": "9",
+      "fr": "Neptune (bonnet) / Galère",
+      "ru": "Нептун (в уборе) / галера",
+      "en": "Neptune (cap) / Galley",
+      "page": "43",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-9.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        61.55,
+        9.02,
+        30.33,
+        6.38
+      ],
+      "attrs": [],
+      "text_fr": [
+        "9. Tête de Neptune coiffée d'un bonnet; cette coiffure étoit adoptée par les Artistes des anciens, pour parer la tête de cette Divinité: le revers est une Galère. Il est dommage que cette Médaille, quoique moins rare que nombre d'autres, ne se rencontre pas ordinairement bien conservée; elle nous donneroit une idée de la manière dont les Anciens construisoient ces Navires."
+      ],
+      "text_ru": [
+        "9. Голова Нептуна в головном уборе; этот убор перенимали древние Художники для украшения головы этого Божества: оборот — галера. Жаль, что эта монета, хотя и менее редкая, чем многие другие, обычно встречается плохо сохранившейся; она дала бы нам представление о том, как древние строили эти Суда."
+      ],
+      "text_en": [
+        "9. Head of Neptune wearing a cap; this headdress was adopted by the Artists of antiquity to adorn this Divinity's head: the reverse is a Galley. It is a pity that this medal, though less rare than a number of others, is not usually found well preserved; it would give us an idea of the manner in which the Ancients built these Ships."
+      ],
+      "obverse_fr": "tête de Neptune coiffée d'un bonnet",
+      "obverse_ru": "голова Нептуна в головном уборе",
+      "obverse_en": "head of Neptune wearing a cap",
+      "reverse_fr": "galère (navire)",
+      "reverse_ru": "галера (корабль)",
+      "reverse_en": "galley (ship)",
+      "motifs": []
+    },
+    {
+      "id": "pl4-10",
+      "part": 1,
+      "plate": 4,
+      "num": "10",
+      "fr": "Guerrier / Aigle",
+      "ru": "Воин / орёл",
+      "en": "Warrior / Eagle",
+      "page": "43",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-10.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        61.51,
+        18.12,
+        30.22,
+        7.13
+      ],
+      "attrs": [],
+      "text_fr": [
+        "10. Tête de Guerrier, au revers de l'Aigle."
+      ],
+      "text_ru": [
+        "10. Голова воина, на обороте — орёл."
+      ],
+      "text_en": [
+        "10. Head of a Warrior, with the Eagle on the reverse."
+      ],
+      "obverse_fr": "tête de Guerrier",
+      "obverse_ru": "голова воина",
+      "obverse_en": "head of a Warrior",
+      "reverse_fr": "aigle",
+      "reverse_ru": "орёл",
+      "reverse_en": "eagle",
+      "motifs": [
+        "eagle"
+      ]
+    },
+    {
+      "id": "pl4-11",
+      "part": 1,
+      "plate": 4,
+      "num": "11",
+      "fr": "Minerve / Figure armée, MA",
+      "ru": "Минерва / вооружённая фигура, MA",
+      "en": "Minerva / Armed figure, MA",
+      "page": "43",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-11.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        61.35,
+        28.24,
+        31.75,
+        7.24
+      ],
+      "attrs": [],
+      "text_fr": [
+        "11. Tête de Minerve, le casque en tête, avec ces lettres MA; le revers, une figure armée avec le bouclier. Les lettres sont si frustes, qu'il est impossible de les déchiffrer. Cette Médaille est moins commune."
+      ],
+      "text_ru": [
+        "11. Голова Минервы в шлеме, с буквами MA; оборот — вооружённая фигура со щитом. Буквы настолько стёрты, что их невозможно разобрать. Эта монета встречается реже."
+      ],
+      "text_en": [
+        "11. Head of Minerva, helmeted, with the letters MA; the reverse, an armed figure with a shield. The letters are so worn that it is impossible to decipher them. This medal is less common."
+      ],
+      "obverse_fr": "tête de Minerve, casque en tête, lettres MA",
+      "obverse_ru": "голова Минервы в шлеме, буквы MA",
+      "obverse_en": "head of Minerva, helmeted, letters MA",
+      "reverse_fr": "figure armée tenant un bouclier; lettres trop frustes pour être déchiffrées",
+      "reverse_ru": "вооружённая фигура со щитом; буквы слишком стёрты, чтобы их разобрать",
+      "reverse_en": "armed figure holding a shield; letters too worn to decipher",
+      "motifs": [
+        "minerva"
+      ]
+    },
+    {
+      "id": "pl4-12",
+      "part": 1,
+      "plate": 4,
+      "num": "12",
+      "fr": "Guerrier / Chouette, MA",
+      "ru": "Воин / сова, MA",
+      "en": "Warrior / Owl, MA",
+      "page": "43",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-12.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        62.74,
+        38.44,
+        29.62,
+        6.23
+      ],
+      "attrs": [],
+      "text_fr": [
+        "12. Tête de Guerrier, le casque en tête, au revers d'une chouette, avec l'abréviation MA. La chouette étoit l'Emblème de Minerve. Les Athéniens mettoient le même revers sur leurs Médailles. Les Marseillois, leurs dignes rivaux dans la carrière des Sciences & des Arts, rendoient le même hommage à la Déesse qui en étoit la protectrice."
+      ],
+      "text_ru": [
+        "12. Голова воина в шлеме, на обороте — сова с сокращением MA. Сова была эмблемой Минервы. Афиняне помещали тот же оборот на своих монетах. Марсельцы, их достойные соперники на поприще Наук и Искусств, воздавали ту же честь Богине, которая им покровительствовала."
+      ],
+      "text_en": [
+        "12. Head of a Warrior, helmeted, with an owl on the reverse, with the abbreviation MA. The owl was the Emblem of Minerva. The Athenians placed the same reverse on their medals. The Marseillais, their worthy rivals in the pursuit of the Sciences and the Arts, paid the same homage to the Goddess who was their protectress."
+      ],
+      "obverse_fr": "tête de Guerrier, casque en tête",
+      "obverse_ru": "голова воина в шлеме",
+      "obverse_en": "head of a Warrior, helmeted",
+      "reverse_fr": "chouette, abréviation MA",
+      "reverse_ru": "сова, сокращение MA",
+      "reverse_en": "owl, abbreviation MA",
+      "motifs": [
+        "minerva"
+      ]
+    },
+    {
+      "id": "pl4-13",
+      "part": 1,
+      "plate": 4,
+      "num": "13",
+      "fr": "Mercure / Caducée",
+      "ru": "Меркурий / кадуцей",
+      "en": "Mercury / Caduceus",
+      "page": "44",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-13.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        62.61,
+        47.45,
+        29.13,
+        6.27
+      ],
+      "attrs": [],
+      "text_fr": [
+        "13. Tête de Mercure, Divinité tutélaire du commerce, au revers du caducée. On peignoit assez souvent Mercure avec une sorte de bonnet sans aile, tel qu'on le voit représenté dans cette Médaille."
+      ],
+      "text_ru": [
+        "13. Голова Меркурия, покровительствующего божества торговли, на обороте — кадуцей. Меркурия довольно часто изображали в своего рода уборе без крыльев, каким он представлен и на этой монете."
+      ],
+      "text_en": [
+        "13. Head of Mercury, tutelary Divinity of commerce, with the caduceus on the reverse. Mercury was quite often painted with a kind of wingless cap, as he is shown on this medal."
+      ],
+      "obverse_fr": "tête de Mercure, divinité tutélaire du commerce, coiffée d'un bonnet sans ailes",
+      "obverse_ru": "голова Меркурия, покровительствующего божества торговли, в уборе без крыльев",
+      "obverse_en": "head of Mercury, tutelary divinity of commerce, wearing a wingless cap",
+      "reverse_fr": "caducée",
+      "reverse_ru": "кадуцей",
+      "reverse_en": "caduceus",
+      "motifs": [
+        "caduceus"
+      ]
+    },
+    {
+      "id": "pl4-14",
+      "part": 1,
+      "plate": 4,
+      "num": "14",
+      "fr": "Mars / Caducée, MAC",
+      "ru": "Марс / кадуцей, MAC",
+      "en": "Mars / Caduceus, MAC",
+      "page": "44",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-14.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        62.52,
+        56.36,
+        30.05,
+        6.53
+      ],
+      "attrs": [],
+      "text_fr": [
+        "14. Tête de Mars, au revers du caducée. On lit d'un côté MAC, & de l'autre, les contre-marques F. N. & A en caractères grecs; ce qui la fait différer de celle comprise sous le n°. 8."
+      ],
+      "text_ru": [
+        "14. Голова Марса, на обороте — кадуцей. С одной стороны читается MAC, а с другой — клейма F. N. и A греческими буквами; этим она отличается от монеты под №8."
+      ],
+      "text_en": [
+        "14. Head of Mars, with the caduceus on the reverse. On one side one reads MAC, and on the other, the countermarks F. N. and A in Greek characters; which makes it differ from the one comprised under no. 8."
+      ],
+      "obverse_fr": "tête de Mars",
+      "obverse_ru": "голова Марса",
+      "obverse_en": "head of Mars",
+      "reverse_fr": "caducée; MAC d'un côté, contremarques F.N. et A de l'autre",
+      "reverse_ru": "кадуцей; MAC с одной стороны, клейма F.N. и A с другой",
+      "reverse_en": "caduceus; MAC on one side, countermarks F.N. and A on the other",
+      "motifs": [
+        "mars"
+      ]
+    },
+    {
+      "id": "pl4-15",
+      "part": 1,
+      "plate": 4,
+      "num": "15",
+      "fr": "Apollon (laurier) / Taureau (Cornupète), MASSALIETON",
+      "ru": "Аполлон (с лавром) / бык (Корнупет), MASSALIETON",
+      "en": "Apollo (laurel) / Bull (Cornupeta), MASSALIETON",
+      "page": "44",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-15.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        62.29,
+        65.61,
+        30.93,
+        7.61
+      ],
+      "attrs": [],
+      "text_fr": [
+        "15. Tête d'Apollon couronnée de laurier, avec la contre-marque A-T; le revers, un Taureau menaçant, avec le mot MASSALIETON. Apollon avoit un culte & un Temple dans Marseille; il étoit regardé comme une des Divinités tutélaires de la République, ainsi que Diane & Minerve. C'est pour cette raison, qu'on voit les Effigies de ces Divinités si souvent répétées sur les Médailles Marseilloises."
+      ],
+      "text_ru": [
+        "15. Голова Аполлона, увенчанная лавром, с клеймом A-T; оборот — угрожающий бык, со словом MASSALIETON. Аполлон имел в Марселе культ и Храм; он почитался одним из покровительствующих божеств Республики, наравне с Дианой и Минервой. Именно поэтому изображения этих Божеств так часто повторяются на марсельских монетах."
+      ],
+      "text_en": [
+        "15. Head of Apollo crowned with laurel, with the countermark A-T; the reverse, a threatening Bull, with the word MASSALIETON. Apollo had a cult and a Temple in Marseille; he was regarded as one of the tutelary Divinities of the Republic, along with Diana and Minerva. It is for this reason that the Effigies of these Divinities are seen so often repeated on Marseillais medals."
+      ],
+      "obverse_fr": "tête d'Apollon couronnée de laurier, contremarque A-T",
+      "obverse_ru": "голова Аполлона в лавровом венке, клеймо A-T",
+      "obverse_en": "head of Apollo, laurel-crowned, countermark A-T",
+      "reverse_fr": "taureau menaçant (nommé Cornupète ou Procumbens), MASSALIETON",
+      "reverse_ru": "угрожающий бык (называемый Корнупет или Прокумбенс), MASSALIETON",
+      "reverse_en": "threatening bull (called Cornupeta or Procumbens), MASSALIETON",
+      "motifs": [
+        "apollo",
+        "laurel-crown",
+        "bull"
+      ]
+    },
+    {
+      "id": "pl4-16",
+      "part": 1,
+      "plate": 4,
+      "num": "16",
+      "fr": "Tête / Deux anneaux",
+      "ru": "Голова / два кольца",
+      "en": "Head / Two rings",
+      "page": "",
+      "group": "IV",
+      "group_fr": "Planche IV",
+      "group_en": "IV",
+      "group_page": "42",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl4-16.jpg"
+      ],
+      "plate_img": "pl4-full.jpg",
+      "bbox": [
+        64.27,
+        75.96,
+        30.55,
+        6.34
+      ],
+      "attrs": [],
+      "text_fr": [],
+      "text_ru": [],
+      "text_en": [],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": []
     }
   ]
 }
