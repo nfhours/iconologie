@@ -160,9 +160,9 @@
       "part": 1,
       "plate": 1,
       "num": "4",
-      "fr": "Diane (boucles de perles) / Lion, MASSA AAE",
-      "ru": "Диана (жемчужные серьги) / лев, MASSA AAE",
-      "en": "Diana (pearl earrings) / Lion, MASSA AAE",
+      "fr": "Diane (boucles de perles) / Lion, MASSA ΛΛΕ",
+      "ru": "Диана (жемчужные серьги) / лев, MASSA ΛΛΕ",
+      "en": "Diana (pearl earrings) / Lion, MASSA ΛΛΕ",
       "page": "26",
       "group": "I",
       "group_fr": "Planche I",
@@ -188,10 +188,10 @@
         "La coiffure de Diane, dans la Médaille du n°. 4. varie des premieres; elle a de vraies Boucles d'oreilles en perles, au lieu du Trident; elle n'a point de colier. Le Lion représenté sur le revers, est moins bien dessiné; les lettres MASSA sont au haut, & dans le bas, AAE. Cette Médaille paroît être d'une époque postérieure à celle des précédentes; elle a moins de noblesse & moins d'exactitude dans le dessein."
       ],
       "text_ru": [
-        "Причёска Дианы на монете №4 отличается от предыдущих: у неё настоящие жемчужные серьги вместо трезубца, и нет ожерелья. Лев на обороте изображён менее искусно; буквы MASSA расположены вверху, а внизу — AAE. Эта монета, по-видимому, относится к более позднему периоду, чем предыдущие: в ней меньше благородства и меньше точности в рисунке."
+        "Причёска Дианы на монете №4 отличается от предыдущих: у неё настоящие жемчужные серьги вместо трезубца, и нет ожерелья. Лев на обороте изображён менее искусно; буквы MASSA расположены вверху, а внизу — AAE. Эта монета, по-видимому, относится к более позднему периоду, чем предыдущие: в ней меньше благородства и меньше точности в рисунке. [На гравюре внизу читается ΛΛΕ, а не AAE — расхождение с текстом Гроссона.]"
       ],
       "text_en": [
-        "The hairstyle of Diana on the medal no. 4 differs from the earlier ones; she has true pearl earrings instead of the Trident, and no necklace. The Lion shown on the reverse is less well drawn; the letters MASSA are at the top, and at the bottom, AAE. This medal appears to be of a later period than the preceding ones; it has less nobility and less accuracy in the design."
+        "The hairstyle of Diana on the medal no. 4 differs from the earlier ones; she has true pearl earrings instead of the Trident, and no necklace. The Lion shown on the reverse is less well drawn; the letters MASSA are at the top, and at the bottom, AAE. This medal appears to be of a later period than the preceding ones; it has less nobility and less accuracy in the design. [The engraving reads ΛΛΕ at the bottom, not AAE — a discrepancy with Grosson's text.]"
       ],
       "motifs": [
         "diana",
@@ -200,18 +200,18 @@
       "obverse_fr": "Diane, boucles d'oreilles en perles, sans collier",
       "obverse_ru": "Диана, жемчужные серьги, без ожерелья",
       "obverse_en": "Diana, pearl earrings, no necklace",
-      "reverse_fr": "lion (dessin moins soigné), MASSA / AAE",
-      "reverse_ru": "лев (менее тщательный рисунок), MASSA / AAE",
-      "reverse_en": "lion (less careful drawing), MASSA / AAE"
+      "reverse_fr": "lion (dessin moins soigné), MASSA / ΛΛΕ",
+      "reverse_ru": "лев (менее тщательный рисунок), MASSA / ΛΛΕ",
+      "reverse_en": "lion (less careful drawing), MASSA / ΛΛΕ"
     },
     {
       "id": "pl1-5",
       "part": 1,
       "plate": 1,
       "num": "5",
-      "fr": "Diane / Lion, MASSA ΑΗ",
-      "ru": "Диана / лев, MASSA ΑΗ",
-      "en": "Diana / Lion, MASSA ΑΗ",
+      "fr": "Diane / Lion, MASSA ΑΗΠΙ",
+      "ru": "Диана / лев, MASSA ΑΗΠΙ",
+      "en": "Diana / Lion, MASSA ΑΗΠΙ",
       "page": "26",
       "group": "I",
       "group_fr": "Planche I",
@@ -238,11 +238,11 @@
         "Le revers de cette Médaille, est un Lion, la gueule béante, avec les lettres MASSA, & au bas A, H en caracteres grecs; la contre-marque est différente des précédentes, & désigne un autre Monétaire."
       ],
       "text_ru": [
-        "Под номером 5 вновь представлен бюст Дианы с диадемой, с обнажённым плечом, ухо украшено трезубцем; причёска — сетчатая, с короткими волосами; ожерелье — простая лента. Наши гражданки, вероятно, в старину проявляли в уборах головы не меньше непостоянства, чем в наши дни; монетчики и гравёры копировали эти причёски с моды, бытовавшей во время перечеканки или изготовления новых штемпелей.",
+        "Под номером 5 вновь представлен бюст Дианы с диадемой, с обнажённым плечом, ухо украшено трезубцем; причёска — сетчатая, с короткими волосами; ожерелье — простая лента. Наши гражданки, вероятно, в старину проявляли в уборах головы не меньше непостоянства, чем в наши дни; монетчики и гравёры копировали эти причёски с моды, бытовавшей во время перечеканки или изготовления новых штемпелей. [На гравюре внизу видно четыре знака, примерно ΑΗΠΙ, а не только Α, Η, как у Гроссона — чтение предположительное.]",
         "Оборот этой монеты — лев с раскрытой пастью, с буквами MASSA, а внизу — греческие буквы Α, Η; клеймо отличается от предыдущих и указывает на другого монетчика."
       ],
       "text_en": [
-        "The number 5 again shows the Bust of Diana adorned with the diadem, the shoulder bare, the ear decorated with a Trident; the hairstyle is in a net, with short hair; the necklace is a simple ribbon. Our Citizenesses probably once put as much inconstancy into their head-dressing as they do in our own day; the Moneyers and Engravers copied these hairstyles after the fashion in vogue at the time of a recoinage or new dies.",
+        "The number 5 again shows the Bust of Diana adorned with the diadem, the shoulder bare, the ear decorated with a Trident; the hairstyle is in a net, with short hair; the necklace is a simple ribbon. Our Citizenesses probably once put as much inconstancy into their head-dressing as they do in our own day; the Moneyers and Engravers copied these hairstyles after the fashion in vogue at the time of a recoinage or new dies. [The engraving shows four characters at the bottom, roughly ΑΗΠΙ, not just Α, Η as in Grosson's text — reading tentative.]",
         "The reverse of this medal is a Lion, jaws open, with the letters MASSA, and below, the Greek letters Α, Η; the countermark differs from the preceding ones and denotes another moneyer."
       ],
       "motifs": [
@@ -253,9 +253,9 @@
       "obverse_fr": "Diane, épaule découverte, coiffure à rézeau",
       "obverse_ru": "Диана, обнажённое плечо, сетчатая причёска",
       "obverse_en": "Diana, bare shoulder, netted hairstyle",
-      "reverse_fr": "lion, gueule béante, MASSA / ΑΗ",
-      "reverse_ru": "лев с открытой пастью, MASSA / ΑΗ",
-      "reverse_en": "lion with open jaws, MASSA / ΑΗ"
+      "reverse_fr": "lion, gueule béante, MASSA / ΑΗΠΙ",
+      "reverse_ru": "лев с открытой пастью, MASSA / ΑΗΠΙ",
+      "reverse_en": "lion with open jaws, MASSA / ΑΗΠΙ"
     },
     {
       "id": "pl1-6",
@@ -462,9 +462,9 @@
       "part": 1,
       "plate": 1,
       "num": "10",
-      "fr": "Diane / Lion, Α ΛΛ",
-      "ru": "Диана / лев, Α ΛΛ",
-      "en": "Diana / Lion, Α ΛΛ",
+      "fr": "Diane / Lion, A Λ",
+      "ru": "Диана / лев, A Λ",
+      "en": "Diana / Lion, A Λ",
       "page": "27",
       "group": "I",
       "group_fr": "Planche I",
@@ -490,10 +490,10 @@
         "Le Buste de Diane représenté dans cette Médaille, ne différe en rien de celui du numéro 2, si ce n'est par les plis de la robe sur le sein; le revers est un Lion, la patte gauche levée. La différence la plus sensible de cette Médaille, est qu'elle ne porte nulle part le nom de Marseille; il y a seulement dans le champ, la lettre A, & au bas, deux Lambda."
       ],
       "text_ru": [
-        "Бюст Дианы на этой монете ничем не отличается от бюста на монете №2, кроме складок одежды на груди; оборот — лев с поднятой левой лапой. Наиболее заметное отличие этой монеты в том, что нигде на ней нет имени Марселя; в поле есть только буква Α, а внизу — две буквы Λ."
+        "Бюст Дианы на этой монете ничем не отличается от бюста на монете №2, кроме складок одежды на груди; оборот — лев с поднятой левой лапой. Наиболее заметное отличие этой монеты в том, что нигде на ней нет имени Марселя; в поле есть только буква Α, а внизу — две буквы Λ. [На самой гравюре внизу видны буквы A и Λ, а не два Λ — расхождение с текстом Гроссона.]"
       ],
       "text_en": [
-        "The Bust of Diana shown on this medal does not differ at all from that of no. 2, except for the folds of drapery on the chest; the reverse is a Lion with its left paw raised. The most noticeable difference of this medal is that it bears the name of Marseille nowhere; there is only the letter Α in the field, and below, two Lambdas."
+        "The Bust of Diana shown on this medal does not differ at all from that of no. 2, except for the folds of drapery on the chest; the reverse is a Lion with its left paw raised. The most noticeable difference of this medal is that it bears the name of Marseille nowhere; there is only the letter Α in the field, and below, two Lambdas. [The engraving itself shows A and Λ below, not two Λ's — a discrepancy with Grosson's text.]"
       ],
       "motifs": [
         "diana",
@@ -502,18 +502,18 @@
       "obverse_fr": "Diane (comme n°. 2), plis de robe sur le sein",
       "obverse_ru": "Диана (как №2), складки одежды на груди",
       "obverse_en": "Diana (as no. 2), drapery folds on the chest",
-      "reverse_fr": "lion, patte gauche levée, Α / ΛΛ (sans le nom de Marseille)",
-      "reverse_ru": "лев с поднятой левой лапой, Α / ΛΛ (без имени Марселя)",
-      "reverse_en": "lion, left paw raised, Α / ΛΛ (no name of Marseille)"
+      "reverse_fr": "lion, patte gauche levée, A / Λ (sans le nom de Marseille)",
+      "reverse_ru": "лев с поднятой левой лапой, A / Λ (без имени Марселя)",
+      "reverse_en": "lion, left paw raised, A / Λ (no name of Marseille)"
     },
     {
       "id": "pl1-11",
       "part": 1,
       "plate": 1,
       "num": "11",
-      "fr": "Diane / Lion, MASSA TAA",
-      "ru": "Диана / лев, MASSA TAA",
-      "en": "Diana / Lion, MASSA TAA",
+      "fr": "Diane / Lion, MASSA TAΛ",
+      "ru": "Диана / лев, MASSA TAΛ",
+      "en": "Diana / Lion, MASSA TAΛ",
       "page": "28",
       "group": "I",
       "group_fr": "Planche I",
@@ -539,10 +539,10 @@
         "Médaille semblable à la précédente; le revers varie, par les lettres MASSA au haut, & en bas, TAA."
       ],
       "text_ru": [
-        "Монета, схожая с предыдущей; оборот отличается буквами MASSA вверху и ТАА внизу."
+        "Монета, схожая с предыдущей; оборот отличается буквами MASSA вверху и ТАА внизу. [На гравюре внизу читается ТАΛ, а не ТАА — расхождение с текстом Гроссона.]"
       ],
       "text_en": [
-        "A medal similar to the preceding one; the reverse differs, with the letters MASSA at the top, and TAA at the bottom."
+        "A medal similar to the preceding one; the reverse differs, with the letters MASSA at the top, and TAA at the bottom. [The engraving reads TAΛ at the bottom, not TAA — a discrepancy with Grosson's text.]"
       ],
       "motifs": [
         "diana",
@@ -551,9 +551,9 @@
       "obverse_fr": "Diane (comme n°. 10)",
       "obverse_ru": "Диана (как №10)",
       "obverse_en": "Diana (as no. 10)",
-      "reverse_fr": "lion, MASSA / TAA",
-      "reverse_ru": "лев, MASSA / TAA",
-      "reverse_en": "lion, MASSA / TAA"
+      "reverse_fr": "lion, MASSA / TAΛ",
+      "reverse_ru": "лев, MASSA / TAΛ",
+      "reverse_en": "lion, MASSA / TAΛ"
     },
     {
       "id": "pl1-12",
@@ -808,9 +808,9 @@
       "part": 1,
       "plate": 1,
       "num": "17",
-      "fr": "Tête, LACYDON / Croix (de Malte), MA",
-      "ru": "Голова, ЛАКИДОН / крест (мальтийского типа), MA",
-      "en": "Head, LACYDON / Cross (Maltese-style), MA",
+      "fr": "Tête, ΛΑΚΥΔΩΝ / Croix (de Malte)",
+      "ru": "Голова, ΛΑΚΥΔΩΝ / крест (мальтийского типа)",
+      "en": "Head, ΛΑΚΥΔΩΝ / Cross (Maltese-style)",
       "page": "29",
       "group": "I",
       "group_fr": "Planche I",
@@ -850,18 +850,18 @@
       "obverse_fr": "tête de jeune homme, légende ΛΑΚΥΔΩΝ",
       "obverse_ru": "голова юноши, легенда ΛΑΚΥΔΩΝ (Лакидон)",
       "obverse_en": "head of a young man, legend ΛΑΚΥΔΩΝ (Lacydon)",
-      "reverse_fr": "croix pattée à huit pointes (comme celle de Malte), MA",
-      "reverse_ru": "восьмиконечный крест с расширяющимися концами (мальтийского типа), MA",
-      "reverse_en": "eight-pointed cross pattée (Maltese-style), MA"
+      "reverse_fr": "croix pattée à huit pointes (comme celle de Malte), sans lettres visibles sur la gravure",
+      "reverse_ru": "восьмиконечный крест с расширяющимися концами (мальтийского типа); на гравюре букв MA не видно",
+      "reverse_en": "eight-pointed cross pattée (Maltese-style); no letters visible on the engraving"
     },
     {
       "id": "pl1-18",
       "part": 1,
       "plate": 1,
       "num": "18",
-      "fr": "Diane (diadème) / Croix, MA",
-      "ru": "Диана (с диадемой) / крест, MA",
-      "en": "Diana (diadem) / Cross, MA",
+      "fr": "Diane (diadème) / Croix, Α Μ",
+      "ru": "Диана (с диадемой) / крест, Α Μ",
+      "en": "Diana (diadem) / Cross, Α Μ",
       "page": "30",
       "group": "I",
       "group_fr": "Planche I",
@@ -900,9 +900,9 @@
       "obverse_fr": "Diane, diadème",
       "obverse_ru": "Диана, диадема",
       "obverse_en": "Diana, diadem",
-      "reverse_fr": "croix, MA",
-      "reverse_ru": "крест, MA",
-      "reverse_en": "cross, MA"
+      "reverse_fr": "croix, lettres Α (en haut) et Μ (en bas) dans les quartiers",
+      "reverse_ru": "крест, буквы Α (вверху) и Μ (внизу) в четвертях",
+      "reverse_en": "cross, letters Α (top) and Μ (bottom) in the quarters"
     },
     {
       "id": "pl1-19",
