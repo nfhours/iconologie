@@ -10988,12 +10988,41 @@
       "group_fr": "Diverses Iustices",
       "group_page": "66",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-52-overview.jpg",
+        "p2-52.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Общее вступление (без отдельного номера записи) о природе Правосудия, представленное первой простой фигурой — увенчанной девой в золотом одеянии с драгоценным украшением на шее; на иллюстрации — общий вид страницы со всеми четырьмя медальонами «Diverses Justices»",
+          "meaning": "Золотое одеяние и драгоценное украшение — бесценность добродетели Правосудия; проникающий взор — всевидение правосудия, не оставляющее ничего сокрытым",
+          "what_en": "A general introduction (without its own entry number) on the nature of Justice, represented by the first, plain figure — a crowned maiden in a golden robe with a precious jewel at her throat; the illustration shows the full page with all four \"Diverse Justices\" roundels",
+          "meaning_en": "The golden robe and jewel signify the priceless value of the virtue of Justice; her penetrating gaze, justice's all-seeing nature that leaves nothing hidden"
+        },
+        {
+          "what": "Величественная дама в королевской короне, с весами в одной руке и обнажённым мечом в другой; рядом пёс и змея",
+          "meaning": "Корона — царица всех добродетелей; обнажённый прямой меч — готовность непрестанно карать пороки; весы — обязанность взвешивать добрые и дурные деяния; пёс — верная преданность добродетели; змея — ненависть к пороку как смертельному яду",
+          "what_en": "A majestic lady in a royal crown, a scale in one hand and a bare sword in the other, a dog and a serpent beside her",
+          "meaning_en": "The crown signifies the queen of all virtues; the bare, upright sword, constant readiness to punish vice; the scale, the duty of weighing good and bad deeds; the dog, faithful devotion to virtue; the serpent, hatred of vice as a deadly poison"
+        }
+      ],
+      "text_ru": [
+        "Таково мнение Платона, что ничто не может укрыться от очей Правосудия, и что по этой причине древние жрецы Египтян говорили, будто силою своего взора оно проникает в самую суть всех вещей. Отсюда же и то, что Апулей клянётся оком Солнца и Правосудия вместе, дабы показать, что одно столь же ясновидяще, как и другое. Отсюда же нам преподаётся, каковы должны быть Служители Правосудия: ибо надлежит, чтобы в них были некие лучи, посредством коих они обнаруживают истину, где бы она ни была сокрыта, и чтобы, подобно чистейшим девам, они были свободны от всякой страсти, никогда не позволяя себе быть подкупленными ни дарами, ни лестью. По каковой причине мы можем сказать, что Правосудие есть устойчивое свойство, следуя коему справедливый человек распределяет добро и зло между собою и другими, сообразно качествам или геометрическим пропорциям.",
+        "К этому можно отнести и то, что для изображения правосудия и чистоты души Древние имели символом кувшин, таз и колонну, как подтверждается многими мраморными гробницами и различными древностями, отчего изобретательный Альциато и говорит в своих Эмблемах: Что добрый Судья должен иметь душу и руки чистыми, Если желает карать преступление и мстить за обиды.",
+        "Всё, что я только что сказал, говоря вообще о Правосудии, здесь представлено его первой фигурой, каковая есть фигура прекрасной увенчанной девы, облачённой в золотое одеяние и носящей на шее драгоценное украшение, дабы научить нас, что эта добродетель бесценна и драгоценнейшая из всех вещей мира."
+      ],
+      "text_fr": [
+        "C'EST l'opinion de Platon, que rien ne peut échapper aux yeux de la Justice, & que pour cela les anciens Prestres des Egyptiens disoient, que par la force de sa veuë elle penetroit dans le fond de toutes choses. De là vient aussi qu'Apulée jure par l'œil du Soleil & de la Justice ensemble, pour montrer que l'un est aussi clair-voyant que l'autre. D'où il nous est enseigné pareillement quels doivent estre les Ministres de la Justice: car il faut qu'il y ait en eux certains rayons, par le moyen desquels ils découvrent la verité en quelque lieu qu'elle soit cachée, & qu'à la façon des vierges les plus chastes, ils soient exempts de toute sorte de passion, sans se laisser corrompre jamais ny par presens, ny par flatteries. A raison dequoy nous pouvons dire que la Justice est une habitude, suivant laquelle l'homme juste distribuë le bien & le mal entre soy-mesme & les autres, selon les qualitez ou les propositions geometriques.",
+        "L'on peut rapporter à cecy que pour figurer la justice & l'integrité de l'ame, les Anciens avoient pour symbole une éguiere, un bassin, & une colomne, comme il se verifie par plusieurs tombeaux de marbre, & par diverses antiquitez, d'où vient que l'ingenieux Alciat dit dans ses Emblêmes, Qu'il faut que le bon Juge ait l'ame & les mains pures, S'il veut punir le crime, & vanger les injures.",
+        "Tout ce que je viens de dire parlant generalement de la Justice, est icy representé par sa premiere figure, qui est celle d'une belle vierge couronnée, couverte d'une robe d'or, & qui porte à son col un riche joyau, pour nous enseigner que cette vertu est inestimable, & la plus precieuse de toutes les choses du monde."
+      ],
       "en": "Inviolable Justice",
-      "group_en": "Various Kinds of Justice"
+      "group_en": "Various Kinds of Justice",
+      "scans": [
+        "p2-52-1.jpg",
+        "p2-52-2.jpg",
+        "p2-52-3.jpg"
+      ]
     },
     {
       "id": "p2-53",
@@ -11006,12 +11035,31 @@
       "group_fr": "Diverses Iustices",
       "group_page": "66",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-53.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Увенчанный короной скелет в белом покрывале, опирающийся на меч и держащий весы",
+          "meaning": "Скелет — неумолимость строгого правосудия, подобная смерти, не знающей жалости и лицеприятия; меч и весы — беспристрастное взвешивание вины и неотвратимое наказание",
+          "what_en": "A crowned skeleton in a white shroud, resting on a sword and holding a scale",
+          "meaning_en": "The skeleton signifies the inexorability of rigorous justice, like death itself, unmoved by pleas and no respecter of persons; the sword and scale, the impartial weighing of guilt and inevitable punishment"
+        }
+      ],
+      "text_ru": [
+        "Её невозможно изобразить лучше, чем она представлена здесь в облике увенчанного короной скелета, облачённого в белое покрывало, правой рукой опирающегося на меч, а левой держащего весы.",
+        "Этим устрашающим образом нам преподаётся, что строгий Судья никоим образом не прощает совершённых проступков, какие бы оправдания ни приводили преступники; подобно смерти, которую не умягчить мольбами и которая не взирает на лица, какого бы звания они ни были."
+      ],
+      "text_fr": [
+        "ELLE ne sçauroit estre mieux peinte qu'elle est icy sous la forme d'un squelet couronné, couvert d'un drap blanc, & qui de la main droite s'appuye sur une épée, & de la gauche tient une balance.",
+        "Par cette effroyable image il nous est enseigné que le Juge rigoureux ne pardonne point les fautes commises, quelques excuses qu'alleguent les criminels; En cela semblable à la mort, qui ne se laisse point fléchir par prieres, & n'a point d'égard aux personnes de quelque qualité qu'elles puissent estre."
+      ],
       "en": "Rigorous Justice",
-      "group_en": "Various Kinds of Justice"
+      "group_en": "Various Kinds of Justice",
+      "scans": [
+        "p2-53-1.jpg",
+        "p2-53-2.jpg"
+      ]
     },
     {
       "id": "p2-54",
@@ -11024,12 +11072,44 @@
       "group_fr": "Diverses Iustices",
       "group_page": "66",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-54.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Прекрасная дама в золотом одеянии с распущенными волосами, увенчанная короной с лучезарной голубкой над ней, с пламенеющим мечом в правой руке и весами в левой",
+          "meaning": "Золотое одеяние — блистательное сияние Божественного правосудия; корона — абсолютная власть над всеми силами мира; весы и меч — управление всеми человеческими деяниями и неотвратимая кара за грех; голубка — Святой Дух, через которого Божественное правосудие сообщается государям мира; распущенные волосы — милости небесной благости, не нарушающие правосудия",
+          "what_en": "A beautiful lady in a golden robe with loose hair, crowned, a radiant dove above her, a flaming sword in her right hand and a scale in her left",
+          "meaning_en": "The golden robe signifies the radiant splendor of Divine Justice; the crown, absolute power over all the world's powers; the scale and sword, governance of all human deeds and inevitable punishment for sin; the dove, the Holy Spirit through whom Divine Justice is conveyed to the world's princes; the loose hair, the graces of heavenly goodness that do not offend justice"
+        }
+      ],
+      "text_ru": [
+        "Её изображение есть изображение дамы необычайной красоты. На увенчанной короной её голове — лучезарная голубка, одеяние, сотканное из золота, волосы распущены, взор скромен; в правой руке она держит пламенеющий меч, а в левой — весы.",
+        "Золотым одеянием означено блистательное сияние этого Правосудия.",
+        "Короной — что власть её безусловна над всеми властями мира.",
+        "Весами — что Божественное Правосудие управляет всеми действиями смертных; а мечом — что оно карает тех, кто согрешил.",
+        "Что до голубки, это образ Святого Духа, третьей Ипостаси Пресвятой Троицы, совершенного союза любви между Отцом и Сыном, через какового Духа Божественное Правосудие сообщается всем Государям мира.",
+        "Эта же голубка бела и лучезарна, ибо из видимых качеств это почитается превосходнейшим.",
+        "Её распущенные волосы суть символы милостей, исходящих от благости Небес без ущерба для Божественного Правосудия, коего они суть собственно принадлежащие ему и вполне подобающие ему действия.",
+        "Притом эта дама устремляет очи к Небу и презирает землю, как нечто слишком низменное, ибо нет здесь, внизу, ничего, что могло бы быть выше её."
+      ],
+      "text_fr": [
+        "SON image est celle d'une dame de singuliere beauté. Elle a sur sa teste qui est couronnée, une colombe resplendissante, une robe tissuë d'or, les cheveux épars, le regard modeste, tenant de la main droite une épée flamboyante, & de la gauche une balance.",
+        "Par la robe d'or est signifié le lustre éclatant de cette Justice.",
+        "Par sa couronne, que son pouvoir est absolu sur toutes les puissances du monde.",
+        "Par la balance, que la Justice Divine regle toutes les actions des humains; Et par l'épée, qu'elle punit ceux qui ont failly.",
+        "Pour le regard de la colombe, c'est la figure du S. Esprit, qui est la troisiéme personne de la tres-sainte Trinité, & un parfait lien d'amour entre le Pere & le Fils, par lequel Esprit la Justice divine se communique à tous les Princes du monde.",
+        "Cette mesme colombe est blanche & resplendissante, parce qu'entre les qualitez visibles, celle-cy passe pour la plus excellente.",
+        "Ses cheveux épars sont des symboles des graces qui viennent de la bonté du Ciel, sans offense de la Justice divine, dont elles sont des effets qui luy appartiennent proprement, & luy sont du tout convenables.",
+        "Cette dame au reste a les yeux élevez au Ciel, & dédaigne la terre, comme une chose trop ravalée, n'y ayant rien icy bas qui puisse estre au dessus d'elle."
+      ],
       "en": "Divine Justice",
-      "group_en": "Various Kinds of Justice"
+      "group_en": "Various Kinds of Justice",
+      "scans": [
+        "p2-54-1.jpg",
+        "p2-54-2.jpg",
+        "p2-54-3.jpg"
+      ]
     },
     {
       "id": "p2-55",
