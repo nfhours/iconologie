@@ -17,6 +17,12 @@
     { "id": "olive-crown",  "fr": "Couronne d'olivier", "ru": "Оливковый венец", "en": "Olive crown" },
     { "id": "laurel-crown", "fr": "Couronne de laurier", "ru": "Лавровый венец", "en": "Laurel crown" },
     { "id": "turban",       "fr": "Turban",           "ru": "Тюрбан",           "en": "Turban" },
-    { "id": "cuirass",      "fr": "Cuirasse",         "ru": "Кираса",           "en": "Cuirass" }
+    { "id": "cuirass",      "fr": "Cuirasse",         "ru": "Кираса",           "en": "Cuirass" },
+    { "id": "minerva",      "fr": "Minerve",          "ru": "Минерва",          "en": "Minerva" },
+    { "id": "dog",          "fr": "Chien",            "ru": "Пёс",              "en": "Dog" },
+    { "id": "minotaur",     "fr": "Minotaure",        "ru": "Минотавр",         "en": "Minotaur" },
+    { "id": "caduceus",     "fr": "Caducée",          "ru": "Кадуцей",          "en": "Caduceus" },
+    { "id": "tripod",       "fr": "Trépied",          "ru": "Треножник",        "en": "Tripod" },
+    { "id": "wing",         "fr": "Aile",             "ru": "Крыло",            "en": "Wing" }
   ]
 }

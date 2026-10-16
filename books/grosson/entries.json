@@ -1052,7 +1052,8 @@
       "reverse_en": "wingless caduceus, letters Lambda and Delta",
       "motifs": [
         "diana",
-        "diadem"
+        "diadem",
+        "caduceus"
       ]
     },
     {
@@ -1403,6 +1404,395 @@
         "diana",
         "trident",
         "lion"
+      ]
+    },
+    {
+      "id": "pl3-1",
+      "part": 1,
+      "plate": 3,
+      "num": "1",
+      "fr": "Apollon / Cheval, MASSA",
+      "ru": "Аполлон / конь, MASSA",
+      "en": "Apollo / Horse, MASSA",
+      "page": "37",
+      "group": "III",
+      "group_fr": "Planche III",
+      "group_en": "III",
+      "group_page": "37",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl3-1.jpg"
+      ],
+      "plate_img": "pl3-full.jpg",
+      "bbox": [
+        10.98,
+        11.71,
+        34.53,
+        9.66
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LES Médailles contenues dans cette Planche, sont toutes en bronze, & des mêmes grandeurs que celles des Gravures. Celle désignée par le n°. 1, représente d'un côté la tête d'Apollon, & sur le revers, un Cheval broutant l'herbe; la contre-marque est un Delta."
+      ],
+      "text_ru": [
+        "Монеты, помещённые на этой Таблице, все бронзовые и того же размера, что и сами гравюры. Монета под №1 представляет с одной стороны голову Аполлона, а на обороте — коня, щиплющего траву; клеймо — буква дельта."
+      ],
+      "text_en": [
+        "The medals contained in this Plate are all in bronze, and of the same size as the engravings. The one designated by no. 1 shows on one side the head of Apollo, and on the reverse, a Horse grazing; the countermark is a Delta."
+      ],
+      "obverse_fr": "tête d'Apollon",
+      "obverse_ru": "голова Аполлона",
+      "obverse_en": "head of Apollo",
+      "reverse_fr": "cheval broutant l'herbe, contremarque Delta",
+      "reverse_ru": "пасущийся конь, клеймо дельта",
+      "reverse_en": "horse grazing, countermark Delta",
+      "motifs": [
+        "apollo"
+      ]
+    },
+    {
+      "id": "pl3-2",
+      "part": 1,
+      "plate": 3,
+      "num": "2",
+      "fr": "Guerrier (Bacchus?) / Trépied, MA",
+      "ru": "Воин (Вакх?) / треножник, MA",
+      "en": "Warrior (Bacchus?) / Tripod, MA",
+      "page": "37",
+      "group": "III",
+      "group_fr": "Planche III",
+      "group_en": "III",
+      "group_page": "37",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl3-2.jpg"
+      ],
+      "plate_img": "pl3-full.jpg",
+      "bbox": [
+        11.69,
+        32.88,
+        33.97,
+        10.15
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 2. Cette Médaille présente d'un côté la tête d'un Guerrier, le casque en tête. Cette armure est dans le costume Macédonien, & en dessous, des Panaches qui l'ornent: on distingue un raisin; ce qui semble désigner Bacchus. Les grandes victoires que Bacchus [selon la Fable], avoit remportées dans les Indes, pouvoient avoir engagé les Marseillois à le représenter en Guerrier; il est également naturel de croire que l'Effigie représentée sur cette Médaille, est celle du Dieu Mars. Les vins de Marseille étoient estimés des Anciens, & formoient une branche de commerce pour cette Ville. Nos pères voulant annoncer, que malgré la fureur de la guerre, la culture des vignes n'avoit point été négligée, & que la récolte du vin avoit été abondante, & le commerce de cette liqueur soutenu avec succès, avoient peut-être fait frapper cette Médaille dans quelque circonstance relative à ce que je viens d'exposer. Le revers de cette Médaille est très-curieux, en ce qu'il nous conserve la forme des Trépieds, ainsi que celle des Cassolettes, en usage dans Marseille, pour les sacrifices & les parfums qu'on brûloit devant les Idôles. On lit à droite les lettres MA, avec un croissant au-dessous, & à gauche, les mêmes lettres MA, avec un M."
+      ],
+      "text_ru": [
+        "№2. Эта монета представляет с одной стороны голову Воина в шлеме. Этот доспех выполнен в македонском облачении, а под ним — украшающие его султаны: различим виноград, что, по-видимому, указывает на Вакха. Великие победы, которые Вакх [согласно Мифу] одержал в Индии, могли побудить марсельцев изобразить его Воином; столь же естественно полагать, что на этой монете представлен облик бога Марса. Марсельские вина высоко ценились древними и составляли для этого Города отрасль торговли. Наши отцы, желая возвестить, что, несмотря на ярость войны, возделывание виноградников не было оставлено, что урожай вина был обилен и торговля этим напитком шла успешно, возможно, повелели отчеканить эту монету по какому-то случаю, связанному с тем, что я изложил. Оборот этой монеты весьма любопытен тем, что сохраняет для нас форму Треножников, а также Курильниц, использовавшихся в Марселе для жертвоприношений и воскурений, которые совершали перед Идолами. Справа читаются буквы MA с полумесяцем под ними, а слева — те же буквы MA с буквой M."
+      ],
+      "text_en": [
+        "No. 2. This medal shows on one side the head of a Warrior, helmeted. This armor is in the Macedonian style, and beneath it, plumes that adorn it: a bunch of grapes can be made out, which seems to indicate Bacchus. The great victories that Bacchus [according to the Fable] had won in the Indies could have led the Marseillais to represent him as a Warrior; it is equally natural to believe that the Effigy shown on this medal is that of the god Mars. The wines of Marseille were esteemed by the Ancients, and formed a branch of trade for this City. Our forefathers, wishing to announce that despite the fury of war the cultivation of vines had not been neglected, that the wine harvest had been abundant, and that trade in this liquor was carried on successfully, perhaps had this medal struck on some occasion related to what I have just set out. The reverse of this medal is very curious, in that it preserves for us the form of Tripods, as well as that of Incense-burners, used in Marseille for sacrifices and the perfumes burned before the Idols. On the right one reads the letters MA, with a crescent below, and on the left, the same letters MA, with an M."
+      ],
+      "obverse_fr": "tête d'un Guerrier casqué (costume macédonien), panaches, grappe de raisin",
+      "obverse_ru": "голова воина в шлеме (македонский убор), султаны, гроздь винограда",
+      "obverse_en": "head of a helmeted Warrior (Macedonian armor), plumes, a bunch of grapes",
+      "reverse_fr": "trépied (cassolette), MA et croissant à droite, MA et M à gauche",
+      "reverse_ru": "треножник (курильница), MA и полумесяц справа, MA и M слева",
+      "reverse_en": "tripod (incense-burner), MA and a crescent on the right, MA and M on the left",
+      "motifs": [
+        "mars",
+        "tripod"
+      ]
+    },
+    {
+      "id": "pl3-3",
+      "part": 1,
+      "plate": 3,
+      "num": "3",
+      "fr": "Minerve / Trépied, MA",
+      "ru": "Минерва / треножник, MA",
+      "en": "Minerva / Tripod, MA",
+      "page": "38",
+      "group": "III",
+      "group_fr": "Planche III",
+      "group_en": "III",
+      "group_page": "37",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl3-3.jpg"
+      ],
+      "plate_img": "pl3-full.jpg",
+      "bbox": [
+        7.93,
+        46.14,
+        36.85,
+        17.61
+      ],
+      "attrs": [],
+      "text_fr": [
+        "La Médaille suivante, désignée par le numéro 3, differe de la précédente, en ce qu'elle représente Minerve; ce qu'on distingue à la finesse des traits qui caractérisent une personne du sexe, & au Colier de perles, ornement dont les hommes ne se parerent jamais. Le Casque à la Macédonienne, est orné d'un plus grand nombre de Panaches, & le raisin se trouve placé au même endroit que dans la Médaille précédente. Minerve étoit la Divinité tutélaire des Arts; elle avoit un Temple dans Marseille: on la représentoit le Casque en tête. Notre Médaille désigne probablement le commerce des vins, soutenu par l'industrie & les Arts; le revers est le même que celui de la Médaille du n°. 2; mais la forme du Trépied différe: ce qui peut donner une idée de différentes constructions en ce genre."
+      ],
+      "text_ru": [
+        "Следующая монета, обозначенная номером 3, отличается от предыдущей тем, что на ней представлена Минерва; это видно по тонкости черт, характерных для лица женского пола, и по жемчужному ожерелью — украшению, которым мужчины никогда себя не наряжали. Шлем македонского типа украшен ещё большим числом султанов, а виноград помещён на том же месте, что и на предыдущей монете. Минерва была покровительствующим божеством Искусств; у неё был Храм в Марселе: её изображали в шлеме на голове. Наша монета, вероятно, обозначает торговлю винами, поддерживаемую трудолюбием и Искусствами; оборот тот же, что и у монеты №2, но форма Треножника отличается — это может дать представление о различных устройствах такого рода."
+      ],
+      "text_en": [
+        "The following medal, designated by number 3, differs from the preceding one in that it represents Minerva; this is distinguished by the fineness of the features characterizing a person of the female sex, and by the pearl Necklace, an ornament that men never wore. The Macedonian-style Helmet is adorned with a greater number of plumes, and the grapes are placed in the same spot as on the preceding medal. Minerva was the tutelary Divinity of the Arts; she had a Temple in Marseille: she was represented with the helmet on her head. Our medal probably denotes the trade in wines, sustained by industry and the Arts; the reverse is the same as that of the medal no. 2; but the form of the Tripod differs: which may give an idea of different constructions of this kind."
+      ],
+      "obverse_fr": "tête de Minerve, casque macédonien à nombreux panaches, collier de perles, grappe de raisin",
+      "obverse_ru": "голова Минервы, македонский шлем с множеством султанов, жемчужное ожерелье, гроздь винограда",
+      "obverse_en": "head of Minerva, Macedonian helmet with many plumes, pearl necklace, a bunch of grapes",
+      "reverse_fr": "trépied d'une forme différente du n°2, MA de chaque côté, croissant",
+      "reverse_ru": "треножник иной формы, чем у №2, MA с обеих сторон, полумесяц",
+      "reverse_en": "tripod of a different form from no. 2, MA on each side, a crescent",
+      "motifs": [
+        "minerva",
+        "tripod"
+      ]
+    },
+    {
+      "id": "pl3-4",
+      "part": 1,
+      "plate": 3,
+      "num": "4",
+      "fr": "Mars / Aigle, MASSA",
+      "ru": "Марс / орёл, MASSA",
+      "en": "Mars / Eagle, MASSA",
+      "page": "39",
+      "group": "III",
+      "group_fr": "Planche III",
+      "group_en": "III",
+      "group_page": "37",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl3-4.jpg"
+      ],
+      "plate_img": "pl3-full.jpg",
+      "bbox": [
+        9.66,
+        68.88,
+        36.29,
+        13.68
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 4. La tête de Mars ornée du casque, est représentée sur cette Médaille, avec la contre-marque A; le revers est une Aigle, symbole de la République Romaine. Il pourroit avoir trait au secours que la République Romaine donna à celle de Marseille, son alliée & sa sœur, contre les Saliens & les Falanes que Cajus Sextius, Consul Romain, Fondateur de la Ville d'Aix, défit entièrement. Cette Médaille seroit-elle un signe de reconnoissance au Dieu Mars & aux Romains, en mémoire de ce que par la protection de l'un & le secours des autres, les peuples ennemis avoient été détruits. La contre-marque du revers est une étoile: on y lit l'abréviation MASSA, en caractères grecs."
+      ],
+      "text_ru": [
+        "№4. Голова Марса, украшенная шлемом, изображена на этой монете, с клеймом A; оборот — орёл, символ Римской республики. Это может иметь отношение к помощи, которую Римская республика оказала союзному и братскому ей Марселю против салиев и фаланов, которых Гай Секстий, римский консул и основатель города Экс, полностью разгромил. Не служит ли эта монета знаком признательности богу Марсу и римлянам в память о том, что благодаря покровительству одного и помощи других вражеские народы были уничтожены? Клеймо на обороте — звезда: на нём читается сокращение MASSA греческими буквами."
+      ],
+      "text_en": [
+        "No. 4. The head of Mars, adorned with the helmet, is shown on this medal, with the countermark A; the reverse is an Eagle, symbol of the Roman Republic. This might relate to the aid the Roman Republic gave to that of Marseille, its ally and sister, against the Salyens and the Falani, whom Caius Sextius, Roman Consul, Founder of the City of Aix, entirely defeated. Might this medal be a token of gratitude to the god Mars and to the Romans, in memory of the fact that, through the protection of the one and the help of the others, the enemy peoples had been destroyed? The countermark on the reverse is a star: on it one reads the abbreviation MASSA, in Greek characters."
+      ],
+      "obverse_fr": "tête de Mars casquée, contremarque A",
+      "obverse_ru": "голова Марса в шлеме, клеймо A",
+      "obverse_en": "helmeted head of Mars, countermark A",
+      "reverse_fr": "aigle (symbole de la République romaine), MASSA, étoile",
+      "reverse_ru": "орёл (символ Римской республики), MASSA, звезда",
+      "reverse_en": "eagle (symbol of the Roman Republic), MASSA, a star",
+      "motifs": [
+        "mars",
+        "eagle"
+      ]
+    },
+    {
+      "id": "pl3-5",
+      "part": 1,
+      "plate": 3,
+      "num": "5",
+      "fr": "Mars / Trépied, MA",
+      "ru": "Марс / треножник, MA",
+      "en": "Mars / Tripod, MA",
+      "page": "39",
+      "group": "III",
+      "group_fr": "Planche III",
+      "group_en": "III",
+      "group_page": "37",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl3-5.jpg"
+      ],
+      "plate_img": "pl3-full.jpg",
+      "bbox": [
+        56.58,
+        10.44,
+        34.99,
+        10.74
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 5. La tête du Dieu Mars est encore représentée sur cette Médaille, dont le revers est un Trépied, d'une structure différente des précédens; la Cassolette termine en forme de vase; le Trépied est orné de branches de laurier dans les angles supérieurs: ce qui prouve que l'Effigie est véritablement celle du Dieu de la Guerre, à qui le laurier étoit consacré; on voit sur le revers les deux lettres MA."
+      ],
+      "text_ru": [
+        "№5. Голова бога Марса вновь изображена на этой монете, оборот которой — треножник иного устройства, чем предыдущие; курильница завершается в форме вазы; треножник украшен лавровыми ветвями в верхних углах, что доказывает, что изображён действительно бог Войны, которому был посвящён лавр; на обороте видны две буквы MA."
+      ],
+      "text_en": [
+        "No. 5. The head of the god Mars is again shown on this medal, whose reverse is a Tripod, of a structure different from the preceding ones; the Incense-burner ends in the form of a vase; the Tripod is adorned with laurel branches in the upper corners: which proves that the Effigy is indeed that of the God of War, to whom the laurel was consecrated; on the reverse one sees the two letters MA."
+      ],
+      "obverse_fr": "tête de Mars, dieu de la guerre, à qui le laurier était consacré",
+      "obverse_ru": "голова Марса, бога войны, которому был посвящён лавр",
+      "obverse_en": "head of Mars, god of war, to whom the laurel was consecrated",
+      "reverse_fr": "trépied de structure différente, cassolette en forme de vase, branches de laurier, lettres MA",
+      "reverse_ru": "треножник иного устройства, курильница в форме вазы, лавровые ветви, буквы MA",
+      "reverse_en": "tripod of a different structure, vase-shaped incense-burner, laurel branches, letters MA",
+      "motifs": [
+        "mars",
+        "tripod"
+      ]
+    },
+    {
+      "id": "pl3-6",
+      "part": 1,
+      "plate": 3,
+      "num": "6",
+      "fr": "Apollon (gouvernail) / Taureau, MASSALIETON",
+      "ru": "Аполлон (с рулевым веслом) / бык, MASSALIETON",
+      "en": "Apollo (rudder) / Bull, MASSALIETON",
+      "page": "40",
+      "group": "III",
+      "group_fr": "Planche III",
+      "group_en": "III",
+      "group_page": "37",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl3-6.jpg"
+      ],
+      "plate_img": "pl3-full.jpg",
+      "bbox": [
+        56.61,
+        31.55,
+        34.16,
+        10.12
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 6. Tête d'Apollon couronnée de laurier, avec un gouvernail, symbole de la navigation. Les sciences Mathématiques relatives à la navigation, étoient cultivées dans Marseille, & poussées au plus haut degré possible dans ce temps. Le fameux Astronome Pithéas, de Marseille, fut également bon Hydrographe; il découvrit plusieurs contrées dans diverses navigations entreprises pour ce seul but. Est-il surprenant que les Marseillois témoignassent leur gratitude au Dieu des Arts, de ce que par sa protection, les Savans de cette Ville faisoient des découvertes utiles à la navigation, & à l'art de conduire les Navires. Le revers de cette Médaille semble vérifier cette conjecture. Le Taureau, l'une des Enseignes Marseilloises, y est représenté avec un poisson par-dessus. Ce symbole étoit commun à plusieurs Villes grecques, maritimes & commerçantes. On lit au bas, le mot MASSALIETON."
+      ],
+      "text_ru": [
+        "№6. Голова Аполлона, увенчанная лавром, с рулевым веслом — символом мореплавания. Математические науки, относящиеся к навигации, культивировались в Марселе и были доведены в то время до наивысшей возможной степени. Знаменитый марсельский астроном Пифей был также хорошим гидрографом; он открыл несколько земель в различных плаваниях, предпринятых с этой единственной целью. Удивительно ли, что марсельцы выражали свою благодарность богу Искусств за то, что под его покровительством учёные этого Города делали открытия, полезные для мореплавания и искусства управления кораблями? Оборот этой монеты, похоже, подтверждает это предположение. Бык, одна из марсельских эмблем, изображён здесь с рыбой поверх него. Этот символ был общим для нескольких греческих городов, приморских и торговых. Внизу читается слово MASSALIETON."
+      ],
+      "text_en": [
+        "No. 6. Head of Apollo crowned with laurel, with a rudder, symbol of navigation. The Mathematical sciences relating to navigation were cultivated in Marseille, and pushed to the highest degree possible in that time. The famous Astronomer Pytheas, of Marseille, was also a good Hydrographer; he discovered several lands in various voyages undertaken for this sole purpose. Is it surprising that the Marseillais showed their gratitude to the God of the Arts, because under his protection the Scholars of this City made discoveries useful to navigation and to the art of handling Ships? The reverse of this medal seems to confirm this conjecture. The Bull, one of the Marseillais Emblems, is shown here with a fish above it. This symbol was common to several Greek maritime and trading Cities. At the bottom one reads the word MASSALIETON."
+      ],
+      "obverse_fr": "tête d'Apollon couronnée de laurier, avec un gouvernail",
+      "obverse_ru": "голова Аполлона в лавровом венке, с рулевым веслом",
+      "obverse_en": "head of Apollo, laurel-crowned, with a rudder",
+      "reverse_fr": "taureau, poisson par-dessus, MASSALIETON",
+      "reverse_ru": "бык, рыба сверху, MASSALIETON",
+      "reverse_en": "bull, a fish above, MASSALIETON",
+      "motifs": [
+        "apollo",
+        "bull"
+      ]
+    },
+    {
+      "id": "pl3-7",
+      "part": 1,
+      "plate": 3,
+      "num": "7",
+      "fr": "Tête (turban) / Taureau, MASSALIETON",
+      "ru": "Голова (в тюрбане) / бык, MASSALIETON",
+      "en": "Head (turban) / Bull, MASSALIETON",
+      "page": "40",
+      "group": "III",
+      "group_fr": "Planche III",
+      "group_en": "III",
+      "group_page": "37",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl3-7.jpg"
+      ],
+      "plate_img": "pl3-full.jpg",
+      "bbox": [
+        54.72,
+        51.23,
+        37.5,
+        11.2
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 7. Tête avec une coiffure ressemblant à un Turban; elle ne porte aucun caractère distinctif, qui puisse indiquer quelle Divinité on a voulu représenter; le revers est un Taureau, avec le mot MASSALIETON."
+      ],
+      "text_ru": [
+        "№7. Голова с причёской, напоминающей тюрбан; на ней нет никакого отличительного признака, который позволил бы определить, какое божество хотели изобразить; оборот — бык, со словом MASSALIETON."
+      ],
+      "text_en": [
+        "No. 7. Head with a hairstyle resembling a Turban; it bears no distinctive character that might indicate which Divinity was meant to be represented; the reverse is a Bull, with the word MASSALIETON."
+      ],
+      "obverse_fr": "tête à coiffure ressemblant à un turban, sans caractère distinctif de divinité",
+      "obverse_ru": "голова с убором наподобие тюрбана, без отличительных признаков божества",
+      "obverse_en": "head with a turban-like headdress, no distinctive mark of a divinity",
+      "reverse_fr": "taureau, MASSALIETON",
+      "reverse_ru": "бык, MASSALIETON",
+      "reverse_en": "bull, MASSALIETON",
+      "motifs": [
+        "bull"
+      ]
+    },
+    {
+      "id": "pl3-8",
+      "part": 1,
+      "plate": 3,
+      "num": "8",
+      "fr": "Vieillard (Jupiter?) / Aile, MASSA",
+      "ru": "Старец (Юпитер?) / крыло, MASSA",
+      "en": "Old man (Jupiter?) / Wing, MASSA",
+      "page": "40",
+      "group": "III",
+      "group_fr": "Planche III",
+      "group_en": "III",
+      "group_page": "37",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl3-8.jpg"
+      ],
+      "plate_img": "pl3-full.jpg",
+      "bbox": [
+        52.8,
+        67.72,
+        40.33,
+        14.34
+      ],
+      "attrs": [],
+      "text_fr": [
+        "La Médaille du chiffre 8, présente d'un côté la tête d'un Vieillard à longue barbe, tel qu'on représentoit Jupiter capitolin, ou Jupiter stateur; la couronne de laurier orne le front de cette figure; le revers est une Aile. La beauté des traits, & l'exactitude du Dessein, doivent faire rapporter cette Médaille aux beaux siècles de Marseille. Il est difficile d'assigner au vrai, quelle est la Divinité qui y est représentée. Seroit-ce Saturne, dont la couronne de laurier marqueroit l'Emblème de l'immortalité, & l'Aile seule désigneroit la durée infinie, comme ayant été coupée au temps? Seroit-ce Apollon, à qui ces Emblèmes conviendroient également, pour signifier que les Arts conduisent à cette même immortalité? Seroit-ce Jupiter, couronné de laurier, & le revers, l'aile de l'Aigle? Les Romains étoient en usage de parer de lauriers, les Statues de cette Divinité, toutes les fois qu'ils remportoient une victoire; c'est ce qu'atteste Pline: Fasces Imperatorum laurus decorat, ex his in Gremio Jovis optimi maximi deponitur, quoties lætitiam nova victoria attulit. Je conviens que toutes ces explications n'ont pas plus de probabilité les unes que les autres: on lit au revers, l'abréviation MASSA. Les Villes de Kyde ou Cyde, de Syphnos, dans l'Isle de Seriphe, de Naxos, de Korykos, avoient la même tête empreinte sur leurs Médailles: on croiroit même qu'elles sont des copies de la Médaille Marseilloise; celle de Korykos ne différe que par un serpent entortillé à un bâton. Dapper croit que ces têtes représentent Jupiter."
+      ],
+      "text_ru": [
+        "Монета под числом 8 представляет с одной стороны голову Старца с длинной бородой, каким изображали Юпитера Капитолийского, или Юпитера Статора; лавровый венец украшает чело этой фигуры; оборот — крыло. Красота черт и точность рисунка заставляют отнести эту монету к прекрасным векам Марселя. Трудно определить достоверно, какое божество здесь изображено. Не Сатурн ли это, чей лавровый венец обозначал бы эмблему бессмертия, а одно лишь крыло означало бы бесконечную длительность — как бы отсечённую от времени? Не Аполлон ли, которому эти эмблемы также подходили бы, обозначая, что Искусства ведут к тому же бессмертию? Не Юпитер ли, увенчанный лавром, а на обороте — крыло орла? У римлян было в обычае украшать лаврами статуи этого божества всякий раз, когда они одерживали победу; об этом свидетельствует Плиний: «Fasces Imperatorum laurus decorat, ex his in Gremio Jovis optimi maximi deponitur, quoties lætitiam nova victoria attulit» (лавр украшает фасции полководцев, и из них откладывается часть в лоне Юпитера Наилучшего Величайшего всякий раз, когда новая победа приносит радость). Признаю, что ни одно из этих объяснений не более правдоподобно, чем другое: на обороте читается сокращение MASSA. Города Кид, или Сид, Сифнос на острове Серифос, Наксос, Корикос имели на своих монетах то же изображение головы: можно было бы даже подумать, что это копии марсельской монеты; монета Корикоса отличается лишь змеёй, обвившей жезл. Даппер полагает, что эти головы изображают Юпитера."
+      ],
+      "text_en": [
+        "The medal with the number 8 shows on one side the head of an Old man with a long beard, such as Jupiter Capitolinus, or Jupiter Stator, was represented; a laurel crown adorns this figure's brow; the reverse is a Wing. The beauty of the features, and the exactness of the design, must place this medal among the fine centuries of Marseille. It is difficult to say with certainty which Divinity is represented here. Could it be Saturn, whose laurel crown would mark the Emblem of immortality, the Wing alone denoting infinite duration, as if cut off from time? Could it be Apollo, to whom these Emblems would equally suit, to signify that the Arts lead to this same immortality? Could it be Jupiter, crowned with laurel, the reverse being the wing of the Eagle? The Romans were in the habit of adorning the Statues of this Divinity with laurels, every time they won a victory; this is attested by Pliny: Fasces Imperatorum laurus decorat, ex his in Gremio Jovis optimi maximi deponitur, quoties lætitiam nova victoria attulit (laurel adorns the fasces of commanders, and part of it is laid in the lap of Jupiter Best and Greatest, whenever a new victory brings joy). I grant that none of these explanations is any more probable than the others: on the reverse one reads the abbreviation MASSA. The Cities of Kyde or Cyde, of Syphnos, on the Isle of Seriphos, of Naxos, of Korykos, had the same head stamped on their medals: one would even believe them to be copies of the Marseillais medal; that of Korykos differs only by a serpent coiled around a staff. Dapper believes these heads represent Jupiter."
+      ],
+      "obverse_fr": "tête d'un vieillard à longue barbe, couronne de laurier (Jupiter capitolin ou stator?)",
+      "obverse_ru": "голова старца с длинной бородой, лавровый венец (Юпитер Капитолийский или Статор?)",
+      "obverse_en": "head of an old man with a long beard, laurel crown (Jupiter Capitolinus or Stator?)",
+      "reverse_fr": "une Aile, abréviation MASSA",
+      "reverse_ru": "крыло, сокращение MASSA",
+      "reverse_en": "a Wing, abbreviation MASSA",
+      "motifs": [
+        "wing"
       ]
     }
   ]
