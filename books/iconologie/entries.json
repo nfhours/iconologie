@@ -8767,12 +8767,32 @@
       "group_fr": "Des quatre Elemens",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-1.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с распущенными волосами, сидящая на облаке среди летающих птиц, ласкающая павлина одной рукой и держащая хамелеона другой",
+          "meaning": "Павлин, посвящённый Юноне, — владычице Воздуха; летающие птицы — естественные обитатели этой стихии; хамелеон, по античному поверью питающийся одним воздухом, — прямой символ самой стихии",
+          "what_en": "A woman with loose hair, seated on a cloud amid flying birds, caressing a peacock with one hand and holding a chameleon with the other",
+          "meaning_en": "The peacock, sacred to Juno, mistress of the Air, and the flying birds are the element's natural denizens; the chameleon, believed by the ancients to live on air alone, directly symbolizes the element itself"
+        }
+      ],
+      "text_ru": [
+        "Четыре Стихии, соединением коих совершаются природные порождения, в высшей степени причастны четырём первичным качествам, в отношении коих у человека также обретаются четыре темперамента, четыре добродетели, четыре главные науки, четыре благороднейших искусства, четыре времени года, четыре положения, четыре ветра, четыре местных различия и четыре причины или предмета человеческих наук. Эти Стихии можно приятным образом представить через их видимые действия, без всякого метафорического иероглифа; что, думается мне, не будет неуместным, дабы явить взору всё, что может подпасть под зрение, — ведь и древние пользовались этим с большим основанием, как мне кажется.",
+        "Здесь вы видите его представленным в облике женщины с распущенными волосами, восседающей на облаке. Одной рукой она ласкает павлина, животное, посвящённое Юноне, Богине Воздуха, вокруг же летают различные птицы; а другой рукой держит хамелеона, ибо, по свидетельству Плиния в его одиннадцатой книге, глава 33, это дивное животное не питается ничем, кроме воздуха."
+      ],
+      "text_fr": [
+        "LES quatre Elemens, par la composition desquels se font les generations naturelles, participent en vn souverain degré aux quatre premieres qualitez, à l'égard desquelles se trouvent aussi en l'homme quatre complexions, quatre vertus, quatre sciences principales, quatre arts les plus nobles, quatre saisons de l'année, quatre situations, quatre vents, quatre differences locales, & quatre causes ou sujets des sciences humaines. Ces Elemens peuvent estre agreablement representez avec leurs visibles effets sans aucun hierogliphe metaphorique; ce qui ne me semble pas hors de propos, afin d'étaller aux yeux toutes les choses qui peuvent tomber sous la veuë, les anciens en ayant ainsi vsé avec beaucoup de raison, ce me semble.",
+        "Vous le voyez icy representé par vne femme qui a les cheveux épars, & qui est assise sur vn nuage. Elle caresse d'vne main vn paon, animal consacré à Junon Deesse de l'Air, où volent divers oiseaux; & de son autre main elle tient vn cameleon, parce qu'au rapport de Pline dans son livre 11. chap. 33. ce merveilleux animal ne s'entretient d'autre chose que d'air."
+      ],
       "en": "Air",
-      "group_en": "The Four Elements"
+      "group_en": "The Four Elements",
+      "scans": [
+        "p2-1-1.jpg",
+        "p2-1-2.jpg",
+        "p2-1-3.jpg"
+      ]
     },
     {
       "id": "p2-2",
@@ -8785,12 +8805,29 @@
       "group_fr": "Des quatre Elemens",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-2.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Обнажённая женщина, восседающая на облаке, со скипетром в правой руке и опирающаяся левой на урну, из которой льётся вода, среди тростника и камыша",
+          "meaning": "Скипетр — первенство Воды среди стихий, ибо она необходимее прочих для человеческой жизни; льющаяся из урны вода — её власть над Землёй (которую она истощает) и Огнём (который гасит); тростник и камыш — её естественное прибрежное окружение",
+          "what_en": "A naked woman seated on a cloud, a scepter in her right hand, her left resting on an urn pouring forth water, amid reeds and rushes",
+          "meaning_en": "The scepter signifies Water's primacy among the elements, being more necessary to human life than the rest; the water pouring from the urn, her power over Earth (which she wears away) and Fire (which she quenches); the reeds and rushes, her natural riverside setting"
+        }
+      ],
+      "text_ru": [
+        "Она изображается в облике обнажённой женщины, восседающей на облаке. В правой руке она держит скипетр, а левой опирается на урну, из коей изливается вода в изобилии, позади же неё — множество тростника и камыша. Скипетр даётся этой стихии не без веской причины, ибо истинно, что нет ничего столь необходимого для человеческой жизни, как вода, о коей Поэт Гесиод и Фалес Милетский писали, что она есть не только начало всех вещей, но и Царица всех стихий. И впрямь это она истощает Землю, гасит Огонь и, разливаясь по Воздуху, откуда ниспадает, служит причиной того, что всё потребное человеку рождается здесь, внизу; оттого древние чтили её столь великим почитанием, что, когда клялись ею, как замечает Вергилий, такую клятву надлежало почитать нерушимой: о чём сообщает также Томас Томэ в своей «Идее Сада Мира», глава 4, 44."
+      ],
+      "text_fr": [
+        "ELLE est figurée par vne femme nuë, assise sur vn nuage. Elle tient vn sceptre de la main droite, & s'appuye de la gauche sur vne vrne, d'où s'épand de l'eau en abondance, ayant derriere elle quantité de cannes & de roseaux. On ne donne pas le sceptre à cet element sans vne grande raison, estant veritable qu'il n'y a rien de si necessaire à la vie humaine que l'eau, de laquelle le Poëte Hesiode & Thalés Milesien ont écrit, que non seulement elle est le principe de toutes choses, mais la Reine de tous les elemens. En effet c'est elle qui consume la Terre, qui éteint le Feu, & qui s'épandant par l'Air d'où elle tombe, est cause que toutes les choses dont l'homme a besoin, naissent icy-bas; à cause dequoy les anciens l'avoient en si grande veneration, que lorsqu'ils juroient par elle, comme le remarque Virgile, il falloit tenir ce serment pour irrevocable: ce qui est encore rapporté par Thomas Thomay dans son Idée du Jardin du Monde chap. 4. 44."
+      ],
       "en": "Water",
-      "group_en": "The Four Elements"
+      "group_en": "The Four Elements",
+      "scans": [
+        "p2-2-1.jpg",
+        "p2-2-2.jpg"
+      ]
     },
     {
       "id": "p2-3",
@@ -8803,12 +8840,30 @@
       "group_fr": "Des quatre Elemens",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-3.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Увенчанная цветами женщина, сидящая с шаром в правой руке и рогом изобилия в левой",
+          "meaning": "Шар — сферичность и неподвижность Земли; гирлянда цветов и рог изобилия — её плодородие, порождающее всякого рода цветы и плоды для пропитания живых существ, по образу матери всего живого",
+          "what_en": "A flower-crowned woman seated, a globe in her right hand and a cornucopia in her left",
+          "meaning_en": "The globe signifies the Earth's sphericity and immobility; the flower garland and cornucopia, her fecundity in abundantly producing flowers and fruits of every kind to nourish living creatures, after the image of the mother of all"
+        }
+      ],
+      "text_ru": [
+        "Та, что вы видите здесь восседающей и увенчанной цветами, являет вам Землю. В правой руке она держит шар, а в левой — рог изобилия, полный плодов всякого рода. Её изображают почтенной Дамой, или, если угодно, плодородной, ибо, по слову Поэтов, она есть мать всех животных; а с шаром в руке — дабы показать, что она сферична и неподвижна. Что до гирлянды и рога изобилия, что она носит, то и то и другое означает, что она в изобилии производит всякого рода цветы и плоды для пропитания живых созданий."
+      ],
+      "text_fr": [
+        "CELLE que vous voyez icy assise, & couronnée de fleurs, vous represente la Terre. Elle tient de la main droite vn globe, & de la main gauche vne corne d'abondance, pleine de toutes sortes de fruits. On la peint en Dame venerable, ou si vous voulez, feconde, pour estre, comme disent les Poëtes, la mere de tous les animaux; & avec vn globe à la main, pour montrer qu'elle est spherique & immobile. Quant à la guirlande & à la corne d'abondance qu'elle porte, l'vne & l'autre signifient qu'elle produit abondamment toutes sortes de fleurs & de fruits pour la nourriture des creatures vivantes."
+      ],
       "en": "Earth",
-      "group_en": "The Four Elements"
+      "group_en": "The Four Elements",
+      "scans": [
+        "p2-3-1.jpg",
+        "p2-3-2.jpg",
+        "p2-3-3.jpg"
+      ]
     },
     {
       "id": "p2-4",
@@ -8821,12 +8876,31 @@
       "group_fr": "Des quatre Elemens",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-4.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Сидящая женщина, поддерживающая обеими руками сосуд, полный огня, с Солнцем над головой, саламандрой и фениксом по сторонам",
+          "meaning": "Солнечные лучи над головой — небесное происхождение огня; саламандра и пиралии — существа, живущие исключительно в огне (саламандра, по Аристотелю, столь холодна, что сама его гасит); феникс — существо, зачатое в пламени и в пламени же оканчивающее жизнь",
+          "what_en": "A seated woman holding a vessel full of fire with both hands, the sun overhead, a salamander and a phoenix at her sides",
+          "meaning_en": "The sun's rays overhead signify fire's heavenly origin; the salamander and pyralis-flies are creatures said to live only within fire (the salamander, per Aristotle, being so cold it quenches flame itself); the phoenix, a creature conceived in flame and ending its life in flame"
+        }
+      ],
+      "text_ru": [
+        "Эта стихия, столь необходимая и столь опасная одновременно, имеет своим иероглифическим образом сидящую женщину, которая обеими руками поддерживает сосуд, полный огня. Солнце отвесно бросает на её голову свои лучи, а по бокам в качестве символов помещены Саламандра и Пиралии — животные, живущие только в огне, преимущественно же Саламандра, которая, по Аристотелю, столь холодна, что гасит его: что же до Феникса, то он помещён здесь лишь затем, чтобы показать, что, будучи зачат в пламени, он же в пламени и оставляет свою жизнь.",
+        "Вот примерно всё, что можно вкратце сказать о четырёх Стихиях, главными силами коих, по Эмпедоклу, являются дружба и раздор, из коих одна соединяет вещи воедино, а другой их разделяет. Он же физически именует именем Юпитера Огонь, что выше Воздуха, точно так же, как сам Воздух означается Юноной. К этому же относятся воззрения всех Поэтов, когда они измышляют, будто богиня Юнона — сестра и жена Юпитера: дабы показать тем самым, что свойства их почти тождественны, или что между тем и другим есть разве весьма малое различие. К чему прибавлю, что отец Дис также принимается за Землю, то есть что он Владыка и верховный Царь этой стихии, из недр коей извлекаются драгоценнейшие сокровища, как то золото, серебро и самоцветы."
+      ],
+      "text_fr": [
+        "CET element si necessaire & si dangereux tout ensemble, a pour figure hierogliphique vne femme assise, qui de ses deux mains soûtient vn vase plein de feu. Le Soleil darde ses rayons à plomb sur sa teste, & à ses costez sont mis pour symboles vne Salemandre & des Pyralies, animaux qui ne vivent que dans le feu, principalement la Salemandre, qui selon Aristote est si froide, qu'elle l'éteint: car quant au Phœnix, il n'est icy mis que pour montrer qu'estant conceu dans la flamme, c'est dans la flamme aussi qu'il laisse sa vie.",
+        "C'est à peu prés ce qu'on peut dire succinctement des quatre Elemens, les principales puissances desquels, selon Empedoclés, sont l'amitié & la discorde, dont l'vne vnit ensemble les choses, & l'autre les separe. Le mesme encore appelle physiquement du nom de Jupiter, le Feu qui est au dessus de l'Air, tout ainsi que l'Air mesme est denoté par Junon. A quoy se rapportent les sentimens de tous les Poëtes, quand ils feignent que la Deesse Junon est sœur & femme de Jupiter: pour montrer par là que leur qualité est presque vne mesme chose, ou qu'il n'y a du moins que fort peu de difference entre l'vn & l'autre. A quoy j'adjoûte, que le pere Dis est aussi pris pour la Terre, c'est à dire qu'il est Seigneur & Roy souverain de cet element, des entrailles duquel les plus precieux tresors sont tirez, comme l'or, l'argent & les pierreries."
+      ],
       "en": "Fire",
-      "group_en": "The Four Elements"
+      "group_en": "The Four Elements",
+      "scans": [
+        "p2-4-1.jpg",
+        "p2-4-2.jpg"
+      ]
     },
     {
       "id": "p2-5",
