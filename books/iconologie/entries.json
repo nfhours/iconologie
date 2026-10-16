@@ -8084,12 +8084,33 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-159.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Скромная женщина, держащая узду в правой руке и песочные часы в левой, со слоном подле себя",
+          "meaning": "Узда — обуздание неупорядоченных страстей; песочные часы — мера движения и покоя; слон — животное, по преданию, лучше всех подчиняющееся умеренному, размеренному распорядку",
+          "what_en": "A modest woman holding a bridle in her right hand and a sand-glass in her left, an elephant beside her",
+          "meaning_en": "The bridle signifies the curbing of unruly passions; the sand-glass, the measure of motion and rest; the elephant, an animal held by tradition to submit best of all to a moderate, regulated routine"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде скромной женщины, которая правой рукой держит узду, а левой — песочные часы, со слоном подле себя.",
+        "Её изображают с уздою в одной руке и часами в другой, дабы показать, что свойство Умеренности — обуздывать неупорядоченные страсти: этим же, думается мне, означена и мера движения и покоя; ибо эта добродетель приносит обоим потребную умеренность, без коей вещи, впадающие в излишество, совершенно губят предмет, к коему прилепляются, подобно тому как великие реки разливом своим опустошают всё, что встречают на пути.",
+        "Что до слона, то он, по Пиэрию, из всех животных лучше всего сообразуется с Умеренностью; ибо однажды приученный к размеренному распорядку, он всегда его держится: доказательством тому служит пример Плутарха, который рассказывает, что в Сирии один из слуг некоего знатного Господина, получив от своего Хозяина прямой приказ ежедневно давать слону определённую меру зерна, некоторое время выдавал ему лишь половину; но когда наконец однажды захотел дать ему целую меру, слон разделил её хоботом надвое и съел лишь одну часть в присутствии своего Хозяина, который тем самым распознал плутовство своего слуги и был немало поражён как этим, так и Умеренностью этого смышлёного животного."
+      ],
+      "text_fr": [
+        "ELLE est figurée par vne femme modeste, qui de la main droite tient vne bride, & de la gauche vn temps d'horloge, avec vn elephant à son costé.",
+        "On la dépeint avec vne bride en vne main, & vn temps en l'autre, pour montrer que le propre de la Temperance est de moderer les passions déreglées: par où ce me semble, est encore signifiée la mesure du mouvement & du repos; car cette vertu apporte à tous les deux la moderation requise, hors de laquelle les choses qui vont dans l'excés détruisent entierement le sujet où elles s'attachent, comme par leur débordement les grandes rivieres ravagent tout ce qu'elles rencontrent.",
+        "Pour le regard de l'elephant, il est, selon Pierius, celuy de tous les animaux qui s'accommode le mieux à la Temperance; car depuis qu'on l'a vne fois accoûtumé à vn ordinaire reglé, il s'y tient toûjours: à quoy sert de preuve cet exemple de Plutarque, qui dit qu'en Syrie vn des valets d'vn grand Seigneur ayant eu ordre exprés de son Maistre de donner à chaque jour vne certaine mesure de grain à vn elephant, ne luy en bailla que la moitié durant quelque temps; mais qu'enfin comme il luy voulut donner vne fois la mesure toute entiere, l'elephant la separa en deux avec sa trompe, & n'en mangea qu'vne seulement en la presence de son Maistre, qui par ce moyen reconnut la fourberie de son valet, & n'en fut pas moins estonné que de la Temperance de cet ingenieux animal."
+      ],
       "en": "Temperance",
-      "group_en": "T"
+      "group_en": "T",
+      "scans": [
+        "p1-159-1.jpg",
+        "p1-159-2.jpg"
+      ]
     },
     {
       "id": "p1-160",
@@ -8102,12 +8123,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-160.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с двумя несходными ликами (юным, взирающим на небо, и старым, взирающим на землю), сидящая на усеянном звёздами глобусе, с колесом подле себя",
+          "meaning": "Два лика — непрестанное созерцание Бога и смиренная память о человеческой подверженности заблуждению; звёздный глобус — цель Богословия, познание Бога; колесо, касающееся земли лишь краем, — ограниченное, подчинённое употребление чувственного знания; рука у края одежды — снисхождение богословской науки к необходимым земным вещам",
+          "what_en": "A woman with two unlike faces (a young one gazing at Heaven, an old one at the earth), seated on a star-strewn globe, with a wheel beside her",
+          "meaning_en": "The two faces signify ceaseless contemplation of God together with a humble awareness of man's liability to err; the starry globe, Theology's goal of knowing God; the wheel touching earth only at its rim, the limited, subordinate use of sense-knowledge; the hand at the robe's hem, divine science's condescension to necessary earthly things"
+        }
+      ],
+      "text_ru": [
+        "Это женщина с двумя несходными ликами, из коих один, более юный, созерцает Небо, а другой, более старый, взирает на землю.",
+        "Она восседает на большом лазоревом глобусе, усеянном звёздами, и правую руку держит прижатой к своей прекрасной груди; но в то же время левую опускает вниз, захватывая ею край своего одеяния. Тут же рядом видно колесо, которое в Священном Писании есть истинный символ Богословия; ибо как оно, приходя в движение, касается земли лишь самой нижней частью своей окружности, так и Богослов не должен в своём занятии прибегать к чувству иначе, нежели настолько, насколько оно может помочь ему продвинуться далее, а не для того, чтобы слишком глубоко в него погружаться.",
+        "Два лика, коими она взирает на Небо и на Землю, показывают, как говорит святой Августин, что всё Богословие стремится непрестанно созерцать Бога и любить Его с постоянством. Сверх того, поскольку один из её ликов не может подняться без того, чтобы другой в то же время не опустился, так и Богослов не должен возноситься столь высоко силою своего разума, чтобы забыть, что, будучи человеком, он, следственно, подвержен заблуждению.",
+        "Тот из двух ликов, что взирает на Небо, изображают юным, дабы показать, что предметы горние приятны и достойны любопытства, тогда как вещи земные и низкие докучны и неприятны.",
+        "Она восседает на звёздном небе, ибо Богословие ставит себе целью познание Бога, насколько то дозволяет человеческая немощь его постичь. Рука, которую она простирает к земле и коею держит край своего одеяния, означает, что часть этой божественной науки не гнушается простираться и на вещи низкие, но необходимые; таковы, например, те, посредством коих мы можем упорядочивать наши поступки, следовать добродетелям, бежать пороков и производить иные спасительные действия, в кои проникают лишь те умы, кои Богу угодно просвещать и укреплять Своими милостями."
+      ],
+      "text_fr": [
+        "C'EST vne femme à deux visages dissemblables, dont l'vn qui est le plus jeune, contemple le Ciel, & l'autre le plus vieil regarde la terre.",
+        "Elle est assise sur vn grand globe d'azur semé d'étoilles, & tient la main droite appuyée sur son beau sein; mais en mesme temps elle porte en bas la gauche, dont elle empoigne le bord de son habillement. Là tout auprés se voit vne roüe, qui dans les saintes Lettres est le vray symbole de la Theologie; car comme elle ne touche jamais la terre que par la plus basse partie de sa circonference, quand elle vient à s'émouvoir; le Theologien de mesme ne se doit servir du sens en sa profession, qu'autant qu'il en peut estre aidé pour passer outre, & non pas pour s'y plonger trop avant.",
+        "Les deux visages dont elle regarde le Ciel & la Terre, montrent, comme dit S. Augustin, que toute la Theologie aspire à contempler Dieu sans cesse, & à l'aimer avec perseverance. De plus, comme l'vn de ses visages ne peut se hausser qu'en mesme temps l'autre ne s'abaisse; ainsi le Theologien ne doit jamais s'elever si haut par la force de son esprit, qu'il ne se souvienne qu'estant homme, il est par consequent sujet à faillir.",
+        "L'on peint jeune celuy de ces deux visages qui regarde le Ciel, pour montrer que les objets d'enhaut sont agreables & curieux, comme les choses terrestres & basses sont ennuyeuses & déplaisantes.",
+        "Elle est assise sur vn Ciel étoillé, parce que la Theologie se propose pour but la connoissance de Dieu, autant que la foiblesse humaine luy permet de la comprendre. La main qu'elle porte vers la terre, & dont elle tient le bord de sa robe, signifie qu'vne partie de cette divine science ne dédaigne pas de s'étendre aux choses basses, mais necessaires; & telles sont par exemple celles par qui nous pouvons regler nos actions, suivre les vertus, fuir les vices, & produire d'autres effets salutaires, où ne penetrent que les esprits qu'il plaist à Dieu d'éclairer & de fortifier de ses graces."
+      ],
       "en": "Theology",
-      "group_en": "T"
+      "group_en": "T",
+      "scans": [
+        "p1-160-1.jpg",
+        "p1-160-2.jpg",
+        "p1-160-3.jpg"
+      ]
     },
     {
       "id": "p1-161",
@@ -8120,12 +8167,40 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-161.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная женщина в синем одеянии, взирающая на Небо, со сложенными руками, сходящая со ступени, с раскрытым циркулем (остриями вверх) на голове",
+          "meaning": "Синее одеяние — предел, полагаемый светом нашему взору, подобно тому как разум устремлён единственно к Богу; возведённый ввысь лик — несоизмеримость человеческого разумения с вещами небесными; ступень — постепенность восхождения познания через время; циркуль — измерение и соразмерное упорядочение, суть человеческого познания",
+          "what_en": "A young woman in blue, gazing at Heaven, hands clasped, descending a step, an open compass (points upward) upon her head",
+          "meaning_en": "The blue robe signifies the limit light sets on sight, as reason is directed solely toward God; the upturned face, the disproportion between human understanding and heavenly things; the step, the gradual ascent of knowledge through time; the compass, measurement and proportionate ordering, the essence of human knowledge"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде юной женщины, взирающей на Небо и как бы сходящей со ступени; руки её сложены, одеяние синего цвета, а на голове — раскрытый циркуль, обе ножки коего обращены вверх.",
+        "Теория, слово греческое, означает какое бы то ни было умозаключение человеческого разума, основанное на предмете вещей согласно их порядку и на познании начал, зависящих, впрочем, не от чувства, а от разумения; ибо то, что зависит от чувства, составляет практику. А последняя противоположна Теории именно в отношении начал, все цели коих состоят в искусстве действовать как должно, то есть с мерой и верностью, как о том свидетельствует Аристотель в начале своей Метафизики. Теория есть, следственно, познание и выведение начал, непосредственно и опосредованно зависящих от разума; и можно по праву сказать, что познанием порядка причин, которое она внушает, она даёт не менее живости, чем способности различать и разрешать предложенные вопросы.",
+        "Её синее одеяние показывает, что как этот небесный цвет полагает предел нашему зрению посредством света, так и посредством рассуждения человеческий разум не имеет иной цели, кроме самого Бога, чей престол — на Небе, месте, подобающем и соразмерном Его природе, объемлющей природу всех сотворённых вещей.",
+        "Её возведённый ввысь лик означает, что каковы наши глаза в сравнении с Солнцем и светом, таков и наш разум в отношении вещей небесных. А поскольку есть некое сходство глаза с Небом в том, что шар его окружён семью оболочками, представляющими семь сфер планет, и что посреди него есть некое твёрдое и малое тело, заимствующее свою ясность от прочих семи кругов через различные отражения, — так мы можем с полным правом сказать, что и в разуме есть некое подобие Бога и Божества, столь же малое, как наш глаз, в сравнении с обширным протяжением Неба.",
+        "Ступень, с коей она сходит, служит напоминанием, что умопостигаемые предметы имеют свою соразмерность и свой порядок, посредством коего, как по неким ступеням, мы восходим от вещей близких к более далёким и от низких к высшим; чего достигаем незаметно, посредством времени, без коего человеческому разуму невозможно образовать никакого рассуждения.",
+        "Циркуль на её голове являет то же самое, что и её лик, в отношении вещей небесных. Ибо опыт показывает, что этот инструмент наиболее пригоден из всех для измерения, равно как и для образования круга, — первой иррациональной фигуры, от коей зависят основания всех вещей, как от своего первого и собственного начала. Циркуль, следственно, весьма подобает Теории, поскольку человеческое познание состоит в умении измерять вещи и соразмерно их сопрягать; по каковой причине Философы, как замечает Диоген Лаэртский, в начале именовались Аналогистами."
+      ],
+      "text_fr": [
+        "ELLE est peinte en jeune femme qui regarde le Ciel, & semble descendre d'vn degré; ayant les mains jointes, vne robe bleuë, & sur la teste vn compas ouvert, dont les deux pointes sont tournées en haut.",
+        "La Theorie, qui est vn mot Grec, signifie quelque déduction que ce soit de l'humaine raison, fondée sur le sujet des choses selon leurs ordres, & sur la connoissance des principes, qui toutefois ne dépendent pas du sens, mais bien de l'entendement; car ceux qui dépendent du sens, font la pratique. Or est-il que cette derniere est opposée à la Theorie à l'égard des principes, qui ont tous pour but l'art d'operer comme il faut, c'est à dire avec mesure & justesse, ainsi que le témoigne Aristote au commencement de sa Metaphysique. La Theorie est donc vne connoissance & vne déduction des principes qui dépendent immediatement & mediatement de l'intellect; & peut-on bien dire que par la connoissance qu'elle inspire de l'ordre des causes, elle ne donne pas moins de vivacité que de suffisance à discerner & resoudre les choses proposées.",
+        "Sa robe bleuë montre, que comme par la lumiere cette couleur celeste met des limites à nostre veuë: ainsi par le moyen du raisonnement, l'esprit humain n'a point d'autre but que Dieu mesme, le siege duquel est au Ciel, lieu propre & proportionné à sa nature, qui comprend celle de toutes les choses creées.",
+        "Son visage elevé, signifie que tels que sont nos yeux à comparaison du Soleil & de la lumiere, tel est aussi nostre entendement à l'égard des choses celestes. Or comme il y a quelque ressemblance de l'œil avec le Ciel, en ce que son globe est environné de sept pellicules, qui representent les sept globes des planettes, & qu'au milieu il y en a vn dur & petit, qui par diverses reflections emprunte sa clarté des sept autres cercles; ainsi pouvons-nous bien dire qu'en l'entendement il y a quelque representation de Dieu & de la Divinité, & qu'elle est aussi petite que nostre œil, à comparaison de la vaste estenduë du Ciel.",
+        "Le degré par où elle descend sert à nous faire souvenir, que les sujets intelligibles ont leur proportion & leur ordre, par qui, comme par certains degrez nous allons des choses voisines aux plus lointaines, & des basses aux plus hautes; à quoy nous parvenons insensiblement par le moyen du temps, sans lequel il est impossible à l'esprit humain de former aucun raisonnement.",
+        "Le compas qu'elle a sur la teste demontre le mesme que son visage à l'égard des choses celestes. Car l'experience fait voir que cet instrument est le plus propre de tous à mesurer, & pareillement à former le cercle, qui est la premiere figure irrationnelle d'où dépendent les raisons de toutes les choses, comme de leur premier & propre principe. Le compas convient donc fort bien à la Theorie, puisque la connoissance humaine consiste à sçavoir mesurer les choses, & les ajuster ensemble avec proportion; à raison dequoy les Philosophes, comme le remarque Diogenes Laertius, furent au commencement appellez Analogistes."
+      ],
       "en": "Theory",
-      "group_en": "T"
+      "group_en": "T",
+      "scans": [
+        "p1-161-1.jpg",
+        "p1-161-2.jpg",
+        "p1-161-3.jpg"
+      ]
     },
     {
       "id": "p1-162",
@@ -8138,12 +8213,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-162.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в красном, держащая счётную книгу под весами (с надписью «Computa») в одной руке и край одежды, прикрывающий спящего ребёнка, в другой; рядом ящерица и петух",
+          "meaning": "Весы и книга — обязанность опекуна вести честный отчёт имуществу подопечных; красное одеяние — любовь и милосердие, нужные опекуну; петух — бдительность, необходимая для управления делами; ящерица над спящим ребёнком — традиционный страж покоя спящего",
+          "what_en": "A woman in red holding a ledger beneath a scale (inscribed \"Computa\") in one hand, and with the other drawing her robe over a sleeping child; a lizard and a cockerel beside her",
+          "meaning_en": "The scale and ledger signify a guardian's duty to render honest account of his ward's property; the red robe, the love and charity a guardian needs; the cockerel, the vigilance needed to manage affairs; the lizard above the sleeping child, the traditional guardian of a sleeper's safety"
+        }
+      ],
+      "text_ru": [
+        "Это женщина, облачённая в красное, держащая в левой руке счётную книгу под весами с надписью Computa, а другой рукою — край своего одеяния, коим словно желает прикрыть наготу ребёнка, спящего у её ног, над коим виден небольшой ящерка, а с другой стороны — петух.",
+        "Есть два рода Опеки: один общий, изображённый египтянами так, как его описал Орус Аполлон; другой же частный, определяемый как власть, которую гражданское право даёт свободному человеку принять под своё покровительство того, кто по малолетству не способен сам себя защищать.",
+        "Она держит весы и книгу, дабы показать, что Опекун по совести обязан вести верный отчёт имуществу своих Подопечных; нет такого Закона, который не налагал бы суровых кар на тех, кто их притесняет. Светоний весьма хвалил по этому поводу Императора Гальбу за то, что, приговорив к повешению дурного Опекуна, отравившего подопечного, коему должен был наследовать, и узнав, что тот, дабы избежать столь позорной смерти, называл себя римским гражданином, он велел нарочно выстроить для него выбеленную виселицу, выше обычной, дабы её можно было видеть издалека.",
+        "Она облачена в красное, ибо в Священном Писании этот цвет есть символ любви и милосердия — качеств, крайне необходимых тем, кто несёт попечение о малолетних. То же можно сказать и о Бдительности, здесь означенной петухом, без коей опекуну трудно избавиться от запутанности дел и привести их в желаемое состояние.",
+        "Забота, с коей она прикрывает ребёнка у своих ног, есть знак её доброго к нему расположения; то же являет и небольшая ящерица над ним, коей, как полагают, свойственно блюсти сохранность человека, когда он спит в поле.",
+        "Добавлю здесь, что любители медалей могли заметить несколько таковых на эту тему; как, например, ту, что Веспасиан велел отчеканить в своё третье Консульство с надписью Tvtela Avgvsta; и ещё две медали Нервы, на обороте коих — двое малых детей, с надписью Tvtela Italiæ."
+      ],
+      "text_fr": [
+        "C'EST vne femme vestuë de rouge, qui de la main gauche tient vn livre de compte au dessous d'vne balance, avec le mot de Computa, & de la gauche le bord de sa robe, dont elle semble vouloir couvrir la nudité d'vn enfant qui dort à ses pieds, au dessus duquel se voit vn petit lezard & vn coq de l'autre costé.",
+        "Il y a deux sortes de Tuteles, l'vne generale, que les Egyptiens ont dépeinte de la maniere que l'a décrit Orus Apollo; & l'autre particuliere, qui est definie vne puissance que donne le Droit civil à vn homme libre, de prendre la protection de celuy qui n'est pas en âge de se pouvoir defendre.",
+        "Elle tient vne balance & vn livre, pour montrer que le Tuteur est obligé en conscience de rendre vn fidelle compte du bien des Pupiles; n'y ayant point de Loy qui n'impose de grandes peines à ceux qui les oppriment. Suetone louoit fort à ce propos l'Empereur Galba, de ce qu'ayant condamné vn mechant Tuteur à estre pendu, qui avoit empoisonné vn pupil dont il devoit heriter, comme il apprit que pour s'exempter d'vne mort si honteuse il se disoit estre citoyen Romain, il luy fit dresser vn gibet blanchy exprés, & plus haut qu'à l'ordinaire, afin qu'on le pûst voir de plus loin.",
+        "Elle est vestuë de rouge, parce que dans la sainte Ecriture cette couleur est vn symbole d'amour & de charité; qualitez extremement necessaires à ceux qui ont charge des mineurs. L'on en peut dire autant de la Vigilance qui est icy denotée par le coq, sans laquelle il est difficile que le Tuteur se puisse développer de l'embarras des affaires, & les mettre au point où il les desire.",
+        "Le soin qu'elle prend de couvrir l'enfant qui est à ses pieds, est vne marque de son bon naturel envers luy; ce que represente encore le petit lezard qui est au dessus, comme ayant cela de propre, à ce que l'on tient, de veiller à la conservation de l'homme quand il dort à la campagne.",
+        "J'ajoûteray icy, que les curieux de medailles en peuvent avoir remarqué quelques-vnes sur cette matiere; comme celle que Vespasian fit battre en son troisiéme Consulat, avec ce mot, Tvtela Avgvsta; & ces deux autres de Nerva, qui ont pour revers deux petits enfans, avec cette inscription, Tvtela Italiæ."
+      ],
       "en": "Guardianship",
-      "group_en": "T"
+      "group_en": "T",
+      "scans": [
+        "p1-162-1.jpg",
+        "p1-162-2.jpg",
+        "p1-162-3.jpg",
+        "p1-162-4.jpg"
+      ]
     },
     {
       "id": "p1-163",
