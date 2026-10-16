@@ -8605,12 +8605,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-171.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с книгой, зажжённой лампой на подставке и журавлём у ног (отсылка к статье 156 «Забота» для полного описания)",
+          "meaning": "Лампа, книга и журавль — традиционные символы Бдительности; вариант со змеёй и стрелой — предостережение, что усердие без благоразумия бесплодно в делах нападения или защиты",
+          "what_en": "A woman with a book, a lit lamp on a stand, and a crane at her feet (the author refers the reader to entry 156, \"Care,\" for the full description)",
+          "meaning_en": "The lamp, book and crane are the traditional symbols of Vigilance; a variant with a serpent and arrow warns that diligence without prudence is fruitless in attack or defense"
+        }
+      ],
+      "text_ru": [
+        "Было бы излишним описывать и объяснять здесь эту фигуру, поскольку и то и другое я уже сделал в сто пятьдесят шестой статье, озаглавленной словом Забота, к которой и отсылаю Читателя для разъяснения. Впрочем, нет такого, кто не знал бы хорошо, что лампа, книга и журавль суть истинные символы Бдительности; а поскольку существует несколько её родов, надлежит заметить, что для них составляют и разные изображения; и что та, чья главная цель — нападать либо обороняться, изображается со змеёй в правой руке и стрелой в левой, дабы показать тем самым, что тщетно трудятся довести дело до успеха, сколько бы заботы к нему ни прилагали, если благоразумие не соединено с исполнением."
+      ],
+      "text_fr": [
+        "IL seroit superflu de décrire & d'expliquer icy cette figure, puisque j'ay fait l'vne & l'autre en la cent cinquante-sixiéme, qui a pour titre le mot de Soin, où je renvoye le Lecteur pour s'en éclaircir. D'ailleurs, il n'y a celuy qui ne sçache bien, que la lampe, le livre & la gruë sont les vrais symboles de la Vigilance; & dautant qu'il y en a de plusieurs sortes, il faut remarquer qu'on en fait aussi divers tableaux; & que celle qui a pour but principal, ou d'attaquer, ou de se defendre, est representée avec vn serpent en la main droite, & en la gauche vne fleche, pour montrer par là qu'on s'employe en vain à faire reüssir vne affaire, quelque soin qu'on y apporte, si la prudence n'est jointe à l'execution."
+      ],
       "en": "Vigilance",
-      "group_en": "V"
+      "group_en": "V",
+      "scans": [
+        "p1-171-1.jpg",
+        "p1-171-2.jpg"
+      ]
     },
     {
       "id": "p1-172",
@@ -8623,12 +8640,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-172.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Увенчанная венком дева в белом одеянии, стянутом поясом из белой шерсти",
+          "meaning": "Белый цвет и изумруд — чистота помыслов души, неотделимая от честных поступков тела; пояс — древний обычай, по коему никто, кроме мужа, не мог снять пояс невесты в брачную ночь; (вариант) единорог, дающийся в руки лишь деве, — ещё один традиционный символ непорочности",
+          "what_en": "A garlanded maiden in white, her waist bound by a girdle of white wool",
+          "meaning_en": "The white color and the emerald signify purity of the soul's thoughts, inseparable from honest bodily conduct; the girdle recalls the ancient custom by which only a husband could loosen a bride's girdle on her wedding night; (a variant) the unicorn, tamed only by a maiden's hand, is another traditional symbol of chastity"
+        }
+      ],
+      "text_ru": [
+        "Её облик — облик прекрасной девы, облачённой в белое, увенчанной венком, которая приятным образом стягивает середину тела поясом из белой шерсти.",
+        "Изумруд, по Пиэрию, есть символ Девства: потому он и был посвящён не сладострастной Венере, а Венере небесной, которую древние почитали Богиней чистой любви.",
+        "Что до пояса, что мы даём ей, он весьма ей подобает, поскольку истинно, что в древности у юных дев был пояс, который никому, кроме мужа, не дозволялось снимать с них в брачную ночь, как замечают Фест Помпей и Поэт Катулл в Эпиталаме Манлия и Юлии, где он, говоря о Юноне, пишет: Та, чья любовь чиста, / Никогда не призывается напрасно, / Когда дрожащей рукой / У неё хотят снять пояс.",
+        "А то, что мы сказали об изумруде, должно разуметь равным образом и о белом цвете, означающем чистоту помыслов души, нераздельную с честными поступками тела.",
+        "Иные иначе изображают Девство в виде прекрасной девы, ласкающей единорога; ибо если держаться за истину того, что Натуралисты писали об этом животном, оно никогда не даётся в руки никому, кроме девы."
+      ],
+      "text_fr": [
+        "SA figure est celle d'vne belle fille, vestuë de blanc, couronnée d'vne guirlande, & qui d'vne façon agreable s'étreint le milieu du corps d'vne ceinture de laine blanche.",
+        "L'esmeraude, selon Pierius, est vn symbole de Virginité: aussi fut-elle consacrée, non pas à Venus la lascive, mais à la celeste, que les anciens croyoient estre Deesse de l'amour pure.",
+        "Quant à la ceinture que nous donnons, elle luy convient fort bien, puisqu'il est vray qu'anciennement les jeunes filles en avoient vne, qu'il n'estoit permis à personne qu'à leur mary de leur oster la nuit de leurs nopces, comme le remarquent Fest. Pompée, & le Poëte Catulle dans l'Epithalame de Manlius & de Julie, où il dit parlant de Junon, Celle de qui l'amour est pure, / Ne l'invoque jamais en vain, / Lors que d'vne tremblante main / On luy veut oster la ceinture.",
+        "Or ce que nous avons dit de l'esmeraude se doit entendre pareillement de la couleur blanche, qui signifie la pureté des pensées de l'ame, inseparables d'avec les honnestes actions du corps.",
+        "Quelques autres representent la Virginité par vne belle fille qui caresse vne licorne; car s'il faut tenir pour veritable ce que les Naturalistes ont écrit de cet animal, il ne se laisse jamais prendre que par la main d'vne vierge."
+      ],
       "en": "Virginity",
-      "group_en": "V"
+      "group_en": "V",
+      "scans": [
+        "p1-172-1.jpg",
+        "p1-172-2.jpg",
+        "p1-172-3.jpg"
+      ]
     },
     {
       "id": "p1-173",
@@ -8641,12 +8684,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-173.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Слепая дева с крыльями на спине и на ногах, в одеянии переменчивого цвета, идущая ощупью",
+          "meaning": "Слепота — зависимость воли от чувства и разума, коим она доверяется вслепую; переменчивое одеяние — колебание между надеждой и страхом в желании кажущихся благ; крылья на ногах — беспокойный поиск покоя, в конце концов устремляющий волю от земного к небесному",
+          "what_en": "A blind maiden with wings on her back and feet, in a robe of shifting color, groping her way forward",
+          "meaning_en": "Her blindness signifies the will's dependence on sense and reason, which it follows blindly; the shifting-colored robe, its wavering between hope and fear in desiring seeming goods; the winged feet, a restless search for rest that finally turns the will from earthly things toward Heaven"
+        }
+      ],
+      "text_ru": [
+        "Она изображается в облике слепой девы, имеющей крылья на спине и на ногах, одеяние переменчивого цвета и повадку человека, идущего ощупью.",
+        "Воля, что царственно повелевает благороднейшей частью человека, сама предписывает себе законы согласно событиям — благоприятным или противным, — какие сулят ей чувство и разум; отсюда следует, что если она дурно убеждена тем или другим, она заблуждается в своих повелениях и вносит разлад в единство внутреннего человека.",
+        "Её изображают слепой, ибо, ничего не видя сама по себе, она идёт ощупью вослед чувству, если оно слабо или колеблется, либо вослед разуму, если он твёрд и надёжен.",
+        "А поскольку она есть сила, не имеющая ничего верного в желании вещей, кажущихся ей благими по одной видимости, и вечно колеблющаяся между надеждой и страхом, — потому мы и облачаем её здесь причудливо в одеяние переменчивого цвета.",
+        "Что до крыльев, которые ей дают, не лишне, чтобы они были у неё на ногах, как и на плечах, в знак непрестанного беспокойства, в коем она пребывает, трудясь над обретением своего покоя; и поскольку, долго искав его на земле, она не может его там найти, она совершает благородное усилие и устремляется к Небу; чему весьма способствуют крылышки на её ногах, посредством коих она легче отрешается от бремени земных вещей."
+      ],
+      "text_fr": [
+        "ELLE est figurée par vne fille aveugle, qui a des aisles au dos & aux pieds, vne robe de couleur changeante, & l'action d'vne personne qui marche à tastons.",
+        "La Volonté qui commande en Reine à la plus noble partie de l'homme, s'impose des loix elle-mesme, selon les evenemens ou favorables ou contraires, que le sens & la raison luy promettent; d'où il s'ensuit que si elle est mal persuadée de l'vn ou de l'autre, elle se trompe en ses commandemens, & met en desordre l'vnion de l'homme interieur.",
+        "Elle est peinte aveugle, parce que ne voyant de soy-mesme aucune chose, elle marche à tastons aprés le sens, s'il est foible ou chancelant, ou aprés la raison, si elle est ferme & solide.",
+        "Or parce qu'elle est vne puissance, qui dans le desir des choses que l'apparence luy fait trouver bonnes, n'a rien de certain, & flotte toûjours entre l'espoir & la crainte; c'est pour cela que nous l'habillons icy bizarrement d'vne robe de couleur changeante.",
+        "Quant aux aisles qu'on luy donne, il n'est pas hors de propos qu'elle en ait aux pieds comme aux épaules, pour vne marque de l'inquietude où elle est sans cesse, en travaillant à l'establissement de son repos; & dautant qu'aprés l'avoir long-temps cherché sur la terre, elle ne l'y peut trouver, elle fait vn effort genereux, & se guinde vers le Ciel; à quoy luy servent grandement les ailerons qu'elle porte aux pieds, par le moyen desquels elle se détache plus aisément de l'embarras des choses terrestres."
+      ],
       "en": "Will",
-      "group_en": "V"
+      "group_en": "V",
+      "scans": [
+        "p1-173-1.jpg",
+        "p1-173-2.jpg",
+        "p1-173-3.jpg"
+      ]
     },
     {
       "id": "p1-174",
@@ -8659,12 +8728,33 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-174.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Муж в облачении священника с плетью в правой руке и зажжённой лампой в левой",
+          "meaning": "Плеть — исправление заблуждающихся; лампа — наставление несведущих; оба орудия вместе — ревностное, искреннее и прилежное служение Божественному культу, явленное примером Христа, изгнавшего торгующих из Храма",
+          "what_en": "A man in priestly vestments, a scourge in his right hand and a lit lamp in his left",
+          "meaning_en": "The scourge signifies the correction of those who err; the lamp, the instruction of the ignorant; together they picture the sincere, diligent zeal for divine worship exemplified by Christ driving the money-changers from the Temple"
+        }
+      ],
+      "text_ru": [
+        "Здесь он представлен в облике мужа, облачённого как Священник, который в правой руке держит плеть, а в левой — зажжённую лампу.",
+        "Под Рвением должно разуметь пламенное желание доброго человека, чтобы всё, относящееся к Божественному культу, совершалось как должно, с равной искренностью и прилежанием.",
+        "Исполнить и то и другое можно, если взять на себя труд наставлять несведущих и исправлять заблуждающихся; что являют нам лампа и плеть, которые держит в руке эта фигура. Спаситель наш Иисус Христос в совершенстве явил и то и другое, когда изгнал из Храма Иерусалимского тех, кто превращал это святое и священное место в торжище; а затем принялся наставлять вдвойне — и спасительными своими поучениями, и чудесными примерами своей жизни."
+      ],
+      "text_fr": [
+        "IL est icy representé par vn homme habillé en Prestre, qui de la main droite tient vne discipline, & de la gauche vne lampe allumée.",
+        "Par le Zele se doit entendre l'ardent desir qu'a l'homme de bien, que les choses qui appartiennent au culte Divin soient faites comme il faut, & avec autant de sincerité que de diligence.",
+        "L'on peut s'acquitter de l'vn & de l'autre, si l'on prend le soin d'instruire les ignorans, & de corriger ceux qui faillent; ce qui nous est declaré par la lampe, & par la discipline que cette figure tient en main. Nostre Sauveur Jesus-Christ pratiqua parfaitement ces deux choses, lorsqu'il chassa du Temple de Hierusalem ceux qui de ce lieu saint & sacré en faisoient vn marché public; & qu'en suite de cela il se mit à les instruire doublement, & par ses enseignemens salutaires, & par les miraculeux exemples de sa vie."
+      ],
       "en": "Zeal",
-      "group_en": "Z"
+      "group_en": "Z",
+      "scans": [
+        "p1-174-1.jpg",
+        "p1-174-2.jpg"
+      ]
     },
     {
       "id": "p2-1",
