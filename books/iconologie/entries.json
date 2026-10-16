@@ -9975,12 +9975,35 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-29.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юноша в одеянии цвета палой листвы с гирляндой оливы, со знаком Стрельца в правой руке и рогом изобилия с корнеплодами в левой",
+          "meaning": "Цвет палой листвы — осеннее увядание природы; знак Стрельца — грозные дожди и град этой поры; гирлянда оливы — сбор оливкового масла, важного плода месяца; рог изобилия с корнями — осенний урожай корнеплодов",
+          "what_en": "A winged youth in dead-leaf colored robes with an olive wreath, the sign of Sagittarius in his right hand and a cornucopia of roots in his left",
+          "meaning_en": "The dead-leaf color signifies autumn's fading nature; the sign of Sagittarius, the fearsome rains and hail of this season; the olive wreath, the olive oil harvested this month; the cornucopia of roots, the autumn harvest of root vegetables"
+        }
+      ],
+      "text_ru": [
+        "Его изображают юношей, одетым в цвет палой листвы, увенчанным гирляндой оливы. В правой руке он несёт знак Стрельца, а в левой — рог изобилия, полный различных корнеплодов, что земля производит в этом месяце.",
+        "Небесный Знак, что ему дают держать, — Стрелец, названный так и по виду звёзд, и по своим воздействиям: ибо в это время дожди и град, как бы мечущиеся с Неба, становятся грозными.",
+        "Гирлянда оливы на его голове напоминает нам, что в этом месяце обычно выжимают из зрелых олив превосходную жидкость, крайне полезную для человеческой жизни.",
+        "Что до имени, даваемого этому месяцу, он зовётся Ноябрём, будучи девятым по порядку, как следующий зовётся Декабрём за то, что он десятый."
+      ],
+      "text_fr": [
+        "SA peinture est celle d'vn jeune garçon vestu de couleur de feuille-morte, & couronné d'vne guirlande d'olivier. Il porte de la main droite le Signe du Sagittaire, & de la gauche vne corne d'abondance pleine de diverses racines que la terre produit en ce mois-là.",
+        "Le Signe celeste qu'on luy fait tenir est le Sagittaire, ainsi nommé tant de la figure des estoiles, que de ses effets: car en ce temps-là les pluyes & la greste estant comme dardées du Ciel, se rendent épouventables.",
+        "La guirlande d'olivier qu'il a sur la teste, nous fait souvenir qu'en ce mois-là l'on tire ordinairement des olives meures, l'excellente liqueur qu'elles produisent, qui est extrememement propre à l'vsage de la vie humaine.",
+        "Quant au nom qu'on donne à ce mois, il est appellé Novembre, pour estre le neufiéme en ordre, comme le suivant est dit de Decembre, à cause qu'il est le dixiéme."
+      ],
       "en": "November",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-29-1.jpg",
+        "p2-29-2.jpg"
+      ]
     },
     {
       "id": "p2-30",
@@ -9993,12 +10016,33 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-30.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый мрачный юноша в чёрном, без гирлянды, с Козерогом в правой руке и чашей трюфелей в левой",
+          "meaning": "Чёрное одеяние и отсутствие гирлянды — обнажённая, лишённая украшений зимняя земля; Козерог — знак, в коем находится солнце в этом месяце; трюфели — изобильный зимний деликатес",
+          "what_en": "A grim winged youth in black, without a garland, holding Capricorn in his right hand and a cup of truffles in his left",
+          "meaning_en": "The black robe and absent garland signify the bare, ornament-stripped winter earth; Capricorn, the sign the sun occupies this month; the truffles, this month's abundant delicacy"
+        }
+      ],
+      "text_ru": [
+        "Лик, его являющий, ужасен на вид, как и у двух следующих месяцев. Он облачён в чёрное, с крыльями на спине, держа в правой руке Козерога, а в левой — чашу, полную трюфелей.",
+        "Его изображают страшным и облачённым в чёрное, ибо в этом месяце обычно видно, что земля лишена всяких украшений. По той же причине его изображают и без гирлянды.",
+        "Иероглифом ему также служит Козерог, ибо Солнце тогда движется в этом же Знаке; а то, что ему дают нести трюфели, объясняется тем, что они никогда не бывают столь хороши и в столь великом изобилии, как в этом месяце."
+      ],
+      "text_fr": [
+        "LE visage qui le represente est horrible à voir, aussi bien que celuy des deux autres mois suivans. Il est vestu de noir, & a les aisles au dos, tenant de la main droite le Capricorne, & de la gauche vne tasse pleine de truffes.",
+        "On le peint affreux & vestu de noir, à cause qu'en ce mois-là il se voit ordinairement que la terre n'a plus d'ornemens. Et c'est pour la mesme raison encore qu'on le represente sans guirlande.",
+        "Il a pareillement pour hieroglyphe le Capricorne, à cause que le Soleil marche alors dans ce mesme Signe; & ce qu'on luy fait porter des truffes, à cause qu'elles ne sont jamais si bonnes & en si grande abondance qu'en ce mois-là."
+      ],
       "en": "December",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-30-1.jpg",
+        "p2-30-2.jpg"
+      ]
     },
     {
       "id": "p2-31",
@@ -10011,12 +10055,38 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-31.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юноша в белом одеянии со знаком Водолея (коленопреклонённым юношей с сосудом, льющим воду) в руке",
+          "meaning": "Белое одеяние — снег, покрывающий землю в этом месяце; двуликость, по имени бога Януса, — взгляд одновременно на минувший и грядущий год; знак Водолея — обильные зимние дожди и снега, опустошающие поля",
+          "what_en": "A winged youth in white, holding the sign of Aquarius (a kneeling youth pouring water from a vessel)",
+          "meaning_en": "The white robe signifies the snow that covers the earth this month; the month's two-facedness, named for the god Janus, looks at once to the past and future year; the sign of Aquarius, the heavy winter rain and snow that ravage the countryside"
+        }
+      ],
+      "text_ru": [
+        "Ему дают крылья и белое одеяние, сверх того ему дают держать знак Водолея.",
+        "Этот Месяц и следующий были в древности присоединены к году Ромула Нумой Помпилием.",
+        "Он заимствует имя Января у бога Януса. Ибо как его обычно изображают с двумя ликами, так можно сказать и об этом месяце, что у него два различных лика, из коих один взирает на прошлое, а другой — на будущее.",
+        "Белым одеянием его означен снег, коим земля почти всегда покрыта в этом месяце.",
+        "Он держит знак Водолея, ибо в это время более, чем в иную пору года, дождь и снег опустошают сельские края."
+      ],
+      "text_fr": [
+        "ON luy donne des aisles & vn habit blanc, outre qu'on luy fait tenir le Signe du Verseur d'eau.",
+        "Ce Mois & le suivant furent anciennement adjoûtez à l'an de Romulus, par Numa Pompilius.",
+        "Il emprunte le nom de Janvier du Dieu Janus. Car comme on le peint ordinairement avec deux visages, on peut dire de mesme de ce mois-cy, qu'il a deux faces differentes, dont l'vne regarde le passé, & l'autre l'avenir.",
+        "Par son habit blanc est denotée la neige dont la terre est toûjours presque couverte en ce mesme mois.",
+        "Il tient le Signe du Verseur d'eau, à cause qu'en ce temps-là plus qu'en autre saison de l'année la pluye & la neige désolent la campagne."
+      ],
       "en": "January",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-31-1.jpg",
+        "p2-31-2.jpg",
+        "p2-31-3.jpg"
+      ]
     },
     {
       "id": "p2-32",
@@ -10029,12 +10099,31 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-32.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юноша, держащий обеими руками знак Рыб (две рыбы в круге)",
+          "meaning": "Имя месяца производят от лихорадок этой поры, латинского Februus или очистительных жертв по усопшим; знак Рыб (водное животное) — обильные зимние воды и дожди, затопляющие поля",
+          "what_en": "A winged youth holding the sign of Pisces (two fish within a circle) with both hands",
+          "meaning_en": "The month's name is traced to the fevers of the season, the Latin Februus, or the purifying sacrifices then made for the dead; the sign of Pisces, a water creature, represents the abundant winter waters and rains that flood the fields"
+        }
+      ],
+      "text_ru": [
+        "Этот месяц, изображённый, как и прочие, держащий обеими руками знак Рыб, был назван Февралём Нумой Помпилием — то ли из-за лихорадок, тогда царящих, то ли от латинского слова Februus, то ли от очистительных обрядов и жертвоприношений, что римляне тогда совершали по усопшим.",
+        "Ему дают нести Водолея, ибо Солнце, проходя через этот небесный Знак, есть символ самого месяца. А поскольку Рыба — животное водное, она же являет нам и воды, и дожди, затопляющие тогда поля."
+      ],
+      "text_fr": [
+        "CE mois representé comme les autres, & qui soûtient à deux mains le Signe des Poissons, fut appellé Fevrier par Numa Pompilius, ou à cause des fievres qui regnent alors, ou du mot Latin Februus, ou des expiations & des sacrifices que les Romains faisoient alors pour les defunts.",
+        "On luy fait porter le Verseur d'eau, à cause que le Soleil passant par ce Signe celeste, est le symbole du mesme mois. Et comme le Poisson est vn animal aquatique, aussi nous figure-t'il les eaux & les pluyes qui noyent alors les champs."
+      ],
       "en": "February",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-32-1.jpg",
+        "p2-32-2.jpg"
+      ]
     },
     {
       "id": "p2-33",
