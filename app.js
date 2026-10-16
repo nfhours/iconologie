@@ -5,7 +5,7 @@
   // Бампать при каждой правке app.css (и, по желанию, когда меняется логика
   // в app.js, завязанная на новую разметку), чтобы браузеры и CDN не отдавали
   // старую закэшированную копию стилей после деплоя.
-  var APP_VER = "14";
+  var APP_VER = "15";
   var me = document.currentScript;
   var BASE = (me && me.src) ? me.src.replace(/[^\/]*$/, "") : "./";
   var root = document.getElementById("iconologie");
@@ -138,7 +138,9 @@
   // render the verse as its own italic, line-broken block instead of running it into the prose.
   function paraHtml(arr){
     return (arr||[]).map(function(p){
-      var parts = String(p||"").split("¶"), html = "";
+      var s = String(p||"");
+      if(s.charAt(0)==="§") return "<h3 class=\"ic-subhead\">"+esc(s.slice(1))+"</h3>";
+      var parts = s.split("¶"), html = "";
       if(parts[0]) html += "<p>"+esc(parts[0])+"</p>";
       for(var i=1;i<parts.length;i++){
         html += '<p class="ic-verse">'+parts[i].split(" / ").map(esc).join("<br>")+'</p>';

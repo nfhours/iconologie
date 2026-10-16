@@ -124,6 +124,7 @@
 .ic-text p+p{margin-top:.15em}
 .ic-text p.ic-verse{font-style:italic;text-indent:0;padding-left:1.6em;line-height:1.5;text-align:left;hyphens:manual;margin:.9em 0}
 .ic-text p.ic-verse+p.ic-verse{margin-top:0}
+.ic-text h3.ic-subhead{font-family:Georgia,serif;font-style:italic;font-size:1.15em;margin:1.6em 0 .6em;color:var(--ink)}
 .ic-fr-text{font-family:var(--old);font-size:1.08em;line-height:1.55}
 .ic-details{margin-top:34px;border-top:1px solid var(--rule)}
 .ic-details summary{cursor:pointer;padding:14px 0;font-size:.9em;font-weight:600;color:var(--accent);list-style:none}
