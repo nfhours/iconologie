@@ -7385,12 +7385,39 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-143.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина под покрывалом с огнём в левой руке, книгой и крестом в правой, со слоном подле неё",
+          "meaning": "Покрывало — тайная, сокровенная природа благочестия; крест — победное знамя искупления; книга — Священное Писание, на коем зиждется вера; огонь — возжигаемое благочестие; слон — почитаемый древними за самое религиозное животное, поклоняющееся светилам",
+          "what_en": "A veiled woman with fire in her left hand, a book and a cross in her right, and an elephant at her side",
+          "meaning_en": "The veil signifies religion's hidden, secret nature; the cross, the victorious banner of redemption; the book, the Holy Scripture on which faith rests; the fire, the devotion it kindles; the elephant, held by the ancients to be the most devout of animals, worshipping sun and stars"
+        }
+      ],
+      "text_ru": [
+        "Она изображается в облике женщины под покрывалом, с огнём в левой руке, с книгой и крестом в правой, и со слоном подле себя.",
+        "Религия, по святому Фоме, есть нравственная добродетель, посредством которой человек почитает и чтит Бога внутренне — душою, и внешне — телом. Поскольку люди, говорит Аристотель, естественно к тому склонны, именно ею, более нежели самим разумом, человек и отличается от животных, которые её лишены.",
+        "Лик её под покрывалом, ибо воистину она всегда была тайной и сохранялась в обрядах и образах, как бы под тонкими завесами.",
+        "Крест есть победоносное знамя истинной религии, которое христиане привыкли почитать с великим благоговением, признавая, что им были искуплены.",
+        "Книга, которую она несёт, есть книга Священного Писания, коим она утверждается в душах, а огонь — символ благочестия, которое она в них возжигает.",
+        "А поскольку слон есть, если можно так сказать, самое религиозное из всех животных, то именно потому он и находится подле неё; и это не без веской причины, ибо, по свидетельству Плиния, это дивное животное поклоняется Солнцу и звёздам, и даже доходит до того, что при появлении новой Луны идёт омыться в реке и как будто призывает помощь Небес, очистившись."
+      ],
+      "text_fr": [
+        "ELLE est figurée par vne femme voilée, qui a du feu en la main gauche, en la droite vn livre & vne croix, & à son costé vn elephant.",
+        "La Religion, selon saint Thomas, est vne vertu morale, par laquelle l'homme revere & honore Dieu interieurement avec l'ame, & exterieurement avec le corps. Comme les hommes, dit Aristote, y sont portez naturellement: aussi est-ce par elle plus que par la raison mesme qu'il differe des bestes, qui en sont dépourveuës.",
+        "Elle a le visage voilé, parce qu'il est veritable qu'elle a toûjours esté secrete, & s'est conservée dans les ceremonies & les figures, comme sous des voiles deliez.",
+        "La Croix est la victorieuse banniere de la vraye religion, que les Chrestiens ont accoûtumé d'avoir en grande veneration, comme reconnoissant que par elle ils ont esté racheptez.",
+        "Le livre qu'elle porte est celuy des saintes Ecritures, par qui elle s'établit dans les ames, & le feu est vn symbole de la devotion qu'elle y allume.",
+        "Et dautant que l'Elephant est, s'il faut ainsi dire, le plus religieux de tous les animaux, c'est pour cela mesme qu'elle en a vn à son costé; ce qui n'est pas sans vne grande raison, puisqu'au rapport de Pline, ce merveilleux animal adore le Soleil & les Estoiles, jusques-là mesme, qu'au point que la nouvelle Lune commence à paroistre il se va laver dans la riviere, & semble invoquer le secours du Ciel aprés s'estre purifié."
+      ],
       "en": "Religion",
-      "group_en": "R"
+      "group_en": "R",
+      "scans": [
+        "p1-143-1.jpg",
+        "p1-143-2.jpg"
+      ]
     },
     {
       "id": "p1-144",
@@ -7403,12 +7430,38 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-144.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Пожилая просто одетая женщина с садовым серпом в правой руке и открытой книгой с латинской надписью в левой",
+          "meaning": "Старость — наибольшая способность к исправлению нравов и управлению; простое одеяние — отказ от роскоши и распущенности; серп — отсечение злоупотреблений, как садовник обрезает лишние ветви; книга законов — руководство к исправлению жизни через послушание установлениям",
+          "what_en": "An elderly, plainly dressed woman holding a small pruning hook in her right hand and an open book with a Latin inscription in her left",
+          "meaning_en": "Her old age signifies the greatest fitness for reforming morals and governing others; her plain dress, the rejection of luxury and license; the pruning hook, the cutting away of abuses, as a gardener trims excess branches; the book of laws, the guide to reforming one's life through obedience to just rule"
+        }
+      ],
+      "text_ru": [
+        "Её изображают старой женщиной, просто одетой, держащей в правой руке маленький серп, а в левой — открытую книгу, на коей видны написанными слова: — pereunt discrimine nullo Amissa leges (без различия гибнут утраченные законы). То есть: Что Законы, не погибая, всегда защищены, / И от случайностей они никогда не теряются.",
+        "Её изображают старой, ибо, по Платону, последний возраст из всех наиболее способен к Исправлению и к управлению другими; при этом надлежит заметить, что под словом Исправление (Реформация) мы разумеем то, что совершается в нравах, когда искореняют дурные, дабы ввести взамен добрые, кои люди мало-помалу оставили из-за чрезмерной пагубной распущенности.",
+        "Одета она просто, поскольку богатые одеяния по обыкновению суть знаки роскоши, а порою и распущенности.",
+        "Что до серпа, который она держит, причина тому довольно явственна: ибо подобно тому как он весьма служит Садовнику для срезания лишних ветвей, отнимающих у деревьев силу и питание, так и Исправление точно так же отсекает злоупотребления и дурные обычаи тех, кто предаётся распущенности или выходит за пределы, предписанные им законами.",
+        "Книга, что она несёт, есть книга законов, коим должны следовать люди, дабы исправить свою жизнь; а сделать это лучше всего они могут, повинуясь святым установлениям и спасительным наставлениям своих Начальников, кои Бог поставил блюсти их поведение."
+      ],
+      "text_fr": [
+        "ELLE est peinte en femme vieille simplement vestuë, & qui tient vne petite serpe de la main droite, & de la gauche vn livre ouvert, où ces paroles se voyent écrites. — pereunt discrimine nullo Amissæ leges. C'est à dire, Que les Loix sans perir sont toûjours deffenduës, Et par les accidens ne sont jamais perduës.",
+        "Elle est peinte vieille, parce que selon Platon, le dernier âge est le plus propre de tous à la Reformation & au gouvernement d'autruy: où il est à remarquer, que par le mot de Reformation nous entendons celle qui se fait des mœurs, lorsqu'on extermine les mauvaises pour en introduire de bonnes, que les hommes ont quittées peu à peu par vne trop pernicieuse licence.",
+        "Elle est simplement vestuë, à cause que les riches habits sont d'ordinaire des marques de luxe, & quelquefois de débordement.",
+        "Quant à la serpete qu'elle tient, la cause en est assez manifeste: car comme elle sert grandement au Jardinier pour couper les branches superflues, qui ostent aux arbres leur force & leur nourriture; la Reformation de mesme retranche les abus & les mauvaises coûtumes de ceux qui s'emportent dans le débord, ou qui vont au delà des bornes que les loix leur ont prescrites.",
+        "Le livre qu'elle porte est celuy des loix, selon lesquelles il faut que les hommes se reglent, & qu'ils reforment leur vie. Ce qu'ils ne peuvent mieux faire qu'en obeissant aux saints decrets & aux salutaires instructions de leurs Superieurs, que Dieu a établis pour veiller à leur conduite."
+      ],
       "en": "Reformation",
-      "group_en": "R"
+      "group_en": "R",
+      "scans": [
+        "p1-144-1.jpg",
+        "p1-144-2.jpg",
+        "p1-144-3.jpg"
+      ]
     },
     {
       "id": "p1-145",
@@ -7421,12 +7474,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-145.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Увенчанный лавром кающийся грешник в грубом власяничном одеянии, с пылающим сердцем, обвитым терниями, в одной руке",
+          "meaning": "Терновый венец и власяница — добровольное умерщвление плоти и усердие в покаянии; пылающее сердце — внутреннее сожаление и тайные угрызения совести, уязвляющие душу не менее, чем шипы — тело",
+          "what_en": "A laurel-crowned penitent sinner in coarse sackcloth, holding a flaming heart wreathed in thorns in one hand",
+          "meaning_en": "The thorn crown and sackcloth signify voluntary mortification and zealous penance; the flaming heart, the inward regret and secret remorse of conscience, which wound the soul no less than thorns wound the flesh"
+        }
+      ],
+      "text_ru": [
+        "Эта фигура не нуждается в пояснении, поскольку в той, что мы уже дали для Покаяния, встречается, почти без разницы, то же самое, что мы могли бы сказать здесь. Впрочем, хорошо известно, что терновый венец, власяница и пылающее сердце, которые носит этот кающийся грешник, суть столько же свидетельств усердия и добровольного умерщвления плоти: ибо сожаление о том, что он оскорбил своего Создателя, и тайные угрызения совести ощущаются кающейся душой не менее, нежели шипы — телом, ими уязвлённым."
+      ],
+      "text_fr": [
+        "CETTE figure n'a pas besoin d'explication, puisqu'en celle que nous avons donnée de la Penitence, se rencontrent, on peu s'en faut, les mesmes choses que nous pourrions dire icy. L'on sçait bien d'ailleurs que la couronne d'épines, le cilice & le cœur enflammé que porte ce pecheur repentant, sont autant de témoignages de zele & de mortification volontaire: car le regret qu'il a d'avoir offensé son Createur, & le secret remors de la conscience ne se font pas moins sentir à l'ame penitente, que les épines au corps qui en est piqué."
+      ],
       "en": "Repentance",
-      "group_en": "R"
+      "group_en": "R",
+      "scans": [
+        "p1-145-1.jpg",
+        "p1-145-2.jpg"
+      ]
     },
     {
       "id": "p1-146",
@@ -7439,12 +7509,40 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-146.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Вооружённый воин, мечущий дротик; в поэтическом описании — неистовая фигура со змеями в волосах, одеянием разных цветов и окровавленными повязками на челе",
+          "meaning": "Разноцветное одеяние — несовпадающие, спорящие мнения людей; змеи на голове — пагубные, коварные замыслы, которые раздор лелеет; дротик/огниво — гнев, воспламеняющийся от столкновения упрямых нравов",
+          "what_en": "An armed warrior hurling a javelin; in the poets' fuller description, a frenzied figure with serpents in her hair, a robe of many colors, and bloodied fillets about her brow",
+          "meaning_en": "The many-colored robe stands for the clashing, discordant opinions of men; the serpents on her head, the malicious schemes discord nurses; the javelin or flint, the anger kindled by the clash of two stubborn wills"
+        }
+      ],
+      "text_ru": [
+        "Египтяне изображали и то и другое в виде вооружённого мужа, который шёл повсюду, сея раздор, и метал дротик, как это и показано здесь на рисунке.",
+        "Но, думается, лучше было бы вывести облик её из описания, какое обычно дают ей Поэты; ибо они являют её взору как некое Неистовство, вышедшее из ада, с распущенными волосами, в коих сплетаются многочисленные змеи, в одеянии разных цветов, со лбом, стянутым окровавленными повязками.",
+        "То, что называют Смутой, Раздором или Мятежом, есть беспорядочное движение, проистекающее из порочных склонностей человека. Ибо нельзя сомневаться, что алчность, честолюбие, зависть и неравенство, встречающиеся в положении людей и в их нравах, суть первая тому причина.",
+        "Это являют нам цвета её одеяния, различие коих означает различие мнений, редко сходящихся в одной и той же правоте. Отсюда же и то, что нет такого уединённого места, где не обитал бы Раздор. Это и заставило некоторых древних Философов полагать, будто он есть начало всех природных вещей. Но должно почитать мерзким тот раздор, что стремится к разрушению общего блага и тщится лишь взрастить пагубные замыслы, кои он лелеет, — символом коих служат змеи на его голове.",
+        "Раздор со змеиными власами, / Гибельная чума для властителей, / Не прекращает своих трагических деяний, / Доколе не погубит сами государства. / От него родилось безумие / Греции против Азии, / И от него они взяли факел, / Коим опустошили свою землю, — / Те два брата, чья война / Не прекратилась и в могиле.",
+        "Ариосто по этому поводу называет его кровавым поджигателем и вкладывает ему в руку огниво, дабы показать, что гнев воспламеняется от столкновения двух упрямцев, подобно тому как мы видим, что огонь высекается от ударов по кремню."
+      ],
+      "text_fr": [
+        "LES Egyptiens representoient l'vn & l'autre par vn homme armé, qui s'en alloit semant la division de toutes parts, & dardoit vn javelot, comme il se voit peint icy.",
+        "Mais il semble qu'il seroit mieux d'en tirer le tableau de la description que les Poëtes en font d'ordinaire; car ils l'étalent aux yeux comme vne Fureur sortie d'enfer, qui a les cheveux épars, où s'entrelassent plusieurs serpens; vne robe de diverses couleurs, & le front serré de bandelettes sanglantes.",
+        "Ce qu'on appelle Rumeur, Discorde, ou Tumulte, est vn mouvement déreglé, qui procede des vitieuses inclinations de l'homme. Car l'on ne peut mettre en doute que l'avarice, l'ambition, la jalousie, & l'inegalité qui se rencontrent dans la condition & dans les humeurs, n'en soient la premiere cause.",
+        "Cela nous est demontré par les couleurs de sa robe, la difference desquelles signifie celle des opinions, qui se rencontrent rarement dans vne mesme justesse. De là vient aussi qu'il n'est point de lieu si solitaire où la Discorde n'habite. Ce qui a fait croire à quelques anciens Philosophes, qu'elle estoit le principe de toutes les choses naturelles. Mais il faut tenir pour abominable celle qui tend à la ruine du bien public, & qui ne s'étudie qu'à faire éclore les pernicieux desseins qu'elle couve, dont les serpens qu'elle a sur la teste sont les symboles.",
+        "La Discorde aux creins de couleuvres, Peste fatale aux Potentats, Ne finit ses tragiques œuvres, Qu'en la fin mesme des Estats. D'elle naquit la frenesie De la Grece contre l'Asie, Et d'elle prirent le flambeau Dont ils desolerent leur terre, Ces deux freres de qui la guerre Ne cessa point dans le tombeau.",
+        "L'Arioste l'appelle à ce propos, vn sanglant boute-feu, & luy fait tenir vn fusil en main, pour montrer que la colere s'enflamme par le contraste de deux personnes obstinées, comme nous voyons que le feu s'allume à force de battre le fusil."
+      ],
       "en": "Rumor, or Discord",
-      "group_en": "R"
+      "group_en": "R",
+      "scans": [
+        "p1-146-1.jpg",
+        "p1-146-2.jpg",
+        "p1-146-3.jpg"
+      ]
     },
     {
       "id": "p1-147",
