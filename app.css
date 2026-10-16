@@ -122,23 +122,24 @@
 .ic-obj-body{padding:4px 2px 22px}
 .ic-obj-img{border:1px solid var(--rule);border-radius:4px;background:var(--sheet);margin:0 auto 6px;max-height:40vh;object-fit:contain}
 
-/* мобильная панель снизу для предмета, открытого с гравюры.
-   Заголовок — обычный flex-блок, а не position:sticky: внутри
-   fixed-предка + прокручиваемого контейнера sticky иногда не
-   прилипает в iOS Safari, поэтому прокручивается только тело, а
-   шапка с кнопками всегда на месте. Высота считается и через vh,
-   и через dvh (вторая строка переопределяет первую там, где
-   поддерживается) — так панель не вылезает за пределы видимой
-   области под сворачивающейся адресной строкой Safari. */
+/* мобильная панель для предмета, открытого с гравюры: на весь экран,
+   без просвета фона сверху (с ним панель читалась как случайно
+   приоткрытое окно, а не основной экран). Заголовок — обычный
+   flex-блок, а не position:sticky: внутри fixed-предка +
+   прокручиваемого контейнера sticky иногда не прилипает в iOS
+   Safari, поэтому прокручивается только тело, а шапка с кнопками
+   всегда на месте. Высота считается и через vh, и через dvh (вторая
+   строка переопределяет первую там, где поддерживается) — так
+   панель не вылезает за пределы видимой области под сворачивающейся
+   адресной строкой Safari. */
 .ic-sheet{position:fixed;inset:0;z-index:99999}
-.ic-sheet-backdrop{position:absolute;inset:0;background:rgba(34,32,28,.45)}
-.ic-sheet-panel{position:absolute;left:0;right:0;bottom:0;
-  max-height:88vh; max-height:88dvh;
+.ic-sheet-backdrop{position:absolute;inset:0;background:var(--paper)}
+.ic-sheet-panel{position:absolute;inset:0;
+  height:100vh; height:100dvh;
   display:flex;flex-direction:column;
-  background:var(--paper);border-radius:14px 14px 0 0;box-shadow:0 -4px 24px rgba(0,0,0,.2);
-  overscroll-behavior:contain}
+  background:var(--paper)}
 .ic-sheet-head{flex:none;display:grid;grid-template-columns:auto 1fr auto auto;gap:8px;align-items:center;
-  background:var(--paper);border-bottom:1px solid var(--rule);border-radius:14px 14px 0 0;padding:12px 14px}
+  background:var(--paper);border-bottom:1px solid var(--rule);padding:calc(12px + env(safe-area-inset-top)) 14px 12px}
 .ic-sheet-title{font-family:var(--old);font-style:italic;font-size:1.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .ic-sheet-prev,.ic-sheet-next,.ic-sheet-close{width:36px;height:36px;border:1px solid var(--rule);border-radius:50%;
   background:var(--sheet);cursor:pointer;font-size:1.1em;line-height:1;display:flex;align-items:center;justify-content:center;color:var(--ink)}
