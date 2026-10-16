@@ -7890,12 +7890,33 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-155.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Дева в златотканом одеянии, держащая сердце в левой руке и голубку в правой",
+          "meaning": "Голубка и золотое одеяние — неспособность истинной искренности к притворству; сердце в руке — открытость внутренней жизни человека, которому нечего скрывать",
+          "what_en": "A maiden in cloth-of-gold, holding a heart in her left hand and a dove in her right",
+          "meaning_en": "The dove and golden robe signify that true sincerity is incapable of any pretense; the heart held in the hand, the open inner life of one who has nothing to hide"
+        }
+      ],
+      "text_ru": [
+        "Трудно представить изображение более простодушное, нежели это: девушка, облачённая в златотканый газ, держащая сердце в левой руке, а в правой — голубку.",
+        "Голубка и златая одежда означают, что истинная Искренность не способна ни на какое притворство; а сердце, что она несёт в руке, — что человек, коему целостность жизни не даёт ничего страшиться, столь сильно держится того, чтобы поступки его были на виду, что сам их являет и открывает внутренность своего сердца, твёрдо зная, что грешит лишь как можно менее, да и то невольно, по чёрному злому умыслу.",
+        "Иные иначе облачают эту добродетель: в чрезвычайно тонкое одеяние, покрытое белым покрывалом. Сверх того они хотят, чтобы волосы её были распущены в знак беспечности, грудь открыта, а при ней — кадуцей, на коем восседает голубка."
+      ],
+      "text_fr": [
+        "IL ne s'en peut faire de peinture plus naïve que celle-cy, representant vne fille vestuë de gaze d'or, & qui tient vn cœur en la main gauche, & en la droite vne colombe.",
+        "La colombe & la robe d'or signifient que la vraye Sincerité n'est pas capable d'aucune feinte; & le cœur qu'elle porte en sa main, que l'homme à qui l'integrité de la vie ne fait rien craindre, tient si fort dans l'indifference que ses actions soient éclairées, qu'il les manifeste luy-mesme, & met à découvert l'interieur de son cœur, sçachant bien qu'il ne peche que le moins qu'il peut volontairement, & par vne malice noire.",
+        "Quelques autres habillent cette vertu d'vne robe extremément deliée, & la couvrent d'vn voile blanc. Ils veulent de plus, qu'elle ait les cheveux espars à la nonchalance, le sein découvert, & vn caducée, sur lequel vne colombe est perchée."
+      ],
       "en": "Sincerity",
-      "group_en": "S"
+      "group_en": "S",
+      "scans": [
+        "p1-155-1.jpg",
+        "p1-155-2.jpg"
+      ]
     },
     {
       "id": "p1-156",
@@ -7908,12 +7929,60 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-156.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатая юная фигура, держащая в руках двое песочных часов, рядом поющий петух и восходящее из волн солнце",
+          "meaning": "Крылья — быстрота; песочные часы и бегущее солнце — постоянство и неутомимость, нужные для успешной заботы о делах; петух — бодрствующее начало дня",
+          "what_en": "A winged youthful figure holding two sand-glasses, with a crowing cock and a sun rising from the waves beside it",
+          "meaning_en": "The wings signify swiftness; the sand-glasses and tireless sun, the constancy and perseverance needed for diligent care in affairs; the cock, the wakeful start of day"
+        },
+        {
+          "what": "(Бдительность, первый вариант) Женщина с книгой в правой руке и хворостиной со светильником в левой, рядом журавль на одной ноге",
+          "meaning": "Книга — бдительность души через учение; хворостина и лампа — пробуждение тела и время, предназначенное для бодрствования; журавль на одной ноге — традиционный символ неусыпной стражи",
+          "what_en": "(Vigilance, first variant) A woman with a book in her right hand and a switch with a lit lamp in her left, a crane standing on one leg beside her",
+          "meaning_en": "The book signifies the soul's vigilance through study; the switch and lamp, the body's awakening and the time set aside for watchfulness; the one-legged crane, the traditional symbol of a sleepless guard"
+        },
+        {
+          "what": "(Бдительность, второй вариант) Женщина с колокольчиком в руке и львом, спящим с открытыми глазами, у ног",
+          "meaning": "Колокольчик — призыв пробудиться к покаянию и богослужению; лев с открытыми во сне глазами — враждебность бдительности к лени",
+          "what_en": "(Vigilance, second variant) A woman with a small bell in her hand and a lion sleeping with open eyes at her feet",
+          "meaning_en": "The bell signifies the call to rise for penance and divine service; the lion sleeping with open eyes, vigilance's enmity to sloth"
+        }
+      ],
+      "text_ru": [
+        "Хотя обычно он делает людей старыми и некрасивыми, здесь он всё же явлен не менее приятным своей юностью и красотой; ибо никто не вознесётся с крыльями более изящно, и никто не будет держать искуснее двух песочных часов, оживляясь при этом, с одной стороны, пением петуха у его ног, а с другой — Солнцем, восходящим из волн.",
+        "Эта фигура изображена прекрасной, ибо Забота хватает Случай за волосы и удерживает его всем, что в нём есть доброго и прекрасного.",
+        "Крылья означают чрезвычайную быстроту; к чему прибавлены двое часов и неутомимое в своём беге Солнце, дабы показать, что в заботе о делах не следует действовать вяло, но вести себя достойно и с постоянством, если желают ускорить успех.",
+        "С этой фигурой неплохо сочетаются две следующие, представляющие Заботу, или Бдительность, в облике двух женщин сходной природы.",
+        "Первая держит книгу в правой руке, а в левой — хворостину и зажжённую лампу, подле которой — журавль, стоящий на одной ноге.",
+        "Бдительность души здесь означена книгой, ибо чтением человек делается бдительным, как хворостиной тело пробуждается от сонливости.",
+        "Зажжённая лампа показывает, что Бдительности принадлежит время, наиболее подобающее отдыху: по этой причине древние римляне называли «стражами» определённые часы ночи, в кои воины обязаны были нести дозор ради безопасности войска. Притом всякому ведомо, что лампа совершенно необходима тем, кто желает посвятить учению свои труды и бдения. Читаем по этому поводу, что Демосфен, когда его спросили, что он сделал, дабы стать столь превосходным Оратором, ответил, что истратил больше масла, чем вина; разумея под первым Бдительность, привязанную к наукам, а под вторым — сонливость, рождающуюся от неги.",
+        "Вторая стоит с колокольчиком в руке, а у ног её — лев, спящий с открытыми глазами.",
+        "Колокол весьма подобает Бдительности, ибо он призывает нас подняться, дабы предаться Покаянию и Богослужению.",
+        "Что до льва, то известно, сколь сильно он враг лени, ибо, по свидетельству Пиэрия, глаза его никогда не бывают столь широко открыты, как тогда, когда он покоится."
+      ],
+      "text_fr": [
+        "BIEN qu'il fasse ordinairement les personnes vieilles & laides, il ne laisse pas toutefois de paroistre icy également agreable pour sa jeunesse & pour sa beauté; car il ne peut de meilleure grace s'elever en haut avec ses aisles, ny tenir plus adroitement qu'il fait deux horloges de sable, tandis qu'il est animé d'vn costé par le chant du coq qui est à ses pieds, & de l'autre par le Soleil qui sort de l'onde.",
+        "Cette figure est peinte belle, parce que le Soin prend l'Occasion par les cheveux, & qu'il la retient avec tout ce qu'elle a de beau & de bon en soy.",
+        "Par les aisles est signifiée vne extrême vitesse: A quoy l'on adjoûte deux horloges, & vn Soleil qui ne se lasse point en sa course, pour montrer qu'il ne faut point aller mollement dans le soin des affaires, mais s'y porter de bonne façon, & avec perseverance, si l'on veut haster le succés.",
+        "A cette figure ne s'accommodent pas mal les deux suivantes, qui representent le Soin ou la Vigilance par deux femmes de mesme nature.",
+        "La premiere tient vn livre en la main droite, & en la gauche vne houssine & vne lampe allumée, prés de laquelle est vne gruë qui se soûtient sur vn pied.",
+        "La Vigilance de l'ame est icy marquée par le livre, parce que par la lecture l'homme se rend vigilant, comme par la houssine le corps se reveille de son assoupissement.",
+        "La lampe allumée montre qu'à la Vigilance appartient le temps le plus convenable au repos: à raison dequoy les anciens Romains appelloient veilles certaines heures de la nuit, durant lesquelles les soldats estoient obligez à faire la sentinelle pour la seureté de l'armée. D'ailleurs personne n'ignore que la lampe ne soit entierement necessaire à ceux qui veulent donner à l'estude leurs soins & leurs veilles. Nous lisons à ce propos, que Demosthene interrogé de ce qu'il avoit fait pour se rendre si excellent Orateur, répondit qu'il avoit vsé plus d'huile que de vin; entendant par l'vn la Vigilance attachée aux sciences, & par l'autre l'assoupissement qui naist des delices.",
+        "La seconde se tient debout avec vne clochette à la main, & à ses pieds vn lion qui dort les yeux ouverts.",
+        "La cloche convient fort bien à la Vigilance, parce qu'elle nous invite à nous lever, afin de vacquer à la Penitence & au Service divin.",
+        "Quant au lion, l'on sçait à quel point il est ennemy de la paresse, puisqu'au rapport de Pierius, ses yeux ne sont jamais si bien ouverts que lors qu'il repose."
+      ],
       "en": "Care",
-      "group_en": "S"
+      "group_en": "S",
+      "scans": [
+        "p1-156-1.jpg",
+        "p1-156-2.jpg",
+        "p1-156-3.jpg"
+      ]
     },
     {
       "id": "p1-157",
@@ -7926,12 +7995,32 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-157.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Странная женщина в тёмном одеянии с золотым венцом и кошельком серебра в правой руке и верёвкой в левой",
+          "meaning": "Золотой венец с кошельком — добрая Судьба; верёвка — злая Судьба; притча о сокровище и верёвке — переменчивость и слепота случая, противного намерениям человека",
+          "what_en": "A strange woman in dark robes, a golden crown with a purse of silver in her right hand and a rope in her left",
+          "meaning_en": "The golden crown and purse signify good Fortune; the rope, ill Fortune; the parable of the treasure and the rope illustrates the fickle, blind reversal of outcomes against a man's intentions"
+        }
+      ],
+      "text_ru": [
+        "Его изображают в виде странной женщины, облачённой в одеяние тёмного цвета, держащей в правой руке золотой венец с кошельком, полным серебра, а в левой — верёвку.",
+        "Золотой венец и верёвка суть знаки того, что называют доброй и злой Судьбой. Сказать же, впрочем, существует ли она вообще или нет, — задача, в коей я оказался бы немало затруднён, если бы пришлось полагаться на бредни древних, доходивших до такого безумия, что подчиняли ей даже самого Юпитера. Но не задерживаясь на этих баснях, по-христиански опровергнутых святыми Отцами, довольно мне заметить вообще, что простой народ называет Судьбою исход вещей, противный намерению действующего. Это, как мне кажется, довольно удачно выражено мыслью одного греческого автора, который говорит, что некий несчастный, взяв верёвку, дабы повеситься, тотчас её отбросил, нечаянно обнаружив в яме, которую вырыл себе для погребения, большое сокровище; но что немного спустя тот, кто это золото спрятал, не найдя его более, малодушно предался отчаянию и повесился на той самой верёвке, что оставил там первый."
+      ],
+      "text_fr": [
+        "ON le represente par vne femme bizarre, & qui est vestuë d'vne robe de couleur obscure, tenant vne couronne d'or de la main droite, avec vne bourse pleine d'argent, & de la gauche vne corde.",
+        "La couronne d'or & la corde sont des enseignes de ce qu'on appelle bon & mauvais Destin. De vous dire au reste s'il en est vn, ou s'il n'en est point; c'est à quoy je me trouverois bien empesché, s'il s'en falloit rapporter aux rêveries des anciens, qui ont esté si fols que d'y assujettir Jupiter mesme. Mais sans m'arrester à ces fables, qui sont chrestiennement refutées par les saints Peres, il me suffit de remarquer en general, que le vulgaire nomme Destin l'evenement des choses qui sont contre l'intention de l'agent. Ce qui me semble assez bien exprimé par cette pensée d'vn autheur Grec, qui dit, qu'vn miserable ayant pris vne corde pour s'aller pendre, la jetta bien viste comme il eut trouvé fortuitement vn grand tresor en la fosse qu'il avoit faite pour y estre ensevely; mais qu'vn peu aprés celuy qui avoit caché cet or, ne l'y trouvant plus, s'abandonna lâchement au desespoir, & se pendit de la mesme corde que l'autre y avoit laissée."
+      ],
       "en": "Lot, or Destiny",
-      "group_en": "S"
+      "group_en": "S",
+      "scans": [
+        "p1-157-1.jpg",
+        "p1-157-2.jpg",
+        "p1-157-3.jpg"
+      ]
     },
     {
       "id": "p1-158",
@@ -7944,12 +8033,45 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-158.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Статный муж в зрелых летах, в златотканом с пурпуром одеянии, увенчанный гирляндой алых гиацинтов, с золотой цепью на шее, опирающийся на палицу Геркулеса и держащий зажжённый факел",
+          "meaning": "Золотое одеяние и цепь — почести, воздаваемые знаменитым мужам; гиацинт — память, благоразумие и мудрость; палица Геркулеса — совокупность всех добродетелей как единственная опора славы; факел — немеркнущий свет славы праведных",
+          "what_en": "A stately man in his prime, in cloth-of-gold and purple, crowned with a wreath of red hyacinths, a golden chain about his neck, resting on Hercules' club and holding a lit torch",
+          "meaning_en": "The golden robe and chain signify the honors paid to illustrious men; the hyacinth, remembrance, prudence and wisdom; Hercules' club, all virtues joined as glory's sole support; the torch, the undying light of the just man's renown"
+        }
+      ],
+      "text_ru": [
+        "Этот муж приятной наружности, статный и в зрелом возрасте, словно воодушевляет великие души на свершение деяний, блистающих и доставляющих им высокую славу. Он облачён в одеяние, сотканное из золота и пурпура, увенчан гирляндой алых гиацинтов; при этом на шее у него золотая цепь, правой рукой он опирается на палицу, держа в левой зажжённый факел.",
+        "Его изображают приятным и соразмерным в членах, ибо, по слову Платона, красота тела есть знак добродетельной души; а по Аристотелю — правдоподобное указание, что внутреннее не противоречит внешнему.",
+        "Его зрелый возраст означает, что, не имея ни ветреного нрава юношей, ни немощи стариков, он способен исполнять высокие предприятия, к коим его влечёт величие духа, дабы стяжать славу.",
+        "Он облачён в златотканое одеяние, ибо этот металл благороднейший из всех и сияет самою своей природой; вот почему древние Императоры носили из него тканые одежды, когда желали являться на всенародных торжествах. Свидетель тому старый Тарквиний, пятый Царь римлян, носивший такую одежду, когда первым из всех вступал в Рим среди пышности и почестей триумфа. Но дабы ещё более возвысить блеск этого золота, к нему примешивали шёлк, окрашенный в пурпур, как то подтверждается писаниями многих авторов. Так что, поскольку столь богатое облачение даётся обычно лишь мужам наизнатнейшим, не без причины мы украшаем им эту фигуру, дабы изобразить Блеск имени, или сияние истинной славы.",
+        "Он увенчан гиацинтами в память о том, что Аполлон, как говорит Овидий, превратил в этот пурпурный цветок юношу того же имени, одарённого редкой красотой. И поскольку тот же бог именуется Покровителем Муз и добрых дарований, этот цветок принимается и за символ благоразумия и мудрости. Посему эта гирлянда весьма приличествует знаменитым мужам, снискавшим уважение собственными добродетелями и доброй о себе молвой. Оттого же самый Поэт так заключает Превращение Гиацинта: Ты вечно будешь на устах моих; И вечно лира и стихи мои Поведают Вселенной, Сколь дорога мне память о тебе.",
+        "Золотая цепь на его шее — один из тех прославленных знаков чести, что в древности жаловались великим Военачальникам. Свидетель тому, среди прочих, славный Воин Л. Цициний Дентат, Народный Трибун, который, одержав победу в ста двадцати сражениях, получил в достойную награду за свою доблесть три такие цепи, восемьдесят браслетов, восемнадцать копий и сто пятьдесят венцов, и сверх того присутствовал на триумфе девяти Императоров, чему немало способствовали его мужество и поведение.",
+        "Правой рукой он опирается на палицу Геркулеса, ибо ею древние означали идею всех добродетелей, соединённых воедино. И впрямь все, кто стремится к славе и делает своё имя знаменитым, полагают добродетель единственной своей опорой и удаляются, сколько возможно, от пороков, лишь чернящих репутацию.",
+        "Что до факела, что он держит в руке, свет его есть символ славы праведных и сияния их имени, кое пребудет вовек, и в этом мире, и в ином; в чём никто не может усомниться, ибо в Священном Писании сказано: праведники воссияют, как Солнце, в Царстве Отца своего."
+      ],
+      "text_fr": [
+        "CET homme de bonne mine, de belle taille, & d'vn âge viril, semble animer les grands courages à faire des actions qui éclattent, & qui les mettent dans vne haute reputation. Il est vestu d'vne robe tissuë d'or & de pourpre, & couronné d'vne guirlande d'hiacynthes rouges; avec cela il porte au col vne chaîne d'or, & s'appuye de la main droite sur vne massuë, tenant de la gauche vne torche allumée.",
+        "On le peint agreable, & bien proportionné de ses membres, parce qu'au dire de Platon, la beauté du corps est vne marque d'vne ame vertueuse; & selon Aristote, vn indice vray-semblable que l'interieur ne dément point l'exterieur.",
+        "Son âge viril signifie, que n'ayant ny l'humeur éventée des jeunes gens, ny la foiblesse des vieillards, il est en estat d'executer les hautes entreprises, où par vne grandeur de courage il se voit porté, pour s'acquerir de la gloire.",
+        "Il est vestu de drap d'or, à cause que ce metal est le plus noble de tous, & resplendissant de sa nature; voila pourquoy les anciens Empereurs en avoient des robes tissuës, quand ils vouloient paroistre dans les solemnitez publiques. Témoin le vieil Tarquin, cinquiéme Roy des Romains, qui en porta vne lorsque le premier de tous il fit son entrée à Rome parmy les magnificences & les honneurs du triomphe. Mais pour mieux rehausser l'éclat de cet or, on y ajoûtoit de la soye teinte en pourpre, comme il se verifie par les écrits de plusieurs autheurs. De maniere qu'vn si riche habillement n'estant donné d'ordinaire qu'aux hommes les plus illustres, ce n'est pas sans raison que nous en parons celuy-cy, pour representer la Splendeur du nom, ou l'éclat de la vraye gloire.",
+        "Il est couronné d'hiacynthes, pour memoire de ce qu'Apollon, comme dit Ovide, transforma en cette fleur de couleur de pourpre vn jeune homme de ce nom, qui estoit doüé d'vne singuliere beauté. Et comme ce mesme dieu est appellé Protecteur des Muses & des bons esprits; cette fleur aussi est prise pour vn symbole de prudence & de sagesse. Cette guirlande n'est donc pas mal convenable aux hommes illustres, qui se rendent recommandables par leurs propres vertus, & par la bonne odeur qu'ils donnent d'eux. Aussi est-ce pour cela que le mesme Poëte conclut ainsi la Metamorphose d'Hiacynthe. Tu seras toûjours en ma bouche; Et toûjours ma lyre & mes Vers, Feront connoistre à l'Vnivers Combien ton souvenir me touche.",
+        "La chaîne d'or qu'il porte à son col, est vne de ces fameuses marques d'honneur qui se donnoient anciennement aux grands Capitaines. Témoin entre les autres le celebre Guerrier L. Cicinius Dentatus, Tribun du peuple, qui aprés avoir esté victorieux en six-vingts combats, receut pour digne prix de sa valeur trois de ces chaisnes, quatre-vingts bracelets, dix-huit lances, & cent cinquante couronnes, joint qu'il se trouva present au triomphe de neuf Empereurs, à quoy son courage & sa conduite contribuerent beaucoup.",
+        "Il s'appuye de la main droite sur la massuë d'Hercule, parce que par elle les anciens signifioient l'idée de toutes les vertus jointes ensemble. En effet tous ceux qui aspirent à la gloire, & qui rendent illustre leur nom, prennent la vertu pour leur vnique support, & s'éloignent autant qu'ils peuvent des vices, qui ne font que noircir la reputation.",
+        "Quant au flambeau qu'il tient en la main, sa lumiere est vn symbole de la gloire des justes, & de l'éclat de leur nom, qui durera sans fin, & en ce monde & en l'autre; ce que personne ne peut mettre en doute, puisqu'il est dit dans les saintes Lettres, Que les justes luiront comme le Soleil dans le Royaume de leur Pere."
+      ],
       "en": "Splendor of Name",
-      "group_en": "S"
+      "group_en": "S",
+      "scans": [
+        "p1-158-1.jpg",
+        "p1-158-2.jpg",
+        "p1-158-3.jpg",
+        "p1-158-4.jpg"
+      ]
     },
     {
       "id": "p1-159",
