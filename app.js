@@ -5,7 +5,7 @@
   // Бампать при каждой правке app.css (и, по желанию, когда меняется логика
   // в app.js, завязанная на новую разметку), чтобы браузеры и CDN не отдавали
   // старую закэшированную копию стилей после деплоя.
-  var APP_VER = "13";
+  var APP_VER = "14";
   var me = document.currentScript;
   var BASE = (me && me.src) ? me.src.replace(/[^\/]*$/, "") : "./";
   var root = document.getElementById("iconologie");
@@ -559,6 +559,12 @@
     if(!objs.length){ goIndex(book); return; }
     var plateImg = objs[0].plate_img;
     var src = BASE+"books/"+book.slug+"/img/"+plateImg;
+    var plateMeta = (book.meta.plates||[]).filter(function(p){ return String(p.n)===n; })[0];
+    var captionHtml = "";
+    if(plateMeta){
+      var cap = plateMeta["caption_"+state.lang] || plateMeta.caption_ru || plateMeta.caption_fr || "";
+      if(cap) captionHtml = '<p class="ic-plate-caption">'+esc(cap)+'</p>';
+    }
     var hotspots = objs.map(function(it){
       var box = it.bbox || [0,0,10,10];
       var isReady = ready(it, book);
@@ -575,6 +581,7 @@
         '<header class="ic-head"><h1 class="ic-h-fr">'+esc(t("plateTitle",{n:n}))+'</h1>'+
           '<p class="ic-h-ru">'+esc(t("plateHint"))+'</p></header>'+
         '<div class="ic-plate-wrap"><img src="'+esc(src)+'" alt="">'+hotspots+'</div>'+
+        captionHtml+
       '</div>';
     bindLangSwitch(root);
     root.querySelector(".ic-back").addEventListener("click",function(){ goIndex(book); });

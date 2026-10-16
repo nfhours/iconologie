@@ -83,6 +83,7 @@
 /* просмотр таблицы целиком с кликабельными номерами */
 .ic-plate-wrap{position:relative;margin-top:24px;background:var(--sheet);border:1px solid var(--rule);border-radius:4px;line-height:0}
 .ic-plate-wrap img{width:100%;height:auto;display:block}
+.ic-plate-caption{margin-top:10px;font-size:.85em;font-style:italic;color:var(--muted,#766);text-align:center;line-height:1.4}
 .ic-hotspot{position:absolute;border:2px solid transparent;border-radius:4px;background:rgba(139,30,45,.06);
   cursor:pointer;padding:0;display:flex;align-items:flex-start;justify-content:flex-start}
 .ic-hotspot:hover,.ic-hotspot:focus-visible{border-color:var(--accent);background:rgba(139,30,45,.14)}

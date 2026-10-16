@@ -19,12 +19,22 @@
   ],
   "partsNote": "Список частей предварительный и неполный: в сохранившихся сканах не нашлось оглавления. Дополнить после сверки с оглавлением книги.",
   "fields": {
+    "obverse": { "ru": "Лицевая сторона", "en": "Obverse" },
+    "reverse": { "ru": "Оборот", "en": "Reverse" },
     "material": { "ru": "Материал", "en": "Material" },
     "dimensions_orig": { "ru": "Размер (оригинал)", "en": "Size (original)" },
     "dimensions_cm": { "ru": "Размер (см)", "en": "Size (cm)" },
     "findspot": { "ru": "Место находки", "en": "Findspot" },
     "owner": { "ru": "Хранение (1773)", "en": "Held by (1773)" }
   },
+  "plates": [
+    {
+      "n": 1,
+      "caption_fr": "aux dépens de M. Michel, honoraire de l'Ac. de Peinture et Sculp. de Marseille",
+      "caption_ru": "на средства г-на Мишеля, почётного члена Академии живописи и скульптуры Марселя",
+      "caption_en": "at the expense of M. Michel, honorary member of the Academy of Painting and Sculpture of Marseille"
+    }
+  ],
   "about": {
     "fr": [
       "IL est peu de Villes qui puissent le disputer en antiquité à celle de Marseille. Il en est encore moins qui puissent produire des témoignages aussi authentiques de leur ancienne splendeur. Strabon, Pline, Pomponius Mela, & nombre d'autres Écrivains des temps les plus reculés, citent les Temples, les Édifices publics, & les Monumens de notre Patrie, comme autant de constructions dignes du bon goût & de la connoissance des Arts, que nos illustres Fondateurs avoient rapportés de la Grece. Parmi ces Chef-d'œuvres, le Temple de Diane d'Ephese, & celui d'Apollon Delphien tenoient un des premiers rangs; ils étoient placés dans la Citadelle, selon Strabon. (1) Cet Auteur…"
