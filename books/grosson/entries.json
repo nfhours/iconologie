@@ -955,6 +955,455 @@
       "reverse_fr": "taureau menaçant, MASSA",
       "reverse_ru": "угрожающий бык, MASSA",
       "reverse_en": "threatening bull, MASSA"
+    },
+    {
+      "id": "pl2-1",
+      "part": 1,
+      "plate": 2,
+      "num": "1",
+      "fr": "Diane (laurier) / Lion, MASSA",
+      "ru": "Диана (с лавром) / лев, MASSA",
+      "en": "Diana (laurel) / Lion, MASSA",
+      "page": "32",
+      "group": "II",
+      "group_fr": "Planche II",
+      "group_en": "II",
+      "group_page": "32",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "argent",
+      "material_ru": "серебро",
+      "material_en": "silver",
+      "img": [
+        "pl2-1.jpg"
+      ],
+      "plate_img": "pl2-full.jpg",
+      "bbox": [
+        13.9,
+        13.94,
+        21.96,
+        8.55
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Le numéro 1. représente Diane, la tête couronnée de laurier; sur le revers, un Lion, avec l'abréviation MASSA. Il est à présumer que de même que les Marseillois couronnoient d'olivier l'Effigie de leur divinité tutélaire, à l'événement d'une paix, ils la couronnoient de laurier après une victoire, & perpétuoient, par-là, les principaux événemens de la République. Cette Médaille est du bon temps; ce qu'on reconnoît à l'exactitude du Dessein, à ce caractere grec qui y est répandu: elle pourroit bien avoir été frappée après la victoire qui donna lieu de bâtir la Ville de Nice, dans le pays des Liguriens, Nice signifiant Victoire, en langue grecque. Cette Ville fut bâtie après la défaite des Liguriens, par les Marseillois."
+      ],
+      "text_ru": [
+        "Номер 1 представляет Диану с головой, увенчанной лавром; на обороте — лев с сокращением MASSA. Надо полагать, что подобно тому как марсельцы венчали оливой изображение своего покровительствующего божества по случаю заключения мира, лавром они венчали его после победы, увековечивая тем самым главные события Республики. Эта монета относится к хорошему времени — об этом свидетельствуют точность рисунка и разлитый в ней греческий характер: она вполне могла быть отчеканена после победы, давшей повод основать город Ниццу в стране лигурийцев, — Ницца на греческом языке означает «Победа». Этот город был построен марсельцами после поражения лигурийцев."
+      ],
+      "text_en": [
+        "Number 1 represents Diana, her head crowned with laurel; on the reverse, a Lion, with the abbreviation MASSA. It is to be presumed that just as the Marseillais crowned the effigy of their tutelary divinity with olive upon the event of a peace, they crowned it with laurel after a victory, thereby perpetuating the principal events of the Republic. This medal is of the good period; this is recognized by the exactness of the design, by the Greek character spread throughout it: it may well have been struck after the victory that gave occasion to build the City of Nice, in the country of the Ligurians, Nice meaning Victory in the Greek tongue. This City was built after the defeat of the Ligurians, by the Marseillais."
+      ],
+      "obverse_fr": "tête de Diane couronnée de laurier",
+      "obverse_ru": "голова Дианы в лавровом венке",
+      "obverse_en": "head of Diana, laurel-crowned",
+      "reverse_fr": "lion, abréviation MASSA",
+      "reverse_ru": "лев, сокращение MASSA",
+      "reverse_en": "lion, abbreviation MASSA",
+      "motifs": [
+        "diana",
+        "laurel-crown",
+        "lion"
+      ]
+    },
+    {
+      "id": "pl2-2",
+      "part": 1,
+      "plate": 2,
+      "num": "2",
+      "fr": "Diane (diadème) / Caducée, Λ Δ",
+      "ru": "Диана (с диадемой) / кадуцей, Λ Δ",
+      "en": "Diana (diadem) / Caduceus, Λ Δ",
+      "page": "32",
+      "group": "II",
+      "group_fr": "Planche II",
+      "group_en": "II",
+      "group_page": "32",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "argent",
+      "material_ru": "серебро",
+      "material_en": "silver",
+      "img": [
+        "pl2-2.jpg"
+      ],
+      "plate_img": "pl2-full.jpg",
+      "bbox": [
+        15.57,
+        29.45,
+        34.84,
+        15.03
+      ],
+      "attrs": [],
+      "text_fr": [
+        "La Médaille comprise sous le numéro 2, offre la tête de Diane, ornée du Diadême; & au revers, un Caducée sans vol. Le commerce acquéroit-il une nouvelle étendue; ses succès avoient-ils été heureux, les Marseillois croyoient ne pouvoir mieux en conserver la mémoire, & témoigner leur reconnoissance aux immortels, qu'en mettant dans leur monnoie, à côté du génie de la Ville, cet attribut de Mercure, Divinité tutélaire du commerce. Cette Médaille se trouve également en bronze: on trouve sur le revers, les deux lettres Lambda & Delta."
+      ],
+      "text_ru": [
+        "Монета под номером 2 представляет голову Дианы, украшенную диадемой, а на обороте — кадуцей без крыльев. Приобретала ли торговля новый размах, были ли её успехи удачны — марсельцы полагали, что не могут лучше сохранить об этом память и выразить свою благодарность бессмертным, чем поместив на своей монете, рядом с гением Города, этот атрибут Меркурия, покровительствующего божества торговли. Эта монета встречается также в бронзе: на обороте находятся две буквы — лямбда и дельта."
+      ],
+      "text_en": [
+        "The medal included under number 2 shows the head of Diana, adorned with the Diadem; and on the reverse, a wingless Caduceus. Whether commerce acquired new scope, or its successes had been fortunate, the Marseillais believed they could not better preserve the memory of it, and show their gratitude to the immortals, than by placing on their coinage, beside the genius of the City, this attribute of Mercury, tutelary Divinity of commerce. This medal is also found in bronze: on the reverse are found the two letters Lambda and Delta."
+      ],
+      "obverse_fr": "tête de Diane, diadème",
+      "obverse_ru": "голова Дианы, диадема",
+      "obverse_en": "head of Diana, diadem",
+      "reverse_fr": "caducée sans ailes, lettres Lambda & Delta",
+      "reverse_ru": "кадуцей без крыльев, буквы лямбда и дельта",
+      "reverse_en": "wingless caduceus, letters Lambda and Delta",
+      "motifs": [
+        "diana",
+        "diadem"
+      ]
+    },
+    {
+      "id": "pl2-3",
+      "part": 1,
+      "plate": 2,
+      "num": "3",
+      "fr": "Diane (triple diadème) / Lion, MASSA XZA",
+      "ru": "Диана (тройная диадема) / лев, MASSA XZA",
+      "en": "Diana (triple diadem) / Lion, MASSA XZA",
+      "page": "32",
+      "group": "II",
+      "group_fr": "Planche II",
+      "group_en": "II",
+      "group_page": "32",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "argent",
+      "material_ru": "серебро",
+      "material_en": "silver",
+      "img": [
+        "pl2-3.jpg"
+      ],
+      "plate_img": "pl2-full.jpg",
+      "bbox": [
+        15.74,
+        47.92,
+        35.66,
+        15.42
+      ],
+      "attrs": [],
+      "text_fr": [
+        "La Médaille suivante, désignée par le numéro 3, est une des plus curieuses & des plus remarquables, par le triple Diadême, dont la tête de Diane est ornée. Je crois qu'on peut attribuer cette marque de triple souveraineté, à la domination de Marseille sur les Saliens, les Liguriens & les Oxubiens, qui ont été les premiers peuples que cette République soumit.",
+        "Le Trident orne encore les oreilles de la Déesse; selon Strabon (L. 4. Geogra.), la Méditerranée étoit nommée de son temps, la mer de Marseille, à cause de la grande étendue des côtes qu'elle possédoit sur cette mer. Ne seroit-ce pas pour marquer l'empire de la Méditerranée, & leur supériorité à cet égard sur les autres peuples, que les Marseillois mettoient si souvent cet attribut du Dieu des Flots, aux oreilles du génie de leur Patrie, pour marquer l'attention que la République devoit avoir à conserver cet empire? Le revers de cette Médaille, est un Lion, avec l'abréviation MASSA dans le haut, & au bas, les lettres XZA; la contremarque est un A."
+      ],
+      "text_ru": [
+        "Следующая монета, обозначенная номером 3, — одна из самых любопытных и примечательных благодаря тройной диадеме, украшающей голову Дианы. Полагаю, этот знак тройного суверенитета можно отнести к владычеству Марселя над салиями, лигурийцами и оксубиями — первыми народами, покорёнными этой Республикой.",
+        "Трезубец по-прежнему украшает уши Богини; по свидетельству Страбона (кн. 4 «Географии»), Средиземное море в его время называли «морем Марселя» из-за обширности побережья, которым он владел на этом море. Не затем ли, чтобы отметить господство над Средиземноморьем и своё превосходство в этом отношении над другими народами, марсельцы так часто помещали этот атрибут бога морей на уши гения своего Отечества — дабы указать на то внимание, какое Республика должна была уделять сохранению этого господства? Оборот этой монеты — лев с сокращением MASSA вверху, а внизу — буквы XZA; клеймо — буква A."
+      ],
+      "text_en": [
+        "The following medal, designated by number 3, is one of the most curious and remarkable, for the triple Diadem with which Diana's head is adorned. I believe this mark of triple sovereignty may be attributed to Marseille's dominion over the Salyens, the Ligurians, and the Oxybians, who were the first peoples this Republic subdued.",
+        "The Trident still adorns the Goddess's ears; according to Strabo (Bk. 4, Geography), the Mediterranean was in his time called the sea of Marseille, because of the great extent of coastline it possessed on this sea. Might it not be to mark dominion over the Mediterranean, and their superiority in this regard over other peoples, that the Marseillais so often placed this attribute of the God of the Waters on the ears of their Homeland's genius, to mark the attention the Republic owed to preserving this dominion? The reverse of this medal is a Lion, with the abbreviation MASSA at the top, and at the bottom, the letters XZA; the countermark is an A."
+      ],
+      "obverse_fr": "tête de Diane, triple diadème, trident en boucle d'oreille",
+      "obverse_ru": "голова Дианы, тройная диадема, трезубец-серьга",
+      "obverse_en": "head of Diana, triple diadem, trident earring",
+      "reverse_fr": "lion, MASSA / XZA, contremarque A",
+      "reverse_ru": "лев, MASSA / XZA, клеймо A",
+      "reverse_en": "lion, MASSA / XZA, countermark A",
+      "motifs": [
+        "diana",
+        "trident",
+        "lion"
+      ]
+    },
+    {
+      "id": "pl2-4",
+      "part": 1,
+      "plate": 2,
+      "num": "4",
+      "fr": "Diane (trident) / Chien, MASSA",
+      "ru": "Диана (с трезубцем) / пёс, MASSA",
+      "en": "Diana (trident) / Dog, MASSA",
+      "page": "33",
+      "group": "II",
+      "group_fr": "Planche II",
+      "group_en": "II",
+      "group_page": "32",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "argent",
+      "material_ru": "серебро",
+      "material_en": "silver",
+      "img": [
+        "pl2-4.jpg"
+      ],
+      "plate_img": "pl2-full.jpg",
+      "bbox": [
+        14.94,
+        67.04,
+        33.14,
+        14.06
+      ],
+      "attrs": [],
+      "text_fr": [
+        "La Médaille comprise sous ce nombre, est encore à l'Effigie de Diane en buste, la tête ornée d'un seul Diadême, le Trident aux oreilles; le revers est un Chien: cet animal étoit un des attributs de Diane chasseresse, & pouvoit également servir de marque distinctive de la fidélité Marseilloise, le chien ayant été, de tout temps, le symbole caractéristique de cette vertu. La Ville de Phocée, Fondatrice de celle de Marseille, mettoit également un Chien avec un Poisson sur le revers de ses Médailles. Ce dernier Emblême étoit commun à toutes les Villes maritimes de la Grèce. Le bon goût de Dessein, & le caractère de vérité qui régnent dans notre Médaille Marseilloise, nous indiquent qu'elle est des beaux siècles de la République. J'ai une pareille Médaille en mon pouvoir, dont le revers est moins bien conservé, dans lequel on reconnoît cependant les mêmes contours: on y lit le mot MASSALIETON, en caractères grecs."
+      ],
+      "text_ru": [
+        "Монета под этим числом вновь представляет бюст Дианы, голова украшена одной диадемой, трезубец у ушей; оборот — пёс: это животное было одним из атрибутов Дианы-охотницы и могло также служить отличительным знаком марсельской верности, поскольку пёс издревле был характерным символом этой добродетели. Город Фокея, основавший Марсель, также помещал пса с рыбой на обороте своих монет. Эта последняя эмблема была общей для всех приморских городов Греции. Хороший вкус рисунка и дух правды, царящие в нашей марсельской монете, указывают на то, что она относится к прекрасным векам Республики. В моём собрании есть похожая монета, оборот которой сохранился хуже, но на ней всё же узнаются те же очертания: на ней читается слово MASSALIETON греческими буквами."
+      ],
+      "text_en": [
+        "The medal comprised under this number again shows the Effigy of Diana in bust, her head adorned with a single Diadem, the Trident at her ears; the reverse is a Dog: this animal was one of the attributes of Diana the huntress, and could likewise serve as a distinctive mark of Marseillais fidelity, the dog having been, at all times, the characteristic symbol of this virtue. The City of Phocaea, Founder of that of Marseille, likewise placed a Dog with a Fish on the reverse of its medals. This latter Emblem was common to all the maritime Cities of Greece. The good taste of design, and the character of truth that reign in our Marseillais medal, indicate to us that it belongs to the fine centuries of the Republic. I have a similar medal in my possession, whose reverse is less well preserved, in which however the same outlines are recognizable: one reads on it the word MASSALIETON, in Greek characters."
+      ],
+      "obverse_fr": "buste de Diane, un seul diadême, trident en boucle d'oreille",
+      "obverse_ru": "бюст Дианы, одна диадема, трезубец-серьга",
+      "obverse_en": "bust of Diana, single diadem, trident earring",
+      "reverse_fr": "chien, MASSA",
+      "reverse_ru": "пёс, MASSA",
+      "reverse_en": "dog, MASSA",
+      "motifs": [
+        "diana",
+        "trident",
+        "dog"
+      ]
+    },
+    {
+      "id": "pl2-5",
+      "part": 1,
+      "plate": 2,
+      "num": "5",
+      "fr": "Diane (boucle en delta) / Lion, MASSALIETO",
+      "ru": "Диана (серьга-дельта) / лев, MASSALIETO",
+      "en": "Diana (delta earring) / Lion, MASSALIETO",
+      "page": "34",
+      "group": "II",
+      "group_fr": "Planche II",
+      "group_en": "II",
+      "group_page": "32",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "argent",
+      "material_ru": "серебро",
+      "material_en": "silver",
+      "img": [
+        "pl2-5.jpg"
+      ],
+      "plate_img": "pl2-full.jpg",
+      "bbox": [
+        38.13,
+        12.55,
+        26.12,
+        9.37
+      ],
+      "attrs": [],
+      "text_fr": [
+        "5. Médaille au Buste de Diane, sans Diadême; le Colier de perle orne le col de la Déesse, & la Boucle d'oreille représente un Delta, ou Triangle renversé. Cette figure étoit une des Hiérogliphes adoptées pour signifier la Divinité; le revers est un Lion, avec ces lettres MASSALIETO, en caractères grecs, & la contremarque représente un Trident avec le manche, ou les lettres I-E jointes ensemble; mais la ligne du milieu de la lettre supposée E, étant aussi allongée que le sont les lignes supérieure & inférieure, il y a, par cette raison, plus de vraisemblance que c'est un Trident qu'on a voulu représenter. Cette Médaille est en mon pouvoir; c'est à la généreuse amitié de M. le Chevalier de Raspaud, ancien Officier d'Infanterie, domicilié à Ceireste, que je suis redevable de cette découverte."
+      ],
+      "text_ru": [
+        "5. Монета с бюстом Дианы, без диадемы; жемчужное ожерелье украшает шею Богини, а серьга изображает дельту, или перевёрнутый треугольник. Эта фигура была одним из иероглифов, принятых для обозначения Божества; оборот — лев с буквами MASSALIETO греческими знаками, а клеймо представляет трезубец с рукоятью, либо слитные буквы I-E; однако средняя черта предполагаемой буквы E настолько же удлинена, как верхняя и нижняя, поэтому более правдоподобно, что здесь хотели изобразить именно трезубец. Эта монета находится в моём собрании; этой находкой я обязан великодушной дружбе г-на шевалье де Распо, бывшего офицера пехоты, проживающего в Сейресте."
+      ],
+      "text_en": [
+        "5. Medal with the Bust of Diana, without the Diadem; the pearl Necklace adorns the Goddess's neck, and the earring represents a Delta, or inverted Triangle. This figure was one of the Hieroglyphs adopted to signify the Divinity; the reverse is a Lion, with these letters MASSALIETO, in Greek characters, and the countermark represents either a Trident with its shaft, or the letters I-E joined together; but the middle line of the supposed letter E being as elongated as the upper and lower lines, it is for this reason more plausible that a Trident was meant to be represented. This medal is in my possession; I am indebted for this discovery to the generous friendship of M. the Chevalier de Raspaud, a former Infantry Officer, residing at Ceyreste."
+      ],
+      "obverse_fr": "buste de Diane, sans diadème, collier de perle, boucle d'oreille en delta",
+      "obverse_ru": "бюст Дианы без диадемы, жемчужное ожерелье, серьга в виде дельты (треугольника)",
+      "obverse_en": "bust of Diana, no diadem, pearl necklace, delta-shaped earring",
+      "reverse_fr": "lion, MASSALIETO, contremarque trident ou lettres I-E liées",
+      "reverse_ru": "лев, MASSALIETO, клеймо — трезубец или слитные буквы I-E",
+      "reverse_en": "lion, MASSALIETO, countermark a trident or ligated letters I-E",
+      "motifs": [
+        "diana",
+        "lion"
+      ]
+    },
+    {
+      "id": "pl2-6",
+      "part": 1,
+      "plate": 2,
+      "num": "6",
+      "fr": "Diane / Minotaure, MASSA O.T",
+      "ru": "Диана / Минотавр, MASSA O.T",
+      "en": "Diana / Minotaur, MASSA O.T",
+      "page": "35",
+      "group": "II",
+      "group_fr": "Planche II",
+      "group_en": "II",
+      "group_page": "32",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "plaqué argent (fourrée)",
+      "material_ru": "плакированная (посеребрённая)",
+      "material_en": "silver-plated (fourrée)",
+      "img": [
+        "pl2-6.jpg"
+      ],
+      "plate_img": "pl2-full.jpg",
+      "bbox": [
+        66.12,
+        12.25,
+        27.14,
+        9.72
+      ],
+      "attrs": [],
+      "text_fr": [
+        "La Médaille suivante, comprise sous le chiffre 6, est dans le cabinet de M. Michel, Honoraire de l'Académie de Peinture & Sculpture de Marseille. Quoique fruste, c'est une des plus rares de celles insérées dans ce Recueil; elle représente d'un côté, Diane en Buste, sans Diadême, avec le Colier formé par un ruban, & la contremarque A; le revers fait le mérite particulier de cette Médaille: on y découvre le Minotaure, tel qu'il étoit communément représenté, c'est-à-dire, avec le corps d'un bœuf, & une tête humaine. Nous ne connoissons, de tous les monumens anciens qui sont parvenus jusqu'à nous, qu'un seul morceau, dans lequel le Minotaure soit représenté différemment; c'est celui gravé à la cinquième Planche du Recueil des Antiquités d'Herculaneum, publié par ordre de S. M. Sicilienne. On y voit le Minotaure abattu aux pieds de Thésée, dans le labyrinthe, avec un corps entier d'homme, à la réserve d'une tête de bœuf. Nos Pères avoient, sans doute, rapporté de Phocée, la fable du Minotaure, ou l'avoient adoptée des Athéniens avec lesquels ils furent long-temps liés. On lit au revers de cette Médaille, l'abréviation MASSA, & au bas, les lettres O.T., qui paroissent être des restes d'un mot que le temps a mutilé. Cette Médaille est fourrée, & n'a qu'une légère partie d'argent; cette fraude dans la monnoie, paroît avoir été autorisée par les anciens Gouvernemens, lorsque l'État se trouvoit manquer de valeur numéraire. C'est probablement dans une pareille circonstance, que celle-ci fut frappée dans Marseille. On trouve quantité de Médailles fourrées, parmi celles de la République Romaine: si ce n'étoit qu'une contrefaction de la part des faux monnoyeurs, ils étoient presque assurés de l'impunité, pour en contrefaire un si grand nombre."
+      ],
+      "text_ru": [
+        "Следующая монета, под числом 6, хранится в кабинете г-на Мишеля, почётного члена Академии живописи и скульптуры Марселя. Хотя она потёрта, это одна из самых редких монет, помещённых в это Собрание; она представляет с одной стороны бюст Дианы без диадемы, с ожерельем в виде ленты, и клеймо A; оборот составляет особую ценность этой монеты: на нём виден Минотавр, каким его обычно изображали, то есть с телом быка и головой человека. Из всех дошедших до нас древних памятников нам известен лишь один, где Минотавр изображён иначе; это гравюра на пятой Таблице Собрания древностей Геркуланума, изданного по повелению Его Сицилийского Величества. Там Минотавр повержен у ног Тесея в лабиринте, с целым человеческим телом, за исключением бычьей головы. Наши предки, несомненно, принесли из Фокеи предание о Минотавре либо заимствовали его у афинян, с которыми долгое время были связаны. На обороте этой монеты читается сокращение MASSA, а внизу — буквы O.T., которые представляются остатками слова, повреждённого временем. Эта монета плакированная и содержит лишь незначительную долю серебра; такой подлог в чеканке, по-видимому, допускался прежними Правительствами в те времена, когда государству не хватало звонкой монеты. Вероятно, именно при таких обстоятельствах эта монета была отчеканена в Марселе. Среди монет Римской Республики встречается немало плакированных экземпляров: если это было лишь подделкой со стороны фальшивомонетчиков, они были почти уверены в безнаказанности, позволявшей подделывать столь большое их число."
+      ],
+      "text_en": [
+        "The following medal, comprised under the number 6, is in the cabinet of M. Michel, Honorary member of the Academy of Painting and Sculpture of Marseille. Though worn, it is one of the rarest of those included in this Collection; it shows on one side, Diana in Bust, without the Diadem, with the Necklace formed by a ribbon, and the countermark A; the reverse constitutes the particular merit of this medal: on it one discovers the Minotaur, as it was commonly represented, that is, with the body of a bull and a human head. Of all the ancient monuments that have come down to us, we know of only a single piece in which the Minotaur is represented differently; it is the one engraved on the fifth Plate of the Collection of Antiquities of Herculaneum, published by order of His Sicilian Majesty. There the Minotaur is shown struck down at the feet of Theseus, in the labyrinth, with an entire human body, except for a bull's head. Our Forefathers had no doubt brought the fable of the Minotaur from Phocaea, or had adopted it from the Athenians, with whom they were long connected. On the reverse of this medal one reads the abbreviation MASSA, and below, the letters O.T., which appear to be the remains of a word that time has mutilated. This medal is plated, and has only a slight portion of silver; this fraud in the coinage appears to have been authorized by the ancient Governments, when the State found itself lacking in coined value. It was probably in such a circumstance that this one was struck in Marseille. A great many plated medals are found among those of the Roman Republic: had it been merely a counterfeiting on the part of false moneyers, they were almost assured of impunity, to counterfeit so great a number of them."
+      ],
+      "obverse_fr": "buste de Diane, sans diadème, collier en ruban, contremarque A",
+      "obverse_ru": "бюст Дианы без диадемы, ожерелье-лента, клеймо A",
+      "obverse_en": "bust of Diana, no diadem, ribbon necklace, countermark A",
+      "reverse_fr": "Minotaure (corps de bœuf, tête humaine), MASSA / O.T (lettres mutilées)",
+      "reverse_ru": "Минотавр (тело быка, человеческая голова), MASSA / O.T (повреждённые буквы)",
+      "reverse_en": "Minotaur (bull's body, human head), MASSA / O.T (worn, mutilated letters)",
+      "motifs": [
+        "diana",
+        "minotaur"
+      ]
+    },
+    {
+      "id": "pl2-7",
+      "part": 1,
+      "plate": 2,
+      "num": "7",
+      "fr": "Diane (trident) / Lion, MASSA ΙΠΛ",
+      "ru": "Диана (трезубец) / лев, MASSA ΙΠΛ",
+      "en": "Diana (trident) / Lion, MASSA ΙΠΛ",
+      "page": "36",
+      "group": "II",
+      "group_fr": "Planche II",
+      "group_en": "II",
+      "group_page": "32",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "argent",
+      "material_ru": "серебро",
+      "material_en": "silver",
+      "img": [
+        "pl2-7.jpg"
+      ],
+      "plate_img": "pl2-full.jpg",
+      "bbox": [
+        57.68,
+        27.57,
+        38.17,
+        16.09
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Le chiffre 7, désigne une Médaille au Buste de Diane, la tête ornée du Diadême, & l'oreille d'un Trident; la contre-marque est un Lambda; le revers est un Lion, la patte gauche levée. Cette Médaille a un caractère décidé grec, dans la tête de Diane; elle est particulièrement remarquable, en ce que dans le revers, après l'abréviation MASSA qui est au haut, on voit dans le bas, les lettres IPL en caractères grecs."
+      ],
+      "text_ru": [
+        "Число 7 обозначает монету с бюстом Дианы, голова украшена диадемой, у уха — трезубец; клеймо — лямбда; оборот — лев с поднятой левой лапой. У этой монеты ярко выраженный греческий характер в изображении головы Дианы; она особенно примечательна тем, что на обороте, после сокращения MASSA вверху, внизу видны буквы ΙΠΛ греческими знаками. [Начертание нижних букв на самой гравюре читается не вполне однозначно; следуем чтению Гроссона.]"
+      ],
+      "text_en": [
+        "The number 7 designates a medal with the Bust of Diana, her head adorned with the Diadem, and her ear with a Trident; the countermark is a Lambda; the reverse is a Lion, the left paw raised. This medal has a decidedly Greek character in Diana's head; it is particularly remarkable in that on the reverse, after the abbreviation MASSA which is at the top, one sees at the bottom, the letters IPL in Greek characters. [The engraving's lower letters are not entirely unambiguous on close inspection; Grosson's own reading is followed here.]"
+      ],
+      "obverse_fr": "buste de Diane, diadème, trident en boucle d'oreille, contremarque Lambda",
+      "obverse_ru": "бюст Дианы, диадема, трезубец-серьга, клеймо лямбда",
+      "obverse_en": "bust of Diana, diadem, trident earring, countermark Lambda",
+      "reverse_fr": "lion, patte gauche levée, MASSA / ΙΠΛ",
+      "reverse_ru": "лев с поднятой левой лапой, MASSA / ΙΠΛ",
+      "reverse_en": "lion, left paw raised, MASSA / ΙΠΛ",
+      "motifs": [
+        "diana",
+        "trident",
+        "lion"
+      ]
+    },
+    {
+      "id": "pl2-8",
+      "part": 1,
+      "plate": 2,
+      "num": "8",
+      "fr": "Diane / Lion, MASSALIETON",
+      "ru": "Диана / лев, MASSALIETON",
+      "en": "Diana / Lion, MASSALIETON",
+      "page": "36",
+      "group": "II",
+      "group_fr": "Planche II",
+      "group_en": "II",
+      "group_page": "32",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "argent",
+      "material_ru": "серебро",
+      "material_en": "silver",
+      "img": [
+        "pl2-8.jpg"
+      ],
+      "plate_img": "pl2-full.jpg",
+      "bbox": [
+        57.94,
+        47.79,
+        37.61,
+        16.16
+      ],
+      "attrs": [],
+      "text_fr": [
+        "8. Médaille au Buste de Diane, avec le Diadême, mais sans Trident ni ornement aux oreilles. Cette tête a encore le caractère grec; le revers, un Lion, la queue levée, avec le mot MASSALIETON, & la contre-marque, un Lambda & un O. La suppression du Trident, dans les ornemens de la tête de Diane, étoit probablement un usage adopté par la République, dans les années où il n'y avoit point eu d'expéditions maritimes de sa part; c'étoit peut-être également une annonce aux peuples qui lui étoient soumis, pour les avertir que le Commerce maritime avoit été négligé pendant l'année précédente, & que les peuples rivaux profitoient de leur négligence, pour le leur enlever. C'est par cette raison, que Diane, Divinité tutélaire de Marseille, ne portoit plus le Trident, marque de l'ancienne supériorité du Commerce & de la Navigation de cette Ville."
+      ],
+      "text_ru": [
+        "8. Монета с бюстом Дианы, с диадемой, но без трезубца и украшения на ушах. Эта голова по-прежнему сохраняет греческий характер; оборот — лев с поднятым хвостом, со словом MASSALIETON, и клеймо — лямбда и O. Отсутствие трезубца в украшениях головы Дианы, вероятно, было обычаем, принятым Республикой в те годы, когда с её стороны не предпринималось морских экспедиций; возможно, это также служило оповещением для подвластных ей народов о том, что морская торговля была в минувшем году в небрежении, и что соперничающие народы пользовались этой небрежностью, чтобы отнять её. Именно поэтому Диана, покровительствующее божество Марселя, более не носила трезубец — знак прежнего превосходства этого Города в торговле и мореплавании."
+      ],
+      "text_en": [
+        "8. Medal with the Bust of Diana, with the Diadem, but without Trident or ear ornament. This head still has the Greek character; the reverse, a Lion, tail raised, with the word MASSALIETON, and the countermark, a Lambda and an O. The omission of the Trident among the ornaments of Diana's head was probably a custom adopted by the Republic in the years when it had undertaken no maritime expeditions; it was perhaps also a signal to the peoples subject to it, to warn them that maritime Commerce had been neglected the preceding year, and that rival peoples were taking advantage of their negligence to deprive them of it. It is for this reason that Diana, tutelary Divinity of Marseille, no longer bore the Trident, mark of this City's former superiority in Commerce and Navigation."
+      ],
+      "obverse_fr": "buste de Diane, diadème, sans trident ni ornement d'oreille",
+      "obverse_ru": "бюст Дианы, диадема, без трезубца и украшения на ухе",
+      "obverse_en": "bust of Diana, diadem, no trident or ear ornament",
+      "reverse_fr": "lion, queue levée, MASSALIETON, contremarque Lambda et O",
+      "reverse_ru": "лев с поднятым хвостом, MASSALIETON, клеймо — лямбда и O",
+      "reverse_en": "lion, tail raised, MASSALIETON, countermark Lambda and O",
+      "motifs": [
+        "diana",
+        "lion"
+      ]
+    },
+    {
+      "id": "pl2-9",
+      "part": 1,
+      "plate": 2,
+      "num": "9",
+      "fr": "Diane (trident) / Lion, MASSA TILD",
+      "ru": "Диана (с трезубцем) / лев, MASSA TILD",
+      "en": "Diana (trident) / Lion, MASSA TILD",
+      "page": "37",
+      "group": "II",
+      "group_fr": "Planche II",
+      "group_en": "II",
+      "group_page": "32",
+      "flag": "",
+      "type": "medal",
+      "material_fr": "argent",
+      "material_ru": "серебро",
+      "material_en": "silver",
+      "img": [
+        "pl2-9.jpg"
+      ],
+      "plate_img": "pl2-full.jpg",
+      "bbox": [
+        57.39,
+        68.38,
+        38.07,
+        15.03
+      ],
+      "attrs": [],
+      "text_fr": [
+        "9. La coiffure & les airs de tête de la figure de Diane, représentée sur cette Médaille, la font différer des précédentes. Le Trident orne l'oreille de la Déesse; la contre-marque paroît être formée par des lettres doubles & liées; le revers est un Lion passant, la queue levée, avec l'abréviation MASSA en haut, & dans le bas, toujours en lettres grecques, TILD."
+      ],
+      "text_ru": [
+        "9. Причёска и черты лица фигуры Дианы, представленной на этой монете, отличают её от предыдущих. Трезубец украшает ухо Богини; клеймо, по-видимому, образовано сдвоенными, слитно написанными буквами; оборот — идущий лев с поднятым хвостом, с сокращением MASSA вверху, а внизу, также греческими буквами, — TILD."
+      ],
+      "text_en": [
+        "9. The hairstyle and the facial features of the figure of Diana, shown on this medal, make it differ from the preceding ones. The Trident adorns the Goddess's ear; the countermark appears to be formed by double, ligated letters; the reverse is a walking Lion, tail raised, with the abbreviation MASSA at the top, and at the bottom, again in Greek letters, TILD."
+      ],
+      "obverse_fr": "buste de Diane, airs de tête particuliers, trident en boucle d'oreille, contremarque de lettres doubles liées",
+      "obverse_ru": "бюст Дианы, особые черты лица, трезубец-серьга, клеймо из слитных двойных букв",
+      "obverse_en": "bust of Diana, distinctive features, trident earring, countermark of ligated double letters",
+      "reverse_fr": "lion passant, queue levée, MASSA / TILD",
+      "reverse_ru": "идущий лев с поднятым хвостом, MASSA / TILD",
+      "reverse_en": "walking lion, tail raised, MASSA / TILD",
+      "motifs": [
+        "diana",
+        "trident",
+        "lion"
+      ]
     }
   ]
 }
