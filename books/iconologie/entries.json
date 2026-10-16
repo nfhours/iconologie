@@ -9631,12 +9631,44 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-21.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юный воин в шлеме и буром одеянии, со знаком Овна, окружённым цветами, в левой руке и чашей плодов в правой",
+          "meaning": "Юность месяцев — первая из четырёх возрастных ступеней времени (часы-дни-месяцы-год-время); шлем — посвящение месяца богу Марсу; бурый цвет — земля и крепнущая сила тепла; крылья — быстротечность времени; знак Овна в цветах — пробуждение весенней земли; чаша плодов — первые плоды начинающегося сезона",
+          "what_en": "A winged young warrior in a helmet and tawny robe, holding the sign of Aries wreathed in flowers in his left hand and a cup of fruit in his right",
+          "meaning_en": "The months' youth signifies the first of time's four age-grades (hours-days-months-year-time itself); the helmet, the month's dedication to the god Mars; the tawny color, earth and strengthening warmth; the wings, time's swift passage; the flower-wreathed Aries, the awakening of the spring earth; the cup of fruit, the season's first harvest"
+        }
+      ],
+      "text_ru": [
+        "Мы изображаем здесь Месяцы юными, ибо, поскольку Время надлежит делить на Часы, Дни, Месяцы и Годы, мы предполагаем, что Часы пребывают в детстве, Дни — в отрочестве, Месяцы — в своей юности, Год — в зрелости, а Время, объемлющее их всех вместе, — в крайней старости.",
+        "Его изображают юным воином, облачённым в одеяние бурого цвета, с крыльями на спине, со знаком Овна в левой руке и чашей, полной плодов поры года, в правой.",
+        "Измышляют, что у этого Месяца суровый вид, а на голове шлем, поскольку он был посвящён Ромулом своему отцу Марсу, давшему ему это же имя.",
+        "Он облачён в бурое, ибо этот цвет составлен из чёрного и красного, так что одним означается цвет земли, а другим, то есть красным, — её собственная сила и добродетель, которая в этом месяце, укреплённая теплом Солнца, заставляет расти растения и согревает всех животных.",
+        "Крылья его являют непрестанный бег месяцев, выраженный этими стихами Петрарки в его Триумфе времени: Годы, Месяцы, Дни, Часы Проходят быстро, как молния, И, подобно туманам в воздухе, Не имеют постоянного пристанища.",
+        "Он держит знак Овна, окружённый различными цветами, поскольку в этом месяце, дающем рождение Весне, земля начинает покрываться яркими красками. Ибо тогда, как говорит Ариосто: Светило дня своим теплом Заставляет здесь внизу смеяться все вещи И обновляет окраску Лилий, гвоздик и роз.",
+        "Этим же показано, что как Овен слаб сзади и силён спереди, так и Солнце, начиная входить в этот Знак, ещё слабо из-за холода, сильно умаляющего его бодрость; но, продвигаясь далее к Лету, оно незаметно наращивает свой жар.",
+        "Чаша, полная плодов, есть символ тех плодов, которые эта пора года начинает производить, и которые рассудительный Живописец может разнообразить сообразно качеству мест, где они рождаются; ибо в тёплых краях они созревают скорее, а в холодных — медленнее."
+      ],
+      "text_fr": [
+        "Nous representons icy les Mois jeunes, parce qu'ayant à diviser le Temps en Heures, en Jours, en Mois, & en Années, nous présupposons que les Heures sont en enfance, les Jours en adolescence, les Mois en leur jeunesse, l'Année en sa virilité, & le Temps qui les comprend tous ensemble, dans vne extreme vieillesse.",
+        "Il est peint en jeune guerrier, qui porte vn habillement de couleur tannée, ayant des aisles au dos, en la main gauche le signe du Mouton, & en la droite vne tasse pleine des fruits de la saison.",
+        "L'on feint que ce Mois a la mine severe, & sur sa teste vn heaume, pour avoir esté dedié par Romulus à son pere Mars, qui luy donna ce mesme nom.",
+        "Il est vestu de tanné, dautant que cette couleur est composée de noir & de rouge, tellement que par l'vn est denotée la couleur de la terre, & par l'autre qui est le rouge, la force & la vertu d'elle-mesme, laquelle en ce mois-là, fortifiée de la chaleur du Soleil, fait pousser les plantes, & réchauffe tous les animaux.",
+        "Ses aisles démontrent la course continuelle des mois exprimée par ces vers de Petrarque dans son Triomphe du temps. Les Ans, les Mois, les Iours, les Heures, Passent viste comme vn éclair, Et tels que les brouillars de l'air N'ont point de certaines demeures.",
+        "Il tient le signe du Mouton environné de diverses fleurs, dautant qu'en ce mois-là, qui donne naissance au Printemps, la terre commence de s'émailler. Car alors, comme dit l'Arioste, L'astre du jour par sa chaleur Fait rire icy bas toutes choses, Et renouvelle la couleur Des lys, des œillets, & des roses.",
+        "Par où il est encore montré, que comme le Mouton est foible derriere, & fort par devant; ainsi le Soleil, commençant d'entrer dans ce Signe, est encore foible, à cause du froid qui diminuë beaucoup de sa vigueur; mais qu'allant plus avant dans l'Esté, il accroist insensiblement sa chaleur.",
+        "La tasse pleine de fruits est le symbole de ceux que cette saison commence à produire, & que le Peintre judicieux peut diversifier selon la qualité des lieux où ils naissent; car aux climats chauds il vient plûtost, & plus lentement aux pays froids."
+      ],
       "en": "March",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-21-1.jpg",
+        "p2-21-2.jpg",
+        "p2-21-3.jpg"
+      ]
     },
     {
       "id": "p2-22",
@@ -9649,12 +9681,38 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-22.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юноша в зелёном одеянии и гирлянде мирта, со знаком Тельца, окружённым цветами, в правой руке и кубком плодов в левой",
+          "meaning": "Гирлянда мирта (растения Венеры) — пробуждение любовных влечений в природе; зелёное одеяние — цвет земли, раскрывающейся и расцвечивающейся цветами; знак Тельца — постепенное нарастание силы весеннего солнца",
+          "what_en": "A winged youth in a green robe and myrtle garland, holding the sign of Taurus wreathed in flowers in his right hand and a cup of fruit in his left",
+          "meaning_en": "The myrtle garland (Venus's plant) signifies nature's awakening to love; the green robe, the color of the earth opening and adorning itself with flowers; the sign of Taurus, the gradually strengthening power of the spring sun"
+        }
+      ],
+      "text_ru": [
+        "Он носит гирлянду мирта, зелёное одеяние, крылья на спине и в правой руке знак Тельца, окружённый разными цветами, рождающимися в этом месяце. Сверх того в левой руке он держит кубок, полный плодов и растений поры года.",
+        "Этот месяц зовётся Апрелем, по Варрону, от латинского слова aperire (открывать), поскольку тогда земля начинает раскрываться, являя свои богатства.",
+        "Его гирлянда мирта, растения, посвящённого Венере, означает, что в этом же месяце, как весьма удачно говорит Вергилий: Влияние Неба и дневного светила Побуждает даже деревья предаваться любви.",
+        "Ему дают зелёное в качестве одеяния, ибо в этом же месяце земля убирается этим прекрасным цветом, тем более приятным для взора, что кажется, будто на изумрудном поле она усиливает свой главный блеск эмалью цветов, подобных драгоценным камням; что изобретательный Петрарка приятно являет этими стихами: В этом месяце смеющееся Солнце Являет взорам сокровища Востока; В полях видно, как сверкают растения, Полные предметов разных цветов; Что в своей колеснице несомое Светило дня Являет здесь внизу блеск своей красоты; И что в лесах печальная Филомела С рассветом вновь возобновляет свои жалобы.",
+        "А то, что он держит в правой руке знак Тельца, означает, что Солнце, проходя в этом месяце через этот же Знак, мало-помалу наращивает свою силу."
+      ],
+      "text_fr": [
+        "IL porte vne guirlande de myrthes, vn habillement verd, des aisles au dos, & en la main droite le signe du Taureau, environné de diverses fleurs qui naissent en ce mois-là. Outre qu'en la gauche il tient vne coupe pleine de fruits & des plantes de la saison.",
+        "Ce mois s'appelle Avril, selon Varron du mot Latin aperire, à cause qu'alors la terre commence à s'ouvrir pour étaller ses richesses.",
+        "Sa guirlande de myrthe, plante dediée à Venus, signifie qu'en ce mesme mois, comme dit fort bien Virgile, L'influence du Ciel & de l'astre du jour Porte les arbres mesme à se faire l'amour.",
+        "On luy donne le verd pour livrée, parce qu'en ce mesme mois la terre se pare de cette belle couleur, d'autant plus agreable à la veuë, qu'il semble que dans vn champ d'emeraudes elle rehausse son principal éclat par l'email des fleurs, qui sont comme autant de pierreries; ce que l'ingenieux Petrarque represente agreablement par ces vers: C'est en ce mois que le Soleil riant Estale aux yeux les tresors d'Orient; Que dans les champs on voit briller les plantes Pleines d'objets de couleurs differentes; Que dans son char l'Astre du jour porté Fait icy bas éclater sa beauté; Et qu'aux forests la triste Philomele Avec le jour ses plaintes renouvelle.",
+        "Que s'il tient de la main droite le signe du Taureau, c'est pour donner à entendre que le Soleil passant en ce mois-là par le mesme Signe, augmente peu à peu sa force."
+      ],
       "en": "April",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-22-1.jpg",
+        "p2-22-2.jpg",
+        "p2-22-3.jpg"
+      ]
     },
     {
       "id": "p2-23",
@@ -9667,12 +9725,35 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-23.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юноша в зелёном одеянии, усеянном цветами, с гирляндой на голове, знаком Близнецов в одной руке и зеленеющей ветвью в другой",
+          "meaning": "Цветы на одеянии и гирлянде — цветущая красота лугов и полей; знак Близнецов — удвоение силы солнечного тепла и умножение жизни через порождение",
+          "what_en": "A youth in a flower-strewn green robe with a garland on his head, the sign of Gemini in one hand and a green sprig in the other",
+          "meaning_en": "The flowers on his robe and garland signify the blooming beauty of meadow and field; the sign of Gemini, the doubling of the sun's warmth and the multiplying of life through generation"
+        }
+      ],
+      "text_ru": [
+        "Этот Месяц здесь изображён юношей, чьё зелёное одеяние усеяно всевозможными цветами, из коих он носит и гирлянду. Одной рукой он держит знак Близнецов, окружённый розами, а другой — зеленеющую ветвь.",
+        "Этот месяц зовётся у латинян Май, a Majoribus (от старейшин), поскольку Ромул, разделив римский народ на две части — юношей и стариков, из коих одним надлежало управлять Республикой оружием, а другим — советом, счёл уместным в память об этом деянии дать этому месяцу и следующему имена Мая и Июня, как замечает Овидий.",
+        "Цветами на его гирлянде и на зелёном одеянии означена красота лугов, холмов и полей, коею все вещи мира, наделённые душой растительной, чувствующей или разумной, словно очарованы и по-разному побуждаемы к радости.",
+        "Что до знака Близнецов, что он несёт, это показывает, что сила Солнца удваивается в этом месяце: ибо тогда оно начинает давать почувствовать свой жар. И правда, что как в этом месяце Солнце восходит над землёй на два градуса выше, так и вещи мира возрастают и умножаются порождением животных."
+      ],
+      "text_fr": [
+        "CE Mois est icy peint en jeune homme, dont l'habillement de couleur verte, est semé de toutes sortes de fleurs, dont il porte aussi vne guirlande. Il tient d'vne main le Signe des Jumeaux, entouré de roses, & de l'autre vn rameau verdoyant.",
+        "Ce mois est appellé May des Latins, à Majoribus, à cause que Romulus ayant divisé le peuple Romain en deux parties, composées de jeunes gens & de vieillards, dont les vns devoient gouverner la Republique par les armes, & les autres par le conseil, il trouva bon pour memoire de cette action de donner à ce mois & au suivant les noms de May & de Juin, comme le remarque Ovide.",
+        "Par les fleurs de sa guirlande & de sa robe verte, est signifiée la beauté des prez, des collines & des champs, par qui toutes les choses du monde, qui ont vne ame ou vegetative, ou sensitive, ou raisonnable, sont comme charmées, & diversement émeuës à se réjouïr.",
+        "Quant au signe des Jumeaux qu'il porte, c'est pour montrer que la force du Soleil se redouble en ce mois-là: car alors il commence à faire sentir sa chaleur. Aussi est-il vray que comme en ce mois le Soleil se leve de terre de deux degrez, ainsi les choses du monde s'accroissent & se multiplient par la generation des animaux."
+      ],
       "en": "May",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-23-1.jpg",
+        "p2-23-2.jpg"
+      ]
     },
     {
       "id": "p2-24",
@@ -9685,12 +9766,35 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-24.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юноша в желтеющем зелёном одеянии с гирляндой незрелых колосьев, знаком Рака в одной руке и кубком плодов в другой",
+          "meaning": "Желтеющая зелень и колосья — созревание злаков под летним солнцем; знак Рака — поворот солнца вспять после летнего солнцестояния, подобно пятящемуся раку",
+          "what_en": "A winged youth in a yellowing green robe with a garland of unripe wheat ears, the sign of Cancer in one hand and a cup of fruit in the other",
+          "meaning_en": "The yellowing green and wheat ears signify grain ripening under the summer sun; the sign of Cancer, the sun's turning back after the solstice, like the backward-moving crab"
+        }
+      ],
+      "text_ru": [
+        "Ему дают крылья, как и прочим Месяцам, одеяние желтеющего зелёного цвета и гирлянду из колосьев, ещё не созревших; сверх того ему дают держать в качестве знака в правой руке знак Рака, а в левой — кубок, полный всевозможных плодов поры года.",
+        "Латиняне именуют его Юнием по той же причине, что мы только что привели, говоря о Мае. Некоторые, однако, выводят его этимологию от Юноны, поскольку в первый день этого месяца был посвящён Храм этой Богини; или от Юния Брута, который в этом же месяце изгнал Тарквиния из Царства.",
+        "Он облачён в желтеющий зелёный цвет, поскольку Солнце тогда начинает желтить злаки и даже травы.",
+        "Рак означает, что Солнце, достигая этого Знака, начинает поворачивать вспять и удаляться от нас, то есть двигаться задом наперёд, как делает это животное."
+      ],
+      "text_fr": [
+        "ON luy donne des aisles comme aux autres Mois, vn habillement de verd jaunissant, & vne guirlande d'espics qui ne sont point encore meurs: outre qu'on luy fait tenir pour enseigne à la main droite, le Signe de l'Ecrivice, & de la gauche vne coupe pleine de toutes sortes de fruits de la saison.",
+        "Les Latins l'appellent Juin, pour la mesme raison que nous venons d'alleguer en parlant de May. Quelques-vns neantmoins en tirent l'ethymologie de Junon, parce que sous le premier jour de ce mois fut dedié le Temple de cette Deesse; ou de Junius Brutus, qui ce mesme mois chassa Tarquin du Royaume.",
+        "Il est vestu de verd jaunissant, dautant que le Soleil commence alors de faire jaunir les grains, & mesme les herbes.",
+        "L'Ecrevice signifie que le Soleil arrivant à ce Signe commence de rebrousser en arriere, & de s'éloigner de nous, c'est à dire d'aller à reculons comme fait cet animal."
+      ],
       "en": "June",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-24-1.jpg",
+        "p2-24-2.jpg"
+      ]
     },
     {
       "id": "p2-25",
