@@ -7029,30 +7029,72 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-135.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина о двух головах (смотрящих в противоположные стороны) с раскрытым циркулем в одной руке и птицей-пустельгой в другой",
+          "meaning": "Две головы — знание прошлого, служащее предвидению будущего; раскрытый циркуль — умение мерить свойства и порядок времени рассудительным умом",
+          "what_en": "A woman with two heads (facing opposite ways), holding an open compass in one hand and a merlin falcon in the other",
+          "meaning_en": "The two heads stand for knowledge of the past serving the foresight of the future; the open compass, the judicious measuring of qualities and the order of time"
+        }
+      ],
+      "text_ru": [
+        "Эта женщина о двух головах, держащая в одной руке циркуль, а в другой — птицу, именуемую Эсмериллоном (пустельгой), есть истинный символ Предусмотрительности.",
+        "Две её головы учат нас, что знание прошлого немало служит предвидению будущего. И нет такого, кто не знал бы, что опыт делает людей рассудительными и, следственно, способными почти предугадывать грозящие им беды; ибо предвидеть и предотвратить зло суть деяния, подобающие Благоразумию. По этой причине полезным для человеческой жизни почитают знание многих историй и достопамятнейших событий, свершившихся в давние времена, ибо оно порождает в нас ту силу Благоразумия, что потребна для суждения о грядущем. Иначе мы не могли бы притязать на это, разве что обманувшись и заслужив упрёк в нелепом любопытстве.",
+        "Раскрытый циркуль показывает, что для предвидения событий должно уметь измерять свойства и порядок времён рассудительным умом и твёрдым рассуждением."
+      ],
+      "text_fr": [
+        "CETTE femme à deux testes, qui porte vn compas en vne main, & en l'autre l'oiseau qu'on appelle Esmerillon, est le vray symbole de la Prévoyance.",
+        "Ses deux testes nous apprennent que la connoissance du passé sert grandement à prévoir l'avenir. Aussi n'y a-t'il celuy qui ne sçache, que l'experience fait les hommes prudens, & par consequent capables à peu prés d'aller au devant des malheurs qui les menaçent; car prévoir & prevenir vn mal, sont des effets convenables à la Prudence. C'est à raison de cela qu'on estime vtile à la vie humaine la connoissance de plusieurs histoires, & des succés les plus memorables avenus de long-temps, parce qu'elle produit en nous cette force de Prudence, qui est requise pour juger des choses à venir. A quoy nous ne pourrions pretendre autrement, à moins que d'estre déceus & blasmez d'vne curiosité ridicule.",
+        "Le compas ouvert montre que pour prévoir les evenemens, il faut sçavoir mesurer les qualitez, & l'ordre des temps avec vn esprit judicieux, & vn solide raisonnement."
+      ],
       "en": "Foresight",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-135-1.jpg",
+        "p1-135-2.jpg"
+      ]
     },
     {
       "id": "p1-136",
       "part": 1,
       "num": "CXXXVI",
-      "fr": "Paix",
-      "ru": "Мир",
+      "fr": "Prix",
+      "ru": "Награда",
       "page": "206",
       "group": "P",
       "group_fr": "",
       "group_page": "",
       "flag": "так в указателе, второй раз",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
-      "en": "Peace",
-      "group_en": "P"
+      "img": [
+        "p1-136.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Муж в белом одеянии с золотым поясом, держащий пальмовую и дубовую ветви в одной руке и венец с гирляндами в другой",
+          "meaning": "Пальма и дуб — польза и честь, две составляющие всякой награды; белое одеяние и золотой пояс — истина, сопровождаемая истинной добродетелью, без которой воздаяние несправедливо",
+          "what_en": "A man in white with a golden belt, holding a palm branch and an oak branch in one hand, a crown and garlands in the other",
+          "meaning_en": "The palm and oak stand for usefulness and honor, the two parts of every reward; the white robe and golden belt, truth accompanied by true virtue, without which a reward is unjust"
+        }
+      ],
+      "text_ru": [
+        "Его облик — облик мужа, облачённого в белое, с поясом из чистого золота, держащего сверх того пальмовую ветвь в правой руке, вместе с дубовой ветвью, а в левой — венец и гирлянды.",
+        "Награда, или воздаяние, имеет две главные составляющие, а именно честь и пользу, означенные здесь различно: одна — дубом, другая — пальмой.",
+        "Что до белого одеяния и золотого пояса, то это являет истину, сопровождаемую высокой добродетелью: ибо лишь несправедливо можно назвать наградой то добро, что оказывается людям, его недостойным."
+      ],
+      "text_fr": [
+        "SA figure est celle d'vn homme vestu de blanc, & dont la ceinture est de fin or; ayant de plus vne palme en la main droite, avec vn rameau de chesne, & en la gauche vne couronne & des guirlandes.",
+        "Le Prix ou la recompense a deux parties principales, à sçavoir l'honneur & l'vtilité, qui sont icy diversement denotées, l'vne par le chesne, & l'autre par la palme.",
+        "Quant au vestement blanc, & à la ceinture d'or, cela demontre la verité, quand elle est suivie d'vne eminente vertu: car on ne peut qu'injustement appeller recompense, le bien qu'on fait à des personnes qui en sont indignes."
+      ],
+      "en": "Prize",
+      "group_en": "P",
+      "scans": [
+        "p1-136-1.jpg",
+        "p1-136-2.jpg"
+      ]
     },
     {
       "id": "p1-137",
@@ -7065,30 +7107,86 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-137.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина о двух ликах в позолоченном шлеме с гирляндой тутовых листьев, с оленем, зеркалом в левой руке и стрелой, обвитой рыбой-прилипалой (ремора), в правой",
+          "meaning": "Два лика и шлем — предвидение будущего и уклонение от козней; жующий олень — обдуманность решений; зеркало — самопознание, необходимое для исправления недостатков; ремора на стреле — немедленное свершение добра, когда есть к тому средства и время",
+          "what_en": "A woman with two faces in a gilded helmet wreathed with mulberry leaves, with a deer beside her, a mirror in her left hand, and an arrow entwined by a remora fish in her right",
+          "meaning_en": "The two faces and helmet mean foresight and evading others' schemes; the ruminating deer, considered decisions; the mirror, the self-knowledge needed to examine one's faults; the remora on the arrow, doing good promptly whenever the means and the time allow"
+        }
+      ],
+      "text_ru": [
+        "Она изображается в виде женщины о двух ликах, имеющей на голове позолоченный шлем, окружённый гирляндой тутовых листьев, с оленем подле неё, зеркалом в левой руке, а в правой — стрелой, обвитой ремора (рыбой-прилипалой).",
+        "Благоразумие, по Аристотелю, есть деятельный навык, сопряжённый с истинным рассудком, действующим в отношении возможного, дабы достичь блаженства жизни, следуя благу и избегая зла.",
+        "Позолоченный шлем её означает, что благоразумный человек предвидит будущее и мудро уклоняется от козней тех, кто желает ему вреда.",
+        "Гирлянда тутовых листьев означает, что здравомыслящий человек никогда не должен делать дела прежде срока, но располагать их в своё время и исполнять с рассуждением.",
+        "Олень, который жуёт жвачку, означает, что никогда не следует браться за дело, не обдумав его, дабы решение было лучшим, а успех — благоприятнее.",
+        "Зеркало, что она держит в руке, означает, что для упорядочения своих поступков благоразумный человек должен испытывать свои недостатки, чего нельзя сделать без познания самого себя.",
+        "А ремора, обвившаяся вокруг стрелы, означает, что не должно медлить творить добро, когда ведомы к тому средства и когда позволяет время."
+      ],
+      "text_fr": [
+        "ELLE est representée par vne femme à deux visages, qui a sur la teste vn heaume doré, environné d'vne guirlande de feuilles de meurier, vn cerf auprés d'elle, vn miroir en la main gauche, & en la droite vne fleche avec vne remore tout à l'entour.",
+        "La Prudence, selon Aristote, est vne habitude active, accompagnée d'vne vraye raison, qui agit sur les choses possibles, pour atteindre à la felicité de la vie, en suivant le bien, & fuyant le mal.",
+        "Son heaume doré signifie que l'homme prudent prévoit l'avenir, & se dévelope sagement des embusches de ceux qui luy veulent nuire.",
+        "La guirlande de feuilles de meurier, qu'vne personne avisée ne doit jamais faire les choses avant le temps, mais bien les regler en leur saison, & les executer avec jugement.",
+        "Le cerf qui rumine, qu'il ne faut jamais entreprendre aucune affaire sans y penser, afin que la resolution en soit meilleure, & le succés plus favorable.",
+        "Le miroir qu'elle tient en main, qu'il est necessaire que pour regler ses actions, l'homme prudent examine ses defauts: ce qu'il ne peut faire sans la connoissance de soy-mesme.",
+        "Et par la remore qui est au tour d'vne fleche, que nous ne devons point tarder à faire du bien, quand nous en sçavons les moyens, & lorsque le temps nous le permet."
+      ],
       "en": "Prudence",
-      "group_en": "P"
+      "group_en": "P",
+      "scans": [
+        "p1-137-1.jpg",
+        "p1-137-2.jpg",
+        "p1-137-3.jpg"
+      ]
     },
     {
       "id": "p1-138",
       "part": 1,
       "num": "CXXXVIII",
       "fr": "Pudicité",
-      "ru": "Стыдливость",
+      "ru": "Целомудрие",
       "page": "207",
       "group": "P",
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
-      "en": "Pudicity",
-      "group_en": "P"
+      "img": [
+        "p1-138.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная дева в белом одеянии с покрывалом на голове, лилией в правой руке и черепахой под ногой",
+          "meaning": "Белое одеяние — чистота намерений; покрывало — сокрытие красоты как щит скромности; лилия — иероглиф Целомудрия; попираемая черепаха — домоседство добродетельной женщины, не покидающей своего жилища",
+          "what_en": "A young maiden in white robes with a veil on her head, a lily in her right hand and a tortoise beneath her foot",
+          "meaning_en": "The white robe signifies purity of intent; the veil, the hiding of beauty as a shield of modesty; the lily, a hieroglyph of Chastity; the trodden tortoise, the home-keeping of a virtuous woman who never strays from her dwelling"
+        }
+      ],
+      "text_ru": [
+        "Это юная дева, облачённая в белое, с покрывалом того же цвета на голове, с лилией в правой руке и черепахой под одной из своих стоп.",
+        "Белое одеяние её — знак целомудренных её намерений; ибо этот цвет всегда был явным выражением столь высокой добродетели: чему таинственно учит Соломон, когда заповедует нам, чтобы одежды наши были всегда белы.",
+        "Голова её покрыта покрывалом, дабы научить нас, что честная женщина должна скрывать свою красоту, нежели выставлять её напоказ: по каковой причине Тертуллиан называет покрывало щитом скромности и оплотом, который невозможно обратить в руины. Именно поэтому древние римляне желали, чтобы Целомудрие всегда изображалось с закрытым лицом, как можно видеть на медали Сабины, жены императора Адриана, а также на медали Марции Отацилии Северы, с надписью PVDICITIA AVG. Иудейские женщины также покрывались, как и христианки, когда творили молитвы в Храме, иначе не могли туда войти. Так заповедал святой Павел, равно как и святой Пётр, чей преемник, папа Лин, пожелал впоследствии, дабы этот обычай неукоснительно соблюдался.",
+        "Она держит лилию в правой руке, ибо этот цветок, как замечает святой Иероним против Иовиниана, есть иероглиф Целомудрия. Вот почему в Песни Песней сказано, что небесная Невеста питается среди лилий, то есть в обществе тех, кого целомудрие делает достохвальными.",
+        "Что же до черепахи, которую она попирает стопой, то это означает, что целомудренные женщины не должны отлучаться от своего дома более, нежели это животное — из-под своего панциря, куда заключила его природа. Эта мысль принадлежит славному ваятелю Фидию и великому историку Фукидиду, который, по свидетельству Плутарха, говорит, что добродетельная женщина должна ограничивать свои прогулки пределами своего жилища."
+      ],
+      "text_fr": [
+        "C'EST vne jeune fille vestuë de blanc, & qui a sur la teste vn voile de la mesme couleur, avec vn lys en la main droite, & vne tortuë sous l'vn de ses pieds.",
+        "Sa robe blanche est vne marque de ses chastes intentions; car cette couleur en a toûjours esté vne bien expresse d'vne si haute vertu: ce que Salomon enseigne mystiquement, quand il nous recommande que nos vestemens soient toûjours blancs.",
+        "Elle a la teste voilée, pour nous apprendre qu'vne honneste femme doit tenir cachée sa beauté, plûtost que d'en faire montre: à raison dequoy Tertullien appelle le voile, vn bouclier de modestie & vn rempart que l'on ne peut battre en ruine. Pour cela mesme les anciens Romains vouloient que la Pudicité fust toûjours peinte avec le visage couvert, comme il se peut voir en la medaille de Sabine, femme de l'Empereur Adrian; & en celle de Marcia, Otacilla, Severa, avec ce mot, PVDICITIA AVG. Les femmes Juifves estoient encore voilées, & les Chrestiennes aussi, quand elles faisoient leurs prieres dans le Temple, autrement elles n'y pouvoient entrer. Saint Paul l'ordonna comme cela, & saint Pierre pareillement, dont le successeur qui fut le Pape Linus, voulut depuis que cette coûtume fust religieusement observée.",
+        "Elle tient vn lys en la main droite, à cause que cette fleur, comme le remarque S. Hierosme contre Jovinian, est vn hieroglyphe de la Pudicité. Et voila pourquoy dans le Cantique des Cantiques il est dit, que l'Espouse celeste prend sa nourriture parmy les lys, c'est à dire en la compagnie des personnes que la chasteté rend recommendables.",
+        "Quant à la tortuë qu'elle foule aux pieds, cela veut dire que les femmes chastes ne doivent non plus bouger de leur maison, que cet animal de dessous le toict où la nature l'a renfermé. Cette pensée est du fameux Sculpteur Phidias, & du grand Historien Thucydide, qui dit, au rapport de Plutarque, qu'il faut qu'vne femme de bien ait ses promenades bornées dans l'enclos de son logis."
+      ],
+      "en": "Chastity",
+      "group_en": "P",
+      "scans": [
+        "p1-138-1.jpg",
+        "p1-138-2.jpg",
+        "p1-138-3.jpg"
+      ]
     },
     {
       "id": "p1-139",
