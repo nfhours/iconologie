@@ -9270,12 +9270,51 @@
       "group_fr": "Les quatre quartiers du Monde",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-13.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Прекрасный ребёнок со звездой на голове, в красном, усеянном жемчугом одеянии с поясом из знаков зодиака, с букетом раскрывающихся цветов в правой руке и курящимся сосудом в левой",
+          "meaning": "Детский возраст — первая из четырёх частей дня; звезда — утренняя звезда (Люцифер), предвещающая рассвет; красное одеяние — кровавый цвет рассветного солнца; жемчужная вышивка — драгоценный восточный жемчуг; букет распускающихся цветов — пробуждение природы с восходом; курящийся сосуд — благовония и пряности, которыми славится Восток",
+          "what_en": "A beautiful child with a star on his head, in a pearl-studded red robe girded with the zodiac signs, a bouquet of opening flowers in his right hand and a smoking vessel in his left",
+          "meaning_en": "The child's age signifies the first of the day's four parts; the star, the morning star (Lucifer) that heralds dawn; the red robe, the blood-red hue of the rising sun; the pearl embroidery, the precious pearls of the East; the opening flowers, nature's awakening at sunrise; the smoking vessel, the spices and perfumes for which the East is famed"
+        }
+      ],
+      "text_ru": [
+        "Этот ребёнок, одарённый отменной красотою, с румяным лицом, волосами, златовидными как золото, и сияющей звездой на макушке головы, помещён здесь как иероглифическое изображение Востока. Одеяние его красное, приятное взору, всюду усеянное богатой вышивкой из тончайших жемчужин. На поясе, что он носит, цвета бирюзовой сини, видны по порядку Знаки Овна, Льва и Стрельца. В правой руке он держит букет цветов, начинающих распускаться, а в левой — сосуд, полный огня, откуда исходят благовонные ароматы. Примечательно ещё, что с одной его стороны Солнце словно выходит из земли, откуда мечет лучи во все стороны; а с другой птицы радуются среди цветов и чаруют чувства своим приятным пением.",
+        "Мы изображаем здесь Восток в возрасте детства, ибо, поскольку день надлежит разделить на четыре части, вполне уместно, чтобы в первой он являлся ребёнком, во второй — юношей, в третьей — возмужалым мужем, а в четвёртой — стариком: отсюда и то, что в тот самый миг, когда Солнце показывается над горизонтом и даёт рождение дню, Небо начинает наполняться светом, дабы наполнить им земные пределы. Отчего Петрарка и говорит: Едва Солнце вышло из Востока, Как явило смертным свой смеющийся лик.",
+        "Ему приписывают особую красоту, ибо если случается, что Солнце в своём восходящем знаке преобладает над прочими небесными телами при чьём-либо рождении, то отсюда следует, что особым влиянием оно наделяет его красотою лица, приветливостью, деятельностью, великолепием, превосходными качествами и, среди прочего, замечательным великодушием.",
+        "Его румяный цвет лица и русые волосы суть следствия, прелести и красоты, сообщаемые ему Солнцем, придающим блеск всему прекраснейшему.",
+        "Звезда, сияющая на его голове, есть символ той, что предшествует дню, именуемой за это латинянами Люцифером. Отсюда Петрарка говорит: Что незадолго до дня эта влюблённая звезда Является на Востоке без тучи и покрова. И Вергилий подобно: Уже на вершинах окрестных скал Утренняя звезда возвращала нам день.",
+        "Измышляют, что его одеяние красное, следуя мнению Боккаччо, который в своей Генеалогии Богов говорит, что поутру Солнце кажется нам цвета крови из-за противостояния испарений, поднимающихся от земли.",
+        "Одеяние его усеяно богатой жемчужной вышивкой, ибо наиболее ценимые жемчужины обычно происходят с Востока, отчего и зовутся Восточными, и весьма почитаются во всём мире за свою необычайную белизну.",
+        "Его пояс бирюзовой сини являет Знаки Овна, Льва и Стрельца, поскольку, по слову Астрологов, именно эти Знаки суть Восточные.",
+        "К этому же относится и то, что он держит правую руку поднятой, дабы показать, что Восток — как бы десница Мира: по той же причине и лик его обращён в эту сторону; как бы научая нас, что не без причины обращают взор в ту же сторону, когда желают молиться и поклоняться Богу.",
+        "Букет разных цветов, начинающих распускаться, что он несёт в правой руке, и Светило дня, как оно здесь изображено, означают, что как только Солнце является на восточных берегах, цветы раскрываются от острия его лучей, их яркие краски вспыхивают на лугах, и все живые создания радуются.",
+        "Дым, исходящий от прекрасного сосуда, что он держит левой рукой, учит нас, что в восточных краях родятся благовония, пряности, бальзамы и иные драгоценные снадобья, чьи ароматы не менее восхитительны, сколь приятны обонянию. Поэт Бембо говорит по этому поводу: Что Солнце, рождаясь в зажжённом Небе, Являет ощутимыми запахи, коими напоён воздух. И изобретательный Петрарка: Что на берегах Востока и по всей этой Державе Источаются ароматы, коими дышит тамошний народ."
+      ],
+      "text_fr": [
+        "CET enfant doüé d'vne excellente beauté, qui a le teint vermeil, les cheveux blonds comme l'or, & sur le haut de la teste vne estoile resplendissante, est mis icy pour la figure hieroglyfique de l'Orient. Son habillement est rouge, agreable à voir, & semé par tout d'vne riche broderie de perles fines. Dans la ceinture qu'il porte, qui est de bleu turquin, se voyent par ordre les Signes du Mouton, du Lion, & du Sagittaire. Il tient de la main droite vn bouquet de fleurs qui commence à s'épanouïr, & de la gauche vn vase plein de feu, d'où s'exhalent des parfums odorans. Où il est à remarquer encore qu'en l'vn de ses costez le Soleil semble sortir de terre, d'où il darde ses rayons de toutes parts; & qu'en l'autre les oiseaux se réjouïssent parmy les fleurs, & charment les sens par leur agreable ramage.",
+        "Nous representons icy l'Orient en l'âge d'enfance, parce qu'ayant à diviser le jour en quatre parties, il n'est pas mal à propos qu'en la premiere il paroisse enfant, en la seconde jeune garçon, en la troisiéme homme fait, & en la quatriéme vieillard: d'où il arrive qu'au mesme instant que le Soleil se fait voir sur l'horison, & qu'il donne naissance au jour, le Ciel commence à se remplir de lumiere, afin d'en remplir les globes de la terre. Ce qui fait dire à Petrarque, A peine le Soleil sorty de l'Orient, A fait voir aux mortels son visage riant.",
+        "On luy attribue vne beauté singuliere; parce que s'il arrive que le Soleil à son ascendant prédomine aux autres corps celestes à la nativité de quelqu'vn, delà s'ensuit que par vne influence particuliere il est beau de visage, & aimable, agissant, splendide, doüé de qualitez excellentes, & entr'autres d'vne generosité remarquable.",
+        "Son teint vermeil & sa chevelure blonde, sont des effets, des agréemens, & des beautez que luy communique le Soleil, qui met en leur lustre toutes les plus belles choses.",
+        "L'estoile qui brille sur sa teste, est vn symbole de celle qui devance le jour, appellée pour cet effet des Latins, Lucifer. D'où vient que Petrarque dit, Qu'vn peu devant le jour cette amoureuse estoile Paroist sur l'Orient sans nuage & sans voile. Et Virgile pareillement: Deja sur les sommets des rochers d'alentour L'estoile du matin nous ramenoit le jour.",
+        "L'on feint que son habillement est rouge, suivant l'opinion de Bocace, qui dans sa Genealogie des Dieux dit qu'au matin le Soleil nous paroist de couleur de sang, à cause de l'opposition des vapeurs qui s'élevent de dessus la terre.",
+        "Son vestement est semé d'vne riche broderie de perles, à cause que celles que l'on prise le plus viennent d'Orient pour l'ordinaire, à raison dequoy elles sont dites Orientales, & fort estimées par tout le monde pour leur blancheur extraordinaire.",
+        "Sa ceinture de bleu turquin represente les Signes du Mouton, du Lion, & du Sagittaire, dautant qu'au dire des Astrologues, ces mesmes Signes sont Orientaux.",
+        "A cecy se rapporte encore qu'il tient le bras droit elevé, pour montrer que l'Orient est comme la dextre du Monde: & c'est pour le mesme sujet aussi qu'il a le visage tourné de ce costé-là; comme pour nous apprendre que ce n'est pas sans raison qu'on porte sa veuë vers ce mesme endroit, quand on veut prier & adorer Dieu.",
+        "Le bouquet de diverses fleurs qui commencent à s'épanouïr, qu'il porte de la main droite, & l'Astre du jour tel qu'il est icy dépeint, signifient qu'aussi-tost que le Soleil paroist sur les rives d'Orient, les fleurs s'ouvrent par la pointe de ses rayons, leur émail éclate dans les prairies, & toutes les creatures vivantes se réjoüissent.",
+        "La fumée qui s'exhale du beau vase qu'il soûtient de la main gauche, nous apprend qu'aux parties Orientales naissent les aromates, les épiceries, les baumes, & autres drogues de prix, dont les parfums ne sont pas moins delicieux qu'agreables à l'odorat. Le Poëte Bembo dit à ce propos, Que le Soleil naissant dans le Ciel allumé, Fait sentir les odeurs dont l'air est parfumé. Et l'ingenieux Petrarque, Qu'aux rives d'Orient & par tout cet Empire S'exhalent les odeurs que le peuple y respire."
+      ],
       "en": "The East",
-      "group_en": "The Four Quarters of the World"
+      "group_en": "The Four Quarters of the World",
+      "scans": [
+        "p2-13-1.jpg",
+        "p2-13-2.jpg",
+        "p2-13-3.jpg",
+        "p2-13-4.jpg"
+      ]
     },
     {
       "id": "p2-14",
@@ -9288,12 +9327,42 @@
       "group_fr": "Les quatre quartiers du Monde",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-14.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юный Мавр с Солнцем отвесно над головой, в красно-жёлтом одеянии с поясом знаков зодиака, стрелами в правой руке и веткой лотоса в левой, окружённый сухими, увядшими травами",
+          "meaning": "Чёрный цвет лица — южные земли под прямым солнцем; стрелы — полуденные лучи, пронзающие землю; лотос, восходящий и прячущийся вслед за солнцем, — южное, экваториальное растение; иссохшие травы у ног — чрезмерный, неумеренный зной полудня",
+          "what_en": "A young Moor with the sun directly overhead, in a red-and-yellow robe girded with the zodiac signs, arrows in his right hand and a lotus branch in his left, surrounded by dry, withered plants",
+          "meaning_en": "His black complexion signifies the southern lands beneath the direct sun; the arrows, the noontime rays that pierce the earth; the lotus, rising and sinking with the sun, a plant of the southern, equatorial regions; the withered plants underfoot, the excessive, unmoderated heat of noon"
+        }
+      ],
+      "text_ru": [
+        "Его изображают юным Мавром среднего роста, с Солнцем отвесно над головой, окружающим его блистающими лучами со всех сторон. Одеяние его красное, хотя и не лишённое желтоватого оттенка. Он носит пояс бирюзовой сини, на коем приметны Знаки Тельца, Девы и Козерога. В правой руке он держит стрелы, а в левой — ветвь Лотоса, кустарника, который, по Плинию, довольно схож с бобами в пору их цветения. А у ног его видны букеты и травы, иссушенные Солнцем.",
+        "Его изображают юным по той же причине, что мы привели в облике Востока. Цвет лица его совершенно чёрен, ибо в южных краях, где господствует Солнце, оно по естественной причине делает людей смуглыми. Это великое Светило окружает его лучами, кои мечет прямо в голову, ибо Солнце, находясь посреди Неба, тогда наиболее жарко, и лучи его тогда же наиболее блистательны, как замечает Князь Латинских Поэтов: Солнце, всё огненное, являлось взорам нашим Яснее и блистательнее посреди Небес.",
+        "Его огненно-пламенное одеяние означает неистовство зноя и дивное сияние красоты этого светила.",
+        "Что до Знаков, запечатлённых на поясе этого Мавра, все они южные, по слову Астрологов, и потому весьма уместно здесь помещены.",
+        "Упомяну, что он несёт две стрелы в правой руке, ибо в полдень лучи Солнца подобны множеству дротиков, что дивной своей силой проникают до самых недр земли.",
+        "Что же до ветвей Лотоса, то, несомненно, не без причины их дают нести этому Мавру; ибо это дивное растение, что, по Натуралистам, обретается в глубине Евфрата, едва Солнце утром покажется над горизонтом, начинает также являться из воды и подниматься по мере того, как оно восходит: так что, когда оно достигает середины Неба, растение уже стоит на поверхности и дало свои цветы и плоды; тогда как, напротив, когда это прекрасное светило клонится к Западу и опускается, оно поступает так же и прячется в воде.",
+        "Что до цветов и трав у его ног, совершенно сухих и увядших, это означает чрезмерный зной Солнца, коему невозможно дать никакого умерения; так что от этого сожжённые растения теряют всю свою силу и сущность."
+      ],
+      "text_fr": [
+        "IL est figuré par vn jeune More de moyenne taille, ayant sur sa teste le Soleil à plomb, que ses rayons resplendissans environnent de toutes parts. Son habillement est rouge, & ne laisse pas toutefois de tirer sur le jaune. Il porte vne ceinture de bleu turquin, où sont remarquables les Signes du Taureau, de la Vierge, & du Capricorne. Il tient en sa main droite des fleches, & en sa gauche vn rameau de Lotte, arbrisseau qui selon Pline ressemble à peu prés aux feves lors qu'elles sont en fleur. Et à ses pieds se voyent des bouquets & des herbes que le Soleil a sechées.",
+        "Il est peint jeune, pour la mesme raison que nous avons apportée dans la figure de l'Orient. Son teint est tout à fait noir, parce qu'aux parties meridionales où le Soleil prédomine, il y fait les hommes mores par vne vertu dont la raison est naturelle. Ce grand Astre l'environne de ses rayons qu'il darde droit à la teste, à cause que le Soleil estant au milieu du Ciel, en est ardent, & que ses rayons aussi en sont plus resplendissans, comme le remarque le Prince des Poëtes Latins. Le Soleil tout de feu paroissoit à nos yeux Plus clair & plus brillant dans le milieu des Cieux.",
+        "Son vestement de couleur & de flamme, signifie la violence de la chaleur, & le merveilleux éclat de la beauté de cet astre.",
+        "Pour ce qui est des Signes que ce More porte empreints sur sa ceinture, ils sont tous meridionaux, selon les Astrologues, & par consequent mis icy fort à propos.",
+        "J'obmets qu'il porte deux fleches dans la main droite, parce qu'au milieu du jour les rayons du Soleil sont comme autant de dards, qui par leur force admirable penetrent jusques dans les entrailles de la terre.",
+        "Quant aux rameaux de Lotte, il est bien certain que ce n'est pas sans sujet qu'on les fait porter à ce More; car cette merveilleuse plante, qui selon les Naturalistes se trouve dans le fond de l'Euphrate dés que le Soleil paroist au matin sur l'horison, commence aussi à paroistre hors de l'eau, & à se lever à mesure qu'il se hausse: de maniere que lors qu'il a gagné le milieu du Ciel, elle se trouve sur pied, & a produit ses fleurs & ses fruits; comme au contraire, lors que ce bel astre panche à l'Occident & s'abaisse, elle en fait de mesme, & se cache dans l'eau.",
+        "Pour ce qui est des fleurs & des herbes qui se voyent à ses pieds toutes arides & seches, cela signifie l'excessive ardeur du Soleil, à laquelle il est impossible d'apporter aucun temperament; si bien que par ce moyen les plantes brûlées perdent toute leur vigueur & leur substance."
+      ],
       "en": "The South",
-      "group_en": "The Four Quarters of the World"
+      "group_en": "The Four Quarters of the World",
+      "scans": [
+        "p2-14-1.jpg",
+        "p2-14-2.jpg",
+        "p2-14-3.jpg"
+      ]
     },
     {
       "id": "p2-15",
@@ -9306,12 +9375,43 @@
       "group_fr": "Les quatre quartiers du Monde",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-15.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Статный муж с голубыми глазами и русыми волосами, в белом оружии, берущийся за меч, в перевязи с тремя северными знаками зодиака, взирающий на обе Медведицы в заснеженном небе",
+          "meaning": "Мужественный возраст и крепкое сложение — природа холодного климата; обнажаемый меч — неукротимый, воинственный нрав северных народов; перевязь со знаками Рака, Скорпиона и Рыб — северные знаки зодиака; взгляд на обе Медведицы — незаходящие звёзды северного полюса; иней и тучи — отдалённость северных земель от солнца",
+          "what_en": "A stately man with blue eyes and fair hair, in white armor, reaching for his sword, girded with a sash bearing three northern zodiac signs, gazing at the two Bears in a frost-covered sky",
+          "meaning_en": "His manly age and sturdy build signify the nature of the cold climate; the drawn sword, the untamed, warlike temper of northern peoples; the sash with Cancer, Scorpio and Pisces, the northern zodiac signs; his gaze at the two Bears, the ever-visible stars of the north pole; the frost and clouds, the northern lands' remoteness from the sun"
+        }
+      ],
+      "text_ru": [
+        "Его облик — облик мужа крепкого и мужественного возраста, статного, с голубыми сверкающими глазами и русыми волосами: он облачён в белое оружие, готовый взяться за меч, и носит перевязь бирюзовой сини, на коей видны три северных Знака Зодиака — Рак, Скорпион и Рыбы. Лик его обращён к Небу, сплошь покрытому инеем, и он одновременно взирает на обе Медведицы.",
+        "Лик его мужествен по тем же причинам, что мы привели в облике Востока.",
+        "Взор его грозен, сложение крепко, а цвет лица румян; качества, идущие от холодного климата, в коем люди обладают желудком лучшим, нежели прочие, и лучше переваривают пищу: тогда как, напротив, рождённые на Юге малы ростом и черны лицом; притом они не столь полнокровны и грубы, но превосходят в искусстве обмана.",
+        "Он облачён в белое оружие и готов извлечь меч из ножен, дабы явить неукротимый нрав и гордое мужество северных народов. И впрямь опыт показал большей части мира, и в особенности Италии, что они всегда были весьма закалены в войне. А то, что у них столь пылкий и склонный к оружию нрав, происходит, на мой взгляд, от чрезмерного избытка крови и от вспышки гнева, воспламеняющегося в них по малейшему поводу: оттого они, по слову Петрарки, Враги мира, когда безумная жажда Влечёт их мстить ценою собственной жизни.",
+        "Он носит перевязь бирюзовой сини с изображениями Рака, Скорпиона и Рыб, ибо, по Астрологам, эти три Знака северные.",
+        "Лик его обращён к Небу и одновременно взирает на Большую и Малую Медведицу, ибо эти неподвижные северные звёзды никогда не заходят, будучи, по слову Петрарки, Видимы во всякое время и над нашим Полюсом.",
+        "Что до туч и инея, коими отягчено Небо, и в сторону коих этот воин обращает взор, это относится к сказанному тем же Петраркой о северных странах: Что можно назвать климатом несравненным, Удалённым от Солнца, Где повсюду простёрты льды И нерастаявшие снега."
+      ],
+      "text_fr": [
+        "SA figure est celle d'vn homme d'âge robuste & viril, qui a la taille belle, les yeux bleus & étincellans, & les cheveux blonds: il est couvert d'armes blanches, en action de mettre la main à l'espée, & porte vne écharpe de bleu turquin, où se voyent trois Signes septentrionaux du Zodiaque, qui sont le Cancer, le Scorpion, & les Poissons. Il a le visage tourné vers le Ciel qui est tout couvert de frimas, & regarde tout à mesme temps les deux Ourses.",
+        "Son visage est viril, pour les raisons que nous avons alleguées dans la figure de l'Orient.",
+        "Il a le regard affreux, la taille forte, & le teint sanguin; qualitez qui luy viennent du climat froid, dont les hommes ont l'estomac meilleur que les autres, & digerent mieux les viandes: comme au contraire ceux qui naissent au Midy, ont la taille petite, & le teint noir; outre qu'ils ne sont pas si sanguins ny si grossiers, & excellent en l'art de tromper.",
+        "Il est couvert d'armes blanches, & en action de tirer l'espée hors du foureau, pour donner à connoistre le naturel indomptable, & la fierté de courage des peuples septentrionaux. Car en effet l'experience a fait voir à la pluspart du monde, & particulierement à l'Italie, qu'ils ont toûjours esté fort aguerris. Or ce qu'ils ont ainsi l'humeur fougueuse, & portée aux armes, procede à mon avis, d'vne trop grande abondance de sang, & d'vn excés de colere qui s'allume en eux pour la moindre chose: aussi sont-ils, comme dit Petrarque, Ennemis de la paix, quand vne folle envie Les porte à se vanger aux dépens de leur vie.",
+        "Il porte vne écharpe de bleu turquin, avec les figures du Cancer, du Scorpion, & des Poissons, parce que, selon les Astrologues, ces trois Signes sont septentrionaux.",
+        "Son visage est tourné du costé du Ciel, & regarde en mesme temps la grande & la petite Ourse, à cause que ces estoiles fixes au Septentrion ne se couchent jamais, estant, comme dit Petrarque, Visibles en tous temps & dessus nostre Pole.",
+        "Quant aux nuages & aux frimas dont le Ciel est chargé, & du costé desquels ce guerrier tourne sa veuë, cela se rapporte à ce que dit le mesme Petrarque parlant des pays septentrionaux. Que l'on peut appeller vn climat sans pareil Eloigné du Soleil, Où sont de toutes parts les glaces étenduës, Et les neiges fonduës."
+      ],
       "en": "The North",
-      "group_en": "The Four Quarters of the World"
+      "group_en": "The Four Quarters of the World",
+      "scans": [
+        "p2-15-1.jpg",
+        "p2-15-2.jpg",
+        "p2-15-3.jpg",
+        "p2-15-4.jpg"
+      ]
     },
     {
       "id": "p2-16",
@@ -9324,12 +9424,46 @@
       "group_fr": "Les quatre quartiers du Monde",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-16.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Старик в тёмно-буром одеянии с поясом из трёх знаков зодиака, звездой над головой, устами, стянутыми повязкой, указывающий правой рукой закат и держащий маки в левой, окружённый летучими мышами",
+          "meaning": "Старость — закат солнечного пути; тёмное одеяние — сумрак, предшествующий ночи; сомкнутые уста — ночное безмолвие; звезда (Геспер) — вечерняя звезда, предвестница ночи; маки — сон и ночной покой; летучие мыши — ночные твари, являющиеся с наступлением тьмы; длинная тень фигуры — удлинение теней на закате",
+          "what_en": "An old man in dark brown robes with a sash of three zodiac signs, a star above his head, his mouth bound shut, pointing with his right hand toward the sunset and holding poppies in his left, surrounded by bats",
+          "meaning_en": "His old age signifies the sun's declining course; the dark robe, the gloom preceding night; the bound mouth, nighttime silence; the star (Hesperus), the evening star heralding night; the poppies, sleep and night's repose; the bats, nocturnal creatures that appear with darkness; the figure's long shadow, the lengthening of shadows at sunset"
+        }
+      ],
+      "text_ru": [
+        "Его изображают стариком в одеянии бурого цвета, с поясом бирюзовой сини, на коем Знаки Близнецов, Весов и Водолея. Звезда сияет прямо над его головой, а повязка стягивает ему уста. При этом, судя по тому, как он держит правую руку, он словно указывает ту часть Запада, где заходит Солнце, а в левой держит маки. К этому надлежит прибавить, что воздух, его окружающий, в коем летают летучие мыши, весьма тёмен, а тень этой фигуры весьма длинна.",
+        "Запад изображают стариком, ибо Солнце клонится к закату, совершив свой путь. Он облачён в тёмный цвет, дабы показать расстояние между закатом Солнца и временем, когда воздух начинает темнеть. Отчего Понтан говорит: Виднелись лишь зрелища ужасные и погребальные, Когда ночь покрывала землю мраком.",
+        "Знаки на его перевязи — Близнецы, Весы и Водолей — помещены туда с веским основанием, ибо все три, по Астрологам, восточные.",
+        "Сомкнутые уста его означают, что в ночи всё спокойно и безмолвно, как замечает Овидий в десятой книге своих Метаморфоз: Было то время, когда шум Унял своё неистовство, Когда покой и безмолвие Следовали за тенями ночи.",
+        "Звезда, сияющая на его челе, есть та, что латиняне именуют Геспер, обычно являющаяся на Западе с наступлением ночи.",
+        "Правой рукой он указывает место, где заходит Солнце, дабы означить его отличие от Востока, и тем же показать, что едва Солнце зайдёт, как неизбежно лишает нас своего света.",
+        "Маки, что он держит в правой руке, суть символы сна, предназначенного для ночного покоя: что являет нам этот стих Овидия: Ночь же приходит, увенчанная маками И окружённая сновидениями.",
+        "Он окутан тёмными тучами, сквозь кои беспорядочно летают летучие мыши, ибо с приближением ночи воздух одновременно темнеет, и тогда являются эти ночные животные.",
+        "Добавим здесь в заключение об этой последней четверти Мира, что тень человека, её являющего, превосходит его самого, ибо чем дальше удаляется от нас Солнце, тем больше тень всех тел, поскольку, как говорит Вергилий, С заходом Солнца тени удваиваются."
+      ],
+      "text_fr": [
+        "IL est dépeint en vieillard, ayant vne robe de couleur brune, & vne ceinture de bleu turquin, où sont les Signes des Jumeaux, de la Balance, & du Verseur d'eau. Vne estoile brille tout droit sur sa teste, & vne bandelette luy serre la bouche. Avec cela de la façon qu'il porte la main droite, il semble montrer cette partie de l'Occident où le Soleil se couche, & tient de la gauche des pavots. Il faut adjoûter à cecy que l'air qui l'environne, où volent des chauves-souris, est grandement obscur, & l'ombre de cette figure fort longue.",
+        "On peint l'Occident en vieillard, à cause que le Soleil est à son declin lorsqu'il a fait sa carriere. Il est habillé d'vne couleur sombre, pour montrer la distance qu'il y a entre le coucher du Soleil, & le temps auquel l'air commence de s'obscurcir. Ce qui fait dire à Pontan, L'on ne voyoit qu'objets horribles & funebres, Lorsque la nuit couvroit la terre de tenebres.",
+        "Les Signes de son écharpe, à sçavoir les Jumeaux, la Balance, & le Verseur d'eau, y sont mis avec grande raison, pour estre tous trois orientaux, selon les Astrologues.",
+        "La bouche qu'il a fermée, signifie que durant la nuit toutes choses sont calmes & dans le silence, comme le remarque Ovide au livre 10. de ses Metamorphoses. C'estoit en vn temps où le bruit Avoit calmé sa violence, Quand le repos & le silence Suivoient les ombres de la nuit.",
+        "L'estoile qui luit sur son chef, est celle que les Latins nomment Hesperus, qui se fait voir d'ordinaire en Occident vers le commencement de la nuit.",
+        "Il montre de la main droite l'endroit où le Soleil se couche, pour en marquer la difference d'avec l'Orient, & faire voir par mesme moyen que le Soleil ne se couche pas plûtost, qu'en suite de cela il faut necessairement qu'il nous prive de sa lumiere.",
+        "Les pavots qu'il tient de la main droite, sont les symboles du sommeil, qui est destiné pour le repos de la nuit: ce qui nous est declaré par ce vers d'Ovide. La nuit vient cependant de pavots couronnée, Et de songes environnée.",
+        "Il est enveloppé de nuages sombres, à travers desquels volent confusément des chauves-souris, parce que la nuit s'approchant, l'air s'obscurcit en mesme temps, & qu'on voit alors paroistre ces animaux nocturnes.",
+        "Ajoûtons icy pour conclusion de ce dernier quartier du Monde, que l'ombre de l'homme qui le represente, le surpasse luy-mesme, parce que tant plus le Soleil s'eloigne de nous, tant plus est grande l'ombre de tous les corps, puisque, comme dit Virgile, Par le Soleil couchant les ombres se redoublent."
+      ],
       "en": "The West",
-      "group_en": "The Four Quarters of the World"
+      "group_en": "The Four Quarters of the World",
+      "scans": [
+        "p2-16-1.jpg",
+        "p2-16-2.jpg",
+        "p2-16-3.jpg"
+      ]
     },
     {
       "id": "p2-17",
