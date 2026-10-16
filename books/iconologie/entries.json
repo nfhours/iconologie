@@ -9807,12 +9807,35 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-25.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юноша в жёлтом одеянии с венком из колосьев, со знаком Льва в одной руке и чашей плодов в другой",
+          "meaning": "Жёлтое одеяние и колосья — созревшие под жарким солнцем хлеба; знак Льва — чрезмерный зной и засуха, которые солнце производит в этом знаке",
+          "what_en": "A winged youth in a yellow robe with a wreath of wheat ears, the sign of Leo in one hand and a cup of fruit in the other",
+          "meaning_en": "The yellow robe and wheat ears signify grain ripened under the hot sun; the sign of Leo, the excessive heat and drought the sun brings while passing through it"
+        }
+      ],
+      "text_ru": [
+        "Его изображают юным, как и прочие месяцы, облачённым в жёлтое и увенчанным колосьями, сверх того он держит одной рукой знак Льва, а другой — чашу, полную плодов поры года.",
+        "Его называют Июлем, по имени Диктатора Юлия Цезаря, родившегося двенадцатого числа этого же месяца. Прежде его называли Квинтилием из-за числа, поскольку, если считать от Марта, он оказывается пятым по порядку.",
+        "Одеяние его жёлтое, ибо хлеба становятся этого цвета по мере созревания в этом месяце.",
+        "Лев, зверь жестокий и горячий по своей природе, означает, что Солнце, проходя через этот Знак, производит чрезмерный жар, откуда обычно следует великая засуха."
+      ],
+      "text_fr": [
+        "IL est representé jeune comme les autres mois, habillé de jaune, & couronné d'espics, outre qu'il tient d'vne main le Signe du Lion, & de l'autre vne tasse pleine des fruits de la saison.",
+        "On l'appelle Juillet, du nom du Dictateur Jules Cesar, qui nasquit le douziéme du mesme mois. On le nommoit auparavant Quintilius à cause du nombre, & que commençant par Mars il se trouve le cinquiéme en ordre.",
+        "Son habillement est jaune, parce que les bleds deviennent de cette couleur à mesure qu'ils meurissent dans ce mois-là.",
+        "Le Lion, animal cruel & chaud de sa nature, signifie que le Soleil passant par ce Signe, produit vne chaleur excessive, d'où s'ensuit ordinairement vne grande secheresse."
+      ],
       "en": "July",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-25-1.jpg",
+        "p2-25-2.jpg"
+      ]
     },
     {
       "id": "p2-26",
@@ -9825,12 +9848,38 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-26.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юноша в одеянии огненного цвета с гирляндой роз и жасмина, со знаком Девы в правой руке и чашей плодов в левой",
+          "meaning": "Огненное одеяние — зной самого жаркого месяца года, посвящённого Августу; знак Девы — бесплодная зрелость, когда солнце лишь доводит до спелости уже произведённое, а не порождает новое; устрашающий взгляд — опасность палящего зноя Пёсьей звезды для здоровья",
+          "what_en": "A winged youth in a fiery-colored robe with a wreath of roses and jasmine, the sign of Virgo in his right hand and a cup of fruit in his left",
+          "meaning_en": "The fiery robe signifies the heat of the year's hottest month, consecrated to Augustus; the sign of Virgo, a barren ripening in which the sun only perfects what is already produced rather than generating anew; his dreadful look, the danger the Dog Star's scorching heat poses to health"
+        }
+      ],
+      "text_ru": [
+        "Его одеяние огненного цвета, а гирлянда из дамасских роз, жасмина и иных подобных цветов, рождающихся в эту пору года. В правой руке он держит знак Девы, а в левой — чашу, полную плодов, подобающих этой поре.",
+        "Сенат некогда посвятил в честь Августа этот самый жаркий месяц года, в который этот великий Государь впервые был сделан Консулом, трижды праздновал триумф в Риме, подчинил Египет власти Римского народа и положил конец гражданским войнам. Прежде его называли Секстилием, поскольку он шестой по порядку, если считать от Марта.",
+        "Устрашающий взгляд, приписываемый этому месяцу, даёт понять, сколь он опасен, ибо тогда Солнце находится в Пёсьей звезде (Каникуле), чей неистовый жар чрезвычайно вреден для здоровья смертных.",
+        "Небесный Знак, царящий в этом месяце, зовётся Девой, дабы показать, что как Дева бесплодна и не рождает, так и Солнце в этом месяце не делает ничего, кроме как совершенствует и доводит до зрелости уже произведённое.",
+        "Что до плодов, что ему дают держать в руке, они не иные, нежели те самые, что земля даёт в это время на потребу смертным."
+      ],
+      "text_fr": [
+        "SON habillement est de couleur de feu, & sa guirlande de roses de Damas, de jasmins, & d'autres semblables fleurs, qui naissent en cette saison-là. Il tient de la main droite le signe de la Vierge; & de la gauche vne tasse remplie de fruits convenables à la saison.",
+        "Le Senat consacra jadis en l'honneur d'Auguste ce mois le plus chaud de l'année, auquel ce grand Prince fut premierement fait Consul, triompha dans Rome par trois diverses fois, assujettit l'Egypte à la puissance du peuple Romain, & mit fin aux guerres civiles. On l'appelloit auparavant Sextil, pour estre le sixiéme en ordre, commençant par Mars.",
+        "L'effroyable regard qu'on attribuë à ce mois, donne à connoistre combien il est dangereux, à cause qu'alors le Soleil se trouve dans la Canicule, dont la chaleur violente est nuisible jusques au dernier point à la santé des mortels.",
+        "Le Signe celeste qui regne durant ce mois-là est appellé Vierge, pour montrer que comme vne Vierge est sterile & n'engendre point, le Soleil de mesme en ce mois-là, & ne fait seulement que perfectionner & reduire en maturité les choses déja produites.",
+        "Pour ce qui est des fruits qu'on luy fait tenir en main, ils ne sont autres que ceux mesmes que la terre donne en ce temps-là à l'vsage des mortels."
+      ],
       "en": "August",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-26-1.jpg",
+        "p2-26-2.jpg",
+        "p2-26-3.jpg"
+      ]
     },
     {
       "id": "p2-27",
@@ -9843,12 +9892,35 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-27.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юноша со смеющимся лицом в пурпурном одеянии, со знаком Весов в одной руке и рогом Амальтеи, полным винограда и плодов, в другой",
+          "meaning": "Пурпурное одеяние — царственное изобилие сентября, превосходящее все прочие месяцы дарами, нужными для человеческой жизни; рог Амальтеи — обилие осенних плодов; знак Весов — равенство дня и ночи в день осеннего равноденствия",
+          "what_en": "A winged youth with a laughing face in a purple robe, the sign of Libra in one hand and Amalthea's horn, full of grapes and fruit, in the other",
+          "meaning_en": "The purple robe signifies September's regal abundance, surpassing all other months in what human life requires; Amalthea's horn, the fullness of autumn fruit; the sign of Libra, the equal balance of day and night at the autumn equinox"
+        }
+      ],
+      "text_ru": [
+        "Его изображают юношей с крыльями, со смеющимся лицом, в пурпурном одеянии, с прекрасной гирляндой. Одной рукой он держит знак Весов, а другой — рог Амальтеи, полный чёрного и белого винограда, персиков, фиг, груш, гранатов и иных плодов, что производит этот месяц.",
+        "Его называют Сентябрём, ибо он, как я сказал, седьмой по порядку, хотя некогда некоторое время носил то же имя, что и Император Германик.",
+        "Его облачают в пурпур, дабы показать, что как лишь Царям и величайшим мужам, изобилующим сокровищами, подобает украшаться столь богатым цветом, так и этот Месяц, словно Государь среди всех прочих, в большем изобилии, нежели любой из них, доставляет всё необходимое для нужд человеческой жизни.",
+        "Он несёт знак Весов, ибо в этом месяце, по Вергилию, день и ночь уравниваются в часах."
+      ],
+      "text_fr": [
+        "IL est peint en jeune homme qui a des aisles, le visage riant, vn habillement de pourpre, vne belle guirlande. Il tient d'vne main le Signe de la Balance, & de l'autre vne corne d'Amalthée pleine de raisins noirs & blancs, de pesches, de figues, de poires, de grenades, & d'autres fruits que produit ce mois-là.",
+        "Il est appellé Septembre, pour estre, comme j'ay dit, le septiéme en ordre, ayant eu quelque temps auparavant le mesme nom de l'Empereur Germanicus.",
+        "On l'habille de pourpre, pour montrer que comme il n'appartient qu'aux Rois & aux plus grands hommes qui abondent en tresors, de se parer d'vne si riche couleur, ce Mois de mesme comme Prince de tous les autres fournit en plus grande abondance que pas vn d'eux toutes les choses qui sont necessaires à l'vsage de la vie humaine.",
+        "Il porte le Signe de la Balance, à cause qu'en ce mois-là c'estoit le mesme qui selon Virgile, Du jour & de la nuit fait les heures égales."
+      ],
       "en": "September",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-27-1.jpg",
+        "p2-27-2.jpg"
+      ]
     },
     {
       "id": "p2-28",
@@ -9861,12 +9933,36 @@
       "group_fr": "Les douze mois de l'année",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-28.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатый юноша в телесно-алом одеянии, увенчанный дубовыми листьями, со знаком Скорпиона в правой руке и корзиной осенних плодов в левой",
+          "meaning": "Телесно-алый цвет — убывающий сок растений, окрашивающий листву в пору заката солнечного года; знак Скорпиона — опасные болезни и телесные немощи, порождаемые переменчивой осенней погодой, подобно смертоносному яду этого животного",
+          "what_en": "A winged youth in a flesh-pink robe crowned with oak leaves, the sign of Scorpio in his right hand and a basket of autumn fruit in his left",
+          "meaning_en": "The flesh-pink color signifies the ebbing sap that colors the leaves as the solar year declines; the sign of Scorpio, the dangerous illnesses and bodily languors bred by autumn's fickle weather, likened to the creature's deadly sting"
+        }
+      ],
+      "text_ru": [
+        "Он является нам в облике юноши, облачённого в телесно-алый цвет, увенчанного дубовыми листьями, держащего в правой руке знак Скорпиона, а в левой — корзину, полную мушмулы, грибов, орехов, каштанов и иных плодов по сезону.",
+        "Этот месяц, прежде называвшийся Домицианом, по имени Императора, носившего это же имя, был впоследствии переименован указом Сената из-за тираний этого Государя и вновь принял имя Октябрь, как восьмой по порядку.",
+        "Его облачают в телесно-алый цвет, ибо когда Солнце начинает клониться к зимнему солнцестоянию, сок растений начинает убывать, так что листья их приобретают тот же цвет.",
+        "Ему дают держать Скорпиона, ибо в этом месяце Солнце находится в этом Знаке, именуемом Скорпионом, то ли по виду изображающих его звёзд, то ли по его воздействиям. Ибо как яд Скорпиона смертелен для ужаленного, если не оказать скорой помощи, так и Солнце, находясь в этом Знаке, порождает весьма опасные недуги из-за непостоянства погоды: откуда проистекают телесные немощи, по Гиппократу, особенно когда один и тот же день бывает то тёплым, то холодным, как случается осенью."
+      ],
+      "text_fr": [
+        "IL nous est representé sous la figure d'vn jeune homme vestu d'incarnat, couronné de feuilles de chesne, & qui tient de la main droite le Signe du Scorpion, & de la gauche vn pannier plein de nesfles, de champignons, de noix, de chastaignes, & d'autres fruits selon la saison.",
+        "Ce mois ayant esté autrefois appellé Domitian, à cause de l'Empereur qui portoit ce mesme nom, se changea depuis par Arrest du Senat, à cause des tyrannies de ce Prince, & reprit celuy d'Octobre, comme estant le huitiéme en ordre.",
+        "On l'habille d'incarnat, parce que le Soleil venant à decliner dans le solstice de l'Hyver, l'humeur des plantes commence à se referrer, si bien que leurs feuilles deviennent de mesme couleur.",
+        "On luy fait tenir vn Scorpion, à cause qu'en ce mois-là le Soleil se trouve dans ce Signe, qui est appellé Scorpion, soit de la figure des estoiles qui le representent, soit de ses effets. Car comme le venin du Scorpion est mortel à ceux qu'il pique, si l'on n'y met promptement remede; ainsi le Soleil estant dans ce Signe, produit des maladies tres-dangereuses, à cause de l'inégalité du temps: d'où s'ensuivent les langueurs du corps, selon Hypocrate, principalement lorsqu'vn mesme jour est tantost chaud & tantost froid, comme il arrive en Automne."
+      ],
       "en": "October",
-      "group_en": "The Twelve Months of the Year"
+      "group_en": "The Twelve Months of the Year",
+      "scans": [
+        "p2-28-1.jpg",
+        "p2-28-2.jpg",
+        "p2-28-3.jpg"
+      ]
     },
     {
       "id": "p2-29",
