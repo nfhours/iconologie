@@ -6357,6 +6357,183 @@
       "findspot_fr": "Marseille (attribution disputée: Caylus y voit un galet du Rhône)",
       "findspot_ru": "Марсель (спорная атрибуция: Кайлюс считал его ронским голышом)",
       "findspot_en": "Marseille (disputed: Caylus took it for a Rhône pebble)"
+    },
+    {
+      "id": "pl17-1",
+      "part": 2,
+      "plate": 17,
+      "num": "1",
+      "fr": "Bas-relief grec: couronne au nom du peuple pour Artemone, femme d'Apollonius Icesius",
+      "ru": "Греческий барельеф: венок от имени народа Артемоне, жене Аполлония Икесия",
+      "en": "Greek bas-relief: a crown from the people for Artemon, wife of Apollonius Icesius",
+      "page": "143",
+      "group": "XVII",
+      "group_fr": "Planche XVII",
+      "group_en": "XVII",
+      "group_page": "143",
+      "flag": "",
+      "type": "relief",
+      "material_fr": "marbre",
+      "material_ru": "мрамор",
+      "material_en": "marble",
+      "img": [
+        "pl17-full.jpg"
+      ],
+      "plate_img": "pl17-full.jpg",
+      "bbox": [
+        4.0,
+        2.0,
+        54.0,
+        86.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "J'AI souvent regretté dans le cours de cet ouvrage, les beautés que la négligence des Graveurs enlève aux monumens. Cet inconvénient est plus ordinaire en Province que dans la Capitale; les Artistes d'un mérite distingué qui s'y trouvent en grand nombre, sont plus à même d'exécuter avec fidélité la Gravure des Monumens antiques. Celui que je décris sous ce n°. m'engage naturellement à ces réflexions. Quoique mutilé, il présente encore des parties dignes d'attention, & qui ne sont pas rendues avec assez d'expression dans la Gravure.",
+        "Ce Bas-relief en marbre, ornement de quelque sépulture, est actuellement au pouvoir de M. Michel, Honoraire de l'Académie de Peinture. Ce monument a été trouvé à la rue de Negrel, avec d'autres du même genre; ce qui prouve que ce terrain étoit hors la Ville: les remparts ont effectivement passé autrefois par la roche des Moulins, où étoit située la grande Horloge (49). Les rues de la Roquette & de Negrel sont conséquemment des agrandissemens; & les terrains sur lesquels elles sont situées, pouvoient servir de sépulture; l'ancien Cimetière des Accoules devoit comprendre toute cette vaste étendue.",
+        "Une femme vêtue comme une personne de considération, est assise gravement; une Esclave lui présente un coffre; au-dessus des figures est une couronne de laurier, avec le mot ODEMOS, c'est-à-dire, POPVLVS. Entre la couronne & les figures du Bas-relief, on lit ces mots: ARTEMOVN APOLLONIOV IKESIOV DEGVNAIKA, c'est-à-dire, ARTEMONAM APOLLONII ICESII VXOREM; ce qui signifie que le peuple a érigé ce monument à Artemone, femme d'Apollonius Icessius. Ce Bas-relief nous dévoile un usage adopté dans la grande Grèce; c'est celui des couronnes accordées au nom des Citoyens, à ceux qui se distinguoient, ou par leurs talens, ou par leurs vertus (50). Les Marseillois avoient conservé cet usage national, & ce monument en est une preuve. [Hauteur 3 pieds 1 pouce; largeur un pied 4 pouces 6 lignes.]",
+        "(49) Cet emplacement est aujourd'hui dans l'enceinte de la nouvelle bâtisse de l'Hôtel-Dieu. — (50) M. de Caylus a donné les Gravures de plusieurs de ces couronnes."
+      ],
+      "text_ru": [
+        "В ходе этого труда я часто сожалел о тех красотах, которые небрежность граверов отнимает у памятников. Этот недостаток более обычен в провинции, чем в столице; художники значительного дарования, которых там немало, более способны верно исполнить гравюру с античных памятников. Предмет, который я описываю под этим номером, естественно наводит меня на эти размышления. Хотя он и повреждён, в нём всё же есть части, достойные внимания и недостаточно выразительно переданные на гравюре.",
+        "Этот мраморный барельеф, украшавший какое-то погребение, находится ныне во владении г-на Мишеля, почётного члена Академии живописи. Этот памятник был найден на улице Негрель вместе с другими подобными; это доказывает, что этот участок находился вне города: крепостные стены действительно некогда проходили через скалу Мулен, где находилась большая Часовая башня (49). Улицы Рокетт и Негрель, следовательно, представляют собой более поздние расширения города; а земли, на которых они расположены, могли служить местом погребения; древнее кладбище Аккуль, должно быть, охватывало всё это обширное пространство.",
+        "Женщина, одетая как особа знатного положения, восседает с важным видом; рабыня подносит ей ларец; над фигурами — лавровый венок со словом ODEMOS, то есть POPVLVS («народ»). Между венком и фигурами барельефа читаются следующие слова: ARTEMOVN APOLLONIOV IKESIOV DEGVNAIKA, то есть ARTEMONAM APOLLONII ICESII VXOREM; это означает, что народ воздвиг этот памятник Артемоне, жене Аполлония Икесия. Этот барельеф раскрывает нам обычай, принятый в Великой Греции, — обычай венков, присуждаемых от имени граждан тем, кто отличился своими дарованиями или добродетелями (50). Марсельцы сохранили этот национальный обычай, и данный памятник служит тому доказательством. [Высота 3 фута 1 дюйм; ширина 1 фут 4 дюйма 6 линий.]",
+        "(49) Это место ныне находится в черте нового здания Отель-Дьё. — (50) Г-н де Кайлюс привёл гравюры нескольких подобных венков."
+      ],
+      "text_en": [
+        "I have often regretted in the course of this work the beauties that the carelessness of Engravers takes away from monuments. This drawback is more common in the Provinces than in the Capital; the Artists of distinguished merit found there in great numbers are better able to execute faithfully the Engraving of ancient Monuments. The one I describe under this number naturally leads me to these reflections. Though mutilated, it still presents parts worthy of attention, which are not rendered with enough expression in the Engraving.",
+        "This marble bas-relief, an ornament of some tomb, is now in the possession of M. Michel, honorary member of the Academy of Painting. This monument was found on the rue de Negrel, together with others of the same kind; which proves that this ground lay outside the City: the ramparts indeed once ran past the Roche des Moulins, where the great Clock Tower stood (49). The rue de la Roquette and the rue de Negrel are consequently later extensions; and the grounds on which they stand could have served for burial; the old Cemetery of the Accoules must have encompassed this whole vast area.",
+        "A woman dressed as a person of standing sits gravely; a female Slave presents her with a casket; above the figures is a laurel crown, with the word ODEMOS, that is, POPVLVS. Between the crown and the figures of the bas-relief one reads these words: ARTEMOVN APOLLONIOV IKESIOV DEGVNAIKA, that is, ARTEMONAM APOLLONII ICESII VXOREM; meaning that the people erected this monument to Artemon, wife of Apollonius Icesius. This bas-relief reveals to us a custom adopted in Magna Graecia; that of crowns awarded in the name of the Citizens to those who distinguished themselves by their talents or their virtues (50). The people of Marseille had preserved this national custom, and this monument is proof of it. [Height 3 feet 1 inch; width 1 foot 4 inches 6 lines.]",
+        "(49) This site now lies within the grounds of the new Hôtel-Dieu building. — (50) M. de Caylus gave the engravings of several such crowns."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "ΟΔΗΜΟΣ — ΑΡΤΕΜΟΥΝ ΑΠΟΛΛΩΝΙΟΥ ΙΚΕΣΙΟΥ ΔΕΓΥΝΑΙΚΑ",
+      "legend_ru": "ΟΔΗΜΟΣ — ΑΡΤΕΜΟΥΝ ΑΠΟΛΛΩΝΙΟΥ ΙΚΕΣΙΟΥ ΔΕΓΥΝΑΙΚΑ",
+      "legend_en": "ΟΔΗΜΟΣ — ΑΡΤΕΜΟΥΝ ΑΠΟΛΛΩΝΙΟΥ ΙΚΕΣΙΟΥ ΔΕΓΥΝΑΙΚΑ",
+      "findspot_fr": "rue de Negrel",
+      "findspot_ru": "улица Негрель",
+      "findspot_en": "rue de Negrel"
+    },
+    {
+      "id": "pl17-2",
+      "part": 2,
+      "plate": 17,
+      "num": "2-3",
+      "fr": "Cornet à jouer aux dés en os (les deux faces: niche et Harpocrate)",
+      "ru": "Костяной стаканчик для игры в кости (обе стороны: ниша и Гарпократ)",
+      "en": "Bone dice-cup (both faces: a niche, and Harpocrates)",
+      "page": "144",
+      "group": "XVII",
+      "group_fr": "Planche XVII",
+      "group_en": "XVII",
+      "group_page": "143",
+      "flag": "",
+      "type": "object",
+      "material_fr": "os de bœuf",
+      "material_ru": "бычья кость",
+      "material_en": "ox bone",
+      "img": [
+        "pl17-full.jpg"
+      ],
+      "plate_img": "pl17-full.jpg",
+      "bbox": [
+        58.0,
+        2.0,
+        40.0,
+        48.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°.2 & 3. Ces deux numéros présentent les deux faces d'un cornet à jouer aux dez, dont Ruffi a fait mention dans son Histoire de Marseille [51]. Selon ce que rapporte cet Auteur, ce monument fut trouvé dans un jardin de M. de Léon [52]; il étoit fait d'un gros os de bœuf. La partie désignée par le n°.2, représente une corne ou un cornet à bouquin, renfermé dans une sorte de niche d'une Architecture toute bizarre. La partie désignée par le n°.3, offre la figure d'Harpocrate, Divinité du silence; un oiseau est sur son épaule droite: c'est sans doute une chouette que l'Artiste avoit voulu représenter. Cet oiseau étoit un des attributs de Minerve, Déesse de la prudence, & convenoit parfaitement pour Emblème à l'Effigie d'Harpocrate, pour marquer qu'il est prudent de se taire.",
+        "Harpocrate tient le doigt index de la main droite sur la bouche, & de l'autre main il tient une espèce de sceptre, terminé par une pomme de pin; sa tête est ornée d'un bonnet. Dans le cornet que je viens de décrire, on trouva trois osselets, qui, selon Ruffi, paroissoient n'être point naturels, mais imités avec une pierre qu'il nomme fusible [53]; ils étoient marqués de chaque côté de nombres & chiffres anciens: je les ai fait graver sous le n°.4.",
+        "(51) Tom. 2, pag. 314. — (52) Ce jardin étoit situé aux environs de la rue Ste. Barbe. — (53) On croyoit à la fusibilité des Pierres, du temps que Ruffi écrivoit, les progrès de l'Histoire naturelle, en nous guérissant de bien de ridicules & d'erreurs, nous ont appris que la prétendue Pierre fusile étoit un Granit très-commun dans bien de Provinces, & sur-tout en Provence, où le lieu de Calas en offre une carrière très-riche. Le merveilleux des colonnes de la Cathédrale de Marseille, de l'Abbaye de St. Victor, de la Piramide d'Arles, & des colonnes d'Ainay, à Lyon, doit disparoître à l'aspect des carrières les plus voisines de ces Villes où l'on trouve la même qualité de Granit, que celle employée pour ces monumens, dont toute la beauté doit se réduire aux proportions & aux masses."
+      ],
+      "text_ru": [
+        "№ 2 и 3. Эти два номера представляют две стороны стаканчика для игры в кости, который упоминает Рюффи в своей «Истории Марселя» [51]. Согласно сообщению этого автора, этот предмет был найден в саду г-на де Леона [52]; он был изготовлен из крупной бычьей кости. Часть, обозначенная № 2, изображает рог или охотничий рожок, заключённый в своего рода нишу весьма причудливой архитектуры. Часть, обозначенная № 3, представляет фигуру Гарпократа, божества молчания; на его правом плече сидит птица: несомненно, художник хотел изобразить сову. Эта птица была одним из атрибутов Минервы, богини благоразумия, и прекрасно подходила в качестве эмблемы к изображению Гарпократа, обозначая, что благоразумно хранить молчание.",
+        "Гарпократ держит указательный палец правой руки у рта, а в другой руке держит нечто вроде скипетра, увенчанного сосновой шишкой; его голова украшена колпаком. В описанном мною стаканчике были найдены три бабки (астрагала), которые, по словам Рюффи, казались не природными, а имитированными из камня, который он называет «плавким» [53]; с каждой стороны на них были нанесены древние числа и цифры: я велел выгравировать их под № 4.",
+        "(51) Т. 2, с. 314. — (52) Этот сад находился в окрестностях улицы Св. Варвары. — (53) Во времена, когда писал Рюффи, верили в «плавкость» камней; успехи естественной истории, избавив нас от многих нелепостей и заблуждений, научили нас, что так называемый «плавкий камень» был обыкновенным гранитом, весьма распространённым во многих провинциях, и особенно в Провансе, где местность Калас являет весьма богатую его залежь. Чудесность колонн кафедрального собора Марселя, аббатства Сен-Виктор, пирамиды Арля и колонн Эне в Лионе должна исчезнуть при виде ближайших к этим городам карьеров, где находят гранит того же качества, что и употреблённый для этих памятников, вся красота которых должна сводиться лишь к пропорциям и массам."
+      ],
+      "text_en": [
+        "Nos. 2 & 3. These two numbers present the two faces of a dice-cup, which Ruffi mentions in his History of Marseille [51]. According to this Author, this piece was found in a garden belonging to M. de Léon [52]; it was made of a large ox bone. The part marked no. 2 represents a horn or hunting-cup, enclosed in a sort of niche of a thoroughly bizarre Architecture. The part marked no. 3 shows the figure of Harpocrates, the Divinity of silence; a bird sits on his right shoulder: no doubt it is an owl that the Artist meant to represent. This bird was one of the attributes of Minerva, Goddess of prudence, and made a perfectly fitting Emblem for the Effigy of Harpocrates, to signify that it is prudent to keep silent.",
+        "Harpocrates holds the index finger of his right hand to his mouth, and in the other hand holds a kind of scepter, tipped with a pine cone; his head is adorned with a cap. In the cup just described, three knucklebones were found, which, according to Ruffi, appeared not to be natural, but imitated in a stone he calls \"fusile\" [53]; they were marked on each side with ancient numbers and figures: I have had them engraved under no. 4.",
+        "(51) Vol. 2, p. 314. — (52) This garden was situated near the rue Ste. Barbe. — (53) In Ruffi's time it was believed that certain Stones were \"fusile\"; the progress of Natural History, curing us of many absurdities and errors, has taught us that this supposed \"fusile stone\" was an ordinary Granite, very common in many Provinces, and especially in Provence, where the locality of Calas offers a very rich quarry of it. The marvel attributed to the columns of the Cathedral of Marseille, of the Abbey of St. Victor, of the Pyramid of Arles, and of the columns of Ainay at Lyon must vanish at the sight of the quarries nearest these Cities, where the same quality of Granite is found as that used for these monuments, whose whole beauty must be reduced to proportion and mass alone."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "jardin de M. de Léon, environs de la rue Ste. Barbe",
+      "findspot_ru": "сад г-на де Леона, в окрестностях улицы Св. Варвары",
+      "findspot_en": "garden of M. de Léon, near the rue Ste. Barbe"
+    },
+    {
+      "id": "pl17-3",
+      "part": 2,
+      "plate": 17,
+      "num": "4",
+      "fr": "Trois osselets (astragales) à chiffres, trouvés dans le cornet",
+      "ru": "Три бабки (астрагала) с цифрами, найденные в стаканчике",
+      "en": "Three numbered knucklebones (astragali), found inside the cup",
+      "page": "145",
+      "group": "XVII",
+      "group_fr": "Planche XVII",
+      "group_en": "XVII",
+      "group_page": "143",
+      "flag": "",
+      "type": "object",
+      "material_fr": "granit (dit \"pierre fusible\")",
+      "material_ru": "гранит (т.н. «плавкий камень»)",
+      "material_en": "granite (the so-called \"fusile stone\")",
+      "img": [
+        "pl17-full.jpg"
+      ],
+      "plate_img": "pl17-full.jpg",
+      "bbox": [
+        58.0,
+        50.0,
+        40.0,
+        40.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "On retrouve presque toujours des traces de la plupart des usages de l'Antiquité, dans les Nations & les Villes qui datent des temps les plus reculés. Le jeu des Osselets est encore en usage à Marseille parmi les Ecoliers; c'est ce qu'ils nomment le jeu du Gourdou: un des côtés est désigné par le nom de Chin; un autre, par celui de Traou ou Supoun; un troisième, par celui de Gibo; le quatrième, par celui de Senieur; & lorsque l'Ossellet reste droit, c'est pour lors ce qu'ils nomment faire Gourdou. Lorsque tous les Osselets sortent différens, on dit faire Rey, c'est-à-dire, Roi. On ne voit pas beaucoup de différence entre la manière de jouer le jeu des Osselets, pratiquée par les Anciens, & celle conservée par la jeunesse Marseilloise. Ce jeu que les Romains appelloient Ludum Talorum, est d'origine grecque. Homère, dans son Odissée, livre premier, raconte que les Amans de Penelope jouoient aux Osselets devant la porte du Palais d'Ulisse. Les Romains nommoient un des côtés Senio; ce qui revient au Senieur: un autre côté étoit nommé Canis; les enfans disent Chin, c'est-à-dire, Chien: un autre côté étoit désigné par le mot de Supum, c'est le Supoun. Lorsque les Ossellets étoient différens, ce coup que les Grecs nommoient Basileous, étoit nommé Basilicus par les Romains; ce qui revient au Rey, ou Roi de nos enfans.",
+        "Le Cornet que nous venons de décrire, est bien conforme à la description que Juvenal [54] a fait de ces instrumens de jeu. Selon lui, les Cornets étoient ronds en forme de petits tours, plus larges en bas qu'en haut.",
+        "(54) Juvenal, Satyr. 8."
+      ],
+      "text_ru": [
+        "Почти всегда можно найти следы большинства обычаев древности у народов и городов, восходящих к самым отдалённым временам. Игра в бабки до сих пор бытует в Марселе среди школьников; это то, что они называют игрой в «Гурду»: одна сторона кости называется «Шен», другая — «Трау» или «Супун», третья — «Жибо», четвёртая — «Сеньёр»; и когда бабка остаётся стоять прямо, это у них называется «сделать гурду». Когда все кости выпадают разными сторонами, говорят «сделать Рей», то есть «короля». Не видно большой разницы между тем, как играли в бабки древние, и тем, как эта игра сохранилась у марсельской молодёжи. Эта игра, которую римляне называли Ludum Talorum, греческого происхождения. Гомер в первой песни «Одиссеи» рассказывает, что женихи Пенелопы играли в бабки перед дверью дворца Улисса. Римляне называли одну из сторон Senio, что соответствует «Сеньёру»; другая сторона называлась Canis — дети говорят «Шен», то есть «собака»; ещё одна сторона обозначалась словом Supum — это «Супун». Когда кости выпадали разными сторонами, этот бросок, который греки называли Basileous, у римлян назывался Basilicus — что соответствует «Рею», или «королю» наших детей.",
+        "Стаканчик, который мы только что описали, вполне соответствует описанию этих игральных принадлежностей, данному Ювеналом [54]. По его словам, стаканчики были круглыми, в форме маленьких башенок, более широкими снизу, чем сверху.",
+        "(54) Ювенал, Сатира 8."
+      ],
+      "text_en": [
+        "Traces of most customs of Antiquity are found almost everywhere among Nations and Cities dating from the most remote times. The game of Knucklebones is still played at Marseille among Schoolboys; it is what they call the game of Gourdou: one side is called Chin; another, Traou or Supoun; a third, Gibo; the fourth, Senieur; and when the knucklebone lands upright, that is what they call making Gourdou. When all the knucklebones come up different, they say making Rey, that is, King. Little difference is seen between the way of playing the game of Knucklebones as practiced by the Ancients, and that preserved by the youth of Marseille. This game, which the Romans called Ludum Talorum, is of Greek origin. Homer, in the first book of the Odyssey, relates that Penelope's Suitors played Knucklebones before the door of Ulysses's Palace. The Romans called one side Senio, corresponding to Senieur; another side was called Canis — children say Chin, that is, Dog; another side was denoted by the word Supum, which is Supoun. When the knucklebones came up different, the throw the Greeks called Basileous was called Basilicus by the Romans, corresponding to the Rey, or King, of our children.",
+        "The dice-cup just described agrees well with Juvenal's description [54] of these gaming instruments. According to him, the cups were round, shaped like little towers, wider at the bottom than at the top.",
+        "(54) Juvenal, Satire 8."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "jardin de M. de Léon, environs de la rue Ste. Barbe",
+      "findspot_ru": "сад г-на де Леона, в окрестностях улицы Св. Варвары",
+      "findspot_en": "garden of M. de Léon, near the rue Ste. Barbe"
     }
   ]
 }
