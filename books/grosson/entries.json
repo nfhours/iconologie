@@ -11300,6 +11300,238 @@
       "findspot_fr": "devant l'église Saint-Victor",
       "findspot_ru": "перед церковью Сен-Виктор",
       "findspot_en": "before the Church of Saint-Victor"
+    },
+    {
+      "id": "pl40-1",
+      "part": 5,
+      "plate": 40,
+      "num": "1",
+      "fr": "Épitaphe de Licyria, par son amie Iunia Tiranmis",
+      "ru": "Эпитафия Лицирии от её подруги Юнии Тиранмис",
+      "en": "Epitaph of Licyria, by her friend Iunia Tiranmis",
+      "page": "254",
+      "group": "XL",
+      "group_fr": "Planche XL",
+      "group_en": "XL",
+      "group_page": "254",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl40-full.jpg"
+      ],
+      "plate_img": "pl40-full.jpg",
+      "bbox": [
+        18.5,
+        4.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. DIIS MANIBVS LICYRIÆ SEBASTEO IVNIA TIRANMIS AMICÆ MIRENTISSIMÆ.",
+        "C'est-à-dire, Junie de la famille Tiranmis a élevé ce monument aux Dieux Manes de sa très-méritante Amie Licyria de la famille Sebastea, ou Sebastes.",
+        "Sebasteo paroît une faute, en ce qu'il est au datif au lieu d'être au génitif; mais ces fautes sont communes dans le style lapidaire: au reste ce nom est Grec d'origine. Tiranmis paroît un nom Gaulois. Ruffi & Guesnay ont copié Tirannis, c'est une erreur, l'M est bien marqué sur la pierre. Ce nom me paroît Gaulois (23). Mirentissime pour Merentissimae, est encore un usage dans les anciennes inscriptions.",
+        "(23) Plusieurs familles de Provence portent le nom de Tiran, qui est un vestige de celui de TIRANMIS."
+      ],
+      "text_ru": [
+        "№ 1. DIIS MANIBVS LICYRIÆ SEBASTEO IVNIA TIRANMIS AMICÆ MIRENTISSIMÆ.",
+        "То есть: «Юния из рода Тиранмис воздвигла этот памятник богам манам своей достойнейшей подруги Лициии из рода Себастея, или Себастов».",
+        "SEBASTEO представляется ошибкой, поскольку стоит в дательном падеже вместо родительного; но подобные ошибки обычны для лапидарного стиля: впрочем, само это имя греческого происхождения. TIRANMIS кажется галльским именем. Рюффи и Генэ скопировали TIRANNIS — это ошибка, на камне чётко видна буква M. Это имя представляется мне галльским (23). MIRENTISSIME вместо MERENTISSIMAE — также обычное явление в древних надписях.",
+        "(23) Несколько провансальских семейств носят имя Tiran, представляющее собой след имени TIRANMIS."
+      ],
+      "text_en": [
+        "No. 1. DIIS MANIBVS LICYRIÆ SEBASTEO IVNIA TIRANMIS AMICÆ MIRENTISSIMÆ.",
+        "That is: \"Junia of the Tiranmis family erected this monument to the Divine Shades of her most deserving Friend Licyria of the Sebastea, or Sebastes, family.\"",
+        "SEBASTEO appears to be an error, being in the dative instead of the genitive; but such errors are common in the lapidary style: this name is, moreover, of Greek origin. TIRANMIS appears to be a Gaulish name. Ruffi and Guesnay copied it as TIRANNIS, which is an error; the M is clearly marked on the stone. This name seems to me Gaulish (23). MIRENTISSIME for MERENTISSIMAE is likewise a usage found in ancient inscriptions.",
+        "(23) Several Provençal families bear the name Tiran, a vestige of that of TIRANMIS."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M LICYRIAE SEBASTEO IVNI TYRANMIS AMICAE MIRENTISSIMAE",
+      "legend_ru": "D M LICYRIAE SEBASTEO IVNI TYRANMIS AMICAE MIRENTISSIMAE",
+      "legend_en": "D M LICYRIAE SEBASTEO IVNI TYRANMIS AMICAE MIRENTISSIMAE",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl40-2",
+      "part": 5,
+      "plate": 40,
+      "num": "2",
+      "fr": "Épitaphe de Lucius Lucilius Crispus, par son épouse Julia Grata",
+      "ru": "Эпитафия Луция Луцилия Криспа от его супруги Юлии Граты",
+      "en": "Epitaph of Lucius Lucilius Crispus, by his wife Julia Grata",
+      "page": "255",
+      "group": "XL",
+      "group_fr": "Planche XL",
+      "group_en": "XL",
+      "group_page": "254",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl40-full.jpg"
+      ],
+      "plate_img": "pl40-full.jpg",
+      "bbox": [
+        64.5,
+        5.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Le fragment de Cyppe sur lequel étoit gravée cette épitaphe, fut trouvé dans cette place qui est devant les anciennes Infirmeries, à l'endroit vulgairement nommé le Farot (24). On lisoit sur ce Cyppe l'inscription suivante, au rapport de Guesnay: D.M. L. LVCILIO CRISPO MAR. OPT. FIL. LVC. GRATO. FIL. PIISS. IVL. GRATA.",
+        "Il faut suppléer aux abréviations comme il suit: DIIS MANIBVS LVCIO LVCILIO CRISPO MARITO OPTIMO, FILIO LVCII LVCIO GRATO, FILIO PIISSIMO, IVLIA GRATA.",
+        "Il me paroît que cette inscription doit être traduite par ces mots: Aux Dieux Manes, Julia Grata a élevé ce monument à Lucius Lucilius Crispus, fils de Lucius, son très-bon mari & à Lucius Gratus son très-pieux fils. Julia Grata est une épouse & mère en même temps, qui rend les honneurs funèbres à son mari & à son fils. L'emplacement sur lequel a été trouvé ce Cippe, faisoit partie de celui qui contenoit un des plus fameux cimetières des Marseillois, ainsi qu'il a été remarqué dans la dissertation sur la sépulture &c. (25).",
+        "(24) Farot paroît être une corruption de Phare. Il y avoit peut-être anciennement un fanal, posé sur l'éminence de la batterie, ou sur celle du côté opposé, pour éclairer les Navires pendant la nuit. — (25) Page 91 & suivantes."
+      ],
+      "text_ru": [
+        "№ 2. Фрагмент киппы, на которой была высечена эта эпитафия, был найден на площади перед старыми лечебницами, в месте, в просторечии называемом Фаро (24). На этой киппе, по сообщению Генэ, читалась следующая надпись: D.M. L. LVCILIO CRISPO MAR. OPT. FIL. LVC. GRATO. FIL. PIISS. IVL. GRATA.",
+        "Сокращения следует восполнить так: DIIS MANIBVS LVCIO LVCILIO CRISPO MARITO OPTIMO, FILIO LVCII LVCIO GRATO, FILIO PIISSIMO, IVLIA GRATA.",
+        "Мне представляется, что эту надпись следует переводить так: «Богам манам, Юлия Грата воздвигла этот памятник Луцию Луцилию Криспу, сыну Луция, своему наилучшему мужу, и Луцию Грату, своему преблагочестивому сыну». Юлия Грата — супруга и одновременно мать, воздающая погребальные почести своему мужу и своему сыну. Место, где была найдена эта киппа, входило в состав того участка, что содержал одно из самых знаменитых марсельских кладбищ, как было отмечено в рассуждении о погребениях и т. д. (25).",
+        "(24) Farot, по-видимому, искажение слова Phare («маяк»). Возможно, в древности на возвышении батареи либо на противоположной стороне стоял фонарь, освещавший ночью корабли. — (25) С. 91 и далее."
+      ],
+      "text_en": [
+        "No. 2. The fragment of a Cippus bearing this epitaph was found on the square before the old Infirmaries, at the spot commonly called le Farot (24). On this Cippus, according to Guesnay, the following inscription was read: D.M. L. LVCILIO CRISPO MAR. OPT. FIL. LVC. GRATO. FIL. PIISS. IVL. GRATA.",
+        "The abbreviations should be expanded as follows: DIIS MANIBVS LVCIO LVCILIO CRISPO MARITO OPTIMO, FILIO LVCII LVCIO GRATO, FILIO PIISSIMO, IVLIA GRATA.",
+        "It seems to me this inscription should be translated thus: \"To the Divine Shades, Julia Grata erected this monument to Lucius Lucilius Crispus, son of Lucius, her very good husband, and to Lucius Gratus, her most dutiful son.\" Julia Grata is both wife and mother, rendering funerary honors to her husband and her son. The site where this Cippus was found formed part of the ground containing one of the most famous cemeteries of the Marseillais, as noted in the dissertation on burial, etc. (25).",
+        "(24) Farot appears to be a corruption of Phare (\"lighthouse\"). There may anciently have been a beacon set on the rise of the battery, or on the one opposite, to light ships at night. — (25) P. 91 and following."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M L LVCILIO CRISPO MAR OPT FIL LVC GRATO FIL PIISS IVL GRATA",
+      "legend_ru": "D M L LVCILIO CRISPO MAR OPT FIL LVC GRATO FIL PIISS IVL GRATA",
+      "legend_en": "D M L LVCILIO CRISPO MAR OPT FIL LVC GRATO FIL PIISS IVL GRATA",
+      "findspot_fr": "place devant les anciennes Infirmeries (le Farot)",
+      "findspot_ru": "площадь перед старыми лечебницами (Фаро)",
+      "findspot_en": "the square before the old Infirmaries (le Farot)"
+    },
+    {
+      "id": "pl40-3",
+      "part": 5,
+      "plate": 40,
+      "num": "3",
+      "fr": "Épitaphe de Marcius Eutyches, par son père Lenaeus",
+      "ru": "Эпитафия Марция Эвтиха от его отца Ленея",
+      "en": "Epitaph of Marcius Eutyches, by his father Lenaeus",
+      "page": "256",
+      "group": "XL",
+      "group_fr": "Planche XL",
+      "group_en": "XL",
+      "group_page": "254",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "pierre de taille ordinaire",
+      "material_ru": "обычный тёсаный камень",
+      "material_en": "ordinary cut stone",
+      "img": [
+        "pl40-full.jpg"
+      ],
+      "plate_img": "pl40-full.jpg",
+      "bbox": [
+        25.5,
+        80.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. L'inscription désignée par ce numéro, est gravée sur une tablette de pierre de taille ordinaire. Elle est incrustée sur le mur de l'Abbaye St. Victor, à gauche de la principale porte d'entrée de l'Eglise supérieure. On y lit: D.M. MARCII LENAEVS E TYCHECIA DEO FILIO PIENTISSIMO.",
+        "Lenaeus a élevé ce monument aux Dieux Manes de Marcius & Etyches [Eutyches] à Jadéus son fils très-respectueux; M. de Caylus, à qui on avoit envoyé la copie de cette épitaphe en 1763, lorsqu'elle fut découverte, a mis un L à la place du second I du mot MARCII. C'est une erreur du copiste. L'inscription est encore aussi bien conservée qu'elle l'étoit; on n'y voit aucune mutilation; le fond en est très-net, & il ne s'y trouve aucune trace de la ligne horisontale qui feroit un L de l'I. ETYCHES est un nom Grec d'origine, mais le Sculpteur avoit fait la faute de manquer l'V; on doit lire EVTYCHES, que j'ai remarqué être un nom très-connu dans Marseille ancienne. [Hauteur 21 pouces 6 lignes; largeur 15 pouces.]"
+      ],
+      "text_ru": [
+        "№ 3. Надпись, обозначенная этим номером, высечена на табличке из обычного тёсаного камня. Она вделана в стену аббатства Сен-Виктор, слева от главного входного портала верхней церкви. На ней читается: D.M. MARCII LENAEVS E TYCHECIA DEO FILIO PIENTISSIMO.",
+        "Леней воздвиг этот памятник богам манам Марция и Этиха [Эвтиха], своему весьма почтительному сыну Жадею; г-н де Кайлюс, которому в 1763 году, при открытии этой эпитафии, была послана её копия, поставил букву L вместо второй буквы I в слове MARCII. Это ошибка переписчика. Надпись сохранилась так же хорошо, как и прежде; на ней не видно никаких повреждений; фон её весьма чист, и на ней нет никакого следа горизонтальной черты, которая превратила бы I в L. ETYCHES — имя греческого происхождения, но резчик допустил ошибку, пропустив V; следует читать EVTYCHES — имя, которое, как я заметил, было весьма известно в древнем Марселе. [Высота 21 дюйм 6 линий; ширина 15 дюймов.]"
+      ],
+      "text_en": [
+        "No. 3. The inscription marked by this number is engraved on a tablet of ordinary cut stone. It is embedded in the wall of the Abbey of St. Victor, to the left of the main entrance door of the upper Church. On it one reads: D.M. MARCII LENAEVS E TYCHECIA DEO FILIO PIENTISSIMO.",
+        "Lenaeus erected this monument to the Divine Shades of Marcius and Etyches [Eutyches], to his most dutiful son Jadeus; M. de Caylus, to whom a copy of this epitaph was sent in 1763 when it was discovered, put an L in place of the second I in the word MARCII. This is a copyist's error. The inscription is as well preserved as it ever was; no mutilation is seen on it; its surface is very clean, and there is no trace whatsoever of the horizontal stroke that would turn the I into an L. ETYCHES is a name of Greek origin, but the Sculptor made the error of omitting the V; it should read EVTYCHES, a name I have noted to be very well known in ancient Marseille. [Height 21 inches 6 lines; width 15 inches.]"
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M MARCII LENAEVS E TYCHECIA DEO FILIO PIENTISSIMO",
+      "legend_ru": "D M MARCII LENAEVS E TYCHECIA DEO FILIO PIENTISSIMO",
+      "legend_en": "D M MARCII LENAEVS E TYCHECIA DEO FILIO PIENTISSIMO",
+      "findspot_fr": "mur de l'abbaye Saint-Victor",
+      "findspot_ru": "стена аббатства Сен-Виктор",
+      "findspot_en": "the wall of the Abbey of Saint-Victor"
+    },
+    {
+      "id": "pl40-4",
+      "part": 5,
+      "plate": 40,
+      "num": "4",
+      "fr": "Épitaphe de Decimus Marcius, par Caius Ingenuus",
+      "ru": "Эпитафия Децимуса Марция от Гая Ингенуя",
+      "en": "Epitaph of Decimus Marcius, by Caius Ingenuus",
+      "page": "257",
+      "group": "XL",
+      "group_fr": "Planche XL",
+      "group_en": "XL",
+      "group_page": "254",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "pierre de taille ordinaire",
+      "material_ru": "обычный тёсаный камень",
+      "material_en": "ordinary cut stone",
+      "img": [
+        "pl40-full.jpg"
+      ],
+      "plate_img": "pl40-full.jpg",
+      "bbox": [
+        64.5,
+        74.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4. L'épitaphe suivante, sculptée sur une tablette en pierre de taille ordinaire, est placée dans l'angle qui est à côté du portail de l'Eglise supérieure de St. Victor. On y lit: D.M. D. MARCI C. INGEN FILIO PIISSIMO AN XXII.",
+        "Il me paroît qu'on doit interpréter ainsi les abréviations DIIS MANIBUS DECIMO MARCIO, CAIVS INGENVVS FILIO PIISSIMO ANNORVM XXII. Caius l'Ingénu [c'est-à-dire, petit fils d'Affranchi] a élevé ce monument à Decimus Marcius son très-pieux fils; mort à l'âge de vingt-deux ans. Ce monument qui est très-bien conservé, a 25 pouces de haut sur 17 de large."
+      ],
+      "text_ru": [
+        "№ 4. Следующая эпитафия, высеченная на табличке из обычного тёсаного камня, помещена в углу рядом с порталом верхней церкви Сен-Виктора. На ней читается: D.M. D. MARCI C. INGEN FILIO PIISSIMO AN XXII.",
+        "Мне представляется, что сокращения следует толковать так: DIIS MANIBUS DECIMO MARCIO, CAIVS INGENVVS FILIO PIISSIMO ANNORVM XXII. «Гай Ингенуй [то есть внук вольноотпущенника] воздвиг этот памятник Децимусу Марцию, своему преблагочестивому сыну, скончавшемуся в возрасте двадцати двух лет». Этот памятник, прекрасно сохранившийся, имеет 25 дюймов в высоту и 17 в ширину."
+      ],
+      "text_en": [
+        "No. 4. The following epitaph, carved on a tablet of ordinary cut stone, stands in the corner beside the doorway of the upper Church of St. Victor. On it one reads: D.M. D. MARCI C. INGEN FILIO PIISSIMO AN XXII.",
+        "It seems to me the abbreviations should be interpreted thus: DIIS MANIBUS DECIMO MARCIO, CAIVS INGENVVS FILIO PIISSIMO ANNORVM XXII. \"Caius Ingenuus [that is, grandson of a Freedman] erected this monument to Decimus Marcius, his most dutiful son, who died at the age of twenty-two.\" This very well-preserved monument is 25 inches high by 17 wide."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M D MARCI C INGEN FILIO PIISSIMO AN XXII",
+      "legend_ru": "D M D MARCI C INGEN FILIO PIISSIMO AN XXII",
+      "legend_en": "D M D MARCI C INGEN FILIO PIISSIMO AN XXII",
+      "findspot_fr": "portail de l'église supérieure de Saint-Victor",
+      "findspot_ru": "портал верхней церкви Сен-Виктор",
+      "findspot_en": "the doorway of the upper Church of Saint-Victor"
     }
   ]
 }
