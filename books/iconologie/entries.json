@@ -17476,12 +17476,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-199.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Золотая корона",
+          "meaning": "внешний блеск мирского счастья",
+          "what_en": "Golden crown",
+          "meaning_en": "the outward splendour of worldly happiness"
+        },
+        {
+          "what": "Скипетр, опирающийся на цветущее растение",
+          "meaning": "власть и процветание, недолговечные, как цветок",
+          "what_en": "Sceptre resting on a flowering plant",
+          "meaning_en": "power and prosperity as short-lived as a flower"
+        },
+        {
+          "what": "Чаша с драгоценностями и золотом",
+          "meaning": "мирские богатства, увядающие как цветок от вечера до утра",
+          "what_en": "Basin full of jewels and gold coins",
+          "meaning_en": "worldly riches that fade like a flower from evening to morning"
+        }
+      ],
+      "text_ru": [
+        "Эта великолепно одетая дама, с золотой короной на голове, со скипетром в правой руке, который она опирает на растение, только начинающее цвести, и с чашей, полной драгоценных камней и золотых монет в левой руке, представляет Мирское Счастье. Ибо всем этим обозначено,",
+        "что оно увядает, как цветок, и проходит от вечера до утра, а весь его блеск есть лишь видимость и недолговечная показуха."
+      ],
+      "text_fr": [
+        "Cette dame superbement vêtuë, ayant vne couronne d'or sur la teste, vn sceptre à la main droite, qu'elle appuye sur vne plante qui commence à fleurir, & en la gauche vn bassin plein de pierreries & de pieces d'or, represente la Felicité du monde. Car il est signifié par toutes ces",
+        "choses, qu'elle se flétrit comme vne fleur, & se passe du soir au matin, tout son éclat n'estant qu'apparence & qu'ostentation de peu de durée."
+      ],
       "en": "Worldly Felicity",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-199-1.jpg",
+        "p2-199-2.jpg"
+      ]
     },
     {
       "id": "p2-200",
@@ -17494,12 +17525,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-200.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Журавлиная шея",
+          "meaning": "желание дольше и изысканнее наслаждаться вином и яствами",
+          "what_en": "Crane's neck",
+          "meaning_en": "the wish to savour wine and food longer and more exquisitely"
+        },
+        {
+          "what": "Большой живот",
+          "meaning": "ненасытность, думающая лишь о том, чтобы разжиреть",
+          "what_en": "Swollen belly",
+          "meaning_en": "an insatiability bent only on growing fat"
+        },
+        {
+          "what": "Свинья рядом",
+          "meaning": "уподобление животному, откармливающему себя",
+          "what_en": "Pig beside her",
+          "meaning_en": "a likeness to the beast that fattens itself"
+        }
+      ],
+      "text_ru": [
+        "Чревоугодие в действительности именно таково, каким оно предстаёт в этом образе. У него журавлиная шея, дабы дольше и изысканнее вкушать вино и яства, которые оно держит в обеих руках; а поскольку оно ненасытно, неудивительно, что у него такой большой живот, ведь оно думает лишь о том, чтобы разжиреть, подражая свинье, которая его сопровождает."
+      ],
+      "text_fr": [
+        "La Gourmandise est en effet telle qu'on la voit dans cette figure. Elle a vn col de gruë, pour goûter plus long-temps & plus delicieusement le vin & les viandes, qu'elle tient en l'vne & en l'autre main; & comme elle est insatiable, ce n'est pas merveille si elle a le ventre si gros, veu qu'elle ne pense qu'à s'engraisser, à l'imitation du pourceau qui l'accompagne."
+      ],
       "en": "Gluttony",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-200-1.jpg",
+        "p2-200-2.jpg"
+      ]
     },
     {
       "id": "p2-201",
@@ -17512,12 +17572,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-201.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Старческий облик",
+          "meaning": "ереси существуют испокон веков",
+          "what_en": "Her aged appearance",
+          "meaning_en": "heresies have existed since time immemorial"
+        },
+        {
+          "what": "Пламя изо рта",
+          "meaning": "ложное учение и смута, которые она разжигает",
+          "what_en": "Flame issuing from her mouth",
+          "meaning_en": "the false doctrine and sedition she kindles"
+        },
+        {
+          "what": "Растрёпанные волосы",
+          "meaning": "распространение ложных мнений во все стороны",
+          "what_en": "Dishevelled hair",
+          "meaning_en": "false opinions spreading in every direction"
+        },
+        {
+          "what": "Нагота",
+          "meaning": "лишённость всякой добродетели",
+          "what_en": "Nakedness",
+          "meaning_en": "being stripped of all virtue"
+        },
+        {
+          "what": "Змеи, выползающие из книги в руке",
+          "meaning": "заразность ложных наставлений, опаснее яда аспидов и драконов",
+          "what_en": "Snakes slithering from the book in her hand",
+          "meaning_en": "the contagion of her false teachings, more dangerous than the venom of asps and dragons"
+        }
+      ],
+      "text_ru": [
+        "Ересь есть заблуждение ума, к которому воля упрямо привязывается, вопреки истинной вере, которую должно иметь. Она изображена старой, дабы показать, что еретики существуют не с сегодняшнего дня — те, кто тщится, но тщетно, поколебать основания Религии. Пламенем, исходящим из её уст, показано, что она разом провозглашает ложное учение и смуту, разжигателем коей она является; растрёпанными волосами — что ложные мнения распространяются во все стороны; наготой — что она лишена всякой добродетели; а разными змеями, выползающими из книги, которую она держит в руке, — что ложные наставления, которые она даёт, несравненно заразнее яда аспидов и драконов, сколь бы опасен и вреден он ни был."
+      ],
+      "text_fr": [
+        "L'Heresie est vne erreur de l'esprit, à laquelle la volonté s'attache opiniatrément, contre la vraye creance qu'il faut avoir. Elle est peinte vieille, pour montrer que ce n'est pas d'aujourd'huy qu'il y a des heretiques, qui s'efforcent, mais en vain, d'ébranler les fondemens de la Religion. Par la flamme qui sort de sa bouche, il est demontré qu'elle publie ensemble la fausse doctrine & la sedition, dont elle est le sanglant boute-feu; par les cheveux épars, que les fausses opinions s'épandent de tous costez; par la nudité, qu'elle est dépouillée de toute vertu; & par les divers serpens qui sortent du livre qu'elle tient en main, que les fausses instructions qu'elle donne sont incomparablement plus contagieuses que n'est le venin des aspics & des dragons, quelque dangereux & nuisible qu'il puisse estre."
+      ],
       "en": "Heresy",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-201-1.jpg",
+        "p2-201-2.jpg"
+      ]
     },
     {
       "id": "p2-202",
@@ -17530,12 +17631,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-202.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Бледный, изнурённый облик",
+          "meaning": "напускное умерщвление плоти для обмана других",
+          "what_en": "Pale, haggard appearance",
+          "meaning_en": "a pretence of mortifying the flesh, meant to deceive others"
+        },
+        {
+          "what": "Чёрное покрывало на голове",
+          "meaning": "напускная набожность",
+          "what_en": "Black veil on her head",
+          "meaning_en": "a show of piety"
+        },
+        {
+          "what": "Залатанное платье",
+          "meaning": "показная бедность и смирение",
+          "what_en": "Patched robe",
+          "meaning_en": "a display of poverty and humility"
+        },
+        {
+          "what": "Чётки, молитвенник и подаяние нищему на людях",
+          "meaning": "показная набожность и милосердие",
+          "what_en": "Rosary, prayer book, and alms given to a beggar in public",
+          "meaning_en": "ostentatious piety and charity"
+        },
+        {
+          "what": "Волчьи лапы",
+          "meaning": "хищная, лицемерная природа под личиной агнца",
+          "what_en": "Wolf's feet",
+          "meaning_en": "a ravenous, hypocritical nature beneath the guise of a lamb"
+        }
+      ],
+      "text_ru": [
+        "Посмотрите, можно ли вообразить что-либо более обманчивое, нежели Лицемерие. Оно бледно и изнурено, дабы показать, что если оно умерщвляет плоть, то лишь затем, чтобы вернее обмануть других пустой видимостью. По той же причине оно покрывает голову чёрным покрывалом, а тело — платьем, сплошь залатанным, держа в одной руке чётки и молитвенник, а другой подавая милостыню нищему на глазах у всех: это оно делает, дабы казаться внешне агнцем, тогда как внутри — хищным волком. Вот почему не без причины ей здесь даны волчьи лапы."
+      ],
+      "text_fr": [
+        "Voyez vn peu s'il se peut rien imaginer de plus trompeur que l'Hypocrisie. Elle est pasle & defaite, pour montrer que si elle se mortifie, c'est pour mieux decevoir autruy par vne vaine apparence. Aussi est-ce pour la mesme raison qu'elle se couvre la teste d'vn voile noir, & le corps d'vne robe toute rapiecée, tenant d'vne main vn chapelet & vn livre de prieres, & de l'autre donnant l'aumône à vn pauvre devant tout le monde: ce qu'elle fait afin de paroistre en l'exterieur telle qu'vn agneau, quoique par dedans elle soit vn loup ravissant: Voilà pourquoy ce n'est pas sans cause qu'on luy en donne icy les pieds."
+      ],
       "en": "Hypocrisy",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-202-1.jpg",
+        "p2-202-2.jpg"
+      ]
     },
     {
       "id": "p2-203",
@@ -20346,12 +20488,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-259.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Зеркало в руке",
+          "meaning": "ум удерживает образы и идеи, подобно отражению в зеркале",
+          "what_en": "Mirror in her hand",
+          "meaning_en": "the mind retains images and ideas, as a mirror holds a reflection"
+        },
+        {
+          "what": "Маленькая собачка",
+          "meaning": "лёгкость, с которой можно наставлять и обучать восприимчивый ум",
+          "what_en": "Small dog",
+          "meaning_en": "the ease with which a receptive mind can be instructed and trained"
+        }
+      ],
+      "text_ru": [
+        "Желание, будучи собственно пылкой страстью, которую питают к чему-либо, — желание учиться, свойственное большинству людей, — неслучайно обозначено женщиной, которой дают держать в одной руке зеркало, а в другой — маленькую собачку; этим обозначено,",
+        "что подобно тому, как зеркало являет образы противостоящих ему вещей, так и ум равным образом удерживает идеи того, что ему показывают; к этому можно добавить, что собака — ещё один символ, оттого что она с величайшей лёгкостью позволяет себя наставлять и обучать своему хозяину."
+      ],
+      "text_fr": [
+        "Le desir estant proprement vne ardente passion que l'on a pour quelque chose, celuy d'apprendre, qui est naturel à la pluspart des hommes, n'est pas dénoté sans cause par vne femme, à qui l'on fait tenir vn miroir d'vne main, & de l'autre vn petit chien; par où il est signifié",
+        "que comme le miroir represente les images des choses qui luy sont opposées, l'esprit tout de mesme retient les idées de ce qu'on luy montre; dequoy l'on peut dire que le chien est encore vn symbole, dautant qu'il se laisse instruire & dresser à son maistre avec vne tres-grande facilité."
+      ],
       "en": "Desire to Learn",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-259-1.jpg",
+        "p2-259-2.jpg"
+      ]
     },
     {
       "id": "p2-260",
@@ -20364,12 +20531,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-260.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Скипетр с открытой рукой на конце",
+          "meaning": "величие и проворство, трудолюбие и ловкость; пробуждение трудолюбия подданных — дело Государей",
+          "what_en": "Sceptre tipped with an open hand",
+          "meaning_en": "grandeur and swiftness, industry and skill; rousing subjects' industry is the Sovereign's task"
+        },
+        {
+          "what": "Рука как таинственный символ",
+          "meaning": "Орудие Орудий (по Аристотелю), которым достигают успеха в большинстве искусств",
+          "what_en": "The hand as a mysterious symbol",
+          "meaning_en": "the Instrument of Instruments (per Aristotle), by which most arts are mastered"
+        },
+        {
+          "what": "Око посреди руки",
+          "meaning": "надзор над трудолюбием всех мастеровых, направляющий их руку",
+          "what_en": "Eye set in the hand",
+          "meaning_en": "oversight of every workman's industry, guiding his hand"
+        }
+      ],
+      "text_ru": [
+        "Она познаётся здесь через образ женщины, которая в правой руке держит скипетр, на конце которого видна открытая рука, а посередине — око.",
+        "Скипетр — знак величия и проворства, как и рука — другой знак Трудолюбия и ловкости; это означает, что лишь Государям подобает пробуждать Трудолюбие своих подданных, давая им средства существования своей щедростью; что они могут делать, когда им угодно, и тем самым вводить в честь искусства и науки.",
+        "Рука, оканчивающаяся скипетром, по Артемидору, есть ещё и таинственный символ человеческого Трудолюбия, ибо верно, что именно ею достигают успеха в большинстве искусств; по этой причине Аристотель по праву называет её Орудием Орудий.",
+        "Что же до ока, я полагаю, что оно помещено здесь, дабы дать понять, что именно оно главным образом управляет Трудолюбием всех Мастеровых и направляет их руку."
+      ],
+      "text_fr": [
+        "Elle se donne à connoistre icy par l'image d'vne femme, qui de la main droite tient vn sceptre, au bout duquel se voit vne main ouverte, & vn œil au milieu.",
+        "Le sceptre est vne marque de grandeur & de promptitude, comme la main en est vn autre d'Industrie & d'adresse; ce qui signifie qu'il n'appartient qu'aux Souverains de réveiller l'Industrie de leurs sujets, en leur donnant dequoy subsister par leur generosité; ce qu'ils peuvent faire quand il leur plaist, & par ce moyen mettre en credit les arts & les sciences.",
+        "La main qui aboutit à vn sceptre est encore, selon Artemidore, vn mysterieux symbole de l'Industrie humaine, estant veritable que c'est par elle-mesme qu'on vient à bout de la pluspart des arts; à raison dequoy elle est à bon droit appellée par Aristote, l'Instrument des Instrumens.",
+        "Pour ce qui est de l'œil, je croy qu'il est icy mis pour donner à entendre que c'est luy principalement qui preside à l'Industrie de tous les Ouvriers, & qui leur guide la main."
+      ],
       "en": "Industry",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-260-1.jpg",
+        "p2-260-2.jpg"
+      ]
     },
     {
       "id": "p2-261",
@@ -20382,12 +20584,42 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-261.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Циркуль и линейка",
+          "meaning": "точность исполнения замысла, подобно добрым примерам, ведущим к истинной цели",
+          "what_en": "Compass and ruler",
+          "meaning_en": "the precise execution of a design, like good examples leading to one's true goal"
+        },
+        {
+          "what": "Журавль с камешком в лапе",
+          "meaning": "эмблема Рассудительности — верная середина полёта, не слишком высоко и не слишком низко (по Алциату)",
+          "what_en": "Crane holding a pebble in its foot",
+          "meaning_en": "the emblem of Prudence — flying neither too high nor too low (per Alciato)"
+        }
+      ],
+      "text_ru": [
+        "Её эмблема — юная женщина, которая в правой руке держит циркуль, а в левой —",
+        "линейку, кроме того, с одной её стороны видна летящая в воздухе журавль, держащая камешек в одной из своих ног.",
+        "Линейка и циркуль, которые ей даны, означают, что подобно тому, как с помощью этих инструментов превосходные Мастера с точностью исполняют труд, замысел которого они составили в своём уме, так и добрыми примерами и благотворными наставлениями прямо приходят к истинной цели, которую себе поставили.",
+        "Истинной эмблемой этой Рассудительности, или, если угодно, этой Осмотрительности, о которой мы здесь говорим, служит журавль, приведённый Алциатом в стихах, переведённых так:\n«Дабы не взмывать полётом ни слишком высоко, ни слишком низко,\nЖуравль несёт камешки в своих лапах;\nИ этим противовесом он делается сильнее,\nЧтобы не дать себе упасть вниз»."
+      ],
+      "text_fr": [
+        "Elle a pour emblême vne jeune femme, qui de la main droite tient vn compas, & de la gauche vne",
+        "regle, outre qu'en l'vn de ses costez se voit vne gruë en l'air, tenant vn caillou en l'vn de ses pieds.",
+        "La regle & le compas qu'on luy donne, signifient que comme par le moyen de ces instrumens les excellens Maîtres font avec justesse l'ouvrage dont ils se sont formé l'idée dans leur esprit; ainsi par les bons exemples & les instructions salutaires on arrive droit à la vraye fin que l'on s'est proposée.",
+        "De cette consideration, ou si vous voulez de cette prudence dont nous entendons parler icy, la gruë est le vray emblême, rapporté par Alciat par des vers ainsi traduits,\nPour n'élever son vol ny trop haut ny trop bas,\nLa gruë a des cailloux qu'en ses pieds elle porte;\nEt par ce contre-poids elle se rend plus forte,\nPour s'empescher de choir en bas."
+      ],
       "en": "Consideration",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-261-1.jpg",
+        "p2-261-2.jpg",
+        "p2-261-3.jpg"
+      ]
     },
     {
       "id": "p2-262",
@@ -20400,12 +20632,46 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-262.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Платье, усеянное нотами, с надписью PAR ET IMPAR",
+          "meaning": "Арифметика открывает путь музыке, геометрии и прочим дисциплинам",
+          "what_en": "Robe strewn with musical notes and inscribed PAR ET IMPAR",
+          "meaning_en": "Arithmetic opens the way to music, geometry and the other kindred disciplines"
+        },
+        {
+          "what": "Раскрытая книга с числами",
+          "meaning": "сила чисел, на которой зиждутся все доказательства",
+          "what_en": "Open book of numbers",
+          "meaning_en": "the power of numbers, on which every proof rests"
+        },
+        {
+          "what": "Красота облика",
+          "meaning": "мнение пифагорейцев, что все вещи слагаются из красоты и совершенства чисел",
+          "what_en": "Her beauty",
+          "meaning_en": "the Pythagorean belief that all things are composed of the beauty and perfection of numbers"
+        }
+      ],
+      "text_ru": [
+        "Неплохо являет её этот образ — в облике женщины превосходной красоты, приятно одетой в платье, усеянное нотами, посреди которого написаны два слова: PAR ET IMPAR («ЧЁТ И НЕЧЁТ»); кроме того, в правой руке она держит раскрытую книгу, числа которой рассматривает.",
+        "Её изображают прекрасной, сообразуясь с мнением некоторых древних Философов, и в особенности Пифагорейцев, которые полагали, что все здешние вещи слагаются из красоты и совершенства чисел. Что до её платья и нот, которые на нём видны, это означает, что это прекрасное искусство даёт начало Математике, оттого что именно оно открывает путь музыке, геометрии и всем прочим подобным дисциплинам: на что также некоторым образом указывают два слова PAR ET IMPAR,",
+        "будучи существенными для чисел, из которых слагаются все доказательства: к чему добавлю в заключение, что раскрытой книгой, усеянной цифрами, которую она держит в руках, объявлена сила чисел: откуда и Прокл в толковании на платоновского «Тимея» говорит об этом, что Пифагорейцы привели для этого в основание четыре главные причины, из коих первая зовётся голосовой, обретаемой в музыке и в стихах Поэтов; вторая — природной, в устроении вещей мира; третья — разумной, в душе и её частях; а четвёртая — Божественной, в Боге и Ангелах: чего должно быть достаточно по этому предмету, который я не стану распространять далее, дабы не сделаться скучным, а, может быть, и тёмным."
+      ],
+      "text_fr": [
+        "Ce tableau ne la represente pas mal par vne femme d'excellente beauté, agreablement vestuë d'vne robe semée de notes de musique, au milieu de laquelle sont écrits ces deux mots, PAR ET IMPAR; outre que de la main droite elle tient vn livre ouvert, dont elle considere les nombres.",
+        "Elle est peinte belle, pour s'accommoder à l'opinion de quelques anciens Philosophes, & particulierement des Pythagoriciens, qui ont creu que toutes les choses d'icy bas se composoient de la beauté & de la perfection des nombres. Pour le regard de sa robe & des notes qui s'y voyent dessus, cela signifie que ce bel art donne commencement aux Mathematiques, dautant que c'est luy qui ouvre vn chemin à la musique, à la geometrie, & à toutes les autres disciplines semblables: ce que denotent encore en quelque façon les deux mots PAR ET IMPAR,",
+        "pour estre essentiels aux nombres, & d'où se composent toutes les demonstrations: à quoy j'ajoûte pour conclusion, que par le livre ouvert & semé de chiffres qu'elle tient entre ses mains, est declarée la force des nombres: d'où vient que Proclus sur le Thimée de Platon, dit à ce propos, que les Pythagoriciens en ont rapporté pour fondemens quatre raisons principales, dont la premiere est dite vocale, qui se trouve dans la musique & dans les vers des Poëtes; la seconde naturelle, en la composition des choses du monde; la troisiéme raisonnable en l'ame & en ses parties; & la quatriéme Divine, en Dieu & aux Anges: ce qui doit suffire sur cette matiere, que je n'étendray point plus avant, pour ne me rendre ennuyeux, & possible obscur."
+      ],
       "en": "Arithmetic",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-262-1.jpg",
+        "p2-262-2.jpg",
+        "p2-262-3.jpg"
+      ]
     }
   ]
 }
