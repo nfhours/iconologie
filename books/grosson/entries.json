@@ -7397,6 +7397,168 @@
       "findspot_fr": "jardin potager de M. le Prévôt de l'Église de Marseille",
       "findspot_ru": "огородный сад г-на прево Марсельской церкви",
       "findspot_en": "the kitchen garden of the Provost of the Church of Marseille"
+    },
+    {
+      "id": "pl24-1",
+      "part": 2,
+      "plate": 24,
+      "num": "1",
+      "fr": "Colonne grotesque de l'autel de Saint-Lazare",
+      "ru": "Гротескная колонна алтаря Св. Лазаря",
+      "en": "Grotesque-carved column of the Altar of St. Lazarus",
+      "page": "170",
+      "group": "XXIV",
+      "group_fr": "Planche XXIV",
+      "group_en": "XXIV",
+      "group_page": "170",
+      "flag": "",
+      "type": "architectural fragment",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl24-full.jpg"
+      ],
+      "plate_img": "pl24-full.jpg",
+      "bbox": [
+        38.0,
+        2.0,
+        20.0,
+        96.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LA Colonne de marbre blanc dans le genre des Grotesques, désignée par le No. 1, décore l'Autel dédié à St. Lazare dans l'Église Cathédrale, ainsi que les pilastres représentés dans la planche précédente. On reconnoît dans ce Monument les indices certains de l'antique; c'est encore un des morceaux trouvés dans les vestiges d'édifice qui étoient aux environs de l'Eglise actuelle; les figures & les fruits dont cette Colonne est ornée, ont de tout temps fixé l'attention des connoisseurs."
+      ],
+      "text_ru": [
+        "Колонна из белого мрамора в гротескном роде, обозначенная № 1, украшает алтарь, посвящённый Св. Лазарю, в кафедральной церкви, равно как и пилястры, представленные на предыдущей таблице. В этом памятнике узнаются несомненные признаки античности; это ещё один из фрагментов, найденных среди остатков здания, некогда находившегося в окрестностях нынешней церкви; фигуры и плоды, которыми украшена эта колонна, во все времена привлекали внимание знатоков."
+      ],
+      "text_en": [
+        "The column of white marble in the Grotesque style, marked no. 1, adorns the Altar dedicated to St. Lazarus in the Cathedral Church, as do the pilasters shown in the preceding plate. This monument bears certain marks of antiquity; it is likewise one of the pieces found among the remains of a building that once stood near the present Church; the figures and fruits with which this Column is adorned have at all times drawn the attention of connoisseurs."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "ruines aux environs de la Cathédrale",
+      "findspot_ru": "развалины близ Кафедрального собора",
+      "findspot_en": "ruins near the Cathedral"
+    },
+    {
+      "id": "pl24-2",
+      "part": 2,
+      "plate": 24,
+      "num": "2",
+      "fr": "Frise en marbre, remployée à la chapelle Saint-Lazare",
+      "ru": "Мраморный фриз, вторично использованный в часовне Св. Лазаря",
+      "en": "Marble frieze, reused in the chapel of St. Lazarus",
+      "page": "170",
+      "group": "XXIV",
+      "group_fr": "Planche XXIV",
+      "group_en": "XXIV",
+      "group_page": "170",
+      "flag": "",
+      "type": "architectural fragment",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl24-full.jpg"
+      ],
+      "plate_img": "pl24-full.jpg",
+      "bbox": [
+        2.0,
+        2.0,
+        18.0,
+        96.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Frise en marbre blanc récupérée des mêmes vestiges que le Monument précédent: elle est dégradée par quelques fractures; mais malgré cette défectuosité, il n'y manqueroit qu'un peu plus de relief, pour en faire un morceau achevé: on s'en est servi pour un des Pilastres de la chapelle de St. Lazare, dans l'Eglise Cathédrale."
+      ],
+      "text_ru": [
+        "№ 2. Фриз из белого мрамора, взятый из тех же остатков, что и предыдущий памятник: он повреждён несколькими трещинами; но, несмотря на этот изъян, ему недоставало бы лишь чуть больше рельефа, чтобы стать совершенным произведением: его использовали для одного из пилястров часовни Св. Лазаря в кафедральной церкви."
+      ],
+      "text_en": [
+        "No. 2. Frieze of white marble recovered from the same remains as the preceding monument: it is damaged by a few fractures; but despite this flaw, it would need only a little more relief to be a finished piece: it was used for one of the pilasters of the chapel of St. Lazarus in the Cathedral Church."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "ruines aux environs de la Cathédrale",
+      "findspot_ru": "развалины близ Кафедрального собора",
+      "findspot_en": "ruins near the Cathedral"
+    },
+    {
+      "id": "pl24-3",
+      "part": 2,
+      "plate": 24,
+      "num": "3",
+      "fr": "Cintre antique sculpté, remployé à la chapelle Saint-Lazare",
+      "ru": "Резная античная арочная дуга, вторично использованная в часовне Св. Лазаря",
+      "en": "Carved antique arch-band, reused in the chapel of St. Lazarus",
+      "page": "170",
+      "group": "XXIV",
+      "group_fr": "Planche XXIV",
+      "group_en": "XXIV",
+      "group_page": "170",
+      "flag": "",
+      "type": "architectural fragment",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl24-full.jpg"
+      ],
+      "plate_img": "pl24-full.jpg",
+      "bbox": [
+        58.0,
+        2.0,
+        40.0,
+        70.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Je n'ai fait graver sous le No. 3, qu'un des deux cintres antiques recupérés des mêmes vestiges que les morceaux précédens; comme ils sont en tout parfaitement ressemblans, cette répétition devenoit inutile.",
+        "C'est dans le plus beau genre de proportion & dans le meilleur goût dont l'art de la Sculpture soit susceptible, que ces morceaux sont exécutés; richesse & choix d'ornement, délicatesse du ciseau, noblesse de l'ensemble; tout arrête les regards du connoisseur.",
+        "Ces Monumens sont en marbre blanc; c'est dommage qu'ils aient été un peu racourcis dans le bas par les ouvriers qui les transposerent, lors de la construction de la chapelle de St. Lazare, où ils sont placés; ce qui ôte une légère partie de l'agrément."
+      ],
+      "text_ru": [
+        "Под № 3 я велел гравировать лишь одну из двух античных арочных дуг, взятых из тех же остатков, что и предыдущие предметы; поскольку они совершенно во всём схожи между собой, такое повторение было бы излишним.",
+        "Эти предметы исполнены в самом прекрасном роде пропорций и в лучшем вкусе, на какой только способно искусство скульптуры; богатство и подбор орнамента, тонкость резца, благородство целого — всё приковывает взгляд знатока.",
+        "Эти памятники выполнены из белого мрамора; жаль, что внизу они были несколько укорочены рабочими, переносившими их при постройке часовни Св. Лазаря, где они ныне помещены; это несколько убавляет их привлекательности."
+      ],
+      "text_en": [
+        "Under no. 3 I have had engraved only one of the two antique arches recovered from the same remains as the preceding pieces; as they are in every respect perfectly alike, such repetition would have been pointless.",
+        "These pieces are executed in the finest style of proportion and the best taste of which the art of Sculpture is capable; richness and choice of ornament, delicacy of the chisel, nobility of the whole — everything holds the connoisseur's gaze.",
+        "These monuments are of white marble; it is a pity they were somewhat shortened at the bottom by the workmen who moved them during the building of the chapel of St. Lazarus, where they are placed; which takes away a small part of their charm."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "ruines aux environs de la Cathédrale",
+      "findspot_ru": "развалины близ Кафедрального собора",
+      "findspot_en": "ruins near the Cathedral"
     }
   ]
 }
