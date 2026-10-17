@@ -17743,12 +17743,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-207.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Повязка на глазах",
+          "meaning": "глупость и отсутствие прозорливости",
+          "what_en": "Blindfold",
+          "meaning_en": "stupidity and the lack of foresight"
+        },
+        {
+          "what": "Облик ребёнка",
+          "meaning": "ум невежды не превосходит детского",
+          "what_en": "The figure of a child",
+          "meaning_en": "the ignorant man's mind is no greater than a child's"
+        },
+        {
+          "what": "Осёл, на котором он сидит",
+          "meaning": "немощность и неспособность к познанию",
+          "what_en": "Donkey he rides",
+          "meaning_en": "feebleness and an incapacity for knowledge"
+        }
+      ],
+      "text_ru": [
+        "Греки изображали её так, как вы видите здесь, — в образе совершенно голого ребёнка с повязкой на глазах, сидящего на осле, повод которого он держит одной рукой, а трость — другой. Детство и нагота означают, что у невежды не больше ума, чем у ребёнка,",
+        "и что он лишён всякого рода познаний. А поскольку Невежество отнюдь не прозорливо, но глупо и немощно, всё это вместе обозначено повязкой, закрывающей глаза этого ребёнка, равно как и ослом, на котором он сидит, и тростью, которую он несёт."
+      ],
+      "text_fr": [
+        "Les Grecs la representoient comme vous la voyez icy, par la figure d'vn enfant tout nud, qui a les yeux bandez, & qui est monté sur vn asne, dont il tient le licol d'vne main, & vne canne de l'autre. L'enfance & la nudité signifient que l'ignorant n'a non plus d'esprit qu'vn enfant,",
+        "& qu'il est dénué de toutes sortes de connoissances. Et dautant que l'Ignorance n'est aucunement clair-voyante, mais stupide & fragile, toutes ces choses ensemble sont dénotées par le bandeau qui couvre les yeux de cet enfant, comme encore par l'asne sur qui il est monté, & par la canne qu'il porte."
+      ],
       "en": "Ignorance",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-207-1.jpg",
+        "p2-207-2.jpg"
+      ]
     },
     {
       "id": "p2-208",
@@ -17761,12 +17792,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-208.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Распростёртое на земле положение",
+          "meaning": "грубый ум, неспособный ничему научиться, пресмыкается",
+          "what_en": "Lying stretched upon the ground",
+          "meaning_en": "a coarse mind, incapable of learning anything, always grovels"
+        },
+        {
+          "what": "Взнузданный осёл",
+          "meaning": "астрологическая примета полной неспособности к учению («осёл, рождённый взнузданным»)",
+          "what_en": "Bridled donkey",
+          "meaning_en": "an astrological sign of total incapacity to learn ('a donkey born bridled')"
+        },
+        {
+          "what": "Свинья",
+          "meaning": "существо, не способное ни к чему",
+          "what_en": "Pig",
+          "meaning_en": "a creature fit for nothing"
+        },
+        {
+          "what": "Чёрное покрывало на голове",
+          "meaning": "ум, неспособный воспринять науки, подобно цвету, который не меняется",
+          "what_en": "Black veil over her head",
+          "meaning_en": "a mind incapable of absorbing learning, like a colour that can never become another"
+        }
+      ],
+      "text_ru": [
+        "Она представлена в образе этой женщины, лежащей на земле, с чёрным покрывалом на голове, держащей одной рукой взнузданного осла, а другой опирающейся на свинью. Её изображают распростёртой на земле, дабы показать, что грубый ум, неспособный ничему научиться, всегда пресмыкается. По той же причине ей дают держать осла, следуя изречению Астрологов, которые, желая дать понять, что ребёнок, рождённый под шестнадцатым градусом Льва, никогда ничего не узнает, говорят, что это осёл, рождённый взнузданным. К этому добавлю, что свинья помещена здесь как существо, не способное ни к чему, в отличие от большинства прочих животных; а чёрным покрывалом объявляется, что, подобно тому как этот цвет никогда не может принять другой, так и есть некие умы, столь мало восприимчивые, что невозможно сделать их способными к наукам и добрым наставлениям."
+      ],
+      "text_fr": [
+        "Elle est figurée par cette femme couchée par terre, qui a sur la teste vn voile noir, tenant d'vne main vn asne bridé, & s'appuyant de l'autre sur vn pourceau. Elle est peinte étenduë par terre, pour montrer qu'vn esprit grossier, & qui ne peut rien apprendre, est toûjours rempant. Pour la mesme cause on luy fait tenir vn asne, suivant la maxime des Astrologues, qui pour donner à connoistre qu'vn enfant qui vient au monde sous le seiziéme degré du Lion, ne sçaura jamais rien, disent que c'est vn asne qui est né bridé. A quoy j'adjoûte que le pourceau est icy mis pour estre inhabile à tout, au contraire de la pluspart des autres animaux: & par le voile noir il est declaré, que comme cette couleur n'en peut jamais prendre d'autre; de mesme il y a certains esprits si peu dociles, qu'il est impossible de les rendre susceptibles des sciences & des bonnes disciplines."
+      ],
       "en": "Indocility",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-208-1.jpg",
+        "p2-208-2.jpg"
+      ]
     },
     {
       "id": "p2-209",
@@ -17779,12 +17845,44 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-209.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Облик пожилой женщины",
+          "meaning": "старые люди обычно более нерешительны, чем молодые",
+          "what_en": "The figure of an old woman",
+          "meaning_en": "the aged are usually more irresolute than the young"
+        },
+        {
+          "what": "Чёрный плат на голове",
+          "meaning": "смятение и помрачённость ума нерешительных",
+          "what_en": "Black cloth over her head",
+          "meaning_en": "the confusion and clouded mind of the irresolute"
+        },
+        {
+          "what": "Два ворона с раскрытым клювом",
+          "meaning": "привычка откладывать на завтра то, что можно сделать сегодня",
+          "what_en": "Two ravens with open beaks",
+          "meaning_en": "the habit of putting off until tomorrow what could well be done today"
+        }
+      ],
+      "text_ru": [
+        "Эта старая женщина, с чёрным платом на голове, сидящая на камне и держащая в каждой руке по ворону с раскрытым клювом, означает Нерешительность. Она изображена пожилой, оттого что старые люди, из-за опыта, который они приобрели, обычно более нерешительны, чем молодые. Чёрный плат, окутывающий её голову, означает смятение и помрачённость ума нерешительных",
+        "людей; а вороны, которые издают всегда одну и ту же ноту и твердят только Крас, крас («Завтра, завтра»), напоминают нам, что те, у кого нет решимости, обычно откладывают на завтра то, что вполне могли бы сделать сегодня."
+      ],
+      "text_fr": [
+        "Cette vieille femme, coiffée d'vn linge noir, assise sur vne pierre, & tenant en chaque main vn corbeau qui ouvre le bec, signifie l'Irresolution. Elle est peinte âgée, dautant que les vieilles gens, à cause des experiences qu'elles ont faites, sont ordinairement plus irresoluës que les jeunes. Le linge noir qui luy envelope la teste, dénote la confusion & l'obscurité de l'esprit des hommes irre-",
+        "solus; & les corbeaux, qui n'ont jamais qu'vne mesme note, & disent toûjours Cras, cras, nous font souvenir que ceux qui n'ont point de resolution, remettent ordinairement au lendemain ce qu'ils pourroient bien faire aujourd'huy."
+      ],
       "en": "Irresolution",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-209-1.jpg",
+        "p2-209-2.jpg",
+        "p2-209-3.jpg"
+      ]
     },
     {
       "id": "p2-210",
@@ -17797,12 +17895,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-210.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Свинья в руке",
+          "meaning": "Нечестие — самый гнусный и отвратительный из всех грехов",
+          "what_en": "Pig in her arm",
+          "meaning_en": "Impiety as the most vile and odious of all sins"
+        },
+        {
+          "what": "Зажжённый факел",
+          "meaning": "разрушительная сила нечестивых деяний",
+          "what_en": "Lit torch",
+          "meaning_en": "the destructive force of impious deeds"
+        },
+        {
+          "what": "Сжигаемый пеликан",
+          "meaning": "гибель милосердия и благочестия, символом которых служит пеликан",
+          "what_en": "Pelican being burned",
+          "meaning_en": "the ruin of charity and piety, of which the pelican is the symbol"
+        }
+      ],
+      "text_ru": [
+        "Неслучайно эмблемой этого порока служит женщина, держащая в одной руке свинью, дабы показать, что подобно тому как нет животного более нечистого, нежели это, так и Нечестие есть самый гнусный и самый отвратительный из всех грехов. Кроме того, в правую руку этой фурии вложен зажжённый факел, которым она сжигает пеликана, дабы показать, что все деяния Нечестивца направлены лишь на гибель милосердия, или благочестия, символом коего служит пеликан."
+      ],
+      "text_fr": [
+        "Ce n'est pas sans cause que pour emblême de ce vice cette femme tient en vn de ses bras vn cochon, pour montrer que comme il n'est point d'animal plus sale que celuy-cy, l'Impieté de mesme est le plus vilain & le plus odieux de tous les pechez. On met encore dans la main droite de cette furie vne torche allumée, dont elle brûle vn pelican, pour montrer que toutes les actions de l'Impie ne se rapportent qu'à la ruine de la charité, ou de la pieté, dont le pelican est le symbole."
+      ],
       "en": "Impiety",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-210-1.jpg",
+        "p2-210-2.jpg"
+      ]
     },
     {
       "id": "p2-211",
