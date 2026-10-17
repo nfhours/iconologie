@@ -8922,6 +8922,391 @@
       "findspot_fr": "terrain de Mme Deydier de Curiol, près les Réformés",
       "findspot_ru": "земли г-жи Дейдье де Кюриоль, близ Реформатов",
       "findspot_en": "the grounds of Mme Deydier de Curiol, near the Réformés"
+    },
+    {
+      "id": "pl31-1",
+      "part": 3,
+      "plate": 31,
+      "num": "1-2",
+      "fr": "Deux manches de couteaux en bronze",
+      "ru": "Две бронзовые рукояти ножей",
+      "en": "Two bronze knife-handles",
+      "page": "196",
+      "group": "XXXI",
+      "group_fr": "Planche XXXI",
+      "group_en": "XXXI",
+      "group_page": "196",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl31-full.jpg"
+      ],
+      "plate_img": "pl31-full.jpg",
+      "bbox": [
+        2.0,
+        2.0,
+        22.0,
+        52.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1 & 2. Manches de couteaux en bronze, trouvés dans la Ville. Ils sont au pouvoir de Mr. Michel: le premier porte un caractère certain d'antiquité; les feuilles d'achante, la tête d'un animal & le galbe, sont parfaitement traités; quant au second, quoique moins précieux, il est cependant antique. La figure d'un esclave habillé d'une tunique courte (ce qui désigne sa condition), & les feuilles de refend qui ornent ce manche, sont d'assez bon goût; au reste, ce dernier morceau fut trouvé en même temps que le précédent."
+      ],
+      "text_ru": [
+        "№ 1 и 2. Бронзовые рукояти ножей, найденные в городе. Они находятся во владении г-на Мишеля: первая несёт несомненный отпечаток древности; листья аканта, голова животного и очертание переданы безупречно; что до второй, то, хотя она и менее ценна, она всё же античная. Фигура раба, облачённого в короткую тунику (что обозначает его положение), и рассечённые листья, украшающие эту рукоять, выполнены в довольно хорошем вкусе; впрочем, этот последний предмет был найден одновременно с предыдущим."
+      ],
+      "text_en": [
+        "Nos. 1 & 2. Bronze knife-handles, found in the City. They are in the possession of M. Michel: the first bears a certain mark of antiquity; the acanthus leaves, the animal's head, and the outline are perfectly rendered; as for the second, though less precious, it is nonetheless antique. The figure of a slave dressed in a short tunic (which denotes his condition), and the scrollwork leaves adorning this handle, are of fairly good taste; moreover, this latter piece was found at the same time as the former."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl31-2",
+      "part": 3,
+      "plate": 31,
+      "num": "3",
+      "fr": "Patère en terre cuite à deux becs",
+      "ru": "Терракотовая патера с двумя носиками",
+      "en": "Two-spouted terra-cotta patera",
+      "page": "196",
+      "group": "XXXI",
+      "group_fr": "Planche XXXI",
+      "group_en": "XXXI",
+      "group_page": "196",
+      "flag": "",
+      "type": "object",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl31-full.jpg"
+      ],
+      "plate_img": "pl31-full.jpg",
+      "bbox": [
+        28.0,
+        2.0,
+        42.0,
+        40.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Patère en terre cuite, trouvée à St. Victor, en construisant la place devant l'Eglise. Les deux becs & l'endroit où elle a été trouvée, désignent assez son usage, qui devoit être celui des libations sur les sépultures, soit avec le sang des Victimes, du vin ou du lait.",
+        "Cette patère est en mon pouvoir; sa forme singulière n'avoit été adoptée que par les seuls Marseillois. J'ai voulu m'en convaincre; & j'ai parcouru attentivement tous les Recueils d'antiquité; je n'en ai trouvé qu'une semblable dans le second volume de Montfaucon, page 144, planche LVIII, No. 5. Ce Savant antiquaire déclare la tenir de la générosité de Mr. Lefournier, Réligieux de St. Victor lès-Marseille. Ce dernier l'avoit sans doute trouvée au même endroit que celle dont je suis possesseur. La qualité de terre glaise de cette patère est la même encore en usage dans toutes nos poteries. Quoique ce monument n'ait rien de remarquable pour la partie des Arts, il ne laisse pas que d'être intéressant à connoître, puisqu'il désigne un costume particulier à Marseille (83).",
+        "(83) Je me trompois lorsque j'avançois que cette forme de patère étoit particulière aux seuls Marseillois, j'ai reçu depuis peu une patère en tout semblable à celles trouvées dans cette Ville, elle m'a été envoyée de Malte."
+      ],
+      "text_ru": [
+        "№ 3. Терракотовая патера, найденная у Сен-Виктора, при постройке площади перед церковью. Два носика и место находки достаточно указывают на её назначение, которое состояло, по-видимому, в возлияниях на погребениях — кровью жертв, вином или молоком.",
+        "Эта патера находится в моём владении; её своеобразная форма была принята, как мне казалось, лишь одними марсельцами. Я пожелал в этом удостовериться и внимательно просмотрел все собрания древностей; я нашёл лишь одну подобную во втором томе Монфокона, с. 144, таблица LVIII, № 5. Этот учёный антиквар заявляет, что получил её в дар от г-на Лефурнье, монаха Сен-Виктора близ Марселя. Последний, несомненно, нашёл её в том же месте, что и ту, которой владею я. Качество глины этой патеры то же самое, что и поныне используемое во всех наших гончарных изделиях. Хотя этот памятник не представляет ничего примечательного с точки зрения искусства, он не перестаёт быть любопытным для познания, поскольку указывает на особый, свойственный именно Марселю обычай (83).",
+        "(83) Я ошибался, утверждая, что эта форма патеры была свойственна исключительно марсельцам: недавно я получил патеру, во всём схожую с найденными в этом городе, присланную мне с Мальты."
+      ],
+      "text_en": [
+        "No. 3. Terra-cotta patera, found at St. Victor, while building the square before the Church. The two spouts, and the place where it was found, sufficiently indicate its use, which must have been for libations upon tombs, whether with the blood of Victims, wine, or milk.",
+        "This patera is in my possession; its singular shape, I believed, had been adopted by the Marseillais alone. I wished to make sure of this, and carefully went through all the collections of antiquities; I found only one similar piece, in the second volume of Montfaucon, p. 144, Plate LVIII, no. 5. This learned antiquarian states he had it from the generosity of M. Lefournier, a Monk of St. Victor near Marseille. The latter had doubtless found it at the same spot as the one I own. The clay of this patera is of the same quality still used in all our pottery. Though this piece has nothing remarkable from the standpoint of the Arts, it remains interesting to know, since it indicates a custom peculiar to Marseille (83).",
+        "(83) I was mistaken in claiming that this shape of patera was peculiar to the Marseillais alone; I have recently received a patera entirely similar to those found in this City, sent to me from Malta."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "place devant l'église Saint-Victor",
+      "findspot_ru": "площадь перед церковью Сен-Виктор",
+      "findspot_en": "the square before the Church of Saint-Victor"
+    },
+    {
+      "id": "pl31-3",
+      "part": 3,
+      "plate": 31,
+      "num": "4",
+      "fr": "Aiguière en terre cuite (préféricule)",
+      "ru": "Терракотовый кувшин (преферикул)",
+      "en": "Terra-cotta ewer (praefericulum)",
+      "page": "197",
+      "group": "XXXI",
+      "group_fr": "Planche XXXI",
+      "group_en": "XXXI",
+      "group_page": "196",
+      "flag": "",
+      "type": "object",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl31-full.jpg"
+      ],
+      "plate_img": "pl31-full.jpg",
+      "bbox": [
+        16.0,
+        50.0,
+        20.0,
+        18.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4. Vase en terre cuite, de la forme ordinaire de presque tous ceux trouvés dans Marseille; ils différent si peu entre eux, qu'il me paroît inutile d'en rapporter plusieurs. Les endroits où ils ont été trouvés, sont toujours ceux qui ont servi à l'usage des sépultures; ce qui indique celui de ces vases. Ils étoient destinés à contenir les liqueurs pour les libations, telles que le vin, le lait, l'huile &c. Ce sont des vraies aiguières; leur volume en général n'est pas bien grand, & leur hauteur ne passe pas demi-pied; on en voit chez presque tous les curieux de Marseille; on en trouve de sculptés sur des piédestaux chargés d'inscriptions sépulchrales. Je crois que ces aiguières sont de vrais préféricules, quoique bien des Auteurs pensent que ce que les Romains nommoient proprement (Præfericulum), étoit un bassin. Cependant le général le désigne par le nom de vase; & les Romains nommoient vasa toutes sortes d'ustensiles, soit en métal, en terre cuite, ou en verre, pour quelque usage sacré ou domestique qu'ils fussent destinés: d'ailleurs le mot præfericulum vient de la préposition præ (devant) & de fericulum (objet propre à porter quelque chose); ainsi les préféricules étoient tous les vases qui servoient à porter d'avance les objets & les liqueurs sur les lieux où devoit se faire le Sacrifice."
+      ],
+      "text_ru": [
+        "№ 4. Терракотовый сосуд обычной формы, свойственной почти всем найденным в Марселе; они настолько мало различаются между собой, что приводить несколько образцов представляется мне излишним. Места их находки всегда были местами, служившими для погребений; это и указывает на назначение этих сосудов. Они предназначались для хранения жидкостей для возлияний — вина, молока, масла и т. д. Это настоящие кувшины для воды; их объём, как правило, невелик, а высота не превышает полфута; их можно видеть почти у всех марсельских любителей древностей; встречаются и высеченные на постаментах, покрытых погребальными надписями. Полагаю, что эти кувшины — подлинные преферикулы, хотя многие авторы считают, что то, что римляне собственно называли præfericulum, было тазом. Однако в целом это слово обозначает сосуд вообще; а римляне словом vasa называли всевозможную утварь, будь то металлическую, глиняную или стеклянную, предназначенную для какого бы то ни было священного или бытового употребления: впрочем, само слово præfericulum происходит от предлога præ («перед») и fericulum («предмет, пригодный для переноски чего-либо»); таким образом, преферикулы — это все сосуды, служившие для заблаговременной переноски предметов и жидкостей к месту, где должно было совершиться жертвоприношение."
+      ],
+      "text_en": [
+        "No. 4. Terra-cotta vase, of the ordinary shape of almost all those found at Marseille; they differ so little among themselves that it seems pointless to report several. The places where they were found are always those that served for burial, which indicates the use of these vases. They were meant to hold liquids for libations, such as wine, milk, oil, etc. They are true ewers; their size in general is not very great, and their height does not exceed half a foot; they are seen in the collections of almost every Marseille antiquarian; some are found carved on pedestals bearing sepulchral inscriptions. I believe these ewers are true praefericula, though many Authors think that what the Romans properly called Praefericulum was a basin. The general usage, however, designates it by the name vase; and the Romans called vasa all sorts of utensils, whether of metal, terra cotta, or glass, for whatever sacred or domestic use they were meant: moreover the word praefericulum comes from the preposition prae (before) and fericulum (an object suited to carrying something); thus praefericula were all vessels used to carry ahead the objects and liquids to the place where the Sacrifice was to be performed."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl31-4",
+      "part": 3,
+      "plate": 31,
+      "num": "5",
+      "fr": "Urne en terre cuite de la Darse",
+      "ru": "Терракотовая урна из квартала Дарс",
+      "en": "Terra-cotta urn from the Darse",
+      "page": "198",
+      "group": "XXXI",
+      "group_fr": "Planche XXXI",
+      "group_en": "XXXI",
+      "group_page": "196",
+      "flag": "",
+      "type": "object",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl31-full.jpg"
+      ],
+      "plate_img": "pl31-full.jpg",
+      "bbox": [
+        38.0,
+        42.0,
+        32.0,
+        56.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 5. Urne en terre cuite, trouvée avec plusieurs autres semblables, lorsqu'on construisit la place de la partie de l'Arcenal nommée la Darce. Ces urnes avoient environ trois pieds de hauteur; les proportions en sont bien observées. Le terrain où elles ont été trouvées, faisoit partie du quartier de Paradis, & avoit conséquemment servi de lieu de sépulture, ainsi que je l'ai observé."
+      ],
+      "text_ru": [
+        "№ 5. Терракотовая урна, найденная вместе с несколькими другими подобными при постройке площади на той части Арсенала, что называется Дарс. Высота этих урн составляла около трёх футов; их пропорции хорошо соблюдены. Земля, на которой они были найдены, входила в состав квартала Paradis и, следовательно, служила местом погребения, как я уже отмечал."
+      ],
+      "text_en": [
+        "No. 5. Terra-cotta urn, found with several others like it, when the square of the part of the Arsenal called the Darse was built. These urns stood about three feet high; their proportions are well observed. The ground where they were found formed part of the Paradis quarter, and had consequently served as a burial place, as I have noted."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "la Darce, quartier de l'Arsenal",
+      "findspot_ru": "Дарс, квартал Арсенала",
+      "findspot_en": "the Darse, part of the Arsenal quarter"
+    },
+    {
+      "id": "pl31-5",
+      "part": 3,
+      "plate": 31,
+      "num": "6",
+      "fr": "Pot de verre",
+      "ru": "Стеклянный горшочек",
+      "en": "Glass pot",
+      "page": "198",
+      "group": "XXXI",
+      "group_fr": "Planche XXXI",
+      "group_en": "XXXI",
+      "group_page": "196",
+      "flag": "",
+      "type": "object",
+      "material_fr": "verre",
+      "material_ru": "стекло",
+      "material_en": "glass",
+      "img": [
+        "pl31-full.jpg"
+      ],
+      "plate_img": "pl31-full.jpg",
+      "bbox": [
+        2.0,
+        50.0,
+        20.0,
+        48.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 6. Pot de verre représenté dans sa grandeur naturelle; il a été trouvé dans un tombeau au terrain de Madame Corail, sous le glacis de la Citadelle. La quantité de petits pots semblables, trouvés dans les tombeaux Marseillois, me fait présumer que nos pères avoient la coutume de mettre dans les sépulchres, des liqueurs balsamiques; ces petits vases ne pouvoient servir à d'autres usages."
+      ],
+      "text_ru": [
+        "№ 6. Стеклянный горшочек, изображённый в натуральную величину; он был найден в гробнице на землях г-жи Кораль, под гласисом цитадели. Количество подобных небольших горшочков, найденных в марсельских гробницах, заставляет меня предполагать, что наши предки имели обычай помещать в погребения бальзамические жидкости; эти небольшие сосуды не могли служить никакому иному назначению."
+      ],
+      "text_en": [
+        "No. 6. Glass pot shown at its natural size; it was found in a tomb on the grounds of Madame Corail, beneath the glacis of the Citadel. The quantity of similar small pots found in the tombs of Marseille leads me to presume our forefathers had the custom of placing balsamic liquids in sepulchres; these small vessels could have served no other use."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "propriété de Mme Corail, sous le glacis de la Citadelle",
+      "findspot_ru": "владение г-жи Кораль, под гласисом цитадели",
+      "findspot_en": "the property of Mme Corail, beneath the glacis of the Citadel"
+    },
+    {
+      "id": "pl31-6",
+      "part": 3,
+      "plate": 31,
+      "num": "7",
+      "fr": "Simpule en terre cuite",
+      "ru": "Терракотовый симпул",
+      "en": "Terra-cotta simpulum",
+      "page": "198",
+      "group": "XXXI",
+      "group_fr": "Planche XXXI",
+      "group_en": "XXXI",
+      "group_page": "196",
+      "flag": "",
+      "type": "object",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl31-full.jpg"
+      ],
+      "plate_img": "pl31-full.jpg",
+      "bbox": [
+        70.0,
+        48.0,
+        28.0,
+        30.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 7. Simpule en terre cuite, trouvé près les infirmeries vieilles, avec des Patères unies. Le simpule ou simpuvium, servoit aux Prêtres pour verser du vin entre les cornes de la victime; le Prêtre goûtoit le vin qui étoit dans ces vases, le faisoit goûter aux assistans, & versoit ensuite le reste entre les cornes de la victime, avant que de la frapper. Ce vase est ici gravé à moitié de ses proportions. J'en ai vu un dans le cabinet du Collége de la Ville, qui diffère peu de celui-ci; j'ignore s'il a été trouvé dans le pays. Ces simpules en terre cuite, ne devoient point être employés dans les Temples, où il auroit été nécessaire d'en avoir de nouveaux à chaque instant, par la fragilité de la matière; j'oserois croire que ceux de ces vases destinés pour les Sacrifices des particuliers, sur les tombeaux des morts, étoient seuls en terre cuite, ainsi que les patères, & autres vases, par un principe d'économie, parce qu'on enterroit le tout dans la même fosse où étoit le cadavre, ou les cendres. L'endroit dans lequel on a trouvé notre simpule, & les patères qui étoient à côté, amenent naturellement ces reflexions, attendu qu'il faisoit partie des champs destinés à la sépulture."
+      ],
+      "text_ru": [
+        "№ 7. Терракотовый симпул (жертвенный ковш), найденный близ старых лечебниц (infirmeries vieilles), вместе с гладкими патерами. Симпул, или simpuvium, служил жрецам для возлияния вина между рогами жертвы; жрец отведывал вино, находившееся в этих сосудах, давал отведать присутствующим, а затем выливал остаток между рогами жертвы, прежде чем поразить её. Этот сосуд гравирован здесь в половину своих истинных размеров. Я видел один подобный в кабинете Городского коллежа, мало отличающийся от этого; мне неизвестно, был ли он найден в наших краях. Эти терракотовые симпулы не должны были использоваться в храмах, где из-за хрупкости материала требовались бы всё новые и новые экземпляры; я осмелился бы полагать, что из терракоты изготавливались лишь те сосуды, что предназначались для частных жертвоприношений на могилах умерших, равно как и патеры и прочие сосуды — из соображений экономии, поскольку всё это хоронили в той же яме, где находилось тело или прах. Место, где был найден наш симпул, и находившиеся рядом патеры, естественно, наводят на эти размышления, поскольку оно входило в число полей, предназначенных для погребения."
+      ],
+      "text_en": [
+        "No. 7. Terra-cotta simpulum, found near the old infirmaries, together with plain Paterae. The simpulum, or simpuvium, served Priests to pour wine between the horns of the victim; the Priest would taste the wine in these vessels, have the bystanders taste it, and then pour the rest between the horns of the victim before striking it. This vase is engraved here at half its true proportions. I have seen one in the cabinet of the City College, differing little from this one; I do not know whether it was found locally. These terra-cotta simpula were surely not used in Temples, where, given the fragility of the material, new ones would constantly have been needed; I would venture to believe that only those vessels meant for private Sacrifices on the tombs of the dead were made of terra cotta, as were the paterae and other vessels, out of economy, since everything was buried in the same pit as the corpse or ashes. The spot where our simpulum was found, and the paterae beside it, naturally give rise to these reflections, given that it formed part of ground set aside for burial."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "près les infirmeries vieilles",
+      "findspot_ru": "близ старых лечебниц",
+      "findspot_en": "near the old infirmaries"
+    },
+    {
+      "id": "pl31-7",
+      "part": 3,
+      "plate": 31,
+      "num": "8",
+      "fr": "Vase énigmatique à boules d'argile (amulette présumée pour Neptune)",
+      "ru": "Загадочный сосуд с глиняными шариками (предположительно амулет Нептуну)",
+      "en": "Enigmatic vessel with clay balls (a presumed amulet to Neptune)",
+      "page": "199",
+      "group": "XXXI",
+      "group_fr": "Planche XXXI",
+      "group_en": "XXXI",
+      "group_page": "196",
+      "flag": "usage incertain, objet de débat avec Caylus",
+      "type": "object",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl31-full.jpg"
+      ],
+      "plate_img": "pl31-full.jpg",
+      "bbox": [
+        22.0,
+        80.0,
+        52.0,
+        19.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Le monument désigné par le No. 8. est un vrai problême, capable d'exercer tous les Antiquaires; il est susceptible de toutes les explications que l'imagination peut suggérer; mais il faut également convenir qu'on en est pas plus avancé dans la découverte de la vérité, relativement à son usage; tout ce qu'on peut assurer, c'est que ce genre de monument est particulier aux Marseillois; j'en ai eu jusqu'à quatre: le premier qui fut trouvé à Craulonguette en Camargue, sur les bords du Rhône, passa dans le cabinet de Mr. le Comte de Caylus. Le second fut entraîné par des filets de pêcheurs dans le golfe de Marseille, devant l'écueil nommé l'Estel, près la Major, je le cedai à Mr. le Duc de Picquigni, aujourd'hui Duc de Chaulnes. Ces deux premiers étoient peints de trois bandes coloriées de noir, de rouge & de jaune alternativement, & renfermoient des boules d'une pâte grise qui ressembloit à une pâte faite avec des cendres (84); les boules étoient en quantité inégale dans chacun de ces morceaux. L'intérieur du vase étoit en creux, & recouvert de la même matière grise à l'épaisseur de deux lignes en tout sens. Les deux autres monumens pareils que je conserve encore dans mon cabinet, m'ont été apportés de Corse, où ils ont été trouvés dans la mer, au-devant de la ville d'Ajacio, qui est l'ancienne Alalia. Je n'ai point ouvert ces derniers, mais je suis assuré qu'ils ne contiennent point de petites boules, comme les autres; on ne sent aucune vascillation en les agitant, ni on n'entend aucun bruit.",
+        "Mr. le Comte de Caylus, rapporte dans son 6e. volume du Recueil des Antiquités, planche 28 No. IV, un monument semblable à ceux-ci; il l'attribue aux étrusques, & le soupçonne d'être un vrai jouet d'enfant; il dit qu'il a été trouvé à Martigues en 1762, à 300 pieds de profondeur dans la mer. Ce dernier morceau, comme tous les autres, est piqué dans la partie inférieure qui lui sert de base, d'une quantité prodigieuse de trous, que Mr. de Caylus croit être une carie produite par le corrosif des eaux de la mer. Cette base dans tous ceux que j'ai eu en mon pouvoir, étoit noircie au point de reconnoître l'action du feu & de la fumée, qui avoit impregné de matières graisseuses & huileuses, les pores du vase.",
+        "D'après ces observations, je crois pouvoir conclure que ce ne sont point ici des hochets, ni aucune sorte de jouets d'enfans. Tous ces monumens sont de différentes proportions, & ne sortent point du même moule, ils étoient donc d'un usage multiplié: ils ont été tous trouvés dans des lieux qui ont appartenu aux Marseillois ou aux Phocéens leurs fondateurs. Les Romains donnèrent aux premiers toute la lisière du Rhône, jusqu'aux confins des Allobroges, après qu'ils eurent subjugué les Saliens & autres peuples Gaulois qui les inquiétoient; ils y établirent même des bureaux de douane (85), Craulonguette & la Camargue, étoient conséquemment de leur domaine. Alalia étoit une Colonie phocéenne, sœur de Marseille (86), & Martigues est une Colonie Marseilloise, connue sous le nom de Maritima: voilà bien des témoignages certains de l'usage de ces objets parmi les Marseillois; & cet usage devoit être exclusif, puisqu'on n'a jamais trouvé rien de pareil ailleurs que dans leurs possessions.",
+        "Cet examen me conduit à exposer mon sentiment sur l'usage de ces morceaux en terre cuite, j'avoue que ce n'est qu'une hypothèse; mais elle a l'avantage d'être la plus vraisemblable.",
+        "Ces vases creux renferment une matière grise, analogue à de la cendre pétrie avec des matières grasses. La base est constamment piquée d'une quantité de trous où l'on reconnoît les traces de l'instrument & de l'action du feu, pour parvenir au degré de coction de ces pâtes, relative au point de la poterie du vase; c'est toujours dans la mer ou dans un fleuve navigable, qu'on a trouvé ces objets. Je crois conséquemment pouvoir reconnoître en cela, les traces d'une superstition en usage parmi les Marseillois, qui sacrifioient peut-être quelque animal particulier, à Neptune & aux Divinités des eaux. Les cendres de ces animaux ou d'une partie de leurs intestins recueillies & pétries dans des vases, de la forme de ceux dont il est question, étant ensuite mises sur l'Autel, dans le propre vase qui avoit servi de receptale, acqueroient un nouveau degré de cuison par le moyen des piquures ou trous, & servoient ensuite à la superstition, dans la croyance d'apaiser la tempête, ou dans l'espérance d'obtenir un voyage heureux, en les jettant dans les eaux avec cérémonie, & la prière du dévouement lors du départ, ou pendant l'orage; aussi je n'envisage ces objets, que comme de simples Amulètes, fruits de la superstition.",
+        "(84) Voyez une de ces Boules, gravées à côté du Monument dans la même Planche XXXI. — (85) Strabon Lib. 4. — (86) Herodote Lib. 1, cap. 162."
+      ],
+      "text_ru": [
+        "Памятник, обозначенный № 8, представляет собой подлинную загадку, способную занять всех антикваров; он допускает любые объяснения, какие только может подсказать воображение; но следует также признать, что в открытии истины относительно его назначения мы не продвинулись ни на шаг; единственное, что можно утверждать, — это что подобный род памятников свойствен исключительно марсельцам; у меня их было до четырёх: первый, найденный в Кролонгете в Камарге, на берегах Роны, перешёл в кабинет графа де Кайлюса. Второй был вытащен рыбацкими сетями в марсельском заливе, перед рифом, называемым л'Эстель, близ Майора; я уступил его герцогу Пикиньи, ныне герцогу де Шольну. Эти первые два были расписаны тремя попеременно чередующимися полосами — чёрной, красной и жёлтой — и содержали внутри шарики из серой массы, похожей на массу, замешанную на пепле (84); количество шариков в каждом из этих предметов было неодинаковым. Внутренность сосуда была полой и покрыта той же серой массой толщиной в две линии со всех сторон. Два других подобных памятника, что я всё ещё храню в своём кабинете, были привезены мне с Корсики, где их нашли в море, перед городом Аяччо, древней Алалией. Эти последние я не вскрывал, но убеждён, что внутри них нет маленьких шариков, как в прочих; при встряхивании не ощущается никакого колебания и не слышно никакого звука.",
+        "Граф де Кайлюс приводит в 6-м томе своего «Собрания древностей», таблица 28, № IV, памятник, подобный этим; он приписывает его этрускам и подозревает, что это настоящая детская игрушка; он сообщает, что он был найден в Мартиге в 1762 году, на глубине 300 футов в море. Этот последний предмет, как и все прочие, покрыт в своей нижней части, служащей ему основанием, огромным количеством отверстий, которые г-н де Кайлюс считает разъеданием, вызванным действием морской воды. Это основание во всех предметах, что находились в моём владении, было до такой степени почернелым, что в нём узнавалось действие огня и дыма, пропитавшего поры сосуда жирными и маслянистыми веществами.",
+        "Исходя из этих наблюдений, полагаю, что могу заключить: это вовсе не погремушки и не какие-либо детские игрушки. Все эти памятники различных пропорций и не выходят из одной формы, следовательно, их назначение было множественным: все они были найдены в местах, некогда принадлежавших марсельцам или фокейцам, их основателям. Римляне отдали первым всю полосу вдоль Роны, вплоть до границ аллоброгов, после того как подчинили салиев и другие галльские народы, их беспокоившие; они даже учредили там таможенные посты (85); Кролонгет и Камарг, следовательно, входили в их владения. Алалия была фокейской колонией, сестрой Марселя (86), а Мартиг — марсельской колонией, известной под именем Maritima: вот достаточно достоверных свидетельств бытования этих предметов у марсельцев; и это употребление, должно быть, было исключительным, поскольку ничего подобного никогда не находили нигде, кроме как в их владениях.",
+        "Это рассмотрение подводит меня к тому, чтобы изложить своё мнение о назначении этих терракотовых предметов; признаю, что это лишь гипотеза, но она обладает тем преимуществом, что наиболее правдоподобна.",
+        "Эти полые сосуды содержат серое вещество, сходное с пеплом, замешанным на жировых веществах. Основание неизменно утыкано множеством отверстий, в которых узнаются следы инструмента и действия огня, необходимого для достижения степени обжига этой массы, соответствующей степени обжига самого сосуда; эти предметы всегда находили в море или в судоходной реке. Полагаю, следовательно, что могу узнать в этом следы суеверия, бытовавшего среди марсельцев, приносивших, быть может, в жертву некое особое животное Нептуну и божествам вод. Пепел этих животных или части их внутренностей, собранный и замешанный в сосудах той формы, о которой идёт речь, будучи затем возложен на алтарь, в том самом сосуде, что служил вместилищем, приобретал новую степень прокаливания посредством проколов или отверстий и затем служил суеверию — в вере, что это умилостивит бурю, или в надежде обрести счастливое плавание, — когда эти предметы с обрядом бросали в воду, сопровождая молитвой посвящения при отплытии или во время грозы; поэтому я рассматриваю эти предметы лишь как простые амулеты, порождённые суеверием.",
+        "(84) См. один из этих шариков, гравированный рядом с памятником на той же таблице XXXI. — (85) Страбон, кн. 4. — (86) Геродот, кн. 1, гл. 162."
+      ],
+      "text_en": [
+        "The monument marked no. 8 is a genuine problem, capable of occupying every Antiquarian; it admits of every explanation imagination can suggest; but it must equally be admitted that we are no further advanced in discovering the truth regarding its use; all that can be affirmed is that this kind of monument is peculiar to the Marseillais; I have had as many as four: the first, found at Craulonguette in the Camargue, on the banks of the Rhône, passed into the cabinet of M. le Comte de Caylus. The second was drawn up by fishermen's nets in the Gulf of Marseille, before the reef called l'Estel, near the Major; I gave it to M. le Duc de Picquigni, now Duc de Chaulnes. These first two were painted with three bands alternately colored black, red, and yellow, and contained balls of a grey paste resembling a paste made of ashes (84); the balls were in unequal numbers in each piece. The inside of the vessel was hollow, and coated with the same grey matter two lines thick all over. The two other similar pieces I still keep in my cabinet were brought to me from Corsica, where they were found in the sea, off the town of Ajaccio, the ancient Alalia. I have not opened these latter, but am assured they contain no small balls like the others; no rattling is felt on shaking them, nor is any sound heard.",
+        "M. le Comte de Caylus reports, in the 6th volume of his Recueil des Antiquités, Plate 28, no. IV, a monument similar to these; he attributes it to the Etruscans, and suspects it to be a genuine child's toy; he says it was found at Martigues in 1762, 300 feet deep in the sea. This last piece, like all the others, is pierced on its lower, base-forming part with a prodigious number of holes, which M. de Caylus believes to be decay produced by the corrosive action of sea water. This base, in all the pieces I have had in my possession, was blackened to a degree showing the action of fire and smoke, which had impregnated the pores of the vessel with greasy, oily matter.",
+        "From these observations, I believe I may conclude that these are not rattles, nor any kind of children's toy. All these pieces are of different proportions, and do not come from the same mold; they were therefore put to multiple uses: they were all found in places that had belonged to the Marseillais or to the Phocaeans, their founders. The Romans gave the former the whole strip along the Rhône, up to the borders of the Allobroges, after subduing the Salii and other Gallic peoples troubling them; they even established customs posts there (85); Craulonguette and the Camargue accordingly belonged to their domain. Alalia was a Phocaean Colony, sister to Marseille (86), and Martigues is a Marseille Colony, known under the name Maritima: here then is ample certain testimony to the use of these objects among the Marseillais; and this use must have been exclusive, since nothing of the kind has ever been found anywhere but in their possessions.",
+        "This examination leads me to set out my own view on the use of these terra-cotta pieces; I admit it is only a hypothesis, but it has the advantage of being the most plausible.",
+        "These hollow vessels contain a grey matter, similar to ash kneaded with fatty substances. The base is constantly pierced with a number of holes in which the marks of the tool and the action of fire can be recognized, needed to bring this paste to the degree of firing matching that of the vessel's pottery; these objects have always been found in the sea or in a navigable river. I believe, accordingly, that I can recognize in this the traces of a superstition practiced among the Marseillais, who perhaps sacrificed some particular animal to Neptune and the Divinities of the waters. The ashes of these animals, or of part of their entrails, gathered and kneaded into vessels of the shape here in question, being then placed on the Altar, in the very vessel that had served as receptacle, acquired a further degree of baking by means of the punctures or holes, and then served superstition, in the belief that it would appease a storm, or in the hope of obtaining a safe voyage, by throwing them into the water with ceremony, and the prayer of dedication made upon departure or during a storm; I therefore regard these objects merely as simple Amulets, the fruit of superstition.",
+        "(84) See one of these Balls, engraved beside the Monument on this same Plate XXXI. — (85) Strabo, Bk. 4. — (86) Herodotus, Bk. 1, ch. 162."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Craulonguette (Camargue); golfe de Marseille; Corse (Ajaccio)",
+      "findspot_ru": "Кролонгет (Камарг); Марсельский залив; Корсика (Аяччо)",
+      "findspot_en": "Craulonguette (Camargue); the Gulf of Marseille; Corsica (Ajaccio)"
     }
   ]
 }
