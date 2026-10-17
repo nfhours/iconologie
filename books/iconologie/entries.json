@@ -13238,12 +13238,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-106.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина, подносящая руку ко рту, с развёрнутым свитком «Utor ne abutar» в другой руке, рядом стол с яствами",
+          "meaning": "Рука у рта — сдержанность в пище; свиток «пользуюсь, но не злоупотребляю» — умеренное, а не чрезмерное пользование благами, сколь бы соблазнительны они ни были",
+          "what_en": "A woman raising one hand to her mouth, an unfurled scroll reading \"Utor ne abutar\" in the other, a table of food beside her",
+          "meaning_en": "The hand at her mouth signifies restraint in eating; the scroll \"I use but do not abuse\", moderate rather than excessive enjoyment of good things, however tempting"
+        }
+      ],
+      "text_ru": [
+        "Действие этой Добродетели являет здесь фигура женщины, подносящей одну руку ко рту, дабы показать тем самым, что не должно быть ему подвластным; а в другой держащей свиток со словами Utor ne abutar (пользуюсь, но не злоупотребляю), словно желая сказать: Я гнушаюсь всяких лакомств; И сколь бы сладостны ни были соблазны Изысканнейших яств, Я ими пользуюсь, но не злоупотребляю."
+      ],
+      "text_fr": [
+        "L'EFFET de cette Vertu se voit icy par la figure d'vne femme, qui porte vne de ses mains à la bouche, pour montrer par là, qu'il ne faut pas y estre sujet: & tient de l'autre vn rouleau, où sont ces paroles, Vtor ne abutar, comme si elle vouloit dire, l'abhorre toutes friandises; Et pour doux que soient les appas Des viandes les plus exquises, l'en vse & n'en abuse pas."
+      ],
       "en": "Abstinence",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-106-1.jpg",
+        "p2-106-2.jpg"
+      ]
     },
     {
       "id": "p2-107",
@@ -13256,12 +13273,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-107.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Старец, нагруженный книгами и музыкальными инструментами, опирающийся на посох, со свитком «Vires acquirit eundo» в другой руке и точильным колесом перед собой",
+          "meaning": "Старость и неутомимое движение — сила опыта, крепнущая в действии; точильное колесо, точащее сталь лишь в движении, — метафора силы, обретаемой лишь практикой; книги и музыкальные инструменты — искусства, постигаемые только упражнением и усердием",
+          "what_en": "An old man laden with books and musical instruments, leaning on a staff, a scroll reading \"Vires acquirit eundo\" in his other hand and a grinding wheel before him",
+          "meaning_en": "His old age and ceaseless motion signify the strength of experience, growing stronger through action; the grinding wheel, which sharpens steel only when turning, a metaphor for strength gained only through practice; the books and instruments, arts learned only by exercise and diligence"
+        }
+      ],
+      "text_ru": [
+        "Этот муж, обременённый многочисленными орудиями, все пригодными для упражнения в Искусствах, идущий, опираясь одной рукой на посох, а в другой держащий свиток со словами Vires acquirit eundo (обретает силу по мере движения), представляет дивную силу Привычки. Он стар и не знает покоя, дабы показать, что опыт придаёт ему доверие, и что, действуя, он укрепляется. Чему же учит и колесо, что вы видите перед ним, ибо, несомненно, оно не имеет силы точить сталь, если не движется и не вращается по кругу; равно как и книги с музыкальными инструментами, коими он обременён, — истинными символами Искусств, постигаемых лишь упражнением и усердием, к ним прилагаемым."
+      ],
+      "text_fr": [
+        "CET homme chargé de plusieurs instrumens, tous propres à s'exercer aux Arts, marchant appuyé d'vne main sur vn baston; & tenant de l'autre vn écriteau avec ces mots, Vires acquirit eundo, represente la merveilleuse force de l'Accoustumance. Il est vieil, & ne repose point, pour montrer que l'experience le met en credit, & qu'en agissant il se fortifie. Ce qui vous est encore enseigné par la roüe que vous voyez devant luy; estant bien certain qu'elle n'a pas la force d'aiguiser l'acier, si elle ne se meut & ne se tourne en rond; & pareillement par les livres & les instrumens de Musique dont il est chargé, vrais symboles des Arts, qui ne s'apprennent que par l'exercice, & par l'assiduité qu'on y apporte."
+      ],
       "en": "Habituation",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-107-1.jpg",
+        "p2-107-2.jpg"
+      ]
     },
     {
       "id": "p2-108",
@@ -13274,12 +13308,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-108.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина, подающая яблоко ребёнку, с руками, скрытыми под одеянием, и зажжённым факелом, обвитым оливковой ветвью, на голове",
+          "meaning": "Скрытые руки — тайная подаяние, в коем левая рука не ведает, что творит правая; зажжённый факел, от коего не убывает свет при зажигании другого, — неоскудевающее благо милостыни; оливковая ветвь — библейский символ Милосердия, побуждающего к подаянию",
+          "what_en": "A woman giving an apple to a child, her hands hidden beneath her robe, a lit torch wreathed with an olive branch upon her head",
+          "meaning_en": "Her hidden hands signify secret almsgiving, in which the left hand does not know what the right is doing; the lit torch, undiminished when it lights another, the inexhaustible good of charity; the olive branch, the biblical symbol of Mercy, which should move us to give alms"
+        }
+      ],
+      "text_ru": [
+        "Та, что здесь подаёт милостыню малому дитяти, держит обе руки скрытыми под своим одеянием, а на голове — зажжённый факел, обвитый оливковой ветвью. Эти таинственные символы учат нас, что левая рука не должна знать, что делает правая, когда подают милостыню; что, помогая бедным, мы не умаляем своего достояния, подобно тому как не умаляется свет факела, от коего зажигают другой; и что именно Милосердие, изображаемое оливой в Священном Писании, должно побуждать нас подавать милостыню."
+      ],
+      "text_fr": [
+        "CELLE qui donne icy l'aumosne à vn petit enfant, a les deux mains cachées sous sa robe, & sur la teste vn flambeau allumé, qu'vne branche d'olivier environne. Ces mysterieux symboles nous apprennent, Qu'il ne faut pas que la main gauche sçache ce que fait la droite, quand on donne l'aumosne; Qu'en secourant les pauvres, nostre bien ne diminuë non plus que la clarté d'vn flambeau, où l'on en allume vn autre; & que c'est la Misericorde, figurée par l'olivier dans les saintes Lettres, qui nous doit émouvoir à faire l'aumosne."
+      ],
       "en": "Almsgiving",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-108-1.jpg",
+        "p2-108-2.jpg"
+      ]
     },
     {
       "id": "p2-109",
@@ -13292,12 +13343,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-109.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Сияющий лучистым нимбом муж в оливковом венце, с сердцем-подвеской на шее, посохом, обвитым виноградной лозой, и аистом у ног",
+          "meaning": "Оливковый венец — сострадание; сияющие лучи — помощь Божия; сердце — поддержка ближнего и достоянием, и советом; подпорка виноградной лозы — поддержка немощи ближнего; аист — неутомимая готовность помогать, особенно своим близким",
+          "what_en": "A man with a radiant halo, an olive wreath, a heart pendant at his neck, a staff entwined by a grapevine, and a stork at his feet",
+          "meaning_en": "The olive wreath signifies compassion; the radiant rays, divine assistance; the heart, support of one's neighbor through both goods and counsel; the vine-prop, the support of a neighbor's weakness; the stork, tireless readiness to help, especially one's own kin"
+        }
+      ],
+      "text_ru": [
+        "Помощь, что должно оказывать ближнему, довольно удачно выражена фигурой приятного мужа. Оливковой гирляндой, опоясывающей его чело, означено сострадание; лучами, его окружающими, — помощь Божия; сердцем, свисающим с цепи, что он носит на шее, — что человек должен помогать беднякам и своим достоянием, и своим советом, символом коего служит сердце; подпоркой, поддерживающей виноградную лозу, — что подобным же образом должно поддерживать немощь ближнего; а аистом — что нам должно подражать этой птице, никогда не устающей быть полезной, в особенности же своим ближайшим."
+      ],
+      "text_fr": [
+        "LE secours qu'il faut donner au prochain est assez bien exprimé par la figure d'vn homme agreable. Par la guirlande d'olivier qui luy ceint le chef, est denotée la compassion; Par les rayons qui l'environnent, l'assistance divine; Par le cœur qui pend à la chaisne qu'il porte au col, qu'il faut que l'homme assiste les pauvres, & de ses biens, & de son conseil, dont le cœur est le symbole; Par l'échalas qui soûtient la vigne, qu'on doit appuyer de mesme la foiblesse du prochain; & par la cicogne, que c'est à nous à imiter cet oiseau, qui ne se lasse jamais d'estre secourable, & particulierement à ses plus proches."
+      ],
       "en": "Help",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-109-1.jpg",
+        "p2-109-2.jpg"
+      ]
     },
     {
       "id": "p2-110",
