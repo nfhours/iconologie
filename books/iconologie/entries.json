@@ -19629,12 +19629,63 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-247.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Чёрные, курчавые волосы",
+          "meaning": "меланхолия, порождаемая постоянной задумчивостью живописцев",
+          "what_en": "Black, curly hair",
+          "meaning_en": "the melancholy bred by painters' constant brooding"
+        },
+        {
+          "what": "Рот, закрытый повязкой",
+          "meaning": "любовь живописцев к тишине и уединению ради живости воображения",
+          "what_en": "Mouth covered by a band",
+          "meaning_en": "painters' love of silence and solitude, for a livelier imagination"
+        },
+        {
+          "what": "Маска на золотой цепи",
+          "meaning": "неразрывная связь Живописи и Подражания",
+          "what_en": "Mask on a gold chain",
+          "meaning_en": "the inseparable bond between Painting and Imitation"
+        },
+        {
+          "what": "Девиз IMITATIO",
+          "meaning": "подражание как сущность живописного искусства",
+          "what_en": "Motto IMITATIO",
+          "meaning_en": "imitation as the essence of the painter's art"
+        },
+        {
+          "what": "Переливчатое платье",
+          "meaning": "разнообразные прелести, очаровывающие взор",
+          "what_en": "Shimmering-coloured robe",
+          "meaning_en": "manifold charms that enchant the eye"
+        }
+      ],
+      "text_ru": [
+        "Её представляют здесь в образе прекрасной юной женщины, с чёрными, курчавыми волосами, со ртом, закрытым повязкой, и с золотой цепью на шее, на которой висит маска. Она держит в одной руке несколько кистей с девизом IMITATIO («ПОДРАЖАНИЕ»), а в другой — картину, причём ей дают в одеяние платье переливчатого цвета.",
+        "Живопись, самое благородное из занятий, изобретённых человеческим умом, представлена прекрасной, дабы показать, что она действительно обладает прелестями и красотами, очаровывающими сердца восхищением. У неё чёрные, густые и кудрявые волосы, оттого что превосходные Живописцы, чей дух постоянно устремлён к подражанию природе и искусству, от непрестанной задумчивости и мечтательности впадают в меланхолию, которую врачи называют жгучей, и которая порождает именно такие волосы, какие мы только что описали.",
+        "Закрытый повязкой рот означает, что Живописцы обычно любят тишину и уединение, дабы воображение их было живее и сильнее.",
+        "Маской, висящей у неё на шее на цепочке, показано, что подражание и Живопись неразделимы; а звеньями цепи — что между ними существует взаимная связь; и верно, как замечает Цицерон в своей Риторике, что Живописец не учится всему у лучшего, чем он сам, наставника, но из одной-единственной вещи извлекает идеи, которые как бы скованы между собой схожестью и соответствием, которые они имеют. К этому можно добавить, что золотом даётся понять, что Живопись обычно унижается, если её не поддерживает щедрость знатных; а маской — что подражание ей совершенно подобает.",
+        "И подобно тому, как древние исключали из числа Поэтов тех, кому недоставало этой способности, то же самое можно сказать и о Живописцах, не обладающих ею, ибо верно, что Поэзия немотствует в Живописи, а Живопись говорит в Поэзии. Если же и замечается различие в их способе подражания, оно проявляется через противоположность; откуда следует, что главное удовольствие, извлекаемое из этих двух занятий, состоит в том, что тонкостью своего искусства они обманывают природу, одно давая себя понять через чувства, а другое — через разум.",
+        "Что до её переливчатого платья, это означает её разнообразные прелести, которые словно очаровывают взор тех, кто их видит; а покрытыми ногами равным образом обозначено, что пропорции, составляющие основу этого прекрасного искусства, должны оставаться как бы скрытыми и не проявляться, пока картина не будет полностью завершена. Ибо подобно тому, как среди Ораторов большое искусство — уметь притворяться, будто говоришь без искусства, так и в ремесле Живописцев есть удивительная тайна — уметь писать так, чтобы самое похвальное в Живописи замечали лишь те, кто разбирается в ней лучше всего."
+      ],
+      "text_fr": [
+        "On la represente icy par vne belle jeune femme, ayant les cheveux noirs & crespus, la bouche couverte d'vn bandeau, & au col vne chaîne d'or où pend vn masque. Elle tient d'vne main plusieurs pinceaux avec ce mot pour devise, IMITATIO, & de l'autre vn tableau, outre qu'on luy donne pour habillement vne robe de couleur changeante.",
+        "La Peinture, profession des plus nobles que l'esprit humain ait inventées, est representée belle, pour montrer qu'en effet elle a des agréemens & des beautez qui charment les cœurs d'admiration. Elle a les cheveux noirs, touffus, & annelez, parce que les excellens Peintres, ayant l'esprit continuellement attaché à l'imitation de la nature & de l'art, à force d'estre pensifs & songeards tombent dans vne melancholie que les Medecins appellent aduste, qui produit particulierement les cheveux tels que nous venons de les décrire.",
+        "La bouche qu'elle a bandée signifie que les Peintres aiment ordinairement le silence & la solitude, pour en avoir l'imagination plus vive & plus forte.",
+        "Par le masque qui luy pend au col, attaché à vne chaîne, il est demontré que l'imitation & la Peinture sont inseparables; & par les chaînons, qu'elles ont ensemble vne liaison mutuelle; estant veritable, comme le remarque Ciceron dans sa Rhetorique, que le Peintre n'apprend pas toutes choses d'vn meilleur maistre que luy, mais que d'vne seule chose il en tire les idées qui sont comme enchaînées pour la ressemblance & la conformité qu'elles ont. A quoy l'on peut ajoûter, que par la qualité de l'or il est donné à connoistre que la Peinture s'avilit pour l'ordinaire, si elle n'est soûtenuë par la generosité des grands; & par le masque, que l'imitation luy est entierement convenable.",
+        "Et comme ils rejettoient du nombre des Poëtes ceux qui manquoient de cette partie, l'on en peut dire de mesme des Peintres qui ne la possedent point, estant certain que la Poësie est muette en la Peinture, & que la Peinture parle dans la Poësie. Que s'il se remarque de la difference en leur façon d'imiter, elle se fait par opposition; d'où il s'ensuit que le principal plaisir que l'on tire de ces deux professions, consiste en ce que par la subtilité de leur art elles trompent la nature, l'vne se faisant entendre par les sens, & l'autre par l'intellect.",
+        "Pour le regard de sa robe, qui est de couleur changeante, cela signifie ses divers agréemens, qui semblent charmer les yeux de ceux qui les voyent; comme par les pieds qu'elle a couverts, il est denoté de mesme que les proportions, qui sont le fondement de ce bel art, doivent demeurer comme cachées, & ne point paroistre que le tableau ne soit entierement achevé. Car comme parmy les Orateurs c'est vn grand art de sçavoir feindre qu'on parle sans art; ainsi dans la profession des Peintres, c'est vn secret merveilleux de sçavoir peindre de telle sorte que ce qu'il y a de plus recommandable à la Peinture ne soit apperçu que par ceux qui s'y connoissent le mieux."
+      ],
       "en": "Painting",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-247-1.jpg",
+        "p2-247-2.jpg"
+      ]
     },
     {
       "id": "p2-248",
@@ -19647,12 +19698,66 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-248.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Лавровый венец",
+          "meaning": "бессмертие, даруемое поэзией вопреки забвению времени",
+          "what_en": "Laurel crown",
+          "meaning_en": "the immortality poetry confers against the oblivion of time"
+        },
+        {
+          "what": "Платье, усеянное звёздами",
+          "meaning": "божественный блеск, сияющий в творениях великих поэтов",
+          "what_en": "Star-strewn robe",
+          "meaning_en": "the divine brilliance that shines in the works of great poets"
+        },
+        {
+          "what": "Обнажённая грудь",
+          "meaning": "плодовитость прекрасных мыслей и изобретений",
+          "what_en": "Bared breast",
+          "meaning_en": "the fecundity of fine thoughts and inventions"
+        },
+        {
+          "what": "Воспламенённое лицо",
+          "meaning": "неистовые порывы духа великих поэтов, подобные безумию",
+          "what_en": "Flushed, fiery face",
+          "meaning_en": "the frenzied raptures of great poets' minds, akin to madness"
+        },
+        {
+          "what": "Лира и рожок",
+          "meaning": "сладость стихов, околдовывающая слушателей, и пробуждение мужества примером героев",
+          "what_en": "Lyre and horn",
+          "meaning_en": "the sweetness of verse that enchants listeners, and the courage roused by heroic example"
+        }
+      ],
+      "text_ru": [
+        "Эта юная дама, облачённая в платье небесного цвета, сплошь усеянное звёздами, представляет Поэзию. На голове у неё лавровый венец, грудь обнажена, а лицо воспламенено, причём в правой руке она держит рожок, а в левой — виолу, или, если угодно, подобие лиры.",
+        "Поэзия, по Платону, собственно есть выражение божественных вещей, которые по особой милости небес как бы вдохновляются в духе Поэта.",
+        "Её изображают юной и прекрасной, ибо нет человека, сколь бы грубым и диким он ни был, которого она не очаровала бы своими прелестями и красотами.",
+        "Её венчают лавром, деревом вечнозелёным, не боящимся молнии, дабы показать, что она делает людей бессмертными, укрывая их от обид времени, которое обычно разрушает и предаёт забвению большую часть вещей мира.",
+        "Её платье, полное звёзд, — символ того божественного блеска, который сияет в творениях превосходных Поэтов.",
+        "Её обнажённая грудь, чьи сосцы, как предполагают, полны молока, являет плодовитость прекрасных мыслей и различных изобретений, которые суть как бы душа Поэзии. И потому она действительно задумчива и является с воспламенённым лицом, ибо у великих Поэтов дух обычно разгорячён некими порывами и неистовыми движениями, подобными безумию.",
+        "Кроме того, она держит в одной руке лиру, а в другой — рожок, оттого что сладостью прекрасных стихов она как бы околдовывает тех, кто их слушает, и пробуждает мужество примером Героев, о великих деяниях которых она не устаёт возвещать."
+      ],
+      "text_fr": [
+        "Cette jeune dame couverte d'vne robe de couleur celeste, toute semée d'étoilles, represente la Poësie. Elle a sur la teste vne couronne de laurier, le sein découvert, & le visage enflammé, outre que de la main droite elle tient vn clairon, & de la gauche vne viole, ou si vous voulez vne maniere de lyre.",
+        "La Poësie, selon Platon, est proprement vne expression des choses divines, qui par vne grace particuliere du ciel sont comme inspirées dans l'esprit du Poëte.",
+        "On la peint jeune & belle, parce qu'il n'est point d'homme, si brutal & si barbare soit-il, qu'elle ne charme par ses agréemens & par ses beautez.",
+        "On la couronne de laurier, arbre toûjours verdoyant, & qui ne craint point la foudre, pour montrer qu'elle rend les hommes immortels, en les mettant à couvert des injures du temps, qui détruit ordinairement & fait oublier la plûpart des choses du monde.",
+        "Sa robe pleine d'étoilles est vn symbole de ce divin éclat qui brille dans les ouvrages des excellens Poëtes.",
+        "Son sein découvert, dont on suppose que les mammelles sont pleines de lait, figurent la fecondité des belles pensées, & des inventions diverses qui sont comme l'ame de la Poësie. Aussi est-elle pensive en effet, & paroist avec vn visage tout enflammé, parce que les grands Poëtes ont pour l'ordinaire l'esprit échauffé de certains transports & mouvemens violens semblables à la fureur.",
+        "Elle tient au reste vne lyre d'vne main, & vn clairon de l'autre, dautant que par la douceur des beaux vers elle rend comme enchantez ceux qui les écoutent, & qu'elle réveille les courages par l'exemple des Heros, dont elle ne cesse de publier les grandes actions."
+      ],
       "en": "Poetry",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-248-1.jpg",
+        "p2-248-2.jpg",
+        "p2-248-3.jpg"
+      ]
     },
     {
       "id": "p2-249",
@@ -19665,12 +19770,34 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-249.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Виола (двойная лира), на которой она играет",
+          "meaning": "власть приятных созвучий над сердцами",
+          "what_en": "Viol (double lyre) she plays",
+          "meaning_en": "the power of pleasing harmonies over hearts"
+        },
+        {
+          "what": "Венец на голове",
+          "meaning": "символ власти, завоёванной чарующей гармонией",
+          "what_en": "Crown on her head",
+          "meaning_en": "a symbol of the dominion won by her enchanting harmony"
+        }
+      ],
+      "text_ru": [
+        "Этот образ Гармонии, копия которого взята с оригинала, что хранится во Флоренции, во Дворце Великого Герцога, не нуждается, как мне кажется, в объяснении, поскольку она достаточно даёт себя узнать по виоле, или двойной лире, на которой играет, и по венцу, который носит, — истинным символам той власти, которую её приятные и чарующие созвучия завоёвывают над сердцами."
+      ],
+      "text_fr": [
+        "Cette figure de l'Harmonie, dont la copie est tirée de l'original qui s'en voit à Florence dans le Palais du Grand Duc, n'a pas besoin ce me semble d'estre expliquée, puisqu'elle se donne assez à connoistre par la viole ou la double lyre dont elle jouë, & par la couronne qu'elle porte, vrays symboles de l'empire que ses concerts agreables & charmans luy font gagner sur les cœurs."
+      ],
       "en": "Harmony",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-249-1.jpg"
+      ]
     },
     {
       "id": "p2-250",
@@ -19683,12 +19810,79 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-250.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Гирлянда цветов и платье с нотами",
+          "meaning": "искусство пения и музыки",
+          "what_en": "Garland of flowers and a robe strewn with notes",
+          "meaning_en": "the art of singing and music"
+        },
+        {
+          "what": "Арфа и инструменты у ног",
+          "meaning": "атрибуты музыкального искусства",
+          "what_en": "Harp and instruments at her feet",
+          "meaning_en": "the attributes of the musical art"
+        },
+        {
+          "what": "Лазурный шар, на котором сидит девушка",
+          "meaning": "гармония чувственной музыки, основанная на гармонии небес",
+          "what_en": "Azure globe on which the maiden sits",
+          "meaning_en": "the harmony of sensible music, grounded in the harmony of the heavens"
+        },
+        {
+          "what": "Наковальня и молоты на весах",
+          "meaning": "происхождение музыкального искусства (предание об Авиценне) и точность голоса",
+          "what_en": "Anvil and hammers on the scales",
+          "meaning_en": "the origin of music (the legend of Avicenna) and the precision of the voice"
+        },
+        {
+          "what": "Цикада на порванной струне лиры",
+          "meaning": "иероглиф Музыки (предание о Евномии)",
+          "what_en": "Cicada on the lyre's broken string",
+          "meaning_en": "the hieroglyph of Music (the legend of Eunomius)"
+        },
+        {
+          "what": "Соловей и сосуд с вином",
+          "meaning": "совершенная мелодия природы и радость, которую дарит музыка",
+          "what_en": "Nightingale and a vessel of wine",
+          "meaning_en": "nature's perfect melody and the joy music bestows"
+        }
+      ],
+      "text_ru": [
+        "Она увенчана гирляндой цветов и облачена в платье, сплошь усеянное различными нотами, какими обычно пользуются, обучаясь пению; кроме того, она играет на арфе, а у её ног видно несколько инструментов, которые сразу дают узнать её тем, кто хоть немного её разглядывает, что избавляет меня от труда давать здесь объяснение. Но это не мешает мне привести ещё два других образа, которыми пользовались некоторые древние, дабы её изобразить.",
+        "Первый — это образ юной девушки, которая видна сидящей на лазурном шаре, с пером в руке, с глазами, как бы прикованными к книге Музыки, положенной на наковальню; а у её ног — весы, на чашах которых заметны несколько молотов.",
+        "То, что она сидит, показывает, что это развлечение весьма способно освежать дух.",
+        "Лазурный шар означает, что вся гармония чувственной Музыки основана на гармонии небес, которую познали Пифагорейцы. К этому добавлю то общее мнение некоторых древних, что знание этого прекрасного искусства может некоторым образом служить к открытию средств примирять страсти души и даже, как говорят Греки, находить соразмерность добродетелей. Потому-то Поэты разумно измыслили, что после того, как Корибанты и Куреты избавили младенца Юпитера от жестокого обращения, которому подвергал его отец Сатурн, они отвели его на Крит, дабы там вскормить; и, сопровождая его туда, принялись играть на кимвалах и некоторых других медных инструментах: здесь следует заметить, понимая это нравственно, что под этим должно разуметь истинную мудрость, которая не может возвыситься или возрасти в нас без этой совершенной гармонии, необходимо требуемой, дабы согласовать беспорядочные движения наших страстей. На это можно добавить ещё, что тем же Юпитером, спасённым из рук Сатурна, обозначена та чистейшая, нетленная часть Неба, над которой никак не может возобладать власть времени, хотя оно и пожирает все прочие Стихии, и незаметно обращает в ничто все вещественные соединения.",
+        "Опущу то, что среди древних нашлись некоторые, утверждавшие, что Боги состоят из чисел и гармонии, подобно тому как человек состоит из души и тела. По этой причине в своих жертвоприношениях они весьма охотно внимали музыке и её приятным созвучиям: символом всего этого служит тот таинственный образ, представляющий девушку, сидящую на Небе.",
+        "Кроме того, книгой музыки преподаётся правило, которого нужно держаться, дабы зрительно обучить этому дивному Искусству тех, кто его не знает; а весами показана точность, требуемая в голосе, о которой судят на слух. Что же до наковальни, она помещена здесь не без серьёзной причины, ибо некоторые писали, что именно от неё это искусство ведёт своё происхождение, и что от ударов молотов по этому тяжёлому куску железа Авиценна приобрёл знание разнообразия тонов, о котором принялся писать.",
+        "Второй образ Музыки являет собой женщина, держащая в руке лиру, одна из струн которой порвана, и недостаток которой восполняет цикада; кроме того, у неё на голове соловей, у ног — большой сосуд, полный вина, а рядом — виола со смычком.",
+        "Цикада, которая видна сидящей на лире, означает Музыку, по причине того, что случилось с неким Евномием, который, играя однажды на этом инструменте в состязании со знаменитым Аристоксеном, имел такую удачу, что в самый прекрасный миг своего произведения, когда у него порвалась струна, на его лиру села цикада и так удачно восполнила своим пением недостаток струны, что он остался победителем: откуда произошло, что в память об этом событии Греки воздвигли статую самому Евномию, держащему лиру, на которой виднелась цикада; это было принято за истинный иероглиф Музыки.",
+        "Соловей также служит её символом, по своей дивной мелодии, в которой, как заметили древние, естественно заключено всё самое превосходное и совершенное в этом прекрасном искусстве.",
+        "Что же до сосуда, полного вина, он означает, что Музыка была изобретена, дабы радовать людей, как делает этот драгоценный напиток, которым те, кто занимается этим ремеслом, увлечены не без причины, поскольку, по суждению самых древних Писателей, Музыканты и Поэты весьма любят общество доброго отца Вакха."
+      ],
+      "text_fr": [
+        "Elle est couronnée d'vne guirlande de fleurs, & vestuë d'vne robbe toute semée de diverses notes, dont on se sert ordinairement pour apprendre à chanter; outre qu'elle jouë d'vne harpe, & qu'à ses pieds se voyent plusieurs instrumens, qui la font d'abord connoistre à ceux qui la considerent tant soit peu, ce qui me garentit de la peine d'en donner icy l'explication. Mais cela n'empesche pas que je ne rapporte deux autres figures, dont quelques anciens se sont servis à la representer.",
+        "La premiere est celle d'vne jeune fille qui se voit assise sur vn globe d'azur, ayant vne plume à la main, les yeux comme attachez sur vn livre de Musique posé sur vn enclume; & à ses pieds des balances, dans les bassins desquelles sont remarquables plusieurs marteaux.",
+        "Ce qu'elle est assise est pour montrer que ce divertissement est grandement propre à delasser l'esprit.",
+        "Le globe d'azur signifie que toute l'harmonie de la Musique sensible se fonde sur l'harmonie des cieux, que les Pythagoriciens ont connuë. A quoy j'ajoûte cette commune opinion de quelques-vns des anciens, que l'intelligence de ce bel art peut servir en quelque façon à découvrir les moyens de mettre d'accord les passions de l'ame, & mesme, comme disent les Grecs, à trouver la symmetrie des vertus. Aussi est-ce pour cela que les Poëtes ont feint judicieusement qu'aprés que les Corybantes & les Curetes eurent délivré Jupiter enfant, du cruel traitement que luy faisoit Saturne son pere, ils le menerent en Candie pour y estre nourry; & qu'en l'y accompagnant, ils se mirent à jouër des cymbales, & de quelques autres instrumens d'airain: où il est à remarquer, à le prendre moralement, que par là se doit entendre la vraye sagesse, qui ne peut s'élever ny prendre accroissement en nous, sans cette parfaite harmonie, qui est necessairement requise pour accorder les mouvemens déreglez de nos passions. Surquoy l'on peut dire encore, que par le mesme Jupiter sauvé des mains de Saturne, est signifiée cette plus pure partie du Ciel incorruptible, contre laquelle ne peut se prévaloir aucunement l'empire du temps, bien que d'ailleurs il devore tous les Elemens, & reduise insensiblement à neant toutes les compositions materielles.",
+        "J'obmets que parmy les anciens il s'en est trouvé quelques-vns, qui ont dit que les Dieux estoient composez de nombres & d'harmonie, de mesme que l'homme est composé d'ame & de corps. A raison dequoy en leurs sacrifices ils oyoient tres-volontiers la musique, & ses concerts agreables: De toutes lesquelles choses est vn symbole certe mysterieuse figure, representant vne fille assise sur vn Ciel.",
+        "D'ailleurs par le livre de musique est enseignée la regle qu'il faut tenir pour apprendre par la veuë ce merveilleux Art à ceux qui ne le sçavent pas; comme par les balances est demontrée la justesse requise en la voix, de laquelle on juge par l'oreille. Quant à l'enclume, il n'est pas mis icy sans vne grande raison, quelques-vns ayant écrit que c'est de luy dont cet art a pris son origine, & que par le frappement des marteaux sur cette lourde piece de fer, Avicenne s'acquit la connoissance de la diversité des tons, dont il se mit à écrire.",
+        "La seconde figure de la Musique se démontre par vne femme tenant en main vne lyre, dont l'vne des cordes est rompuë, & au deffaut de laquelle supplée vne cigale; outre qu'elle a sur sa teste vn rossignol, à ses pieds vn grand vase plein de vin, & à son costé vne viole avec son archet.",
+        "La cigale qui se voit posée sur la lyre, signifie la Musique, à cause de ce qui advint à vn certain Eunomius, qui joüant vn jour de cet instrument à l'envy du fameux Aristoxene, eut tant de bonne fortune, qu'au point le plus charmant de sa piece vne corde s'estant rompuë, vne cigale se vint poser sur sa lyre, & supplea si bien par son chant au manquement de la corde, qu'il demeura victorieux: D'où il advint que pour memoire de cette action, les Grecs dresserent vne statuë au mesme Eunomius, tenant vne lyre, où se voyoit vne cigale; ce qui fut pris pour vn vray hieroglyphe de la Musique.",
+        "Le rossignol en est aussi vn symbole, pour sa merveilleuse melodie, où se trouve naturellement, comme les anciens l'ont remarqué, tout ce qu'il y a de plus excellent & de plus parfait en ce bel art.",
+        "Quant au vase plein de vin, il signifie que la Musique a esté inventée pour réjouïr les hommes, comme fait cette precieuse liqueur, de laquelle ceux de cette profession ne sont pas amoureux sans cause, puisqu'au jugement des plus anciens Ecrivains, les Musiciens & les Poëtes se plaisent fort en la compagnie du bon pere Bacchus."
+      ],
       "en": "Music",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-250-1.jpg",
+        "p2-250-2.jpg",
+        "p2-250-3.jpg",
+        "p2-250-4.jpg"
+      ]
     },
     {
       "id": "p2-251",
