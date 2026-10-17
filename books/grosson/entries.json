@@ -9756,6 +9756,529 @@
       "findspot_fr": "terrains près Saint-Victor",
       "findspot_ru": "земли близ Сен-Виктора",
       "findspot_en": "grounds near Saint-Victor"
+    },
+    {
+      "id": "pl33-1",
+      "part": 3,
+      "plate": 33,
+      "num": "1",
+      "fr": "Urne cinéraire en terre cuite (citée par Ruffi)",
+      "ru": "Терракотовая погребальная урна (упомянута Рюффи)",
+      "en": "Terra-cotta cinerary urn (cited by Ruffi)",
+      "page": "212",
+      "group": "XXXIII",
+      "group_fr": "Planche XXXIII",
+      "group_en": "XXXIII",
+      "group_page": "212",
+      "flag": "",
+      "type": "object",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl33-full.jpg"
+      ],
+      "plate_img": "pl33-full.jpg",
+      "bbox": [
+        11.5,
+        1.0,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. Urne cinéraire en terre cuite, trouvée dans Marseille, & citée par Ruffi, dans son histoire de cette Ville, tome 2, page 312."
+      ],
+      "text_ru": [
+        "№ 1. Терракотовая погребальная урна, найденная в Марселе и упомянутая Рюффи в его истории этого города, т. 2, с. 312."
+      ],
+      "text_en": [
+        "No. 1. Terra-cotta cinerary urn, found at Marseille, and cited by Ruffi in his history of this City, vol. 2, p. 312."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl33-2",
+      "part": 3,
+      "plate": 33,
+      "num": "2",
+      "fr": "Hydrie en cuivre rouge (bec en tête de dragon)",
+      "ru": "Гидрия из красной меди (носик в виде головы дракона)",
+      "en": "Red-copper hydria (dragon-head spout)",
+      "page": "212",
+      "group": "XXXIII",
+      "group_fr": "Planche XXXIII",
+      "group_en": "XXXIII",
+      "group_page": "212",
+      "flag": "",
+      "type": "object",
+      "material_fr": "cuivre",
+      "material_ru": "медь",
+      "material_en": "copper",
+      "img": [
+        "pl33-full.jpg"
+      ],
+      "plate_img": "pl33-full.jpg",
+      "bbox": [
+        48.5,
+        1.0,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Hydrie en cuivre rouge. Elle est en mon pouvoir, & fut trouvée dans les quartiers de la ville vieille, ensevelie sous les ruines d'une voûte qui paroissoit avoir servi de canal. Elle est décorée d'un gouleau en cuivre jaune représentant la tête d'un Dragon; on y distingue les annelets qu'on remarque sur le corps des insectes rampans. C'est ainsi qu'on étoit en usage de représenter le col & la queue des Dragons. C'est probablement cet usage qui a donné lieu à l'erreur vulgaire, que le serpent devenoit dragon, après avoir subi les changemens ordinaires aux chenilles; on sait que les hydries étoient des vases destinés à porter l'eau pour les usages domestiques. Celle que je décris est de très-bon goût & dans de belles proportions; le gouleau est très-bien exécuté. Il a été jetté en fonte, en deux parties qui ont été soudées ensemble."
+      ],
+      "text_ru": [
+        "№ 2. Гидрия из красной меди. Она находится в моём владении и была найдена в кварталах старого города, погребённой под развалинами свода, который, по-видимому, служил каналом. Она украшена носиком из жёлтой меди в виде головы дракона; на нём различимы кольчатые членения, подобные тем, что видны на теле ползучих насекомых. Именно так было принято изображать шею и хвост драконов. Вероятно, именно этот обычай породил распространённое заблуждение, будто змея превращалась в дракона после обычных для гусениц превращений; известно, что гидрии были сосудами, предназначенными для переноски воды в домашнем обиходе. Описываемая мною гидрия отличается очень хорошим вкусом и прекрасными пропорциями; носик исполнен весьма искусно. Она была отлита в двух частях, спаянных между собой."
+      ],
+      "text_en": [
+        "No. 2. Hydria in red copper. It is in my possession, and was found in the quarters of the old town, buried beneath the ruins of a vault that appeared to have served as a channel. It is adorned with a spout in yellow copper representing a Dragon's head; the rings seen on the bodies of crawling insects can be made out on it. This is how the neck and tail of Dragons were customarily shown. It is probably this custom that gave rise to the common error that the serpent became a dragon after undergoing the usual transformations of caterpillars; it is known that hydriae were vessels meant to carry water for household uses. The one I describe is of very good taste and fine proportions; the spout is very well executed. It was cast in two pieces, which were soldered together."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "quartiers de la ville vieille",
+      "findspot_ru": "кварталы старого города",
+      "findspot_en": "the quarters of the old town"
+    },
+    {
+      "id": "pl33-3",
+      "part": 3,
+      "plate": 33,
+      "num": "3",
+      "fr": "Urne cinéraire en terre cuite (citée par Ruffi)",
+      "ru": "Терракотовая погребальная урна (упомянута Рюффи)",
+      "en": "Terra-cotta cinerary urn (cited by Ruffi)",
+      "page": "212",
+      "group": "XXXIII",
+      "group_fr": "Planche XXXIII",
+      "group_en": "XXXIII",
+      "group_page": "212",
+      "flag": "",
+      "type": "object",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl33-full.jpg"
+      ],
+      "plate_img": "pl33-full.jpg",
+      "bbox": [
+        83.5,
+        1.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Urne cinéraire en terre cuite citée par Ruffi dans son Histoire de Marseille, tom. 2, page 312."
+      ],
+      "text_ru": [
+        "№ 3. Терракотовая погребальная урна, упомянутая Рюффи в его «Истории Марселя», т. 2, с. 312."
+      ],
+      "text_en": [
+        "No. 3. Terra-cotta cinerary urn cited by Ruffi in his History of Marseille, vol. 2, p. 312."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl33-4",
+      "part": 3,
+      "plate": 33,
+      "num": "4-5",
+      "fr": "Bouchon doré en terre cuite (operculum), vu de côté et de face",
+      "ru": "Позолоченная терракотовая пробка (operculum), вид сбоку и спереди",
+      "en": "Gilded terra-cotta stopper (operculum), side and front views",
+      "page": "213",
+      "group": "XXXIII",
+      "group_fr": "Planche XXXIII",
+      "group_en": "XXXIII",
+      "group_page": "212",
+      "flag": "",
+      "type": "object",
+      "material_fr": "terre cuite dorée",
+      "material_ru": "позолоченная терракота",
+      "material_en": "gilded terra cotta",
+      "img": [
+        "pl33-full.jpg"
+      ],
+      "plate_img": "pl33-full.jpg",
+      "bbox": [
+        21.5,
+        37.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4 & 5. Le petit monument que je décris sous ces numeros, est un de ceux aussi singuliers par la forme, qu'il est incompréhensible dans son usage. Il a été trouvé, avec nombre d'autres, dans des tombeaux situés sur le terrain de Made. Corail, sous le glacis de la Citadelle St. Nicolas. Mr. son fils a daigné me les communiquer obligeamment: tous ces morceaux étoient en terre cuite. Ils avoient été dorés en dessus à la partie qui est toute en bossettes. On reconnoît les traces du mordant de couleur rouge, & des particules d'or que le temps a respecté; j'en ai fait représenter un par le côté, sous le n°.4, & l'autre en face, pour laisser le lecteur à portée de juger de leur usage. Je crois pouvoir l'indiquer, en disant que c'étoit de vrais Operculi, ou bouchons destinés à couvrir l'orifice des lacrimatoires ou des bouteilles, qui contenoient des liqueurs balsamiques; car les mêmes tombeaux en renfermoient plusieurs."
+      ],
+      "text_ru": [
+        "№ 4 и 5. Небольшой памятник, который я описываю под этими номерами, относится к числу тех, что столь же своеобразны по форме, сколь непонятны по своему назначению. Он был найден, вместе со множеством подобных, в гробницах, расположенных на землях г-жи Кораль, под гласисом цитадели Сен-Николя. Её сын любезно согласился предоставить их мне: все эти предметы были из обожжённой глины. Сверху, в той части, что вся покрыта выпуклыми бугорками, они были позолочены. На них заметны следы красного закрепителя и частицы золота, пощажённые временем; я велел изобразить один из них сбоку, под № 4, а другой — анфас, чтобы дать читателю возможность судить об их назначении. Полагаю, что могу указать его, сказав, что это были настоящие operculi, то есть пробки, предназначенные закрывать горловину слёзниц или бутылей, содержавших бальзамические жидкости; ведь те же гробницы заключали их по несколько штук."
+      ],
+      "text_en": [
+        "Nos. 4 & 5. The small piece I describe under these numbers is one as singular in shape as it is incomprehensible in its use. It was found, together with a number of others, in tombs located on the grounds of Madame Corail, beneath the glacis of the Citadel of St. Nicolas. Her son kindly agreed to let me have them: all these pieces were of terra cotta. They had been gilded on top, on the part covered entirely in small bosses. Traces of the red mordant can be seen, along with particles of gold that time has spared; I have had one shown from the side, under no. 4, and the other face-on, so that the reader may judge their use. I believe I can indicate it by saying these were true Operculi, or stoppers meant to cover the mouth of lacrimatories or bottles that held balsamic liquids, since the same tombs contained several of them."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "propriété de Mme Corail, sous le glacis de la Citadelle St. Nicolas",
+      "findspot_ru": "владение г-жи Кораль, под гласисом цитадели Сен-Николя",
+      "findspot_en": "the property of Mme Corail, beneath the glacis of the Citadel of St. Nicolas"
+    },
+    {
+      "id": "pl33-5",
+      "part": 3,
+      "plate": 33,
+      "num": "6",
+      "fr": "Bouteille en verre à liqueurs balsamiques",
+      "ru": "Стеклянная бутыль для бальзамических жидкостей",
+      "en": "Glass bottle for balsamic liquids",
+      "page": "213",
+      "group": "XXXIII",
+      "group_fr": "Planche XXXIII",
+      "group_en": "XXXIII",
+      "group_page": "212",
+      "flag": "",
+      "type": "object",
+      "material_fr": "verre",
+      "material_ru": "стекло",
+      "material_en": "glass",
+      "img": [
+        "pl33-full.jpg"
+      ],
+      "plate_img": "pl33-full.jpg",
+      "bbox": [
+        80.5,
+        30.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 6. Bouteille en verre dont on a trouvé plusieurs dans les tombeaux, qui étoient situés dans les mêmes terrains de Made. Corail. Leur forme qui est encore celle en usage de nos jours pour les liqueurs balsamiques, nous indique assez leur usage."
+      ],
+      "text_ru": [
+        "№ 6. Стеклянная бутыль, несколько экземпляров которой было найдено в гробницах, расположенных на тех же землях г-жи Кораль. Их форма, до сих пор употребляемая для бальзамических жидкостей, достаточно указывает на их назначение."
+      ],
+      "text_en": [
+        "No. 6. Glass bottle, several of which were found in the tombs located on the same grounds of Madame Corail. Their shape, still used today for balsamic liquids, sufficiently indicates their use."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "propriété de Mme Corail, sous le glacis de la Citadelle St. Nicolas",
+      "findspot_ru": "владение г-жи Кораль, под гласисом цитадели Сен-Николя",
+      "findspot_en": "the property of Mme Corail, beneath the glacis of the Citadel of St. Nicolas"
+    },
+    {
+      "id": "pl33-6",
+      "part": 3,
+      "plate": 33,
+      "num": "7",
+      "fr": "Anneau d'or nuptial (Concordia)",
+      "ru": "Золотое свадебное кольцо (Concordia)",
+      "en": "Gold wedding ring (Concordia)",
+      "page": "213",
+      "group": "XXXIII",
+      "group_fr": "Planche XXXIII",
+      "group_en": "XXXIII",
+      "group_page": "212",
+      "flag": "",
+      "type": "object",
+      "material_fr": "or",
+      "material_ru": "золото",
+      "material_en": "gold",
+      "img": [
+        "pl33-full.jpg"
+      ],
+      "plate_img": "pl33-full.jpg",
+      "bbox": [
+        28.5,
+        48.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 7. Anneau d'or trouvé dans le Port de Marseille en pêchant des coquilles, selon ce que rapporte Ruffi (94). Il portoit sur le chaton la figure de J. C., qui faisoit toucher la main à deux personnes de sexe différent; ce qui dénote un de ces anneaux nommés Annuli pronubi ou Geniales; en un mot, de vraies bagues nuptiales. Celle-ci doit être des premiers siecles du Christianisme, puisque le mot gravé au dessous des trois figures est grec: on lit OTONOIA, c'est-à-dire, Concordia. L'union des deux époux.",
+        "(94) Ruffi, Hist. de Marseille, tom. 2, pag. 391."
+      ],
+      "text_ru": [
+        "№ 7. Золотое кольцо, найденное в марсельском порту при ловле ракушек, согласно сообщению Рюффи (94). На его щитке было изображение Иисуса Христа, соединяющего руки двух лиц разного пола; это указывает на один из тех перстней, что назывались annuli pronubi, или geniales, — одним словом, подлинные свадебные кольца. Это кольцо должно относиться к первым векам христианства, поскольку слово, выгравированное под тремя фигурами, греческое: читается ΟΤΟΝΟΙΑ, то есть Concordia — «согласие», союз двух супругов.",
+        "(94) Рюффи, «История Марселя», т. 2, с. 391."
+      ],
+      "text_en": [
+        "No. 7. Gold ring found in the Harbor of Marseille while fishing for shellfish, according to Ruffi (94). It bore on its bezel the figure of Jesus Christ joining the hands of two persons of different sex, which marks it as one of those rings called Annuli pronubi or Geniales — in a word, genuine wedding rings. This one must date from the earliest centuries of Christianity, since the word engraved beneath the three figures is Greek: one reads OTONOIA, that is, Concordia — the union of the two spouses.",
+        "(94) Ruffi, History of Marseille, vol. 2, p. 391."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "ΟΤΟΝΟΙΑ",
+      "legend_ru": "ΟΤΟΝΟΙΑ",
+      "legend_en": "ΟΤΟΝΟΙΑ",
+      "findspot_fr": "Port de Marseille",
+      "findspot_ru": "марсельский порт",
+      "findspot_en": "the Harbor of Marseille"
+    },
+    {
+      "id": "pl33-7",
+      "part": 3,
+      "plate": 33,
+      "num": "8",
+      "fr": "Anneau d'argent nuptial (chrisme, Alpha et Oméga)",
+      "ru": "Серебряное свадебное кольцо (хризма, альфа и омега)",
+      "en": "Silver wedding ring (chi-rho, Alpha and Omega)",
+      "page": "214",
+      "group": "XXXIII",
+      "group_fr": "Planche XXXIII",
+      "group_en": "XXXIII",
+      "group_page": "212",
+      "flag": "",
+      "type": "object",
+      "material_fr": "argent",
+      "material_ru": "серебро",
+      "material_en": "silver",
+      "img": [
+        "pl33-full.jpg"
+      ],
+      "plate_img": "pl33-full.jpg",
+      "bbox": [
+        60.5,
+        48.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 8. Autre anneau antique en argent. Il se trouve au trésor de Notre-Dame de Confession, à St. Victor; je le crois également une bague nuptiale en usage chez les premiers Chrétiens, qui mettoient le Signum salutare ou Labarum de Constantin, le monograme, pro Christo, dans tout ce qui étoit à leur usage. Les deux lettres Alpha & Omega désignent qu'il remonte aux premiers siecles de l'Eglise de Marseille, dans lequel temps on parloit & on écrivoit encore en grec dans cette Ville."
+      ],
+      "text_ru": [
+        "№ 8. Другое античное кольцо, серебряное. Оно хранится в сокровищнице Нотр-Дам-де-Конфессьон в Сен-Викторе; я полагаю, что это также свадебное кольцо, бытовавшее у первых христиан, помещавших signum salutare, или лабарум Константина, — монограмму pro Christo — на всё, что находилось в их обиходе. Две буквы «альфа» и «омега» указывают, что оно восходит к первым векам марсельской церкви, когда в этом городе ещё говорили и писали по-гречески."
+      ],
+      "text_en": [
+        "No. 8. Another antique ring, in silver. It is kept in the treasury of Notre-Dame de Confession, at St. Victor; I likewise believe it to be a wedding ring used among the early Christians, who placed the Signum salutare, or Constantine's Labarum — the pro Christo monogram — on everything they used. The two letters Alpha and Omega indicate that it dates back to the earliest centuries of the Church of Marseille, a time when Greek was still spoken and written in this City."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "Α ☧ Ω",
+      "legend_ru": "Α ☧ Ω",
+      "legend_en": "Α ☧ Ω",
+      "findspot_fr": "trésor de Notre-Dame de Confession, Saint-Victor",
+      "findspot_ru": "сокровищница Нотр-Дам-де-Конфессьон, Сен-Виктор",
+      "findspot_en": "the treasury of Notre-Dame de Confession, Saint-Victor"
+    },
+    {
+      "id": "pl33-8",
+      "part": 3,
+      "plate": 33,
+      "num": "9",
+      "fr": "Lampe de cuivre à quatre lumignons, consacrée à Diane",
+      "ru": "Медная четырёхфитильная лампа, посвящённая Диане",
+      "en": "Four-wick copper lamp, consecrated to Diana",
+      "page": "215",
+      "group": "XXXIII",
+      "group_fr": "Planche XXXIII",
+      "group_en": "XXXIII",
+      "group_page": "212",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "cuivre",
+      "material_ru": "медь",
+      "material_en": "copper",
+      "img": [
+        "pl33-full.jpg"
+      ],
+      "plate_img": "pl33-full.jpg",
+      "bbox": [
+        11.5,
+        59.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 9. Lampe de Cuivre à quatre lumignons, soutenue par quatre brochettes de fer au haut desquelles étoit adapté un Croissant. Le trou qu'on découvroit dans cette partie supérieure, étoit sans doute pratiqué pour la suspendre. Ces sortes de Lampes étoient ordinairement placées dans les Larraires ou dans les Temples, devant les Statues qu'on vouloit honorer. Celle-ci fut trouvée au quartier du Château Gombert; ce Village est un des plus anciens du territoire de Marseille; il est nommé dans les titres Castellum Humberti. Il ne seroit point étonnant que les premiers Habitans de ce lieu eussent eu un culte en l'honneur de Diane par conformité avec leur Métropole. La Lampe que je décris, étoit effectivement consacrée à cette Déesse, ainsi que le dénote le Croissant dont elle est surmontée. L'Auteur du Romanum Museum cite plusieurs Lampes décorées du même attribut, qu'il dit avoir été consacrées à Diane: on sait que cette Divinité étoit chez les Payens la même que la Lune. Ce Monument étoit au pouvoir de M. Kapeller, de l'Académie de Peinture de cette Ville; c'est de lui que je tiens le dessin que j'ai fait graver; l'original étoit le double en proportion de la gravure."
+      ],
+      "text_ru": [
+        "№ 9. Медная лампа с четырьмя фитилями, укреплённая на четырёх железных прутьях, на верху которых был насажен полумесяц. Отверстие, обнаруживаемое в этой верхней части, было, несомненно, устроено для подвешивания. Лампы такого рода обычно помещались в лараriях или в храмах, перед статуями, которые желали почтить. Эта была найдена в квартале Шато-Гомбер; это селение — одно из самых древних на марсельской земле; в документах оно именуется Castellum Humberti. Неудивительно было бы, если бы первые жители этого места имели культ в честь Дианы по подобию со своей метрополией. Описываемая мною лампа действительно была посвящена этой богине, на что указывает увенчивающий её полумесяц. Автор «Romanum Museum» приводит несколько ламп, украшенных тем же атрибутом, которые, по его словам, были посвящены Диане: известно, что это божество у язычников отождествлялось с Луной. Этот памятник находился во владении г-на Капеллера, члена Академии живописи этого города; именно от него я получил рисунок, который велел гравировать; оригинал по размерам вдвое превосходил гравюру."
+      ],
+      "text_en": [
+        "No. 9. Copper Lamp with four wicks, supported by four iron spikes, at the top of which a Crescent was fitted. The hole found in this upper part was doubtless made for hanging it. Lamps of this kind were usually placed in Lararia or in Temples, before the Statues one wished to honor. This one was found in the Château Gombert quarter; this Village is one of the oldest in Marseille's territory; it is named in the records Castellum Humberti. It would not be surprising if the earliest inhabitants of this place had held a cult in honor of Diana, following their Mother City. The Lamp I describe was indeed consecrated to this Goddess, as shown by the Crescent surmounting it. The author of the Romanum Museum cites several Lamps adorned with the same attribute, which he says were consecrated to Diana: this Divinity, it is known, was identified among the Pagans with the Moon. This piece was in the possession of M. Kapeller, of this City's Academy of Painting; it is from him that I have the drawing I had engraved; the original was twice the size of the engraving."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "quartier du Château Gombert",
+      "findspot_ru": "квартал Шато-Гомбер",
+      "findspot_en": "the Château Gombert quarter"
+    },
+    {
+      "id": "pl33-9",
+      "part": 3,
+      "plate": 33,
+      "num": "10",
+      "fr": "Lampe en terre cuite à couronne civique de chêne",
+      "ru": "Терракотовая лампа с гражданским дубовым венком",
+      "en": "Terra-cotta lamp with an oak civic wreath",
+      "page": "215",
+      "group": "XXXIII",
+      "group_fr": "Planche XXXIII",
+      "group_en": "XXXIII",
+      "group_page": "212",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl33-full.jpg"
+      ],
+      "plate_img": "pl33-full.jpg",
+      "bbox": [
+        46.5,
+        59.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 10. Lampe en terre cuite, trouvée en 1756 dans les terrains du Champ-Major; cet endroit, ainsi que je l'ai observé, étoit destiné à la sepulture dans les temps de Marseille ancienne; ce qui prouve que notre Lampe avoit servi à quelque cérémonie funèbre. Ce Monument est remarquable en ce qu'il présente une Couronne de chêne en relief, parfaitement ressemblante à celles sculptées sur plusieurs Monumens grecs, insérés dans les divers Recueils d'Antiquité. Les Couronnes étoient en usage chez les Grecs & les Romains pour récompenser ceux qui avoient bien merité de la Patrie. Ces derniers accordoient la Couronne de chêne à ceux qui sauvoient la vie à un Citoyen dans le combat. Ils ne donnoient que sur le témoignage de celui à qui on avoit sauvé la vie. Elle étoit nommée Couronne Civique; le Citoyen qui l'avoit reçue, pouvoit la porter toute sa vie; il jouissoit du droit de prendre place aux Jeux publics dans les rangs des Sénateurs, qui se levoient à son arrivée ainsi que le Peuple; il étoit exempt des charges publiques; il communiquoit ce privilége à son Pere & à son Ayeul paternel. Ceux à qui cet honneur avoit été déféré, devoient être flattés de faire représenter la Couronne sur tout ce qui étoit destiné à l'usage de leur famille; cela donne lieu de présumer, que notre Lampe avoit servi à la sepulture de quelqu'un qui avoit obtenu cette récompense. Ce Monument a été long-temps en mon pouvoir, je le cedai à M. le Comte de Caylus."
+      ],
+      "text_ru": [
+        "№ 10. Терракотовая лампа, найденная в 1756 году на землях Шан-Майор; это место, как я уже отмечал, предназначалось для погребений во времена древнего Марселя; это доказывает, что наша лампа служила какому-то погребальному обряду. Этот памятник примечателен тем, что являет рельефный дубовый венок, в точности схожий с теми, что высечены на многих греческих памятниках, помещённых в различных собраниях древностей. Венки были в ходу у греков и римлян для награждения тех, кто хорошо послужил отечеству. Римляне жаловали дубовый венок тем, кто спас жизнь гражданину в бою. Они давали его лишь по свидетельству того, чья жизнь была спасена. Он назывался гражданским венком; гражданин, его получивший, мог носить его всю жизнь; он пользовался правом занимать место на общественных играх в рядах сенаторов, которые вставали при его появлении, как и народ; он был освобождён от общественных повинностей; этой привилегией он делился со своим отцом и дедом по отцовской линии. Те, кому была оказана эта честь, должны были гордиться тем, чтобы изображать этот венок на всём, что предназначалось для обихода их семьи; это даёт основание предполагать, что наша лампа служила для погребения кого-то, кто удостоился этой награды. Этот памятник долгое время находился в моём владении, я уступил его графу де Кайлюсу."
+      ],
+      "text_en": [
+        "No. 10. Terra-cotta lamp, found in 1756 on the grounds of the Champ-Major; this spot, as I have noted, was set aside for burial in the times of ancient Marseille, which proves that our Lamp had served some funerary ceremony. This piece is notable for presenting an oak Wreath in relief, perfectly resembling those carved on several Greek monuments included in various collections of antiquities. Wreaths were used among the Greeks and Romans to reward those who had served their Country well. The Romans granted the oak Wreath to those who saved a Citizen's life in battle. They awarded it only on the testimony of the one whose life had been saved. It was called the Civic Crown; the Citizen who received it could wear it for life; he enjoyed the right to a seat at public Games among the ranks of Senators, who rose at his arrival, as did the People; he was exempt from public burdens; he passed on this privilege to his Father and paternal Grandfather. Those on whom this honor had been conferred would naturally be flattered to have the Wreath depicted on everything meant for their family's use; this gives grounds to presume that our Lamp had served at the burial of someone who had earned this reward. This piece was long in my possession; I gave it up to M. le Comte de Caylus."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "terrains du Champ-Major",
+      "findspot_ru": "земли Шан-Майор",
+      "findspot_en": "the grounds of the Champ-Major"
+    },
+    {
+      "id": "pl33-10",
+      "part": 3,
+      "plate": 33,
+      "num": "11",
+      "fr": "Lampe en terre cuite de galbe singulier",
+      "ru": "Терракотовая лампа причудливого очертания",
+      "en": "Terra-cotta lamp of an odd shape",
+      "page": "216",
+      "group": "XXXIII",
+      "group_fr": "Planche XXXIII",
+      "group_en": "XXXIII",
+      "group_page": "212",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl33-full.jpg"
+      ],
+      "plate_img": "pl33-full.jpg",
+      "bbox": [
+        80.5,
+        59.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 11. La Lampe en terre cuite, qui est au pouvoir de M. Michel. Ce morceau fut trouvé dans le terrain de la Place de St. Victor; il n'a rien de remarquable, si ce n'est la bizarrerie du galbe."
+      ],
+      "text_ru": [
+        "№ 11. Терракотовая лампа, находящаяся во владении г-на Мишеля. Этот предмет был найден на землях площади Сен-Виктор; он не представляет ничего примечательного, кроме причудливости своего очертания."
+      ],
+      "text_en": [
+        "No. 11. The terra-cotta Lamp in the possession of M. Michel. This piece was found on the grounds of the Place de St. Victor; it has nothing remarkable about it, except the oddity of its outline."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "place Saint-Victor",
+      "findspot_ru": "площадь Сен-Виктор",
+      "findspot_en": "the Place Saint-Victor"
     }
   ]
 }
