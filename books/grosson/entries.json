@@ -5872,6 +5872,250 @@
       "findspot_fr": "Autel de St. Lazare, Église Cathédrale",
       "findspot_ru": "алтарь Св. Лазаря, Кафедральный собор",
       "findspot_en": "Altar of St. Lazarus, Cathedral Church"
+    },
+    {
+      "id": "pl15-1",
+      "part": 2,
+      "plate": 15,
+      "num": "1",
+      "fr": "Candélabre de bronze (Mars des Gaulois)",
+      "ru": "Бронзовый канделябр (галльский Марс)",
+      "en": "Bronze candelabrum (Mars of the Gauls)",
+      "page": "129",
+      "group": "XV",
+      "group_fr": "Planche XV",
+      "group_en": "XV",
+      "group_page": "129",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl15-full.jpg"
+      ],
+      "plate_img": "pl15-full.jpg",
+      "bbox": [
+        6.0,
+        2.0,
+        88.0,
+        56.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LE Candelabre du n°.1, a été trouvé en cette Ville, en creusant les caves d'une maison de la rue de l'Aumône; un Fondeur en fit l'acquisition, & le garda long-temps par curiosité: M. Bellon l'acheta de ce Fondeur, & s'en défit en faveur de M. Michel, dans le cabinet duquel se trouve aujourd'hui ce Bronze singulier.",
+        "Les Anciens avoient coutume de répéter sur leurs ameublemens & leurs ustensiles de ménage, la figure de leurs Divinités (31). Celle qui forme ce Candelabre, est dans le goût & le costume des figures étrusques & gauloises, rapportées par M. de Caylus dans son Recueil des Antiquités.",
+        "Il me paroît que c'est le Mars des Gaulois, que l'Artiste avoit voulu représenter; c'est à quoi on doit rapporter une entaille qui se trouve au côté gauche de la figure au-dessous de la ceinture. Cette entaille devoit avoir un glaive, ou telle autre arme incrustée; ce qui avoit du rapport avec la Divinité de la guerre. Cette figure est assez bien conservée, malgré sa grande antiquité; le bronze est de belle matière; les habillemens découpés dont cette figure est vêtue, font naturellement observer qu'il n'est aucun costume si ancien, dont on ne retrouve des traces chez quelque Nation moderne. Les Suisses ont conservé les découpures dans les habits; & les fraises autour du col, ont fait long-temps la parure de plusieurs Nations, & de la nôtre en particulier.",
+        "Le peu de Monumens Marseillois que nous possédons dans le costume étrusque, me font présumer qu'il n'étoit point adopté par nos Ancêtres, & que les morceaux relatifs à ce costume, trouvés dans cette Ville, sont dûs aux Toscans, que le commerce de Marseille attiroit dans son Port; (hauteur 1/2 pied jusqu'à l'écrou).",
+        "(31) Voyez le Recueil des Antiquités d'Herculaneum, & celui de M. de Caylus."
+      ],
+      "text_ru": [
+        "Канделябр под № 1 был найден в этом городе при рытье подвалов одного дома на улице Милостыни (rue de l'Aumône); его приобрёл литейщик и долго хранил из любопытства: г-н Беллон купил его у этого литейщика и уступил г-ну Мишелю, в чьём кабинете эта необычная бронза находится ныне.",
+        "Древние имели обыкновение повторять на своей мебели и предметах домашнего обихода изображения своих божеств (31). Фигура, образующая этот канделябр, выполнена во вкусе и в костюме этрусских и галльских изображений, приведённых г-ном де Кайлюсом в его «Собрании древностей».",
+        "Мне представляется, что художник хотел изобразить здесь галльского Марса; на это указывает насечка, имеющаяся на левом боку фигуры, ниже пояса. В этой насечке, вероятно, был вделан меч или иное оружие, что соответствовало бы божеству войны. Фигура довольно хорошо сохранилась, несмотря на свою глубокую древность; бронза прекрасного качества; прорезной наряд, в который облачена эта фигура, естественно заставляет заметить, что нет столь древнего костюма, следов которого не находили бы у какого-либо нового народа. Швейцарцы сохранили прорези в одежде; а брыжи вокруг шеи долгое время служили украшением многих народов, и в частности нашего.",
+        "Немногочисленность марсельских памятников этрусского костюма, которыми мы располагаем, заставляет меня предполагать, что он не был принят нашими предками, и что относящиеся к этому костюму предметы, найденные в этом городе, обязаны своим происхождением тосканцам, которых торговля Марселя привлекала в его порт; (высота 1/2 фута до кольца).",
+        "(31) См. «Собрание древностей Геркуланума» и собрание г-на де Кайлюса."
+      ],
+      "text_en": [
+        "The Candelabrum under no. 1 was found in this City, while digging the cellars of a house on the rue de l'Aumône; a Founder acquired it and kept it for a long time out of curiosity: M. Bellon bought it from this Founder, and gave it up in favor of M. Michel, in whose cabinet this singular Bronze is found today.",
+        "The Ancients were in the habit of repeating on their furnishings and household utensils the figure of their Divinities (31). The one forming this Candelabrum is in the taste and costume of Etruscan and Gallic figures, as reported by M. de Caylus in his Recueil des Antiquités.",
+        "It seems to me that it is the Mars of the Gauls that the Artist meant to represent; this is suggested by a notch found on the left side of the figure, below the belt. This notch must have held a sword, or some other inlaid weapon, which would relate to the Divinity of war. This figure is fairly well preserved despite its great antiquity; the bronze is of fine quality; the cut-out garments in which this figure is dressed naturally lead one to observe that there is no costume so ancient of which traces are not found among some modern Nation. The Swiss have preserved cut-out slashing in their clothes; and ruffs around the neck long served as an ornament for several Nations, and for ours in particular.",
+        "The scarcity of Marseille monuments we possess in the Etruscan costume leads me to presume that it was not adopted by our Ancestors, and that the pieces relating to this costume found in this City are owed to the Tuscans, whom Marseille's trade drew into its Port; (height 1/2 foot up to the ring).",
+        "(31) See the Recueil des Antiquités d'Herculaneum, and that of M. de Caylus."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "rue de l'Aumône",
+      "findspot_ru": "улица Милостыни (rue de l'Aumône)",
+      "findspot_en": "rue de l'Aumône"
+    },
+    {
+      "id": "pl15-2",
+      "part": 2,
+      "plate": 15,
+      "num": "2",
+      "fr": "Petit bronze: Prêtre de Jupiter jouant de la sarbacane",
+      "ru": "Малая бронза: жрец Юпитера, играющий на сарбакане",
+      "en": "Small bronze: Priest of Jupiter playing a blow-gun",
+      "page": "130",
+      "group": "XV",
+      "group_fr": "Planche XV",
+      "group_en": "XV",
+      "group_page": "129",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl15-full.jpg"
+      ],
+      "plate_img": "pl15-full.jpg",
+      "bbox": [
+        2.0,
+        56.0,
+        34.0,
+        42.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°.2. Ce petit bronze représente un Prêtre de Jupiter, jouant de la sarbacane. M. le Comte de Caylus en a donné cette explication dans le 5e. volume de son Recueil, Planche 117. Ce savant Antiquaire tenoit ce morceau de M. Germain, ancien Chancelier du Consulat de France, qui lui remit cette figure, ainsi que plusieurs autres objets antiques trouvés à Alger. M. le Comte de Caylus crut que la figure du Prêtre de Jupiter appartenoit également à cette dernière Ville, & n'hésita point de la lui attribuer; cependant M. Germain, dans le cabinet duquel j'avois vu ce morceau long-temps avant que M. de Caylus l'eût décrit, m'a assuré, avant & après cette description, qu'il avoit acquis ce Bronze des Ouvriers qui travailloient à des excavations dans les quartiers de Marseille, nommés vulgairement les Curetteries, où l'on trouva en même temps plusieurs Médailles à la tête de Diane. M. de Caylus avoit sans doute oublié ces particularités, ou M. Germain avoit négligé de l'instruire. Je reclame cette Antiquité, comme un bien de famille qui nous étoit enlevé, & je n'hésite pas de le placer dans ce Recueil, comme un monument Marseillois, d'après une assertion si authentique (32).",
+        "(32) Ce Bronze parut d'un travail si extraordinaire à M. de Caylus; qu'il ne pouvoit concevoir comment il avoit été fabriqué à Alger; aussi en rapportoit-il la composition à quelque Artiste étranger à ces climats."
+      ],
+      "text_ru": [
+        "№ 2. Эта небольшая бронза изображает жреца Юпитера, играющего на сарбакане (духовой трубке). Граф де Кайлюс дал этому такое объяснение в 5-м томе своего «Собрания», таблица 117. Этот учёный антиквар получил этот предмет от г-на Жермена, бывшего канцлера консульства Франции, который передал ему эту фигуру вместе с несколькими другими античными предметами, найденными в Алжире. Граф де Кайлюс полагал, что фигура жреца Юпитера также происходит из этого последнего города, и без колебаний приписал её ему; однако г-н Жермен, в чьём кабинете я видел этот предмет задолго до того, как г-н де Кайлюс его описал, уверял меня, как до, так и после этого описания, что приобрёл эту бронзу у рабочих, производивших раскопки в кварталах Марселя, в просторечии называемых Кюреттри (les Curetteries), где одновременно было найдено несколько медалей с головой Дианы. Г-н де Кайлюс, без сомнения, забыл об этих подробностях, либо г-н Жермен не позаботился сообщить их ему. Я предъявляю права на эту древность как на семейное достояние, которое у нас было отнято, и без колебаний помещаю её в это Собрание как марсельский памятник, основываясь на столь достоверном свидетельстве (32).",
+        "(32) Эта бронза показалась г-ну де Кайлюсу настолько необычной по исполнению, что он не мог представить, как она могла быть изготовлена в Алжире; поэтому он приписывал её создание какому-нибудь художнику, чуждому этим краям."
+      ],
+      "text_en": [
+        "No. 2. This small bronze represents a Priest of Jupiter, playing a blow-gun (sarbacane). M. le Comte de Caylus gave this explanation in the 5th volume of his Recueil, Plate 117. This learned Antiquarian held this piece from M. Germain, former Chancellor of the Consulate of France, who gave him this figure, along with several other antique objects found at Algiers. M. le Comte de Caylus believed that the figure of the Priest of Jupiter likewise belonged to that latter City, and did not hesitate to attribute it to it; however M. Germain, in whose cabinet I had seen this piece long before M. de Caylus had described it, assured me, both before and after that description, that he had acquired this Bronze from Workmen who were excavating in the districts of Marseille commonly called les Curetteries, where several Medals bearing the head of Diana were found at the same time. M. de Caylus had doubtless forgotten these particulars, or M. Germain had neglected to inform him of them. I claim this Antiquity as a family possession taken from us, and do not hesitate to place it in this Collection as a Marseille monument, on the strength of so authentic an assertion (32).",
+        "(32) This Bronze seemed to M. de Caylus to be of such extraordinary workmanship that he could not conceive how it could have been made at Algiers; he therefore attributed its making to some Artist foreign to that region."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "quartier des Curetteries, Marseille (selon M. Germain)",
+      "findspot_ru": "квартал Кюреттри, Марсель (по утверждению г-на Жермена)",
+      "findspot_en": "the Curetteries district, Marseille (per M. Germain)"
+    },
+    {
+      "id": "pl15-3",
+      "part": 2,
+      "plate": 15,
+      "num": "3",
+      "fr": "Statue de bronze de la Déesse Minerve",
+      "ru": "Бронзовая статуя богини Минервы",
+      "en": "Bronze statue of the Goddess Minerva",
+      "page": "131",
+      "group": "XV",
+      "group_fr": "Planche XV",
+      "group_en": "XV",
+      "group_page": "129",
+      "flag": "",
+      "type": "statue",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl15-full.jpg"
+      ],
+      "plate_img": "pl15-full.jpg",
+      "bbox": [
+        60.0,
+        20.0,
+        38.0,
+        62.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°.3. Statue de bronze, représentant la Déesse Minerve, trouvée à la rue des Consuls, en creusant les fondemens de la maison du sieur Peiruis, Médecin, vers le milieu de cette rue. Cette Statue fut mutilée par les ouvriers; selon ce que rapporte Ruffi (33); elle fut découverte avec une Statue de Jupiter, parmi divers débris d'un Édifice assez vaste, qui étoit le Temple de Minerve, puisque cette Statue y occupoit la principale place, à ce qu'il y a lieu de présumer de la plus grande décoration & des ornemens des vestiges qui étoient auprès de cette figure; ce fut le sentiment de tous les connoisseurs, lors de cette découverte. Le sieur Prat qui a donné un manuscrit sur Marseille, est de cet avis. Cette Statue est peut-être la même que celle à qui Caraumandus offrit un Carcan d'or, lorsqu'il feignit voir en songe cette Déesse, qui lui commanda de lever le siège de Marseille (34). Ce Caraumandus étoit un Chef ou Roi des Gaulois, voisins de Marseille; il se lia avec diverses contrées de ces barbares pour assiéger cette Ville; la généreuse résistance des Marseillois fut poussée jusqu'à l'héroïsme, même de la part des personnes du sexe, qui couperent généreusement leurs cheveux pour faire des cordes, afin d'armer les Navires & les arcs des Guerriers, selon ce que rapportent quelques Auteurs (35).",
+        "Cette résistance fit concevoir à ce Prince l'idée de se tirer en politique d'une entreprise si hasardée, & de se sauver du reproche que les Nations Gauloises liées avec lui, n'auroient pas manqué de lui faire; ainsi mettant ses intérêts d'accord avec sa gloire, il négocia sans doute secrétement la paix avec les Marseillois, & eut ensuite recours à un artifice dont le peuple & les sots ont de tout temps été les dupes. Il feignit de voir en songe la Déesse Minerve qui lui commandoit de vivre en paix avec les Marseillois; l'Armée le crut; la paix fut conclue, & Caraumandus fut droit au Temple de la Déesse: à l'aspect de sa Statue, il s'écria qu'il reconnoissoit celle qui lui étoit apparue en songe. Il manquoit ce dernier trait de supercherie, pour se mettre à l'abri des soupçons d'une soldatesque entreprenante; & ce Prince, bon politique, y mit le dernier sceau, en faisant publiquement offrande d'un Carcan d'or (36) à cette Statue. Ce métal venoit probablement des Coffres forts des Marseillois, qui, dans la détresse où ils se trouvoient, s'en servirent plus utilement que de leurs armes. Quoique nul Auteur n'ait prêté ces vues à Caraumandus, on peut le juger sur son songe, sans risque de se tromper.",
+        "(33) Tom. 2. pag. 315. Hist. de Marseille. — (34) Justin, Liv. 43. — (35) Vegece, de re milita., lib. 4. cap. 9. Frontin, lib. 1. cap. 7. — (36) Pausanias in Phoc."
+      ],
+      "text_ru": [
+        "№ 3. Бронзовая статуя, изображающая богиню Минерву, найденная на улице Консулов при рытье фундамента дома г-на Пейрюи, врача, примерно в середине этой улицы. Эта статуя была повреждена рабочими; согласно тому, что сообщает Рюффи (33); она была обнаружена вместе со статуей Юпитера, среди различных обломков довольно обширного здания, которым был храм Минервы, поскольку эта статуя занимала в нём главное место, судя по наибольшему убранству и украшениям остатков, находившихся рядом с этой фигурой; таково было мнение всех знатоков при этом открытии. Г-н Пра, оставивший рукопись о Марселе, придерживается того же мнения. Возможно, эта статуя — та самая, которой Караумандус поднёс золотое ожерелье, когда притворился, будто видел во сне эту богиню, повелевшую ему снять осаду Марселя (34). Этот Караумандус был вождём или царём галлов, соседей Марселя; он вступил в союз с различными областями этих варваров, чтобы осадить этот город; великодушное сопротивление марсельцев дошло до героизма, даже со стороны женщин, которые великодушно остригли свои волосы, чтобы изготовить верёвки для оснащения кораблей и луков воинов, согласно свидетельствам некоторых авторов (35).",
+        "Это сопротивление навело принца на мысль политически выпутаться из столь рискованного предприятия и избежать упрёка, которого не преминули бы сделать ему союзные галльские народы; примиряя таким образом свои интересы со своей славой, он, без сомнения, тайно договорился о мире с марсельцами, а затем прибегнул к уловке, жертвами которой во все времена становились простой народ и глупцы. Он притворился, что видел во сне богиню Минерву, повелевшую ему жить в мире с марсельцами; войско поверило ему; мир был заключён, и Караумандус направился прямо в храм богини: при виде её статуи он воскликнул, что узнаёт ту, что являлась ему во сне. Недоставало лишь этого последнего штриха обмана, чтобы оградить себя от подозрений предприимчивого воинства; и этот искусный политик довершил дело, публично поднеся этой статуе золотое ожерелье (36). Этот металл, вероятно, происходил из сундуков марсельцев, которые в своём бедственном положении употребили его с большей пользой, чем своё оружие. Хотя ни один автор не приписывал Караумандусу этих намерений, о нём можно судить по его сну, не рискуя ошибиться.",
+        "(33) Т. 2, с. 315. «История Марселя». — (34) Юстин, кн. 43. — (35) Вегеций, «О военном деле», кн. 4, гл. 9. Фронтин, кн. 1, гл. 7. — (36) Павсаний, «Фокида»."
+      ],
+      "text_en": [
+        "No. 3. Bronze statue, representing the Goddess Minerva, found on the rue des Consuls, while digging the foundations of the house of sieur Peiruis, a Physician, about the middle of that street. This Statue was mutilated by the workmen; according to what Ruffi reports (33); it was discovered together with a Statue of Jupiter, among various remains of a fairly large Building, which was the Temple of Minerva, since this Statue occupied the principal place there, as may be presumed from the greater decoration and ornaments of the remains found near this figure; such was the opinion of all connoisseurs at the time of this discovery. Sieur Prat, who produced a manuscript on Marseille, holds the same opinion. This Statue is perhaps the very one to which Caraumandus offered a golden Collar, when he pretended to see in a dream this Goddess, who commanded him to lift the siege of Marseille (34). This Caraumandus was a Chief or King of the Gauls, neighbors of Marseille; he allied himself with various regions of these barbarians to besiege this City; the generous resistance of the Marseillais was carried to the point of heroism, even on the part of women, who generously cut off their hair to make cords, in order to arm the Ships and the bows of the Warriors, according to what some Authors report (35).",
+        "This resistance led this Prince to conceive the idea of politically extricating himself from so hazardous an undertaking, and of sparing himself the reproach that the Gallic Nations allied with him would certainly have made; thus reconciling his interests with his glory, he doubtless negotiated peace secretly with the Marseillais, and then resorted to a trick of which the common people and fools have at all times been the dupes. He pretended to see in a dream the Goddess Minerva commanding him to live in peace with the Marseillais; the Army believed him; peace was concluded, and Caraumandus went straight to the Temple of the Goddess: at the sight of her Statue, he exclaimed that he recognized the one who had appeared to him in his dream. This final touch of trickery was needed to shield himself from the suspicions of an enterprising soldiery; and this Prince, a good politician, set the final seal on it by publicly making an offering of a golden Collar (36) to this Statue. This metal probably came from the strongboxes of the Marseillais, who, in the distress they found themselves in, put it to more useful service than their weapons. Although no Author has attributed these designs to Caraumandus, one may judge him by his dream without risk of error.",
+        "(33) Vol. 2, p. 315. History of Marseille. — (34) Justin, Bk. 43. — (35) Vegetius, De re militari, Bk. 4, Ch. 9. Frontinus, Bk. 1, Ch. 7. — (36) Pausanias, Phocis."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "rue des Consuls",
+      "findspot_ru": "улица Консулов",
+      "findspot_en": "rue des Consuls"
+    },
+    {
+      "id": "pl15-4",
+      "part": 2,
+      "plate": 15,
+      "num": "4",
+      "fr": "Médaillon de terre cuite (Imaguncula ou bulle d'affranchi)",
+      "ru": "Терракотовый медальон (imaguncula или булла вольноотпущенника)",
+      "en": "Terra-cotta medallion (Imaguncula or freedman's bulla)",
+      "page": "132",
+      "group": "XV",
+      "group_fr": "Planche XV",
+      "group_en": "XV",
+      "group_page": "129",
+      "flag": "",
+      "type": "object",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl15-full.jpg"
+      ],
+      "plate_img": "pl15-full.jpg",
+      "bbox": [
+        36.0,
+        78.0,
+        34.0,
+        20.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°.4. Médaillon de terre cuite, trouvé dans un Tombeau, sur le terrain appartenant à Mme. Corail, au-dessous du Glacis de la Citadelle St. Nicolas. Ce petit morceau est un chef-d'œuvre en son genre; il paroît avoir été doré; le laps du temps a fait disparoître la dorure; il n'en reste que quelques filets dans les plis de la draperie. La délicatesse & le coulant des contours, la beauté des traits & le fini, donnent une grande idée de la façon de modéler des anciens Marseillois: le Tombeau dans lequel cette Antiquité fut trouvée, étoit sans ornement & sans Inscription; mais le costume de la coiffure & des habillemens de la figure contenue sur ce petit Bas-relief, qui est de la même grandeur que la Gravure, me le fait rapporter aux temps grecs. M. Corail le fils, au pouvoir de qui se trouve ce joli monument, charmé de contribuer à tout ce qui pouvoit intéresser la Patrie, a bien voulu me le communiquer, ainsi que tout ce qui avoit été trouvé dans la propriété de Mme. sa mère, avec une confiance & une politesse qui méritent de ma part un témoignage public de reconnoissance.",
+        "La figure seroit-elle celle de Diane, que les Anciens représentoient souvent avec des boucles flottantes sur les épaules? Dans ce cas, ce Médaillon seroit une Amulette. Seroit-ce un de ces petits portraits en terre cuite, nommés Imagunculae, que les Romaines donnoient à leurs amans, dont parle Ciceron (37)? Dans ce cas, il faut supposer que le Citoyen dont le cadavre avoit été mis dans le Tombeau en question, avoit voulu être inhumé avec le portrait de sa maîtresse; mais la coiffure de la figure est dans le costume grec, & rien ne nous assure que l'usage des Imagunculae ait été adopté par le beau sexe, ailleurs qu'à Rome. Les Familles Romaines qui s'étoient établies à Marseille, avoient peut-être contribué à mettre nos Citoyennes dans leur costume à cet égard. Nos mœurs furent prodigieusement alterées, lorsque notre Ville fut devenue la conquête de César, & les vices de Rome durent de nécessité porter de furieuses atteintes à l'austère vertu dont nos Citoyennes avoient fait jusqu'alors profession.",
+        "De même que les Marseilloises pouvoient avoir adopté des Romaines l'usage des imaguncules, il est également probable que les Citoyens Romains, habitans en cette Ville, eussent introduit l'usage des Bulles que les affranchis portoient au col, & sur lesquelles étoient représentées les Effigies de leurs Patrons. Notre Médaillon seroit-il une de ces Bulles? On voit sur son revers, une élévation qui présente un petit espace creux intérieurement, où l'on pouvoit avoir aisément mastiqué un anneau: le Médaillon paroît avoir été doré; ce qui forme tout autant de présomptions pour croire que c'est une Bulle d'affranchi. On peut objecter à cette opinion, que le Buste est celui d'une femme, & que le sexe étoit chez les Romains dans une tutelle perpétuelle, & ne pouvoit conséquemment affranchir. Caton, cité par Tite Live (38), nous confirme la tutelle des femmes Romaines; Cicéron, dans son oraison pro Murena (39), vient à l'appui de cette autorité. Si les femmes ne pouvoient jamais être libres chez les Romains, cette loi ne fut pas toujours intacte; elle souffrit des exceptions en faveur des Vestales, par un privilège de Numa Pompilius, renouvellé par Auguste. La loi Papia Popéa, affranchit de la tutelle les femmes qui avoient donné trois fois des marques de leur fécondité. Livie & Octavie furent affranchies de tutelle, par un privilège particulier; mais comme Marseille ne souffrit aucune altération dans ses loix & qu'elle resta autonome après sa prise par César, on ne peut tirer des loix Romaines, aucune conséquence contre elle. D'ailleurs, quand même cette loi de la tutelle perpétuelle des femmes auroit été reçue dans Marseille comme dans Rome, il ne s'ensuivroit pas que les personnes du sexe ne pussent avoir le droit de Patronage par hérédité, & dans ce cas faire porter leur Effigie à leurs affranchis.",
+        "La terre glaise dont ce morceau est fabriqué, est de la même qualité que celle dont on fait de nos jours la fayance dans Marseille.",
+        "[Hauteur 1 pouce & 4 lignes, largeur 1 pouce.]",
+        "(37) Lettre à Atticus. — (38) Majores nostri nullam, ne privatam quidem rem agere fœminas sine autoritate voluerunt; in manu esse parentum, fratrum, virorum. (Titus Livius, lib. 34.) — (39) Mulieres omnes propter infirmitatem consilii, majores in tutorum potestate esse voluerunt. (Cicero pro Murena.)"
+      ],
+      "text_ru": [
+        "№ 4. Медальон из обожжённой глины, найденный в гробнице на участке, принадлежащем г-же Кораль, под гласисом цитадели Сен-Николя. Этот небольшой предмет — шедевр в своём роде; по-видимому, он был позолочен; с течением времени позолота исчезла; от неё остались лишь отдельные нити в складках драпировки. Тонкость и плавность контуров, красота черт и отделка дают высокое представление о манере лепки древних марсельцев: гробница, в которой была найдена эта древность, была лишена украшений и надписи; но костюм, причёска и одеяние фигуры, представленной на этом небольшом барельефе, имеющем тот же размер, что и гравюра, заставляют меня отнести его к греческим временам. Г-н Кораль-сын, в чьём распоряжении находится этот прелестный памятник, с радостью способствуя всему, что могло бы заинтересовать Отечество, любезно сообщил мне его, равно как и всё, что было найдено во владении его матушки, с доверием и учтивостью, заслуживающими с моей стороны публичного свидетельства признательности.",
+        "Не изображает ли эта фигура Диану, которую древние часто представляли с развевающимися по плечам локонами? В таком случае этот медальон был бы амулетом. Не один ли это из тех небольших терракотовых портретов, называемых imagunculae, которые римлянки дарили своим возлюбленным, о чём упоминает Цицерон (37)? В таком случае следует предположить, что гражданин, чьё тело было положено в упомянутую гробницу, пожелал быть погребённым с портретом своей возлюбленной; но причёска фигуры выполнена в греческом вкусе, и ничто не подтверждает, что обычай imagunculae был принят прекрасным полом где-либо, кроме Рима. Римские семьи, обосновавшиеся в Марселе, возможно, способствовали тому, чтобы наши гражданки в этом отношении переняли их обычай. Наши нравы чрезвычайно изменились, когда наш город стал завоеванием Цезаря, и пороки Рима неизбежно должны были нанести жестокий урон той суровой добродетели, которую наши гражданки исповедовали вплоть до того времени.",
+        "Подобно тому как марселькие женщины могли перенять у римлянок обычай imagunculae, равным образом вероятно, что римские граждане, жившие в этом городе, ввели обычай булл, которые вольноотпущенники носили на шее и на которых изображались лики их патронов. Не является ли наш медальон одной из таких булл? На его обороте видна выпуклость, образующая внутри небольшое полое пространство, куда легко можно было вмазать кольцо: медальон, по-видимому, был позолочен; это даёт столько же оснований полагать, что перед нами булла вольноотпущенника. Этому мнению можно возразить, что бюст изображает женщину, а женский пол у римлян находился под вечной опекой и, следовательно, не мог отпускать на волю. Катон, которого цитирует Тит Ливий (38), подтверждает нам опеку над римскими женщинами; Цицерон в своей речи «В защиту Мурены» (39) подкрепляет этот довод. Если женщины у римлян никогда не могли быть свободны, то этот закон не всегда оставался неизменным; он знал исключения в пользу весталок, по привилегии Нумы Помпилия, возобновлённой Августом. Закон Папия—Поппея освобождал от опеки женщин, трижды доказавших свою плодовитость. Ливия и Октавия были освобождены от опеки особой привилегией; но поскольку Марсель не претерпел никаких изменений в своих законах и остался самоуправляемым после взятия его Цезарем, из римских законов нельзя вывести против него никакого заключения. Впрочем, даже если бы этот закон о вечной опеке над женщинами действовал в Марселе так же, как в Риме, из этого не следовало бы, что лица женского пола не могли по наследству обладать правом патроната и в этом случае заставлять своих вольноотпущенников носить их изображение.",
+        "Глина, из которой изготовлен этот предмет, того же качества, что и та, из которой в наши дни в Марселе делают фаянс.",
+        "[Высота 1 дюйм 4 линии, ширина 1 дюйм.]",
+        "(37) «Письмо к Аттику». — (38) «Наши предки не желали, чтобы женщины вели какое-либо дело, даже частное, без соизволения; чтобы они находились под властью родителей, братьев, мужей» (Тит Ливий, кн. 34). — (39) «Все женщины, по слабости рассудка, по воле предков должны находиться под властью опекунов» (Цицерон, «В защиту Мурены»)."
+      ],
+      "text_en": [
+        "No. 4. Medallion of terra cotta, found in a Tomb, on land belonging to Mme. Corail, below the Glacis of the Citadel of St. Nicolas. This small piece is a masterpiece of its kind; it appears to have been gilded; the passage of time has made the gilding disappear; only a few traces remain in the folds of the drapery. The delicacy and flow of the contours, the beauty of the features and the finish, give a high idea of the modeling technique of the ancient Marseillais: the Tomb in which this Antiquity was found was without ornament and without Inscription; but the costume of the headdress and garments of the figure contained in this small bas-relief, which is of the same size as the Engraving, leads me to date it to Greek times. M. Corail the son, in whose possession this pretty monument is found, delighted to contribute to anything that might interest the Fatherland, was kind enough to share it with me, as well as everything that had been found on the property of his mother, with a trust and courtesy that deserve a public acknowledgment of gratitude on my part.",
+        "Could the figure be that of Diana, whom the Ancients often depicted with curls floating over her shoulders? In that case, this Medallion would be an Amulet. Could it be one of those small terra-cotta portraits, called Imagunculae, that Roman women gave to their lovers, of which Cicero speaks (37)? In that case, one must suppose that the Citizen whose body had been placed in the Tomb in question had wished to be buried with the portrait of his mistress; but the headdress of the figure is in the Greek style, and nothing assures us that the custom of Imagunculae was adopted by the fair sex anywhere but at Rome. The Roman Families who had settled at Marseille had perhaps contributed to bringing our Citizenesses into this custom. Our morals were prodigiously altered when our City became the conquest of Caesar, and the vices of Rome were bound of necessity to make furious inroads upon the austere virtue our Citizenesses had until then professed.",
+        "Just as the women of Marseille might have adopted from the Roman women the custom of imaguncules, it is equally probable that the Roman Citizens living in this City had introduced the custom of the Bullae that freedmen wore around the neck, and on which the Effigies of their Patrons were represented. Could our Medallion be one of these Bullae? On its reverse is seen a raised portion presenting a small hollow space within, where a ring could easily have been puttied in: the Medallion appears to have been gilded, which gives just as much ground for believing it to be a freedman's Bulla. One may object to this opinion that the Bust is that of a woman, and that the female sex was, among the Romans, under perpetual guardianship, and consequently could not manumit. Cato, cited by Livy (38), confirms for us the guardianship of Roman women; Cicero, in his oration pro Murena (39), supports this authority. If women could never be free among the Romans, this law was not always intact; it suffered exceptions in favor of the Vestals, by a privilege of Numa Pompilius, renewed by Augustus. The Lex Papia Poppaea freed from guardianship women who had given three proofs of their fertility. Livia and Octavia were freed from guardianship by a special privilege; but since Marseille suffered no alteration in its laws and remained autonomous after its capture by Caesar, no consequence against it can be drawn from Roman laws. Moreover, even if this law of perpetual guardianship of women had been received at Marseille as at Rome, it would not follow that women could not hold the right of Patronage by inheritance, and in that case have their Effigy worn by their freedmen.",
+        "The clay of which this piece is made is of the same quality as that used nowadays to make faience at Marseille.",
+        "[Height 1 inch 4 lines, width 1 inch.]",
+        "(37) Letter to Atticus. — (38) \"Our ancestors would not have women conduct any business, even a private one, without authority; [they willed] that they be under the power of parents, brothers, husbands.\" (Titus Livius, Bk. 34.) — (39) \"All women, because of the weakness of their judgment, our ancestors willed to be under the power of guardians.\" (Cicero, Pro Murena.)"
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "tombeau sous le glacis de la Citadelle St. Nicolas",
+      "findspot_ru": "гробница под гласисом цитадели Сен-Николя",
+      "findspot_en": "a tomb beneath the glacis of the Citadel of St. Nicolas"
     }
   ]
 }
