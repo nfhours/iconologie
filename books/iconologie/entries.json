@@ -12187,12 +12187,32 @@
       "group_fr": "Diverses Renommées",
       "group_page": "96",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-82-overview.jpg",
+        "p2-82.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Общее вступление о Молве вообще — женщина в тонком, подобранном покрывале, с крыльями на ногах и на спине, в одеянии, усеянном перьями, глазами, устами и ушами; на иллюстрации — общий вид страницы со всеми медальонами «Diverses Renommées»; затем обычная Молва — крылатая женщина, восседающая на облаках и трубящая в две трубы",
+          "meaning": "Перья, глаза, уста и уши на одеянии — всеведущая и всеразглашающая природа Молвы; две трубы — равнодушное распространение и лжи, и истины; облака — непостоянство, неоседлость Молвы, никогда не пребывающей на одном месте",
+          "what_en": "A general introduction on Fame in general — a woman in a thin, tucked-up veil, with wings on her feet and back, her robe sown with feathers, eyes, mouths and ears; the illustration shows the full page with all the \"Diverse Renowns\" roundels; then ordinary Fame — a winged woman seated on clouds, sounding two trumpets",
+          "meaning_en": "The feathers, eyes, mouths and ears on her robe signify Fame's all-knowing, all-telling nature; the two trumpets, her indifferent spreading of both lies and truth; the clouds, her restlessness, never settling in one place"
+        }
+      ],
+      "text_ru": [
+        "Молва, если взять её вообще, имеет своей эмблемой женщину, облачённую в тонкое покрывало, которое она носит подобранным до середины ног, так что, глядя на неё, сказали бы, что она бежит с невероятной быстротой. У неё также крылья на ногах и на спине, а одеяние всё усеяно перьями, глазами, устами и ушами. Ибо так именно описал её Вергилий, говоря, что обычно её сила рождается из её же лёгкости.",
+        "У неё два больших крыла, коими она возносится в воздух, тонкое одеяние, как я только что описал, и две трубы в руке, в кои она обычно трубит, представая восседающей на облаках. Всё это вместе взятое достаточно ясно показывает, что в её обычае никогда не пребывать на одном месте и разглашать без разбора ложь и истину всюду, где она проходит."
+      ],
+      "text_fr": [
+        "LA Renommée, à le prendre en general, a pour embléme une femme vestuë d'un voile delié, qu'elle porte retroussé jusques à my-jambes, qu'on diroit à la voir qu'elle court d'une vistesse incroyable. Aussi a-t'elle des aisles aux pieds & au dos, & son habillement tout semé de plumes, d'yeux, de bouches & d'aureilles. Car c'est ainsi que Virgile l'a décrit, quand il dit qu'ordinairement De sa legereté sa vigueur prend naissance.",
+        "ELLE a deux grandes aisles dont elle s'eleve en l'air, une robe deliée telle que je viens de la décrire, & deux trompettes à la main, dont elle sonne ordinairement, paroissant assise sur les nuës. Toutes ces choses ensemble sont assez claires pour faire voir que c'est sa coustume de ne demeurer jamais en mesme lieu, & de publier indifferemment le mensonge & la verité par tout où elle passe."
+      ],
       "en": "Fame Depicted in the Ordinary Manner",
-      "group_en": "Various Kinds of Fame"
+      "group_en": "Various Kinds of Fame",
+      "scans": [
+        "p2-82-1.jpg",
+        "p2-82-2.jpg"
+      ]
     },
     {
       "id": "p2-83",
@@ -12205,12 +12225,35 @@
       "group_fr": "Diverses Renommées",
       "group_page": "96",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-83.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Меркурий с кадуцеем в правой руке, ведущий коня Пегаса в левой, крылышки на голове и пятках",
+          "meaning": "Кадуцей и крылышки — быстрота и красноречие вестника; конь Пегас — крылатая, всеобщая слава; узда — власть слова, разносящего деяния великих людей по всей земле",
+          "what_en": "Mercury with a caduceus in his right hand, leading Pegasus in his left, winged sandals and a winged helmet",
+          "meaning_en": "The caduceus and wings signify the swiftness and eloquence of a messenger; Pegasus, winged, universal fame; the bridle, the power of speech that spreads great men's deeds across the earth"
+        }
+      ],
+      "text_ru": [
+        "Древняя медаль Императора Траяна представляет её в облике Меркурия, держащего в правой руке кадуцей, а в левой — коня Пегаса, что словно устремляется ввысь.",
+        "Этот образ Меркурия с его кадуцеем и крылышками на пятках означает славную Молву, ибо этот Бог, коего Древние называли Вестником Юпитера, превосходил всех в искусстве доставлять сообщения и приятно говорить, обладая голосом столь звучным, что его слышали повсюду.",
+        "Крылышки на его голове и на пятках суть символы быстроты слов.",
+        "Под конём Пегасом разумеется славная Молва об Антиное, рассеянная по всему свету: а уздой того же коня, что Меркурий ведёт в руке, показано, что посредством слов и голоса достопамятные деяния величайших мужей распространяются по всей земле."
+      ],
+      "text_fr": [
+        "UNE ancienne medaille de l'Empereur Trajan la represente par un Mercure, tenant de la main droite un caducée, & en la gauche un cheval Pegase, qui semble prendre son vol en haut.",
+        "Cette image de Mercure avec son caducée & ses talonnieres denote la glorieuse Renommée, parce que ce Dieu, que les Anciens appelloient Courrier de Jupiter, excelloit en l'art de faire des messages, & de parler agreablement, avec un ton de voix si retentissant, qu'il se faisoit ouïr par tout.",
+        "Les aislerons de sa teste & ses talonnieres sont les symboles de la promptitude des paroles.",
+        "Par le cheval Pegase s'entend l'illustre Renommée d'Antinoüs, semée par tout le monde: Et par le frein de ce mesme cheval que Mercure mene en main, il est montré que par le moyen des paroles & de la voix, les faits memorables des plus grands hommes sont épandus par toute la terre."
+      ],
       "en": "Glorious Fame",
-      "group_en": "Various Kinds of Fame"
+      "group_en": "Various Kinds of Fame",
+      "scans": [
+        "p2-83-1.jpg",
+        "p2-83-2.jpg"
+      ]
     },
     {
       "id": "p2-84",
@@ -12223,12 +12266,35 @@
       "group_fr": "Diverses Renommées",
       "group_page": "96",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-84.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная крылатая женщина с белыми крыльями, трубой в правой руке, оливковой ветвью в левой и золотой цепью с сердцем-подвеской на шее",
+          "meaning": "Труба — всеобщая молва; оливковая ветвь — честность и добродетель, делающие человека знаменитым; белые крылья и сердце — совершенство и чистота доброй славы",
+          "what_en": "A young winged woman with white wings, a trumpet in her right hand, an olive branch in her left, and a golden chain with a heart pendant about her neck",
+          "meaning_en": "The trumpet signifies universal renown; the olive branch, the integrity and virtue that make a man famous; the white wings and the heart, the perfection and purity of good repute"
+        }
+      ],
+      "text_ru": [
+        "Здесь она является нам в облике юной женщины, держащей трубу в правой руке, а в левой — оливковую ветвь, сверх того с белыми крыльями, а на шее — золотую цепь, с коей свисает сердце в качестве драгоценности.",
+        "Труба означает всеобщую молву, разносящуюся в ушах людей.",
+        "Оливковая ветвь — честность доброго человека, которого его добродетели делают славным и знаменитым. Ибо олива и плод её всегда принимаются в добром смысле, особенно в Священном Писании, где сказано, что имя Господа нашего Иисуса Христа подобно разлитому елею.",
+        "Опускаю, что Древние имели обыкновение венчать Юпитера оливковой ветвью, дабы показать, что он в высшей степени добр; и что здесь драгоценность в виде сердца есть символ того же совершенства, означенного ещё и наивной белизной крыльев, приписываемых этой фигуре."
+      ],
+      "text_fr": [
+        "L'ON nous la figure icy par une jeune femme, qui tient une trompette de la main droite, & de la gauche un rameau d'olivier, ayant de plus des aisles blanches, & à son col une chaisne d'or, d'où pend un cœur pour joyau.",
+        "La trompette signifie le bruit universel qui s'épand dans les oreilles des hommes.",
+        "Le rameau d'olivier, l'integrité d'un homme de bien, que ses vertus rendent fameux & celebre. Car l'olivier & son fruit se prennent toûjours en bonne part, principalement dans les saintes Lettres, où il est dit que le nom de Nostre Seigneur Jesus-Christ est tel que l'huile épanduë.",
+        "J'obmets que les Anciens avoient accoûtumé de couronner Jupiter d'une branche d'olivier, pour montrer qu'il estoit souverainement bon; & qu'icy le joyau en forme de cœur est un symbole de cette mesme perfection, qui est encore denotée par la naïve blancheur des aisles, qu'on attribuë à cette figure."
+      ],
       "en": "Good Fame",
-      "group_en": "Various Kinds of Fame"
+      "group_en": "Various Kinds of Fame",
+      "scans": [
+        "p2-84-1.jpg",
+        "p2-84-2.jpg"
+      ]
     },
     {
       "id": "p2-85",
