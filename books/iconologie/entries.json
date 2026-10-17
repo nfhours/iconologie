@@ -11684,12 +11684,34 @@
       "group_fr": "Les neuf Muses",
       "group_page": "86–87",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-69.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Общее вступление о Девяти Музах вообще (их число и имена); затем Полимния — женщина с жемчугом на голове, в белом одеянии, правая рука поднята в ораторском жесте, в левой руке свиток с надписью «Suadere»",
+          "meaning": "Жемчуг и самоцветы — дарования, обогащающие разум; ораторский жест и свиток с надписью «убеждать» — риторика с её четырьмя составляющими: изобретением, расположением, памятью и произношением",
+          "what_en": "A general introduction on the Nine Muses in general (their number and names); then Polymnia — a woman with pearls on her head, in a white robe, her right hand raised in an oratorical gesture, a scroll inscribed \"Suadere\" in her left",
+          "meaning_en": "The pearls and gems signify the gifts that enrich the mind; the oratorical gesture and the scroll reading \"to persuade\", rhetoric with its four parts: invention, arrangement, memory and delivery"
+        }
+      ],
+      "text_ru": [
+        "Древние изображали их юными, приятными и девственными, как видно из эпиграммы Платона, переданной Диогеном Лаэртским. Евсевий выводит их этимологию от греческого глагола μυέω, означающего наставлять в честных вещах и в изящных науках. Отсюда и то, что Орфей в своих гимнах говорит, что сами они научили людей религии и искусству доброй жизни. Все Поэты сходятся в их числе и именах, каковые суть: Полимния, Эрато, Терпсихора, Урания, Каллиопа, Клио, Евтерпа, Талия и Мельпомена.",
+        "Её изображают с жемчугом на голове, в белом одеянии, с правой рукой, поднятой в жесте произносящего речь, а в левой — свитком, на коем начертано слово Suadere (убеждать).",
+        "Самоцветы и жемчуг на её голове суть знаки дарований и качеств, обогащающих её разум; ибо, следуя заповедям Риторики, она применяет изобретение, расположение, память и произношение, общие этому прекрасному искусству, являя, как говорит Вергилий: Или своим действием, или даже своим жестом То, что желает показать и сделать явным."
+      ],
+      "text_fr": [
+        "LES Anciens les ont representées jeunes, agreables, & vierges, comme il se voit dans un epigramme de Platon, rapporté par Diogene Laërtius. Eusebe en tire l'etymologie du verbe Grec μυέω, qui signifie instruire aux choses honnestes, & aux belles disciplines. D'où vient qu'Orphée en ses hymnes dit qu'elles-mesmes ont appris aux hommes la religion & l'art de bien vivre. Tous les Poëtes demeurent d'accord de leur nombre & de leurs noms, qui sont Polymnie, Erato, Terpsicore, Uranie, Calliope, Clio, Euterpe, Thalie, & Melpomene.",
+        "On la peint ayant des perles sur la teste, une robe blanche, la main droite haussée en action de haranguer, & en la gauche un rouleau où est écrit le mot, Suadere.",
+        "Les pierreries & les perles qu'elle a sur la teste, sont les marques des dons & des qualitez qui enrichissent son esprit; car suivant les preceptes de la Rhetorique, elle employe l'invention, la disposition, la memoire, & la prononciation, qui sont communes à ce bel art, faisant voir, comme dit Virgile, Ou par son action, ou mesme par son geste, Ce qu'elle veut montrer & rendre manifeste."
+      ],
       "en": "Polyhymnia",
-      "group_en": "The Nine Muses"
+      "group_en": "The Nine Muses",
+      "scans": [
+        "p2-69-1.jpg",
+        "p2-69-2.jpg",
+        "p2-69-3.jpg"
+      ]
     },
     {
       "id": "p2-70",
@@ -11702,12 +11724,35 @@
       "group_fr": "Les neuf Muses",
       "group_page": "86–87",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-70.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Приятная дева, увенчанная миртом и розами, с лирой в правой руке и смычком в левой, рядом крылатый Амур с луком и факелом",
+          "meaning": "Мирт и розы — любовные предметы, которыми занимается Эрато, посвящённые Венере и Купидону; лира и смычок — музыкальное сопровождение любовной поэзии и песен",
+          "what_en": "A pleasant maiden crowned with myrtle and roses, a lyre in her right hand and a bow in her left, a winged Cupid with a bow and torch beside her",
+          "meaning_en": "The myrtle and roses signify the amorous subjects Erato treats, both sacred to Venus and Cupid; the lyre and bow, the musical accompaniment of love poetry and song"
+        }
+      ],
+      "text_ru": [
+        "Её изображают приятной девой доброго нрава. Она увенчана миртом и розами, с лирой в правой руке, смычком в левой, а подле неё — маленький крылатый Амур с луком и зажжённым факелом. Эрато названа так от греческого слова έρως, означающего Любовь.",
+        "Её венчают миртом и розами, ибо она занимается любовными предметами, чьими символами служат это растение и этот цветок, будучи оба посвящены прекрасной Венере и её сыну Купидону.",
+        "Что до лиры и смычка, оба весьма подобают Эрато: Любящая лишь лютни, стихи и песни, Она даёт Музам бал на разные лады."
+      ],
+      "text_fr": [
+        "ON la represente par une fille agreable & de belle humeur. Elle est couronnée de myrthe & de roses, ayant en sa main droite une lyre, en la gauche un archet, & prés d'elle un petit Amour avec des aisles, un arc & un flambeau allumé. Erato est ainsi nommée du mot Grec έρως, qui signifie Amour.",
+        "On la couronne de myrthe & de roses, parce qu'elle traite des sujets amoureux dont cette plante & cette fleur sont les symboles, pour estre l'une & l'autre consacrées à la belle Venus & à son fils Cupidon.",
+        "Pour ce qui est de la lyre & de l'archet, tous deux sont tres-convenables à Erato, Qui n'aimant que les luths, les vers & les chansons, Donne aux Muses le bal en diverses façons."
+      ],
       "en": "Erato",
-      "group_en": "The Nine Muses"
+      "group_en": "The Nine Muses",
+      "scans": [
+        "p2-70-1.jpg",
+        "p2-70-2.jpg",
+        "p2-70-3.jpg",
+        "p2-70-4.jpg"
+      ]
     },
     {
       "id": "p2-71",
@@ -11720,12 +11765,31 @@
       "group_fr": "Les neuf Muses",
       "group_page": "86–87",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-71.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Терпсихора, увенчанная перьевой гирляндой, держащая арфу, под звук которой словно пляшет",
+          "meaning": "Перьевая гирлянда — трофей победы Муз над Сиренами в пении; упоминание дочерей Пиэра, обращённых в сорок за дерзость состязаться с Музами",
+          "what_en": "Terpsichore, crowned with a feathered garland, holding a harp to whose sound she seems to dance",
+          "meaning_en": "The feathered garland signifies the trophy of the Muses' victory in song over the Sirens; the mention of Pierus's daughters, turned into magpies for daring to compete with the Muses"
+        }
+      ],
+      "text_ru": [
+        "Она увенчана гирляндой и держит арфу, под звук которой словно пляшет.",
+        "Эта гирлянда, как я уже говорил прежде, была обычной для Муз и сделана из перьев разных цветов, что казались трофеем победы этих прекрасных дев над Сиренами, над коими они одержали верх в пении, как замечает Павсаний; отсюда же видно и наказание дочерей Пиэра и Эниппы, обращённых, по Овидию, в Сорок."
+      ],
+      "text_fr": [
+        "ELLE est couronnée d'une guirlande, & tient une harpe, au son de laquelle elle semble danser.",
+        "Cette guirlande, comme j'ay dit cy-devant, estoit ordinaire aux Muses, & faite de plumes de diverses couleurs, qui sembloient estre un trophée de la victoire de ces belles vierges sur les Syrenes, par dessus lesquelles elles emporterent le prix à chanter, comme le remarque Pausanias; par où se voit encore la punition des filles de Pierius & d'Enippe, qui selon Ovide furent changées en Pies."
+      ],
       "en": "Terpsichore",
-      "group_en": "The Nine Muses"
+      "group_en": "The Nine Muses",
+      "scans": [
+        "p2-71-1.jpg",
+        "p2-71-2.jpg"
+      ]
     },
     {
       "id": "p2-72",
@@ -11738,12 +11802,31 @@
       "group_fr": "Les neuf Muses",
       "group_page": "86–87",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-72.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Урания в лазурном одеянии, увенчанная звёздами, держащая обеими руками большой небесный глобус",
+          "meaning": "Лазурный цвет и звёздный венец — небесная природа (от греч. «уранос» — небо); глобус — познание движения светил, возносящее учёных мужей к небесам",
+          "what_en": "Urania in an azure robe, crowned with stars, holding a great celestial globe with both hands",
+          "meaning_en": "The azure color and starry crown signify her heavenly nature (from the Greek \"ouranos\", heaven); the globe, the knowledge of the stars' motions that raises learned men toward the heavens"
+        }
+      ],
+      "text_ru": [
+        "Она облачена в лазурный цвет, увенчана звёздами и обеими руками держит большой глобус.",
+        "Эту Музу называют небесной от греческого слова ουρανός, означающего Небо, ибо она возносит туда учёных мужей. И вот почему, сообразно этому свойственному ей значению, ей дают звёздный венец и сферический глобус. Ибо она же сама, без тучи и покрова, Познаёт движения и бег звёзд."
+      ],
+      "text_fr": [
+        "ELLE est vestuë de couleur d'azur, couronnée d'estoiles, & soûtient des deux mains un grand globe.",
+        "Cette Muse est dite celeste du mot Grec ουρανός, qui signifie le Ciel, à cause qu'elle y eleve les hommes sçavans. Et voila pourquoy conformément à cette signification qui luy est propre, on luy donne une couronne d'estoiles, & un globe spherique. Car elle-mesme aussi sans nuage & sans voiles, Connoist les mouvemens & le cours des estoiles."
+      ],
       "en": "Urania",
-      "group_en": "The Nine Muses"
+      "group_en": "The Nine Muses",
+      "scans": [
+        "p2-72-1.jpg",
+        "p2-72-2.jpg"
+      ]
     },
     {
       "id": "p2-73",
@@ -11756,12 +11839,34 @@
       "group_fr": "Les neuf Muses",
       "group_page": "86–87",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-73.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Каллиопа, увенчанная золотым венцом, держащая несколько лавровых венков в левой руке и три книги (Одиссею, Илиаду, Энеиду) в правой",
+          "meaning": "Золотой венец — её первенство как главной из Муз; лавровые венки — награда поэзии; три эпические книги — героический жанр, покровительницей коего она является",
+          "what_en": "Calliope, crowned with gold, holding several laurel wreaths in her left hand and three books (the Odyssey, Iliad and Aeneid) in her right",
+          "meaning_en": "The golden crown signifies her primacy as chief of the Muses; the laurel wreaths, poetry's reward; the three epic books, the heroic genre over which she presides"
+        }
+      ],
+      "text_ru": [
+        "Эта девятая из Муз, юная и увенчанная, как и её подруги, держит в левой руке несколько лавровых венков, а в правой — три книги: Одиссею, Илиаду и Энеиду.",
+        "На голове её венец, что должен быть золотым, ибо, по Гесиоду, она достойнейшая и главная из Муз.",
+        "Лавровые венки, что она несёт, — символ и награда Поэзии; а три тома — творения славнейших Поэтов, писавших героическими стихами, изобретение коих ей приписывается этим стихом Вергилия: Каллиопа описывает прекрасные деяния Героев."
+      ],
+      "text_fr": [
+        "CETTE neufiéme des Muses, jeune & couronnée comme ses compagnes, tient en son bras gauche plusieurs guirlandes de laurier, & en sa main droite trois livres, qui sont l'Odyssée, l'Iliade, & l'Eneide.",
+        "Elle a sur sa teste une couronne qui doit estre d'or, à cause que selon Hesiode elle est la plus digne & la principale des Muses.",
+        "Les guirlandes de laurier qu'elle porte sont le symbole & la recompense de la Poësie; & les trois volumes, les œuvres des plus illustres Poëtes qui ont écrit en vers heroïques, dont l'invention luy est attribuée par ce vers de Virgile, Calliope décrit les beaux faits des Heros."
+      ],
       "en": "Calliope",
-      "group_en": "The Nine Muses"
+      "group_en": "The Nine Muses",
+      "scans": [
+        "p2-73-1.jpg",
+        "p2-73-2.jpg",
+        "p2-73-3.jpg"
+      ]
     },
     {
       "id": "p2-74",
@@ -11774,12 +11879,33 @@
       "group_fr": "Les neuf Muses",
       "group_page": "86–87",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-74.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Клио, юная дева, увенчанная лавром, с трубой в правой руке и книгой Фукидида в левой",
+          "meaning": "Труба — провозглашение славы; книга Фукидида — изобретение Истории, приписываемое Клио; лавровый венец — бессмертие, даруемое Историей деяниям великих мужей",
+          "what_en": "Clio, a young maiden crowned with laurel, a trumpet in her right hand and a book of Thucydides in her left",
+          "meaning_en": "The trumpet signifies the proclamation of fame; the book of Thucydides, the invention of History attributed to Clio; the laurel crown, the immortality History bestows on the deeds of great men"
+        }
+      ],
+      "text_ru": [
+        "Её изображают юной девой, увенчанной лавром, держащей в правой руке трубу, а в левой — книгу, на коей начертано имя Фукидид.",
+        "Эту Музу зовут Клио от греческого слова κλέω, означающего «хвалить», или, быть может, от κλέος, то же что «слава», дабы показать ту, что стяжают Поэты в уважении учёных мужей.",
+        "Ей дают держать книгу Фукидида, ибо именно этой Музе приписывают изобретение Истории. Ибо, как говорит Вергилий: Эта Дочь Неба в полноте славы Воспевает имена и победу великих воинов. Она же и не допускает их смерти; вот почему её венчают лавром, ибо посредством Истории она делает бессмертными деяния великих мужей, подобно тому как лавр всегда сохраняет зелень вопреки обидам времени."
+      ],
+      "text_fr": [
+        "ELLE est peinte en jeune fille, couronnée de laurier, tenant de la main droite une trompette, & de la gauche un livre qui porte pour titre ce nom propre, Teucydides.",
+        "Cette Muse est appellée Clio, du mot Grec κλέω, qui signifie louër, ou possible de κλέος, qui est le mesme que gloire, pour montrer celle que s'acquierent les Poëtes dans l'estime des hommes sçavans.",
+        "On luy fait tenir un livre de Teucydide, à cause que c'est à cette Muse qu'on attribuë l'invention de l'Histoire. Car, comme dit Virgile, Cette Fille du Ciel dans un comble de gloire Chante des grands guerriers les noms & la victoire. C'est elle-mesme aussi qui les empesche de mourir; & voila pourquoy on la couronne de laurier, parce que par le moyen de l'Histoire elle rend immortelles les actions des grands hommes, de mesme que le laurier se conserve toûjours verd contre les injures du temps."
+      ],
       "en": "Clio",
-      "group_en": "The Nine Muses"
+      "group_en": "The Nine Muses",
+      "scans": [
+        "p2-74-1.jpg",
+        "p2-74-2.jpg"
+      ]
     },
     {
       "id": "p2-75",
@@ -11792,12 +11918,34 @@
       "group_fr": "Les neuf Muses",
       "group_page": "86–87",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-75.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Эвтерпа, увенчанная цветочной гирляндой, играющая на флейте обеими руками, у ног её корнеты, гобои и другие инструменты",
+          "meaning": "Флейта и инструменты у ног — музыка, которой она покровительствует; цветочная гирлянда — наслаждение и довольство, приносимые изящными науками",
+          "what_en": "Euterpe, crowned with a garland of flowers, playing a flute with both hands, cornets, oboes and other instruments at her feet",
+          "meaning_en": "The flute and instruments at her feet signify the music over which she presides; the flower garland, the pleasure and wondrous contentment the fine arts bring"
+        }
+      ],
+      "text_ru": [
+        "Её изображают увенчанной цветочной гирляндой, играющей обеими руками на флейте, помимо корнетов, гобоев и иных подобных инструментов, видимых у её ног.",
+        "Эвтерпа, если вывести это слово из греческого, означает приятная и услаждающая, по причине наслаждения и дивного довольства, что приносят изящные науки.",
+        "Некоторые полагают, что эта Муза выше Диалектики, а большинство говорит, что ей особенно мил звук флейт и подобных инструментов. Отчего Вергилий и говорит: Что она заставляет звучать скалы и воды, Сладостным звуком своего голоса и своих свирелей. Впрочем, её венчают цветами в подражание Древним, всегда плетшим Музам такие гирлянды."
+      ],
+      "text_fr": [
+        "ON la represente couronnée d'une guirlande de fleurs, & tenant à deux mains une fluste dont elle jouë, outre les clerons, les hauts-bois, & tels autres instrumens qui se voyent à ses pieds.",
+        "Euterpe, à tirer ce mot du Grec, signifie agreable & plaisante, à cause du plaisir, & du merveilleux contentement qu'apportent les belles lettres.",
+        "Quelques-uns veulent que cette Muse soit au dessus de la Dialectique, & la plus part disent qu'elle se plaist particulierement au son des flustes & de semblables instrumens. Ce qui fait dire à Virgile, Qu'elle fait retentir les rochers & les eaux, Au doux air de sa voix & de ses chalumeaux. Au reste on la couronne de fleurs à l'imitation des Anciens, qui en faisoient toûjours des guirlandes aux Muses."
+      ],
       "en": "Euterpe",
-      "group_en": "The Nine Muses"
+      "group_en": "The Nine Muses",
+      "scans": [
+        "p2-75-1.jpg",
+        "p2-75-2.jpg",
+        "p2-75-3.jpg"
+      ]
     },
     {
       "id": "p2-76",
@@ -11810,12 +11958,31 @@
       "group_fr": "Les neuf Muses",
       "group_page": "86–87",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-76.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Талия с игривым лицом, в гирлянде плюща, с маской в каждой руке и лёгкой комической обувью на ногах",
+          "meaning": "Маски и комическая обувь — атрибуты древней Комедии, изобретение коей приписывается Талии; игривый лик — весёлый, комический жанр, коему она покровительствует",
+          "what_en": "Thalia with a playful face, a garland of ivy, a mask in each hand and light comic buskins on her feet",
+          "meaning_en": "The masks and comic footwear are attributes of ancient Comedy, whose invention is attributed to Thalia; her playful face, the merry comic genre over which she presides"
+        }
+      ],
+      "text_ru": [
+        "У неё лик игривый и шаловливый, на голове — гирлянда плюща, в каждой руке — по маске, а на ногах — котурны (лёгкая комическая обувь).",
+        "Этой Музе приписывают изобретение Комедии, как о том свидетельствует Вергилий, говоря, что она ничего так не любит, как комический слог. Что до маски и обуви, что она носит, то не без основания, поскольку в древности и тем и другим пользовались в Комедиях."
+      ],
+      "text_fr": [
+        "ELLE a le visage folastre & lascif, sur la teste une guirlande de lierre, un masque en chaque main, & des brodequins aux pieds.",
+        "L'on attribuë à cette Muse l'invention de la Comedie, ainsi que le témoigne Virgile quand il dit, Qu'elle n'aime rien tant qu'un langage Comique. Quant au masque & aux brodequins qu'elle porte, c'est avec beaucoup de raison, puisqu'on se servoit anciennement de l'un & de l'autre dans les Comedies."
+      ],
       "en": "Thalia",
-      "group_en": "The Nine Muses"
+      "group_en": "The Nine Muses",
+      "scans": [
+        "p2-76-1.jpg",
+        "p2-76-2.jpg"
+      ]
     },
     {
       "id": "p2-77",
@@ -11828,12 +11995,34 @@
       "group_fr": "Les neuf Muses",
       "group_page": "86–87",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-77.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Мельпомена, важной осанки, богато одетая, с соединёнными венцами и скипетрами в левой руке и обнажённым кинжалом в правой",
+          "meaning": "Важная осанка — высокий, серьёзный предмет Трагедии, жанра, изобретение коего приписывается Мельпомене; венцы, скипетры и кинжал — превратность судьбы великих мира сего, чьё благополучие часто оборачивается крайним несчастьем",
+          "what_en": "Melpomene, of grave bearing, richly dressed, holding joined crowns and scepters in her left hand and a bare dagger in her right",
+          "meaning_en": "Her grave bearing signifies the lofty, serious subject of Tragedy, the genre attributed to Melpomene; the crowns, scepters and dagger, the reversal of fortune for the great, whose prosperity often ends in extreme misery"
+        }
+      ],
+      "text_ru": [
+        "Эта девятая Муза, важной осанки, богато одетая, держит в левой руке соединённые вместе венцы и скипетры, а в правой — совершенно обнажённый кинжал. Сама она, по Вергилию, изобрела Трагедию, а по Горацию — употребление песен и Музыки, приятно согласовав гармонию лютни и голоса.",
+        "Осанка её важна, ибо предмет Трагедии отличается также своей важностью, состоящей в деянии, прославленном Историей и Молвой и глубоко укоренённом в познании людей.",
+        "Венцы, скипетры и обнажённый кинжал, что она несёт, суть символы несчастья или доброй удачи людей, чьё процветание часто оканчивается крайним бедствием."
+      ],
+      "text_fr": [
+        "CETTE neufiéme Muse, d'un maintien grave, & richement vestuë, tient de la main gauche des couronnes & des sceptres joints ensemble, & de la droite un poignard tout nud. Elle-mesme, selon Virgile, inventa la Tragedie, & selon Horace, l'usage des chansons & de la Musique, pour avoir agreablement Du luth & de la voix accordé l'harmonie.",
+        "Elle a le maintien grave, parce que le sujet de la Tragedie se fait remarquer aussi par sa gravité, que l'on fait consister en une action, que l'Histoire & la Renommée ont publiée, & mise bien avant dans la connoissance des hommes.",
+        "Les couronnes, les sceptres & le poignard qu'elle porte nud, sont autant d'emblêmes du malheur ou de la bonne fortune des hommes, la prosperité desquels aboutit souvent à une extreme misere."
+      ],
       "en": "Melpomene",
-      "group_en": "The Nine Muses"
+      "group_en": "The Nine Muses",
+      "scans": [
+        "p2-77-1.jpg",
+        "p2-77-2.jpg",
+        "p2-77-3.jpg"
+      ]
     },
     {
       "id": "p2-78",
