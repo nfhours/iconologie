@@ -18681,12 +18681,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-227.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Нагота и разнузданность",
+          "meaning": "распутный нрав глупости",
+          "what_en": "Nakedness and dissoluteness",
+          "meaning_en": "the dissolute temper of Folly"
+        },
+        {
+          "what": "Свинья рядом",
+          "meaning": "самое нечистое животное, символ низменных пристрастий",
+          "what_en": "Pig beside her",
+          "meaning_en": "the most unclean of animals, a symbol of base attachments"
+        },
+        {
+          "what": "Луна в поднятой руке",
+          "meaning": "символ непостоянства",
+          "what_en": "Moon in her raised hand",
+          "meaning_en": "a symbol of inconstancy"
+        }
+      ],
+      "text_ru": [
+        "Эта обнажённая и разнузданная женщина представляет Глупость и распутный нрав подобных ей особ, которые предаются самым низменным существам, обозначенным здесь свиньёй, самым нечистым из всех животных. И, не довольствуясь этим, они не знают, что им следует любить, и бывают",
+        "переменчивее Луны, которая помещена здесь как символ непостоянства."
+      ],
+      "text_fr": [
+        "Cette femme nuë & débordée represente la Sotise, & l'humeur dissoluë de ses semblables, qui s'abandonnent aux plus vilains, dénotez icy par le pourceau, animal le plus immonde de tous. Dequoy n'estant pas contentes, elles ne sçavent ce qu'elles doivent aimer, & sont",
+        "plus changeantes que la Lune, qui est mise icy pour vn symbole d'inconstance."
+      ],
       "en": "Foolishness",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-227-1.jpg",
+        "p2-227-2.jpg"
+      ]
     },
     {
       "id": "p2-228",
@@ -18699,12 +18730,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-228.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Облик старой женщины, увенчанной лавром",
+          "meaning": "строгость более подобает старцам, государям и судьям",
+          "what_en": "The figure of an old woman crowned with laurel",
+          "meaning_en": "severity better suits the aged, princes and magistrates"
+        },
+        {
+          "what": "Куб, пронзённый кинжалом",
+          "meaning": "непоколебимое постоянство среди угроз и потрясений",
+          "what_en": "Cube pierced by a dagger",
+          "meaning_en": "unshakeable steadfastness amid threats and shocks"
+        },
+        {
+          "what": "Скипетр",
+          "meaning": "власть наказывать пороки",
+          "what_en": "Sceptre",
+          "meaning_en": "the power to punish vice"
+        },
+        {
+          "what": "Тигр у ног",
+          "meaning": "суровость и неумолимость в преследовании порока",
+          "what_en": "Tiger at her feet",
+          "meaning_en": "harshness and relentlessness in pursuing vice"
+        }
+      ],
+      "text_ru": [
+        "Её изображают старой, увенчанной лавром, держащей в одной руке куб, пронзённый кинжалом, а в другой — скипетр, с тигром у ног, дабы показать этим, что Строгость подобает скорее старцам, нежели молодым, и особенно Государям и Судьям; и что среди потрясений, которые ей наносят, она всегда остаётся стоять, подобно кубу, так что ни угрозы, ни мечи не могут хоть сколько-нибудь поколебать её постоянство, которое она намерена соблюдать в наказании пороков."
+      ],
+      "text_fr": [
+        "On la represente vieille, couronnée de laurier, tenant d'vne main vne cube percé d'vn poignard, & de l'autre vn sceptre, avec vn tygre à ses pieds, pour montrer par là, que la Severité convient mieux aux vieillards qu'aux jeunes, & particulierement aux Princes & aux Magistrats; & qu'au milieu des secousses qu'on luy donne, elle se trouve toûjours debout comme le cube, sans que les menaces ny les épées la puissent faire relâcher tant soit peu de la constance qu'elle se propose d'observer en la punition des vices."
+      ],
       "en": "Severity",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-228-1.jpg",
+        "p2-228-2.jpg"
+      ]
     },
     {
       "id": "p2-229",
@@ -18717,12 +18783,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-229.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Чёрное покрывало на голове",
+          "meaning": "прикрытие тёмных дел ложными предлогами",
+          "what_en": "Black veil on her head",
+          "meaning_en": "the covering of dark deeds with false pretexts"
+        },
+        {
+          "what": "Храм с голубем над ним",
+          "meaning": "церковные блага, исходящие от Святого Духа",
+          "what_en": "Small temple with a dove above it",
+          "meaning_en": "the goods of the Church, which proceed from the Holy Spirit"
+        },
+        {
+          "what": "Кошель в руке",
+          "meaning": "торговля священным за деньги",
+          "what_en": "Purse in her hand",
+          "meaning_en": "the trading of sacred things for money"
+        },
+        {
+          "what": "Надпись INTVITV PRETII",
+          "meaning": "расчёт на денежную выгоду",
+          "what_en": "Inscription INTVITV PRETII",
+          "meaning_en": "a calculation made with an eye to the price"
+        }
+      ],
+      "text_ru": [
+        "На голове у неё чёрное покрывало, оттого что в её обычае прикрывать свои тёмные дела ложными предлогами, дабы лучше их оправдать. При этом она несёт в одной руке небольшой храм, над которым виден голубь, а в другой — кошель, с окружающими словами INTVITV PRETII («В РАСЧЁТЕ НА ЦЕНУ»). Этим нам внушается, что, поскольку святая Церковь управляется Святым Духом, именно от Него происходят вообще все церковные блага, которыми пытается поживиться Симонист, когда назначает им денежную цену и выставляет их на продажу со странной мерзостью."
+      ],
+      "text_fr": [
+        "Elle a sur la teste vn voile noir, dautant que c'est sa coûtume de couvrir de faux pretextes ses actions noires, afin de les mieux authoriser. Avec cela, elle porte d'vne main vn petit temple, au dessus duquel se voit vne colombe, vne bourse de l'autre, & ces paroles à l'entour, INTVITV PRETII. Par où il est enseigné, que la sainte Eglise estant gouvernée par le saint Esprit, c'est de luy que viennent en general tous les biens Ecclesiastiques, dont le Simoniaque tâche de profiter, lorsqu'il les met à prix d'argent, & les expose en vente avec vne abomination étrange."
+      ],
       "en": "Simony",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-229-1.jpg",
+        "p2-229-2.jpg"
+      ]
     },
     {
       "id": "p2-230",
@@ -18735,12 +18836,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-230.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Сова на голове",
+          "meaning": "дурное предзнаменование (по древним авторам)",
+          "what_en": "Owl upon her head",
+          "meaning_en": "an ill omen (per the ancient authors)"
+        },
+        {
+          "what": "Круг звёзд в руке",
+          "meaning": "ложное толкование небесных знамений",
+          "what_en": "Circle of stars in her hand",
+          "meaning_en": "the false reading of celestial signs"
+        },
+        {
+          "what": "Заяц под мышкой",
+          "meaning": "животное злополучного предзнаменования",
+          "what_en": "Hare under her arm",
+          "meaning_en": "an animal of ill omen"
+        },
+        {
+          "what": "Филин и ворона у ног",
+          "meaning": "птицы дурного предзнаменования, по мнению древних авторов",
+          "what_en": "Owl and crow at her feet",
+          "meaning_en": "birds of ill omen, in the view of the ancient authors"
+        }
+      ],
+      "text_ru": [
+        "Эта старуха, с совой на голове, кругом звёзд в одной руке, зажжённой свечой в другой, зайцем под левой рукой, и у ног которой — филин и ворона, — эмблема Суеверия, символами которого служат все эти вещи вместе, и в особенности заяц, ворона и сова, которых древние авторы принимали за животных злополучных и дурного предзнаменования."
+      ],
+      "text_fr": [
+        "Cette vieille qui a sur la teste vne chouëte, vn cercle d'estoilles en vne main, en l'autre vne chandelle allumée, vn lievre sous son bras gauche, & à ses pieds vn chat-huant & vne corneille, est l'emblême de la Superstition, de laquelle toutes ces choses ensemble sont les symboles, & particulierement le lievre, la corneille & le hibou, qui sont pris par les anciens autheurs, pour des animaux malencontreux & de mauvais augure."
+      ],
       "en": "Superstition",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-230-1.jpg",
+        "p2-230-2.jpg"
+      ]
     },
     {
       "id": "p2-231",
