@@ -15444,12 +15444,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-159.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Взгляд, обращённый к Небу",
+          "meaning": "небесные утешения, которые получает смиренная душа",
+          "what_en": "Gaze turned toward Heaven",
+          "meaning_en": "the heavenly consolations received by a humbled soul"
+        },
+        {
+          "what": "Узда среди лучей",
+          "meaning": "невзгоды, которые нужно принимать и которым нужно покоряться",
+          "what_en": "Bridle amid the rays",
+          "meaning_en": "the afflictions that must be embraced and submitted to"
+        },
+        {
+          "what": "Коленопреклонение",
+          "meaning": "смирение и покорность",
+          "what_en": "Kneeling posture",
+          "meaning_en": "humility and submission"
+        }
+      ],
+      "text_ru": [
+        "Перед вашими глазами образ этой великой добродетели — в облике смиренной и скромной женщины, преклонившей колени, с глазами, обращёнными к Небу, откуда исходят яркие лучи, сквозь которые видна узда, которую она тянется взять рукой.",
+        "Этим нам явлены небесные утешения, которые получает смиренная душа, когда с ней случается какое-либо бедствие; чему учат нас слова HVMILIAVIT IN TERRA VITAM MEAM («ОН СМИРИЛ ЖИЗНЬ МОЮ ДО ЗЕМЛИ»): ибо чем больше невзгоды, подобные узде, удерживают и принижают нас на земле, тем больше мы должны их принимать и делаться покорными послушанию."
+      ],
+      "text_fr": [
+        "Vous avez devant les yeux le tableau de cette grande vertu, en la personne d'vne femme humble & modeste, qui se tient à genoux, ayant les yeux tournez vers le Ciel, d'où sortent des rayons éclatans, à travers lesquels paroist vn frein, sur qui elle porte sa main pour le prendre.",
+        "Par où nous sont declarées les consolations celestes que reçoit vne ame qui s'humilie quand il luy arrive quelque affliction; ce qui nous est enseigné par ces mots, HVMILIAVIT IN TERRA VITAM MEAM: car tant plus l'adversité, qui est comme vn frein, nous retient & nous abaisse sur la terre, tant plus nous devons l'embrasser, & nous rendre souples à l'obeïssance."
+      ],
       "en": "Obedience",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-159-1.jpg",
+        "p2-159-2.jpg"
+      ]
     },
     {
       "id": "p2-160",
@@ -15462,12 +15493,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-160.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Лысина сзади и волосы спереди",
+          "meaning": "Случай нужно хватать сразу, пока он не ускользнул",
+          "what_en": "Bald at the back, hair at the front",
+          "meaning_en": "Opportunity must be seized at once, before it escapes"
+        },
+        {
+          "what": "Одна нога в воздухе, другая на колесе",
+          "meaning": "непостоянство и быстротечность Случая",
+          "what_en": "One foot in the air, the other on a wheel",
+          "meaning_en": "the fickleness and fleeting nature of Opportunity"
+        },
+        {
+          "what": "Бритва",
+          "meaning": "необходимость отсечь все препятствия, чтобы последовать за Случаем",
+          "what_en": "Razor",
+          "meaning_en": "the need to cut away every obstacle in order to follow Opportunity"
+        }
+      ],
+      "text_ru": [
+        "Эта обнажённая женщина, держащая в руке покрывало, — символ Случая (Удобного Случая). Сзади она лысая, а спереди с волосами, дабы научить нас, что её нужно хватать тогда, когда она является, из опасения, что она от нас ускользнёт; ибо она непостоянна и всегда готова убежать. Вот почему она изображена здесь с одной ногой в воздухе, а другой — на колесе. Что до бритвы, которую она несёт, она означает, что, как только она предстаёт перед нами, необходимо отсечь всякого рода препятствия и помехи, дабы последовать за ней туда, куда она нас зовёт."
+      ],
+      "text_fr": [
+        "Cette femme nuë, qui tient vn voile à la main, est le symbole de l'Occasion. Elle est chauve par derriere, & chevelue par devant, pour nous apprendre qu'il la faut empoigner quand elle se presente, de crainte qu'elle ne nous échappe; car elle est volage, & toûjours preste à s'enfuïr. Voila pourquoy elle est icy peinte ayant vn pied en l'air, & l'autre sur vne roüe. Quant au rasoir qu'elle porte, il signifie que dés aussi-tost qu'elle s'offre à nous, il est necessaire de retrancher toutes sortes d'empeschemens & d'obstacles, pour la suivre où elle nous appelle."
+      ],
       "en": "Occasion",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-160-1.jpg",
+        "p2-160-2.jpg"
+      ]
     },
     {
       "id": "p2-161",
@@ -15480,12 +15540,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-161.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Облик старой женщины",
+          "meaning": "в старости человек более склонен к молитве, будучи ближе к смертному часу",
+          "what_en": "The figure of an old woman",
+          "meaning_en": "in old age one turns more readily to prayer, being nearer one's last hour"
+        },
+        {
+          "what": "Покрытая голова и коленопреклонение",
+          "meaning": "истинная молитва совершается уединённо и без показности",
+          "what_en": "Covered head and kneeling posture",
+          "meaning_en": "true prayer must be made privately and without ostentation"
+        },
+        {
+          "what": "Сердце в руке",
+          "meaning": "усердие и искренность души",
+          "what_en": "Heart in her hand",
+          "meaning_en": "zeal and the sincerity of her soul"
+        },
+        {
+          "what": "Кадило и чётки",
+          "meaning": "символ молитвы (Отче наш и Богородице Дево)",
+          "what_en": "Censer and rosary",
+          "meaning_en": "the symbol of prayer (the Lord's Prayer and the Hail Mary)"
+        }
+      ],
+      "text_ru": [
+        "Её изображают здесь в облике старой женщины, дабы показать, что в старости более, чем в любом другом возрасте, мы предаёмся Молитве, оттого что тогда мы ближе к нашему последнему часу. Голова у неё покрыта, и она стоит на коленях, ибо истинная молитва должна совершаться уединённо и без показности. Сердце, которое она держит в одной руке, являет её усердие и искренность её души. К этому можно добавить, что кадило — истинный символ этого, а чётки заменяют собой цепочки, которыми оно подвешено, оттого что христианин обычно пользуется ими для совершения главных своих молитв — Отче наш и Богородице Дево."
+      ],
+      "text_fr": [
+        "On la peint icy sous la personne d'vne vieille femme, pour montrer qu'en la vieillesse plus qu'en vn autre âge, nous nous adonnons à l'Oraison, à cause qu'alors nous sommes plus proches de nostre derniere fin. Elle a la teste couverte, & se tient à genoux, parce qu'vne vraye priere doit estre faite en particulier, & sans ostentation. Le cœur qu'elle tient d'vne main démontre son zele, & la sincerité de son ame. Dequoy l'on peut dire encore que l'encensoir est le vray symbole, & qu'vn chapelet y tient lieu de chaînettes pour l'attacher, à cause que le Chrestien s'en sert ordinairement à faire ses principales prieres, qui sont le Pater noster, & l'Ave Maria."
+      ],
       "en": "Prayer",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-161-1.jpg",
+        "p2-161-2.jpg"
+      ]
     },
     {
       "id": "p2-162",
@@ -15498,12 +15593,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-162.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Облик древней Римской Весталки",
+          "meaning": "целомудрие, сохранённое нерушимым",
+          "what_en": "The figure of an ancient Roman Vestal",
+          "meaning_en": "chastity kept inviolable"
+        },
+        {
+          "what": "Большой корабль, вытягиваемый простой сетью",
+          "meaning": "чудо, доказавшее невинность и целомудрие",
+          "what_en": "A great ship drawn ashore with a simple net",
+          "meaning_en": "the miracle that proved her innocence and chastity"
+        }
+      ],
+      "text_ru": [
+        "Эмблемой Целомудрия здесь изображена та древняя Римская Весталка, которая, в доказательство того, что сохранила своё целомудрие нерушимым, воззвав к Богам против своих обвинителей, засвидетельствовала свою невинность, вытащив на берег против течения большой корабль одной лишь простой сетью."
+      ],
+      "text_fr": [
+        "Pour embleme de la Pudicité se voit icy peinte cette ancienne Vestale Romaine, qui pour vn témoignage d'avoir conservé la sienne inviolable, ayant invoqué les Dieux contre ses accusateurs, témoigna son innocence, en tirant à terre à contremont vn gros navire avec vn simple filet."
+      ],
       "en": "Pudicity",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-162-1.jpg",
+        "p2-162-2.jpg"
+      ]
     },
     {
       "id": "p2-163",
