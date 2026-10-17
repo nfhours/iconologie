@@ -14281,12 +14281,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-135.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Шлем",
+          "meaning": "укрытие от естественных доводов философов и софизмов еретиков",
+          "what_en": "Helmet",
+          "meaning_en": "shelter from the natural arguments of philosophers and the sophisms of heretics"
+        },
+        {
+          "what": "Чаша",
+          "meaning": "надежда, обращённая прежде всего к таинству веры",
+          "what_en": "Chalice",
+          "meaning_en": "hope directed above all toward the sacrament of faith"
+        },
+        {
+          "what": "Зажжённая свеча, соединённая с сердцем",
+          "meaning": "добродетель веры рассеивает тьму неведения и неверия (по св. Августину)",
+          "what_en": "Lit candle joined to a heart",
+          "meaning_en": "the virtue of faith dispels the shadows of ignorance and unbelief (per Saint Augustine)"
+        }
+      ],
+      "text_ru": [
+        "Здесь вы видите, какой должна быть истинная Вера, в образе этой женщины. Она носит шлем на голове, белое платье, чашу в одной руке, а в другой — сердце с зажжённой свечой.",
+        "Шлем показывает нам, что для обретения истинной Веры нужно укрыться от оружия врагов, то есть естественных доводов философов и софизмов еретиков; чаша, на которую она пристально смотрит, говорит о том, что именно к ней прежде всего мы должны обращать наши надежды; а зажжённая свеча, соединённая с сердцем, — о том, что благодаря этой добродетели, вселённой в наши души, рассеиваются, как говорит святой Августин, тьма неведения и неверия."
+      ],
+      "text_fr": [
+        "Vous voyez icy quelle doit estre la vraye Foy, par la figure de cette femme. Elle porte vn casque sur la teste, vne robe blanche, vn calice d'vne main, & de l'autre vn cœur, avec vn cierge allumé.",
+        "Le casque nous montre, que pour avoir vne veritable Foy, il se faut mettre à couvert des armes des ennemis, qui sont, les raisons naturelles des Philosophes, & les Sophismes des heretiques; par le calice qu'elle regarde fixement, que c'est là principalement que nous devons adresser nos esperances; & par le cierge allumé, qui se voit joint à vn cœur, que par cette vertu infuse en nos ames, sont dissipées, comme dit saint Augustin, les tenebres de l'ignorance & de l'infidelité."
+      ],
       "en": "Catholic Faith",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-135-1.jpg",
+        "p2-135-2.jpg"
+      ]
     },
     {
       "id": "p2-136",
@@ -14299,12 +14330,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-136.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Покрытая покрывалом правая рука",
+          "meaning": "обряд у алтаря Верности, установленный Нумой Помпилием — верность должна быть нерушимой между друзьями",
+          "what_en": "Veiled right hand",
+          "meaning_en": "rite at the altar of Fidelity instituted by Numa Pompilius — faith must be inviolable between friends"
+        },
+        {
+          "what": "Старость, седина",
+          "meaning": "пожилые люди несравненно тщательнее хранят верность, чем молодые",
+          "what_en": "Old age, grey hair",
+          "meaning_en": "aged persons are incomparably more careful to keep their faith than the young"
+        }
+      ],
+      "text_ru": [
+        "Эта старая, поседевшая женщина, покрытая покрывалом и держащая в руке ещё одно покрывало, представляет взаимную Верность, которую должны хранить друг другу истинно любящие.",
+        "То, что она держит в правой, покрытой покрывалом руке, восходит к обычаю, установленному Нумой Помпилием, царём римлян, при жертвоприношении, совершавшемся на алтаре Верности. Этим он хотел дать понять, что верность должна быть нерушимой между друзьями. Что же до старости, она учит нас, что люди в возрасте несравненно тщательнее хранят свою верность, нежели молодые."
+      ],
+      "text_fr": [
+        "Cette femme vieille & chenuë, couverte d'vn voile, & qui en tient vn autre à la main, represente la Foy mutuelle que se doivent ceux qui s'aiment veritablement.",
+        "Ce qu'elle tient la main droite voilée fut autrefois de l'institution de Numa Pompilius Roy des Romains, dans le sacrifice qui se faisoit sur l'autel de la Fidelité. Par où il vouloit donner à entendre, qu'il faut qu'elle soit inviolable entre amis. Quant à la vieillesse, elle nous apprend que les personnes âgées sont incomparablement plus soigneuses de garder leur foy que les jeunes."
+      ],
       "en": "Faithfulness in Friendship",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-136-1.jpg",
+        "p2-136-2.jpg"
+      ]
     },
     {
       "id": "p2-137",
@@ -14317,12 +14373,49 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-137.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Голубь на голове",
+          "meaning": "Святой Дух, через которого Благодать вселяется в душу",
+          "what_en": "Dove upon her head",
+          "meaning_en": "the Holy Spirit, through whom Grace is infused into the soul"
+        },
+        {
+          "what": "Взгляд, обращённый к небу",
+          "meaning": "Благодать исходит только от Бога",
+          "what_en": "Eyes turned toward heaven",
+          "meaning_en": "Grace comes only from God"
+        },
+        {
+          "what": "Раскрытая книга и ветка оливы",
+          "meaning": "грешник примиряется с Богом через Благодать",
+          "what_en": "Open book and olive branch",
+          "meaning_en": "the sinner makes his peace with God through Grace"
+        },
+        {
+          "what": "Чаша и свиток с надписью BIBITE, ET INEBRIAMINI",
+          "meaning": "сладость примирения, опьяняющая святой любовью и отнимающая жажду мирского",
+          "what_en": "Cup and scroll inscribed BIBITE, ET INEBRIAMINI",
+          "meaning_en": "the sweetness of reconciliation, intoxicating with holy love and taking away the thirst for worldly things"
+        }
+      ],
+      "text_ru": [
+        "Вот священный образ Божественной Благодати в облике прекрасной дамы, с голубем на голове, с глазами, обращёнными к небу, с веткой оливы и раскрытой книгой в правой руке, а в левой — чашей и свитком, на котором читаются слова BIBITE, ET INEBRIAMINI («ПЕЙТЕ И УПИВАЙТЕСЬ»).",
+        "Голубь означает Святого Духа, через которого Божественная Благодать вселяется в наши души; а поскольку эта Благодать исходит только от Бога, именно поэтому дама смотрит на небо. Далее, раскрытой книгой и веткой оливы, которую она держит в руке, нам показано, что той же Благодатью грешник примиряется с Богом; и что это примирение столь сладостно, что, опьяняя, так сказать, святой любовью, оно отнимает у человека жажду мирских вещей."
+      ],
+      "text_fr": [
+        "C'est icy le sacré tableau de la Grace divine, sous la forme d'vne belle dame, ayant sur sa teste vne colombe, les yeux tournez vers le ciel, en la main droite vn rameau d'olivier, avec vn livre ouvert; & en la gauche vne coupe & vn écriteau, où se lisent ces paroles, BIBITE, ET INEBRIAMINI.",
+        "La colombe signifie le saint Esprit, par qui la Grace divine est infuse en nos ames; & d'autant que cette Grace ne vient que de Dieu, c'est par cette raison que cette dame regarde le ciel. Au reste par le livre ouvert, & par le rameau d'olivier qu'elle tient en main, il nous est enseigné que par la mesme Grace le pecheur fait sa paix avec Dieu; & que cette reconciliation est si douce, que l'enyvrant, par maniere de dire, d'vn saint amour, elle luy fait perdre la soif des choses du monde."
+      ],
       "en": "Divine Grace",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-137-1.jpg",
+        "p2-137-2.jpg"
+      ]
     },
     {
       "id": "p2-138",
@@ -14335,12 +14428,42 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-138.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Шишак (морион)",
+          "meaning": "военная сила как основа доброго правления",
+          "what_en": "Morion (helmet)",
+          "meaning_en": "military strength as a foundation of good government"
+        },
+        {
+          "what": "Ветка оливы",
+          "meaning": "блага мира",
+          "what_en": "Olive branch",
+          "meaning_en": "the goods of peace"
+        },
+        {
+          "what": "Дротик и щит",
+          "meaning": "сила войны и защита государства",
+          "what_en": "Javelin and shield",
+          "meaning_en": "the strength of war and the state's defense"
+        }
+      ],
+      "text_ru": [
+        "Это Правление представлено вам здесь в образе второй Паллады, с шишаком на голове, с веткой оливы в правой руке, а в левой — дротиком, причём той же рукой она держит щит.",
+        "Она похожа на Палладу, потому что доброе правление государства должно основываться на мудрости, на военной силе и на благах мира, символами которых служат шишак, дротик, щит и олива."
+      ],
+      "text_fr": [
+        "Ce Gouvernement vous est icy figuré par l'image d'vne seconde Pallas, ayant vn morion sur le chef, vn rameau d'olivier en la main droite, & en la gauche vn dard, outre qu'avec ce mesme bras elle soûtient vn bouclier.",
+        "Elle ressemble à Pallas, parce que le bon gouvernement d'vn Estat doit estre fondé sur la sagesse, sur les forces de la guerre, & sur les biens de la paix, qui ont pour symboles le morion, le dard, le bouclier, & l'olivier."
+      ],
       "en": "Government of the Republic",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-138-1.jpg"
+      ]
     },
     {
       "id": "p2-139",
