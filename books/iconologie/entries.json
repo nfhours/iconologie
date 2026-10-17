@@ -15830,12 +15830,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-167.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Венец из иссопа",
+          "meaning": "очищение от грехов через Покаяние",
+          "what_en": "Garland of hyssop",
+          "meaning_en": "cleansing from sin through Penitence"
+        },
+        {
+          "what": "Ветвь оливы",
+          "meaning": "мир с Богом через истинное Раскаяние",
+          "what_en": "Olive branch",
+          "meaning_en": "peace with God through true Repentance"
+        },
+        {
+          "what": "Бич",
+          "meaning": "умерщвление плоти постом, воздержанием и молитвой",
+          "what_en": "Scourge",
+          "meaning_en": "the mortification of the flesh through fasting, abstinence and prayer"
+        }
+      ],
+      "text_ru": [
+        "Раскаяние, которое мы должны испытывать о наших прегрешениях, явлено нам женщиной, увенчанной иссопом, держащей в одной руке ветвь оливы, а в другой — бич для самобичевания, со словами DELICTVM MEVM COGNITVM TIBI FECI («Я ПОЗНАЛ ГРЕХ МОЙ И ОТКРЫЛ ТЕБЕ ЕГО»). Ветвь оливы — символ",
+        "мира, который грешник обретает с Богом посредством истинного Раскаяния; а бич — другой символ, ибо им умерщвляют плоть и смиряют её воздержанием, постом и молитвами. Добавлю, что венец из иссопа означает, что мы очищаемся от наших грехов Покаянием, согласно словам Давида: «Окропи меня, Господи, иссопом» и т.д."
+      ],
+      "text_fr": [
+        "La Repentance que nous devons avoir de nos fautes, nous est démontrée par vne femme couronnée d'hysope, tenant d'vne main vn rameau d'olivier, & de l'autre vne discipline, avec ces mots, DELICTVM MEVM COGNITVM TIBI FECI. Le rameau d'olivier est vn symbole",
+        "de la paix que le pecheur fait avec Dieu par le moyen d'vne vraye Repentance; & la discipline en est vn autre, puisqu'il s'en sert à macerer son corps, & à le mortifier par abstinences, par jeûnes, & par prieres. J'obmets que la guirlande d'hysope signifie que nous ne sommes purgez de nos pechez par la Penitence, conformément à ces paroles de David, Asperges me Domine hysopo, &c."
+      ],
       "en": "Repentance for Sin",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-167-1.jpg",
+        "p2-167-2.jpg"
+      ]
     },
     {
       "id": "p2-168",
@@ -15848,12 +15879,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-168.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Сердце, источенное червями",
+          "meaning": "тайные угрызения совести",
+          "what_en": "Heart gnawed by worms",
+          "meaning_en": "the secret remorse of conscience"
+        },
+        {
+          "what": "Взгляд, устремлённый к Небу, и слёзы",
+          "meaning": "скорбь и ожидание помощи только от Бога",
+          "what_en": "Eyes fixed on Heaven and bathed in tears",
+          "meaning_en": "grief and the expectation of help from God alone"
+        },
+        {
+          "what": "Свиток COR CONTRITVM ET HVMILIATVM, DEVS, NON DESPICIES",
+          "meaning": "упование на Божье милосердие к сокрушённому сердцу",
+          "what_en": "Scroll inscribed COR CONTRITVM ET HVMILIATVM, DEVS, NON DESPICIES",
+          "meaning_en": "trust in God's mercy toward a contrite heart"
+        }
+      ],
+      "text_ru": [
+        "Сожаление о прошлых грехах являет здесь скорбная дама, чьё сердце источено червями — подлинный символ тайных угрызений её совести. Взгляд её неотрывно устремлён к Небу, глаза омыты слезами — знаками её скорби. И поскольку среди мук и терзаний, причиняемых ей её проступками, она ждёт всей помощи от Бога, она обращается только к Нему, говоря вместе с Пророком: COR CONTRITVM ET HVMILIATVM, DEVS, NON DESPICIES («СЕРДЦА СОКРУШЕННОГО И СМИРЕННОГО ТЫ НЕ ПРЕЗРИШЬ, БОЖЕ»)."
+      ],
+      "text_fr": [
+        "Le Regret des fautes passées se demontre icy par vne dame affligée, qui a le cœur rongé de vers, veritables symboles des secrets remords de sa conscience. Elle a les yeux fixes vers le Ciel, & baignez de larmes, qui sont les marques de sa douleur. Et dautant que parmy les gesnes & les tortures que luy donnent ses offenses, elle attend toute son assistance de Dieu; aussi ne s'adresse-t'elle qu'à luy, & dit avec le Prophete, COR CONTRITVM ET HVMILIATVM, DEVS, NON DESPICIES."
+      ],
       "en": "Regret",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-168-1.jpg",
+        "p2-168-2.jpg"
+      ]
     },
     {
       "id": "p2-169",
@@ -15866,12 +15926,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-169.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Шкатулка и мешок с деньгами",
+          "meaning": "неправедно приобретённое богатство",
+          "what_en": "Casket and bag of money",
+          "meaning_en": "wealth unjustly acquired"
+        },
+        {
+          "what": "Пересчитывание монет из руки в руку",
+          "meaning": "добровольное и безропотное возвращение чужого добра",
+          "what_en": "Counting coins from one hand to the other",
+          "meaning_en": "the willing, unregretful restitution of what belongs to another"
+        }
+      ],
+      "text_ru": [
+        "Эта женщина, стоящая между шкатулкой и мешком с деньгами, пересчитывающая из одной руки в другую только что взятую монету, означает, что возвращение неправедно приобретённого блага должно совершаться добровольно и без сожаления о том, ибо без этого грех не отпускается, и именно этим необходимо его непременно загладить."
+      ],
+      "text_fr": [
+        "Cette femme, qui se tenant debout entre vne cassette & vn sac d'argent, compte d'vne main à l'autre celuy qu'elle vient de prendre, signifie que la restitution du bien mal acquis se doit faire volontairement, & sans y avoir du regret, puisque sans elle le peché n'est point remis, & que c'est par elle-mesme qu'il le faut reparer necessairement."
+      ],
       "en": "Restitution",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-169-1.jpg",
+        "p2-169-2.jpg"
+      ]
     },
     {
       "id": "p2-170",
@@ -15884,12 +15967,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-170.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Сфера в правой руке",
+          "meaning": "упорядоченность небесных движений как образец для человеческих поступков",
+          "what_en": "Sphere in her right hand",
+          "meaning_en": "the ordered motion of the heavens as a model for human conduct"
+        },
+        {
+          "what": "Раскрытая книга со словами OBSECRA, ARGVE",
+          "meaning": "увещевание и порицание — два средства исправления злоупотреблений",
+          "what_en": "Open book inscribed OBSECRA, ARGVE",
+          "meaning_en": "exhortation and reprimand, the two means of correcting abuses"
+        }
+      ],
+      "text_ru": [
+        "Это образ пожилой дамы, которая правой рукой держит сферу, а левой — раскрытую книгу, на которой читаются слова OBSECRA, ARGVE («УМОЛЯЙ, ОБЛИЧАЙ»). Под Преобразованием следует понимать упорядочение злоупотреблений, которые незаметно проникли из-за вольности людей. Этого можно достичь двумя главными средствами — увещеванием и порицанием, что и дают понять два слова, видимые в книге, которую держит эта женщина. Что до сферы, которую ей дают, я не знаю иной причины, кроме как показать, что, по примеру Неба, размеренного в своих движениях, поступки людей должны быть упорядочены точно так же — через исправление и бдительность их начальствующих."
+      ],
+      "text_fr": [
+        "C'est la figure d'vne vieille dame, qui de la main droite tient vne sphere, & de la gauche vn livre ouvert, où se lisent ces paroles, OBSECRA, ARGVE. Par la Reformation se doit entendre le reglement des abus qui se sont glissez insensiblement par la licence des hommes. A quoy l'on peut parvenir par deux principaux moyens, qui sont l'exhortation, & la reprimande: ce que donnent à connoistre les deux mots qui se voyent dans le livre que tient cette femme. Quant à la sphere qu'on luy donne, je n'en sçay point d'autre cause, si ce n'est pour montrer qu'à l'exemple du Ciel, qui est reglé en ses mouvemens, il faut que les actions des hommes le soient de mesme, par la correction & la vigilance de leurs Superieurs."
+      ],
       "en": "Reformation",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-170-1.jpg",
+        "p2-170-2.jpg"
+      ]
     },
     {
       "id": "p2-171",
