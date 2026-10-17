@@ -19,6 +19,11 @@
       "n": 1,
       "ru": "Часть первая. Медали",
       "en": "Part One. Medals"
+    },
+    {
+      "n": 2,
+      "ru": "Часть вторая. Рельефы, статуи и архитектурные фрагменты",
+      "en": "Part Two. Reliefs, Statues, and Architectural Fragments"
     }
   ],
   "partsNote": "Список частей предварительный и неполный: в сохранившихся сканах не нашлось оглавления. Дополнить после сверки с оглавлением книги.",
@@ -191,6 +196,14 @@
       "caption_fr": "Aux depens de Mr Roubier de l'Ac. de P. et Sculp. de Marrseille",
       "caption_ru": "на средства г-на Рубье, Академии живописи и скульптуры Марселя",
       "caption_en": "at the expense of M. Roubier, of the Academy of Painting and Sculpture of Marseille"
+    },
+    {
+      "n": 10,
+      "title_ru": "Таблица X. Барельеф трёх братьев; алтарь Кибелы",
+      "title_en": "Plate X. Bas-relief of the three Brothers; Altar of Cybele",
+      "caption_fr": "Aux depens de Mr Mestre d'Aigalades Tres.r Gal de France",
+      "caption_ru": "на средства г-на Местра д'Эгалад, генерального казначея Франции",
+      "caption_en": "at the expense of M. Mestre d'Aigalades, General Treasurer of France"
     }
   ],
   "about": {

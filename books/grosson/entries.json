@@ -5213,6 +5213,128 @@
         "laurel-crown",
         "lion"
       ]
+    },
+    {
+      "id": "pl10-1",
+      "part": 2,
+      "plate": 10,
+      "num": "1",
+      "fr": "Bas-relief: sacrifice aux Dieux lares (trois Frères)",
+      "ru": "Барельеф: жертвоприношение Богам-Ларам (три брата)",
+      "en": "Bas-relief: sacrifice to the household Lares (three Brothers)",
+      "page": "108",
+      "group": "X",
+      "group_fr": "Planche X",
+      "group_en": "X",
+      "group_page": "108",
+      "flag": "",
+      "type": "relief",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl10-full.jpg"
+      ],
+      "plate_img": "pl10-full.jpg",
+      "bbox": [
+        5.0,
+        4.0,
+        90.0,
+        58.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 1. Fragment de Bas-relief en marbre blanc, représentant un sacrifice aux Dieux lares: on y voit le Buste de la Divinité protectrice de la Famille, placé sur un pieu. Les flammes devant lesquelles sont placées trois figures, devoient être sur un Autel ou sur les Foyers domestiques, lorsque le Bas-relief étoit en entier. Les airs de tête qui sont à peu près les mêmes & les traits de ressemblance empreints sur ces figures, font voir que les personnes qui avoient offert le sacrifice, ou fait quelque libation qui avoit donné lieu à ce Bas-relief, étoient trois Frères. Leur situation semble être celle de trois personnes qui se font une promesse solemnelle & respective dont ils prennent à témoin leur Divinité tutélaire.",
+        "Les habillemens de ces figures sont Gaulois, ou du moins tels que le décrit Dom Bernard de Montfaucon (15), la Tunique à longue manche, & la Chlamyde ou Manteau par-dessus, agraffé sur l'épaule, une ceinture aux reins, les cheveux longs & le bonnet phrigien sur la tête. Ce Bas-relief fut trouvé aux environs de la Cathédrale, & a été long-temps placé sur le mur d'une maison de la rue de la Foire qui appartenoit à la Famille de Gasnay; il en a été enlevé depuis long-temps: j'en ai récupéré le Dessein dans les porte-feuilles d'un Artiste (16) de cette Ville, qui s'étoit plu à former une collection de tout ce qu'il avoit trouvé de bon goût.",
+        "L'opinion de M. de Peyresc sur ce Bas-relief, est consignée dans un manuscrit de ce savant Provençal; qui se trouve dans le cabinet du Roi sous le n°. 9932. Selon M. de Peyresc, ce monument représente les trois Anges envoyés pour annoncer l'embrasement de Sodome & de Gomorre. Le P. Montfaucon (17), qui connoissoit le manuscrit de Peyresc, semble adopter cette opinion; il ne m'appartient pas de critiquer de pareils maîtres: je me bornerai seulement à observer que la figure du Dieu Lare qui est en Buste, est cause de l'erreur de ces deux Antiquaires, qui l'ont prise pour la femme de Loth, changée en Statue de sel. Les Anges, en annonçant l'incendie des Villes coupables, n'annoncerent pas le malheur qu'essuyeroit la curieuse femme de Loth; le Bas-relief ne seroit tout au plus que les Anges, considérant les Villes après l'événement. D'ailleurs, la Statue d'une femme seroit-elle avec la barbe? On reconnoît le Buste d'une des Divinités terminales qu'on plaçoit sur des gaines; les mammelles sont à la vérité bien marquées dans Montfaucon; mais je puis assurer qu'à juger de l'exactitude du Sr. Nicolas en dessinant ce monument, par celle que j'ai constamment remarqué dans ceux qui existent encore, & qui avoient été dessinés par cet Artiste, il n'y a nul doute que celui en question ne marquoit pas ces prétendues mammelles avec autant de force (18).",
+        "Une autre preuve que Montfaucon rapporte d'après Peyresc, en faveur de leur opinion commune, c'est un autre Bas-relief gravé dans la même Planche. Montfaucon ignore d'où Peyresc l'avoit tiré; il présume que c'est d'Arles. Dans ce second Bas-relief, trois jeunes gens coiffés de même que ceux de notre monument, sont sur un mur; la figure d'une Statue à peu près semblable à la nôtre, est sur le fonds: ils sont entourés de flammes, & cette flamme sort également par trois ouvertures en forme de voûte au bas du mur. C'est encore, selon Peyresc, le même trait historique de la Bible: on pourroit dire également, les trois Enfans dans la Fournaise, & avec plus de vraisemblance; mais ce second Bas-relief ne représente que des personnes dans la Salle des bains appellée (19) Laconicum. Les prétendues embrasures ne sont que les ouvertures des fourneaux. La description que Pline le jeune fait de sa maison de Laurentum, sert à confirmer ce sentiment; en décrivant les bains, il dit, « auprès de là est une étuve pour se parfumer, & ensuite le fourneau nécessaire au service du bain. »"
+      ],
+      "text_ru": [
+        "№ 1. Фрагмент барельефа из белого мрамора, изображающий жертвоприношение Богам-Ларам: виден бюст божества — покровителя семьи, помещённый на столбе. Пламя, перед которым расположены три фигуры, должно было находиться на алтаре или на домашнем очаге, когда барельеф был целым. Почти одинаковые черты лиц и сходство, запечатлённые на этих фигурах, показывают, что лица, приносившие жертву или совершавшие возлияние, по случаю которого возник этот барельеф, были тремя братьями. Их расположение напоминает трёх людей, дающих друг другу торжественное и взаимное обещание, в свидетели которого они призывают своё покровительствующее божество.",
+        "Одеяния этих фигур галльские, или, по крайней мере, таковы, как их описывает дом Бернар де Монфокон (15): туника с длинным рукавом и поверх неё хламида, или плащ, застёгнутый на плече, пояс на бёдрах, длинные волосы и фригийский колпак на голове. Этот барельеф был найден в окрестностях Кафедрального собора и долгое время находился на стене дома на улице Фуар, принадлежавшего семье Гаснэ; оттуда он был снят уже давно: я нашёл его изображение в папках одного художника (16) этого города, который любил составлять коллекцию всего, что находил достойным вкуса.",
+        "Мнение г-на де Пейреска об этом барельефе изложено в рукописи этого провансальского учёного, хранящейся в Королевском кабинете под № 9932. По мнению г-на де Пейреска, этот памятник изображает трёх Ангелов, посланных возвестить о сожжении Содома и Гоморры. Отец Монфокон (17), знавший рукопись Пейреска, похоже, разделяет это мнение; не мне критиковать таких мастеров: я ограничусь лишь замечанием, что именно бюст Бога-Лара стал причиной ошибки этих двух антикваров, принявших его за жену Лота, обращённую в соляной столп. Ангелы, возвещая о сожжении виновных городов, не предвещали несчастья, которое постигнет любопытную жену Лота; барельеф в лучшем случае изображал бы Ангелов, взирающих на города уже после события. К тому же разве статуя женщины была бы с бородой? Здесь узнаётся бюст одного из терминальных божеств, которые помещали на гермах; груди, правда, отмечены у Монфокона достаточно отчётливо; но, судя по точности, с какой г-н Николя рисовал этот памятник, — точности, которую я неизменно отмечал в других его рисунках с сохранившихся подлинников, — нет никакого сомнения, что в данном случае эти мнимые груди не были обозначены им с такой же силой (18).",
+        "Ещё одно доказательство, которое Монфокон приводит вслед за Пейреском в пользу их общего мнения, — это другой барельеф, выгравированный на той же таблице. Монфокон не знает, откуда Пейреск его взял; он полагает, что из Арля. На этом втором барельефе трое юношей, причёсанных так же, как и на нашем памятнике, изображены на стене; фигура статуи, почти подобной нашей, находится на заднем плане: они окружены пламенем, и это же пламя выходит через три сводчатых отверстия внизу стены. По мнению Пейреска, это тот же библейский сюжет; можно было бы с равным, даже большим правдоподобием сказать — трое отроков в пещи огненной; но этот второй барельеф изображает всего лишь людей в банном помещении, называемом (19) Laconicum. Мнимые амбразуры — это не что иное, как отверстия печей. Описание, которое Плиний Младший даёт своему дому в Лаврентуме, подтверждает это мнение; описывая бани, он говорит: «рядом находится парильня для умащения, а затем печь, необходимая для обслуживания бани»."
+      ],
+      "text_en": [
+        "No. 1. Fragment of a white marble bas-relief, representing a sacrifice to the household Lares: one sees the Bust of the tutelary Divinity of the Family, set upon a herm. The flames before which the three figures are placed must have stood on an Altar or on the domestic Hearth when the bas-relief was whole. The near-identical set of the heads and the family resemblance stamped on these figures show that those who offered the sacrifice, or made some libation that occasioned this bas-relief, were three Brothers. Their stance seems to be that of three people making a solemn, mutual promise, calling their tutelary Divinity to witness.",
+        "The clothing of these figures is Gaulish, or at least such as Dom Bernard de Montfaucon describes it (15): the long-sleeved Tunic and the Chlamys or Mantle over it, clasped at the shoulder, a belt at the waist, long hair and a Phrygian cap on the head. This bas-relief was found near the Cathedral and was long set into the wall of a house on the Rue de la Foire belonging to the Gasnay family; it was removed from there long ago: I recovered its drawing from the portfolios of an Artist of this city (16), who delighted in forming a collection of everything he found to be of good taste.",
+        "M. de Peyresc's opinion on this bas-relief is recorded in a manuscript of this learned Provençal, now in the King's cabinet under no. 9932. According to M. de Peyresc, this monument represents the three Angels sent to announce the burning of Sodom and Gomorrah. Father Montfaucon (17), who knew Peyresc's manuscript, seems to adopt this opinion; it is not for me to criticise such masters: I will only observe that the bust-form of the Lar is what caused the error of these two Antiquarians, who took it for Lot's wife turned into a pillar of salt. The Angels, in announcing the burning of the guilty Cities, did not foretell the misfortune that would befall Lot's curious wife; at most the bas-relief would show the Angels regarding the Cities after the event. Besides, would the statue of a woman have a beard? One recognises instead the bust of one of the terminal Divinities that were set on herms; the breasts, it is true, are rendered quite plainly in Montfaucon; but judging by the accuracy of Sr. Nicolas in drawing this monument — an accuracy I have constantly observed in the monuments still extant that were drawn by this Artist — there is no doubt that in this case he did not render these supposed breasts with such emphasis (18).",
+        "Another proof that Montfaucon, following Peyresc, offers in favour of their shared opinion is another bas-relief engraved on the same Plate. Montfaucon does not know where Peyresc got it; he presumes it is from Arles. In this second bas-relief, three young men wearing headgear like those of our monument are shown on a wall; the figure of a statue much like ours stands in the background: they are surrounded by flames, and this same flame issues through three vaulted openings at the foot of the wall. This, too, Peyresc takes for the same Biblical episode; one could equally, and more plausibly, say the three Children in the Furnace; but this second bas-relief in fact shows nothing more than people in the bathing-room called (19) Laconicum. The supposed embrasures are merely the openings of the furnaces. Pliny the Younger's description of his house at Laurentum confirms this reading; describing the baths, he says, 'near there is a sweating-room for perfuming oneself, and then the furnace needed to serve the bath.'"
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "environs de la Cathédrale, mur d'une maison rue de la Foire (famille de Gasnay)",
+      "findspot_ru": "окрестности Кафедрального собора, стена дома на улице Фуар (семья Гаснэ)",
+      "findspot_en": "near the Cathedral, wall of a house on Rue de la Foire (Gasnay family)"
+    },
+    {
+      "id": "pl10-2",
+      "part": 2,
+      "plate": 10,
+      "num": "2",
+      "fr": "Autel de Cybèle (ex-voto de Navius Januarius)",
+      "ru": "Алтарь Кибелы (обет Навия Януария)",
+      "en": "Altar of Cybele (votive offering of Navius Januarius)",
+      "page": "111",
+      "group": "X",
+      "group_fr": "Planche X",
+      "group_en": "X",
+      "group_page": "108",
+      "flag": "",
+      "type": "relief",
+      "material_fr": "marbre",
+      "material_ru": "мрамор",
+      "material_en": "marble",
+      "img": [
+        "pl10-full.jpg"
+      ],
+      "plate_img": "pl10-full.jpg",
+      "bbox": [
+        5.0,
+        61.0,
+        90.0,
+        37.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 2. Autel antique, qui a servi long-temps de Fonts Baptismaux à l'Église Paroissiale de St. Laurent; il n'en reste plus aujourd'hui de vestiges. Cet Autel paroît avoir été destiné au culte de Cybèle. Le Sphinx & le Lion qui soutiennent cet Autel, étoient des Emblèmes propres à cette Déesse; le Lion marquant la force, on représentoit Cybèle dans un char attelé par deux de ces terribles animaux; & le Sphinx désignant la surabondance (20), étoit propre à représenter la fertilité de la terre. Rien ne nous assure que Cybèle eût des Temples dans l'enceinte de la Ville de Marseille; mais elle en avoit dans un endroit de son ancien territoire, dans le lieu appellé les Pennes, qui étoit autrefois entièrement couvert de Pins. Ces arbres étoient particulièrement consacrés à cette Déesse. Le Bas-relief trouvé dans ces quartiers, aujourd'hui placé sur la porte de la Paroisse des Pennes, l'atteste d'une façon non équivoque. Ce marbre étoit un vœu, dont Navius Januarius s'acquittoit envers la Déesse; & les mystères de son culte qu'on célébroit aux Parnes (21), ainsi qu'on peut le remarquer par l'Inscription qui y est gravée, portant ces mots:",
+        "MATRIS DEVM MAGNAE IDEAE PALATINAE EIVSQ. M. RELIGIONIS AD PARNOR NAVIVS IANVARIVS.",
+        "ce qui prouve que le culte de Cybèle étoit adopté par les Marseillois, & sert à confirmer que l'Autel dont il est ici question, devoit être consacré à cette Divinité qui avoit le surnom de Palatine, de grande Déesse, &c."
+      ],
+      "text_ru": [
+        "№ 2. Древний алтарь, долгое время служивший купелью для крещения в приходской церкви Сен-Лоран; ныне от него не осталось никаких следов. Этот алтарь, по-видимому, был предназначен для культа Кибелы. Сфинкс и Лев, поддерживающие алтарь, были эмблемами, свойственными этой Богине; Лев означал силу — Кибелу изображали на колеснице, запряжённой двумя этими грозными животными; а Сфинкс, означавший изобилие (20), был пригоден для изображения плодородия земли. Ничто не удостоверяет, что у Кибелы были храмы в черте города Марселя; но они были у неё в одном месте её древней территории, в местности, называемой Пеннес, некогда полностью покрытой соснами. Эти деревья были особо посвящены этой Богине. Барельеф, найденный в этих кварталах и ныне помещённый на двери прихода Пеннес, недвусмысленно это подтверждает. Этот мрамор был обетом, который Навий Януарий исполнял перед Богиней; а таинства её культа, которые отправлялись в Парнах (21), как можно заметить по вырезанной там надписи, гласящей следующие слова:",
+        "MATRIS DEVM MAGNAE IDEAE PALATINAE EIVSQ. M. RELIGIONIS AD PARNOR NAVIVS IANVARIVS.",
+        "что доказывает, что культ Кибелы был принят марсельцами, и служит подтверждением тому, что алтарь, о котором здесь идёт речь, должен был быть посвящён этому божеству, носившему прозвание Палатинской, великой Богини и т.д."
+      ],
+      "text_en": [
+        "No. 2. Ancient altar, which long served as the Baptismal Font of the parish Church of St. Laurent; no trace of it remains today. This Altar appears to have been intended for the cult of Cybele. The Sphinx and the Lion that support this Altar were emblems proper to this Goddess; the Lion marking strength — Cybele was represented in a chariot drawn by two of these fearsome animals — and the Sphinx, denoting abundance (20), was fit to represent the fertility of the earth. Nothing assures us that Cybele had Temples within the walls of the City of Marseille; but she had them in a place within her ancient territory, called Les Pennes, which was once entirely covered with Pines. These trees were particularly sacred to this Goddess. The bas-relief found in that district, now set over the door of the Parish of Les Pennes, attests to this unambiguously. This marble was a vow which Navius Januarius was discharging to the Goddess; and the mysteries of her cult, celebrated at the Parnes (21), as may be noted from the Inscription engraved there, bearing these words:",
+        "MATRIS DEVM MAGNAE IDEAE PALATINAE EIVSQ. M. RELIGIONIS AD PARNOR NAVIVS IANVARIVS.",
+        "which proves that the cult of Cybele was adopted by the people of Marseille, and confirms that the Altar in question must have been consecrated to this Divinity, who bore the surname of Palatine, the Great Goddess, etc."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [
+        "sphinx",
+        "lion"
+      ],
+      "legend_fr": "MATRIS DEVM MAGNAE IDEAE PALATINAE EIVSQ. M. RELIGIONIS AD PARNOR NAVIVS IANVARIVS.",
+      "legend_ru": "MATRIS DEVM MAGNAE IDEAE PALATINAE EIVSQ. M. RELIGIONIS AD PARNOR NAVIVS IANVARIVS.",
+      "legend_en": "MATRIS DEVM MAGNAE IDEAE PALATINAE EIVSQ. M. RELIGIONIS AD PARNOR NAVIVS IANVARIVS.",
+      "findspot_fr": "quartier des Pennes (ancien territoire marseillais)",
+      "findspot_ru": "квартал Пеннес (древняя территория Марселя)",
+      "findspot_en": "Les Pennes district (ancient Marseille territory)"
     }
   ]
 }
