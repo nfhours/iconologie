@@ -7962,6 +7962,165 @@
       "findspot_fr": "Marseille; transporté à la sacristie de l'ancienne Église de l'Observance",
       "findspot_ru": "Марсель; перенесена в ризницу древней церкви Обсерванс",
       "findspot_en": "Marseille; moved to the sacristy of the old Church of the Observance"
+    },
+    {
+      "id": "pl28-1",
+      "part": 2,
+      "plate": 28,
+      "num": "1",
+      "fr": "Fragment de frise en marbre, repêché sous la tour de la Prévôté",
+      "ru": "Фрагмент мраморного фриза, поднятый из-под башни Прево",
+      "en": "Marble frieze fragment, dredged from beneath the Provostry Tower",
+      "page": "178",
+      "group": "XXVIII",
+      "group_fr": "Planche XXVIII",
+      "group_en": "XXVIII",
+      "group_page": "178",
+      "flag": "",
+      "type": "architectural fragment",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl28-full.jpg"
+      ],
+      "plate_img": "pl28-full.jpg",
+      "bbox": [
+        4.0,
+        2.0,
+        94.0,
+        40.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No.1. Fragment de Frise en marbre blanc, trouvé dans la mer, au-dessous de la Tour de la Prévôté; où l'on avoit fait une jettée de divers vestiges, pour garantir cette tour de l'effet que produisoient les vagues en venant se briser contre ses fondemens. C'est de ces vestiges que furent tirés les beaux morceaux de marbre noir antique, dont est plaqué le fond de la Chapelle de notre-Dame de Paix, dans l'Eglise des Accoules. La Frise que je décris, est bien entendue & dans le goût des ornemens de l'ordre corinthien; les circonvolutions des feuilles de refend sont bien amenées."
+      ],
+      "text_ru": [
+        "№ 1. Фрагмент фриза из белого мрамора, найденный в море ниже башни Прево; там некогда была устроена отсыпка из различных обломков, чтобы защитить эту башню от действия волн, разбивавшихся о её основание. Именно из этих обломков были извлечены прекрасные куски античного чёрного мрамора, которым облицован фон часовни Богоматери Мира (Notre-Dame de Paix) в церкви Аккулей. Описываемый мною фриз хорошо продуман и выдержан во вкусе орнаментов коринфского ордера; завитки рассечённых листьев выполнены весьма искусно."
+      ],
+      "text_en": [
+        "No. 1. Fragment of a frieze in white marble, found in the sea below the Tower of the Provostry; a jetty of various remains had been made there, to protect this tower from the effect of the waves breaking against its foundations. It was from these remains that the fine pieces of antique black marble were taken, with which the background of the Chapel of Notre-Dame de Paix, in the Church of the Accoules, is faced. The frieze I describe is well conceived and in the taste of Corinthian-order ornament; the volutes of the acanthus leaves are skillfully rendered."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "la mer, sous la tour de la Prévôté",
+      "findspot_ru": "море, у подножия башни Прево",
+      "findspot_en": "the sea, below the Provostry Tower"
+    },
+    {
+      "id": "pl28-2",
+      "part": 2,
+      "plate": 28,
+      "num": "2",
+      "fr": "Chapiteau antique en marbre blanc, remployé comme borne",
+      "ru": "Античная капитель из белого мрамора, вторично использованная как тумба",
+      "en": "Antique white-marble capital, reused as a street bollard",
+      "page": "179",
+      "group": "XXVIII",
+      "group_fr": "Planche XXVIII",
+      "group_en": "XXVIII",
+      "group_page": "178",
+      "flag": "",
+      "type": "architectural fragment",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl28-full.jpg"
+      ],
+      "plate_img": "pl28-full.jpg",
+      "bbox": [
+        28.0,
+        42.0,
+        48.0,
+        40.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. La plupart des chapiteaux antiques trouvés en différens temps dans Marseille, étant dus à l'ordre composite ou au corinthien, j'ai cru devoir faire graver un de ceux qui servent actuellement de borne; il pourra faire connoître le genre de ceux des grandes colonnes de l'Eglise inférieure de St. Victor, & de nombre d'autres épars en divers endroits de la Ville; j'observerai qu'ils étoient en général dans de belles proportions, & en marbre blanc tel que celui-ci."
+      ],
+      "text_ru": [
+        "№ 2. Поскольку большинство античных капителей, находимых в разное время в Марселе, принадлежат к композитному либо коринфскому ордеру, я счёл нужным гравировать одну из тех, что ныне служат тумбой; она даст представление о роде капителей больших колонн нижней церкви Сен-Виктора и множества других, разбросанных по различным местам города; замечу, что они, как правило, отличались прекрасными пропорциями и были, как эта, из белого мрамора."
+      ],
+      "text_en": [
+        "No. 2. Since most of the antique capitals found at various times at Marseille belong to the composite or Corinthian order, I thought it right to have engraved one of those now serving as a bollard; it will give an idea of the kind found on the great columns of the lower Church of St. Victor, and of a number of others scattered about various parts of the City; I shall note that they were generally of fine proportions, and of white marble such as this one."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Marseille (divers endroits de la ville)",
+      "findspot_ru": "Марсель (различные места города)",
+      "findspot_en": "Marseille (various parts of the city)"
+    },
+    {
+      "id": "pl28-3",
+      "part": 2,
+      "plate": 28,
+      "num": "3",
+      "fr": "Tombeau à têtes de lion et médaillon d'un magistrat ou homme de lettres",
+      "ru": "Гробница со львиными головами и медальоном магистрата или учёного мужа",
+      "en": "Tomb with lion-head handles and a medallion of a magistrate or man of letters",
+      "page": "179",
+      "group": "XXVIII",
+      "group_fr": "Planche XXVIII",
+      "group_en": "XXVIII",
+      "group_page": "178",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl28-full.jpg"
+      ],
+      "plate_img": "pl28-full.jpg",
+      "bbox": [
+        2.0,
+        84.0,
+        96.0,
+        16.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Tombeau actuellement situé sur la place de l'Eglise de St. Victor; il est en marbre blanc: son couvercle est remarquable par sept têtes de lions qui tiennent à de larges baguettes; les côtés sont ornés de sculptures faisant l'effet des écailles de poisson. Ce genre d'ornement se rencontre souvent dans les monumens grecs, tout comme dans ceux qui sont dus aux Romains (79). La figure en buste qui est placée dans le Médaillon, paroît être celle d'un Magistrat ou d'un homme de lettres; ce qui est désigné par le rouleau de Papirus, que cette figure tient dans la main; le costume m'a paru Romain.",
+        "(79) Voyez Montfaucon, Antiquité expliquée."
+      ],
+      "text_ru": [
+        "№ 3. Гробница, находящаяся ныне на площади перед церковью Сен-Виктора; она из белого мрамора: её крышка примечательна семью львиными головами, держащими широкие прутья; боковые стороны украшены резьбой, создающей впечатление рыбьей чешуи. Такой род украшения часто встречается как в греческих, так и в римских памятниках (79). Поясная фигура, помещённая в медальоне, по-видимому, изображает магистрата или человека учёного сословия; на это указывает свиток папируса, который эта фигура держит в руке; костюм показался мне римским.",
+        "(79) См. Монфокон, «Объяснённая древность»."
+      ],
+      "text_en": [
+        "No. 3. Tomb now standing on the square before the Church of St. Victor; it is of white marble: its lid is notable for seven lion's heads holding broad rods; the sides are adorned with carving giving the effect of fish scales. This kind of ornament is often found in Greek monuments, as well as those due to the Romans (79). The half-length figure placed in the Medallion appears to be that of a Magistrate or a man of letters, as indicated by the roll of Papyrus this figure holds in its hand; the costume seemed to me Roman.",
+        "(79) See Montfaucon, Antiquité expliquée."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "place de l'Église de Saint-Victor",
+      "findspot_ru": "площадь церкви Сен-Виктора",
+      "findspot_en": "the square before the Church of Saint-Victor"
     }
   ]
 }
