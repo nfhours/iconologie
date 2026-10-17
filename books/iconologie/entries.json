@@ -20127,12 +20127,49 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-255.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Платье из серебряной газовой ткани",
+          "meaning": "символ воды и её движения",
+          "what_en": "Robe of wave-patterned silver gauze",
+          "meaning_en": "a symbol of water and its movement"
+        },
+        {
+          "what": "Звёзды над головой",
+          "meaning": "ориентиры мореходства",
+          "what_en": "Stars above her head",
+          "meaning_en": "the guiding marks of seafaring"
+        },
+        {
+          "what": "Морская карта и циркуль",
+          "meaning": "измерение морей",
+          "what_en": "Sea chart and compass",
+          "meaning_en": "the measuring of the seas"
+        },
+        {
+          "what": "Корабль и буссоль",
+          "meaning": "искусство навигации",
+          "what_en": "Ship and mariner's compass",
+          "meaning_en": "the art of navigation"
+        }
+      ],
+      "text_ru": [
+        "Её образ — старая женщина, облачённая в платье из серебряной газовой ткани, исполненное волнами, с множеством звёзд над головой; в правой руке у неё морская карта с циркулем, в левой — корабль, а у ног — буссоль.",
+        "Её изображают старой по той же причине, что мы указали в образе Географии. Что до её газового платья, оно есть символ воды и её движения; главный предмет этого искусства состоит в описании морей, размеры которых она берёт буссолью, вполне пригодной для навигации, по каковой причине ей дают циркуль в одну руку, а корабль — в другую."
+      ],
+      "text_fr": [
+        "Sa figure est celle d'vne vielle femme, vestuë d'vne robe de gaze d'argent faite en ondes, ayant par dessus sa teste quantité d'étoilles; en sa main droite vne carte de navigation avec vn compas; en la gauche vn navire, & à ses pieds vne boussole.",
+        "On la peint vielle, pour la raison que nous avons dite en la figure de la Geographie. Quant à sa robe de gaze, elle est vn symbole de l'eau, & de son mouvement; le principal objet de cet art consistant en la description des mers, dont elle prend les dimensions avec la boussole, entierement propre à la navigation, qui est le sujet pour lequel on luy met vn compas dans vne main, & vn navire en l'autre."
+      ],
       "en": "Hydrography",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-255-1.jpg",
+        "p2-255-2.jpg"
+      ]
     },
     {
       "id": "p2-256",
@@ -20145,12 +20182,55 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-256.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Песочные часы и крылья на голове",
+          "meaning": "дивная быстрота бегущих часов",
+          "what_en": "Hourglass and wings on her head",
+          "meaning_en": "the marvellous swiftness of fleeting hours"
+        },
+        {
+          "what": "Циркуль и линейка",
+          "meaning": "деления линий, необходимые для измерения времени",
+          "what_en": "Compass and ruler",
+          "meaning_en": "the divisions of lines needed to measure time"
+        },
+        {
+          "what": "Часы, на которые падают солнечные лучи",
+          "meaning": "тень указывает часы",
+          "what_en": "Dial struck by the sun's rays",
+          "meaning_en": "the shadow that tells the hour"
+        },
+        {
+          "what": "Платье небесного цвета",
+          "meaning": "ясное небо, по которому узнают время",
+          "what_en": "Sky-coloured robe",
+          "meaning_en": "the clear heaven by which time is told"
+        }
+      ],
+      "text_ru": [
+        "Её невозможно лучше представить, чем это сделано здесь, в облике юной женщины, у которой на голове песочные часы и крылья, в левой руке — линейка и циркуль, а в правой — другие часы, на которые Солнце мечет свои лучи; и по тени, которая на них ложится, даёт знать часы.",
+        "Её изображают юной, дабы показать, что часы беспрестанно возобновляют свой ход и последовательное движение, которое они совершают один за другим.",
+        "Песочные часы и крылья на её голове означают дивную быстроту самих часов, о которой говорит Петрарка в своём «Триумфе времени», где он говорит:\n«Что часы, дни, месяцы и годы\nНе перестают лететь» и т.д.",
+        "Её платье небесного цвета — символ ясного Неба, на котором Солнце, освободившееся от туч, даёт нам знать часы.",
+        "Что же до циркуля и линейки, которые ей дают в руки, это потому, что и тот и другая совершенно необходимы, дабы производить деления линий и образовывать их качества."
+      ],
+      "text_fr": [
+        "On ne la peut mieux representer qu'elle est icy, par la peinture d'vne jeune femme qui a sur la teste vne horloge de sable & des aisles, en sa main gauche vne regle & vn compas, & en la droite vne autre horloge, sur qui le Soleil darde ses rayons; & par l'ombre qui s'y fait, donne à connoistre les heures.",
+        "On la peint jeune, pour faire voir que les heures renouvellent sans cesse leur cours, & le mouvement successif qu'elles font l'vne aprés l'autre.",
+        "L'horloge de sable, & les aisles qu'elle a sur la teste, signifient la merveilleuse vistesse des mesmes heures, dont parle Petraque en son Triomphe du temps, où il dit,\nQue les heures, les iours, les mois & les années\nNe cessent de voler, &c.",
+        "Sa robe de couleur celeste est le symbole d'vn Ciel serein, où le Soleil devoloppé de nuages nous fait connoistre les heures.",
+        "Pour ce qui est du compas, & de la regle qu'on luy met en main, c'est parce que l'vn & l'autre sont entierement necessaires pour faire les divisions des lignes, & en former les qualitez."
+      ],
       "en": "Horography",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-256-1.jpg",
+        "p2-256-2.jpg"
+      ]
     },
     {
       "id": "p2-257",
@@ -20163,12 +20243,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-257.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Чертёжные инструменты в руке",
+          "meaning": "образ ясен сам собой, по сходству с соседними дисциплинами",
+          "what_en": "Drafting tools in her hand",
+          "meaning_en": "the image explains itself, by its kinship with the neighbouring disciplines"
+        },
+        {
+          "what": "Линейка у плана здания",
+          "meaning": "черчение фасадов и планов построек",
+          "what_en": "Ruler beside a building plan",
+          "meaning_en": "the drawing of façades and ground plans"
+        }
+      ],
+      "text_ru": [
+        "Я не стану задерживаться на объяснении этого образа, поскольку он довольно ясно изъясняет себя сам через своё сходство с предыдущими."
+      ],
+      "text_fr": [
+        "Je ne m'arreste point à donner l'intelligence de cette figure, dautant qu'elle s'explique assez d'elle-mesme par son rapport avec les precedentes."
+      ],
       "en": "Iconography",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-257-1.jpg",
+        "p2-257-2.jpg"
+      ]
     },
     {
       "id": "p2-258",
@@ -20181,12 +20284,56 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-258.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Безупречно сложенное тело",
+          "meaning": "красота есть то, к чему нельзя ничего прибавить и убавить",
+          "what_en": "A flawlessly proportioned body",
+          "meaning_en": "beauty is that to which nothing can be added or taken away"
+        },
+        {
+          "what": "Голубой шарф с семью планетами",
+          "meaning": "Небо и гармоническая соразмерность его движения",
+          "what_en": "Blue scarf bearing the seven Planets",
+          "meaning_en": "Heaven and the harmonic proportion of its motion"
+        },
+        {
+          "what": "Статуя обнажённой Венеры",
+          "meaning": "образец для снятия пропорций",
+          "what_en": "Statue of a naked Venus",
+          "meaning_en": "the model from which proportions are taken"
+        },
+        {
+          "what": "Циркуль и линейка",
+          "meaning": "инструменты измерения пропорций и мер",
+          "what_en": "Compass and ruler",
+          "meaning_en": "the instruments for measuring proportions and dimensions"
+        }
+      ],
+      "text_ru": [
+        "Она познаётся через женщину редкой красоты, хорошо сложенную во всех частях своего тела, чья середина покрыта голубым шарфом, усеянным звёздами, на котором изображены семь Планет. Добавлю, что перед ней — статуя совершенно обнажённой Венеры, с которой она снимает пропорции циркулем и линейкой, которые держит в обеих руках.",
+        "Симметрия, чьё название, взятое из греческого, означает верную и подобающую меру, применяемую ко всевозможным вещам, представлена здесь женщиной великой красоты, потому что действительно прекрасным называют всё то, к чему нельзя ни прибавить, ни убавить, дабы сделать его более совершенным, чем оно есть.",
+        "Её нагота означает, что все части тела должны соответствовать бытию своего равенства, своего порядка и своей соразмерности. Голубым шарфом, сплошь усеянным звёздами, представлено Небо, в движении которого, по мнению большинства Философов, встречается некая соразмерность, называемая ими Гармонической. Это они явно доказывают примером Солнца и Луны, из коих одно производит различие дня и ночи с дивной Симметрией; а другая равным образом, хотя и изменчива, не перестаёт быть совершенно упорядоченной в своём ходе и в различных производимых ею действиях.",
+        "Вслед за этим следует заметить, что она неслучайно держит линейку и циркуль, которыми пользуется, дабы снять пропорции и размеры со статуи Венеры.",
+        "Ибо этим показано, как я уже сказал прежде, что из верной Симметрии необходимо образуется совершенная красота, которая прежде всего прочего заметна в человеческом теле, где она сияет с восхищением и сверх всякого чуда. Это заставляет Марсилио Фичино сказать, что она заслуживает того, чтобы её ценили как портрет божественной красоты."
+      ],
+      "text_fr": [
+        "Elle se donne à connoistre par vne femme de singuliere beauté, bien proportionnée en toutes les parties de son corps, dont le milieu se couvre d'vne écharpe bleuë, semée d'estoilles, & où sont representées les sept Planetes. A quoy j'adjouste qu'elle a devant elle la statuë d'vne Venus toute nuë, dont elle prend les proportions avec vn compas & vne regle qu'elle tient en ses deux mains.",
+        "La Symmetrie, dont le nom tiré du Grec signifie vne juste & convenable mesure qui se fait de toutes sortes de choses, est icy figurée par vne femme de grande beauté, parce qu'en effet on appelle beau tout ce à quoy on ne peut adjouster ny diminuer pour le rendre plus accomply qu'il est.",
+        "Sa nudité signifie que toutes les parties du corps doivent avoir de la correspondance à l'estre de son égalité, de son ordre & de sa proportion. Par l'écharpe de couleur bleuë, toute semée d'étoilles, est representé le Ciel, dans le mouvement duquel, suivant l'opinion de la plûpart des Philosophes, se rencontre vne certaine proportion qu'ils appellent Harmonique. Ce qu'ils prouvent manifestement par l'exemple du Soleil & de la Lune, dont l'vn fait la distinction du jour & de la nuit avec vne merveilleuse Symmetrie; & l'autre de mesme, bien que changeante, ne laisse pas d'estre parfaitement reglée en son cours, & dans les divers effets qu'elle produit.",
+        "En suite de ces choses, il faut remarquer qu'elle ne tient pas sans raison vne regle & vn compas, dont elle se sert à prendre les proportions & les mesures d'vne statuë de Venus.",
+        "Car il est montré par là, comme j'ay dit cy-devant, que d'vne juste Symmetrie se forme necessairement vne parfaite beauté, qui par dessus toutes choses se fait remarquer au corps humain, où elle éclate avec ravissement, & au delà de toute merveille. Ce qui fait dire à Marsille Ficin, qu'elle merite qu'on en fasse cas, comme d'vn portrait de la beauté divine."
+      ],
       "en": "Symmetry",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-258-1.jpg",
+        "p2-258-2.jpg",
+        "p2-258-3.jpg"
+      ]
     },
     {
       "id": "p2-259",
