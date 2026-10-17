@@ -11532,6 +11532,314 @@
       "findspot_fr": "portail de l'église supérieure de Saint-Victor",
       "findspot_ru": "портал верхней церкви Сен-Виктор",
       "findspot_en": "the doorway of the upper Church of Saint-Victor"
+    },
+    {
+      "id": "pl41-1",
+      "part": 5,
+      "plate": 41,
+      "num": "1",
+      "fr": "Épitaphe de Cassia Fortunata, patronne d'Acon",
+      "ru": "Эпитафия Кассии Фортунаты, патронессы Акона",
+      "en": "Epitaph of Cassia Fortunata, patroness of Acon",
+      "page": "258",
+      "group": "XLI",
+      "group_fr": "Planche XLI",
+      "group_en": "XLI",
+      "group_page": "258",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl41-full.jpg"
+      ],
+      "plate_img": "pl41-full.jpg",
+      "bbox": [
+        18.5,
+        2.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. L'Épitaphe que ce numéro indique, fut trouvée en construisant la Place de la Darce dans l'Arsenal: elle étoit sculptée sur une pierre. On lisoit: D.M. CASSIE FORTVNAT ACONIS PA TRONAE MERENTISSIM.",
+        "FORTVNAT est l'abréviation de FORTVNATAE. On doit conséquemment traduire par ces mots aux Dieux Manes de Cassia Fortunata Patrone très-méritante d'Acon. Ce monument paroît être l'effet de la reconnoissance d'un affranchi envers sa Patrone. J'ai déjà remarqué à la page 135 de cet ouvrage, au sujet du monument indiqué par le numéro 4 de la XVe. Planche, que les femmes, quoique dans une tutelle perpétuelle, & privées conséquemment de la liberté d'affranchir leurs Esclaves, avoient cependant le droit de patronnage, lorsqu'il leur advenoit par héritage. Nous ne devons conséquemment point être surpris de voir Cassia Fortunata, Patrone d'Acon. Ce dernier nom est d'origine Grecque."
+      ],
+      "text_ru": [
+        "№ 1. Эпитафия, обозначенная этим номером, была найдена при постройке площади Дарс в Арсенале: она была высечена на камне. На ней читалось: D.M. CASSIE FORTVNAT ACONIS PA TRONAE MERENTISSIM.",
+        "FORTVNAT — сокращение от FORTVNATAE. Следовательно, переводить нужно так: «Богам манам Кассии Фортунаты, достойнейшей патронессы Акона». Этот памятник, по-видимому, представляет собой выражение благодарности вольноотпущенника своей патронессе. Я уже отмечал на с. 135 этого труда, по поводу памятника, обозначенного № 4 на таблице XV, что женщины, хотя и находились под вечной опекой и, следовательно, были лишены права отпускать на волю своих рабов, тем не менее обладали правом патроната, когда оно переходило к ним по наследству. Следовательно, нас не должно удивлять, что Кассия Фортуната являлась патронессой Акона. Это последнее имя греческого происхождения."
+      ],
+      "text_en": [
+        "No. 1. The Epitaph marked by this number was found while building the place de la Darce in the Arsenal: it was carved on a stone. On it one read: D.M. CASSIE FORTVNAT ACONIS PA TRONAE MERENTISSIM.",
+        "FORTVNAT is the abbreviation of FORTVNATAE. It should accordingly be translated: \"To the Divine Shades of Cassia Fortunata, most deserving Patroness of Acon.\" This monument appears to be the result of a freedman's gratitude toward his Patroness. I have already noted, on page 135 of this work, regarding the monument marked no. 4 of Plate XV, that women, although under perpetual guardianship and consequently deprived of the freedom to manumit their Slaves, nonetheless held the right of patronage when it came to them by inheritance. We should accordingly not be surprised to see Cassia Fortunata as Patroness of Acon. This latter name is of Greek origin."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M CASSIE FORTVNAT ACONIS PATRONAE MERENTISSIM",
+      "legend_ru": "D M CASSIE FORTVNAT ACONIS PATRONAE MERENTISSIM",
+      "legend_en": "D M CASSIE FORTVNAT ACONIS PATRONAE MERENTISSIM",
+      "findspot_fr": "place de la Darce, Arsenal",
+      "findspot_ru": "площадь Дарс, Арсенал",
+      "findspot_en": "the place de la Darce, Arsenal"
+    },
+    {
+      "id": "pl41-2",
+      "part": 5,
+      "plate": 41,
+      "num": "2",
+      "fr": "Épitaphe de Julia Germana, par son fils Marcus Statius Restitutus",
+      "ru": "Эпитафия Юлии Германы от её сына Марка Статия Реститута",
+      "en": "Epitaph of Julia Germana, by her son Marcus Statius Restitutus",
+      "page": "259",
+      "group": "XLI",
+      "group_fr": "Planche XLI",
+      "group_en": "XLI",
+      "group_page": "258",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl41-full.jpg"
+      ],
+      "plate_img": "pl41-full.jpg",
+      "bbox": [
+        68.5,
+        3.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Cette épitaphe fut trouvée au même local & en même temps que la précédente. Elle contenoit les lettres suivantes: D.M. IVLIAE GERM NAE MATRI PI ISSIMAE M. STATIVS RES TITVTVS.",
+        "Il manque un A à la fin de la première ligne. On doit lire GERMANAE; l'M de la troisième ligne est l'abréviation de MARCVS. On doit conséquemment traduire ainsi: Marcus Statius Restitutus a élevé ce monument aux Dieux Manes de Julia Germana sa très-pieuse mère.",
+        "Le nom de Statius se trouve sur d'autres monumens Marseillois. GERMANA est un nom Gaulois (25) d'origine. RESTITVTVS est un nom connu dans les Annales de Marseille; son Eglise honore la mémoire de Saint Restitut, Successeur de St. Lazare son premier Evêque.",
+        "(25) Nous avons fait Germain du nom de Germanus, en langue Provençale German. Ce nom est commun à une multitude de Familles Provençales."
+      ],
+      "text_ru": [
+        "№ 2. Эта эпитафия была найдена в том же месте и в то же время, что и предыдущая. Она содержала следующие буквы: D.M. IVLIAE GERM NAE MATRI PI ISSIMAE M. STATIVS RES TITVTVS.",
+        "В конце первой строки недостаёт буквы A. Следует читать GERMANAE; M в третьей строке — сокращение от MARCVS. Соответственно, переводить следует так: «Марк Статий Реститут воздвиг этот памятник богам манам Юлии Германы, своей преблагочестивой матери».",
+        "Имя Statius встречается и на других марсельских памятниках. GERMANA — имя галльского происхождения (25). RESTITVTVS — имя, известное по марсельским анналам; тамошняя церковь чтит память святого Реститута, преемника святого Лазаря, своего первого епископа.",
+        "(25) Мы образовали «Жермен» от имени Germanus, по-провансальски German. Это имя распространено среди множества провансальских семейств."
+      ],
+      "text_en": [
+        "No. 2. This epitaph was found at the same site and at the same time as the preceding one. It contained the following letters: D.M. IVLIAE GERM NAE MATRI PI ISSIMAE M. STATIVS RES TITVTVS.",
+        "An A is missing at the end of the first line. It should read GERMANAE; the M of the third line is the abbreviation of MARCVS. It should accordingly be translated: \"Marcus Statius Restitutus erected this monument to the Divine Shades of Julia Germana, his most dutiful mother.\"",
+        "The name Statius is found on other Marseille monuments. GERMANA is a name of Gaulish origin (25). RESTITVTVS is a name known from the Annals of Marseille; its Church honors the memory of Saint Restitutus, successor of St. Lazarus, its first Bishop.",
+        "(25) We have made \"Germain\" from the name Germanus, in Provençal German. This name is common to a great many Provençal Families."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M IVLIAE GERMANAE MATRI PIISSIMAE M STATIVS RESTITVTVS",
+      "legend_ru": "D M IVLIAE GERMANAE MATRI PIISSIMAE M STATIVS RESTITVTVS",
+      "legend_en": "D M IVLIAE GERMANAE MATRI PIISSIMAE M STATIVS RESTITVTVS",
+      "findspot_fr": "place de la Darce, Arsenal",
+      "findspot_ru": "площадь Дарс, Арсенал",
+      "findspot_en": "the place de la Darce, Arsenal"
+    },
+    {
+      "id": "pl41-3",
+      "part": 5,
+      "plate": 41,
+      "num": "3",
+      "fr": "Tombeau de Valerius Rufinus, bâti de son vivant",
+      "ru": "Гробница Валерия Руфина, построенная им при жизни",
+      "en": "Tomb of Valerius Rufinus, built during his lifetime",
+      "page": "259",
+      "group": "XLI",
+      "group_fr": "Planche XLI",
+      "group_en": "XLI",
+      "group_page": "258",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "pierre de la carrière de Cassis",
+      "material_ru": "камень каменоломни Касси",
+      "material_en": "stone of the Cassis quarry",
+      "img": [
+        "pl41-full.jpg"
+      ],
+      "plate_img": "pl41-full.jpg",
+      "bbox": [
+        43.5,
+        49.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Tombeau trouvé à la plaine St. Michel, qui est l'ancien champ de Mars (26). Ce Tombeau sert actuellement de lavoir dans une des cours à côté des cuisines du Couvent des Minimes. C'est le seul monument qui leur reste d'un nombre qu'ils avoient recueilli en ce lieu; il est d'une seule pierre de la carrière de Cassis. On lit sur le milieu d'une des principales faces: D.M. VAL. RVFINI QVI VV. SIBI FECIT.",
+        "Les abréviations doivent être interprétées en ce sens: DIIS MANIBVS VALERII RVFINI QVI VIVVS SIBI FECIT; ce qu'on explique ainsi: Aux Dieux Manes de Valerius Rufinus qui s'est fait construire ce Tombeau de son vivant. La coutume de choisir le lieu de sa sépulture, & de la faire édifier soi-même, étoit en usage chez les Payens. Nombre d'inscriptions en rendent témoignage.",
+        "(26) Ruffi, hist. de Marseille, tom. 2, pag. 297. En 1200, le chemin qui aboutit à cette Plaine, étoit encore nommé dans les actes VIA DE CAMPO MARTIO."
+      ],
+      "text_ru": [
+        "№ 3. Гробница, найденная на равнине Сен-Мишель, представляющей собой древнее Марсово поле (26). Эта гробница ныне служит прачечной раковиной в одном из дворов рядом с кухнями монастыря Минимов. Это единственный уцелевший у них памятник из числа тех, что они некогда собрали в этом месте; он высечен из цельного камня каменоломни Касси. На середине одной из главных граней читается: D.M. VAL. RVFINI QVI VV. SIBI FECIT.",
+        "Сокращения следует толковать так: DIIS MANIBVS VALERII RVFINI QVI VIVVS SIBI FECIT; это объясняется так: «Богам манам Валерия Руфина, который построил себе эту гробницу ещё при жизни». Обычай выбирать себе место погребения и самому возводить его был в ходу у язычников. Немало надписей тому свидетельствуют.",
+        "(26) Рюффи, «История Марселя», т. 2, с. 297. В 1200 году дорога, ведущая к этой равнине, в документах всё ещё именовалась VIA DE CAMPO MARTIO."
+      ],
+      "text_en": [
+        "No. 3. Tomb found on the plain of St. Michael, the ancient Field of Mars (26). This Tomb now serves as a washing basin in one of the courtyards beside the kitchens of the Convent of the Minims. It is the only monument remaining to them, of a number they had gathered at this place; it is cut from a single stone of the Cassis quarry. On the middle of one of its main faces one reads: D.M. VAL. RVFINI QVI VV. SIBI FECIT.",
+        "The abbreviations should be interpreted thus: DIIS MANIBVS VALERII RVFINI QVI VIVVS SIBI FECIT; which is explained as: \"To the Divine Shades of Valerius Rufinus, who had this Tomb built for himself during his lifetime.\" The custom of choosing the site of one's burial, and having it built oneself, was practiced among the Pagans. A number of inscriptions bear witness to this.",
+        "(26) Ruffi, History of Marseille, vol. 2, p. 297. In 1200, the road leading to this Plain was still named in documents VIA DE CAMPO MARTIO."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M VAL RVFINI QVI VV SIBI FECIT",
+      "legend_ru": "D M VAL RVFINI QVI VV SIBI FECIT",
+      "legend_en": "D M VAL RVFINI QVI VV SIBI FECIT",
+      "findspot_fr": "plaine Saint-Michel (ancien champ de Mars)",
+      "findspot_ru": "равнина Сен-Мишель (древнее Марсово поле)",
+      "findspot_en": "the plain of Saint-Michel (the ancient Field of Mars)"
+    },
+    {
+      "id": "pl41-4",
+      "part": 5,
+      "plate": 41,
+      "num": "4",
+      "fr": "Épitaphe de Pomponia, par sa sœur Annia Fiicla",
+      "ru": "Эпитафия Помпонии от её сестры Аннии Фииклы",
+      "en": "Epitaph of Pomponia, by her sister Annia Fiicla",
+      "page": "260",
+      "group": "XLI",
+      "group_fr": "Planche XLI",
+      "group_en": "XLI",
+      "group_page": "258",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "pierre de la carrière de Cassis",
+      "material_ru": "камень каменоломни Касси",
+      "material_en": "stone of the Cassis quarry",
+      "img": [
+        "pl41-full.jpg"
+      ],
+      "plate_img": "pl41-full.jpg",
+      "bbox": [
+        18.5,
+        82.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4. Épitaphe sculptée sur une pierre de la carrière de Cassis, de 21 pouces de haut, sur 14 de large. Ce morceau est le mieux conservé de tous ceux que nous possédons, dans ce genre de monumens. Il se trouve placé sur le pavé devant la principale porte de l'Eglise supérieure de St. Victor. On y lit: D.M. POMPONI AE PRIMI CENIAE. ANNIA F. FII CLA SOROR KARISSIME.",
+        "C'est-à-dire, Annia Fiicla a fait élever ce monument aux Dieux Manes de Pomponia, sa très-chere Sœur aînée. Cette épitaphe renferme une singularité remarquable, en ce que l'M qui est placée dans toutes les inscriptions sépulcrales pour désigner les Manes, est ici remplacée par deux Femur. Nous nous servons encore de la figure de ces ossemens pour décorer nos édifices funèbres. On rencontre à chaque instant, dans l'étude de l'antiquité, des indices certains que les usages modernes ne sont pas toujours de notre invention.",
+        "CENIAE est mis dans l'inscription pour GENIAE. L'F répété est une faute du Sculpteur (*). La ligne perpendiculaire du R qui dépasse est un usage reconnu dans le style lapidaire pour lier la lettre I avec d'autres lettres. Il est dommage que cette épitaphe ait été sacrifiée pour paver le devant de l'Eglise; ce qui la dégradera bientôt par le frottement continuel. Nous avons si peu de titres de notre antiquité, ne devrions-nous pas redoubler nos soins pour les conserver?",
+        "(*) Un amateur de beaux arts m'a communiqué une autre interprétation de cette inscription, elle me paroît moins satisfaisante que la première, je me fais un devoir de la rapporter pour mettre le lecteur à portée de décider DIIS MANIBVS POMPONIAE PRIMI CENIA ET ANNIA FECERUNT IVRE CVM LACRIMIS SORORI CARISSIMAE. Selon cette interprétation PRIMI CENIA ET ANNIA, sont deux sœurs qui ont fait élever ce monument à Pomponia & qui ont répandu des larmes. La formule cum lacrimis étoit à la vérité usitée chez les Payens, mais cela ne fait aucune preuve en faveur de l'interprétation. La lettre E, à la fin du mot CENIAE termine la ligne sur le monument: on ne voit aucune trace du prétendu T, le champ est net & ne paroît pas avoir contenu aucune lettre."
+      ],
+      "text_ru": [
+        "№ 4. Эпитафия, высеченная на камне каменоломни Касси, высотой 21 дюйм и шириной 14 дюймов. Этот предмет — лучше всего сохранившийся из всех, какими мы обладаем, среди памятников такого рода. Он находится на мостовой перед главным порталом верхней церкви Сен-Виктора. На нём читается: D.M. POMPONI AE PRIMI CENIAE. ANNIA F. FII CLA SOROR KARISSIME.",
+        "То есть: «Анния Фиикла воздвигла этот памятник богам манам Помпонии, своей дражайшей старшей сестры». Эта эпитафия содержит примечательную особенность: буква M, помещаемая во всех погребальных надписях для обозначения манов, здесь заменена изображением двух бедренных костей (Femur). Мы и поныне используем изображения этих костей для украшения наших погребальных сооружений. При изучении древности то и дело встречаются несомненные свидетельства того, что современные обычаи не всегда являются нашим собственным изобретением.",
+        "CENIAE поставлено в надписи вместо GENIAE. Повторённая буква F — ошибка резчика (*). Выступающая вертикальная черта буквы R — признанный в лапидарном стиле приём для соединения буквы I с другими буквами. Жаль, что эта эпитафия была принесена в жертву для мощения площади перед церковью; это вскоре приведёт к её разрушению от постоянного трения. У нас так мало свидетельств нашей древности — не следует ли нам удвоить заботу об их сохранении?",
+        "(*) Один любитель изящных искусств сообщил мне другое толкование этой надписи; оно представляется мне менее удовлетворительным, чем первое, но я считаю своим долгом привести его, дабы дать читателю возможность составить собственное суждение: DIIS MANIBVS POMPONIAE PRIMI CENIA ET ANNIA FECERUNT IVRE CVM LACRIMIS SORORI CARISSIMAE. Согласно этому толкованию, PRIMI CENIA и ANNIA — две сестры, воздвигшие этот памятник Помпонии и пролившие слёзы. Формула cum lacrimis действительно была в ходу у язычников, но это никак не доказывает правильности данного толкования. Буква E в конце слова CENIAE завершает строку на памятнике: не видно никакого следа предполагаемой буквы T, поле чисто и, по-видимому, не содержало никакой буквы."
+      ],
+      "text_en": [
+        "No. 4. Epitaph carved on a stone of the Cassis quarry, 21 inches high by 14 wide. This piece is the best preserved of all we possess of this kind of monument. It is set in the pavement before the main door of the upper Church of St. Victor. On it one reads: D.M. POMPONI AE PRIMI CENIAE. ANNIA F. FII CLA SOROR KARISSIME.",
+        "That is: \"Annia Fiicla had this monument erected to the Divine Shades of Pomponia, her dearest elder Sister.\" This epitaph contains a remarkable peculiarity, in that the M placed in all sepulchral inscriptions to designate the Manes is here replaced by two Femurs. We still use the shape of these bones to decorate our funerary buildings. At every turn, in the study of antiquity, one meets certain signs that modern customs are not always our own invention.",
+        "CENIAE is put in the inscription for GENIAE. The repeated F is a Sculptor's error (*). The projecting vertical stroke of the R is a usage recognized in the lapidary style for linking the letter I with other letters. It is a pity this epitaph was sacrificed to pave the ground before the Church, which will soon wear it down through constant friction. We have so few credentials of our antiquity — should we not redouble our care in preserving them?",
+        "(*) An amateur of the fine arts communicated to me another interpretation of this inscription; it seems to me less satisfactory than the first, but I consider it my duty to report it, so as to let the reader judge for himself: DIIS MANIBVS POMPONIAE PRIMI CENIA ET ANNIA FECERUNT IVRE CVM LACRIMIS SORORI CARISSIMAE. According to this interpretation, PRIMI CENIA and ANNIA are two sisters who had this monument erected to Pomponia and who shed tears. The formula cum lacrimis was indeed used among the Pagans, but this proves nothing in favor of the interpretation. The letter E at the end of the word CENIAE ends the line on the monument: no trace whatsoever is seen of the supposed T; the field is clean and does not appear to have held any letter."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D II POMPONIAE PRIMICENIAE ANNIA F FIICLA SOROR KARISSIME",
+      "legend_ru": "D II POMPONIAE PRIMICENIAE ANNIA F FIICLA SOROR KARISSIME",
+      "legend_en": "D II POMPONIAE PRIMICENIAE ANNIA F FIICLA SOROR KARISSIME",
+      "findspot_fr": "pavé devant l'église supérieure de Saint-Victor",
+      "findspot_ru": "мостовая перед верхней церковью Сен-Виктор",
+      "findspot_en": "the pavement before the upper Church of Saint-Victor"
+    },
+    {
+      "id": "pl41-5",
+      "part": 5,
+      "plate": 41,
+      "num": "5",
+      "fr": "Autel de Quintus Minantius, chevalier de la légion Claudienne (robe de pourpre)",
+      "ru": "Алтарь Квинта Минантия, всадника Клавдиева легиона (пурпурное одеяние)",
+      "en": "Altar of Quintus Minantius, Knight of the Claudian Legion (the purple robe)",
+      "page": "261",
+      "group": "XLI",
+      "group_fr": "Planche XLI",
+      "group_en": "XLI",
+      "group_page": "258",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl41-full.jpg"
+      ],
+      "plate_img": "pl41-full.jpg",
+      "bbox": [
+        68.5,
+        82.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 5. Le monument désigné par ce numéro, est un vrai Acerra, ou autel funèbre en marbre blanc, de trois pieds de haut. Il étoit dans le couvent des Grands-Carmes; sur la principale face étoit sculptée en creux l'épitaphe suivante: D.M. Q. MINATI CELERIS CLAVDIANI FECER. PLARIA VERA VXOR ET Q. MINANTIVS TI RIDA STAT.",
+        "Sur une des faces latérales, on voyoit un préféricule que j'ai fait marquer dans la gravure & sur l'autre, une Patère que les règles de la perspective ne m'ont pas permis de faire représenter. L'épitaphe doit être lue ainsi: DIIS MANIBVS QVINTI MINANTII CELERIS CLAVDIANI FECERVNT PLARIA VERA VXOR ET QVINTVS MINANTIVS TIRIDA STAT.",
+        "Aux Dieux Manes de Quintus Minantius, Chevalier de la Légion Claudienne, Plaria Vera son Epouse, & Quintus Minantius ont fait élever ce monument, dans lequel est renfermée la robe de pourpre.",
+        "Les Chevaliers Romains [Celeres] étoient dans le principe un corps de Troupes de Cavalerie composé de 300 hommes destiné pour la garde de Romulus; ce Prince ayant choisi ces Celeres parmi les familles les plus distinguées, on regarda comme un grand honneur de servir dans ce corps. Dans la suite le nom de Chevalier fut donné, environ l'an 620 de la fondation de Rome, aux Cavaliers qui étoient affectés au service des Légions: on les nommoit indifféremment Equites & Celeres. Les deux freres Tiberius & Caius Gracchus, devenus tribuns du peuple, firent de l'ordre Equestre un corps séparé, en ôtant aux Sénateurs l'administration de la Justice, pour la donner aux Cavaliers légionnaires. Cet ordre ayant acquis par là un degré de plus de considération, les particuliers qui le composoient, se dispensèrent peu-à-peu du service dans les légions: enfin lorsque les peuples d'Italie eurent acquis le droit de Bourgeoisie Romaine, & que la Cavalerie des Légions fut confondue avec celle des alliés, les Consuls & les Censeurs chargés des levées militaires, ne mirent plus des personnes de l'Ordre Equestre dans les Légions.",
+        "Ces observations nous indiquent que le monument élevé à la mémoire de Quintus Minantius, doit être d'un temps plus reculé que celui auquel les Chevaliers cessèrent le service des Légions; puisque parmi les titres du défunt, on voit celui de CELERIS CLAVDIANI, Chevalier de la Légion Claudienne (28).",
+        "MINATI dans l'inscription est une abréviation de MINANTII, puisqu'on lit plus bas les mêmes nom & surnom de famille de Quintus Minantius. FECER est une abréviation de Fecerunt. Les mots Tirida stat pour désigner que l'Angusticlave, qui étoit la robbe des Chevaliers Romains, se trouvoit renfermée dans le monument, ne doivent pas former le moindre doute sur leurs significations. La couleur de pourpre étoit très-estimée chez les anciens; c'étoit à Tyr, à qui la découverte en étoit dûe; ses teintureries en ce genre étoient les plus estimées (29) ce qui avoit fait donner le nom de couleur de Tyr, Tirida à la couleur de pourpre.",
+        "L'Angusticlave étoit ornée de pièces d'étoffes de couleur de pourpre; mais de moindre largeur que celles des robes à l'usage des Sénateurs, qu'on nommoit Laticlave à raison de la plus grande étendue de ces pièces en forme de cloux & en bandes. Quant en matière de l'histoire Romaine, on dit la robe de pourpre, il ne faut pas toujours supposer que cette robe fût en entier d'une étoffe de cette précieuse couleur. Ensevelir un Citoyen avec la robe de pourpre, c'étoit donner une marque de luxe, qui dénotoit le rang, la considération ou la richesse de la famille, & du défunt. C'est ce qui avoit fait placer sur l'épitaphe du Chevalier Romain mort à Marseille, les mots de TIRIDA STAT. La robe de couleur de tyr, est dans le monument.",
+        "(28) Cette Légion avoit son quartier à Vienne en Dauphiné: LEGIO VII CLAVDIANA. — (29) Les Romains faisoient tant de cas de la teinture en pourpre, façon de Tyr, qu'ils établirent une teinturerie à Toulon. Le même genre de coquillage dont on se servoit à Tyr est fort abondant en Provence & sur-tout aux environs de Toulon. Ce coquillage est un univalve de la sixième famille de la première classe, sa robe dépouillée de son épiderme, est de couleur brune tirant sur le violet avec des bandes horisontales blanches, les curieux de Provence le nomment cordelière. De toutes les espèces de pourpre de la méditerranée, c'est la plus abondante en couleur. Les autres espèces de pourpres communes dans nos mers, sont la massue de couleur fauve garnie de pointes, & la fausse culotte de Suisse de la même couleur garnie de feuilles. Ces coquillages donnent une moindre quantité de cette précieuse liqueur que les cordelières. Ils sont à cet égard en proportion de ces dernières comme un à trois. Le poisson qui les habite, plus cutané & moins abondant en chairs que celui des cordelières, fournit moins de suc, & de cette colle naturelle ou Gluten que donne le corps baveux des coquillages, laquelle sert de mordant pour fixer la couleur. Ces observations doivent nous induire à croire qu'on se servoit de préférence du suc tiré des cordelières pour teindre en pourpre: j'ai fait venir à plusieurs reprises de Sour, qui est l'ancienne Tyr, toutes les espèces de coquillages qu'on trouve sur ces côtes, & je n'ai jamais rencontré que des cordelières dans la famille des pourpres: cela m'a déterminé à fixer l'usage de ce seul univalve pour teindre à Tyr. Ce qui donne lieu de présumer que ce fut-là le motif qui décida les Romains à former cet établissement à Toulon: on trouve dans la notice de l'Empire un Procurator Baphii Telonensis Galliarum."
+      ],
+      "text_ru": [
+        "№ 5. Памятник, обозначенный этим номером, — подлинная Acerra, или погребальный алтарь из белого мрамора, высотой в три фута. Он находился в монастыре Больших Кармелитов; на главной грани была рельефно высечена следующая эпитафия: D.M. Q. MINATI CELERIS CLAVDIANI FECER. PLARIA VERA VXOR ET Q. MINANTIVS TI RIDA STAT.",
+        "На одной из боковых граней был виден преферикул, который я велел отметить на гравюре, а на другой — патера, которую правила перспективы не позволили мне изобразить. Эпитафию следует читать так: DIIS MANIBVS QVINTI MINANTII CELERIS CLAVDIANI FECERVNT PLARIA VERA VXOR ET QVINTVS MINANTIVS TIRIDA STAT.",
+        "«Богам манам Квинта Минантия, всадника Клавдиева легиона, Плария Вера, его супруга, и Квинт Минантий воздвигли этот памятник, в котором хранится пурпурное одеяние».",
+        "Римские всадники [celeres] первоначально составляли конный отряд из 300 человек, предназначенный для охраны Ромула; поскольку этот государь избрал этих «целеров» из наиболее знатных семейств, служба в этом отряде почиталась великой честью. Впоследствии, около 620 года от основания Рима, название «всадник» стало даваться конникам, приписанным к службе в легионах: их безразлично называли equites и celeres. Братья Тиберий и Гай Гракх, став народными трибунами, выделили всаднический сословие в отдельную корпорацию, отняв у сенаторов отправление правосудия и передав его легионным всадникам. Обретя благодаря этому ещё больший вес, лица, составлявшие это сословие, постепенно стали уклоняться от службы в легионах: наконец, когда народы Италии получили права римского гражданства и легионная конница слилась с конницей союзников, консулы и цензоры, ведавшие воинскими наборами, перестали включать лиц всаднического сословия в легионы.",
+        "Эти наблюдения указывают нам, что памятник, воздвигнутый в память Квинта Минантия, должен относиться к более раннему времени, чем то, когда всадники перестали нести службу в легионах; ведь среди титулов покойного значится CELERIS CLAVDIANI — всадник Клавдиева легиона (28).",
+        "MINATI в надписи — сокращение от MINANTII, поскольку ниже читаются те же имя и родовое прозвание Квинта Минантия. FECER — сокращение от Fecerunt. Слова Tirida stat, обозначающие, что узкая пурпурная полоса (Angusticlave) — одеяние римских всадников — хранилась в этом памятнике, не должны вызывать ни малейшего сомнения в своём значении. Пурпурный цвет весьма ценился у древних; открытием его были обязаны Тиру, чьи красильни этого рода славились более всего (29), откуда и произошло название пурпурного цвета — «тирский», Tirida.",
+        "Angusticlave была украшена полосами пурпурной ткани, но более узкими, чем те, что носили сенаторы в своих одеяниях, называемых Laticlave из-за большей ширины этих полос, идущих гвоздевидными узорами и лентами. Что касается упоминаний в римской истории о «пурпурном одеянии», не всегда следует предполагать, что оно целиком было сделано из ткани этого драгоценного цвета. Хоронить гражданина в пурпурном одеянии означало демонстрировать признак роскоши, указывающий на положение, значимость или богатство семьи и самого покойного. Именно поэтому на эпитафии римского всадника, умершего в Марселе, были помещены слова TIRIDA STAT. Одеяние тирского цвета хранится в памятнике.",
+        "(28) Этот легион имел свою стоянку в Вьенне, в Дофине: LEGIO VII CLAVDIANA. — (29) Римляне настолько ценили окраску в пурпур на тирский манер, что учредили красильню в Тулоне. Та же порода раковин, что использовалась в Тире, весьма обильна в Провансе, особенно в окрестностях Тулона. Эта раковина — одностворчатая, шестого семейства первого класса; её покров, лишённый эпидермиса, бурого цвета, отдающего фиолетовым, с белыми горизонтальными полосами; провансальские любители называют её «корделье». Из всех средиземноморских пород пурпурных моллюсков эта наиболее богата красящим веществом. Другие обычные в наших морях породы пурпурных — это «булава» рыжего цвета, усаженная шипами, и «ложные швейцарские штаны» того же цвета, покрытые листовидными выростами. Эти раковины дают меньшее количество драгоценной жидкости, чем корделье: в этом отношении они относятся к последним как один к трём. Обитающий в них моллюск, более кожистый и менее мясистый, чем у корделье, даёт меньше сока и того природного клея, или глютена, что выделяет слизистое тело раковины и что служит протравой для закрепления краски. Эти наблюдения должны склонить нас к мысли, что для окраски в пурпур предпочтительно использовался именно сок корделье: я неоднократно выписывал из Сура, древнего Тира, все виды раковин, встречающихся на тех берегах, и ни разу не встретил среди пурпурных ничего, кроме корделье; это и побудило меня заключить, что в Тире для окраски использовалась именно эта одностворчатая раковина. Это даёт основание полагать, что именно это обстоятельство побудило римлян основать своё заведение в Тулоне: в описании Империи встречается Procurator Baphii Telonensis Galliarum («управляющий красильней Тулона в Галлиях»)."
+      ],
+      "text_en": [
+        "No. 5. The monument marked by this number is a true Acerra, or funerary altar, in white marble, three feet high. It stood in the convent of the Grands-Carmes; on its main face was carved in relief the following epitaph: D.M. Q. MINATI CELERIS CLAVDIANI FECER. PLARIA VERA VXOR ET Q. MINANTIVS TI RIDA STAT.",
+        "On one of the lateral faces a praefericulum was seen, which I had marked in the engraving, and on the other, a Patera that the rules of perspective did not allow me to show. The epitaph should be read thus: DIIS MANIBVS QVINTI MINANTII CELERIS CLAVDIANI FECERVNT PLARIA VERA VXOR ET QVINTVS MINANTIVS TIRIDA STAT.",
+        "\"To the Divine Shades of Quintus Minantius, Knight of the Claudian Legion, Plaria Vera his Wife, and Quintus Minantius had this monument erected, within which the purple robe is enclosed.\"",
+        "The Roman Knights [Celeres] were originally a body of Cavalry Troops, 300 men strong, meant as Romulus's guard; this Prince having chosen these Celeres from the most distinguished families, serving in this corps was regarded as a great honor. Later, around the year 620 of Rome's founding, the name Knight came to be given to the Horsemen assigned to Legionary service: they were indifferently called Equites and Celeres. The two brothers Tiberius and Caius Gracchus, having become tribunes of the people, made the Equestrian order a separate body, taking from the Senators the administration of Justice to give it to the Legionary Horsemen. This order having thereby gained a further degree of standing, the individuals composing it gradually exempted themselves from service in the legions: finally, once the peoples of Italy had acquired Roman citizenship, and the Legions' cavalry was merged with that of the allies, the Consuls and Censors in charge of military levies no longer placed persons of the Equestrian Order in the Legions.",
+        "These observations indicate that the monument raised to the memory of Quintus Minantius must date from a time earlier than when the Knights ceased Legionary service, since among the deceased's titles is that of CELERIS CLAVDIANI, Knight of the Claudian Legion (28).",
+        "MINATI in the inscription is an abbreviation of MINANTII, since the same name and family surname of Quintus Minantius is read further below. FECER is an abbreviation of Fecerunt. The words Tirida stat, indicating that the Angusticlave — the garment of Roman Knights — was enclosed in the monument, should leave no doubt as to their meaning. Purple was highly esteemed among the ancients; its discovery was owed to Tyre, whose dye-works of this kind were the most esteemed (29), which gave rise to naming the color of Tyre, Tirida, after purple.",
+        "The Angusticlave was adorned with strips of purple-colored cloth, but narrower than those of the robes worn by Senators, called the Laticlave because of the greater width of these nail-shaped strips and bands. As for mentions in Roman history of the \"purple robe,\" one should not always assume this robe was entirely made of cloth of this precious color. To bury a Citizen in the purple robe was to give a mark of luxury denoting the rank, standing, or wealth of the family and of the deceased. This is why the words TIRIDA STAT were placed on the epitaph of the Roman Knight who died at Marseille. The robe of Tyrian color is within the monument.",
+        "(28) This Legion had its quarters at Vienne in Dauphiné: LEGIO VII CLAVDIANA. — (29) The Romans set such store by Tyrian-style purple dyeing that they established a dye-works at Toulon. The same kind of shellfish used at Tyre is quite abundant in Provence, especially around Toulon. This shellfish is a univalve of the sixth family of the first class; its shell, stripped of its outer skin, is brown shading to violet with white horizontal bands, called by Provençal enthusiasts the \"cordelière.\" Of all the Mediterranean purple species, it is the richest in color. The other common purple species in our seas are the tawny, spine-covered \"club,\" and the leaf-covered \"false Swiss breeches\" of the same color. These shellfish yield a smaller quantity of this precious liquid than the cordelières, in a ratio of about one to three. The mollusk inhabiting them, more leathery and less fleshy than that of the cordelières, yields less fluid, and less of the natural glue or gluten given off by the slimy body of the shellfish, which serves as a mordant to fix the color. These observations lead us to believe that the juice drawn from the cordelières was preferentially used for purple dyeing: I had brought to me, on several occasions, from Sour, the ancient Tyre, every kind of shellfish found on those coasts, and never found anything but cordelières among the purple family; this led me to conclude that this single univalve was the one used for dyeing at Tyre. This gives grounds to presume that this was the very reason that led the Romans to establish this works at Toulon: the Notitia of the Empire records a Procurator Baphii Telonensis Galliarum (\"Procurator of the Toulon dye-works of the Gauls\")."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M Q MINATI CELERIS CLAVDIANI FECER PLARIA VERA VXOR ET Q MINANTIVS TIRIDA STAT",
+      "legend_ru": "D M Q MINATI CELERIS CLAVDIANI FECER PLARIA VERA VXOR ET Q MINANTIVS TIRIDA STAT",
+      "legend_en": "D M Q MINATI CELERIS CLAVDIANI FECER PLARIA VERA VXOR ET Q MINANTIVS TIRIDA STAT",
+      "findspot_fr": "couvent des Grands-Carmes",
+      "findspot_ru": "монастырь Больших Кармелитов",
+      "findspot_en": "the convent of the Grands-Carmes"
     }
   ]
 }
