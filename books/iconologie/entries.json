@@ -17548,12 +17548,49 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-203.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Красный плащ",
+          "meaning": "жестокость, обозначенная цветом крови",
+          "what_en": "Red cloak",
+          "meaning_en": "cruelty, signified by the colour of blood"
+        },
+        {
+          "what": "Обнажённый ятаган",
+          "meaning": "оружие, используемое убийцей для хладнокровного убийства невинных",
+          "what_en": "Bare scimitar",
+          "meaning_en": "the weapon used by a murderer to kill the innocent in cold blood"
+        },
+        {
+          "what": "Отрубленная голова в руке",
+          "meaning": "само деяние убийства",
+          "what_en": "Severed head in his hand",
+          "meaning_en": "the act of murder itself"
+        },
+        {
+          "what": "Ужасающее лицо",
+          "meaning": "убийство отвратительно всем людям и прежде всего Богу",
+          "what_en": "Dreadful face",
+          "meaning_en": "murder is odious to all men and above all to God"
+        }
+      ],
+      "text_ru": [
+        "Он представлен в облике человека злобного вида, вооружённого с головы до ног и облачённого в красный плащ, держащего в одной руке обнажённый ятаган, а в другой — голову, которую он только что отрубил. Он изображён с ужасающим лицом, дабы показать, что убийство отвратительно всем людям,",
+        "и тем более Богу, который прямо запрещает его нам Своими святыми Заповедями. Красный плащ означает жестокость этим кровавым цветом; а оружие означает, что, тогда как истинно доблестные обычно носят его, дабы пользоваться им с честью, убийцы, напротив, прибегают к нему лишь затем, чтобы застигать невинных себе на пользу и хладнокровно их убивать."
+      ],
+      "text_fr": [
+        "Il est representé par vn homme de mauvaise mine, armé de toutes pieces, & couvert d'vn manteau rouge, tenant d'vne main vn cimeterre nud, & de l'autre vne teste qu'il vient de couper. Il est peint avec vn visage effroyable, pour montrer que le meurtre est odieux à tous les hommes,",
+        "& encore plus à Dieu, qui nous le defend expressément par ses saints Commandemens. Le manteau rouge marque la cruauté par cette couleur de sang: & les armes signifient qu'au lieu que les vrais vaillans les portent d'ordinaire pour en vser avec honneur; les meutriers au contraire ne s'en servent que pour prendre les innocens à leur avantage, & les tuer de sang froid."
+      ],
       "en": "Homicide",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-203-1.jpg",
+        "p2-203-2.jpg"
+      ]
     },
     {
       "id": "p2-204",
@@ -17566,12 +17603,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-204.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Слепота",
+          "meaning": "странное духовное ослепление идолопоклонника",
+          "what_en": "Blindness",
+          "meaning_en": "the strange spiritual blindness of the idolater"
+        },
+        {
+          "what": "Бронзовый телец",
+          "meaning": "творение, которому воздаётся поклонение вместо Творца",
+          "what_en": "Bronze bull",
+          "meaning_en": "a creature worshipped in place of the Creator"
+        },
+        {
+          "what": "Воскурение фимиама",
+          "meaning": "акт поклонения, обращённый не по адресу",
+          "what_en": "Burning of incense",
+          "meaning_en": "an act of worship misdirected"
+        }
+      ],
+      "text_ru": [
+        "Эта слепая женщина, преклонившая колени перед бронзовым тельцом, которому она воскуряет фимиам, представляет Идолопоклонство; это не нуждается в ином объяснении, поскольку ясно видно, что все эти её действия суть акты поклонения, которые из-за странной слепоты она воздаёт творениям, тогда как их следует воздавать только Творцу."
+      ],
+      "text_fr": [
+        "Cette femme aveugle, & qui se tient à genoux devant vn taureau d'airain à qui elle donne de l'encens, represente l'Idolatrie; ce qui n'a pas besoin d'autre explication, puisqu'il se voit clairement que toutes ces choses qu'elle fait, sont des actes d'adoration, que par vn étrange aveuglement elle rend aux creatures, au lieu qu'ils ne se doivent rendre qu'au Createur."
+      ],
       "en": "Idolatry",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-204-1.jpg",
+        "p2-204-2.jpg"
+      ]
     },
     {
       "id": "p2-205",
@@ -17584,30 +17650,87 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-205.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Чёрные вороньи крылья",
+          "meaning": "молва о позорных делах, распространяющаяся повсюду",
+          "what_en": "Black raven wings",
+          "meaning_en": "the rumour of shameful deeds spreading everywhere"
+        },
+        {
+          "what": "Труба, в которую она трубит",
+          "meaning": "бесчестье, которое сама носительница невольно разглашает",
+          "what_en": "Horn she sounds",
+          "meaning_en": "the disgrace that its bearer unwittingly broadcasts herself"
+        },
+        {
+          "what": "Надпись TVRPE на лбу",
+          "meaning": "позор виднее другим, чем тому, кто им покрыт",
+          "what_en": "Word TVRPE written on her brow",
+          "meaning_en": "shame is more easily seen by others than by the one who bears it"
+        }
+      ],
+      "text_ru": [
+        "Вы видите её здесь изображённой в облике полуобнажённой женщины с чёрными крыльями и трубой, в которую она трубит, с надписью на лбу TVRPE («ПОЗОРНО»). У неё вороньи крылья, дабы показать, что молва о порочащих её деяниях разносится повсюду в мире, и что она сама разглашает их, не задумываясь. Слово, написанное у неё на лбу, означает, что Бесчестье легче видно другим, чем тем, кто им покрыт."
+      ],
+      "text_fr": [
+        "Vous la voyez icy peinte sous la figure d'vne femme à demy nuë, ayant des aisles noires & vne trompe dont elle sonne, avec ce mot écrit sur la teste, TVRPE. Elle a des aisles de corbeau, pour montrer que le bruit des actions qui la noircissent, est semé de toutes parts dans le monde, & qu'elle-mesme les publie sans y penser. Le mot qu'elle porte écrit sur le front, veut dire que l'Infamie est plus facilement veuë par autruy, que par ceux qui en sont couverts."
+      ],
       "en": "Infamy",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-205-1.jpg"
+      ]
     },
     {
       "id": "p2-206",
       "part": 2,
       "num": "",
-      "fr": "Lasciveté",
-      "ru": "Распутство",
+      "fr": "Jactance",
+      "ru": "Хвастовство",
       "page": "211",
       "group": "Пороки (в книге без заголовка)",
       "group_fr": "",
       "group_page": "",
-      "flag": "чтение слова неуверенное",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
-      "en": "Lasciviousness",
-      "group_en": "Vices (untitled in the book)"
+      "flag": "",
+      "img": [
+        "p2-206.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Поднятая рука",
+          "meaning": "тщеславное превозношение собственных поступков",
+          "what_en": "Raised hand",
+          "meaning_en": "vain self-exaltation of one's own deeds"
+        },
+        {
+          "what": "Труба",
+          "meaning": "разглашение своих деяний",
+          "what_en": "Trumpet",
+          "meaning_en": "the broadcasting of one's own deeds"
+        },
+        {
+          "what": "Платье из павлиньих перьев",
+          "meaning": "гордыня, неотделимая от тщеславия — блестящая, но бесполезная пышность",
+          "what_en": "Robe strewn with peacock feathers",
+          "meaning_en": "pride inseparable from vanity — a splendour that is bright but useless"
+        }
+      ],
+      "text_ru": [
+        "Она держит одну руку поднятой в воздух, а в другой — трубу, и одета в платье, сплошь усеянное павлиньими перьями, дабы показать, что тщеславные души находят удовольствие в том, чтобы разглашать собственные поступки, и что гордыня неотделима от тщеславия. Но, в конце концов, это лишь тщетная демонстрация, подобная той, что являет павлин, самая гордая из всех птиц, чьи перья блестящи и прекрасны, но бесполезны."
+      ],
+      "text_fr": [
+        "Elle porte vne main en l'air, vne trompette de l'autre, & vne robe toute semée de plumes de paon, pour montrer que les ames vaines prennent plaisir à publier leurs propres actions, & que la superbe est inseparable d'avec la vanité. Mais aprés tout, ce n'est qu'vne vaine montre, comparable à celle du paon, oiseau le plus orgueilleux de tous, les plumes duquel sont éclatantes & belles, mais inutiles."
+      ],
+      "en": "Boastfulness",
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-206-1.jpg",
+        "p2-206-2.jpg"
+      ]
     },
     {
       "id": "p2-207",
