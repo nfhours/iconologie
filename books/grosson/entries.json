@@ -11004,6 +11004,302 @@
       "findspot_fr": "place de l'Arsenal, la Darce",
       "findspot_ru": "площадь Арсенала, Дарс",
       "findspot_en": "the Arsenal square, the Darse"
+    },
+    {
+      "id": "pl39-1",
+      "part": 5,
+      "plate": 39,
+      "num": "1",
+      "fr": "Épitaphe de Titus Maccius Marcellus",
+      "ru": "Эпитафия Тита Маккия Марцелла",
+      "en": "Epitaph of Titus Maccius Marcellus",
+      "page": "250",
+      "group": "XXXIX",
+      "group_fr": "Planche XXXIX",
+      "group_en": "XXXIX",
+      "group_page": "250",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "pierre d'Arles",
+      "material_ru": "арльский камень",
+      "material_en": "Arles stone",
+      "img": [
+        "pl39-full.jpg"
+      ],
+      "plate_img": "pl39-full.jpg",
+      "bbox": [
+        33.5,
+        1.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. L'Inscription Latine, désignée par ce numéro, est au pouvoir de Mr. Corail le fils: elle a été trouvée dans les terrains en dessous du glacis de la Citadelle St. Nicolas, dans la partie du Levant. La pierre sur laquelle est gravée cette inscription, est de la même qualité que la pierre blanche, connue à Marseille sous le nom de pierre d'Arles; elle a un pied & demi de large sur un pied de haut, on y lit: D.M. T. MACCIO MARCELLO MACCIA IANVARIA FILIO PIISSIMO ET LICINIA CARPIMAE VXOR.",
+        "L'abréviation T. est ici placée pour TITO. On doit traduire ainsi: Aux Dieux Manes à Titus Maccius, Marcellus son fils très-pieux, Maccia Januaria & Licinia de la famille Carpime, son épouse, ont élevé ce monument. Cette dégradation du goût dans la façon de former les caractères, tels qu'on les remarque dans l'épitaphe est assez ordinaire dans le style lapidaire; ce mélange bizarre de grandes & de petites lettres se retrouve sur nombre de monumens antiques. Les noms de Maccius, de Marcellus & de Januaria, sont Romains (17).",
+        "(17) S'il existe dans Marseille des traces des anciens noms de famille d'origine Grecque, il n'en existe pas un moindre nombre d'origine Latine. Tels sont les noms de Macel, de Marcel, &c., que nombre de nos Concitoyens portent encore."
+      ],
+      "text_ru": [
+        "№ 1. Латинская надпись, обозначенная этим номером, находится во владении г-на Кораля-сына: она была найдена на землях под гласисом цитадели Сен-Николя, в восточной части. Камень, на котором высечена эта надпись, того же качества, что и белый камень, известный в Марселе под именем «арльского»; он имеет полтора фута в ширину и фут в высоту; на нём читается: D.M. T. MACCIO MARCELLO MACCIA IANVARIA FILIO PIISSIMO ET LICINIA CARPIMAE VXOR.",
+        "Сокращение T. здесь поставлено вместо TITO. Следует переводить так: «Богам манам Титу Маккию; Марцелл, его преблагочестивый сын, Маккия Януария и Лициния из семьи Карпиме, его супруга, воздвигли этот памятник». Этот упадок вкуса в начертании букв, какой замечается в эпитафии, довольно обычен для лапидарного стиля; подобное причудливое смешение крупных и мелких букв встречается на многих античных памятниках. Имена Maccius, Marcellus и Januaria — римские (17).",
+        "(17) Если в Марселе существуют следы старинных семейных имён греческого происхождения, то не меньше их и латинского происхождения. Таковы имена Macel, Marcel и т. д., которые многие наши сограждане носят и поныне."
+      ],
+      "text_en": [
+        "No. 1. The Latin Inscription marked under this number is in the possession of M. Corail the son: it was found on the grounds beneath the glacis of the Citadel of St. Nicolas, on the Levant side. The stone on which this inscription is engraved is of the same quality as the white stone known at Marseille as \"Arles stone\"; it is a foot and a half wide by a foot high; on it one reads: D.M. T. MACCIO MARCELLO MACCIA IANVARIA FILIO PIISSIMO ET LICINIA CARPIMAE VXOR.",
+        "The abbreviation T. here stands for TITO. It should be translated thus: \"To the Divine Shades, to Titus Maccius; Marcellus, his most dutiful son, Maccia Januaria and Licinia of the Carpime family, his wife, erected this monument.\" This decline in taste in the shaping of the letters, as noted in the epitaph, is fairly ordinary in the lapidary style; this odd mixture of large and small letters is found on a number of antique monuments. The names Maccius, Marcellus and Januaria are Roman (17).",
+        "(17) If traces exist at Marseille of old family names of Greek origin, no fewer exist of Latin origin. Such are the names Macel, Marcel, etc., still borne by a number of our fellow-citizens."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M T MACCIO MARCELLO MACCIA IANVARIA FILIO PIISSIMO ET LICINIA CARPIMAE VXOR",
+      "legend_ru": "D M T MACCIO MARCELLO MACCIA IANVARIA FILIO PIISSIMO ET LICINIA CARPIMAE VXOR",
+      "legend_en": "D M T MACCIO MARCELLO MACCIA IANVARIA FILIO PIISSIMO ET LICINIA CARPIMAE VXOR",
+      "findspot_fr": "glacis de la Citadelle St. Nicolas",
+      "findspot_ru": "гласис цитадели Сен-Николя",
+      "findspot_en": "the glacis of the Citadel of St. Nicolas"
+    },
+    {
+      "id": "pl39-2",
+      "part": 5,
+      "plate": 39,
+      "num": "2",
+      "fr": "Épitaphe grecque de Zosime, par Thallusa",
+      "ru": "Греческая эпитафия Зосима от Таллусы",
+      "en": "Greek-named epitaph of Zosimus, by Thallusa",
+      "page": "251",
+      "group": "XXXIX",
+      "group_fr": "Planche XXXIX",
+      "group_en": "XXXIX",
+      "group_page": "250",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre",
+      "material_ru": "мрамор",
+      "material_en": "marble",
+      "img": [
+        "pl39-full.jpg"
+      ],
+      "plate_img": "pl39-full.jpg",
+      "bbox": [
+        76.5,
+        7.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Cette épitaphe fut trouvée dans les fondemens d'une maison du quartier de Cavaillon, qui est un des plus anciens de Marseille. Elle étoit sculptée sur une petite tablette de marbre. Les lettres avoient demi pied de long (18). On y lisoit: D.M. ZOSIMO SODALI THALLVSA.",
+        "C'est-à-dire, Aux Dieux Manes. Thallusa a élevé ce monument à Zosime son compagnon. Zosime est un nom Grec.",
+        "(18) Manusc. de la Massiliographie."
+      ],
+      "text_ru": [
+        "№ 2. Эта эпитафия была найдена в фундаменте дома квартала Кавайон, одного из древнейших в Марселе. Она была высечена на небольшой мраморной табличке. Буквы имели полфута в высоту (18). На ней читалось: D.M. ZOSIMO SODALI THALLVSA.",
+        "То есть: «Богам манам. Таллуса воздвигла этот памятник Зосиму, своему спутнику». Zosimo — греческое имя.",
+        "(18) Рукопись «Массилиографии»."
+      ],
+      "text_en": [
+        "No. 2. This epitaph was found in the foundations of a house in the Cavaillon quarter, one of the oldest in Marseille. It was carved on a small marble tablet. The letters were half a foot long (18). On it one read: D.M. ZOSIMO SODALI THALLVSA.",
+        "That is: \"To the Divine Shades. Thallusa erected this monument to Zosimus her companion.\" Zosimus is a Greek name.",
+        "(18) Manuscript of the Massiliographie."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M ZOSIMO SODALI THALLVSA",
+      "legend_ru": "D M ZOSIMO SODALI THALLVSA",
+      "legend_en": "D M ZOSIMO SODALI THALLVSA",
+      "findspot_fr": "quartier de Cavaillon",
+      "findspot_ru": "квартал Кавайон",
+      "findspot_en": "the Cavaillon quarter"
+    },
+    {
+      "id": "pl39-3",
+      "part": 5,
+      "plate": 39,
+      "num": "3",
+      "fr": "Épitaphe de Julius Dudistius, patron de deux affranchis",
+      "ru": "Эпитафия Юлия Дудистия, патрона двух вольноотпущенников",
+      "en": "Epitaph of Julius Dudistius, patron of two freedmen",
+      "page": "251",
+      "group": "XXXIX",
+      "group_fr": "Planche XXXIX",
+      "group_en": "XXXIX",
+      "group_page": "250",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl39-full.jpg"
+      ],
+      "plate_img": "pl39-full.jpg",
+      "bbox": [
+        28.5,
+        49.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Cette inscription fut trouvée dans les ruines d'une ancienne tour, appellée la Tour de Gaubert, qui étoit attenante à l'ancienne enceinte de la Ville, & placée à l'entrée de la rue des Fabres, au coin des maisons des Grands Augustins. C'est dans leur Monastère que cette inscription se trouve actuellement incrustée sur le mur, à côté de la Sacristie. Le personnage en l'honneur duquel elle étoit faite; devoit être un homme de considération qui avoit exercé plusieurs charges honorables, ainsi qu'on peut le remarquer par ses titres; j'interprète ainsi les abréviations: IVLIO DVDISTIO LVCII FILIO VOLTINIANO NOVANO PONTIFICI LAVRENTINORVM ORNATO FLAMINII COLONIÆ AQVENSIS EXORNATO PÆFECTO ALÆ HISPANÆ ADIVTORI AD CENSVS PROVINCIÆ LVGDVNENSIS PROCVRATORI AVGVSTI ALPIVM COTTIANARVM DVDISTIVS EGLECTVS ET APTHONETVS PATRONO OPTVMO.",
+        "C'est-à-dire, Dudistius, Eglectus & Apthonetus ont érigé ce monument à leur cher Patron, Julius Dudistius, fils de Lucius, de la neuvième Tribu Voltinienne, Pontife des Laurentins (19), décoré du premier Sacerdoce de la Colonie d'Aix, ci-devant Préfet de la Cavalerie Espagnole, Aide du dénombrement de la Province de Lyon, Intendant pour l'Empereur dans les Alpes Cottiènes (20).",
+        "Ce monument est l'effet de la reconnoissance de deux affranchis envers un Romain leur Patron.",
+        "(19) Peuples d'Italie, dont Laurentum étoit la Capitale: c'étoit la résidence du Roi Latinus. — (20) Aujourd'hui le Mont Cenis."
+      ],
+      "text_ru": [
+        "№ 3. Эта надпись была найдена среди развалин древней башни, называемой башней Гобера, примыкавшей к старой городской стене и расположенной у входа на улицу Фабров, на углу домов Великих Августинцев. Именно в их монастыре эта надпись ныне вделана в стену, рядом с ризницей. Лицо, в честь которого она была составлена, должно было быть человеком значительным, занимавшим несколько почётных должностей, что можно заметить по его титулам; сокращения я толкую следующим образом: IVLIO DVDISTIO LVCII FILIO VOLTINIANO NOVANO PONTIFICI LAVRENTINORVM ORNATO FLAMINII COLONIÆ AQVENSIS EXORNATO PÆFECTO ALÆ HISPANÆ ADIVTORI AD CENSVS PROVINCIÆ LVGDVNENSIS PROCVRATORI AVGVSTI ALPIVM COTTIANARVM DVDISTIVS EGLECTVS ET APTHONETVS PATRONO OPTVMO.",
+        "То есть: «Дудистий, Эглект и Апфонет воздвигли этот памятник своему дорогому патрону, Юлию Дудистию, сыну Луция, из девятой Вольтиниевой трибы, понтифику лаврентийцев (19), удостоенному первого жречества колонии Экс, бывшему префекту испанской конницы, помощнику по переписи провинции Лугдун, интенданту императора в Коттийских Альпах (20)».",
+        "Этот памятник — выражение благодарности двух вольноотпущенников римлянину, их патрону.",
+        "(19) Народ Италии, столицей которого был Лаврент: это была резиденция царя Латина. — (20) Ныне гора Сени."
+      ],
+      "text_en": [
+        "No. 3. This inscription was found amid the ruins of an old tower called the Tour de Gaubert, which adjoined the City's old wall, and stood at the entrance to the rue des Fabres, at the corner of the houses of the Grands Augustins. It is in their Monastery that this inscription is now embedded in the wall, beside the Sacristy. The person in whose honor it was made must have been a man of standing who had held several honorable offices, as may be seen from his titles; I interpret the abbreviations thus: IVLIO DVDISTIO LVCII FILIO VOLTINIANO NOVANO PONTIFICI LAVRENTINORVM ORNATO FLAMINII COLONIÆ AQVENSIS EXORNATO PÆFECTO ALÆ HISPANÆ ADIVTORI AD CENSVS PROVINCIÆ LVGDVNENSIS PROCVRATORI AVGVSTI ALPIVM COTTIANARVM DVDISTIVS EGLECTVS ET APTHONETVS PATRONO OPTVMO.",
+        "That is: \"Dudistius, Eglectus and Apthonetus erected this monument to their dear Patron, Julius Dudistius, son of Lucius, of the ninth Voltinian Tribe, Pontiff of the Laurentines (19), honored with the first Priesthood of the Colony of Aix, formerly Prefect of the Spanish Cavalry, Assistant for the census of the Province of Lyon, Imperial Steward in the Cottian Alps (20).\"",
+        "This monument is the result of the gratitude of two freedmen toward a Roman, their Patron.",
+        "(19) A people of Italy, whose capital was Laurentum: it was the residence of King Latinus. — (20) Today Mont Cenis."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "I DVDISTIO L F VOL NOVANO PONTIF LAVRENTINORVM ORN FLAMIN COLON AQVENS EXORN PRAEF ALAE HISPANAE ADIVTORI AD CENSVS PROVINC LVGDVNENS PROC AVG ALPIVM COTTIAN DVDISTI EGLECTVS ET APTHONETVS PATRONO OPTVMO",
+      "legend_ru": "I DVDISTIO L F VOL NOVANO PONTIF LAVRENTINORVM ORN FLAMIN COLON AQVENS EXORN PRAEF ALAE HISPANAE ADIVTORI AD CENSVS PROVINC LVGDVNENS PROC AVG ALPIVM COTTIAN DVDISTI EGLECTVS ET APTHONETVS PATRONO OPTVMO",
+      "legend_en": "I DVDISTIO L F VOL NOVANO PONTIF LAVRENTINORVM ORN FLAMIN COLON AQVENS EXORN PRAEF ALAE HISPANAE ADIVTORI AD CENSVS PROVINC LVGDVNENS PROC AVG ALPIVM COTTIAN DVDISTI EGLECTVS ET APTHONETVS PATRONO OPTVMO",
+      "findspot_fr": "ruines de la Tour de Gaubert, rue des Fabres",
+      "findspot_ru": "развалины башни Гобера, улица Фабров",
+      "findspot_en": "the ruins of the Tour de Gaubert, rue des Fabres"
+    },
+    {
+      "id": "pl39-4",
+      "part": 5,
+      "plate": 39,
+      "num": "4",
+      "fr": "Fragment d'épitaphe de Quartia Irvatilla",
+      "ru": "Фрагмент эпитафии Квартии Ирватиллы",
+      "en": "Epitaph fragment of Quartia Irvatilla",
+      "page": "252",
+      "group": "XXXIX",
+      "group_fr": "Planche XXXIX",
+      "group_en": "XXXIX",
+      "group_page": "250",
+      "flag": "lecture disputée (Ruffi vs Guesnay)",
+      "type": "tomb",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl39-full.jpg"
+      ],
+      "plate_img": "pl39-full.jpg",
+      "bbox": [
+        23.5,
+        80.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4. Ce fragment d'épitaphe étoit placé à la rue St. Jacques, selon Guesnay (21). Il y a eu dans Marseille plusieurs rues de ce nom; mais notre Annaliste ne nous désigne celle où étoit ce monument, que par le nom de St. Jacques. Il nous apprend que l'inscription étoit sur une tablette de pierre, Tabella lapidea. On y lisoit, selon cet Auteur: D.M. QVARTIA IRVA TILLA.",
+        "Ruffi (22) rapporte différemment cette épitaphe; en mettant IVRA à la place de IRVA. Guesnay nous prévient que c'est une faute de lire ainsi ce fragment: Alii [dit-il] mendosè, ut arbitror, legunt, QVARTIA IVRA, &c.",
+        "Ce monument ne nous présentant rien d'intéressant, je crois indifférent d'adopter l'une ou l'autre copie.",
+        "(21) Guesnay, Annales, pag. 79. — (22) Ruffi, hist. de Marseille, pag. 320."
+      ],
+      "text_ru": [
+        "№ 4. Этот фрагмент эпитафии находился на улице Сен-Жак, согласно Генэ (21). В Марселе было несколько улиц с этим названием; но наш летописец обозначает ту, где находился этот памятник, лишь именем Сен-Жак. Он сообщает нам, что надпись была на каменной табличке, Tabella lapidea. На ней, по словам этого автора, читалось: D.M. QVARTIA IRVA TILLA.",
+        "Рюффи (22) приводит эту эпитафию иначе, помещая IVRA вместо IRVA. Генэ предупреждает нас, что читать этот фрагмент таким образом — ошибка: «Alii [говорит он] mendosè, ut arbitror, legunt, QVARTIA IVRA, &c.» («Иные, как я полагаю, ошибочно читают QVARTIA IVRA и т. д.»).",
+        "Поскольку этот памятник не представляет для нас ничего интересного, полагаю безразличным, какой из двух списков принять.",
+        "(21) Генэ, «Анналы», с. 79. — (22) Рюффи, «История Марселя», с. 320."
+      ],
+      "text_en": [
+        "No. 4. This epitaph fragment stood on the rue St. Jacques, according to Guesnay (21). There were several streets of that name at Marseille; but our Annalist designates the one where this monument stood only by the name St. Jacques. He tells us the inscription was on a stone tablet, Tabella lapidea. On it, according to this Author, one read: D.M. QVARTIA IRVA TILLA.",
+        "Ruffi (22) reports this epitaph differently, putting IVRA in place of IRVA. Guesnay warns us that reading this fragment that way is an error: \"Alii [he says] mendosè, ut arbitror, legunt, QVARTIA IVRA, etc.\" (\"Others, I believe, mistakenly read QVARTIA IVRA, etc.\")",
+        "As this monument presents nothing of interest to us, I think it indifferent which of the two copies is adopted.",
+        "(21) Guesnay, Annales, p. 79. — (22) Ruffi, History of Marseille, p. 320."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M QVARTIA IRVA TILLA",
+      "legend_ru": "D M QVARTIA IRVA TILLA",
+      "legend_en": "D M QVARTIA IRVA TILLA",
+      "findspot_fr": "rue Saint-Jacques",
+      "findspot_ru": "улица Сен-Жак",
+      "findspot_en": "rue Saint-Jacques"
+    },
+    {
+      "id": "pl39-5",
+      "part": 5,
+      "plate": 39,
+      "num": "5",
+      "fr": "Épitaphe de Titus Domitius Asiaticus et de son épouse Lalihe",
+      "ru": "Эпитафия Тита Домиция Азиатика и его супруги Лалихи",
+      "en": "Epitaph of Titus Domitius Asiaticus and his wife Lalihe",
+      "page": "253",
+      "group": "XXXIX",
+      "group_fr": "Planche XXXIX",
+      "group_en": "XXXIX",
+      "group_page": "250",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "pierre froide",
+      "material_ru": "\"холодный камень\"",
+      "material_en": "\"cold stone\"",
+      "img": [
+        "pl39-full.jpg"
+      ],
+      "plate_img": "pl39-full.jpg",
+      "bbox": [
+        78.5,
+        47.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 5. Inscription Latine trouvée dans les terrains devant l'Eglise de St. Victor en 1763. Elle est sculptée sur une pierre froide de 32 pouces de long sur 18 de large, on y lit: T. DOMITIO ASIATICO LALIHE CONIVGI OPTIMO. ID SIBI.",
+        "Elle doit être interprétée comme il suit: TITO DOMITIO ASIATICO, LALIHE CONIVGI OPTIMO IDEM SIBI.",
+        "A Titus Domitius Asiaticus [ou l'Asiatique] le très-bon époux de Lalihe; ce sépulcre est en même temps pour elle. Cette formule ID sibi, pour Idem sibi, étoit usitée dans le style lapidaire. On mettoit quelquefois ET SIBI. COLVCI pour Conjugi; on disoit également COIVGI. LALIHE est un nom grec d'origine; la lettre H est de trop; il vient de la prononciation de ces temps, dans lesquels on aspiroit l'E, lorsqu'il terminoit les mots."
+      ],
+      "text_ru": [
+        "№ 5. Латинская надпись, найденная на землях перед церковью Сен-Виктор в 1763 году. Она высечена на «холодном камне» размером 32 дюйма в длину и 18 в ширину; на нём читается: T. DOMITIO ASIATICO LALIHE CONIVGI OPTIMO. ID SIBI.",
+        "Её следует толковать следующим образом: TITO DOMITIO ASIATICO, LALIHE CONIVGI OPTIMO IDEM SIBI.",
+        "«Титу Домицию Азиатику [или Азиату], наилучшему супругу Лалихи; эта гробница одновременно и для неё». Формула ID sibi, вместо Idem sibi, была употребительна в лапидарном стиле. Иногда писали ET SIBI. COLVCI вместо Conjugi; говорили также COIVGI. LALIHE — имя греческого происхождения; буква H здесь лишняя; она происходит от произношения тех времён, когда E в конце слов произносили с придыханием."
+      ],
+      "text_en": [
+        "No. 5. Latin inscription found on the grounds before the Church of St. Victor in 1763. It is carved on a \"cold stone\" 32 inches long by 18 wide; on it one reads: T. DOMITIO ASIATICO LALIHE CONIVGI OPTIMO. ID SIBI.",
+        "It should be interpreted as follows: TITO DOMITIO ASIATICO, LALIHE CONIVGI OPTIMO IDEM SIBI.",
+        "\"To Titus Domitius Asiaticus [or the Asiatic], the very good husband of Lalihe; this sepulchre is likewise for her.\" This formula ID sibi, for Idem sibi, was in use in the lapidary style. ET SIBI was sometimes used instead. COLVCI stood for Conjugi; COIVGI was also said. LALIHE is a name of Greek origin; the letter H is superfluous; it comes from the pronunciation of those times, in which the final E of words was aspirated."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "T DOMITIO ASI ATICO LALIHE CONIVGI OPTIMO ID SIBI",
+      "legend_ru": "T DOMITIO ASI ATICO LALIHE CONIVGI OPTIMO ID SIBI",
+      "legend_en": "T DOMITIO ASI ATICO LALIHE CONIVGI OPTIMO ID SIBI",
+      "findspot_fr": "devant l'église Saint-Victor",
+      "findspot_ru": "перед церковью Сен-Виктор",
+      "findspot_en": "before the Church of Saint-Victor"
     }
   ]
 }
