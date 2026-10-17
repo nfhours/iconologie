@@ -7043,6 +7043,122 @@
       "findspot_fr": "quartier de St. Loup",
       "findspot_ru": "квартал Сен-Лу",
       "findspot_en": "the St. Loup district"
+    },
+    {
+      "id": "pl21-1",
+      "part": 2,
+      "plate": 21,
+      "num": "1",
+      "fr": "Sarcophage d'un magistrat rendant la justice (bassin des fonts baptismaux de Pierre Puget)",
+      "ru": "Саркофаг магистрата, вершащего правосудие (чаша купели работы Пьера Пюже)",
+      "en": "Sarcophagus of a magistrate dispensing justice (used by Pierre Puget as a baptismal-font basin)",
+      "page": "161",
+      "group": "XXI",
+      "group_fr": "Planche XXI",
+      "group_en": "XXI",
+      "group_page": "161",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl21-full.jpg"
+      ],
+      "plate_img": "pl21-full.jpg",
+      "bbox": [
+        3.0,
+        2.0,
+        94.0,
+        46.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LE tombeau représenté sous le No. 1, est en marbre blanc. Il fut trouvé aux environs de la Cathédrale, qui avoit autrefois un cimetière très-vaste, decoré de plusieurs vestiges d'Antiquité, parmi lesquels se trouvoit ce Monument. Notre célèbre Compatriote Pierre Puget, qui, par la supériorité des talens dans la sculpture, mérita le surnom de Grand, ayant été chargé de faire exécuter les fonts-baptismaux de cette Eglise, crut ne pouvoir mieux les décorer qu'en plaçant ce tombeau pour leur servir de bassin. Il est en effet encore destiné à cet usage.",
+        "Je n'entreprendrai point de faire l'Éloge de ce morceau; il suffit d'avoir rapporté qu'il fixa l'attention du Puget. Ce Monument a servi probablement de sépulture à un Magistrat dans les temps de la Domination Romaine. Il y est représenté assis sur son tribunal au moment qu'il rend la justice à des plaideurs qui sont dans l'attitude de personnes qui défendent vivement leur cause. On voit aux pieds du tribunal & d'une des figures représentées aux extrémités du Monument, de petites tablettes liées qui étoient peut-être destinées à contenir les pièces des procédures. Je croirois plus volontiers que ce sont des paquets de verges, ou Fasciculi, marques du pouvoir de plusieurs Magistrats, entr'autres, des Préteurs dans les Villes soumises à la Domination Romaine. Ces Magistrats avoient les mêmes marques d'honneur que les Consuls de Rome, la robe prétexte, la chaise curule, les licteurs & les faisceaux au nombre de deux seulement: peut-on méconnoître dans les Bas-reliefs sculptés sur notre Monument, tous les attributs caractérisques de la Préture des Villes?"
+      ],
+      "text_ru": [
+        "Гробница, представленная под № 1, выполнена из белого мрамора. Она была найдена в окрестностях Кафедрального собора, при котором некогда было весьма обширное кладбище, украшенное многими памятниками древности, среди которых находился и этот монумент. Наш знаменитый соотечественник Пьер Пюже, который превосходством своего скульптурного дарования заслужил прозвание Великого, получив заказ на исполнение купели для крещения в этой церкви, рассудил, что лучше всего украсит её, поместив эту гробницу в качестве чаши. Она и поныне служит этому назначению.",
+        "Я не стану браться за восхваление этого произведения; достаточно упомянуть, что оно привлекло внимание самого Пюже. Этот памятник, вероятно, служил местом погребения некоего магистрата во времена римского владычества. На нём он изображён восседающим на своём трибунале в момент, когда вершит правосудие над тяжущимися, которые представлены в позах людей, горячо отстаивающих своё дело. У подножия трибунала и одной из фигур, изображённых по краям памятника, видны небольшие связки табличек, которые, быть может, предназначались для хранения материалов судебных дел. Я скорее склонен полагать, что это связки розог, или fasciculi, — знаки власти нескольких магистратов, в том числе преторов в городах, подчинённых римскому владычеству. Эти магистраты обладали теми же почётными отличиями, что и римские консулы: претекста, курульное кресло, ликторы и фасции, числом лишь два: можно ли не узнать в барельефах, высеченных на нашем памятнике, все характерные атрибуты городской претуры?"
+      ],
+      "text_en": [
+        "The tomb shown under No. 1 is of white marble. It was found in the vicinity of the Cathedral, which once had a very extensive cemetery, adorned with several vestiges of Antiquity, among which this Monument was found. Our celebrated fellow-citizen Pierre Puget, who, by the superiority of his talent in sculpture, earned the surname the Great, having been commissioned to execute the baptismal font of this Church, judged he could not better decorate it than by placing this tomb to serve as its basin. It is indeed still used for this purpose.",
+        "I shall not undertake to praise this piece; it suffices to have noted that it caught Puget's attention. This Monument probably served as the burial place of a Magistrate in the times of Roman Rule. He is shown on it seated upon his tribunal at the moment of rendering justice to litigants, who are shown in the attitude of persons vigorously pleading their case. At the feet of the tribunal and of one of the figures shown at the ends of the Monument are small bundled tablets, which may have been meant to hold the documents of the proceedings. I would rather believe them to be bundles of rods, or Fasciculi, marks of the power of several Magistrates, among others the Praetors in Cities subject to Roman Rule. These Magistrates held the same marks of honor as the Consuls of Rome — the toga praetexta, the curule chair, lictors and fasces, but only two of the latter: can one fail to recognize in the bas-reliefs carved on our Monument all the characteristic attributes of a City Praetorship?"
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "ancien cimetière de la Cathédrale",
+      "findspot_ru": "древнее кладбище при Кафедральном соборе",
+      "findspot_en": "the old cemetery of the Cathedral"
+    },
+    {
+      "id": "pl21-2",
+      "part": 2,
+      "plate": 21,
+      "num": "2",
+      "fr": "Sarcophage: cérémonie romaine d'affranchissement (tombeau de Sainte Eusébie)",
+      "ru": "Саркофаг: римский обряд освобождения раба (гробница св. Евсевии)",
+      "en": "Sarcophagus: the Roman ceremony of manumission (tomb of St. Eusebia)",
+      "page": "162",
+      "group": "XXI",
+      "group_fr": "Planche XXI",
+      "group_en": "XXI",
+      "group_page": "161",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre",
+      "material_ru": "мрамор",
+      "material_en": "marble",
+      "img": [
+        "pl21-full.jpg"
+      ],
+      "plate_img": "pl21-full.jpg",
+      "bbox": [
+        3.0,
+        50.0,
+        94.0,
+        46.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Le Tombeau désigné par ce numero, est dans l'Eglise inférieure de St. Victor. Il a été retiré de l'ancien cimetière de Paradis, pour y déposer les ossemens de Ste. Eusebie, Abbesse du Monastere des Cassianites (69). Ce monument représente encore un acte de Magistrature; on y remarque la cérémonie de l'affranchissement. A l'une des extrémités, le Maître adressant la parole au Préteur, & à l'autre les Esclaves à genoux, & le Préteur la baguette levée. L'affranchissement chez les Romains fut introduit sous le Règne de Servius Tullius, qu'une raison de politique détermina à porter cette loi, afin de fortifier ses États, en multipliant les Citoyens. La cérémonie de l'affranchissement se pratiquoit de diverses manieres; la plus ordinaire est celle représentée sur notre monument. Elle fut introduite l'année d'après l'expulsion des Rois, par Publius Valerius Publicola, lorsqu'en récompense de ce qu'un Esclave avoit découvert la conspiration de la jeunesse Romaine en faveur des Tarquins, il lui donna la liberté. Cet affranchi fut dès-lors appellé Vindex, ou Vindicius. C'est de-là que cette cérémonie fut appellée Vindicta (70). Le Maître menoit son Esclave devant le Préteur à qui il disoit: Hominem hunc liberum esse volo; «je veux que cet homme là devienne libre». Le Préteur adressant la parole à l'Esclave, lui disoit, Aio te liberum esse more Quiritum, «je te dis que tu es libre selon l'usage des Romains»; il lui donnoit en même temps un petit coup de la baguette Vindicta sur la tête, & dans le moment l'Esclave devenoit maître de ses volontés.",
+        "L'Italie conserve encore des traces de cette cérémonie dans l'usage où sont les Inquisiteurs & les grands Pénitenciers des Eglises de Rome, de porter une baguette dont ils frappent les pénitens pour les absoudre, & marquer par là que l'absolution les affranchit de la servitude du Démon.",
+        "Notre monument paroît être l'effet de la reconnoissance des affranchis envers leurs patrons; on voit effectivement dans un médaillon la figure d'un homme vêtu comme un Magistrat, tenant un rouleau de Papyrus d'une main. J'avoue que la figure qui est au bas, dans une attitude gênée, & accompagnée d'un griffon, m'a paru une allégorie inexplicable, à moins qu'on n'ait voulu représenter l'état de contrainte dans lequel se trouvoit l'homme en servitude.",
+        "(69) Aujourd'hui St. Sauveur. — (70) Perse, Sat. 5."
+      ],
+      "text_ru": [
+        "№ 2. Гробница, обозначенная этим номером, находится в нижней церкви Сен-Виктора. Она была взята со старого кладбища Паради, чтобы поместить в ней останки святой Евсевии, аббатисы монастыря кассианиток (69). Этот памятник также изображает акт магистратуры; на нём можно заметить церемонию освобождения раба. С одной стороны — хозяин, обращающийся с речью к претору, с другой — коленопреклонённые рабы и претор с поднятой тростью. Освобождение рабов у римлян было введено при царе Сервии Туллии, которого к принятию этого закона побудили политические соображения — укрепить своё государство, умножив число граждан. Церемония освобождения совершалась различными способами; наиболее обычной была та, что изображена на нашем памятнике. Она была введена на следующий год после изгнания царей Публием Валерием Публиколой, когда в награду за то, что некий раб раскрыл заговор римской молодёжи в пользу Тарквиниев, он даровал ему свободу. Этот вольноотпущенник с тех пор именовался Виндексом, или Виндицием. Отсюда и сама церемония получила название Vindicta (70). Хозяин вёл своего раба к претору, которому говорил: «Hominem hunc liberum esse volo» — «я желаю, чтобы этот человек стал свободным». Претор же, обращаясь к рабу, говорил ему: «Aio te liberum esse more Quiritum» — «я объявляю тебя свободным по обычаю квиритов»; и одновременно слегка ударял его тростью Vindicta по голове, и в этот миг раб становился хозяином собственной воли.",
+        "В Италии и поныне сохраняются следы этого обряда в обычае инквизиторов и главных духовников римских церквей носить трость, которой они ударяют кающихся при отпущении грехов, обозначая тем самым, что отпущение освобождает их от рабства у дьявола.",
+        "Наш памятник, по-видимому, является выражением признательности вольноотпущенников своим патронам; действительно, в медальоне видна фигура человека, одетого как магистрат, держащего в одной руке свиток папируса. Признаюсь, что фигура внизу, в стеснённой позе, сопровождаемая грифоном, показалась мне необъяснимой аллегорией, если только не предположить, что ею хотели изобразить то стеснённое состояние, в котором находится человек в рабстве.",
+        "(69) Ныне Сен-Совёр. — (70) Персий, Сатира 5."
+      ],
+      "text_en": [
+        "No. 2. The Tomb marked by this number is in the lower Church of St. Victor. It was taken from the old cemetery of Paradis, to hold the bones of St. Eusebia, Abbess of the Monastery of the Cassianites (69). This monument likewise depicts an act of Magistracy; the ceremony of manumission is noted on it. At one end, the Master addresses the Praetor; at the other, the kneeling Slaves, and the Praetor with his rod raised. Manumission among the Romans was introduced under the reign of Servius Tullius, who was led by political considerations to pass this law, in order to strengthen his State by increasing the number of Citizens. The ceremony of manumission was practiced in various ways; the most common is the one shown on our monument. It was introduced the year after the expulsion of the Kings, by Publius Valerius Publicola, when, as a reward for a Slave's having uncovered a conspiracy of Roman youths in favor of the Tarquins, he gave him his freedom. This freedman was thereafter called Vindex, or Vindicius. From this the ceremony came to be called Vindicta (70). The Master would lead his Slave before the Praetor, to whom he said: Hominem hunc liberum esse volo — \"I wish this man to become free.\" The Praetor, addressing the Slave, said to him, Aio te liberum esse more Quiritum — \"I declare you free according to Roman custom\"; and at the same time gave him a light tap on the head with the Vindicta rod, at which moment the Slave became master of his own will.",
+        "Italy still preserves traces of this ceremony in the custom whereby Inquisitors and the Grand Penitentiaries of the Churches of Rome carry a rod with which they strike penitents to absolve them, thereby signifying that absolution frees them from bondage to the Devil.",
+        "Our monument appears to be the result of freedmen's gratitude toward their patrons; indeed, one sees in a medallion the figure of a man dressed as a Magistrate, holding a roll of Papyrus in one hand. I confess that the figure at the bottom, in a constrained posture and accompanied by a griffin, struck me as an inexplicable allegory, unless it was meant to represent the state of constraint in which a man in servitude found himself.",
+        "(69) Today St. Sauveur. — (70) Persius, Satire 5."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "ancien cimetière de Paradis",
+      "findspot_ru": "древнее кладбище Паради",
+      "findspot_en": "the old cemetery of Paradis"
     }
   ]
 }
