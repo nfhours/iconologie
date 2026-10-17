@@ -6116,6 +6116,247 @@
       "findspot_fr": "tombeau sous le glacis de la Citadelle St. Nicolas",
       "findspot_ru": "гробница под гласисом цитадели Сен-Николя",
       "findspot_en": "a tomb beneath the glacis of the Citadel of St. Nicolas"
+    },
+    {
+      "id": "pl16-1",
+      "part": 2,
+      "plate": 16,
+      "num": "1",
+      "fr": "Bronze: buste-herme de Mercure",
+      "ru": "Бронза: бюст-герма Меркурия",
+      "en": "Bronze: herm-bust of Mercury",
+      "page": "136",
+      "group": "XVI",
+      "group_fr": "Planche XVI",
+      "group_en": "XVI",
+      "group_page": "136",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl16-full.jpg"
+      ],
+      "plate_img": "pl16-full.jpg",
+      "bbox": [
+        4.0,
+        2.0,
+        40.0,
+        72.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "BRonze représentant le Buste de Mercure, sur une gaine, dans le goût qu'on représentoit les Dieux Thermes chez les Anciens: Dii Thermini. Cette figure qui n'étoit que le double de la Gravure, ne peut point avoir servi au même usage que les Statues ordinaires des Dieux Thermes; elle est d'ailleurs posée sur un globe; ce qui auroit empêché de la placer solidement. Il me paroît que ce Bronze n'est autre chose qu'une de ces figures que la dévotion des particuliers faisoit offrir à leurs Divinités tutélaires, & qu'on suspendoit dans les Temples en Ex-voto, ou qu'on conservoit dans les cabinets domestiques, nommés Lararii, où étoient les Statues des Dieux Lares."
+      ],
+      "text_ru": [
+        "Бронза, изображающая бюст Меркурия на гермовом постаменте, в том вкусе, в каком у древних изображались боги-термы: Dii Thermini. Эта фигура, бывшая лишь вдвое крупнее гравюры, не могла служить тому же назначению, что и обычные статуи богов-терм; к тому же она установлена на шаре, что помешало бы прочно её утвердить. Мне представляется, что эта бронза — не что иное, как одна из тех фигур, которые благочестие частных лиц приносило в дар своим покровительствующим божествам и которые подвешивались в храмах в качестве вотивных даров либо хранились в домашних божницах, именуемых lararii, где находились статуи богов-ларов."
+      ],
+      "text_en": [
+        "Bronze representing the Bust of Mercury, on a herm-shaft, in the style in which the Term-gods were represented among the Ancients: Dii Thermini. This figure, which was only twice the size of the Engraving, cannot have served the same purpose as ordinary Statues of the Term-gods; it is moreover set upon a globe, which would have prevented it from being placed securely. It seems to me that this Bronze is nothing other than one of those figures which private devotion caused to be offered to tutelary Divinities, and which were hung in Temples as Ex-voto, or kept in domestic cabinets called Lararii, where the Statues of the Lares were kept."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "",
+      "findspot_ru": "",
+      "findspot_en": ""
+    },
+    {
+      "id": "pl16-2",
+      "part": 2,
+      "plate": 16,
+      "num": "2",
+      "fr": "Fragment de statue en bronze de Jupiter (grandeur héroïque)",
+      "ru": "Фрагмент бронзовой статуи Юпитера (геройского размера)",
+      "en": "Fragment of a heroic-size bronze statue of Jupiter",
+      "page": "136",
+      "group": "XVI",
+      "group_fr": "Planche XVI",
+      "group_en": "XVI",
+      "group_page": "136",
+      "flag": "",
+      "type": "statue",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl16-full.jpg"
+      ],
+      "plate_img": "pl16-full.jpg",
+      "bbox": [
+        46.0,
+        2.0,
+        50.0,
+        72.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°.2. Fragment d'une Statue en bronze, de grandeur héroïque, représentant Jupiter. Cette statue fut trouvée, en même temps que celle de Minerve, à la rue des Consuls, en creusant les fondemens de la maison du Médecin Peiruis, selon ce que rapporte Ruffi dans son Histoire de Marseille (40); elles étoient dans les vestiges d'un ancien Édifice; (c'étoit le Temple de Minerve). Les Marseillois rendoient un culte à Jupiter. Victor, Martyr de Marseille, sous Dioclétien & Maximien, l'an 303, refusa de sacrifier à une de ses Idoles, suivant les Actes de son Martyre. Le vœu d'Octavius Paternus à Jupiter Dolichène, qui fut trouvé dans le Port, & dont je ferai mention dans le cours de cet ouvrage, étoit probablement placé auprès de la Statue de Jupiter, qui étoit dans le Temple de Minerve; le peu de distance de la rue des Consuls au Port, dut faciliter le transport pour le jetter dans l'eau, dans quelqu'une de ces révolutions dont j'ai parlé dans le Discours Préliminaire. C'est encore aux soins du Sr. Nicolas, que nous devons la conservation du Dessein de cette figure.",
+        "(40) Tom. 2. pag. 315."
+      ],
+      "text_ru": [
+        "№ 2. Фрагмент бронзовой статуи геройского размера, изображающий Юпитера. Эта статуя была найдена одновременно со статуей Минервы на улице Консулов, при рытье фундамента дома врача Пейрюи, согласно тому, что сообщает Рюффи в своей «Истории Марселя» (40); обе они находились среди остатков древнего здания (это был храм Минервы). Марсельцы почитали Юпитера. Виктор, марсельский мученик, пострадавший при Диоклетиане и Максимиане в 303 году, отказался принести жертву одному из его идолов, согласно актам его мученичества. Обет Октавия Патерна Юпитеру Долихену, найденный в порту, о котором я упомяну в ходе этого труда, вероятно, находился рядом со статуей Юпитера, стоявшей в храме Минервы; небольшое расстояние от улицы Консулов до порта, должно быть, облегчило его перенос, чтобы бросить его в воду, во время одного из тех потрясений, о которых я говорил в предварительном рассуждении. Именно заботам г-на Николя мы обязаны сохранением рисунка этой фигуры.",
+        "(40) Т. 2, с. 315."
+      ],
+      "text_en": [
+        "No. 2. Fragment of a bronze Statue, of heroic size, representing Jupiter. This statue was found, at the same time as that of Minerva, on the rue des Consuls, while digging the foundations of the house of the Physician Peiruis, according to what Ruffi reports in his History of Marseille (40); they lay among the remains of an ancient Building (it was the Temple of Minerva). The people of Marseille paid cult to Jupiter. Victor, Martyr of Marseille under Diocletian and Maximian, in the year 303, refused to sacrifice to one of his Idols, according to the Acts of his Martyrdom. The vow of Octavius Paternus to Jupiter Dolichenus, which was found in the Harbor, and which I shall mention in the course of this work, was probably placed near the Statue of Jupiter that stood in the Temple of Minerva; the short distance from the rue des Consuls to the Harbor must have made it easy to carry it off and throw it into the water, during one of those upheavals I spoke of in the Preliminary Discourse. It is likewise to the care of Sieur Nicolas that we owe the preservation of the Drawing of this figure.",
+        "(40) Vol. 2, p. 315."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "rue des Consuls",
+      "findspot_ru": "улица Консулов",
+      "findspot_en": "rue des Consuls"
+    },
+    {
+      "id": "pl16-3",
+      "part": 2,
+      "plate": 16,
+      "num": "3",
+      "fr": "Urne cinéraire cannelée en albâtre oriental",
+      "ru": "Каннелированная погребальная урна из восточного алебастра",
+      "en": "Fluted cinerary urn of oriental alabaster",
+      "page": "137",
+      "group": "XVI",
+      "group_fr": "Planche XVI",
+      "group_en": "XVI",
+      "group_page": "136",
+      "flag": "",
+      "type": "object",
+      "material_fr": "albâtre oriental",
+      "material_ru": "восточный алебастр",
+      "material_en": "oriental alabaster",
+      "img": [
+        "pl16-full.jpg"
+      ],
+      "plate_img": "pl16-full.jpg",
+      "bbox": [
+        4.0,
+        74.0,
+        40.0,
+        24.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°.3. Urne canelée d'albâtre oriental, trouvée dans les terrains de l'ancien Cimetière, auprès de St. Victor. C'étoit un vase cinéraire, car elle étoit remplie de cendres, mêlées avec quelques petits ossemens. Cette Urne fut placée dans l'Eglise supérieure de St. Victor, comme un objet curieux. Henri d'Angoulême, Grand Prieur de France, & Gouverneur de Provence, fut jaloux de posséder ce morceau parmi d'autres objets d'Antiquité, dont il avoit formé une collection. Il la fit enlever, & la plaça dans son cabinet; mais à la mort de ce Prince, les Religieux de St. Victor réclamerent ce monument, & le Lieutenant du Sénéchal de Marseille, qui procédoit à l'Inventaire des Effets du Défunt, la leur fit restituer (41). Depuis ce temps, cette Urne a été placée dans l'ancien Crypte de la Magdeleine, dans l'Eglise inférieure de l'Abbaye, en une Niche pratiquée exprès dans le rocher. Comme cette Urne excitoit la curiosité de tous les connoisseurs qui visitoient ces lieux, quelque imprudent fut cause qu'elle a été mutilée; & pour empêcher qu'elle ne fût totalement dégradée, on l'a enfin placée dans la grotte où est la Statue de la Magdeleine; la grille de fer qui ferme cette grotte, la met à l'abri de tout événement: elle a près de deux pieds de hauteur.",
+        "L'albâtre passoit chez les Anciens pour avoir plusieurs vertus en Médecine; ils s'en servoient généralement à faire des vases pour les liqueurs & les parfums: c'est pourquoi tous les vases destinés à cet usage, étoient nommés vases d'albâtre. Les serpens qui servent d'anses à l'Urne que je viens de décrire, pouvoient bien y avoir été sculptés dessus, en l'honneur d'Esculape, Dieu de la Médecine, relativement à la superstition qui attribuoit tant de propriétés à l'albâtre. Ces reptiles étoient un des attributs de cette Divinité (42); le Fragment de la Statue d'Esculape, conservé dans l'Hôtel-de-Ville d'Arles, est entouré d'un serpent. On adoroit même à Epidaure Esculape, sous la forme de cet animal.",
+        "(41) Ruffi, Hist. de Marseille, tom. 2. pag. 132. — (42) Pluche, Hist. du Ciel, tom. 1, pag. 25. Les Images des Dieux de Duverdier, pag. 89."
+      ],
+      "text_ru": [
+        "№ 3. Каннелированная урна из восточного алебастра, найденная на землях древнего кладбища близ Сен-Виктора. Это был погребальный сосуд с прахом, так как она была наполнена пеплом, смешанным с небольшими костными остатками. Эта урна была помещена в верхнюю церковь Сен-Виктора как диковинный предмет. Анри д'Ангулем, великий приор Франции и губернатор Прованса, пожелал обладать этим предметом среди других античных вещей, из которых он составил коллекцию. Он велел забрать её и поместил в своём кабинете; но после смерти этого государя монахи Сен-Виктора потребовали возвращения этого памятника, и лейтенант сенешаля Марселя, производивший опись имущества покойного, распорядился вернуть им её (41). С тех пор эта урна была помещена в древнюю крипту Магдалины, в нижней церкви аббатства, в нише, устроенной нарочно в скале. Поскольку эта урна возбуждала любопытство всех знатоков, посещавших эти места, какой-то неосторожный посетитель стал причиной того, что она была повреждена; и чтобы помешать её полному разрушению, её в конце концов поместили в грот, где находится статуя Магдалины; железная решётка, закрывающая этот грот, ограждает её от всякой случайности: высота её составляет около двух футов.",
+        "Алебастр у древних считался обладающим многими целебными свойствами; его обычно использовали для изготовления сосудов для жидкостей и благовоний: вот почему все сосуды, предназначенные для этого употребления, назывались алебастровыми сосудами. Змеи, служащие ручками упомянутой урне, вполне могли быть высечены на ней в честь Эскулапа, бога медицины, в связи с суеверием, приписывавшим алебастру столько свойств. Эти пресмыкающиеся были одним из атрибутов этого божества (42); фрагмент статуи Эскулапа, хранящийся в ратуше Арля, обвит змеёй. В Эпидавре Эскулапу поклонялись даже в образе этого животного.",
+        "(41) Рюффи, «История Марселя», т. 2, с. 132. — (42) Плюш, «История неба», т. 1, с. 25. «Образы богов» Дюверд'е, с. 89."
+      ],
+      "text_en": [
+        "No. 3. Fluted urn of oriental alabaster, found on the grounds of the ancient Cemetery, near St. Victor. It was a cinerary vessel, for it was filled with ashes mixed with a few small bones. This Urn was placed in the upper Church of St. Victor as a curious object. Henri d'Angoulême, Grand Prior of France and Governor of Provence, was eager to possess this piece among other objects of Antiquity of which he had formed a collection. He had it removed and placed it in his cabinet; but at this Prince's death, the Monks of St. Victor reclaimed this monument, and the Lieutenant of the Seneschal of Marseille, who was taking the Inventory of the Deceased's effects, had it restored to them (41). Since that time, this Urn has been placed in the ancient Crypt of the Magdalene, in the lower Church of the Abbey, in a Niche made expressly in the rock. As this Urn excited the curiosity of all connoisseurs who visited these places, some careless visitor caused it to be mutilated; and to prevent it from being totally degraded, it was finally placed in the grotto where the Statue of the Magdalene stands; the iron grille that closes this grotto keeps it safe from any mishap: it is nearly two feet in height.",
+        "Alabaster was held among the Ancients to have several medicinal virtues; it was generally used to make vessels for liquids and perfumes: this is why all vessels meant for this use were called alabaster vessels. The serpents serving as handles on the Urn just described may well have been carved there in honor of Aesculapius, God of Medicine, in connection with the superstition that attributed so many properties to alabaster. These reptiles were one of this Divinity's attributes (42); the Fragment of the Statue of Aesculapius kept in the Town Hall of Arles is encircled by a serpent. Aesculapius was even worshipped at Epidaurus under the form of this animal.",
+        "(41) Ruffi, History of Marseille, vol. 2, p. 132. — (42) Pluche, Histoire du Ciel, vol. 1, p. 25. Duverdier's Images des Dieux, p. 89."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "ancien cimetière près de St. Victor",
+      "findspot_ru": "древнее кладбище близ Сен-Виктора",
+      "findspot_en": "the old cemetery near St. Victor"
+    },
+    {
+      "id": "pl16-4",
+      "part": 2,
+      "plate": 16,
+      "num": "4",
+      "fr": "Galet inscrit (tessère présumée du collège des Dendrophores)",
+      "ru": "Голыш с надписью (предположительно тессера коллегии дендрофоров)",
+      "en": "Inscribed river pebble (presumed tessera of the Dendrophores' college)",
+      "page": "138",
+      "group": "XVI",
+      "group_fr": "Planche XVI",
+      "group_en": "XVI",
+      "group_page": "136",
+      "flag": "",
+      "type": "object",
+      "material_fr": "pierre calcaire",
+      "material_ru": "известковый камень",
+      "material_en": "limestone pebble",
+      "img": [
+        "pl16-full.jpg"
+      ],
+      "plate_img": "pl16-full.jpg",
+      "bbox": [
+        52.0,
+        76.0,
+        44.0,
+        22.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°.4. Le morceau antique représenté sous ce n°., est un de ces Cailloux roulés dans les rivières, sur lesquels il paroît qu'on a très-anciennement écrit des Inscriptions en relief, dont M. de Caylus a donné plusieurs exemples (43). Celui-ci est rapporté à la Planche 39 du 6e. volume de son ouvrage. Ce Caillou, selon ce savant «peut être attribué au Rhône, dans lequel on en trouve une quantité du même genre; il porte une Inscription grecque, au milieu de laquelle on voit une petite Barque à cinq rames, & du même travail que les lettres, c'est-à-dire, de relief: ce Caillou paroît avoir été travaillé dans Marseille, dans un temps très-reculé (44).» Après cette description, M. de Caylus passe aux raisons qui l'ont persuadé d'attribuer ce Caillou à Marseille. Je rapporterai les propres mots dont il se sert.",
+        "«On lit distinctement au haut de la Pierre, MASSI, qui désigne, sans aucun doute, MASSILIA, Marseille; à la droite de la Barque, on lit FO; & au-dessous de ces deux lettres, on a placé un K: ce qui ne peut signifier que PHOKAEON; c'est le nom de Phocée, Ville d'Ionie, dont tout le monde sait que Marseille étoit une Colonie: à la gauche de la Barque ou de la Galere, sont des caractères effacés par le temps; mais je soupçonnerois qu'ils expriment le mot IERA, parce qu'on voit au-dessous de la Barque, ASVA. AVT, qui ne peuvent être que l'abrégé des deux mots, ASVLOS. AVTONOMOS: ainsi, selon cette Inscription, Marseille, Colonie des Phocéens, seroit nommée sacrée, inviolable, Autonome, (c'est-à-dire, gouvernée par ses propres loix). Cette dernière qualité lui convenoit sans doute; mais les deux premières ne se voient sur aucune de ses Médailles, ni dans aucun Auteur; ce ne peut être ici qu'une pierre gravée par un Particulier, qui a voulu prêter à sa Patrie ces Épithètes honorables.»",
+        "Tel est le sentiment de M. de Caylus sur ce monument. J'admire autant qu'un autre, les talens & les lumières de ce savant Antiquaire; mais, sans prétendre m'égaler à lui, j'ose cependant donner une explication plus naturelle de ce monument: elle détruit même les doutes que M. de Caylus avoit sur les prétendues Épithètes, de sacrée & d'inviolable. Cette Pierre n'est point, à mon avis, due à la pure fantaisie d'un Particulier; c'est un monument public, autorisé du moins par le gouvernement. On sait que les Citoyens Romains furent distribués par Numa Pompilius, en divers corps de métiers (45). Les Romains s'étendant par leurs conquêtes, porterent ces établissemens dans les Provinces; chaque Communauté d'Artistes ou de Métiers étoit désignée par le nom de Collége. Ces associations donnerent de la jalousie au Sénat, qui en supprima la plus grande partie sous le Consulat de L. Cecilius Metellus, & de Q. Marcius Rex. Claudius, Tribun du peuple, non seulement rétablit les Colléges proscrits, mais en établit de nouveaux. Jules César en détruisit encore un grand nombre. Auguste renouvella l'Édit de son Prédécesseur. Les factions que ces Colléges occasionnoient, mirent en considération Trajan, qui refusa d'en établir un d'ouvriers à Nicomédie (46). Alexandre Sévère distribua de nouveau tous les métiers, sans exception, en différens Colléges, qui eurent chacun leurs Chefs, leurs Statuts, leurs Privilèges.",
+        "[Je ne suis entré dans cette digression, que pour prouver l'existence de ces associations]; ceux qui étoient incorporés dans quelqu'une d'entr'elles, portoient une marque caractéristique de leurs professions. M. Calvet, premier Professeur de Médecine en l'Université d'Avignon, & Correspondant de l'Académie Royale des Inscriptions, nous a fait connoître la marque distinctive de ceux du Collége des Utriculaires (47) de Cavaillon, dans son ingénieuse Dissertation imprimée à Avignon chez J. J. Niel, 1766. La lecture de cet ouvrage m'a donné l'idée de l'explication du monument Marseillois désigné sous ce n°. Je n'hésite plus aujourd'hui à l'attribuer au Collége des Dendrophores, que l'on fait avoir été institué à Marseille, d'après l'Inscription trouvée dans les caves de St. Sauveur. Cette Pierre ainsi sculptée, n'étoit qu'une marque commune à tous les ouvriers de cette profession du Collège de Marseille (48). Rien n'étoit plus propre en effet à caractériser des Charpentiers & des Constructeurs, qu'un Navire encore sur la quille & sur le chantier; car les prétendues rames ne sont que des étançons. Ce Caillou devoit être enchâssé dans quelque cercle de métal, pour être suspendu au col du Dendrophore qui le portoit.",
+        "Quant aux lettres grecques qu'on trouve en relief, leur explication est toute simple, si l'on daigne consulter le Dialecte Ionien; [& l'on ne sauroit remonter à une meilleure source, lorsqu'il s'agit des Inscriptions d'une Colonie d'Ioniens; car on devoit de préférence parler & écrire en Ionien à Marseille]. D'après ces principes, il faut lire MASSI. FOGU. K. ASVA. AUT.; ce qui est l'abréviation de MASSILIA. FOGUA. KAI. ASVA. AUTONOME, c'est-à-dire, MASSILIA LUCIDA ET QUIETA AUTONOMA. Marseille, brillante & paisible Autonome.",
+        "Les lettres FOGU sont l'abréviation de FOGUA, qui vient de FOGUO, je brûle, je luis; le K est mis pour la conjonction &. KAI. ASVA. pour AGUA. quieta. Les Ioniens écrivoient souvent Sigma ou Zeta pour Gamma: on trouve même de pareils exemples dans Hésiode.",
+        "Toutes ces Épithètes n'ont rien que de convenable à la République de Marseille, & les Dendrophores n'étoient peut-être pas les seuls qui eussent cette devise sur leurs Tesseres ou marques de leurs professions. (Plus grande largeur de l'ovale, 21 lignes; hauteur 1 pouce 4 lignes; épaisseur 5 lignes).",
+        "Le procédé dont on usoit pour parvenir à marquer en relief les lettres sur les Cailloux roulés, étoit fort simple: on sera peut-être bien aise de connoître l'industrie des Anciens, pour parvenir à cette opération. On choisissoit pour cela des Cailloux de nature calcaire, sur lesquels les acides mordent facilement; on dessinoit par-dessus les lettres avec de la cire, & on répandoit ensuite la liqueur acide sur le Caillou; les parties induites de cire n'étant point accessibles à l'acide, acquéroient du relief, tandis que celles qui étoient à découvert, souffroient, par l'effet de cette liqueur, autant de diminution que l'Artiste désiroit, en continuant plus ou moins l'opération. C'est à M. le Comte de Caylus, que nous devons cette découverte, & je ne saurois, sans injustice, lui en ravir l'honneur.",
+        "(43) Caylus, Recueil des Antiquités, tom. 1, 2, 3, 4, 5 & 6. — (44) Caylus, ibidem, tom. 6. pag. 130. — (45) Plutarque, in vitâ Numæ, pag. 71, editio regia, 1624. — (46) Trajanus apud Plinium, libro 10, epist. 43. — (47) Utriculaires, faiseurs d'outres, dont on se servoit pour passer les Fleuves & établir des Ponts. Les Utriculaires étoient eux-mêmes Bateliers, c'est-à-dire, qu'ils conduisoient les outres sur les rivières. — (48) Les Dendrophores revenoient à nos Charpentiers & Constructeurs: on a trouvé dans les caves de St. Sauveur, une Inscription qui fait mention de leur Collège. Voy. la Diss. de M. Olivier dans le recueil de l'Acad. de Mars. 1727."
+      ],
+      "text_ru": [
+        "№ 4. Античный предмет, представленный под этим номером, — один из тех окатанных речных голышей, на которых, по-видимому, в очень давние времена писали рельефные надписи; несколько таких примеров привёл г-н де Кайлюс (43). Этот камень приведён на таблице 39 6-го тома его труда. Этот голыш, по мнению этого учёного, «можно отнести к Роне, в которой находят немало камней того же рода; он несёт греческую надпись, в середине которой видна небольшая пятивёсельная барка, выполненная той же техникой, что и буквы, то есть рельефом: этот голыш, по-видимому, был обработан в Марселе в весьма отдалённую эпоху (44)». После этого описания г-н де Кайлюс переходит к доводам, убедившим его приписать этот камень Марселю. Я приведу его собственные слова.",
+        "«Наверху камня отчётливо читается MASSI, что, без всякого сомнения, означает MASSILIA, Марсель; справа от барки читается FO; а под этими двумя буквами помещена K: это не может означать ничего, кроме PHOKAEON — это имя Фокеи, города в Ионии, колонией которого, как всем известно, был Марсель: слева от барки, или галеры, находятся знаки, стёртые временем; но я предположил бы, что они выражают слово IERA, поскольку под баркой видно ASVA. AVT, что может быть лишь сокращением двух слов ASVLOS. AVTONOMOS: таким образом, согласно этой надписи, Марсель, колония фокейцев, был бы назван священным, неприкосновенным, автономным (то есть управляемым собственными законами). Это последнее качество, несомненно, подобало ему; но первые два не встречаются ни на одной из его монет, ни у какого-либо автора; это может быть лишь камень, вырезанный частным лицом, пожелавшим приписать своему отечеству эти почётные эпитеты».",
+        "Таково мнение г-на де Кайлюса об этом памятнике. Я восхищаюсь, как и всякий другой, талантами и познаниями этого учёного антиквара; но, не притязая сравниться с ним, я всё же осмелюсь предложить более естественное объяснение этого памятника: оно же рассеивает и те сомнения, которые были у г-на де Кайлюса относительно мнимых эпитетов «священный» и «неприкосновенный». Этот камень, на мой взгляд, обязан своим происхождением отнюдь не чистой фантазии частного лица; это общественный памятник, утверждённый, по крайней мере, властью. Известно, что римские граждане были распределены Нумой Помпилием по различным цеховым объединениям (45). Расширяясь посредством завоеваний, римляне переносили эти учреждения в провинции; каждая община художников или ремесленников именовалась коллегией. Эти объединения вызвали ревность сената, который упразднил большую их часть при консульстве Л. Цецилия Метелла и К. Марция Рекса. Клавдий, народный трибун, не только восстановил запрещённые коллегии, но и учредил новые. Юлий Цезарь вновь уничтожил многие из них. Август возобновил эдикт своего предшественника. Распри, вызываемые этими коллегиями, заставили задуматься Траяна, который отказался учредить коллегию ремесленников в Никомедии (46). Александр Север заново распределил все ремёсла, без исключения, по различным коллегиям, каждая из которых имела своих старшин, свои уставы, свои привилегии.",
+        "[Я вступил в это отступление лишь для того, чтобы доказать существование подобных объединений]; те, кто входил в одно из них, носили отличительный знак своей профессии. Г-н Кальве, первый профессор медицины Авиньонского университета и корреспондент Королевской академии надписей, познакомил нас с отличительным знаком членов коллегии утрикуляриев (47) Кавайона в своей остроумной диссертации, напечатанной в Авиньоне у Ж. Ж. Ниеля в 1766 году. Чтение этого труда навело меня на мысль об объяснении марсельского памятника, обозначенного этим номером. Ныне я без колебаний отношу его к коллегии дендрофоров, которая, как считается, была учреждена в Марселе, судя по надписи, найденной в подвалах Сен-Соверa. Этот камень с такой резьбой был не чем иным, как общим знаком всех работников этой профессии марсельской коллегии (48). В самом деле, ничто не подходило лучше для обозначения плотников и корабельных мастеров, чем судно, ещё стоящее на киле на верфи; ибо мнимые вёсла — не что иное, как подпорки. Этот камень, должно быть, был заключён в какой-то металлический обод, чтобы его можно было носить на шее дендрофора.",
+        "Что касается греческих букв, встречающихся в рельефе, их объяснение совершенно просто, если соблаговолить обратиться к ионийскому диалекту; [и нельзя обратиться к лучшему источнику, когда речь идёт о надписях колонии ионийцев, ведь в Марселе, по преимуществу, должны были говорить и писать по-ионийски]. Исходя из этих принципов, следует читать MASSI. FOGU. K. ASVA. AUT., что является сокращением MASSILIA. FOGUA. KAI. ASVA. AUTONOME, то есть MASSILIA LUCIDA ET QUIETA AUTONOMA — «Марсель, светлый и мирный, автономный».",
+        "Буквы FOGU — сокращение от FOGUA, происходящего от FOGUO — «я горю, я сияю»; буква K поставлена вместо союза «и» (KAI); ASVA — вместо AGUA, «спокойный». Ионийцы часто писали сигму или дзету вместо гаммы: подобные примеры встречаются даже у Гесиода.",
+        "Все эти эпитеты как нельзя более подобают Марсельской республике, и дендрофоры, возможно, были не единственными, у кого этот девиз значился на их тессерах, или знаках их профессии. (Наибольшая ширина овала — 21 линия; высота — 1 дюйм 4 линии; толщина — 5 линий).",
+        "Способ, которым пользовались, чтобы нанести рельефные буквы на речные голыши, был весьма прост: читателю, быть может, будет любопытно узнать об этом искусстве древних. Для этого выбирали камни известковой породы, легко поддающиеся действию кислот; поверх их воском наносили рисунок букв, а затем поливали камень кислотной жидкостью; участки, покрытые воском, не поддаваясь действию кислоты, приобретали рельеф, тогда как открытые участки под действием этой жидкости истончались настолько, насколько того желал мастер, продолжая операцию дольше или короче. Этим открытием мы обязаны графу де Кайлюсу, и я не мог бы, не будучи несправедливым, отнять у него эту честь.",
+        "(43) Кайлюс, «Собрание древностей», т. 1, 2, 3, 4, 5 и 6. — (44) Кайлюс, там же, т. 6, с. 130. — (45) Плутарх, «Жизнь Нумы», с. 71, королевское издание, 1624. — (46) Траян у Плиния, кн. 10, письмо 43. — (47) Утрикулярии — изготовители бурдюков, которыми пользовались для переправы через реки и устройства мостов. Сами утрикулярии были перевозчиками, то есть переправляли бурдюки по рекам. — (48) Дендрофоры соответствовали нашим плотникам и корабельным мастерам: в подвалах Сен-Соверa была найдена надпись, упоминающая их коллегию. См. диссертацию г-на Оливье в сборнике Марсельской академии, 1727."
+      ],
+      "text_en": [
+        "No. 4. The antique piece shown under this number is one of those pebbles rounded in rivers, on which, it appears, relief Inscriptions were written in very ancient times, several examples of which M. de Caylus has given (43). This one is reported in Plate 39 of the 6th volume of his work. This Pebble, according to this scholar, «may be attributed to the Rhône, in which a number of the same kind are found; it bears a Greek Inscription, in the middle of which is seen a small five-oared Boat, worked in the same manner as the letters, that is, in relief: this Pebble appears to have been worked at Marseille, at a very remote period (44).» After this description, M. de Caylus proceeds to the reasons that persuaded him to attribute this Pebble to Marseille. I shall report his own words.",
+        "«At the top of the Stone one clearly reads MASSI, which doubtless denotes MASSILIA, Marseille; to the right of the Boat one reads FO; and below these two letters a K has been placed: which can only mean PHOKAEON, the name of Phocaea, a City of Ionia, of which everyone knows Marseille was a Colony: to the left of the Boat or Galley are characters effaced by time; but I would suspect they express the word IERA, because below the Boat one sees ASVA. AVT, which can only be the abbreviation of the two words ASVLOS. AVTONOMOS: thus, according to this Inscription, Marseille, Colony of the Phocaeans, would be called sacred, inviolable, Autonomous (that is, governed by its own laws). This last quality doubtless suited it; but the first two are found on none of its Medals, nor in any Author; this can only be a stone engraved by a Private individual, who wished to lend his Homeland these honorable Epithets.»",
+        "Such is M. de Caylus's opinion of this monument. I admire, as much as anyone, the talents and learning of this scholarly Antiquarian; but, without pretending to equal him, I nonetheless venture to give a more natural explanation of this monument: one that even dispels the doubts M. de Caylus had about the supposed Epithets of sacred and inviolable. This Stone is not, in my view, owed to the pure fancy of a Private individual; it is a public monument, authorized at least by the government. It is known that Roman Citizens were distributed by Numa Pompilius into various trade bodies (45). As the Romans expanded through their conquests, they carried these institutions into the Provinces; each Community of Artisans or Trades was designated by the name of College. These associations aroused the Senate's jealousy, which suppressed the greater part of them under the Consulate of L. Caecilius Metellus and Q. Marcius Rex. Claudius, Tribune of the people, not only restored the proscribed Colleges, but established new ones. Julius Caesar again destroyed a great number of them. Augustus renewed his Predecessor's Edict. The factions these Colleges occasioned gave Trajan pause, and he refused to establish one of workmen at Nicomedia (46). Alexander Severus again distributed all the trades, without exception, into different Colleges, each with their own Chiefs, Statutes, and Privileges.",
+        "[I have entered into this digression only to prove the existence of these associations]; those incorporated into one of them bore a mark characteristic of their professions. M. Calvet, first Professor of Medicine at the University of Avignon, and Correspondent of the Royal Academy of Inscriptions, made known to us the distinctive mark of the members of the College of Utriculaires (47) of Cavaillon, in his ingenious Dissertation printed at Avignon by J. J. Niel, 1766. Reading this work gave me the idea for the explanation of the Marseille monument designated under this number. I no longer hesitate today to attribute it to the College of Dendrophores, said to have been instituted at Marseille, according to the Inscription found in the cellars of St. Sauveur. This Stone, thus carved, was merely a mark common to all workmen of this trade within the College of Marseille (48). Indeed, nothing was better suited to characterize Carpenters and Shipbuilders than a Ship still on the keel and on the building-slip; for the supposed oars are merely props. This Pebble must have been set in some metal ring, to be hung around the neck of the Dendrophore who wore it.",
+        "As for the Greek letters found in relief, their explanation is quite simple, if one deigns to consult the Ionian Dialect; [and one could not turn to a better source, when it comes to the Inscriptions of a Colony of Ionians, since Ionian was the language Marseille ought preferentially to have spoken and written]. On these principles, one must read MASSI. FOGU. K. ASVA. AUT., which is the abbreviation of MASSILIA. FOGUA. KAI. ASVA. AUTONOME, that is, MASSILIA LUCIDA ET QUIETA AUTONOMA — Marseille, bright and peaceful, Autonomous.",
+        "The letters FOGU are the abbreviation of FOGUA, which comes from FOGUO, I burn, I shine; the K stands for the conjunction and. KAI. ASVA. for AGUA, peaceful. The Ionians often wrote Sigma or Zeta for Gamma: similar examples are even found in Hesiod.",
+        "All these Epithets are nothing but fitting for the Republic of Marseille, and the Dendrophores were perhaps not the only ones who bore this device on their Tesserae, or marks of their professions. (Greatest width of the oval, 21 lines; height 1 inch 4 lines; thickness 5 lines).",
+        "The process used to mark letters in relief on river pebbles was quite simple: readers may be glad to learn of the Ancients' ingenuity in carrying out this operation. For this, pebbles of a calcareous nature were chosen, on which acids bite easily; the letters were drawn on top with wax, and the acidic liquid was then poured over the Pebble; the parts coated with wax, being inaccessible to the acid, gained relief, while the exposed parts were reduced by the action of this liquid as much as the Artist wished, by continuing the operation more or less. It is to M. le Comte de Caylus that we owe this discovery, and I could not, without injustice, deprive him of the honor of it.",
+        "(43) Caylus, Recueil des Antiquités, vols. 1, 2, 3, 4, 5 & 6. — (44) Caylus, ibid., vol. 6, p. 130. — (45) Plutarch, Life of Numa, p. 71, royal edition, 1624. — (46) Trajan, in Pliny, Bk. 10, Letter 43. — (47) Utriculaires, makers of leather water-skins used for crossing Rivers and building Bridges. The Utriculaires were themselves Boatmen, that is, they steered the skins on the rivers. — (48) The Dendrophores corresponded to our Carpenters and Shipbuilders: an Inscription mentioning their College was found in the cellars of St. Sauveur. See M. Olivier's Dissertation in the Collection of the Academy of Marseille, 1727."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "MASSI FOGU K ASVA AVT",
+      "legend_ru": "MASSI FOGU K ASVA AVT",
+      "legend_en": "MASSI FOGU K ASVA AVT",
+      "findspot_fr": "Marseille (attribution disputée: Caylus y voit un galet du Rhône)",
+      "findspot_ru": "Марсель (спорная атрибуция: Кайлюс считал его ронским голышом)",
+      "findspot_en": "Marseille (disputed: Caylus took it for a Rhône pebble)"
     }
   ]
 }
