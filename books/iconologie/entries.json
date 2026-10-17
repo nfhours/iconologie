@@ -16574,12 +16574,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-183.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Шапка с разноцветными перьями",
+          "meaning": "символ непостоянства",
+          "what_en": "Cap trimmed with feathers of various colours",
+          "meaning_en": "a symbol of inconstancy"
+        },
+        {
+          "what": "Мех для раздувания огня",
+          "meaning": "готовность льстить чужим достоинствам",
+          "what_en": "Bellows",
+          "meaning_en": "readiness to flatter the virtues of others"
+        },
+        {
+          "what": "Шпора",
+          "meaning": "вспыльчивость, подстёгивающая на колкости против чужих пороков",
+          "what_en": "Spur",
+          "meaning_en": "the hot temper that spurs sharp words against others' vices"
+        }
+      ],
+      "text_ru": [
+        "Здесь он обозначен юношей, причудливо одетым, с шапкой на голове, украшенной перьями различных цветов; кроме того, в правой руке он держит мех для раздувания огня, а в левой — шпору. Капризными называют тех, кто, следуя сумасбродным идеям своего ума, предаётся",
+        "легкомыслию, фантазиям и столь необычным поступкам, что они поражают чувства людей, которые их наблюдают. Это представлено нам перьями различных цветов, истинными символами непостоянства; а мехом и шпорой показано, что капризные обычно скоры на лесть достоинствам других и вспыльчивы против их пороков, осыпая их колкими словами."
+      ],
+      "text_fr": [
+        "Il est icy denoté par vn jeune garçon, bizarement vestu, ayant sur la teste vne toque garnie de plumes de diverses couleurs; outre que de la main droite il tient vn soufflet, & de la gauche vn esperon. L'on appelle capricieux ceux qui suivant les foles idées de leur esprit, s'emportent à des",
+        "legeretez, à des fantaisies, & à des actions si extraordinaires, qu'elles surprennent les sens des personnes qui les voyent. Ce qui nous est figuré par les plumes de differentes couleurs, vrais symboles d'inconstance; comme par le soufflet & par l'esperon il est demontré, que les capricieux sont promps d'ordinaire à flater les vertus des autres, & à s'emporter contre leurs vices par des paroles picquantes."
+      ],
       "en": "Caprice",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-183-1.jpg",
+        "p2-183-2.jpg"
+      ]
     },
     {
       "id": "p2-184",
@@ -16592,12 +16623,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-184.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Ребёнок, которого она хватает за волосы",
+          "meaning": "невинная жертва клеветы",
+          "what_en": "Child seized by the hair",
+          "meaning_en": "the innocent victim of slander"
+        },
+        {
+          "what": "Зажжённый факел",
+          "meaning": "раздор, который клевета разжигает повсюду",
+          "what_en": "Lit torch",
+          "meaning_en": "the discord that slander kindles everywhere"
+        },
+        {
+          "what": "Василиск (как иероглифическая фигура)",
+          "meaning": "клеветник убивает репутацию злым языком, как василиск убивает взглядом",
+          "what_en": "Basilisk (as her hieroglyphic figure)",
+          "meaning_en": "the slanderer destroys a reputation with his wicked tongue, as the basilisk kills with its gaze"
+        }
+      ],
+      "text_ru": [
+        "Эта разгневанная женщина, хватающая за волосы маленького ребёнка, молящего её о прощении, и держащая в другой руке зажжённый факел, — образ Клеветы. Этим нам показано, что самые опасные последствия этой фурии порождены тайной ненавистью и желанием мести; что она способна, кроме того, разжечь раздор во всех государствах мира, и что ей свойственно по природе чернить, сколько возможно, репутацию невинных. Также ей дают в качестве иероглифической фигуры василиска, дабы показать, что подобно тому, как это опасное животное убивает издали одним своим взглядом, так и Клеветник полностью губит своим злым языком тех, кого он любой ценой задумал погубить."
+      ],
+      "text_fr": [
+        "Cette femme en colere, empoignant par les cheveux vn petit enfant qui luy demande pardon, & tenant de l'autre main vne torche allumée, est le tableau de la Calomnie. Par où il nous est enseigné que les plus dangereux effets de cette furie sont engendrez d'vne haine secrete, & d'vn desir de vengeance; qu'elle est capable au reste d'allumer la discorde dans tous les Estats du monde, & que ce luy est vne chose naturelle de déchirer autant qu'elle peut la reputation des innocens. Aussi luy donne-t'on pour figure hieroglyfique vn basilic, pour montrer que comme ce dangereux animal tué de loin par sa veuë, le Calomniateur de mesme ruine entierement par sa méchante langue ceux qu'à quelque prix que ce soit il se propose de perdre."
+      ],
       "en": "Calumny",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-184-1.jpg",
+        "p2-184-2.jpg"
+      ]
     },
     {
       "id": "p2-185",
@@ -16610,12 +16670,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-185.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Платье наполовину чёрное, наполовину белое",
+          "meaning": "противоречивость натуры",
+          "what_en": "Robe half black and half white",
+          "meaning_en": "the contrariness of her nature"
+        },
+        {
+          "what": "Сосуд с льющейся водой и жаровня с огнём",
+          "meaning": "две взаимно противоположные стихии",
+          "what_en": "Vessel spilling water and a brazier full of fire",
+          "meaning_en": "two directly opposing elements"
+        },
+        {
+          "what": "Два колеса внизу",
+          "meaning": "непостоянство самонадеянных людей, любящих противоречить всем",
+          "what_en": "Two wheels below",
+          "meaning_en": "the inconstancy of presumptuous people who delight in contradicting everyone"
+        }
+      ],
+      "text_ru": [
+        "Неслучайно её изображают в платье наполовину чёрном, наполовину белом, и при этом дают ей держать в одной руке сосуд, из которого льётся вода, а в другой — жаровню, полную огня; это не требует иного объяснения, поскольку достаточно известно, что эти две стихии прямо противоположны. Что же до двух колёс, видимых внизу, они означают непостоянство тех самонадеянных людей, которым нравится противоречить и оспаривать мнения всех на свете; опасный порок, совершенно невыносимый."
+      ],
+      "text_fr": [
+        "Ce n'est pas mal à propos qu'on la peint avec vne robe moitié noire, & moitié blanche, & qu'avec cela on luy fait tenir d'vne main vn vase, dont l'eau se répand, & de l'autre vn réchaud plein de feu; ce qui n'a pas besoin d'autre explication, puisqu'on sçait assez que ces deux élemens sont directement contraires. Quant aux deux roües qui se voyent en bas, elles marquent l'inconstance de ces hommes presomptieux, qui se plaisent à choquer & à contredire les sentimens de tout le monde; vice dangereux, & entierement insupportable."
+      ],
       "en": "Contrariness",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-185-1.jpg",
+        "p2-185-2.jpg"
+      ]
     },
     {
       "id": "p2-186",
@@ -16628,12 +16717,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-186.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Рожок в руке",
+          "meaning": "гармония",
+          "what_en": "Horn in her hand",
+          "meaning_en": "harmony"
+        },
+        {
+          "what": "Маска в руке",
+          "meaning": "подражание (имитация)",
+          "what_en": "Mask in her hand",
+          "meaning_en": "imitation"
+        },
+        {
+          "what": "Свиток DESCRIBO MORES HOMINVM",
+          "meaning": "Комедия изображает нравы людей, чтобы внушить отвращение к порокам",
+          "what_en": "Scroll inscribed DESCRIBO MORES HOMINVM",
+          "meaning_en": "Comedy depicts the manners of men to instill a horror of vice"
+        }
+      ],
+      "text_ru": [
+        "Она помещена здесь не как порок, а потому что выводит на сцене пороки людей, дабы внушить к ним отвращение и примером других побудить их исправить свои нравы, как об этом говорят слова DESCRIBO MORES HOMINVM («Я ОПИСЫВАЮ НРАВЫ ЛЮДЕЙ»). И поскольку древние в своих Комедиях обычно пользовались рожком и маской, недаром их вкладывают ей здесь в руки, ибо один означает гармонию, а другая — подражание."
+      ],
+      "text_fr": [
+        "Elle est mise icy non pas pour vn vice, mais parce qu'elle expose sur le theatre les vices des hommes, afin de les faire avoir en horreur, & de les induire par l'exemple d'autruy à corriger leurs mœurs, comme le declarent ces mots, DESCRIBO MORES HOMINVM. Et dautant que les anciens en leurs Comedies se servoient ordinairement du clairon & du masque, ce n'est pas sans sujet qu'on les luy met icy en main, à cause que l'vn signifie l'harmonie, & l'autre l'imitation."
+      ],
       "en": "Comedy",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-186-1.jpg",
+        "p2-186-2.jpg"
+      ]
     },
     {
       "id": "p2-187",
