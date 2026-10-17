@@ -6845,6 +6845,204 @@
       "findspot_fr": "repêché dans le Port de Marseille, vers 1653",
       "findspot_ru": "поднят со дна марсельского порта около 1653 года",
       "findspot_en": "dredged up from the Harbor of Marseille, around 1653"
+    },
+    {
+      "id": "pl20-1",
+      "part": 2,
+      "plate": 20,
+      "num": "1",
+      "fr": "Vœu nautique de Valisinius, fils de Marcus Caris",
+      "ru": "Корабельный обет Валисиния, сына Марка Кария",
+      "en": "Nautical vow of Valisinius, son of Marcus Caris",
+      "page": "155",
+      "group": "XX",
+      "group_fr": "Planche XX",
+      "group_en": "XX",
+      "group_page": "155",
+      "flag": "",
+      "type": "relief",
+      "material_fr": "marbre",
+      "material_ru": "мрамор",
+      "material_en": "marble",
+      "img": [
+        "pl20-full.jpg"
+      ],
+      "plate_img": "pl20-full.jpg",
+      "bbox": [
+        3.0,
+        2.0,
+        46.0,
+        62.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. Le Bas-relief désigné sous ce No., est incrusté sur la façade de la maison du Sr. Paradis, Négociant, située sur la place de Lenche, à côté de l'Abbaye de St. Sauveur, au coin de la rue de Radeaux.",
+        "Ce monument présente un Fragment de figure vêtue d'une tunique, tenant une corne d'abondance; à côté est une autre personne vêtue comme quelqu'un d'un rang inférieur, qui tend la main à la prémière; un chien est placé au milieu. Ces deux figures sont posées sur une espèce de socle, où est sculpté en relief, un Bateau dans lequel on apperçoit les vestiges de deux figures, dont l'une est à demi-corps, & l'autre ne montre que la tête. On lit au bas de la Plinthe l'inscription suivante: VALISINIVS MAR CARII ANEON VSID.",
+        "Ce monument est un vœu nautique, qui avoit probablement été déposé dans le Temple d'Apollon, lequel étoit situé sur le même terrain où est aujourd'hui l'Abbaye St. Sauveur; ce qui me fait adopter cette opinion, c'est qu'il fut trouvé en creusant les fondemens de la maison, sur la façade de laquelle il est actuellement placé; & cette maison, ainsi que je l'ai observé, est contiguë à l'Abbaye. L'inscription me paroît devoir être expliquée en ce sens: VALISINIUS MARCI CARII ANNONÆ VOTO SOLUTO LIBERÈ DICAT.",
+        "Valisinius, fils de Marcus Caris, après avoir accompli son vœu d'une distribution de vivres, a dédié ce monument de son plein gré.",
+        "L'impéritie des ouvriers, les prononciations différentes, ont de tout temps occasionné des fautes d'orthographe de la part des artistes; les exemples en sont très-communs dans le style lapidaire de l'Antiquité: ANEON, pour ANNONÆ, doit être de ce genre. ANNONA, dans l'Antiquité, signifie toutes sortes de provisions de bouche (65). Voilà pourquoi une des figures tient une corne d'abondance.",
+        "La lettre L, Liberè, étant très-mutilée dans le Bas-relief, a été comme raccourcie par la dégradation du monument; on s'en apperçoit même à l'inspection de cette lettre, & il n'y a nul doute qu'elle n'est ressemblante à un I, que par la cause que j'ai déduite.",
+        "La famille de Marcus Caris, étoit une famille Marseilloise. Les inscriptions rapportées par Ruffi & par Guesnay (66) font mention d'un Marcus Caris Maximinus & d'un Marcus Caris Pacatus. Le Citoyen de cette même famille, qui fit élever le monument dont il est ici question, devoit être quelque Navigateur, qui avoit fait vœu de distribuer des provisions, s'il échappoit aux dangers qu'il avoit couru sur son Vaisseau; ou peut-être encore quelque Négociant, dont le Navire étoit en retard, qui avoit promis aux Dieux la distribution Annonæ, si ce Navire revenoit du voyage: cet usage des vœux nautiques étoit mis en pratique dans Marseille, ainsi que je l'ai observé, en rapportant un monument du même genre, consigné dans la 14e. Planche de cet Ouvrage, sous le No. 3.",
+        "(65) Montchablon, Dictionnaire d'Antiquité. — (66) Hist. de Marseille, Guesnay, Provincia Massiliensis ac Reliqua Phocensis Annales."
+      ],
+      "text_ru": [
+        "№ 1. Барельеф, обозначенный этим номером, вделан в фасад дома г-на Паради, негоцианта, расположенного на площади Ланш, рядом с аббатством Сен-Совёр, на углу улицы Радо.",
+        "Этот памятник представляет фрагмент фигуры, облачённой в тунику, держащей рог изобилия; рядом — другая фигура, одетая как лицо более низкого звания, протягивающая руку первой; между ними помещена собака. Обе фигуры стоят на своего рода цоколе, на котором рельефно высечена лодка, в которой заметны остатки двух фигур, одна из которых изображена по пояс, а от другой видна лишь голова. Внизу на плинте читается следующая надпись: VALISINIVS MAR CARII ANEON VSID.",
+        "Этот памятник представляет собой корабельный обет, вероятно, помещённый некогда в храме Аполлона, находившемся на том же месте, где ныне стоит аббатство Сен-Совёр; к этому мнению меня склоняет то, что памятник был найден при рытье фундамента дома, на фасаде которого он ныне помещён; а этот дом, как я заметил, примыкает к аббатству. Надпись, как мне представляется, следует объяснить так: VALISINIUS MARCI CARII ANNONÆ VOTO SOLUTO LIBERÈ DICAT.",
+        "«Валисиний, сын Марка Кария, исполнив свой обет раздачи продовольствия, добровольно посвятил этот памятник».",
+        "Неумелость мастеров, различия в произношении во все времена порождали орфографические ошибки со стороны художников; примеры этого весьма часты в лапидарном стиле древности: ANEON вместо ANNONÆ должно быть именно такого рода. ANNONA в древности означало всевозможные съестные припасы (65). Вот почему одна из фигур держит рог изобилия.",
+        "Буква L в слове Liberè, будучи сильно повреждённой на барельефе, оказалась как бы укороченной вследствие разрушения памятника; это заметно даже при осмотре самой буквы, и нет сомнения, что она похожа на I лишь по той причине, которую я изложил.",
+        "Семейство Марка Кария было марсельским семейством. Надписи, приводимые Рюффи и Гене (66), упоминают некоего Марка Кария Максимина и некоего Марка Кария Пакату. Гражданин из этого же семейства, воздвигший рассматриваемый здесь памятник, должен был быть неким мореплавателем, давшим обет раздать продовольствие, если он избегнет опасностей, которым подвергался на своём судне; либо, быть может, неким негоциантом, чей корабль запаздывал и который обещал богам раздачу Annonae, если этот корабль вернётся из плавания: этот обычай корабельных обетов практиковался в Марселе, как я уже отмечал, приводя памятник того же рода, описанный на 14-й таблице этого труда, под № 3.",
+        "(65) Моншаблон, «Словарь древностей». — (66) «История Марселя», Гене, Provincia Massiliensis ac Reliqua Phocensis Annales."
+      ],
+      "text_en": [
+        "No. 1. The bas-relief marked under this number is embedded in the façade of the house of Sieur Paradis, Merchant, situated on the place de Lenche, next to the Abbey of St. Sauveur, at the corner of the rue de Radeaux.",
+        "This monument presents a fragment of a figure dressed in a tunic, holding a horn of plenty; beside it is another person dressed as someone of lower rank, who extends a hand to the first; a dog is placed between them. These two figures stand on a sort of plinth, on which is carved in relief a Boat in which the remains of two figures can be seen, one shown half-length, the other only the head. At the bottom of the plinth one reads the following inscription: VALISINIVS MAR CARII ANEON VSID.",
+        "This monument is a nautical vow, probably once deposited in the Temple of Apollo, which stood on the same ground where the Abbey of St. Sauveur now stands; what leads me to this opinion is that it was found while digging the foundations of the house on whose façade it is now placed, and this house, as I have observed, adjoins the Abbey. The inscription, it seems to me, should be explained thus: VALISINIUS MARCI CARII ANNONÆ VOTO SOLUTO LIBERÈ DICAT.",
+        "\"Valisinius, son of Marcus Caris, having fulfilled his vow of a distribution of provisions, freely dedicated this monument.\"",
+        "The unskillfulness of workmen and differing pronunciations have at all times caused spelling errors on the part of artists; examples of this are very common in the lapidary style of Antiquity: ANEON for ANNONÆ must be of this kind. ANNONA, in Antiquity, meant provisions of every sort (65). This is why one of the figures holds a horn of plenty.",
+        "The letter L of Liberè, being very mutilated on the bas-relief, has been as if shortened by the monument's degradation; this is noticeable even on close inspection of the letter, and there is no doubt it resembles an I only for the reason I have given.",
+        "The family of Marcus Caris was a Marseille family. The inscriptions reported by Ruffi and by Guesnay (66) mention a Marcus Caris Maximinus and a Marcus Caris Pacatus. The Citizen of this same family who had the monument in question erected must have been some Seafarer who had vowed to distribute provisions if he escaped the dangers he had faced on his Ship; or perhaps some Merchant, whose Ship was overdue, who had promised the Gods the distribution of Annona if that Ship returned from its voyage: this custom of nautical vows was practiced at Marseille, as I have already noted in reporting a monument of the same kind recorded on the 14th Plate of this Work, under No. 3.",
+        "(65) Montchablon, Dictionnaire d'Antiquité. — (66) History of Marseille, Guesnay, Provincia Massiliensis ac Reliqua Phocensis Annales."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "VALISINIVS MAR CARII ANEON VSID",
+      "legend_ru": "VALISINIVS MAR CARII ANEON VSID",
+      "legend_en": "VALISINIVS MAR CARII ANEON VSID",
+      "findspot_fr": "place de Lenche, façade de la maison du Sr. Paradis",
+      "findspot_ru": "площадь Ланш, фасад дома г-на Паради",
+      "findspot_en": "place de Lenche, façade of the house of Sieur Paradis"
+    },
+    {
+      "id": "pl20-2",
+      "part": 2,
+      "plate": 20,
+      "num": "2",
+      "fr": "Bas-relief de Cybèle (lion et pin) dédié par Navius Ianuarius",
+      "ru": "Барельеф Кибелы (лев и сосна), посвящённый Навием Януарием",
+      "en": "Relief of Cybele (lion and pine), dedicated by Navius Ianuarius",
+      "page": "157",
+      "group": "XX",
+      "group_fr": "Planche XX",
+      "group_en": "XX",
+      "group_page": "155",
+      "flag": "",
+      "type": "relief",
+      "material_fr": "marbre",
+      "material_ru": "мрамор",
+      "material_en": "marble",
+      "img": [
+        "pl20-full.jpg"
+      ],
+      "plate_img": "pl20-full.jpg",
+      "bbox": [
+        48.0,
+        2.0,
+        50.0,
+        62.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Quoique le Bas-relief indiqué par ce chiffre, n'ait point été trouvé dans Marseille, je n'hésite pas d'en faire honneur à cette Ville. Le Village des Pennes, auquel il est dû, a fait partie du Domaine de notre ancienne République. Il est si près des limites actuelles de notre terroir (67), qu'il peut servir à constater le culte que les Marseillois rendoient à Cybèle. D'ailleurs, les cérémonies relatives à cette Divinité étant établies sur le modèle de celles du Mont-Ida, dans les forêts duquel le principal de ses Temples étoit bâti, seroit-il surprenant que les Marseillois eussent choisi de préférence le lieu des Pennes pour lui dresser des Autels? Tout concourt à appuyer cette opinion indépendamment du monument en lui-même. Les forêts des Pennes sont toutes de bois de Pin; & ces arbres étoient particulièrement consacrés à la Mère des Dieux.",
+        "Ce Bas-relief en marbre est aujourd'hui incrusté sur la porte de la Paroisse du Village des Pennes. Il est d'une conservation parfaite.",
+        "Il représente un Lion au pied d'un Pin, auquel sont attachées des cymbales, une flutte ancienne & une espece de sistre triangulaire; un soc de charrue est appuyé sur l'arbre, ce soc est en sautoir avec un bâton de Berger, au bout duquel se trouve la thiare ou bonnet Phrygien; au haut du Bas-relief est un édifice fortifié qui paroît être sur une montagne: c'est probablement la représentation du fameux Temple du Mont-Ida dans l'Isle de Crête. Tous les ornemens dont est décoré ce Bas-relief, sont relatifs au culte de Cybèle; les instrumens sont les mêmes dont on se servoit lors des mystères de la grande Déesse. Le Pin lui fut particulièrement consacré en mémoire du Berger Atys, que les Poëtes disent avoir été aimé de Cybèle, & changé par elle en Pin après sa mort. Le Lion étoit également un des attributs de la Déesse; & le bâton pastoral, ainsi que le bonnet Phrygien sont placés ici par allusion à Atys, qui étoit Berger & Phrygien de nation. On trouve au bas du monument l'inscription suivante: MATRIS DEUM MAGNÆ IDEÆ PALATINÆ EIUSQ. M. RELIGIONIS AD PARNOR NAVIUS IANVARIUS.",
+        "EIUSQ. est ici mis pour Ejusque, M. pour Mysteriis, PARNOR pour Parnorum (montes) ou Parnoritas. Parnes étoient des montagnes de l'Attique au-dessus d'Eléusis; c'étoit peut-être sur ces montagnes que ceux d'Eléusis célébroient les mystères de la grande Déesse. Navius Januarius, qui avoit fait élever le monument que je décris, y ayant été initié, avoit conservé de la dévotion pour ces lieux. D'après ces observations, je crois pouvoir traduire l'inscription en ce sens: Navius Januarius a élevé (ou consacré) ce monument à la Mère des Dieux la grande Déesse du Mont-Ida, Palatine, & aux mystères de son culte, qu'on célèbre aux montagnes des Parnes, (ou chez les habitans des Parnes). Cybèle étoit nommée Idea, par allusion au Mont-Ida: les noms de grande Déesse & de Mère des Dieux, lui étoient également donnés par les Payens; quant au surnom de Palatine, il est dû aux Romains, parce qu'ils lui dédièrent une des chapelles du Temple de la Victoire, qui étoit sur le Mont Palatin, dans le Palais Sénatorial: c'est ce qu'atteste Tite Live, Ipsamque, Deum Matrem è Grecià advectam in Palatium pertulere, & in Templo Victoriæ collocarunt, &c.",
+        "(67) Les Marseillois avoient formé plusieurs établissemens aux environs de cette Ville, entre autre Maritima, que l'on dit être le Martigues. Quelques personnes doutent que ce soit l'ancien Marignane, dans lequel de ces deux endroits, où ait été établie la Colonie Marseilloise, elle se trouvoit, pour ainsi dire, aux portes du Village de Pennes."
+      ],
+      "text_ru": [
+        "№ 2. Хотя барельеф, обозначенный этим номером, и не был найден в Марселе, я без колебаний отношу его к чести этого города. Селение Пенн, которому он обязан своим происхождением, некогда входило в состав владений нашей древней Республики. Оно находится настолько близко к нынешним пределам нашей территории (67), что может служить подтверждением культа, который марсельцы воздавали Кибеле. Притом, поскольку обряды, связанные с этим божеством, были установлены по образцу обрядов горы Иды, в лесах которой был выстроен главный из её храмов, удивительно ли, что марсельцы предпочли именно местность Пенн для воздвижения ей алтарей? Всё, независимо от самого памятника, говорит в пользу этого мнения. Леса Пенн целиком сосновые; а эти деревья были особо посвящены Матери богов.",
+        "Этот мраморный барельеф ныне вделан в дверь приходской церкви селения Пенн. Он находится в превосходной сохранности.",
+        "Он изображает льва у подножия сосны, к которой подвешены кимвалы, древняя флейта и нечто вроде треугольного систра; к дереву прислонён лемех плуга, расположенный накрест с пастушеским посохом, на конце которого находится тиара, или фригийский колпак; в верхней части барельефа изображено укреплённое здание, по-видимому, стоящее на горе: это, вероятно, изображение знаменитого храма горы Иды на острове Крит. Все украшения, которыми убран этот барельеф, связаны с культом Кибелы; инструменты те же, что использовались при мистериях великой богини. Сосна была особо посвящена ей в память о пастухе Аттисе, которого, по словам поэтов, любила Кибела и которого она после его смерти превратила в сосну. Лев также был одним из атрибутов богини; а пастуший посох и фригийский колпак помещены здесь в намёк на Аттиса, который был пастухом и по происхождению фригийцем. Внизу памятника находится следующая надпись: MATRIS DEUM MAGNÆ IDEÆ PALATINÆ EIUSQ. M. RELIGIONIS AD PARNOR NAVIUS IANVARIUS.",
+        "EIUSQ. здесь поставлено вместо Ejusque, M. — вместо Mysteriis, PARNOR — вместо Parnorum (montes), или Parnoritas. Парны были горами в Аттике над Элевсином; возможно, именно на этих горах элевсинцы справляли мистерии великой богини. Навий Януарий, воздвигший описываемый мною памятник, будучи посвящён в эти мистерии, сохранил благоговение к этим местам. Исходя из этих наблюдений, полагаю, что надпись можно перевести следующим образом: «Навий Януарий воздвиг (или посвятил) этот памятник Матери богов, великой богине горы Иды, Палатинской, и таинствам её культа, справляемым на горах Парнских (или у жителей Парн)». Кибелу называли Idea в намёк на гору Иду; имена «великая богиня» и «Мать богов» также давались ей язычниками; что же касается прозвания «Палатинская», оно обязано римлянам, посвятившим ей одну из капелл храма Победы, находившегося на Палатинском холме, в сенаторском дворце: это подтверждает Тит Ливий: «Ipsamque, Deum Matrem è Grecià advectam in Palatium pertulere, & in Templo Victoriæ collocarunt» и т. д.",
+        "(67) Марсельцы основали несколько поселений в окрестностях этого города, среди прочих — Маритиму, которую считают нынешним Мартигом. Некоторые сомневаются, не был ли это древний Мариньян; в каком бы из этих двух мест ни была основана марсельская колония, она находилась, можно сказать, у самых ворот селения Пенн."
+      ],
+      "text_en": [
+        "No. 2. Although the bas-relief marked by this number was not found at Marseille, I do not hesitate to credit this City with it. The Village des Pennes, to which it is owed, was once part of the Domain of our ancient Republic. It lies so close to the present boundaries of our territory (67) that it can serve to confirm the cult the people of Marseille paid to Cybele. Moreover, since the ceremonies relating to this Divinity were modeled on those of Mount Ida, in whose forests her chief Temple was built, would it be surprising that the Marseillais should have chosen the site of Les Pennes, of all places, to raise her Altars? Everything supports this opinion, independently of the monument itself. The forests of Les Pennes are entirely of Pine; and these trees were particularly sacred to the Mother of the Gods.",
+        "This marble bas-relief is today embedded over the door of the Parish of the Village des Pennes. It is in perfect preservation.",
+        "It shows a Lion at the foot of a Pine tree, to which are attached cymbals, an ancient flute, and a kind of triangular sistrum; a plowshare leans against the tree, set crosswise with a Shepherd's crook, at the end of which is the tiara or Phrygian cap; at the top of the bas-relief is a fortified building that appears to stand on a mountain: probably a representation of the famous Temple of Mount Ida on the Island of Crete. All the ornaments decorating this bas-relief relate to the cult of Cybele; the instruments are the same as those used during the mysteries of the great Goddess. The Pine was particularly sacred to her in memory of the Shepherd Atys, whom the Poets say was loved by Cybele and changed by her into a Pine after his death. The Lion was likewise one of the Goddess's attributes; and the pastoral staff, as well as the Phrygian cap, are placed here in allusion to Atys, who was a Shepherd and Phrygian by nation. At the bottom of the monument one finds the following inscription: MATRIS DEUM MAGNÆ IDEÆ PALATINÆ EIUSQ. M. RELIGIONIS AD PARNOR NAVIUS IANVARIUS.",
+        "EIUSQ. here stands for Ejusque, M. for Mysteriis, PARNOR for Parnorum (montes), or Parnoritas. Parnes were mountains of Attica above Eleusis; it may have been on these mountains that the people of Eleusis celebrated the mysteries of the great Goddess. Navius Januarius, who had this monument I describe erected, having been initiated there, had kept his devotion for these places. On these observations, I believe the inscription may be translated thus: Navius Januarius erected (or consecrated) this monument to the Mother of the Gods, the great Goddess of Mount Ida, the Palatine One, and to the mysteries of her cult, celebrated on the mountains of Parnes (or among the inhabitants of Parnes). Cybele was called Idea in allusion to Mount Ida: the names great Goddess and Mother of the Gods were likewise given her by the Pagans; as for the epithet Palatine, it is owed to the Romans, because they dedicated to her one of the chapels of the Temple of Victory, which stood on the Palatine Hill, in the Senatorial Palace: this is attested by Livy, Ipsamque, Deum Matrem è Grecià advectam in Palatium pertulere, & in Templo Victoriæ collocarunt, &c.",
+        "(67) The Marseillais had formed several settlements in the vicinity of this City, among others Maritima, said to be Martigues. Some doubt whether it was instead the ancient Marignane; whichever of these two places the Marseille Colony was established in, it stood, so to speak, at the very gates of the Village des Pennes."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "MATRIS DEVM MAGNÆ IDEÆ PALATINÆ EIVSQ. M. RELIGIONIS AD PARNOR NAVIVS IANVARIVS",
+      "legend_ru": "MATRIS DEVM MAGNÆ IDEÆ PALATINÆ EIVSQ. M. RELIGIONIS AD PARNOR NAVIVS IANVARIVS",
+      "legend_en": "MATRIS DEVM MAGNÆ IDEÆ PALATINÆ EIVSQ. M. RELIGIONIS AD PARNOR NAVIVS IANVARIVS",
+      "findspot_fr": "porte de la Paroisse du Village des Pennes",
+      "findspot_ru": "дверь приходской церкви селения Пенн",
+      "findspot_en": "the parish door of the Village des Pennes"
+    },
+    {
+      "id": "pl20-3",
+      "part": 2,
+      "plate": 20,
+      "num": "3",
+      "fr": "Tête de cheval en bronze (emblème de courrier ou d'officier de cavalerie)",
+      "ru": "Бронзовая конская голова (знак гонца или кавалерийского офицера)",
+      "en": "Bronze horse's head (a courier's or cavalry-officer's emblem)",
+      "page": "159",
+      "group": "XX",
+      "group_fr": "Planche XX",
+      "group_en": "XX",
+      "group_page": "155",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl20-full.jpg"
+      ],
+      "plate_img": "pl20-full.jpg",
+      "bbox": [
+        20.0,
+        64.0,
+        55.0,
+        34.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Le Bronze, sous ce numero, représente une tête de Cheval. On apperçoit au bas du col les trous par lesquels il étoit attaché à un bâton. Ce petit monument est fait avec soin, & les règles de l'art y sont exactement observées: on distingue encore l'habileté de l'Artiste à dessiner la nature, malgré la vétusté & le vert-de-gris qui a corrodé la matière. Ce morceau qui a été trouvé dans notre territoire, au quartier de St. Loup, est au pouvoir de Mr. Michel, Honoraire de l'Académie de Peinture.",
+        "Mr. le Comte de Caylus, dans son recueil d'Antiquités, tome 2, planche XCV, numero IV, cite un pareil monument, dans lequel on reconnoît également la place des clous que ce Savant dit avoir servi à arrêter cette tête sur un bâton. Il avoue ne pouvoir décider quel en étoit l'usage. Une autre Planche de l'Ouvrage de Mr. de Caylus nous donne la figure d'une seconde tête de cheval, (en crystal.) Cette derniere est également creuse & remplie de matiere gypseuse, qui paroît avoir servi pour la fixer quelque part. Toutes ces têtes de chevaux pourroient bien avoir une même origine. Elles auront peut-être servi de marque distinctive à des Officiers inférieurs de la Cavalerie, chez les Grecs & les Romains: je croirois plus volontiers encore qu'elles étoient clouées au bout d'un bâton que devoient porter les courriers nommés par les Grecs Hemerodromes, & que les Romains qui suivirent leur exemple à cet égard, nommèrent Vérédaires du mot latin Veredarius, qui signifie un cheval léger.",
+        "Croire que le monument dont il est ici question, fut une espece de bâton de commandement pour ceux qui dirigeoient dans l'Hyppodrome & le Cirque, les courses des chevaux, ce seroit aller contre la vérité: Marseille ancienne n'ayant jamais souffert dans son sein aucune sorte de spectacles, selon le témoignage des Auteurs (68).",
+        "(68) Valère Maxime, Plautus in Cassiod. Alexander ab Alexandro, Erasme, &c."
+      ],
+      "text_ru": [
+        "№ 3. Бронза под этим номером изображает голову лошади. Внизу шеи видны отверстия, которыми она крепилась к древку. Этот небольшой памятник выполнен тщательно, с точным соблюдением правил искусства: несмотря на ветхость и зеленоватую патину, разъевшую металл, в нём всё ещё заметно мастерство художника в передаче натуры. Этот предмет, найденный на нашей земле, в квартале Сен-Лу, находится во владении г-на Мишеля, почётного члена Академии живописи.",
+        "Граф де Кайлюс в своём «Собрании древностей», т. 2, таблица XCV, № IV, приводит подобный же памятник, на котором также заметны места гвоздей, которыми, по словам этого учёного, голова крепилась к древку. Он признаётся, что не может определить, каково было её назначение. На другой таблице труда г-на де Кайлюса приведено изображение второй конской головы (хрустальной). Она также полая и заполнена гипсовым веществом, которое, по-видимому, служило для её закрепления где-то. Все эти конские головы вполне могли иметь общее происхождение. Возможно, они служили отличительным знаком младших офицеров конницы у греков и римлян: я скорее склонен полагать, что их прибивали к концу жезла, который должны были носить гонцы, называемые греками гемеродромами, а римляне, последовавшие их примеру в этом отношении, называли их veredarii — от латинского veredarius, означающего «лёгкая лошадь».",
+        "Полагать, что рассматриваемый здесь памятник был своего рода жезлом распорядителя конских состязаний на ипподроме и в цирке, значило бы погрешить против истины: древний Марсель, по свидетельству авторов, никогда не допускал в своих стенах зрелищ подобного рода (68).",
+        "(68) Валерий Максим, Плавт у Кассиодора, Александр от Александра, Эразм и др."
+      ],
+      "text_en": [
+        "No. 3. The bronze under this number represents a Horse's head. At the base of the neck can be seen the holes by which it was fastened to a staff. This small piece is made with care, and the rules of the art are exactly observed in it: the Artist's skill at rendering nature can still be made out, despite the age and the verdigris that has corroded the material. This piece, found on our territory, in the St. Loup district, is in the possession of M. Michel, honorary member of the Academy of Painting.",
+        "M. le Comte de Caylus, in his Recueil d'Antiquités, volume 2, Plate XCV, no. IV, cites a similar monument, in which the places of the nails that this Scholar says served to fasten this head onto a staff can likewise be made out. He admits he cannot determine what its use was. Another Plate of M. de Caylus's work gives us the figure of a second horse's head (in crystal). This latter is likewise hollow and filled with a gypsum-like substance, which appears to have served to fix it somewhere. All these horse heads could well share a common origin. They may perhaps have served as a distinctive mark for junior Cavalry officers among the Greeks and Romans: I would be more inclined to believe they were nailed to the end of a staff carried by the couriers the Greeks called Hemerodromoi, whom the Romans, following their example in this respect, called Veredarii, from the Latin word Veredarius, meaning a light horse.",
+        "To believe that the monument in question was a kind of baton of command for those who directed horse races in the Hippodrome and the Circus would run contrary to the truth: ancient Marseille never having tolerated within its walls any kind of spectacle, according to the testimony of the Authors (68).",
+        "(68) Valerius Maximus, Plautus in Cassiodorus, Alexander ab Alexandro, Erasmus, etc."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "quartier de St. Loup",
+      "findspot_ru": "квартал Сен-Лу",
+      "findspot_en": "the St. Loup district"
     }
   ]
 }
