@@ -12035,12 +12035,41 @@
       "group_fr": "Les quatre Poëmes",
       "group_page": "93",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-78.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Общее вступление о Поэзии вообще — прекрасная юная дева, увенчанная лавром, в звёздном одеянии, с охотничьим рогом в правой руке и лирой в левой; затем Лирическая Поэзия — женщина в узком многоцветном одеянии с лирой и смычком, с латинским девизом «Brevi complector singula cantu»",
+          "meaning": "Звёздное одеяние — божественное происхождение поэзии; лавр — бессмертие, даруемое поэзией; лира — созвучие поэтических размеров с музыкальной гармонией; узкое одеяние Лирической Поэзии — сжатость, с коей она объемлет многое в немногих словах",
+          "what_en": "A general introduction on Poetry in general — a beautiful young maiden crowned with laurel, in a starry robe, a hunting horn in her right hand and a lyre in her left; then Lyric Poetry — a woman in a narrow, multicolored robe with a lyre and bow, bearing the Latin motto \"Brevi complector singula cantu\"",
+          "meaning_en": "The starry robe signifies poetry's divine origin; the laurel, the immortality poetry bestows; the lyre, the correspondence between poetic meter and musical harmony; Lyric Poetry's narrow robe, the conciseness with which she embraces much in few words"
+        }
+      ],
+      "text_ru": [
+        "Прежде чем изобразить их по отдельности в их образах, думается мне, не будет неуместно сказать здесь нечто о Поэзии вообще, которую многие изображали прекрасной юной девой, увенчанной лавром, облачённой в длинное одеяние, усеянное звёздами, держащей в правой руке охотничий рог, а в левой — лиру.",
+        "Она, собственно, по Платону, есть выражение божественных вещей, внушённых разуму особым благоволением и милостью Небес.",
+        "Её изображают юной и прекрасной, ибо нет человека, сколь бы варварским он ни был, кто не был бы привлечён силою и очарован сладостью её стихов.",
+        "Её венчают лавром, деревом вечнозелёным и защищённым от молнии, дабы показать, что она сама делает людей бессмертными и ограждает их от обид времени, предающего всё забвению.",
+        "Её звёздное одеяние — символ её Божественности, получившей, по словам Поэтов, своё начало с Небес. К чему прибавлю, что она чрезвычайно задумчива и вся пламенна лицом, поскольку душа Поэтов обычно полна стремительных движений и порывов небесного неистовства.",
+        "Что до лиры, вложенной ей в руку, это показывает, что числа Поэзии находятся в дивном соответствии с гармонией Музыки; а если Поэтов венчают лавром, то потому, что их намерение — не что иное, как снискать честь, имея ту же цель, что и величайшие Полководцы, в чьей славе они причастны, равно как и в их венцах.",
+        "Её облик — облик юной женщины, держащей в левой руке лиру, а в правой — смычок. Одеяние её многоцветно, но приятно взору и довольно узко, дабы показать, что в одном предмете Лирический Поэт стягивает многие иные; что означено этими Латинскими словами: Brevi complector singula cantu — то есть в немногих словах я объемлю все вещи."
+      ],
+      "text_fr": [
+        "AVANT que de les representer particulierement par leurs figures, il me semble qu'il ne sera pas hors de propos de dire icy quelque chose de la Poësie en general, que plusieurs ont representée par une belle jeune fille couronnée de laurier, vestuë d'une grande robe semée d'estoiles, & qui tient de la main droite un cornet à bouquin, & de la gauche une lyre.",
+        "Elle est proprement, selon Platon, une expression des choses divines, inspirées à l'entendement, par une faveur & grace particuliere du Ciel.",
+        "Elle est peinte jeune & belle, à cause qu'il n'est point d'homme, quelque barbare qu'il puisse estre, qui ne soit attiré par la force, & charmé par la douceur de ses vers.",
+        "On la couronne de laurier, arbre toûjours verdoyant, & qui est à couvert de la foudre, pour montrer qu'elle-mesme rend les hommes immortels, & les asseure contre les outrages du temps, qui fait oublier toutes choses.",
+        "Sa robe semée d'estoilles est le symbole de sa Divinité, ayant pris, comme disent les Poëtes, son origine du Ciel. A quoy j'ajoûte qu'elle est extremement pensive, & toute enflammée par le visage, dautant que les Poëtes ont pour l'ordinaire l'ame pleine de prompts mouvemens, & de transports de fureur celeste.",
+        "Quant à la lyre qu'on luy met en main, c'est pour faire voir que les nombres de la Poësie ont une merveilleuse correspondance avec l'harmonie de la Musique: que si l'on couronne les Poëtes de laurier, c'est parce que leur intention n'est autre que de s'acquerir de l'honneur, ayant en cela mesme objet que les plus grands Capitaines, à la gloire desquels ils ont part, tout ainsi qu'à leurs couronnes.",
+        "SA figure est celle d'une jeune femme, qui tient de la main gauche une lyre, & de la droite un archet. Son habillement est de plusieurs couleurs, mais agreable à voir, & assez estroit, pour montrer que dans une seule chose le Poëte Lyrique en resserre plusieurs autres; comme il est signifié par ces paroles Latines, Brevi complector singula cantu. C'est à dire, en peu de mots je comprens toutes choses."
+      ],
       "en": "Lyric Poem",
-      "group_en": "The Four Kinds of Poem"
+      "group_en": "The Four Kinds of Poem",
+      "scans": [
+        "p2-78-1.jpg",
+        "p2-78-2.jpg"
+      ]
     },
     {
       "id": "p2-79",
@@ -12053,12 +12082,29 @@
       "group_fr": "Les quatre Poëmes",
       "group_page": "93",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-79.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Царственно одетый муж важной осанки, в лавровой гирлянде, с охотничьим рогом в правой руке и лентой с девизом «Non nisi grandia canto» в левой",
+          "meaning": "Царственное одеяние и важная осанка — возвышенность героического жанра; лавр — слава, подобная воинской; девиз «пою лишь о величайшем» — исключительный предмет героической поэмы: великие деяния и герои",
+          "what_en": "A royally dressed man of grave bearing, in a laurel garland, a hunting horn in his right hand and a ribbon reading \"Non nisi grandia canto\" in his left",
+          "meaning_en": "The royal attire and grave bearing signify the loftiness of the heroic genre; the laurel, a glory akin to a warrior's; the motto \"I sing only of great things\", the heroic poem's exclusive subject: great deeds and heroes"
+        }
+      ],
+      "text_ru": [
+        "Его изображают облачённым по-царски, с важной осанкой, с лавровой гирляндой на голове, охотничьим рогом в правой руке и этими словами в левой: Non nisi grandia canto, что означает: Моя песнь имеет предметом лишь величайшие вещи."
+      ],
+      "text_fr": [
+        "ON le peint habillé royalement, avec un maintien grave, une guirlande de laurier sur la teste, un cornet à bouquin en la main droite, & ces mots à la gauche, Non nisi grandia canto, qui signifient, Mon chant a pour objet les choses les plus grandes."
+      ],
       "en": "Heroic Poem",
-      "group_en": "The Four Kinds of Poem"
+      "group_en": "The Four Kinds of Poem",
+      "scans": [
+        "p2-79-1.jpg",
+        "p2-79-2.jpg"
+      ]
     },
     {
       "id": "p2-80",
@@ -12071,12 +12117,29 @@
       "group_fr": "Les quatre Poëmes",
       "group_page": "93",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-80.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юный пастух естественной красоты с семиствольной флейтой в одной руке и пастушьим посохом в другой, с лентой-девизом «Pastorum carmina ludo»",
+          "meaning": "Естественная, без прикрас красота — простота пасторального жанра; флейта и посох — атрибуты пастушеской жизни; девиз «играю песни пастухов» — скромный, безыскусный предмет пасторальной поэмы",
+          "what_en": "A young shepherd of natural, unadorned beauty, a seven-piped flute in one hand and a crook in the other, with the motto \"Pastorum carmina ludo\"",
+          "meaning_en": "His natural, unadorned beauty signifies the pastoral genre's simplicity; the flute and crook, attributes of shepherd life; the motto \"I play the songs of shepherds\", the pastoral poem's modest, artless subject"
+        }
+      ],
+      "text_ru": [
+        "Его изображают юным пастухом естественной, без прикрас, красоты, держащим в одной руке семиствольную флейту, а в другой — пастуший посох, с девизом Pastorum carmina ludo, как бы говоря: Я забавляюсь песнями Пастухов."
+      ],
+      "text_fr": [
+        "IL est representé par un jeune berger, d'une beauté naturelle & sans fard, tenant d'une main une flute à sept tuyaux, & de l'autre une houlette, avec cette devise, Pastorum carmina ludo. Comme s'il disoit, Je m'entretiens des chansons des Bergers."
+      ],
       "en": "Pastoral Poem",
-      "group_en": "The Four Kinds of Poem"
+      "group_en": "The Four Kinds of Poem",
+      "scans": [
+        "p2-80-1.jpg",
+        "p2-80-2.jpg"
+      ]
     },
     {
       "id": "p2-81",
@@ -12089,12 +12152,29 @@
       "group_fr": "Les quatre Poëmes",
       "group_page": "93",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-81.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Обнажённый муж с насмешливым лицом, тирсом в левой руке и свитком с девизом «Irridens cuspide figo» в правой",
+          "meaning": "Нагота и насмешливое лицо — открытая, язвительная природа сатиры; тирс — вакхическая вольность жанра; девиз «насмехаясь, жалю остриём» — двойное действие сатирической поэмы: осмеяние и укол",
+          "what_en": "A naked man with a mocking face, a thyrsus in his left hand and a scroll reading \"Irridens cuspide figo\" in his right",
+          "meaning_en": "His nakedness and mocking face signify satire's open, biting nature; the thyrsus, the genre's Bacchic license; the motto \"mocking, I pierce with my point\", the satiric poem's dual action of ridicule and sting"
+        }
+      ],
+      "text_ru": [
+        "Его изображают без одеяния, с лицом насмешника, тирсом в левой руке и свитком в правой, на коем читаются слова Irridens cuspide figo, как бы желая сказать примерно: я насмехаюсь и жалю одновременно."
+      ],
+      "text_fr": [
+        "ON le dépeint sans habillement, avec le visage d'un rieur, un thyrse en la main gauche, & un écriteau en la droite, où se lisent ces paroles, Irridens cuspide figo: comme s'il vouloit dire à peu prés, je raille & picque tout ensemble."
+      ],
       "en": "Satirical Poem",
-      "group_en": "The Four Kinds of Poem"
+      "group_en": "The Four Kinds of Poem",
+      "scans": [
+        "p2-81-1.jpg",
+        "p2-81-2.jpg"
+      ]
     },
     {
       "id": "p2-82",
