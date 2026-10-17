@@ -11840,6 +11840,183 @@
       "findspot_fr": "couvent des Grands-Carmes",
       "findspot_ru": "монастырь Больших Кармелитов",
       "findspot_en": "the convent of the Grands-Carmes"
+    },
+    {
+      "id": "pl42-1",
+      "part": 5,
+      "plate": 42,
+      "num": "1",
+      "fr": "Épitaphe de Calpurnia, élève d'Onesime",
+      "ru": "Эпитафия Кальпурнии, воспитанницы Онесима",
+      "en": "Epitaph of Calpurnia, pupil of Onesimus",
+      "page": "265",
+      "group": "XLII",
+      "group_fr": "Planche XLII",
+      "group_en": "XLII",
+      "group_page": "265",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "pierre de la carrière de Cassis",
+      "material_ru": "камень каменоломни Касси",
+      "material_en": "stone of the Cassis quarry",
+      "img": [
+        "pl42-full.jpg"
+      ],
+      "plate_img": "pl42-full.jpg",
+      "bbox": [
+        22.0,
+        2.0,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. Piédestal en pierre de la carrière de Cassis, sur lequel on lit l'inscription suivante: D.M. CALPVRNIAE AR¹ RIDIS VAB CREGES ET CABLVRNIA ONESIME VLVMN.",
+        "Cette épitaphe est si mutilée vers le milieu, où l'on trouve même un trou de près de deux pouces de profondeur, qu'il est impossible de suppléer aux lettres qui manquent. On voit seulement que ce monument avoit été élevé aux Mânes de Calpurnia par deux personnes dont l'une de la même famille Calpurnia étoit élève d'Onesime. VLVMN est mis pour ALVMN, abréviation d'ALVMNA. Calpurnia (30) est le nom d'une Famille Romaine distinguée. Ce nom est différemment orthographié au bas de l'inscription CABLVRNIA; ce qui vient de la corruption dont la langue Romaine se ressentit dans Marseille, après que cette Ville fut devenue la conquête des Goths. On doit placer la construction de notre monument à un temps postérieur à cette époque. Les mauvaises proportions du piédestal & la Gothicité des lettres le désignent assez. ONESIME est un nom Grec. C'est sur la place de l'Abbaye St. Victor que cette épitaphe se trouve placée.",
+        "(30) La femme de César étoit de la même famille, CALPVRNIA, fille de CALPVRNIVS PISO. Deux loix Romaines portent le nom des Magistrats de cette famille auxquels elles sont dûes: Lex Calpurnia de pecuniis repetundis & Lex Calpurnia de ambitu."
+      ],
+      "text_ru": [
+        "№ 1. Постамент из камня каменоломни Касси, на котором читается следующая надпись: D.M. CALPVRNIAE AR¹ RIDIS VAB CREGES ET CABLVRNIA ONESIME VLVMN.",
+        "Эта эпитафия настолько повреждена в середине, где даже имеется отверстие глубиной почти в два дюйма, что восполнить недостающие буквы невозможно. Видно лишь, что этот памятник был воздвигнут манам Кальпурнии двумя лицами, одно из которых, из того же рода Кальпурниев, было воспитанницей Онесима. VLVMN поставлено вместо ALVMN, сокращения от ALVMNA. Calpurnia (30) — имя знатного римского рода. В конце надписи оно пишется иначе — CABLVRNIA, что объясняется порчей, которую претерпел латинский язык в Марселе после того, как этот город стал добычей готов. Создание нашего памятника следует относить ко времени, более позднему, чем эта эпоха. На это достаточно указывают дурные пропорции постамента и готический облик букв. ONESIME — греческое имя. Эта эпитафия находится на площади аббатства Сен-Виктор.",
+        "(30) Жена Цезаря происходила из того же рода — CALPVRNIA, дочь CALPVRNIVS PISO. Два римских закона носят имена магистратов этого рода, которым они обязаны своим происхождением: Lex Calpurnia de pecuniis repetundis и Lex Calpurnia de ambitu."
+      ],
+      "text_en": [
+        "No. 1. Pedestal of stone from the Cassis quarry, bearing the following inscription: D.M. CALPVRNIAE AR¹ RIDIS VAB CREGES ET CABLVRNIA ONESIME VLVMN.",
+        "This epitaph is so damaged toward the middle, where there is even a hole nearly two inches deep, that it is impossible to restore the missing letters. One can only see that this monument was raised to the Shades of Calpurnia by two persons, one of whom, of the same Calpurnia family, was a pupil of Onesimus. VLVMN stands for ALVMN, an abbreviation of ALVMNA. Calpurnia (30) is the name of a distinguished Roman Family. This name is spelled differently at the bottom of the inscription, CABLVRNIA, which comes from the corruption the Roman language suffered at Marseille after this City became a conquest of the Goths. The construction of our monument should be placed at a time later than this period. The poor proportions of the pedestal and the Gothic character of the letters sufficiently indicate this. ONESIME is a Greek name. This epitaph stands on the square of the Abbey of St. Victor.",
+        "(30) Caesar's wife was of the same family, CALPVRNIA, daughter of CALPVRNIVS PISO. Two Roman laws bear the names of magistrates of this family to whom they are owed: the Lex Calpurnia de pecuniis repetundis and the Lex Calpurnia de ambitu."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M CALPVRNIAE AR RIDIS VAB CREGES ET CABLVRNIA ONESIME VLVMN",
+      "legend_ru": "D M CALPVRNIAE AR RIDIS VAB CREGES ET CABLVRNIA ONESIME VLVMN",
+      "legend_en": "D M CALPVRNIAE AR RIDIS VAB CREGES ET CABLVRNIA ONESIME VLVMN",
+      "findspot_fr": "place de l'abbaye Saint-Victor",
+      "findspot_ru": "площадь аббатства Сен-Виктор",
+      "findspot_en": "the square of the Abbey of Saint-Victor"
+    },
+    {
+      "id": "pl42-2",
+      "part": 5,
+      "plate": 42,
+      "num": "2",
+      "fr": "Épitaphe de la petite Seandilla",
+      "ru": "Эпитафия малютки Сеандиллы",
+      "en": "Epitaph of little Seandilla",
+      "page": "266",
+      "group": "XLII",
+      "group_fr": "Planche XLII",
+      "group_en": "XLII",
+      "group_page": "265",
+      "flag": "monument volé après le décès d'Henri de Valois",
+      "type": "tomb",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl42-full.jpg"
+      ],
+      "plate_img": "pl42-full.jpg",
+      "bbox": [
+        64.0,
+        5.0,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Le piédestal sur lequel étoit sculptée l'épitaphe suivante, étoit placé dans un coin du jardin du Roi, dans le temps qu'Henri de Valois, Comte d'Angoulême, Grand-Prieur de France, Lieutenant du Roi en Provence, faisoit son séjour à Marseille, en cette dernière qualité (31). Ce monument fut dérobé après le décès de ce Prince, selon le manuscrit de la Massiliographie. Ruffi & Guesnay citent également ce monument: les trois leçons se trouvent conformes; ce qui doit servir à nous convaincre que les fautes contre la langue latine, dont on va s'appercevoir étoient réellement existantes dans l'épitaphe: D.M. IACET SVB HOC SIGVINVS DVLCISSIMA SEANDILLA QVAE RAPTA PARENTIBVS RELIQVIT DOLOREM VT TAM DVLCIS ERAT TANQVAM AROMATA DESIDERANDO SEMPER MELEARITA QVAE VIXIT ANN. III. MENS. VII. DIEB. XVI.",
+        "SIGVINVS est une faute: il faut lire SIGNINO de Signinus, ouvrage maçonné à chaux & à ciment; ou de Signinum, mortier, ciment. D'après cette observation, je crois pouvoir traduire ainsi. Aux Dieux Manes. Ici repose sous cet ouvrage maçonné à chaux & à ciment, la très-douce Seandilla, qui ayant été enlevée à ses parens par la mort, ne leur laissa que la douleur de sa perte: Elle étoit si douce qu'elle étoit à désirer autant que les aromates toujours mieilleux; elle vécut trois ans sept mois & quinze jours. Cette épitaphe exprime d'une façon bien tendre les regrets que les parens de la jeune Seandilla ressentoient. Ce nom de Seandilla est Gaulois d'origine. DESIDERANDO, est une autre faute: il faut lire DESIDERANDA.",
+        "(31) Sur la fin du 16e siècle."
+      ],
+      "text_ru": [
+        "№ 2. Постамент, на котором была высечена следующая эпитафия, находился в углу королевского сада во времена, когда Генрих Валуа, граф Ангулемский, великий приор Франции, наместник короля в Провансе, пребывал в Марселе именно в этом качестве (31). Согласно рукописи «Массилиографии», этот памятник был похищен после кончины этого государя. Рюффи и Генэ также приводят этот памятник: все три списка совпадают между собой, что должно убедить нас в том, что ошибки против латинского языка, которые сейчас будут замечены, действительно присутствовали в самой эпитафии: D.M. IACET SVB HOC SIGVINVS DVLCISSIMA SEANDILLA QVAE RAPTA PARENTIBVS RELIQVIT DOLOREM VT TAM DVLCIS ERAT TANQVAM AROMATA DESIDERANDO SEMPER MELEARITA QVAE VIXIT ANN. III. MENS. VII. DIEB. XVI.",
+        "SIGVINVS — ошибка: следует читать SIGNINO от Signinus, кладки на извести и цементе, либо от Signinum — раствор, цемент. Исходя из этого замечания, полагаю, что можно перевести так: «Богам манам. Здесь покоится, под этой кладкой на извести и цементе, сладчайшая Сеандилла, которая, будучи похищена смертью у своих родителей, оставила им лишь скорбь утраты: она была так мила, что её желали, как самые изысканные благовония; она прожила три года, семь месяцев и пятнадцать дней». Эта эпитафия с большой нежностью выражает скорбь, которую испытывали родители юной Сеандиллы. Это имя, Seandilla, галльского происхождения. DESIDERANDO — другая ошибка: следует читать DESIDERANDA.",
+        "(31) В конце XVI века."
+      ],
+      "text_en": [
+        "No. 2. The pedestal on which the following epitaph was carved stood in a corner of the King's garden, at the time when Henri de Valois, Count of Angoulême, Grand Prior of France, Lieutenant of the King in Provence, was residing at Marseille in this latter capacity (31). This monument was stolen after this Prince's death, according to the manuscript of the Massiliographie. Ruffi and Guesnay likewise cite this monument: all three readings agree, which should convince us that the errors against the Latin language we are about to notice really existed in the epitaph: D.M. IACET SVB HOC SIGVINVS DVLCISSIMA SEANDILLA QVAE RAPTA PARENTIBVS RELIQVIT DOLOREM VT TAM DVLCIS ERAT TANQVAM AROMATA DESIDERANDO SEMPER MELEARITA QVAE VIXIT ANN. III. MENS. VII. DIEB. XVI.",
+        "SIGVINVS is an error: it should read SIGNINO, from Signinus, masonry work in lime and cement; or from Signinum, mortar, cement. From this observation, I believe I can translate it thus: \"To the Divine Shades. Here rests, beneath this work of lime and cement masonry, the very sweet Seandilla, who, taken from her parents by death, left them only the sorrow of her loss: She was so sweet that she was to be desired as much as ever-improving spices; she lived three years, seven months and fifteen days.\" This epitaph expresses, very tenderly, the grief the young Seandilla's parents felt. This name Seandilla is of Gaulish origin. DESIDERANDO is another error: it should read DESIDERANDA.",
+        "(31) Toward the end of the 16th century."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M IACET SVB HOC SIGVINVS DVLCISSIMA SEANDILLA QVAE RAPTA PARENTIBVS RELIQVIT DOLOREM",
+      "legend_ru": "D M IACET SVB HOC SIGVINVS DVLCISSIMA SEANDILLA QVAE RAPTA PARENTIBVS RELIQVIT DOLOREM",
+      "legend_en": "D M IACET SVB HOC SIGVINVS DVLCISSIMA SEANDILLA QVAE RAPTA PARENTIBVS RELIQVIT DOLOREM",
+      "findspot_fr": "jardin du Roi, Marseille",
+      "findspot_ru": "королевский сад, Марсель",
+      "findspot_en": "the King's garden, Marseille"
+    },
+    {
+      "id": "pl42-3",
+      "part": 5,
+      "plate": 42,
+      "num": "3",
+      "fr": "Inscription grecque pour Titus Porcius Proclus Aelianus (carrière d'un officier romain)",
+      "ru": "Греческая надпись в честь Тита Порция Прокла Элиана (карьера римского офицера)",
+      "en": "Greek inscription for Titus Porcius Proclus Aelianus (a Roman officer's career)",
+      "page": "267",
+      "group": "XLII",
+      "group_fr": "Planche XLII",
+      "group_en": "XLII",
+      "group_page": "265",
+      "flag": "",
+      "type": "object",
+      "material_fr": "pierre de la carrière de Cassis",
+      "material_ru": "камень каменоломни Касси",
+      "material_en": "stone of the Cassis quarry",
+      "img": [
+        "pl42-full.jpg"
+      ],
+      "plate_img": "pl42-full.jpg",
+      "bbox": [
+        34.5,
+        46.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Le piédestal en pierre de la carrière de Cassis désigné par ce numéro, se trouve dans une des caves antiques de l'Abbaye St. Sauveur (32). L'inscription en caractères grecs qui y est sculptée, est cependant en l'honneur d'un Romain, homme de considération, qui avoit été décoré de plusieurs grades & emplois tant civils que militaires, ainsi qu'on peut le remarquer par la traduction suivante: TITO PORCIO PROCLI AELIANI, AMPLISSIMI VIRI ET PROPHETAE FILIO CVSTODI CORONARVM IANI SACERDOTI LEVCOTHEAE TRIBVNO LEGIONIS XV ET PRIMO PRAEFECTO COHORTIS OCTAVAE BATAVORVM PRAEFECTO COHORTIS TERTIAE ALPINAE, PRAEFECTO COHORTIS QVARTAE GALLORVM, PRAEFECTO COHORTIS DARDANORVM, PRAEFECTO EXPLORATORVM GERMANORVM VICARIO DISRVPTIONIS CIRCA VIAM FLAMINIAM, AEMILIAM ET LIGVRIAM VICARIO ET DVCTORI ILLORVM QVI SVNT AD MARE.",
+        "A Titus Porcius, fils de Proclius Aelianus, personnage très-recommandable & prophète (33); Gardien des Couronnes de Janus; Prêtre de Leucothéa (34); Tribun de la quinzième Légion, & premier Préfet de la huitième cohorte des Bataves; Préfet de la troisième cohorte des Alpes; Préfet de la quatrième cohorte des Gaulois; Préfet de la cohorte des Troyens; Préfet des Explorateurs Allemands (35); Vicaire (36) du coupement à faire sur la voie Flaminienne, la voie Aemilienne & la voie Ligurienne; Vicaire & Conducteur des gens de mer [C'est-à-dire, Commandant de ceux qui sont employés au service maritime].",
+        "Cette dernière qualité nous indique la raison pour laquelle cette inscription se trouve placée dans les caves antiques de St. Sauveur. Le Collége des Dendrophores, ainsi que nous le démontre une autre inscription trouvée dans ces caves, étoit situé en ce local (37). Quoi de plus naturel que des Charpentiers constructeurs & marchands de bois pour l'usage de la marine, qui élèvent un monument à leur chef dans le lieu destiné à leur assemblée, ou celui dans lequel ils exerçoient leur profession!",
+        "(32) C'est celle où est placée la sépulture des Religieuses. Cette Légion étoit nommée LEGIO XV Apollinaris, elle avoit son quartier à Satala dans l'Asie mineure. — (33) La qualité de Prophète dans le Paganisme signifioit le premier Prêtre d'un Temple où se rendoient les oracles. — (34) Quelques recherches que j'aie faites pour connoître ce Leucothea je n'ai rien trouvé qui pût m'en donner le plus léger indice: Les peuples de Toul se nommoient Leuci, mais on ne peut appliquer le mot Leucothea, à leur Ville, qui étoit nommée Leucorum Civitas. — (35) Les EXPLORATORES étoient les troupes qui alloient à la découverte. — (36) VICARIVS signifioit un Lieutenant, un homme chargé en second d'un emploi civil quelconque. — (37) Voyez ci-après le fragment d'inscription du No. 21, à l'article des épitaphes, inscriptions & fragmens rapportés par divers Auteurs sans désignation des monumens sur lesquels ils étoient placés."
+      ],
+      "text_ru": [
+        "№ 3. Постамент из камня каменоломни Касси, обозначенный этим номером, находится в одной из античных подвалов аббатства Сен-Соверa (32). Надпись, высеченная на нём греческими буквами, тем не менее выполнена в честь римлянина, человека значительного, удостоенного нескольких гражданских и военных степеней и должностей, как можно заметить из следующего перевода: TITO PORCIO PROCLI AELIANI, AMPLISSIMI VIRI ET PROPHETAE FILIO CVSTODI CORONARVM IANI SACERDOTI LEVCOTHEAE TRIBVNO LEGIONIS XV ET PRIMO PRAEFECTO COHORTIS OCTAVAE BATAVORVM PRAEFECTO COHORTIS TERTIAE ALPINAE, PRAEFECTO COHORTIS QVARTAE GALLORVM, PRAEFECTO COHORTIS DARDANORVM, PRAEFECTO EXPLORATORVM GERMANORVM VICARIO DISRVPTIONIS CIRCA VIAM FLAMINIAM, AEMILIAM ET LIGVRIAM VICARIO ET DVCTORI ILLORVM QVI SVNT AD MARE.",
+        "«Титу Порцию, сыну Прокла Элиана, мужа весьма почтенного и пророка (33); хранителю венцов Януса; жрецу Левкотеи (34); трибуну пятнадцатого легиона и первому префекту восьмой когорты батавов; префекту третьей альпийской когорты; префекту четвёртой галльской когорты; префекту дарданской когорты; префекту германских разведчиков (35); викарию (36) по прокладке дороги вдоль Фламиниевой, Эмилиевой и Лигурийской дорог; викарию и начальнику над теми, кто служит на море [то есть командиру лиц, занятых морской службой]».",
+        "Это последнее звание указывает нам причину, по которой данная надпись помещена в античных подвалах Сен-Соверa. Коллегия дендрофоров, как это доказывает другая надпись, найденная в этих подвалах, находилась именно в этом месте (37). Что может быть естественнее, чем плотники-строители и торговцы лесом для нужд флота, воздвигающие памятник своему начальнику в месте, предназначенном для их собраний, или в том, где они занимались своим ремеслом!",
+        "(32) Это тот подвал, где находится усыпальница монахинь. Этот легион назывался LEGIO XV Apollinaris, его стоянка находилась в Сатале, в Малой Азии. — (33) Звание «пророк» в язычестве означало первого жреца храма, где давались оракулы. — (34) Какие бы изыскания я ни предпринимал, чтобы узнать, кто такая эта Левкотея, я не нашёл ничего, что дало бы мне хотя бы малейшее указание: народ Туля назывался левками (Leuci), но слово Leucothea нельзя отнести к их городу, называвшемуся Leucorum Civitas. — (35) EXPLORATORES — войска, ходившие в разведку. — (36) VICARIVS означало лейтенанта, лицо, заведующее на вторых ролях какой-либо гражданской должностью. — (37) См. далее фрагмент надписи № 21, в разделе эпитафий, надписей и фрагментов, приводимых различными авторами без указания памятников, на которых они были помещены."
+      ],
+      "text_en": [
+        "No. 3. The pedestal of stone from the Cassis quarry marked by this number is found in one of the ancient cellars of the Abbey of St. Sauveur (32). The inscription carved on it in Greek characters is, however, in honor of a Roman, a man of standing, who had been decorated with several ranks and offices, both civil and military, as may be noted from the following translation: TITO PORCIO PROCLI AELIANI, AMPLISSIMI VIRI ET PROPHETAE FILIO CVSTODI CORONARVM IANI SACERDOTI LEVCOTHEAE TRIBVNO LEGIONIS XV ET PRIMO PRAEFECTO COHORTIS OCTAVAE BATAVORVM PRAEFECTO COHORTIS TERTIAE ALPINAE, PRAEFECTO COHORTIS QVARTAE GALLORVM, PRAEFECTO COHORTIS DARDANORVM, PRAEFECTO EXPLORATORVM GERMANORVM VICARIO DISRVPTIONIS CIRCA VIAM FLAMINIAM, AEMILIAM ET LIGVRIAM VICARIO ET DVCTORI ILLORVM QVI SVNT AD MARE.",
+        "\"To Titus Porcius, son of Proclius Aelianus, a most commendable man and prophet (33); Keeper of the Crowns of Janus; Priest of Leucothea (34); Tribune of the fifteenth Legion, and first Prefect of the eighth cohort of the Batavians; Prefect of the third Alpine cohort; Prefect of the fourth Gallic cohort; Prefect of the Trojan cohort; Prefect of the German Scouts (35); Vicar (36) of the road-cutting to be done on the Flaminian Way, the Aemilian Way, and the Ligurian Way; Vicar and Commander of seafaring men [that is, Commander of those employed in maritime service].\"",
+        "This last title indicates to us the reason this inscription is found placed in the ancient cellars of St. Sauveur. The College of the Dendrophores, as another inscription found in these cellars demonstrates to us, was situated at this very place (37). What could be more natural than that Carpenter-builders and timber merchants supplying the navy should raise a monument to their chief in the place set aside for their assembly, or the one in which they practiced their trade!",
+        "(32) This is the one where the burial of the Nuns is placed. This Legion was called LEGIO XV Apollinaris; it had its quarters at Satala in Asia Minor. — (33) The title of Prophet in Paganism meant the chief Priest of a Temple where oracles were delivered. — (34) Whatever research I have done to identify this Leucothea, I have found nothing to give me the slightest clue: the people of Toul were called Leuci, but the word Leucothea cannot be applied to their City, which was named Leucorum Civitas. — (35) The EXPLORATORES were troops sent out on reconnaissance. — (36) VICARIVS meant a Lieutenant, a man in charge, in a secondary capacity, of some civil office. — (37) See below, the inscription fragment no. 21, in the section of epitaphs, inscriptions and fragments reported by various Authors without indication of the monuments on which they were placed."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "ΤΠΟΡΚΙΩΠΡΟΚΛΟΥ ΑΙΛΙΑΝΟΥ ΕΞΟΧΩΤΑΤΟΥ ΑΝΔΡΟΣ ΚΑΙ ΠΡΟΦΗΤΟΥ",
+      "legend_ru": "ΤΠΟΡΚΙΩΠΡΟΚΛΟΥ ΑΙΛΙΑΝΟΥ ΕΞΟΧΩΤΑΤΟΥ ΑΝΔΡΟΣ ΚΑΙ ΠΡΟΦΗΤΟΥ",
+      "legend_en": "ΤΠΟΡΚΙΩΠΡΟΚΛΟΥ ΑΙΛΙΑΝΟΥ ΕΞΟΧΩΤΑΤΟΥ ΑΝΔΡΟΣ ΚΑΙ ΠΡΟΦΗΤΟΥ",
+      "findspot_fr": "caves antiques de l'abbaye Saint-Sauveur",
+      "findspot_ru": "античные подвалы аббатства Сен-Совёр",
+      "findspot_en": "the ancient cellars of the Abbey of Saint-Sauveur"
     }
   ]
 }
