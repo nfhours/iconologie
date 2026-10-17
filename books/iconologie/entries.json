@@ -15250,12 +15250,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-155.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Лев на цепочке",
+          "meaning": "избыток горячности и страстности",
+          "what_en": "Lion on a chain",
+          "meaning_en": "excess of passion and vehemence"
+        },
+        {
+          "what": "Ягнёнок",
+          "meaning": "избыток кротости и терпения",
+          "what_en": "Lamb",
+          "meaning_en": "excess of meekness and patience"
+        },
+        {
+          "what": "Надпись MEDIO TVTISSIMVS IBIS",
+          "meaning": "золотая середина — самый надёжный путь",
+          "what_en": "Inscription MEDIO TVTISSIMVS IBIS",
+          "meaning_en": "the middle way is the safest path"
+        }
+      ],
+      "text_ru": [
+        "Она изображена в образе статной дамы, которая одной рукой держит льва на цепочке, а другой — ягнёнка, со словами MEDIO TVTISSIMVS IBIS («ПО СРЕДИНЕ ТЫ ПОЙДЁШЬ НАДЁЖНЕЕ ВСЕГО»). Этими двумя крайностями она являет чрезмерную горячность и чрезмерное терпение, держась середины",
+        "между Кротостью и Силой. И эта середина есть не что иное, как Умеренность, к которой мы должны направлять все наши действия, если хотим, чтобы они были надёжны и свободны от опасности, ибо верно, как говорит Поэт: «Лучший путь — тот, что посредине»."
+      ],
+      "text_fr": [
+        "Elle est figurée par vne dame de bonne mine, qui d'vne main tient vn lion attaché à vne chaînette, & de l'autre vn agneau, avec ces mots, MEDIO TVTISSIMVS IBIS. Par ces deux extremitez elle fait voir de trop grands ressentimens, & vne trop grande patience aussi, tenant vn milieu",
+        "entre la Douceur & la Force. Or est-il que ce milieu n'est autre chose que la Mediocrité, à laquelle nous devons adresser toutes nos actions, si nous voulons qu'elles soient assurées & hors de danger, puisqu'il est vray, comme dit le Poëte, Que le meilleur chemin est celuy du milieu."
+      ],
       "en": "The Golden Mean",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-155-1.jpg",
+        "p2-155-2.jpg"
+      ]
     },
     {
       "id": "p2-156",
@@ -15268,12 +15299,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-156.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Голова, заключённая в стеклянный сосуд",
+          "meaning": "хрупкость и прозрачность земных вещей, не ограничивающих помыслы",
+          "what_en": "Head enclosed in a large glass vessel",
+          "meaning_en": "the fragility and transparency of worldly things, which never limit our thoughts"
+        },
+        {
+          "what": "Опрокинутый кошель с рассыпающимися монетами",
+          "meaning": "богатство, которое не приносит счастья и не удерживается после смерти",
+          "what_en": "Overturned purse spilling coins",
+          "meaning_en": "wealth that brings no true happiness and cannot be kept after death"
+        }
+      ],
+      "text_ru": [
+        "Эмблема человеческих Бедствий — женщина, чья голова как бы заключена в большой стеклянный сосуд, и которая правой рукой держит опрокинутый кошель, из которого вперемешку сыплются драгоценности, золотые и серебряные монеты. Стекло являет хрупкость земных вещей; а поскольку оно прозрачно, оно не ограничивает взор смотрящего сквозь него: так и здешние богатства никогда не ставят предела нашим помыслам, пока смерть не остановит их движение. Что же до золота и серебра, которые эта женщина рассыпает по земле, это показано для того, чтобы явить, что, хотя богатые кажутся счастливыми, они всё же не перестают быть несчастными, ибо не уносят с собой своих сокровищ, и, переставая жить, должны также перестать ими обладать."
+      ],
+      "text_fr": [
+        "Les Miseres humaines ont pour embleme vne femme qui a la teste comme enchassée dans vn grand verre, & qui tient de la main droite vne bourse renversée, d'où s'épandent pesle-mesle des joyaux, avec des pieces d'or & d'argent. Le verre démontre la fragilité des choses du monde; & que comme pour estre diaphane, il ne borne point la vûë de celuy qui le regarde: ainsi les richesses d'icy bas ne font jamais mettre des limites à nos pensées, jusques à ce que la mort en arreste le mouvement. Quant à l'or & à l'argent que cette femme verse par terre, c'est pour montrer qu'encore que les riches semblent heureux, ils ne laissent pas toutefois d'estre miserables, puisqu'ils n'emportent pas leurs tresors, & que cessans de vivre, il faut qu'ils cessent aussi de les posseder."
+      ],
       "en": "Misery of the World",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-156-1.jpg",
+        "p2-156-2.jpg"
+      ]
     },
     {
       "id": "p2-157",
@@ -15286,12 +15340,51 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-157.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Череп, на который она смотрит",
+          "meaning": "напоминание о смертном часе (memento mori)",
+          "what_en": "Skull at which she gazes",
+          "meaning_en": "a reminder of the hour of death (memento mori)"
+        },
+        {
+          "what": "Гробница, на которой она сидит",
+          "meaning": "размышление о бренности жизни",
+          "what_en": "Tomb on which she sits",
+          "meaning_en": "meditation on the transience of life"
+        },
+        {
+          "what": "Траурное одеяние",
+          "meaning": "скорбь перед лицом смерти",
+          "what_en": "Mourning garments",
+          "meaning_en": "grief in the face of death"
+        },
+        {
+          "what": "Свиток с надписью O MORS, QVAM AMARA EST MEMORIA TVA",
+          "meaning": "горечь памяти о смерти",
+          "what_en": "Scroll inscribed O MORS, QVAM AMARA EST MEMORIA TVA",
+          "meaning_en": "the bitterness of the memory of death"
+        }
+      ],
+      "text_ru": [
+        "Этот мрачный образ, как мне кажется, довольно хорошо являет Размышление об этом последнем часе — в облике женщины, облачённой в траур и сидящей на гробнице, где она пристально смотрит на череп; а вокруг неё — свиток с надписью O MORS, QVAM AMARA EST MEMORIA TVA («О СМЕРТЬ, СКОЛЬ ГОРЬКА ПАМЯТЬ О ТЕБЕ!»).",
+        "О Смерть, сколь горька память о имени твоём!",
+        "Это довольно подтверждается тем отвращением, которое живые существа питают к ней от природы."
+      ],
+      "text_fr": [
+        "Ce tableau funeste represente assez bien, ce me semble, la Meditation de cette derniere fin par vne femme vêtuë de dueil, & assise sur vn tombeau, où elle regarde fixement vne teste de mort; & tout à l'entour d'elle est vn écriteau, avec ces mots, O MORS, QVAM AMARA EST MEMORIA TVA.",
+        "O Mort, que de ton nom la memoire est amere!",
+        "Ce qui se verifie assez par l'aversion qu'ont naturellement pour elle les creatures vivantes."
+      ],
       "en": "Meditation on Death",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-157-1.jpg",
+        "p2-157-2.jpg"
+      ]
     },
     {
       "id": "p2-158",
@@ -15304,12 +15397,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-158.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Коленопреклонение на кресте",
+          "meaning": "благочестивое усердие в молитве",
+          "what_en": "Kneeling upon a cross",
+          "meaning_en": "devout zeal in prayer"
+        },
+        {
+          "what": "Сложенные руки и взгляд к небу",
+          "meaning": "созерцательная жизнь, обращённая к Богу",
+          "what_en": "Joined hands and eyes turned to heaven",
+          "meaning_en": "the contemplative life turned toward God"
+        },
+        {
+          "what": "Свиток с надписью SITIVIT ANIMA MEA AD DEVM FONTEM VIVVM",
+          "meaning": "душа жаждет Бога как источника живого",
+          "what_en": "Scroll inscribed SITIVIT ANIMA MEA AD DEVM FONTEM VIVVM",
+          "meaning_en": "the soul thirsts for God, the living fountain"
+        }
+      ],
+      "text_ru": [
+        "Этот образ, кажется, говорит сам за себя; благочестивая девушка, преклонившая колени на кресте, со сложенными руками и глазами, обращёнными к Небу, являет пыл своего усердия и своего Размышления, говоря: SITIVIT ANIMA MEA AD DEVM FONTEM VIVVM («ВОЗЖАЖДАЛА ДУША МОЯ БОГА, ИСТОЧНИКА ЖИВОГО»). Этим она показывает, что для пребывания в созерцательной жизни лучше всего обращаться к своему Создателю, который есть неисчерпаемый источник благ и милостей."
+      ],
+      "text_fr": [
+        "Cette figure semble parler d'elle-mesme; & par vne fille devote qui se tient à genoux sur vne croix, ayant les mains jointes, & les yeux tournez au Ciel, elle témoigne l'ardeur de son zele & de sa Meditation, en disant, SITIVIT ANIMA MEA AD DEVM FONTEM VIVVM. Par où elle montre que pour s'entretenir dans la vie contemplative elle ne peut mieux s'adresser qu'à son Createur, qui est vne source inépuisable de biens & de graces."
+      ],
       "en": "Spiritual Meditation",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-158-1.jpg",
+        "p2-158-2.jpg"
+      ]
     },
     {
       "id": "p2-159",
