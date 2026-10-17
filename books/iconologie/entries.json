@@ -16008,12 +16008,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-171.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Три щита, на которых она восседает",
+          "meaning": "военная мощь, на которой зиждется власть Рима",
+          "what_en": "Three shields on which she sits",
+          "meaning_en": "the military might on which Rome's power rests"
+        },
+        {
+          "what": "Копьё в левой руке",
+          "meaning": "военная доблесть",
+          "what_en": "Spear in her left hand",
+          "meaning_en": "martial valour"
+        },
+        {
+          "what": "Крылатая Победа с пальмовой ветвью, венчающая город лавром",
+          "meaning": "триумф и слава Рима над всеми народами",
+          "what_en": "Winged Victory with a palm, crowning the city with laurel",
+          "meaning_en": "Rome's triumph and glory over all nations"
+        }
+      ],
+      "text_ru": [
+        "Она представлена на древних медалях сидящей на трёх щитах, с копьём в левой руке; а позади неё видна крылатая Победа, держащая пальмовую ветвь и увенчивающая лавром этот величественный город, Царицу всех прочих: ибо достаточно прочесть историю,",
+        "дабы увидеть добычу и трофеи, которые он одержал над всеми народами земли своими памятными ратными подвигами."
+      ],
+      "text_fr": [
+        "Elle est representée dans les anciennes medailles assise sur trois boucliers, avec vne lance à la main gauche; & derriere elle se voit vne Victoire aislée, tenant vne palme, & qui couronne de laurier cette superbe ville, Reine de toutes les autres: car il ne faut que lire l'histoire",
+        "pour voir les dépouilles & les trophées qu'elle a remportez sur tous les peuples de la terre par ses memorables faits d'armes."
+      ],
       "en": "Victorious Rome",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-171-1.jpg",
+        "p2-171-2.jpg"
+      ]
     },
     {
       "id": "p2-172",
@@ -16026,12 +16057,49 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-172.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Пурпурное, шитое золотом одеяние",
+          "meaning": "величие и достоинство Святого Рима",
+          "what_en": "Purple robe embroidered with gold",
+          "meaning_en": "the majesty and dignity of Holy Rome"
+        },
+        {
+          "what": "Нашлемник в виде знака имени Христова",
+          "meaning": "освящение Рима императором Константином через священное имя Христа",
+          "what_en": "Crest bearing the sign of the name of Christ",
+          "meaning_en": "Rome's sanctification by the Emperor Constantine through the sacred name of Christ"
+        },
+        {
+          "what": "Копьё в форме креста, упирающееся в дракона",
+          "meaning": "победа над врагом веры и идолопоклонством",
+          "what_en": "Cross-shaped spear set against a dragon",
+          "meaning_en": "victory over the enemy of the faith and over idolatry"
+        },
+        {
+          "what": "Два скрещённых ключа и тройная корона на щите",
+          "meaning": "Папское достоинство, почитаемое всей землёй",
+          "what_en": "Two crossed keys and the triple crown on her shield",
+          "meaning_en": "the Papal dignity, revered by the whole earth"
+        }
+      ],
+      "text_ru": [
+        "Вы видите её здесь стоящей, в пурпурном, шитом золотом одеянии поверх доспехов. На своём шлеме она носит в качестве нашлемника некий знак, держа в правой руке копьё, имеющее вверху форму креста, где посередине овала, украшенного жемчугом, виден упомянутый знак; а в левой руке она держит щит и два скрещённых ключа, один золотой, другой серебряный, с тройной короной, упирая острие своего копья в дракона. Нашлемник означает имя ХРИСТОВО, которое обычно носил на своём головном уборе великий и победоносный Константин, первый Император, который этим священным именем и знаменем Креста освятил город Рим. Ибо именно так, и только так, он одолел жестокого врага и покорил идолопоклонство.",
+        "Что же до герба, видимого на её щите, достаточно знать, что это славные знаки Папского достоинства, почитаемого по всей земле."
+      ],
+      "text_fr": [
+        "Vous la voyez icy debout, ayant au dessous de ses armes vne robe de pourpre brochée d'or. Elle porte pour cimier sur son heaume vn caractere, tenant en la main droite vne lance en forme de croix par le haut, où se voit au milieu d'vne ovale garnie de perles, le caractere susdit; & de la gauche elle porte vn bouclier & deux clefs croisées, l'vne d'or, & l'autre d'argent, avec la triple couronne, appuyant la pointe de sa lance sur vn dragon. Le cimier denote le nom de CHRIST, que portoit ordinairement sur son habillement de teste le grand & victorieux Constantin, premier Empereur, qui par ce sacré nom, & par l'étendart de la Croix sanctifia la Ville de Rome. Aussi ce fut par là seulement qu'il vint à bout d'vn cruel ennemy, & qu'il subjugua l'idolatrie.",
+        "Quant aux armes qui se voyent sur son bouclier, il suffit de sçavoir qu'elles sont les glorieuses marques de la dignité Pontificale, qui est reverée de toute la terre."
+      ],
       "en": "Holy Rome",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-172-1.jpg",
+        "p2-172-2.jpg"
+      ]
     },
     {
       "id": "p2-173",
@@ -16044,12 +16112,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-173.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Белое одеяние",
+          "meaning": "чистота без примеси, простота",
+          "what_en": "White garment",
+          "meaning_en": "unmixed purity, simplicity"
+        },
+        {
+          "what": "Голубь в правой руке",
+          "meaning": "библейский символ Простоты",
+          "what_en": "Dove in her right hand",
+          "meaning_en": "the biblical symbol of Simplicity"
+        },
+        {
+          "what": "Фазан в левой руке",
+          "meaning": "простодушие, воображающее себя скрытым, если скрыта голова",
+          "what_en": "Pheasant in her left hand",
+          "meaning_en": "artlessness, which imagines itself hidden when its head is concealed"
+        }
+      ],
+      "text_ru": [
+        "Её изображают в виде юной девушки, облачённой в белое, держащей в правой руке голубя, а в левой — фазана, с окружающими словами: «Научи меня творить волю Твою, ибо Ты Бог мой». Её одевают в белое, поскольку этот цвет не имеет примеси и является самым простым из всех. В Священном Писании голубь — символ Простоты; то же можно сказать и о фазане, который, по мнению некоторых авторов, воображает, что его не видят, когда он прячет голову."
+      ],
+      "text_fr": [
+        "On la represente en jeune fille vestuë de blanc, tenant de la main droite vne colombe, & de la gauche vn fésan, avec ces mots à l'entour, Doce me facere voluntatem tuam, quia Deus meus es tu. On l'habille de blanc, parce que cette couleur est sans mélange, & la plus simple de toutes. Dans la sainte Ecriture la colombe est le symbole de la Simplicité; ce que l'on peut dire encore du fésan, qui selon quelques autheurs s'imagine qu'on ne le voit point quand il se cache la teste."
+      ],
       "en": "Simplicity",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-173-1.jpg",
+        "p2-173-2.jpg"
+      ]
     },
     {
       "id": "p2-174",
@@ -16062,12 +16159,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-174.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Сияющее солнце на груди",
+          "meaning": "целостность и чистота души",
+          "what_en": "Radiant sun upon her breast",
+          "meaning_en": "the integrity and purity of her soul"
+        },
+        {
+          "what": "Кормление белого цыплёнка",
+          "meaning": "невинные и чистые удовольствия",
+          "what_en": "Feeding a white chick",
+          "meaning_en": "innocent and wholly pure pleasures"
+        },
+        {
+          "what": "Лилия в левой руке",
+          "meaning": "чистота души",
+          "what_en": "Lily in her left hand",
+          "meaning_en": "purity of soul"
+        },
+        {
+          "what": "Свиток ET SPIRITVM RECTVM INNOVA IN VISCERIBVS MEIS",
+          "meaning": "мольба об обновлении правого духа",
+          "what_en": "Scroll inscribed ET SPIRITVM RECTVM INNOVA IN VISCERIBVS MEIS",
+          "meaning_en": "a plea for the renewal of a right spirit within"
+        }
+      ],
+      "text_ru": [
+        "Её эмблема — юная девушка, на груди которой сияет Солнце, знак целостности её души. А чтобы засвидетельствовать, что её удовольствия невинны и совершенно чисты, она изображена кормящей белого цыплёнка и держащей лилию в левой руке, со словами ET SPIRITVM RECTVM INNOVA IN VISCERIBVS MEIS («И ДУХ ПРАВЫЙ ОБНОВИ ВО ВНУТРЕННОСТИ МОЕЙ»)."
+      ],
+      "text_fr": [
+        "Elle a pour embléme vne jeune fille, sur le sein de laquelle éclate vn Soleil, marque de l'integrité de son ame. Aussi pour témoigner qu'elle n'a point de plaisirs qui ne soient innocens & tous purs, elle est representée donnant à manger à vn poulet blanc, & tenant vn lis de la main gauche, avec ces mots, ET SPIRITVM RECTVM INNOVA IN VISCERIBVS MEIS."
+      ],
       "en": "Sincerity of Soul",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-174-1.jpg",
+        "p2-174-2.jpg"
+      ]
     },
     {
       "id": "p2-175",
