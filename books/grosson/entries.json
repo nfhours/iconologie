@@ -8121,6 +8121,807 @@
       "findspot_fr": "place de l'Église de Saint-Victor",
       "findspot_ru": "площадь церкви Сен-Виктора",
       "findspot_en": "the square before the Church of Saint-Victor"
+    },
+    {
+      "id": "pl29-1",
+      "part": 3,
+      "plate": 29,
+      "num": "1",
+      "fr": "Lampe en terre cuite à l'âne accroupi",
+      "ru": "Терракотовая лампа с сидящим ослом",
+      "en": "Terra-cotta lamp with a crouching donkey",
+      "page": "185",
+      "group": "XXIX",
+      "group_fr": "Planche XXIX",
+      "group_en": "XXIX",
+      "group_page": "185",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl29-full.jpg"
+      ],
+      "plate_img": "pl29-full.jpg",
+      "bbox": [
+        4.0,
+        3.0,
+        44.0,
+        24.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LA Lampe gravée sous le No. 1. est en terre cuite: elle est remarquable par ses ornemens, & sur-tout par la figure d'un âne accroupi qui est représenté sur le milieu. Je crois inutile de chercher l'explication de cet emblême ailleurs que dans le caprice de l'artiste. Cette lampe a été trouvée dans les terrains occupés par l'Arcenal."
+      ],
+      "text_ru": [
+        "Лампа, гравированная под № 1, выполнена из обожжённой глины: она примечательна своими украшениями и особенно фигурой сидящего на корточках осла, изображённого посередине. Полагаю излишним искать объяснение этой эмблемы где-либо, кроме как в прихоти художника. Эта лампа была найдена на землях, занятых Арсеналом."
+      ],
+      "text_en": [
+        "The lamp engraved under no. 1 is of terra cotta: it is notable for its ornament, and above all for the figure of a crouching donkey shown at its center. I think it needless to seek the explanation of this emblem anywhere but in the artist's fancy. This lamp was found on the grounds occupied by the Arsenal."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "terrains de l'Arsenal",
+      "findspot_ru": "земли Арсенала",
+      "findspot_en": "the grounds of the Arsenal"
+    },
+    {
+      "id": "pl29-2",
+      "part": 3,
+      "plate": 29,
+      "num": "2",
+      "fr": "Lampe en terre cuite de forme courante",
+      "ru": "Терракотовая лампа обычной формы",
+      "en": "Terra-cotta lamp of an ordinary form",
+      "page": "185",
+      "group": "XXIX",
+      "group_fr": "Planche XXIX",
+      "group_en": "XXIX",
+      "group_page": "185",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl29-full.jpg"
+      ],
+      "plate_img": "pl29-full.jpg",
+      "bbox": [
+        50.0,
+        3.0,
+        46.0,
+        24.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Lampe trouvée dans les mêmes terrains: elle est en terre cuite, & de la forme la plus ordinaire à celles trouvées dans Marseille. Ces deux morceaux étoient au pouvoir de Mr. Olivier, de l'Académie."
+      ],
+      "text_ru": [
+        "№ 2. Лампа, найденная на тех же землях: она из обожжённой глины и той формы, что наиболее обычна для найденных в Марселе. Оба эти предмета находились во владении г-на Оливье, члена Академии."
+      ],
+      "text_en": [
+        "No. 2. Lamp found on the same grounds: it is of terra cotta, and of the most common form among those found at Marseille. Both these pieces were in the possession of M. Olivier, of the Academy."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "terrains de l'Arsenal",
+      "findspot_ru": "земли Арсенала",
+      "findspot_en": "the grounds of the Arsenal"
+    },
+    {
+      "id": "pl29-3",
+      "part": 3,
+      "plate": 29,
+      "num": "3",
+      "fr": "Lampe grecque inscrite ANIΣΣEN (nom du potier)",
+      "ru": "Греческая лампа с надписью ANIΣΣEN (имя гончара)",
+      "en": "Greek lamp inscribed ANIΣΣEN (the potter's name)",
+      "page": "186",
+      "group": "XXIX",
+      "group_fr": "Planche XXIX",
+      "group_en": "XXIX",
+      "group_page": "185",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl29-full.jpg"
+      ],
+      "plate_img": "pl29-full.jpg",
+      "bbox": [
+        16.0,
+        28.0,
+        66.0,
+        26.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Lampe trouvée de nos jours avec plusieurs autres monumens tirés des tombeaux découverts dans la propriété de Madame Corail, sous le glacis de la Citadelle St. Nicolas: elle est unie, & n'a rien de remarquable dans sa partie supérieure; le dessous au contraire présente une singularité qui m'a engagé à la faire graver: dans ce sens, il renferme sous le pied les caractères suivans ANIΣΣEN; ce qui me paroît être le nom de l'ouvrier. Cette lampe est des temps grecs, ainsi qu'on peut le remarquer par les deux Sigma, & par le mot ANIΣΣEN qui est Grec."
+      ],
+      "text_ru": [
+        "№ 3. Лампа, найденная в наши дни вместе с несколькими другими памятниками, извлечёнными из гробниц, обнаруженных на землях г-жи Кораль, под гласисом цитадели Сен-Николя: она гладкая и не имеет ничего примечательного в своей верхней части; дно же, напротив, являет особенность, побудившую меня гравировать его: в этом смысле на нём, под основанием, помещены следующие знаки ANIΣΣEN, что, как мне представляется, является именем мастера. Эта лампа относится к греческим временам, что можно заметить по двум сигмам и по самому слову ANIΣΣEN, которое является греческим."
+      ],
+      "text_en": [
+        "No. 3. Lamp found in our own time together with several other pieces taken from tombs discovered on the property of Madame Corail, beneath the glacis of the Citadel of St. Nicolas: it is plain, with nothing remarkable on its upper part; the underside, by contrast, presents a peculiarity that led me to have it engraved: in that sense, it bears under the foot the following characters, ANIΣΣEN, which seems to me to be the maker's name. This lamp dates from Greek times, as may be noted from the two Sigmas, and from the word ANIΣΣEN itself, which is Greek."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "ΑΝΙΣΣΕΝ",
+      "legend_ru": "ΑΝΙΣΣΕΝ",
+      "legend_en": "ΑΝΙΣΣΕΝ",
+      "findspot_fr": "propriété de Mme Corail, sous le glacis de la Citadelle St. Nicolas",
+      "findspot_ru": "владение г-жи Кораль, под гласисом цитадели Сен-Николя",
+      "findspot_en": "the property of Mme Corail, beneath the glacis of the Citadel of St. Nicolas"
+    },
+    {
+      "id": "pl29-4",
+      "part": 3,
+      "plate": 29,
+      "num": "4",
+      "fr": "Lampe en terre cuite au lion (publiée par Caylus, attribuée à tort aux Étrusques)",
+      "ru": "Терракотовая лампа со львом (опубликована Кайлюсом, ошибочно приписана этрускам)",
+      "en": "Terra-cotta lamp with a lion (published by Caylus, wrongly attributed to the Etruscans)",
+      "page": "186",
+      "group": "XXIX",
+      "group_fr": "Planche XXIX",
+      "group_en": "XXIX",
+      "group_page": "185",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl29-full.jpg"
+      ],
+      "plate_img": "pl29-full.jpg",
+      "bbox": [
+        4.0,
+        56.0,
+        44.0,
+        24.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4. Cette lampe de terre cuite trouvée dans Marseille, au quartier des Tanneries, fut d'abord au pouvoir de Mr. Barral, un de nos concitoyens, dont le goût & les connoissances ne lui laissoient négliger aucun objet d'instruction; l'amitié qui nous lioit l'engagea à se défaire de ce monument en ma faveur; je l'ai eu long-temps dans mon Cabinet.",
+        "Mr. Calvet, premier Professeur de Medecine à Avignon, de l'Académie des Inscriptions, l'ayant vu, ainsi que plusieurs autres monumens, qui fixerent son attention, en rendit compte à Mr. le Comte de Caylus son ami. Ce Sçavant qui m'honoroit de sa correspondance, ayant jugé plusieurs morceaux de mon Cabinet, dignes de tenir place dans son Recueil d'Antiquités, je crus devoir les lui offrir. La lampe que je décris y est en effet inférée dans la XXVII. Planche, au tome 6. sous le No. 4. Mr. de Caylus fait l'éloge des belles patries que renferme ce morceau; mais il l'attribue aux Étrusques. J'avois négligé de lui en donner l'historique; & il jugea probablement sur la qualité de la terre cuite, qui est totalement ressemblante à celle dont les vases étrusques sont fabriqués; mais je puis assurer que ce morceau a été trouvé à Marseille: Mr. Barral le tenoit du possesseur du terrain dans lequel il fut trouvé. Le lion étoit l'emblême des Marseillois. Quoi de plus naturel que les ouvriers & les marchands, qui vendoient des lampes dans Marseille, fissent placer cet emblême pour ornement.",
+        "Le doute qu'il pourroit y avoir sur la qualité de la terre s'évanouit, si l'on daigne considérer la quantité d'anciennes briques & d'ouvrages de poterie en terre de la même qualité, trouvés dans Marseille. Les mines de terre glaise dont on les fabriquoit, existent encore au quartier de Séon. C'est de là, ainsi que du Village de St. Zacharie, qu'on tire la matière propre à faire les briques de carrelage si connus sous le nom de moëlons de toumette. Cette digression paroîtra peut-être trop longue, ne s'agissant que d'une lampe; mais on doit pardonner au zèle que j'ai eu de restituer à la Patrie, un morceau qui a mérité les éloges d'un savant connoisseur, tel que Mr. de Caylus."
+      ],
+      "text_ru": [
+        "№ 4. Эта терракотовая лампа, найденная в Марселе, в квартале Кожевников (Tanneries), первоначально находилась во владении г-на Барраля, одного из наших сограждан, чей вкус и познания не позволяли ему пренебречь ни одним поучительным предметом; связывавшая нас дружба побудила его уступить мне этот памятник; долгое время он хранился в моём кабинете.",
+        "Г-н Кальве, первый профессор медицины в Авиньоне, член Академии надписей, увидев её, равно как и несколько других памятников, привлёкших его внимание, сообщил о ней своему другу, графу де Кайлюсу. Этот учёный, удостаивавший меня своей перепиской, сочтя несколько предметов моего кабинета достойными занять место в его «Собрании древностей», я счёл нужным предложить их ему. Описываемая мною лампа действительно включена туда, в XXVII таблицу, в 6-м томе, под № 4. Г-н де Кайлюс восхваляет прекрасные черты, заключённые в этом предмете; но приписывает его этрускам. Я не позаботился сообщить ему его историю; и он, вероятно, судил по качеству обожжённой глины, совершенно схожей с той, из которой изготовлены этрусские сосуды; но я могу удостоверить, что этот предмет был найден в Марселе: г-н Барраль получил его от владельца участка, на котором он был найден. Лев был эмблемой марсельцев. Что может быть естественнее того, что ремесленники и торговцы, продававшие лампы в Марселе, помещали эту эмблему в качестве украшения?",
+        "Сомнение, какое могло бы возникнуть относительно качества глины, рассеивается, если соблаговолить принять во внимание количество древних кирпичей и гончарных изделий из глины того же качества, найденных в Марселе. Залежи глины, из которой их изготавливали, до сих пор существуют в квартале Сеон. Именно оттуда, равно как и из селения Сен-Закари, добывают материал, пригодный для изготовления половых кирпичей, столь известных под названием «мёлон де тумет». Это отступление, возможно, покажется слишком длинным для предмета, касающегося всего лишь одной лампы; но следует простить усердие, с каким я стремился вернуть отечеству предмет, заслуживший похвалы такого учёного знатока, как г-н де Кайлюс."
+      ],
+      "text_en": [
+        "No. 4. This terra-cotta lamp, found at Marseille in the Tanneries quarter, was first in the possession of M. Barral, one of our fellow-citizens, whose taste and learning let him neglect no object of instruction; the friendship between us led him to give up this piece in my favor; I kept it for a long time in my Cabinet.",
+        "M. Calvet, first Professor of Medicine at Avignon, of the Academy of Inscriptions, having seen it, along with several other pieces that caught his attention, reported it to his friend M. le Comte de Caylus. This Scholar, who honored me with his correspondence, having judged several pieces from my Cabinet worthy of a place in his Recueil d'Antiquités, I felt I should offer them to him. The lamp I describe is indeed included there, in Plate XXVII, volume 6, under no. 4. M. de Caylus praises the fine qualities this piece contains, but attributes it to the Etruscans. I had neglected to give him its history, and he probably judged by the quality of the terra cotta, which entirely resembles that of which Etruscan vases are made; but I can affirm that this piece was found at Marseille: M. Barral had it from the owner of the land where it was found. The lion was the emblem of the people of Marseille. What could be more natural than that the workmen and merchants who sold lamps at Marseille should have this emblem placed as an ornament?",
+        "Any doubt there might be about the quality of the clay vanishes if one considers the quantity of ancient bricks and earthenware of the same quality found at Marseille. The clay pits from which they were made still exist in the Séon quarter. It is from there, as well as from the village of St. Zacharie, that the material suited to making the floor-tiles known as moëlons de toumette is drawn. This digression may seem too long for something concerning only a lamp; but one must forgive the zeal I have shown in restoring to the Fatherland a piece that earned the praise of so learned a connoisseur as M. de Caylus."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "quartier des Tanneries, Marseille",
+      "findspot_ru": "квартал Кожевников, Марсель",
+      "findspot_en": "the Tanneries quarter, Marseille"
+    },
+    {
+      "id": "pl29-5",
+      "part": 3,
+      "plate": 29,
+      "num": "5",
+      "fr": "Lampe chrétienne au chrisme (monogramme pro Christo)",
+      "ru": "Христианская лампа с хризмой (монограмма pro Christo)",
+      "en": "Christian lamp with the chi-rho (pro Christo monogram)",
+      "page": "187",
+      "group": "XXIX",
+      "group_fr": "Planche XXIX",
+      "group_en": "XXIX",
+      "group_page": "185",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl29-full.jpg"
+      ],
+      "plate_img": "pl29-full.jpg",
+      "bbox": [
+        62.0,
+        56.0,
+        36.0,
+        30.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 5. Lampe en terre cuite trouvée au quartier de Paradis; elle est en tout semblable à nombre de pareilles lampes trouvées à Marseille, dans les divers endroits destinés à la sépulture; elles ne différoient que par les proportions; ces lampes sont des premiers siècles de l'Eglise, dans lequel temps, les Fidèles avoient substitué le signe de notre salut aux emblêmes payens, en faisant poser la Croix ou le Labarrum de Constantin sur les objets d'usage parmi eux. Ce monograme qui signifie pro Christo, étoit bien propre à leur rappeller que toutes leurs actions devoient se rapporter à la Divinité."
+      ],
+      "text_ru": [
+        "№ 5. Терракотовая лампа, найденная в квартале Paradis; она во всём схожа со множеством подобных ламп, найденных в Марселе, в различных местах, предназначенных для погребения; они отличались лишь пропорциями; эти лампы относятся к первым векам Церкви, когда верующие заменили языческие эмблемы знаком нашего спасения, помещая крест или лабарум Константина на предметы обихода. Эта монограмма, означающая pro Christo («за Христа»), как нельзя лучше напоминала им, что все их действия должны быть обращены к Божеству."
+      ],
+      "text_en": [
+        "No. 5. Terra-cotta lamp found in the Paradis quarter; it is entirely similar to a number of such lamps found at Marseille, in various places set aside for burial; they differed only in proportions; these lamps date from the first centuries of the Church, a time when the Faithful had replaced pagan emblems with the sign of our salvation, placing the Cross or Constantine's Labarum on objects of everyday use among them. This monogram, meaning pro Christo, served well to remind them that all their actions ought to be referred to the Divinity."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "quartier de Paradis",
+      "findspot_ru": "квартал Paradis",
+      "findspot_en": "the Paradis quarter"
+    },
+    {
+      "id": "pl29-6",
+      "part": 3,
+      "plate": 29,
+      "num": "6",
+      "fr": "Lampe en bronze à trois becs, trouvée dans l'ancienne Juiverie",
+      "ru": "Бронзовая трёхрожковая лампа, найденная в старом еврейском квартале",
+      "en": "Three-wick bronze lamp, found in the old Jewish quarter",
+      "page": "188",
+      "group": "XXIX",
+      "group_fr": "Planche XXIX",
+      "group_en": "XXIX",
+      "group_page": "185",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl29-full.jpg"
+      ],
+      "plate_img": "pl29-full.jpg",
+      "bbox": [
+        30.0,
+        80.0,
+        36.0,
+        19.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 6. Cette dernière lampe en bronze, fut trouvée avec une autre pareille, dans une des rues traversières derrière les Dominicains, près d'une maison appartenante à Mr. de Granier, à l'endroit où avoit été la Juiverie, ou un des quartiers habité par les Juifs, lorsqu'ils avoient des établissemens à Marseille. Ces lampes étoient entre les mains du sieur Fréjus, Chanoine de cette Ville. C'est d'après le dessein pris dans son cabinet, par le sieur Nicolas Peintre, que j'ai fait exécuter la gravure. Ces lampes avoient trois lumignons, & deux petites brochettes, qui servoient à les tenir en équilibre, & à les suspendre. Leur forme est aussi simple que commode."
+      ],
+      "text_ru": [
+        "№ 6. Эта последняя лампа, бронзовая, была найдена вместе с другой подобной, на одной из поперечных улиц позади доминиканцев, близ дома, принадлежащего г-ну де Гранье, на месте, где некогда находился еврейский квартал, или один из кварталов, населённых евреями, когда у них были поселения в Марселе. Эти лампы находились в руках г-на Фрежюса, каноника этого города. Именно по рисунку, сделанному в его кабинете художником Николя, я велел исполнить гравюру. Эти лампы имели три фитиля и две небольшие цепочки, служившие для их равновесия и подвешивания. Их форма столь же проста, сколь и удобна."
+      ],
+      "text_en": [
+        "No. 6. This last lamp, in bronze, was found together with another like it, in one of the cross-streets behind the Dominicans, near a house belonging to M. de Granier, at the spot where the Jewry, or one of the quarters inhabited by the Jews when they had settlements at Marseille, had stood. These lamps were in the hands of sieur Fréjus, Canon of this City. It is from the drawing taken in his cabinet by the painter sieur Nicolas that I had the engraving made. These lamps had three wicks, and two small chains, which served to keep them in balance and to hang them. Their form is as simple as it is practical."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "rue derrière les Dominicains (ancienne Juiverie)",
+      "findspot_ru": "улица позади доминиканцев (старый еврейский квартал)",
+      "findspot_en": "a street behind the Dominicans (the old Jewish quarter)"
+    },
+    {
+      "id": "pl29-7",
+      "part": 3,
+      "plate": 29,
+      "num": "7",
+      "fr": "Glaive de fantassin",
+      "ru": "Меч пехотинца",
+      "en": "Foot-soldier's sword",
+      "page": "188",
+      "group": "XXIX",
+      "group_fr": "Planche XXIX",
+      "group_en": "XXIX",
+      "group_page": "185",
+      "flag": "",
+      "type": "object",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl29-full.jpg"
+      ],
+      "plate_img": "pl29-full.jpg",
+      "bbox": [
+        1.0,
+        74.0,
+        13.0,
+        26.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 7. Glaive à l'usage des Fantassins trouvé à Marseille. Mr. Gravier m'en a communiqué le dessein & les proportions, que Mr. son père, habile antiquaire, avoit eu soin de conserver lors de la découverte de cette armure. Sa conformité avec les glaives des Fantassins représentés sur divers bas-reliefs antiques, ne permet pas de douter de son usage."
+      ],
+      "text_ru": [
+        "№ 7. Меч пехотинца, найденный в Марселе. Г-н Гравье сообщил мне его рисунок и пропорции, которые его отец, искусный антиквар, позаботился сохранить при обнаружении этого оружия. Его сходство с мечами пехотинцев, изображёнными на различных античных барельефах, не позволяет сомневаться в его назначении."
+      ],
+      "text_en": [
+        "No. 7. Sword for the use of Foot-soldiers, found at Marseille. M. Gravier gave me its drawing and proportions, which his father, a skilled antiquarian, had taken care to preserve when this piece of armament was discovered. Its conformity with the swords of foot-soldiers shown on various antique bas-reliefs leaves no doubt as to its use."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl29-8",
+      "part": 3,
+      "plate": 29,
+      "num": "8",
+      "fr": "Sceau de Marcus Cossutius Chresimus",
+      "ru": "Печать Марка Коссутия Хресима",
+      "en": "Seal of Marcus Cossutius Chresimus",
+      "page": "188",
+      "group": "XXIX",
+      "group_fr": "Planche XXIX",
+      "group_en": "XXIX",
+      "group_page": "185",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl29-full.jpg"
+      ],
+      "plate_img": "pl29-full.jpg",
+      "bbox": [
+        62.0,
+        88.0,
+        36.0,
+        11.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 8. Le monument désigné par ce numéro, est un vrai Sigillum, ou cachet antique. Il appartenoit à un personnage d'une famille répandue dans Marseille. On doit lire les abréviations dans le sens suivant. MARCI. COSSVTII. CHRESIMI.",
+        "Ce qui veut dire, que ce cachet est de Marcus Cossutius Chresimus. La famille Cossutia dont le nom est répété dans divers de nos monumens, devoit avoir une de ses branches établie en cette Ville; le mot de CHRESIMVS, me paroît d'origine grecque, & conséquemment je croirois volontiers que celui de Cossutius, n'étoit qu'un nom adoptif, ensuite du Patronage ou de la clientelle, que la famille Cossutia exerçoit sur un particulier appellé CHRESIMVS. Ce morceau en bronze est au pouvoir de M. Gravier.",
+        "On connoît l'usage que les anciens faisoient de leurs sceaux, ou cachets. Ils n'étoient pas seulement employés à la sureté des moindres choses dans les familles; (Ciceron dit que sa mère cachetoit jusqu'aux cruches vuides). Mais on s'en servoit encore pour assurer la bonne foi des contrats; les parties contractantes, & les témoins apposoient également leurs sceaux à l'acte: de-là vient la formule qu'on lit dans quelques testamens des anciens Romains: Qui huic meo testamento interfuistis, jubete signari... & cette autre: Testamentum manu meâ exaravi, meoque annulo obsignavi hisque testibus signandum, obtuli."
+      ],
+      "text_ru": [
+        "№ 8. Памятник, обозначенный этим номером, — подлинный sigillum, или античная печать. Он принадлежал лицу из семейства, распространённого в Марселе. Сокращения следует читать в следующем смысле: MARCI. COSSVTII. CHRESIMI.",
+        "Что означает, что эта печать принадлежит Марку Коссутию Хресиму. Семейство Коссутиев, чьё имя повторяется на различных наших памятниках, должно было иметь одну из своих ветвей, обосновавшуюся в этом городе; слово CHRESIMVS кажется мне греческого происхождения, и, следовательно, я охотно полагаю, что имя Cossutius было лишь приёмным, вследствие патроната или клиентских отношений, которые семейство Коссутиев осуществляло над неким частным лицом по имени CHRESIMVS. Этот бронзовый предмет находится во владении г-на Гравье.",
+        "Известно, какое применение древние находили своим печатям. Они служили не только для сохранности мелких вещей в семьях (Цицерон говорит, что его мать запечатывала даже пустые кувшины), но использовались также для удостоверения добросовестности договоров; договаривающиеся стороны и свидетели равным образом прикладывали к акту свои печати: отсюда и формула, которую читаем в некоторых завещаниях древних римлян: Qui huic meo testamento interfuistis, jubete signari... и другая: Testamentum manu meâ exaravi, meoque annulo obsignavi hisque testibus signandum, obtuli."
+      ],
+      "text_en": [
+        "No. 8. The piece marked by this number is a true Sigillum, or antique seal. It belonged to a member of a family widespread at Marseille. The abbreviations should be read as follows: MARCI. COSSVTII. CHRESIMI.",
+        "Which means that this seal is that of Marcus Cossutius Chresimus. The Cossutia family, whose name recurs on several of our monuments, must have had one of its branches established in this City; the word CHRESIMVS seems to me of Greek origin, and I would consequently readily believe that Cossutius was merely an adoptive name, following the Patronage or clientship that the Cossutia family exercised over an individual called CHRESIMVS. This bronze piece is in the possession of M. Gravier.",
+        "The use the ancients made of their seals, or signets, is well known. They were not only employed to secure the smallest things within families (Cicero says his mother sealed even empty jugs); they were also used to guarantee the good faith of contracts: the contracting parties, and the witnesses, likewise affixed their seals to the deed; hence the formula read in some wills of the ancient Romans: Qui huic meo testamento interfuistis, jubete signari... and this other: Testamentum manu meâ exaravi, meoque annulo obsignavi hisque testibus signandum, obtuli."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "MARCI COSSVTII CHRESIMI",
+      "legend_ru": "MARCI COSSVTII CHRESIMI",
+      "legend_en": "MARCI COSSVTII CHRESIMI",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl30-1",
+      "part": 3,
+      "plate": 30,
+      "num": "1",
+      "fr": "Encensoir en bronze en forme de crabe",
+      "ru": "Бронзовая кадильница в форме краба",
+      "en": "Bronze incense-holder in the shape of a crab",
+      "page": "190",
+      "group": "XXX",
+      "group_fr": "Planche XXX",
+      "group_en": "XXX",
+      "group_page": "190",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl30-full.jpg"
+      ],
+      "plate_img": "pl30-full.jpg",
+      "bbox": [
+        2.0,
+        2.0,
+        96.0,
+        38.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "QUand on aime sa Patrie & les Arts, on doit être charmé de trouver des monumens qui puissent leur faire honneur; c'est le sentiment que j'ai éprouvé à l'aspect de celui que je décris. Il est exécuté d'une manière à faire l'éloge des Artistes Marseillois, dans les temps où ce monument fut travaillé.",
+        "Ce crabe en bronze, fut probablement modélé d'après nature; il est parfaitement imité, & ressemble en tout à l'espèce de ces crustacées la plus commune sur les côtes de Marseille, que nos pêcheurs nomment FAVOUYO; ce qui seroit une raison pour l'attribuer aux artistes de cette Ville, si nous n'étions convaincus d'ailleurs qu'il y a été trouvé depuis quelques années. Ce monument étoit digne de la place qu'il tient dans le cabinet de Mr. de Fauris de St. Vincent; son amour pour la Patrie, ses connoissances littéraires, jointes au goût & à l'étude de l'antiquité, lui ont toujours fait rechercher les moyens de conserver à ses concitoyens, ce qui pouvoit intéresser l'histoire de la Provence. L'usage de ce crabe, qui est creux en dedans, & dont la partie supérieure se relève par le moyen d'une charnière, n'est pas difficile à expliquer; il devoit probablement servir à renfermer l'encens ou quelque autre parfum, pour faire brûler dans les Sacrifices; peut-être même étoit-il destiné aux cérémonies relatives à Neptune. Ce ne seroit pas le premier monument, où par une allégorie bien simple, on eût désigné plus particulièrement la Divinité à laquelle il étoit consacré. On a de tous les temps marqué les attribus des Divinités sur les objets destinés à leur culte; & les productions de la mer devoient naturellement être appliquées à Neptune: quoique rien ne porte à croire que ce Dieu eût eu un Temple dans Marseille, il pouvoit cependant y avoir eu un culte, par le moyen d'une de ses statues placée dans quelque chapelle des Temples de Diane, d'Apollon, ou de Minerve. C'est ainsi que Jupiter, qui n'avoit point d'édifice qui lui fût particulièrement consacré dans Marseille, y étoit cependant revéré (81) dans le Temple de Minerve, ainsi que le prouve la statue héroïque trouvée dans la rue des Consuls, parmi les ruines qui désignoient le Temple de la Déesse de Arts, dont la statue en bronze fut également trouvée au même endroit & dans le même temps. Voyez les planches 15 No. 3, & 16 No. 2.",
+        "(81) Les Actes du martyre de St. Victor de Marseille, disent qu'il fut conduit devant la statue de Jupiter. Dom Ruinart, Actes des Martyrs."
+      ],
+      "text_ru": [
+        "Когда любишь отечество и искусства, не можешь не радоваться, находя памятники, способные сделать им честь; таково было чувство, испытанное мною при виде того, что я здесь описываю. Он исполнен так, что делает честь марсельским мастерам того времени, когда был создан этот памятник.",
+        "Этот бронзовый краб, вероятно, был вылеплен с натуры; он прекрасно передан и во всём схож с тем видом ракообразных, наиболее распространённым на марсельском побережье, который наши рыбаки называют favouyo; это послужило бы основанием приписать его мастерам этого города, если бы мы не были иначе убеждены, что он был найден там лишь несколько лет назад. Этот памятник был достоин места, которое он занимает в кабинете г-на де Фориса де Сен-Венсана; его любовь к отечеству, его литературные познания, соединённые со вкусом и изучением древности, всегда побуждали его изыскивать способы сохранить для сограждан всё, что могло бы представлять интерес для истории Прованса. Назначение этого краба, полого внутри и верхняя часть которого откидывается посредством шарнира, нетрудно объяснить; он, вероятно, служил для хранения ладана или иного благовония, сжигаемого при жертвоприношениях; быть может, он даже предназначался для обрядов, связанных с Нептуном. Это был бы не первый памятник, в котором посредством весьма простой аллегории особо указывалось бы на божество, которому он был посвящён. Во все времена атрибуты божеств отмечались на предметах, предназначенных для их культа; а произведения моря, естественно, должны были относиться к Нептуну: хотя ничто не даёт оснований полагать, что у этого бога был храм в Марселе, культ его тем не менее мог существовать посредством одной из его статуй, помещённой в какой-либо капелле храмов Дианы, Аполлона или Минервы. Так и Юпитер, не имевший в Марселе отдельно посвящённого ему здания, тем не менее почитался (81) в храме Минервы, как то доказывает героическая статуя, найденная на улице Консулов, среди развалин, обозначавших храм богини Искусств, бронзовая статуя которой также была найдена в том же месте и в то же время. См. таблицы 15, № 3, и 16, № 2.",
+        "(81) Акты мученичества св. Виктора Марсельского сообщают, что его привели перед статуей Юпитера. Дом Рюинар, «Деяния мучеников»."
+      ],
+      "text_en": [
+        "When one loves one's Fatherland and the Arts, one cannot but delight in finding monuments that may do them honor; such was the feeling I experienced at the sight of the one I describe. It is executed in a manner that does credit to the Artists of Marseille in the age this monument was made.",
+        "This bronze crab was probably modeled from life; it is perfectly rendered, and entirely resembles the species of crustacean most common on the coasts of Marseille, which our fishermen call favouyo; this would be a reason to attribute it to this City's artists, were we not otherwise convinced it was found there only a few years ago. This monument was worthy of the place it holds in the cabinet of M. de Fauris de St. Vincent; his love for the Fatherland, his literary learning, joined to his taste for and study of antiquity, have always led him to seek ways of preserving for his fellow-citizens anything that might interest the history of Provence. The use of this crab, which is hollow within and whose upper part lifts by means of a hinge, is not hard to explain; it probably served to hold incense or some other perfume, to be burned during Sacrifices; perhaps it was even meant for ceremonies relating to Neptune. This would not be the first monument in which, by a quite simple allegory, the Divinity to which it was consecrated was more particularly indicated. The attributes of Divinities have at all times been marked on objects meant for their worship; and the sea's produce would naturally have been applied to Neptune: although nothing suggests this God had a Temple at Marseille, he could nonetheless have had a cult there, by means of one of his statues placed in some chapel of the Temples of Diana, Apollo, or Minerva. Thus Jupiter, who had no building particularly consecrated to him at Marseille, was nonetheless revered (81) in the Temple of Minerva, as the heroic statue found on the rue des Consuls proves, among the ruins marking the Temple of the Goddess of Arts, whose bronze statue was likewise found in the same place and at the same time. See Plates 15, no. 3, and 16, no. 2.",
+        "(81) The Acts of the martyrdom of St. Victor of Marseille say he was led before the statue of Jupiter. Dom Ruinart, Acta Martyrum."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl30-2",
+      "part": 3,
+      "plate": 30,
+      "num": "2",
+      "fr": "Clef ancienne",
+      "ru": "Древний ключ",
+      "en": "Ancient key",
+      "page": "191",
+      "group": "XXX",
+      "group_fr": "Planche XXX",
+      "group_en": "XXX",
+      "group_page": "190",
+      "flag": "",
+      "type": "object",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl30-full.jpg"
+      ],
+      "plate_img": "pl30-full.jpg",
+      "bbox": [
+        78.0,
+        42.0,
+        20.0,
+        24.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. S'il est des monumens intéressans pour tous les genres de lecteurs, il en est qui ne sont capables que d'exciter en eux l'indifférence. La clef ancienne que je décris, est véritablement de ce genre; mais on ne doit rien négliger dès qu'il s'agit de faire connoître les arts, les mœurs & le costume d'un peuple: ce qui paroît n'être que détail minutieux, tiré quelquefois à conséquence, & conduit à des découvertes utiles. Toutes les anciennes clefs trouvées dans Marseille, sont à-peu-près de la même forme. Je n'ai fait graver qu'une de celles que j'ai en mon pouvoir; elle servira à faire connoître la façon de se fermer dans Marseille ancienne; on ne devoit user que de loquets, car il auroit été bien difficile de faire courir les ressorts avec des clefs de cette forme. La plupart des peuples d'Orient ont encore en usage cette façon de fermer leurs portes; & leurs clefs, selon le témoignage de plusieurs de nos compatriotes, qui en ont été témoins oculaires, ne diffèrent de la structure de celle-ci que par bien peu de chose."
+      ],
+      "text_ru": [
+        "№ 2. Если есть памятники, интересные для всякого рода читателей, то есть и такие, что способны вызвать в них лишь равнодушие. Описываемый мною старинный ключ поистине принадлежит к этому роду; но не следует ничем пренебрегать, когда речь идёт о том, чтобы познакомить с искусствами, нравами и обычаями народа: то, что кажется лишь мелкой подробностью, порой приобретает значение и ведёт к полезным открытиям. Все древние ключи, найденные в Марселе, имеют примерно одну и ту же форму. Я велел гравировать лишь один из тех, что находятся в моём владении; он даст представление о том, каким образом запирались двери в древнем Марселе; пользовались, должно быть, лишь засовами, ибо было бы весьма затруднительно приводить в движение пружины ключами такой формы. У большинства народов Востока этот способ запирания дверей до сих пор в ходу; а их ключи, по свидетельству нескольких наших соотечественников, бывших тому очевидцами, отличаются от строения этого лишь в весьма немногом."
+      ],
+      "text_en": [
+        "No. 2. If there are monuments of interest to every kind of reader, there are also some capable of exciting nothing but indifference. The ancient key I describe is truly of this kind; but nothing should be neglected when it comes to making known the arts, customs, and dress of a people: what appears to be mere minute detail sometimes carries consequence, and leads to useful discoveries. All the ancient keys found at Marseille are of roughly the same form. I have had only one of those in my possession engraved; it will serve to show how doors were locked in ancient Marseille; only latches could have been used, for it would have been very difficult to work springs with keys of this shape. Most peoples of the East still use this way of locking their doors; and their keys, according to the testimony of several of our compatriots who have witnessed them firsthand, differ from the structure of this one in very little."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl30-3",
+      "part": 3,
+      "plate": 30,
+      "num": "3",
+      "fr": "Lampe en terre cuite au génie porteur de corbeilles de fruits",
+      "ru": "Терракотовая лампа с гением, несущим корзины плодов",
+      "en": "Terra-cotta lamp with a genius carrying fruit-baskets",
+      "page": "192",
+      "group": "XXX",
+      "group_fr": "Planche XXX",
+      "group_en": "XXX",
+      "group_page": "190",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl30-full.jpg"
+      ],
+      "plate_img": "pl30-full.jpg",
+      "bbox": [
+        33.0,
+        40.0,
+        42.0,
+        26.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Lampe en terre cuite, au pouvoir de Mr. de St. Vincent; elle a été trouvée en cette Ville: il n'est guère probable qu'elle ait été destinée à l'usage des tombeaux: la figure en relief représentant un génie, qui porte en équilibre sur ses épaules, un bâton, au bout duquel sont suspendus deux paniers de fruit, semble désigner au contraire l'usage domestique. Ce morceau n'est pas un de ceux qui méritent le moins d'attention."
+      ],
+      "text_ru": [
+        "№ 3. Терракотовая лампа, находящаяся во владении г-на де Сен-Венсана; она была найдена в этом городе: маловероятно, чтобы она предназначалась для использования в гробницах: рельефная фигура гения, несущего на плечах, в равновесии, шест, на концах которого подвешены две корзины с плодами, указывает, напротив, скорее на бытовое назначение. Этот предмет — не из тех, что заслуживают наименьшего внимания."
+      ],
+      "text_en": [
+        "No. 3. Terra-cotta lamp, in the possession of M. de St. Vincent; it was found in this City: it seems hardly likely that it was meant for use in tombs: the relief figure of a genius, balancing on his shoulders a pole from the end of which two baskets of fruit hang, suggests instead a domestic use. This piece is not one of those deserving the least attention."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl30-4",
+      "part": 3,
+      "plate": 30,
+      "num": "4",
+      "fr": "Urne cinéraire cylindrique en deux pièces",
+      "ru": "Цилиндрическая погребальная урна из двух частей",
+      "en": "Two-piece cylindrical cinerary urn",
+      "page": "192",
+      "group": "XXX",
+      "group_fr": "Planche XXX",
+      "group_en": "XXX",
+      "group_page": "190",
+      "flag": "",
+      "type": "object",
+      "material_fr": "terre cuite; plâtre (jointure)",
+      "material_ru": "терракота; штукатурка (шов)",
+      "material_en": "terra cotta; plaster (join)",
+      "img": [
+        "pl30-full.jpg"
+      ],
+      "plate_img": "pl30-full.jpg",
+      "bbox": [
+        2.0,
+        45.0,
+        30.0,
+        53.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4. Urne cinéraire, trouvée en 1769 aux terrains par dessus la place de l'Abbaye St. Victor. Cette urne étoit au pouvoir de Mr. de Villeneuve-Tourrette, Chanoine de cette Abbaye; elle avoit été trouvée avec nombre d'autres de la même forme cylindrique. Mr. Cresp, Commissaire de la Marine, est possesseur d'une toute semblable; & j'en ai vu plusieurs mutilées, répandues sur le terrain où l'on a bâti les premières maisons de la rue Sainte. Elles étoient remplies d'un terreau de qualité grasse & huileuse, & de quelques débris d'ossemens; ce qui ne laisse aucun doute sur leur usage. Elles avoient quatre à cinq pieds de haut. Je n'ai trouvé dans aucune collection de monumens, des urnes d'une pareille forme; une particularité remarquable, c'est qu'elles étoient construites en deux pièces; la partie supérieure, qui contient le gouleau, étoit adaptée à la partie inférieure par un petit bourellet pratiqué à l'endroit où se terminoient les anses; la matiere qui lutoit les deux pièces, m'a paru gypseuse; & je crois que ce n'est autre chose que du plâtre blanc."
+      ],
+      "text_ru": [
+        "№ 4. Погребальная урна, найденная в 1769 году на землях над площадью аббатства Сен-Виктор. Эта урна находилась во владении г-на де Вильнёв-Туррета, каноника этого аббатства; она была найдена вместе с несколькими другими той же цилиндрической формы. Г-н Крепс, комиссар флота, владеет совершенно подобной; и я видел несколько повреждённых, рассыпанных по земле, на которой были построены первые дома улицы Сент. Они были наполнены жирным и маслянистым грунтом и некоторыми костными останками, что не оставляет никаких сомнений относительно их назначения. Их высота составляла четыре-пять футов. Ни в одном собрании памятников я не встречал урн подобной формы; примечательная особенность состоит в том, что они были составлены из двух частей; верхняя часть, содержащая горловину, крепилась к нижней посредством небольшого валика, устроенного там, где заканчивались ручки; вещество, скреплявшее обе части, показалось мне гипсовым; и я полагаю, что это не что иное, как белая штукатурка."
+      ],
+      "text_en": [
+        "No. 4. Cinerary urn, found in 1769 on the grounds above the square of the Abbey of St. Victor. This urn was in the possession of M. de Villeneuve-Tourrette, Canon of this Abbey; it had been found together with a number of others of the same cylindrical shape. M. Cresp, Commissioner of the Navy, owns an entirely similar one; and I have seen several, mutilated, scattered over the ground on which the first houses of the rue Sainte were built. They were filled with a rich, oily soil, and some fragments of bone, which leaves no doubt as to their use. They stood four to five feet high. I have found no urns of this shape in any collection of antiquities; a remarkable feature is that they were built in two pieces; the upper part, containing the neck, was fitted to the lower part by a small ridge made where the handles ended; the substance joining the two pieces appeared to me gypsum-like, and I believe it to be nothing other than white plaster."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "terrains au-dessus de la place de l'Abbaye St. Victor",
+      "findspot_ru": "земли над площадью аббатства Сен-Виктор",
+      "findspot_en": "grounds above the square of the Abbey of St. Victor"
+    },
+    {
+      "id": "pl30-5",
+      "part": 3,
+      "plate": 30,
+      "num": "5",
+      "fr": "Lacrimatoire en verre",
+      "ru": "Стеклянная слёзница",
+      "en": "Glass lacrimatory",
+      "page": "193",
+      "group": "XXX",
+      "group_fr": "Planche XXX",
+      "group_en": "XXX",
+      "group_page": "190",
+      "flag": "",
+      "type": "object",
+      "material_fr": "verre",
+      "material_ru": "стекло",
+      "material_en": "glass",
+      "img": [
+        "pl30-full.jpg"
+      ],
+      "plate_img": "pl30-full.jpg",
+      "bbox": [
+        70.0,
+        42.0,
+        26.0,
+        38.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 5. Lacrimatoire en verre, trouvé sur les terrains de la place St. Victor; il est de la forme la plus usitée parmi ceux de cette matière, on en a trouvé une quantité prodigieuse, & on en trouve encore journellement. Valère Maxime a dit que les Marseillois ne pleuroient pas leurs morts (82). Cet Auteur, qui a rapporté beaucoup de traits historiques des temps antérieurs aux siens, vouloit sans doute parler des premiers temps de la République de Marseille; car dans les siècles postérieurs, on pleuroit les morts dans cette Ville; c'est-à-dire, on faisoit assister aux funérailles des personnes de louage, qui pleuroient à volonté, & dont les larmes précieusement recueillies dans ces petites bouteilles, étoient ainsi déposées dans le lieu de la sépulture. Cet usage est prouvé par la quantité de lacrimatoires trouvés dans les sépulchres. J'en ai eu jusqu'à douze en mon pouvoir: ils avoient presque tous été trouvés en construisant la place de St. Victor; on enleva, à cet effet, plusieurs toises de terrain au-dessous desquels étoient une quantité considérable de tombeaux chrétiens & payens, mêlés ensemble. Tous les curieux se pourvurent en cette rencontre, de lacrimatoires, de préféricules, de lampes & de patères. L'usage de pleurer les morts par des serviteurs préposés, est encore en vigueur, parmi les Grecs de Smyrne, & de Foyeri, qui est l'ancienne Phocée d'où sont sortis les Marseillois. Voilà une raison de plus pour soupçonner l'autorité de Valère Maxime, ou du moins pour faire croire qu'elle n'est pas applicable à tous les âges de la République de Marseille.",
+        "(82) Valerius Maximus lib. 11."
+      ],
+      "text_ru": [
+        "№ 5. Стеклянная слёзница, найденная на землях площади Сен-Виктор; она имеет форму, наиболее распространённую среди предметов из этого материала; их найдено огромное количество, и их находят до сих пор ежедневно. Валерий Максим говорит, что марсельцы не оплакивали своих покойников (82). Этот автор, сообщающий немало исторических сведений о временах, предшествовавших его собственным, несомненно, имел в виду первые времена Марсельской республики; ибо в более поздние века покойников в этом городе оплакивали; то есть на похороны приглашали наёмных лиц, плакавших по заказу, чьи слёзы, бережно собранные в эти небольшие сосуды, затем помещались в месте погребения. Этот обычай подтверждается количеством слёзниц, найденных в гробницах. У меня их было до двенадцати: почти все они были найдены при строительстве площади Сен-Виктор; для этого сняли несколько туазов земли, под которыми находилось значительное количество христианских и языческих гробниц, перемешанных между собой. Все любители древностей при этой находке разжились слёзницами, преферикулами, лампами и чашами для возлияний. Обычай оплакивания покойников наёмными служителями до сих пор бытует у греков Смирны и Фойери — древней Фокеи, откуда вышли марсельцы. Вот ещё одна причина усомниться в авторитете Валерия Максима, или по крайней мере полагать, что его свидетельство неприменимо ко всем периодам существования Марсельской республики.",
+        "(82) Валерий Максим, кн. 11."
+      ],
+      "text_en": [
+        "No. 5. Glass lacrimatory, found on the grounds of the place St. Victor; it is of the most common form among objects of this material; a prodigious quantity has been found, and more are found daily still. Valerius Maximus said that the people of Marseille did not mourn their dead (82). This Author, who reports many historical traits from times earlier than his own, no doubt meant to speak of the earliest days of the Republic of Marseille; for in later centuries, the dead were mourned in this City; that is, hired persons were brought to attend funerals, who wept to order, and whose tears, carefully gathered in these small bottles, were then deposited at the place of burial. This custom is proven by the quantity of lacrimatories found in the tombs. I have had as many as twelve in my possession: almost all of them were found while building the place St. Victor; several fathoms of ground were removed for this purpose, beneath which lay a considerable number of Christian and pagan tombs, mixed together. All collectors on that occasion supplied themselves with lacrimatories, preféricules, lamps, and paterae. The custom of mourning the dead through hired attendants is still in force among the Greeks of Smyrna and of Foyeri, the ancient Phocaea from which the Marseillais came. This is one more reason to doubt the authority of Valerius Maximus, or at least to believe it is not applicable to every age of the Republic of Marseille.",
+        "(82) Valerius Maximus, Bk. 11."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "place Saint-Victor",
+      "findspot_ru": "площадь Сен-Виктор",
+      "findspot_en": "the place Saint-Victor"
+    },
+    {
+      "id": "pl30-6",
+      "part": 3,
+      "plate": 30,
+      "num": "6",
+      "fr": "Lampe funéraire au génie dans une barque (publiée par Caylus)",
+      "ru": "Погребальная лампа с гением в ладье (опубликована Кайлюсом)",
+      "en": "Funerary lamp with a genius in a boat (published by Caylus)",
+      "page": "194",
+      "group": "XXX",
+      "group_fr": "Planche XXX",
+      "group_en": "XXX",
+      "group_page": "190",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl30-full.jpg"
+      ],
+      "plate_img": "pl30-full.jpg",
+      "bbox": [
+        33.0,
+        70.0,
+        42.0,
+        27.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 6. Lampe en terre cuite, trouvée dans les terrains du quartier de Paradis, elle a été pendant long-temps en mon pouvoir; je m'en défis en 1763, en faveur de Mr. le Comte de Caylus, qui l'a rapportée dans le 6e. volume du Recueil des Antiquités, planche C, No. 1. Rien de plus ingénieux que les réflexions de ce Savant sur ce monument, qu'il met dans la classe des antiquités Romaines, & qu'il croit être du genre des lampes funèbres. Selon lui, le génie pleurant dans un bateau représenté en relief, n'est qu'une allégorie relative à l'amour. «On ne peut attribuer (dit-il) cette composition qu'au tendre regret que l'amour a pu causer, & l'on voit sans peine combien cette expression, qui paroît simple & même agréable, a reçu d'augmentation même depuis sa source grecque». Si Mr. de Caylus avoit été instruit que ce monument appartenoit à Marseille, ainsi que j'en avois prévenu la personne chargée de le lui envoyer, il n'auroit pas hésité de reconnoître la même source dans un monument d'une ville grecque: j'avoue que la figure du génie que Mr. de Caylus dit être la divinité de l'amour, ne m'a point paru être représentée, pleurant; je l'ai dessinée plusieurs fois avec attention, je l'ai examinée avec soin; j'avoue même que c'étoit celui des objets relatifs à l'histoire des Arts de ma Patrie, qui attiroit le plus souvent mes regards lorsque j'entrois dans mon cabinet; & je n'ai jamais vu dans ce relief qu'un génie qui paroissoit être en contemplation dans une situation de repos; ce qui m'a toujours donné l'idée d'une ame dans la barque de Caron, pour le passage aux champs Elisées. Ce genre d'ornement étoit bien relatif à l'emploi funèbre de cette lampe."
+      ],
+      "text_ru": [
+        "№ 6. Терракотовая лампа, найденная на землях квартала Paradis; долгое время она находилась в моём владении; я уступил её в 1763 году графу де Кайлюсу, который привёл её в 6-м томе «Собрания древностей», таблица C, № 1. Нет ничего более остроумного, чем рассуждения этого учёного об этом памятнике, который он относит к разряду римских древностей и полагает принадлежащим к роду погребальных ламп. По его мнению, плачущий гений в лодке, изображённый в рельефе, есть не что иное, как аллегория любви. «Эту композицию, — говорит он, — можно отнести лишь к нежному сожалению, причинённому любовью, и легко видеть, сколь это выражение, кажущееся простым и даже приятным, получило развитие ещё со времён своего греческого истока». Если бы г-н де Кайлюс был осведомлён, что этот памятник принадлежит Марселю, о чём я предупреждал лицо, которому было поручено отправить ему его, он без колебаний признал бы тот же исток в памятнике греческого города: признаюсь, фигура гения, которую г-н де Кайлюс называет божеством любви, не показалась мне изображённой плачущей; я неоднократно и внимательно её срисовывал, тщательно её изучал; признаюсь даже, что среди предметов, относящихся к истории искусств моего отечества, именно она чаще всего притягивала мой взгляд, когда я входил в свой кабинет; и я никогда не видел в этом рельефе ничего, кроме гения, пребывающего, казалось, в созерцании, в состоянии покоя; это всегда наводило меня на мысль о душе в ладье Харона, переправляющейся на Елисейские поля. Этот род украшения вполне соответствовал погребальному назначению этой лампы."
+      ],
+      "text_en": [
+        "No. 6. Terra-cotta lamp, found on the grounds of the Paradis quarter; it was long in my possession; I gave it up in 1763, in favor of M. le Comte de Caylus, who reported it in the 6th volume of the Recueil des Antiquités, Plate C, no. 1. Nothing could be more ingenious than this Scholar's reflections on this monument, which he places in the class of Roman antiquities, and believes to be of the funerary-lamp kind. In his view, the weeping genius in a boat shown in relief is merely an allegory relating to love. \"This composition,\" he says, \"can only be attributed to the tender regret that love may cause, and one readily sees how much this expression, which seems simple and even pleasant, has grown even since its Greek source.\" Had M. de Caylus known that this monument belonged to Marseille, as I had informed the person charged with sending it to him, he would not have hesitated to recognize the same source in a monument from a Greek city: I confess the figure of the genius, which M. de Caylus says is the divinity of love, did not appear to me to be shown weeping; I have drawn it several times with care, examined it closely; I confess even that, among the objects relating to the history of the Arts of my Fatherland, it was the one that most often drew my eye whenever I entered my cabinet; and I have never seen in this relief anything but a genius who seemed to be in contemplation, in a state of repose; which has always given me the idea of a soul in Charon's boat, crossing to the Elysian Fields. This kind of ornament well suited the funerary use of this lamp."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "quartier de Paradis",
+      "findspot_ru": "квартал Paradis",
+      "findspot_en": "the Paradis quarter"
+    },
+    {
+      "id": "pl30-7",
+      "part": 3,
+      "plate": 30,
+      "num": "7",
+      "fr": "Lampe simple de forme à bec, sans ornement",
+      "ru": "Простая носатая лампа без украшений",
+      "en": "Plain spouted lamp without ornament",
+      "page": "195",
+      "group": "XXX",
+      "group_fr": "Planche XXX",
+      "group_en": "XXX",
+      "group_page": "190",
+      "flag": "",
+      "type": "lamp",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl30-full.jpg"
+      ],
+      "plate_img": "pl30-full.jpg",
+      "bbox": [
+        70.0,
+        80.0,
+        28.0,
+        18.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 7. Lampe en terre cuite, trouvée en 1770, au terrain de Madame Deydier de Curiol, près les Reformés. Cette lampe étoit dans un tombeau en briques, elle est simple & sans ornement. Je ne la rapporte que pour conserver l'idée du galbe qui a du rapport avec certaines lampes de fer encore en usage parmi nous: au reste, dans le terrain où a été trouvée cette lampe, on a découvert des tombeaux en différens temps."
+      ],
+      "text_ru": [
+        "№ 7. Терракотовая лампа, найденная в 1770 году на землях г-жи Дейдье де Кюриоль, близ Реформатов. Эта лампа находилась в кирпичной гробнице, она простая и без украшений. Я привожу её лишь для того, чтобы сохранить представление об очертании, имеющем сходство с некоторыми железными лампами, до сих пор употребляемыми у нас: впрочем, на землях, где была найдена эта лампа, в разное время обнаруживали и другие гробницы."
+      ],
+      "text_en": [
+        "No. 7. Terra-cotta lamp, found in 1770, on the grounds of Madame Deydier de Curiol, near the Reformés. This lamp lay in a brick tomb; it is plain and without ornament. I report it only to preserve the idea of its outline, which bears a resemblance to certain iron lamps still in use among us: moreover, on the grounds where this lamp was found, tombs have been discovered at various other times."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "terrain de Mme Deydier de Curiol, près les Réformés",
+      "findspot_ru": "земли г-жи Дейдье де Кюриоль, близ Реформатов",
+      "findspot_en": "the grounds of Mme Deydier de Curiol, near the Réformés"
     }
   ]
 }

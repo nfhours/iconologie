@@ -24,9 +24,14 @@
       "n": 2,
       "ru": "Часть вторая. Рельефы, статуи и архитектурные фрагменты",
       "en": "Part Two. Reliefs, Statues, and Architectural Fragments"
+    },
+    {
+      "n": 3,
+      "ru": "Часть третья. Предметы для религиозных обрядов и домашнего обихода",
+      "en": "Part Three. Objects for Religious Ceremonies and Domestic Use"
     }
   ],
-  "partsNote": "Список частей предварительный и неполный: в сохранившихся сканах не нашлось оглавления. Дополнить после сверки с оглавлением книги.",
+  "partsNote": "Список частей предварительный: Часть I (медали, завершена), Часть II (рельефы/статуи/архит. фрагменты, Таблицы X-XXVIII, завершена), Часть III (лампы, сосуды, бытовые предметы, начата с Таблицы XXIX) — открывается общим рассуждением автора о лампах как главной категории находок; далее предположительно идёт раздел надписей. Уточнить после сверки с оглавлением книги.",
   "fields": {
     "legend": {
       "ru": "Легенда",
@@ -345,6 +350,22 @@
       "n": 28,
       "title_ru": "Таблица XXVIII. Фриз из моря, капитель-тумба, гробница со львами",
       "title_en": "Plate XXVIII. A sea-dredged frieze, a bollard capital, a lion-head tomb",
+      "caption_fr": "",
+      "caption_ru": "",
+      "caption_en": ""
+    },
+    {
+      "n": 29,
+      "title_ru": "Таблица XXIX. Лампы, меч пехотинца и печать Коссутия Хресима",
+      "title_en": "Plate XXIX. Lamps, a foot-soldier's sword, and the seal of Cossutius Chresimus",
+      "caption_fr": "",
+      "caption_ru": "",
+      "caption_en": ""
+    },
+    {
+      "n": 30,
+      "title_ru": "Таблица XXX. Краб-кадильница, ключ, урна, слёзница и лампы",
+      "title_en": "Plate XXX. A crab incense-holder, a key, an urn, a lacrimatory, and lamps",
       "caption_fr": "",
       "caption_ru": "",
       "caption_en": ""
