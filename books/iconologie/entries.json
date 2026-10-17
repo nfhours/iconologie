@@ -15634,12 +15634,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-163.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Сломанный меч",
+          "meaning": "раскаяние, отказ от убийства",
+          "what_en": "Broken sword",
+          "meaning_en": "repentance, the renouncing of killing"
+        },
+        {
+          "what": "Взгляд, обращённый к Небу",
+          "meaning": "мольба о прощении, обращённая к Богу",
+          "what_en": "Gaze turned toward Heaven",
+          "meaning_en": "a plea for forgiveness addressed to God"
+        },
+        {
+          "what": "Свиток с надписью LIBERA ME DE SANGVINIBVS, DEVS SALVTIS MEÆ",
+          "meaning": "мольба об избавлении от греха кровопролития",
+          "what_en": "Scroll inscribed LIBERA ME DE SANGVINIBVS, DEVS SALVTIS MEÆ",
+          "meaning_en": "a plea for deliverance from the sin of bloodshed"
+        }
+      ],
+      "text_ru": [
+        "Оно представлено нам действием этого полуобнажённого юноши, который, только что сразившись на дуэли и убив своего врага, тронут тайным раскаянием: отчего он в тот же миг ломает свой меч, совершивший убийство, и, глядя на Небо, дабы просить прощения у Бога,",
+        "восклицает: LIBERA ME DE SANGVINIBVS, DEVS SALVTIS MEÆ («ИЗБАВЬ МЕНЯ ОТ КРОВЕЙ, БОЖЕ, БОЖЕ СПАСЕНИЯ МОЕГО»)."
+      ],
+      "text_fr": [
+        "Il nous est figuré par l'action de ce jeune homme à demy nud, qui venant de se battre en duel, & de tuer son ennemy, en est touché d'vne secrete repentance: ce qui fait qu'il rompt à mesme temps son épée qui a fait le meurtre, & que regardant le Ciel, pour demander pardon à Dieu,",
+        "il s'écrie, LIBERA ME DE SANGVINIBVS, DEVS SALVTIS MEÆ."
+      ],
       "en": "Pardon",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-163-1.jpg",
+        "p2-163-2.jpg"
+      ]
     },
     {
       "id": "p2-164",
@@ -15652,12 +15683,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-164.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Камень среди терний",
+          "meaning": "тяжесть и суровость земных страданий",
+          "what_en": "Stone amid thorns",
+          "meaning_en": "the harshness and severity of life's sufferings"
+        },
+        {
+          "what": "Оковы на руках",
+          "meaning": "пленение скорбящей души",
+          "what_en": "Fetters on her hands",
+          "meaning_en": "the captivity of an afflicted soul"
+        },
+        {
+          "what": "Ярмо на плечах",
+          "meaning": "бремя, которое терпение помогает нести",
+          "what_en": "Yoke upon her shoulders",
+          "meaning_en": "the burden that patience helps to bear"
+        },
+        {
+          "what": "Свиток MISERERE MEI DEVS",
+          "meaning": "упование на Божественную помощь",
+          "what_en": "Scroll inscribed MISERERE MEI DEVS",
+          "meaning_en": "trust in divine assistance"
+        }
+      ],
+      "text_ru": [
+        "Эта несчастная, скорбная женщина, сидящая на камне среди терний, с оковами на руках и ярмом на плечах, представляет нам Терпение. Она сидит на камне среди терний, дабы показать, что весьма тяжело решиться на страдания этой жизни; но что всё же, сколь бы суровыми и колючими они ни были, их можно преодолеть с помощью этой добродетели. Что до оков и ярма, которые на ней, и то и другое означает пленение скорбящей души, которая, однако, не перестаёт обретать великие утешения, испрашивая Божественную помощь словами MISERERE MEI DEVS («ПОМИЛУЙ МЯ, БОЖЕ»)."
+      ],
+      "text_fr": [
+        "Cette pauvre desolée assise sur vne pierre, environnée d'épines, ayant des fers au mains, & vn joug sur ses épaules; nous represente la Patience. Elle est assise sur vne pierre parmy des épines, pour montrer que c'est vne chose bien dure que de se resoudre aux souffrances de cette vie; mais que neanmoins quelques rudes & piquantes qu'elles soient, l'on en peut venir à bout par le moyen de cette vertu. Quant aux fers & au joug qu'on luy fait porter, l'vn & l'autre signifient la captivité d'vne ame affligée, qui ne laisse pas toutefois d'avoir de grandes consolations, en impetrant l'assistance divine par ces paroles, MISERERE MEI DEVS."
+      ],
       "en": "Patience",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-164-1.jpg",
+        "p2-164-2.jpg"
+      ]
     },
     {
       "id": "p2-165",
@@ -15670,12 +15736,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-165.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Источник живой воды",
+          "meaning": "Божественная благодать, неиссякаемый источник очищения",
+          "what_en": "Spring of living water",
+          "meaning_en": "divine grace, an inexhaustible fountain of purification"
+        },
+        {
+          "what": "Камень, на котором она сидит",
+          "meaning": "образ Иисуса Христа",
+          "what_en": "Stone on which she sits",
+          "meaning_en": "a figure of Jesus Christ"
+        },
+        {
+          "what": "Желание раздеться и омыться",
+          "meaning": "покаянное очищение от грехов",
+          "what_en": "Her wish to undress and wash",
+          "meaning_en": "penitential cleansing from sin"
+        }
+      ],
+      "text_ru": [
+        "Она представлена вам в облике старой женщины, сидящей на камне, из которого бьёт источник живой воды. Она держит на нём неотрывный взор и словно хочет раздеться, чтобы омыться от своих нечистот, говоря вместе с Пророком: AMPLIVS LAVA ME AB INIQVITATE MEA («ЕЩЁ ОМОЙ МЕНЯ ОТ БЕЗЗАКОНИЯ МОЕГО»). Камень, на котором она сидит, — образ Иисуса Христа; опираясь на него и устремляя свои мысли к созерцанию этого неиссякаемого источника, каковым является Божественная благодать, грешник омывает свою душу и очищает её от всякого рода пятен посредством Покаяния; к этому относятся слова Давида: «Омой меня, Господи, и я буду белее снега»."
+      ],
+      "text_fr": [
+        "Elle vous est representée par vne vieille femme assise sur vne pierre d'où rejallit vne source d'eau vive. Elle y tient dessus sa veuë attachée, & semble se vouloir deshabiller pour se laver de ses ordures, disant avec le Prophete, AMPLIVS LAVA ME AB INIQVITATE MEA. La pierre où elle assise est vne figure de Jesus-Christ; sur qui le pecheur se reposant, & arrestant ses pensées à la contemplation de cette fontaine inépuisable, qui est la grace divine, il lave son ame, & la rend nette de toutes sortes de taches par le moyen de la Penitence; à quoy se rapportent ces paroles de David, Vous me laverez, Seigneur, & je seray plus blanc que la neige."
+      ],
       "en": "Penitence",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-165-1.jpg",
+        "p2-165-2.jpg"
+      ]
     },
     {
       "id": "p2-166",
@@ -15688,12 +15783,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-166.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Змей, обвившийся вокруг руки",
+          "meaning": "библейский символ мудрости («будьте мудры, как змии»)",
+          "what_en": "Serpent coiled around her arm",
+          "meaning_en": "the biblical symbol of wisdom ('be ye wise as serpents')"
+        },
+        {
+          "what": "Череп в руке",
+          "meaning": "память о конце всех вещей как основа истинного благоразумия",
+          "what_en": "Skull in her hand",
+          "meaning_en": "mindfulness of the end of all things as the foundation of true prudence"
+        },
+        {
+          "what": "Сияющее око на груди",
+          "meaning": "прозорливость, видящая суть и исход вещей",
+          "what_en": "Radiant eye upon her breast",
+          "meaning_en": "foresight, which discerns the nature and outcome of things"
+        }
+      ],
+      "text_ru": [
+        "Эта Добродетель представлена вам в облике почтенной дамы, вокруг одной из рук которой обвился змей; а в левой руке она держит череп, на который смотрит, причём на груди у неё видно сияющее светом око. Череп означает, что для обретения истинного Благоразумия весьма важно всегда помнить о конце вещей; то же являет и око. Что же до змея, достаточно известно, что он — символ этой добродетели в Священном Писании, где нас призывают быть мудрыми, как змии."
+      ],
+      "text_fr": [
+        "Cette Vertu vous est figurée par vne venerable dame, en l'vn des bras de laquelle est enlacé vn serpent; & qui tient de la main gauche vne teste de mort qu'elle contemple, outre qu'en son sein se voit vn œil tout éclatant de lumiere. La teste de mort signifie que pour s'acquerir la vraye Prudence, il importe beaucoup de considerer toûjours la fin des choses; & l'œil demontre le mesme. Pour ce qui est du serpent, on sçait assez qu'il est vn symbole de cette vertu dans les saintes Lettres, où nous sommes exhortez à estre prudens comme les serpens."
+      ],
       "en": "Prudence",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-166-1.jpg",
+        "p2-166-2.jpg"
+      ]
     },
     {
       "id": "p2-167",
