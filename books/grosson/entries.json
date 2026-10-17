@@ -7846,6 +7846,122 @@
       "findspot_fr": "péristyle (cloître) de l'abbaye de Saint-Victor",
       "findspot_ru": "перистиль (клуатр) аббатства Сен-Виктор",
       "findspot_en": "the peristyle (cloister) of the Abbey of Saint-Victor"
+    },
+    {
+      "id": "pl27-1",
+      "part": 2,
+      "plate": 27,
+      "num": "1-5",
+      "fr": "Chapiteaux grotesques du cloître de Saint-Victor (suite)",
+      "ru": "Гротескные капители клуатра Сен-Виктора (продолжение)",
+      "en": "Grotesque-style capitals of the Saint-Victor cloister (continued)",
+      "page": "176",
+      "group": "XXVII",
+      "group_fr": "Planche XXVII",
+      "group_en": "XXVII",
+      "group_page": "176",
+      "flag": "",
+      "type": "architectural fragment",
+      "material_fr": "pierre du Cap Couronne; marbre blanc (no. 2)",
+      "material_ru": "камень Кап-Куронн; белый мрамор (№ 2)",
+      "material_en": "Cap Couronne stone; white marble (no. 2)",
+      "img": [
+        "pl27-full.jpg"
+      ],
+      "plate_img": "pl27-full.jpg",
+      "bbox": [
+        2.0,
+        2.0,
+        96.0,
+        78.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Les Chapiteaux contenus dans cette Planche, sont encore du nombre de ceux qui décorent le Cloître de l'Abbaye de St. Victor, & du même genre que ceux de la Planche précédente, c'est à-dire, en grotesques.",
+        "Celui du No. 1. est en pierre du Cap couronne; il est des plus singuliers, & prouve ce que j'ai avancé dans le Discours Préliminaire, que ces chapiteaux n'avoient point été faits de principe, pour décorer ces lieux; en effet, peut-on voir un objet plus disparate avec la chasteté monastique, & un édifice consacré à la Religion chrétienne? Des monstres dont on étale à découvert les parties viriles en érection ne peuvent avoir été primitivement destinés qu'à orner quelque édifice profane & très-profane; c'est le sentiment de Vignole, que les chapiteaux qui étoient ornés de figures d'animaux, devoient être destinés à décorer les Temples (78).",
+        "Le Chapiteau du No. 2. est un des plus curieux & des mieux travaillés; on y reconnoît l'habileté de l'Artiste à conduire son ciseau; il est en marbre blanc & très-bien conservé malgré sa grande vétusté: il est tout composé d'entrelassement de feuilles de refend en volute, posées en sens opposé. Ce genre de chapiteaux, présente une sorte de richesse d'ornement, qui n'est pas indifférente, quoique infiniment au-dessous des beautés du vrai chapiteau corinthien, dans ses exactes proportions.",
+        "Les Nos. 3. 4. & 5. sont encore des grotesques différentes de celles de la Planche précédente; mais sur lesquelles on ne peut former aucun raisonnement. Elles servent tout au plus à indiquer les variétés de ce genre, & à prouver la bizarrerie du goût.",
+        "(78) Architecture de Vignole pag. 113, édition in 4°. MDCCLX. Paris chez Jombert, où il cite deux Chapiteaux antiques, dont un tiré du Temple de Jupiter à Rome."
+      ],
+      "text_ru": [
+        "Капители, представленные на этой таблице, также относятся к числу тех, что украшают клуатр аббатства Сен-Виктор, и принадлежат к тому же роду, что и на предыдущей таблице, то есть к гротескам.",
+        "Капитель под № 1 выполнена из камня Кап-Куронн; она одна из самых своеобразных и подтверждает то, что я уже отмечал в предварительном рассуждении: эти капители вовсе не были изначально созданы для украшения этих мест; в самом деле, можно ли найти предмет, более несовместимый с монашеским целомудрием и зданием, посвящённым христианской религии? Чудовища, у которых открыто выставлены напоказ мужские органы в состоянии возбуждения, могли изначально предназначаться лишь для украшения какого-либо светского, причём весьма нецеломудренного, здания; таково мнение Виньолы, полагавшего, что капители, украшенные изображениями животных, должны были предназначаться для украшения храмов (78).",
+        "Капитель под № 2 — одна из самых любопытных и наиболее искусно исполненных; в ней узнаётся умение художника владеть резцом; она выполнена из белого мрамора и прекрасно сохранилась, несмотря на свою глубокую древность: она целиком составлена из переплетающихся завитков рассечённых листьев, расположенных в противоположных направлениях. Этот род капителей являет своего рода богатство убранства, небезразличное взгляду, хотя и бесконечно уступающее красотам подлинной коринфской капители в её точных пропорциях.",
+        "№ 3, 4 и 5 — также гротески, отличные от тех, что на предыдущей таблице; но о них нельзя составить никакого суждения. Они служат разве что для указания разновидностей этого рода и для доказательства причудливости вкуса.",
+        "(78) «Архитектура» Виньолы, с. 113, издание в 4-ю долю листа, 1760. Париж, у Жомбера, где он приводит две античные капители, одна из которых взята из храма Юпитера в Риме."
+      ],
+      "text_en": [
+        "The capitals shown on this Plate likewise belong to those decorating the Cloister of the Abbey of St. Victor, and are of the same style as those of the preceding Plate, that is, grotesques.",
+        "The one under no. 1 is of Cap Couronne stone; it is among the most singular, and proves what I stated in the Preliminary Discourse, that these capitals had not been made as a matter of principle to decorate these places; indeed, can one imagine an object more at odds with monastic chastity and a building consecrated to the Christian Religion? Monsters whose virile members are openly displayed in erection can only have been originally intended to adorn some secular, and indeed very profane, building; such is Vignola's opinion, that capitals adorned with animal figures must have been meant to decorate Temples (78).",
+        "The capital under no. 2 is one of the most curious and best worked; the Artist's skill in handling the chisel is recognizable in it; it is of white marble and very well preserved despite its great age: it is entirely composed of interlacing volute-shaped acanthus leaves, set in opposing directions. This style of capital presents a kind of richness of ornament that is not without merit, though infinitely below the beauties of the true Corinthian capital in its exact proportions.",
+        "Nos. 3, 4 & 5 are likewise grotesques, different from those of the preceding Plate; but nothing can be reasoned from them. They serve at most to indicate the varieties within this style, and to demonstrate the bizarreness of taste.",
+        "(78) Vignola's Architecture, p. 113, 4° edition, 1760, Paris, chez Jombert, where he cites two ancient Capitals, one of them taken from the Temple of Jupiter at Rome."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "cloître de l'abbaye de Saint-Victor",
+      "findspot_ru": "клуатр аббатства Сен-Виктор",
+      "findspot_en": "the cloister of the Abbey of Saint-Victor"
+    },
+    {
+      "id": "pl27-2",
+      "part": 2,
+      "plate": 27,
+      "num": "6",
+      "fr": "Tombeau romain cannelé en godrons (aujourd'hui perdu)",
+      "ru": "Римская гробница с каннелюрами-годронами (ныне утрачена)",
+      "en": "Roman gadrooned tomb (now lost)",
+      "page": "178",
+      "group": "XXVII",
+      "group_fr": "Planche XXVII",
+      "group_en": "XXVII",
+      "group_page": "176",
+      "flag": "monument aujourd'hui disparu",
+      "type": "tomb",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl27-full.jpg"
+      ],
+      "plate_img": "pl27-full.jpg",
+      "bbox": [
+        2.0,
+        80.0,
+        96.0,
+        18.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 6. Tombeau en marbre blanc, trouvé dans Marseille, & transporté dans la Sacristie de l'ancienne Eglise de l'Observance, où il a probablement servi de réservoir au lave-mains. Ce tombeau qui étoit dans le costume Romain en godrons, n'existe plus depuis long temps. Ce n'est pas le seul objet que nos concitoyens ont négligé de conserver. Il semble qu'on se soit au contraire attaché à faire disparoître tout ce qui pouvoit être un titre honorifique pour la Patrie."
+      ],
+      "text_ru": [
+        "№ 6. Гробница из белого мрамора, найденная в Марселе и перенесённая в ризницу древней церкви Обсерванс, где она, вероятно, служила ёмкостью для умывальника. Эта гробница, выполненная в римском каннелированном стиле (en godrons), уже давно более не существует. Это не единственный предмет, сохранением которого пренебрегли наши сограждане. Напротив, похоже, что прилагали усилия к тому, чтобы уничтожить всё, что могло бы служить почётным свидетельством для отечества."
+      ],
+      "text_en": [
+        "No. 6. Tomb in white marble, found at Marseille, and moved to the Sacristy of the old Church of the Observance, where it probably served as a basin for washing hands. This tomb, carved in the Roman gadrooned style, has long since ceased to exist. It is not the only object our fellow-citizens have neglected to preserve. It seems, on the contrary, that an effort was made to make disappear everything that might have stood as an honorable credential for the Fatherland."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Marseille; transporté à la sacristie de l'ancienne Église de l'Observance",
+      "findspot_ru": "Марсель; перенесена в ризницу древней церкви Обсерванс",
+      "findspot_en": "Marseille; moved to the sacristy of the old Church of the Observance"
     }
   ]
 }
