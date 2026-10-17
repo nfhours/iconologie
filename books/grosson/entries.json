@@ -12027,22 +12027,24 @@
       "ru": "Эпитафия Волумнии Эвтихи от её отца Эвтиха",
       "en": "Epitaph of Volumnia Eutiches, by her father Eutiches",
       "page": "270",
-      "group": "Fragments",
+      "group": "Fr43",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "270",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-1.jpg"
+      ],
+      "plate_img": "fragplate-1.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        6.1,
+        10.5,
+        26.2,
+        22.0
       ],
       "attrs": [],
       "text_fr": [
@@ -12080,22 +12082,24 @@
       "ru": "Эпитафия Флава Луциана и ...ании",
       "en": "Epitaph of Flavus Lucianus and ...ania",
       "page": "270",
-      "group": "Fragments",
+      "group": "Fr43",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "270",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-2.jpg"
+      ],
+      "plate_img": "fragplate-1.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        39.0,
+        10.5,
+        18.7,
+        22.0
       ],
       "attrs": [],
       "text_fr": [
@@ -12130,22 +12134,24 @@
       "ru": "Эпитафия Луция Валерия Феликса от его дочери Валерии Амилии",
       "en": "Epitaph of Lucius Valerius Felix, by his daughter Valeria Amilia",
       "page": "271",
-      "group": "Fragments",
+      "group": "Fr43",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "271",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-3.jpg"
+      ],
+      "plate_img": "fragplate-1.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        66.8,
+        9.5,
+        29.3,
+        23.0
       ],
       "attrs": [],
       "text_fr": [
@@ -12180,22 +12186,24 @@
       "ru": "Эпитафия Нимфидия, найденная в марсельском порту",
       "en": "Epitaph of Nymfidius, found in the port of Marseille",
       "page": "271",
-      "group": "Fragments",
+      "group": "Fr43",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "271",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-4.jpg"
+      ],
+      "plate_img": "fragplate-1.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        3.9,
+        38.5,
+        36.1,
+        26.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12230,22 +12238,24 @@
       "ru": "Эпитафия Ульпии Домиции Энеи, верной девы",
       "en": "Epitaph of Ulpia Domitia Enea, a faithful virgin",
       "page": "272",
-      "group": "Fragments",
+      "group": "Fr43",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "272",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-5.jpg"
+      ],
+      "plate_img": "fragplate-1.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        47.1,
+        38.5,
+        49.7,
+        26.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12280,22 +12290,24 @@
       "ru": "Обет Лелия, сына Нимпия, хранителя прав общины, Аполлону",
       "en": "Vow of Lielius, son of Nimpius, keeper of the community's rights, to Apollo",
       "page": "272",
-      "group": "Fragments",
+      "group": "Fr43",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "272",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-6.jpg"
+      ],
+      "plate_img": "fragplate-1.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        5.5,
+        69.5,
+        21.6,
+        13.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12333,22 +12345,24 @@
       "ru": "Фрагмент: VAL. PR. MILLAES VI. CHRO.",
       "en": "Fragment: VAL. PR. MILLAES VI. CHRO.",
       "page": "274",
-      "group": "Fragments",
+      "group": "Fr43",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "274",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-7.jpg"
+      ],
+      "plate_img": "fragplate-1.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        33.5,
+        69.5,
+        24.2,
+        13.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12383,22 +12397,24 @@
       "ru": "Эпитафия Квинта Цеста Януария и Публии Хариты (гробница, выбранная при жизни)",
       "en": "Epitaph of Quintus Cestus Ianuarius and Publia Charite (a tomb chosen in life)",
       "page": "274",
-      "group": "Fragments",
+      "group": "Fr43",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "274",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-8.jpg"
+      ],
+      "plate_img": "fragplate-1.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        66.8,
+        69.5,
+        30.0,
+        24.0
       ],
       "attrs": [],
       "text_fr": [
@@ -12430,28 +12446,30 @@
     {
       "id": "frag-9",
       "part": 5,
-      "plate": 43,
+      "plate": 44,
       "num": "9",
       "fr": "Fragment incertain: ...ATRI P. YCAR O.",
       "ru": "Неясный фрагмент: ...ATRI P. YCAR O.",
       "en": "Uncertain fragment: ...ATRI P. YCAR O.",
       "page": "275",
-      "group": "Fragments",
+      "group": "Fr44",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "275",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-9.jpg"
+      ],
+      "plate_img": "fragplate-2.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        6.4,
+        5.0,
+        20.5,
+        23.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12483,28 +12501,30 @@
     {
       "id": "frag-10",
       "part": 5,
-      "plate": 43,
+      "plate": 44,
       "num": "10",
       "fr": "Fragment: Augustius, tuteur d'Augustalis",
       "ru": "Фрагмент: Августий, опекун Августалия",
       "en": "Fragment: Augustius, guardian of Augustalis",
       "page": "276",
-      "group": "Fragments",
+      "group": "Fr44",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "276",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-10.jpg"
+      ],
+      "plate_img": "fragplate-2.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        32.4,
+        3.8,
+        34.0,
+        26.0
       ],
       "attrs": [],
       "text_fr": [
@@ -12533,28 +12553,30 @@
     {
       "id": "frag-11",
       "part": 5,
-      "plate": 43,
+      "plate": 44,
       "num": "11",
       "fr": "Fragment de la nécropole de l'embouchure de l'Huveaune (nom de Nicomède)",
       "ru": "Фрагмент из некрополя в устье Юво (имя Никомед)",
       "en": "Fragment from the Huveaune-mouth cemetery (the name Nicomedes)",
       "page": "277",
-      "group": "Fragments",
+      "group": "Fr44",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "277",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-11.jpg"
+      ],
+      "plate_img": "fragplate-2.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        72.5,
+        5.0,
+        22.4,
+        26.0
       ],
       "attrs": [],
       "text_fr": [
@@ -12583,28 +12605,30 @@
     {
       "id": "frag-12",
       "part": 5,
-      "plate": 43,
+      "plate": 44,
       "num": "12",
       "fr": "Épitaphe de Lucius Cornellianus Eutichianus, par son frère Cornellianus",
       "ru": "Эпитафия Луция Корнеллиана Эвтихиана от его брата Корнеллиана",
       "en": "Epitaph of Lucius Cornellianus Eutichianus, by his brother Cornellianus",
       "page": "278",
-      "group": "Fragments",
+      "group": "Fr44",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "278",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-12.jpg"
+      ],
+      "plate_img": "fragplate-2.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        6.4,
+        39.0,
+        24.4,
+        25.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12633,28 +12657,30 @@
     {
       "id": "frag-13",
       "part": 5,
-      "plate": 43,
+      "plate": 44,
       "num": "13",
       "fr": "Épitaphe de Marcus Caris Maximinus, par son frère Marcus Caris Pacatus",
       "ru": "Эпитафия Марка Кария Максимина от его брата Марка Кария Пакату",
       "en": "Epitaph of Marcus Caris Maximinus, by his brother Marcus Caris Pacatus",
       "page": "279",
-      "group": "Fragments",
+      "group": "Fr44",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "279",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-13.jpg"
+      ],
+      "plate_img": "fragplate-2.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        36.2,
+        37.0,
+        27.9,
+        27.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12686,28 +12712,30 @@
     {
       "id": "frag-14",
       "part": 5,
-      "plate": 43,
+      "plate": 44,
       "num": "14",
       "fr": "Épitaphe de Julia, par Tycarus, faiseur de ceintures de l'empereur Julien",
       "ru": "Эпитафия Юлии от Тикара, изготовителя поясов императора Юлиана",
       "en": "Epitaph of Julia, by Tycarus, belt-maker to the Emperor Julian",
       "page": "280",
-      "group": "Fragments",
+      "group": "Fr44",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "280",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-14.jpg"
+      ],
+      "plate_img": "fragplate-2.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        70.5,
+        37.0,
+        24.4,
+        27.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12736,28 +12764,30 @@
     {
       "id": "frag-15",
       "part": 5,
-      "plate": 43,
+      "plate": 44,
       "num": "15",
       "fr": "Dédicace d'un sépulcre de famille par Julia Marina",
       "ru": "Посвящение семейной гробницы Юлией Мариной",
       "en": "Dedication of a family tomb by Julia Marina",
       "page": "280",
-      "group": "Fragments",
+      "group": "Fr44",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "280",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-15.jpg"
+      ],
+      "plate_img": "fragplate-2.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        3.8,
+        70.5,
+        28.3,
+        27.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12786,28 +12816,30 @@
     {
       "id": "frag-16",
       "part": 5,
-      "plate": 43,
+      "plate": 44,
       "num": "16",
       "fr": "Fragment: ...lumne dulcissimae (jardin du Séminaire)",
       "ru": "Фрагмент: ...lumne dulcissimae (сад семинарии)",
       "en": "Fragment: ...lumne dulcissimae (the Seminary garden)",
       "page": "281",
-      "group": "Fragments",
+      "group": "Fr44",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "281",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-16.jpg"
+      ],
+      "plate_img": "fragplate-2.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        42.3,
+        71.0,
+        23.8,
+        19.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12836,28 +12868,30 @@
     {
       "id": "frag-17",
       "part": 5,
-      "plate": 43,
+      "plate": 44,
       "num": "17",
       "fr": "Fragment: Flavia Iuliana Nepotes",
       "ru": "Фрагмент: Flavia Iuliana Nepotes",
       "en": "Fragment: Flavia Iuliana Nepotes",
       "page": "282",
-      "group": "Fragments",
+      "group": "Fr44",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "282",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-17.jpg"
+      ],
+      "plate_img": "fragplate-2.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        72.2,
+        70.0,
+        23.7,
+        20.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12886,28 +12920,30 @@
     {
       "id": "frag-18",
       "part": 5,
-      "plate": 43,
+      "plate": 45,
       "num": "18",
       "fr": "Épitaphe de Quintus Gallius Euphemius, sextumvir des fêtes d'Auguste, par Cornelia Secunda",
       "ru": "Эпитафия Квинта Галлия Евфемия, секстумвира празднеств Августа, от Корнелии Секунды",
       "en": "Epitaph of Quintus Gallius Euphemius, sextumvir of the Augustan festivals, by Cornelia Secunda",
       "page": "282",
-      "group": "Fragments",
+      "group": "Fr45",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "282",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-18.jpg"
+      ],
+      "plate_img": "fragplate-3.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        11.1,
+        8.5,
+        42.9,
+        27.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12939,28 +12975,30 @@
     {
       "id": "frag-19",
       "part": 5,
-      "plate": 43,
+      "plate": 45,
       "num": "19",
       "fr": "Épitaphe de Flavia Telesphoriana et Flavia Fronti, dotées par testament",
       "ru": "Эпитафия Флавии Телесфорианы и Флавии Фронти, обеспеченных по завещанию",
       "en": "Epitaph of Flavia Telesphoriana and Flavia Fronti, endowed by will",
       "page": "284",
-      "group": "Fragments",
+      "group": "Fr45",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "284",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-19.jpg"
+      ],
+      "plate_img": "fragplate-3.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        59.3,
+        7.0,
+        38.1,
+        39.5
       ],
       "attrs": [],
       "text_fr": [
@@ -12992,28 +13030,30 @@
     {
       "id": "frag-20",
       "part": 5,
-      "plate": 43,
+      "plate": 45,
       "num": "20",
       "fr": "Épitaphe de Caius Postumius Venustus, par son épouse et héritière Roscia Lochagia",
       "ru": "Эпитафия Гая Постумия Венуста от его супруги и наследницы Росции Лохагии",
       "en": "Epitaph of Caius Postumius Venustus, by his wife and heiress Roscia Lochagia",
       "page": "285",
-      "group": "Fragments",
+      "group": "Fr45",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "285",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-20.jpg"
+      ],
+      "plate_img": "fragplate-3.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        4.5,
+        54.5,
+        39.4,
+        29.5
       ],
       "attrs": [],
       "text_fr": [
@@ -13051,28 +13091,30 @@
     {
       "id": "frag-21",
       "part": 5,
-      "plate": 43,
+      "plate": 45,
       "num": "21",
       "fr": "Inscription du Collège des Flamines d'Apollon et des Dendrophores de Marseille",
       "ru": "Надпись коллегии фламинов Аполлона и дендрофоров Марселя",
       "en": "Inscription of the College of the Flamens of Apollo and the Dendrophores of Marseille",
       "page": "288",
-      "group": "Fragments",
+      "group": "Fr45",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "288",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-21.jpg"
+      ],
+      "plate_img": "fragplate-3.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        48.5,
+        52.5,
+        48.9,
+        34.5
       ],
       "attrs": [],
       "text_fr": [
@@ -13110,28 +13152,30 @@
     {
       "id": "frag-22",
       "part": 5,
-      "plate": 43,
+      "plate": 46,
       "num": "22",
       "fr": "Épitaphe de Caius Vecticius Neon, par sa nourrice Vecticia Eucarpia",
       "ru": "Эпитафия Гая Вектиция Неона от его кормилицы Вектиции Эвкарпии",
       "en": "Epitaph of Caius Vecticius Neon, by his nurse Vecticia Eucarpia",
       "page": "290",
-      "group": "Fragments",
+      "group": "Fr46",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "290",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-22.jpg"
+      ],
+      "plate_img": "fragplate-4.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        6.8,
+        4.8,
+        28.8,
+        34.0
       ],
       "attrs": [],
       "text_fr": [
@@ -13160,28 +13204,30 @@
     {
       "id": "frag-23",
       "part": 5,
-      "plate": 43,
+      "plate": 46,
       "num": "23",
       "fr": "Fragment: Optimae oriae eius ... fama dimit",
       "ru": "Фрагмент: Optimae oriae eius ... fama dimit",
       "en": "Fragment: Optimae oriae eius ... fama dimit",
       "page": "291",
-      "group": "Fragments",
+      "group": "Fr46",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "291",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-23.jpg"
+      ],
+      "plate_img": "fragplate-4.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        42.8,
+        6.8,
+        50.0,
+        26.2
       ],
       "attrs": [],
       "text_fr": [
@@ -13210,28 +13256,30 @@
     {
       "id": "frag-24",
       "part": 5,
-      "plate": 43,
+      "plate": 46,
       "num": "24",
       "fr": "Fragment: Ex testamento, infra pedes XX",
       "ru": "Фрагмент: Ex testamento, infra pedes XX",
       "en": "Fragment: Ex testamento, infra pedes XX",
       "page": "291",
-      "group": "Fragments",
+      "group": "Fr46",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "291",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-24.jpg"
+      ],
+      "plate_img": "fragplate-4.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        40.6,
+        43.0,
+        47.5,
+        32.0
       ],
       "attrs": [],
       "text_fr": [
@@ -13260,28 +13308,30 @@
     {
       "id": "frag-25",
       "part": 5,
-      "plate": 43,
+      "plate": 46,
       "num": "25",
       "fr": "Fragment: Titus et Iunius (Temple de Diane)",
       "ru": "Фрагмент: Тит и Юний (храм Дианы)",
       "en": "Fragment: Titus and Iunius (Temple of Diana)",
       "page": "292",
-      "group": "Fragments",
+      "group": "Fr46",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "292",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-25.jpg"
+      ],
+      "plate_img": "fragplate-4.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        33.1,
+        77.3,
+        33.8,
+        19.7
       ],
       "attrs": [],
       "text_fr": [
@@ -13313,28 +13363,30 @@
     {
       "id": "frag-26",
       "part": 5,
-      "plate": 43,
+      "plate": 46,
       "num": "26",
       "fr": "Épitaphe de Publius Aelius Eutyches, par son affranchi Secundus",
       "ru": "Эпитафия Публия Элия Эвтиха от его вольноотпущенника Секунда",
       "en": "Epitaph of Publius Aelius Eutyches, by his freedman Secundus",
       "page": "292",
-      "group": "Fragments",
+      "group": "Fr46",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "292",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "frag-26.jpg"
+      ],
+      "plate_img": "fragplate-4.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        10.8,
+        41.8,
+        23.7,
+        27.7
       ],
       "attrs": [],
       "text_fr": [
@@ -13364,30 +13416,252 @@
       "findspot_en": ""
     },
     {
-      "id": "greek-1",
+      "id": "greek-p1",
       "part": 5,
-      "plate": 43,
-      "num": "Fr. gr. 1-3",
-      "fr": "Fragments grecs 1 à 3: le nom de Parmenon",
-      "ru": "Греческие фрагменты 1-3: имя Пармено",
-      "en": "Greek fragments 1-3: the name Parmenon",
+      "plate": 47,
+      "num": "1",
+      "fr": "Fragment grec 1 (nom de Parmenon)",
+      "ru": "Греческий фрагмент 1 (имя Пармено)",
+      "en": "Greek fragment 1 (the name Parmenon)",
       "page": "293",
-      "group": "Fragments",
+      "group": "Fr47",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "293",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "greek-p1.jpg"
+      ],
+      "plate_img": "fragplate-5.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        51.3,
+        6.5,
+        46.6,
+        26.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Quoique les Fragmens Grecs par lesquels je termine cet ouvrage, soient cités par Ruffi, par Guesnay & les Auteurs du manuscrit de la Massiliographie, ils ne présentent rien d'intéressant pour le lecteur. J'ai cru néanmoins devoir les rapporter dans ce recueil pour les préserver de l'oubli & les conserver dans cette espèce de dépôt public. Les moindres fragmens donnent souvent des notices nécessaires pour expliquer d'autres monumens, qu'un heureux hasard peut faire découvrir. J'avoue que ceux désignés depuis le No. 1 jusqu'au No. 6 de cette gravure en bois (38), ne nous dévoilent pour le moment présent que le nom de PARMENON répété sur trois inscriptions. Le mélange de caractères Grecs & Romains qu'on rencontre dans les fragmens indiqués par le No. 1 & 2, n'ont d'autre mérite que de constater l'usage commun des deux langues dans Marseille.",
+        "(38) Le défaut de caractères Grecs m'a obligé d'avoir recours à l'expédient de la gravure en bois, j'ai préféré de profiter de cette ressource plutôt que de supprimer ces monumens."
+      ],
+      "text_ru": [
+        "Хотя греческие фрагменты, которыми я завершаю этот труд, приводятся Рюффи, Генэ и авторами рукописи «Массилиографии», они не представляют ничего интересного для читателя. Тем не менее я счёл необходимым привести их в этом собрании, дабы уберечь от забвения и сохранить в этом своего рода общественном хранилище. Мельчайшие фрагменты нередко дают сведения, необходимые для объяснения других памятников, которые может открыть счастливый случай. Признаюсь, что фрагменты, обозначенные от № 1 до № 6 на этой деревянной гравюре (38), пока раскрывают нам лишь имя PARMENON, повторяющееся на трёх надписях. Смешение греческих и латинских букв, встречающееся во фрагментах № 1 и 2, имеет лишь то достоинство, что подтверждает совместное употребление обоих языков в Марселе.",
+        "(38) Отсутствие греческого шрифта вынудило меня прибегнуть к деревянной гравюре; я предпочёл воспользоваться этим средством, нежели вовсе опустить эти памятники."
+      ],
+      "text_en": [
+        "Although the Greek Fragments with which I end this work are cited by Ruffi, by Guesnay and the authors of the Massiliographie manuscript, they present nothing of interest to the reader. I nonetheless felt I should report them in this collection, to preserve them from oblivion and keep them in this sort of public repository. The smallest fragments often provide notices necessary to explain other monuments that a fortunate chance may bring to light. I admit that those marked from no. 1 to no. 6 on this woodcut (38) reveal to us, for the present, only the name PARMENON repeated on three inscriptions. The mixture of Greek and Roman characters found in the fragments marked no. 1 and 2 has no merit beyond confirming the joint use of both languages at Marseille.",
+        "(38) The lack of Greek type obliged me to resort to the expedient of a wood engraving; I preferred to use this resource rather than omit these pieces."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "",
+      "findspot_ru": "",
+      "findspot_en": ""
+    },
+    {
+      "id": "greek-p2",
+      "part": 5,
+      "plate": 47,
+      "num": "2",
+      "fr": "Fragment grec 2 (nom de Parmenon)",
+      "ru": "Греческий фрагмент 2 (имя Пармено)",
+      "en": "Greek fragment 2 (the name Parmenon)",
+      "page": "293",
+      "group": "Fr47",
+      "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
+      "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
+      "group_page": "293",
+      "flag": "",
+      "type": "fragment",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "greek-p2.jpg"
+      ],
+      "plate_img": "fragplate-5.jpg",
+      "bbox": [
+        10.8,
+        9.8,
+        35.8,
+        23.2
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Quoique les Fragmens Grecs par lesquels je termine cet ouvrage, soient cités par Ruffi, par Guesnay & les Auteurs du manuscrit de la Massiliographie, ils ne présentent rien d'intéressant pour le lecteur. J'ai cru néanmoins devoir les rapporter dans ce recueil pour les préserver de l'oubli & les conserver dans cette espèce de dépôt public. Les moindres fragmens donnent souvent des notices nécessaires pour expliquer d'autres monumens, qu'un heureux hasard peut faire découvrir. J'avoue que ceux désignés depuis le No. 1 jusqu'au No. 6 de cette gravure en bois (38), ne nous dévoilent pour le moment présent que le nom de PARMENON répété sur trois inscriptions. Le mélange de caractères Grecs & Romains qu'on rencontre dans les fragmens indiqués par le No. 1 & 2, n'ont d'autre mérite que de constater l'usage commun des deux langues dans Marseille.",
+        "(38) Le défaut de caractères Grecs m'a obligé d'avoir recours à l'expédient de la gravure en bois, j'ai préféré de profiter de cette ressource plutôt que de supprimer ces monumens."
+      ],
+      "text_ru": [
+        "Хотя греческие фрагменты, которыми я завершаю этот труд, приводятся Рюффи, Генэ и авторами рукописи «Массилиографии», они не представляют ничего интересного для читателя. Тем не менее я счёл необходимым привести их в этом собрании, дабы уберечь от забвения и сохранить в этом своего рода общественном хранилище. Мельчайшие фрагменты нередко дают сведения, необходимые для объяснения других памятников, которые может открыть счастливый случай. Признаюсь, что фрагменты, обозначенные от № 1 до № 6 на этой деревянной гравюре (38), пока раскрывают нам лишь имя PARMENON, повторяющееся на трёх надписях. Смешение греческих и латинских букв, встречающееся во фрагментах № 1 и 2, имеет лишь то достоинство, что подтверждает совместное употребление обоих языков в Марселе.",
+        "(38) Отсутствие греческого шрифта вынудило меня прибегнуть к деревянной гравюре; я предпочёл воспользоваться этим средством, нежели вовсе опустить эти памятники."
+      ],
+      "text_en": [
+        "Although the Greek Fragments with which I end this work are cited by Ruffi, by Guesnay and the authors of the Massiliographie manuscript, they present nothing of interest to the reader. I nonetheless felt I should report them in this collection, to preserve them from oblivion and keep them in this sort of public repository. The smallest fragments often provide notices necessary to explain other monuments that a fortunate chance may bring to light. I admit that those marked from no. 1 to no. 6 on this woodcut (38) reveal to us, for the present, only the name PARMENON repeated on three inscriptions. The mixture of Greek and Roman characters found in the fragments marked no. 1 and 2 has no merit beyond confirming the joint use of both languages at Marseille.",
+        "(38) The lack of Greek type obliged me to resort to the expedient of a wood engraving; I preferred to use this resource rather than omit these pieces."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "",
+      "findspot_ru": "",
+      "findspot_en": ""
+    },
+    {
+      "id": "greek-p3",
+      "part": 5,
+      "plate": 47,
+      "num": "3",
+      "fr": "Fragment grec 3 (nom de Parmenon)",
+      "ru": "Греческий фрагмент 3 (имя Пармено)",
+      "en": "Greek fragment 3 (the name Parmenon)",
+      "page": "293",
+      "group": "Fr47",
+      "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
+      "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
+      "group_page": "293",
+      "flag": "",
+      "type": "fragment",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "greek-p3.jpg"
+      ],
+      "plate_img": "fragplate-5.jpg",
+      "bbox": [
+        10.8,
+        36.0,
+        44.4,
+        25.8
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Quoique les Fragmens Grecs par lesquels je termine cet ouvrage, soient cités par Ruffi, par Guesnay & les Auteurs du manuscrit de la Massiliographie, ils ne présentent rien d'intéressant pour le lecteur. J'ai cru néanmoins devoir les rapporter dans ce recueil pour les préserver de l'oubli & les conserver dans cette espèce de dépôt public. Les moindres fragmens donnent souvent des notices nécessaires pour expliquer d'autres monumens, qu'un heureux hasard peut faire découvrir. J'avoue que ceux désignés depuis le No. 1 jusqu'au No. 6 de cette gravure en bois (38), ne nous dévoilent pour le moment présent que le nom de PARMENON répété sur trois inscriptions. Le mélange de caractères Grecs & Romains qu'on rencontre dans les fragmens indiqués par le No. 1 & 2, n'ont d'autre mérite que de constater l'usage commun des deux langues dans Marseille.",
+        "(38) Le défaut de caractères Grecs m'a obligé d'avoir recours à l'expédient de la gravure en bois, j'ai préféré de profiter de cette ressource plutôt que de supprimer ces monumens."
+      ],
+      "text_ru": [
+        "Хотя греческие фрагменты, которыми я завершаю этот труд, приводятся Рюффи, Генэ и авторами рукописи «Массилиографии», они не представляют ничего интересного для читателя. Тем не менее я счёл необходимым привести их в этом собрании, дабы уберечь от забвения и сохранить в этом своего рода общественном хранилище. Мельчайшие фрагменты нередко дают сведения, необходимые для объяснения других памятников, которые может открыть счастливый случай. Признаюсь, что фрагменты, обозначенные от № 1 до № 6 на этой деревянной гравюре (38), пока раскрывают нам лишь имя PARMENON, повторяющееся на трёх надписях. Смешение греческих и латинских букв, встречающееся во фрагментах № 1 и 2, имеет лишь то достоинство, что подтверждает совместное употребление обоих языков в Марселе.",
+        "(38) Отсутствие греческого шрифта вынудило меня прибегнуть к деревянной гравюре; я предпочёл воспользоваться этим средством, нежели вовсе опустить эти памятники."
+      ],
+      "text_en": [
+        "Although the Greek Fragments with which I end this work are cited by Ruffi, by Guesnay and the authors of the Massiliographie manuscript, they present nothing of interest to the reader. I nonetheless felt I should report them in this collection, to preserve them from oblivion and keep them in this sort of public repository. The smallest fragments often provide notices necessary to explain other monuments that a fortunate chance may bring to light. I admit that those marked from no. 1 to no. 6 on this woodcut (38) reveal to us, for the present, only the name PARMENON repeated on three inscriptions. The mixture of Greek and Roman characters found in the fragments marked no. 1 and 2 has no merit beyond confirming the joint use of both languages at Marseille.",
+        "(38) The lack of Greek type obliged me to resort to the expedient of a wood engraving; I preferred to use this resource rather than omit these pieces."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "",
+      "findspot_ru": "",
+      "findspot_en": ""
+    },
+    {
+      "id": "greek-p4",
+      "part": 5,
+      "plate": 47,
+      "num": "4",
+      "fr": "Fragment grec 4 (nom de Parmenon)",
+      "ru": "Греческий фрагмент 4 (имя Пармено)",
+      "en": "Greek fragment 4 (the name Parmenon)",
+      "page": "293",
+      "group": "Fr47",
+      "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
+      "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
+      "group_page": "293",
+      "flag": "",
+      "type": "fragment",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "greek-p4.jpg"
+      ],
+      "plate_img": "fragplate-5.jpg",
+      "bbox": [
+        63.5,
+        36.0,
+        34.4,
+        24.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Quoique les Fragmens Grecs par lesquels je termine cet ouvrage, soient cités par Ruffi, par Guesnay & les Auteurs du manuscrit de la Massiliographie, ils ne présentent rien d'intéressant pour le lecteur. J'ai cru néanmoins devoir les rapporter dans ce recueil pour les préserver de l'oubli & les conserver dans cette espèce de dépôt public. Les moindres fragmens donnent souvent des notices nécessaires pour expliquer d'autres monumens, qu'un heureux hasard peut faire découvrir. J'avoue que ceux désignés depuis le No. 1 jusqu'au No. 6 de cette gravure en bois (38), ne nous dévoilent pour le moment présent que le nom de PARMENON répété sur trois inscriptions. Le mélange de caractères Grecs & Romains qu'on rencontre dans les fragmens indiqués par le No. 1 & 2, n'ont d'autre mérite que de constater l'usage commun des deux langues dans Marseille.",
+        "(38) Le défaut de caractères Grecs m'a obligé d'avoir recours à l'expédient de la gravure en bois, j'ai préféré de profiter de cette ressource plutôt que de supprimer ces monumens."
+      ],
+      "text_ru": [
+        "Хотя греческие фрагменты, которыми я завершаю этот труд, приводятся Рюффи, Генэ и авторами рукописи «Массилиографии», они не представляют ничего интересного для читателя. Тем не менее я счёл необходимым привести их в этом собрании, дабы уберечь от забвения и сохранить в этом своего рода общественном хранилище. Мельчайшие фрагменты нередко дают сведения, необходимые для объяснения других памятников, которые может открыть счастливый случай. Признаюсь, что фрагменты, обозначенные от № 1 до № 6 на этой деревянной гравюре (38), пока раскрывают нам лишь имя PARMENON, повторяющееся на трёх надписях. Смешение греческих и латинских букв, встречающееся во фрагментах № 1 и 2, имеет лишь то достоинство, что подтверждает совместное употребление обоих языков в Марселе.",
+        "(38) Отсутствие греческого шрифта вынудило меня прибегнуть к деревянной гравюре; я предпочёл воспользоваться этим средством, нежели вовсе опустить эти памятники."
+      ],
+      "text_en": [
+        "Although the Greek Fragments with which I end this work are cited by Ruffi, by Guesnay and the authors of the Massiliographie manuscript, they present nothing of interest to the reader. I nonetheless felt I should report them in this collection, to preserve them from oblivion and keep them in this sort of public repository. The smallest fragments often provide notices necessary to explain other monuments that a fortunate chance may bring to light. I admit that those marked from no. 1 to no. 6 on this woodcut (38) reveal to us, for the present, only the name PARMENON repeated on three inscriptions. The mixture of Greek and Roman characters found in the fragments marked no. 1 and 2 has no merit beyond confirming the joint use of both languages at Marseille.",
+        "(38) The lack of Greek type obliged me to resort to the expedient of a wood engraving; I preferred to use this resource rather than omit these pieces."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "",
+      "findspot_ru": "",
+      "findspot_en": ""
+    },
+    {
+      "id": "greek-p5",
+      "part": 5,
+      "plate": 47,
+      "num": "5",
+      "fr": "Fragment grec 5 (nom de Parmenon)",
+      "ru": "Греческий фрагмент 5 (имя Пармено)",
+      "en": "Greek fragment 5 (the name Parmenon)",
+      "page": "293",
+      "group": "Fr47",
+      "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
+      "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
+      "group_page": "293",
+      "flag": "",
+      "type": "fragment",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "greek-p5.jpg"
+      ],
+      "plate_img": "fragplate-5.jpg",
+      "bbox": [
+        55.2,
+        68.3,
+        42.7,
+        25.2
       ],
       "attrs": [],
       "text_fr": [
@@ -13419,28 +13693,30 @@
     {
       "id": "greek-4",
       "part": 5,
-      "plate": 43,
-      "num": "Fr. gr. 4",
-      "fr": "Fragment grec 4: Dionisi Dionisi Sideiti Metrima (Denis, fils de Denis, de la ville de Sida)",
-      "ru": "Греческий фрагмент 4: Дионисий, сын Дионисия, из города Сиды",
-      "en": "Greek fragment 4: Dionysius, son of Dionysius, of the city of Sida",
+      "plate": 47,
+      "num": "6",
+      "fr": "Fragment grec 6: Dionisi Dionisi Sideiti Metrima (Denis, fils de Denis, de la ville de Sida)",
+      "ru": "Греческий фрагмент 6: Дионисий, сын Дионисия, из города Сиды",
+      "en": "Greek fragment 6: Dionysius, son of Dionysius, of the city of Sida",
       "page": "294",
-      "group": "Fragments",
+      "group": "Fr47",
       "group_fr": "Épitaphes, inscriptions et fragmens rapportés par divers Auteurs",
       "group_en": "Epitaphs, inscriptions and fragments reported by various Authors",
-      "group_page": "269",
+      "group_page": "294",
       "flag": "",
       "type": "fragment",
       "material_fr": "",
       "material_ru": "",
       "material_en": "",
-      "img": [],
-      "plate_img": "",
+      "img": [
+        "greek-4.jpg"
+      ],
+      "plate_img": "fragplate-5.jpg",
       "bbox": [
-        0,
-        0,
-        0,
-        0
+        10.8,
+        68.3,
+        39.4,
+        25.2
       ],
       "attrs": [],
       "text_fr": [
