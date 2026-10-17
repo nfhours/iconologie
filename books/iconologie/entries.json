@@ -13718,12 +13718,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-119.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Муж, указывающий на спаренный мельничный жёрнов, держащий цаплю в левой руке, с поверженным оленем у ног",
+          "meaning": "Спаренный жёрнов — взаимный оборот и взаимозависимость людей; цапля/аист — пример взаимопомощи (аисты поддерживают друг друга шеями в полёте); олень — пример взаимопомощи животных при переправе через воду",
+          "what_en": "A man pointing to a paired millstone, holding a heron in his left hand, a felled stag at his feet",
+          "meaning_en": "The paired millstone signifies the mutual exchange and interdependence of men; the heron/stork, an example of mutual aid (storks support each other's necks in flight); the stag, an example of animals helping each other cross water"
+        }
+      ],
+      "text_ru": [
+        "Этот муж неплохо означает Оборот жизни. Он указывает перстом на спаренный мельничный жёрнов, держит в левой руке цаплю, а под ногами у него — поверженный олень. Спаренный жёрнов — символ взаимного оборота людей, непременно нуждающихся во взаимной помощи; ибо дабы облегчить себе путь, они должны помогать друг другу, как делают аисты, поддерживающие шею один за другим, когда устают от полёта; то же самое наблюдают и олени, когда переправляются через морской пролив или реку."
+      ],
+      "text_fr": [
+        "CET homme ne denote pas mal le Commerce de la vie. Il montre avec le doigt vne double pierre de moulin, tient vne cicogne de la main gauche, & a sous les pieds vn cerf abatu. La double pierre est le symbole du mutuel commerce des hommes, qui ont besoin necessairement d'vn secours reciproque; car pour se soulager il faut qu'ils s'entr'aident, comme font les cygognes, qui se soûtiennent le col l'vne aprés l'autre, lors qu'elles sont lassées de voler; ce que les cerfs observent encore, quand ils passent quelque bras de mer, ou quelque riviere."
+      ],
       "en": "The Commerce of Human Life",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-119-1.jpg",
+        "p2-119-2.jpg"
+      ]
     },
     {
       "id": "p2-120",
@@ -13736,12 +13753,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-120.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Отзывчивая женщина с гнездом грифов в левой руке, рассыпающая золотые и серебряные монеты правой",
+          "meaning": "Рассыпаемые монеты — щедрая, деятельная помощь нуждающимся; гриф, кормящий птенцов собственной кровью при нехватке добычи, — образец самоотверженного сострадания",
+          "what_en": "A compassionate woman with a nest of vultures in her left hand, scattering gold and silver coins with her right",
+          "meaning_en": "The scattered coins signify generous, active help to the needy; the vulture, feeding its young with its own blood when prey is scarce, an example of selfless compassion"
+        }
+      ],
+      "text_ru": [
+        "Вот эмблема Сострадания, что эта отзывчивая женщина являет нашим взорам. В левой руке она держит гнездо грифов, а правой рассыпает золотые и серебряные монеты: чем наивно означена истинная помощь, должная нашим ближним; ибо гриф питает столь естественную нежность к своим птенцам, что, когда ему недостаёт добычи, он пронзает себе бёдра сильными ударами клюва и питает их кровью, оттуда брызжущей."
+      ],
+      "text_fr": [
+        "VOICY l'emblême de la Compassion, que cette femme secourable expose à nos yeux. Elle tient de la main gauche vn nid de vautours, & seme de la droite des pieces d'or & d'argent: Par où nous est marquée naïvement la vraye assistance que nous devons à nos semblables; le vautour ayant vne tendresse si naturelle pour ses petits, que lors qu'il manque de proye, il se perce les cuisses à grands coups de bec, & les nourrit du sang qui en rejallit."
+      ],
       "en": "Compassion",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-120-1.jpg",
+        "p2-120-2.jpg"
+      ]
     },
     {
       "id": "p2-121",
@@ -13754,12 +13788,30 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-121.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылатая женщина, преклонившая колена на подножии колонны в уединённом месте, рядом пёс, агнец и голубка",
+          "meaning": "Уединение — тайна исповеди; крылья — вознесение к Небу через эту добродетель; подножие колонны — смирение, соединённое с постоянством; голубка — простосердечие; пёс — верное объявление своих грехов; агнец — кротость и покорность при исправлении",
+          "what_en": "A winged woman kneeling on the base of a column in a solitary place, a dog, a lamb, and a dove beside her",
+          "meaning_en": "The solitude signifies the secrecy of confession; the wings, the elevation to Heaven this virtue brings; the column's base, humility joined with unwavering constancy; the dove, simplicity and artlessness; the dog, the faithful declaration of one's sins; the lamb, the meekness and submission needed when being corrected"
+        }
+      ],
+      "text_ru": [
+        "Вы видите здесь таинственную фигуру Исповеди, в виде женщины, уединившейся в стороне и преклонившей колена на подножии колонны, с крыльями на спине, а у её ног — пёс, агнец и голубка. Уединением, в которое удаляется эта женщина, нам показано, что Исповедь должна совершаться в тайном месте; крыльями — что её добродетель возносит нас к Небу; подножием, на коем она преклоняет колена, — что к её смирению должно присоединить непоколебимое постоянство; голубкой — что она должна быть простой и чистосердечной; псом — что важно, чтобы исповедующийся верно объявлял свои грехи; а агнцем — что ему необходимы кротость и покорность, когда его исправляют."
+      ],
+      "text_fr": [
+        "VOUS voyez icy la mysterieuse figure de la Confession, sous la peinture d'vne femme retirée à l'écart, & qui se tient à genoux sur la base d'vne colomne, ayant des aisles au dos, & à ses pieds vn chien, vn agneau, & vne colombe. Par la solitude où cette femme se retire, il nous est montré que la Confession se doit faire en lieu secret; par ses aisles, que sa vertu nous eleve au Ciel; par la base où elle s'agenouille, qu'à son humilité il faut joindre vne inviolable constance; par la colombe, qu'elle doit estre simple & naïve; par le chien, qu'il est important que celuy qui la fait declare fidelement ses pechez; & par l'agneau, que la douceur & la soumission luy sont necessaires, quand on le corrige."
+      ],
       "en": "Confession",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-121-1.jpg",
+        "p2-121-2.jpg",
+        "p2-121-3.jpg"
+      ]
     },
     {
       "id": "p2-122",
@@ -13772,12 +13824,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-122.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина с двумя колосьями пшеницы в одной руке и чашей, полной сердец, в другой",
+          "meaning": "Колосья пшеницы — изобилие, порождаемое взаимным согласием многих людей; чаша с сердцами — взаимное соответствие воль, составляющее сущность Согласия",
+          "what_en": "A woman with two wheat ears in one hand and a cup full of hearts in the other",
+          "meaning_en": "The wheat ears signify the abundance that follows from the mutual accord of many people; the cup of hearts, the reciprocal conformity of wills that constitutes Concord itself"
+        }
+      ],
+      "text_ru": [
+        "Согласие, будучи взаимным единением воль, не без причины изображено здесь в виде женщины, держащей в одной руке два колоса пшеницы, а в другой — чашу, полную сердец; что означает взаимное соответствие многих лиц, откуда обычно проистекает изобилие, здесь означенное колосьями."
+      ],
+      "text_fr": [
+        "LA Concorde estant vne mutuelle vnion de volontez, n'est pas peinte icy sans raison, en femme qui tient d'vne main deux épics de bled, & de l'autre vne coupe pleine de cœurs; ce qui signifie la conformité reciproque de plusieurs personnes, d'où s'ensuit ordinairement l'abondance, qui est icy denotée par les épics."
+      ],
       "en": "Concord",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-122-1.jpg",
+        "p2-122-2.jpg"
+      ]
     },
     {
       "id": "p2-123",
