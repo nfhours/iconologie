@@ -18889,12 +18889,40 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-231.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Богатое одеяние",
+          "meaning": "знак гордыни",
+          "what_en": "Richly dressed",
+          "meaning_en": "a mark of pride"
+        },
+        {
+          "what": "Павлин в руке",
+          "meaning": "знак тщеславного самолюбования",
+          "what_en": "Peacock in her hand",
+          "meaning_en": "a mark of vain self-admiration"
+        },
+        {
+          "what": "Зеркало, в которое она смотрится",
+          "meaning": "самолюбование — ещё один знак гордыни",
+          "what_en": "Mirror in which she admires herself",
+          "meaning_en": "self-regard, another mark of pride"
+        }
+      ],
+      "text_ru": [
+        "Она изображена самыми яркими красками на этом полотне, где представлена юная дама, богато одетая, несущая павлина в одной руке, а в другой — зеркало, в которое она смотрится: это я объяснял бы напрасно, поскольку все эти вещи говорят сами за себя и суть равно знаки гордыни."
+      ],
+      "text_fr": [
+        "Elle est peinte des plus vives couleurs dans ce tableau, où se voit representée vne jeune dame richement vestuë, portant vn paon d'vne main, & de l'autre vn miroir où elle se regarde: ce que j'expliquerois en vain, puisque toutes ces choses parlent d'elles-mesmes, & sont autant de marques d'orgueil."
+      ],
       "en": "Pride (Superbia)",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-231-1.jpg"
+      ]
     },
     {
       "id": "p2-232",
@@ -18907,12 +18935,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-232.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Жаровня с огнём",
+          "meaning": "слабая сама по себе склонность, способная разгореться",
+          "what_en": "Brazier full of fire",
+          "meaning_en": "an inclination weak in itself yet able to flare up"
+        },
+        {
+          "what": "Палочка, которой она ворошит угли",
+          "meaning": "искушение как разжигание скрытых наклонностей духа или тела",
+          "what_en": "Small stick with which she stirs the coals",
+          "meaning_en": "temptation as the fanning of hidden dispositions of mind or body"
+        }
+      ],
+      "text_ru": [
+        "Её эмблема — юная женщина, которая держит в одной руке жаровню, полную огня, а в другой — небольшую палочку, которой она ворошит угли, дабы разгорелось пламя: ибо в том смысле, в котором здесь следует понимать слово «Искушать», оно означает собственно разжигание того, что само по себе имеет мало силы, хотя и способно её обрести в достаточной мере, и превращать в действие расположения либо духа, либо тела."
+      ],
+      "text_fr": [
+        "Elle a pour emblême vne jeune femme, qui tient d'vne main vn réchaud plein de feu, & de l'autre vn petit bâton dont elle remuë les charbons, afin que la flamme s'y prenne: car dans le sens où le mot de Tenter se doit prendre icy, il signifie proprement fomenter vne chose, qui a d'elle-mesme peu de force, bien qu'elle soit capable d'en avoir assez, & de reduire en acte les dispositions ou de l'esprit, ou du corps."
+      ],
       "en": "Temptation",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-232-1.jpg",
+        "p2-232-2.jpg"
+      ]
     },
     {
       "id": "p2-233",
@@ -18925,12 +18976,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-233.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Венок из ветки тутового дерева",
+          "meaning": "тутовое дерево — самое позднее из плодовых деревьев",
+          "what_en": "Wreath of mulberry branch",
+          "meaning_en": "the mulberry, the latest of all fruit-bearing trees"
+        },
+        {
+          "what": "Черепаха, на которой она восседает",
+          "meaning": "самое медленное из всех животных",
+          "what_en": "Tortoise on which she rides",
+          "meaning_en": "the slowest of all animals"
+        }
+      ],
+      "text_ru": [
+        "Трудно показать эмблему Медлительности более подходящую и более естественную, чем эта, представленная женщиной, увенчанной веткой тутового дерева и восседающей на черепахе, каковая из всех животных движется медленнее всех; подобно тому как тутовое дерево — самое позднее из всех деревьев, приносящих плод."
+      ],
+      "text_fr": [
+        "Il est difficile de faire voir vn emblême de la Tardiveté plus propre & plus naturel que celuy-cy, representé par vne femme couronnée d'vne branche de meurier, & montée sur vne tortuë, qui est de tous les animaux celuy qui va le moins viste; comme le meurier est aussi le plus tardif de tous les arbres à porter du fruit."
+      ],
       "en": "Tardiness",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-233-1.jpg",
+        "p2-233-2.jpg"
+      ]
     },
     {
       "id": "p2-234",
@@ -18943,12 +19017,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-234.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Два змеиных хвоста вместо ног",
+          "meaning": "чудовищная, обманчивая природа Обманщика",
+          "what_en": "Two serpent's tails in place of legs",
+          "meaning_en": "the monstrous, deceitful nature of the Deceiver"
+        },
+        {
+          "what": "Три крючка в руке",
+          "meaning": "уловки, которыми заманивают жертву",
+          "what_en": "Three fishhooks in his hand",
+          "meaning_en": "the snares by which the victim is lured"
+        },
+        {
+          "what": "Букет цветов с выползающим ужом",
+          "meaning": "привлекательная внешность, скрывающая яд злого умысла",
+          "what_en": "Bouquet of flowers with a snake slithering out",
+          "meaning_en": "an attractive appearance concealing malicious venom"
+        },
+        {
+          "what": "Пантера у ног",
+          "meaning": "красота, скрывающая голову и привлекающая жертв на погибель",
+          "what_en": "Panther at his feet",
+          "meaning_en": "beauty that hides its head and lures victims to their doom"
+        },
+        {
+          "what": "Свиток OCCVLTVM VISV DECVRRITE PISCIS AD HAMVM",
+          "meaning": "рыба бежит на скрытый от взора крючок",
+          "what_en": "Scroll inscribed OCCVLTVM VISV DECVRRITE PISCIS AD HAMVM",
+          "meaning_en": "the fish rushes to the hook hidden from its sight"
+        }
+      ],
+      "text_ru": [
+        "Вот эмблема Обмана, в облике чудовищного старца, тело которого оканчивается двумя змеиными хвостами, сплетёнными один с другим. В одной руке он держит три крючка, а в другой — букет цветов, из которого выползает уж; у его ног к тому же пантера. Всё это являет природу Обманщика, который под человеческим обличьем таит злобу, в тысячу раз более заразную, чем яд дракона; в этом он подобен пантере, которая, скрывая голову и показывая лишь спину, привлекает красотой своей шкуры прочих диких зверей, на которых она затем бросается, дабы их пожрать. К этому же относится свиток, на котором читаются слова OCCVLTVM VISV DECVRRITE PISCIS AD HAMVM («РЫБА СБЕГАЕТСЯ НА КРЮЧОК, СКРЫТЫЙ ОТ ВЗОРА»)."
+      ],
+      "text_fr": [
+        "Voicy l'emblême de la Tromperie, sous la figure d'vn monstrueux vieillard, le corps duquel aboutit à deux queuës de serpent, enlacées l'vne dans l'autre. Il tient d'vne main trois hameçons, & de l'autre vn bouquet de fleurs, d'où sort vne couleuvre; ayant de plus vne panthere à ses pieds. Tout cela démontre le naturel du Trompeur, qui sous vne apparence humaine, couve vne malice plus contagieuse mille fois que le venin du dragon; en cela semblable à la panthere, laquelle cachant sa teste, & ne montrant que le dos, attire par la beauté de sa peau les autres bestes sauvages, sur qui elle se jette, afin de les devorer. A quoy se rapporte encore l'écriteau où se lisent ces paroles, OCCVLTVM VISV DECVRRITE PISCIS AD HAMVM."
+      ],
       "en": "Deception",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-234-1.jpg",
+        "p2-234-2.jpg"
+      ]
     },
     {
       "id": "p2-235",
