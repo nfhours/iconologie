@@ -6714,6 +6714,137 @@
       "findspot_fr": "",
       "findspot_ru": "",
       "findspot_en": ""
+    },
+    {
+      "id": "pl19-1",
+      "part": 2,
+      "plate": 19,
+      "num": "1",
+      "fr": "Fragment de bas-relief: philosophes ou savants sous un portique",
+      "ru": "Фрагмент барельефа: философы или учёные мужи под портиком",
+      "en": "Bas-relief fragment: philosophers or scholars beneath a portico",
+      "page": "151",
+      "group": "XIX",
+      "group_fr": "Planche XIX",
+      "group_en": "XIX",
+      "group_page": "151",
+      "flag": "",
+      "type": "relief",
+      "material_fr": "marbre",
+      "material_ru": "мрамор",
+      "material_en": "marble",
+      "img": [
+        "pl19-full.jpg"
+      ],
+      "plate_img": "pl19-full.jpg",
+      "bbox": [
+        3.0,
+        2.0,
+        94.0,
+        56.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LE monument désigné sous le n°.1, est dans l'Eglise inférieure de Saint Victor, à côté de l'Escalier qui est vis-à-vis de la Chapelle de St. Mauront: c'est un Fragment d'un Bas-relief en marbre, sur lequel sont représentées des personnes qui sortent d'un édifice ressemblant à un portique. Leurs habillemens sont tous dans le même costume; la Tunique & la Chlamyde ou Manteau; elles ont des brodequins pour chaussure: la figure du milieu tient de la main gauche un bonnet dans le goût de ceux des Gaulois; elle représente une personne plus âgée que les autres sculptées sur ce Bas-relief; ces dernières sont sans barbe; deux d'entr'elles tiennent un rouleau: ce sont sans doute de ces tablettes roulées de Papyrus, dont les Anciens se servoient pour écrire, & telles qu'on en a trouvé dans les ruines d'Herculaneum (57).",
+        "Il me paroît que l'Artiste avoit voulu représenter des Philosophes ou des Savans dans le lieu destiné à leur exercice, qui étoit orné de portiques chez les Grecs. L'Académie de Marseille étoit trop renommée, pour n'avoir pas été décorée dans le même goût (58).",
+        "Ce Bas-relief, tout mutilé qu'il est, donne une assez bonne idée de l'intelligence des Artistes, dans les temps où cet ouvrage fut exécuté. Il a été probablement enlevé de l'ancien Cimetière, pour orner le Tombeau que les Moines de St. Victor disoient être celui de quatre Freres, du nombre des sept Dormans. Je laisse aux critiques à éclaircir l'histoire de ces sept Freres, & comment quatre d'entr'eux ont été ensevelis à St. Victor [59]. Je me contenterai d'avouer que le monument n'ayant aucun rapport avec les sept Freres Dormans, il est à croire qu'il fut incrusté dans l'état où il se trouve aujourd'hui, dans ces siècles d'ignorance & de barbarie, où la disette & l'impéritie des ouvriers obligeoit de se servir des moindres Fragmens pour décorer les lieux saints. On dégradoit même très-souvent des Édifices profanes pour cet effet.",
+        "(57) Voyez le Recueil des Antiquités d'Herculaneum. — (58) Voyez la dissertation sur l'ancienne Académie de Marseille, par M. Olivier. Marseille, chez Boy, 1727. Elle se trouve dans le premier Recueil de l'Académie des Belles-Lettres de cette Ville. — (59) Selon la tradition, le Pape Urbain V apporta leurs ossemens de Rome, & en fit don à l'Abbaye."
+      ],
+      "text_ru": [
+        "Памятник, обозначенный номером 1, находится в нижней церкви Сен-Виктора, у лестницы, что напротив часовни Св. Морона: это фрагмент мраморного барельефа, на котором изображены люди, выходящие из здания, похожего на портик. Их одеяния все одного рода: туника и хламида, или плащ; на ногах — котурны: средняя фигура держит в левой руке шапку наподобие галльских; она изображает лицо более пожилое, чем прочие, высеченные на этом барельефе; последние безбороды; двое из них держат свиток: это, несомненно, те свёрнутые папирусные таблички, которыми пользовались древние для письма и какие были найдены среди развалин Геркуланума (57).",
+        "Мне представляется, что художник хотел изобразить философов или учёных мужей в месте, предназначенном для их занятий, которое у греков украшалось портиками. Марсельская академия была слишком прославлена, чтобы не быть украшенной в том же вкусе (58).",
+        "Этот барельеф, сколь он ни повреждён, даёт довольно верное представление об искусности мастеров того времени, когда было создано это произведение. Вероятно, он был взят с древнего кладбища, чтобы украсить гробницу, которую монахи Сен-Виктора называли гробницей четырёх братьев из числа семи спящих отроков. Я предоставляю критикам выяснить историю этих семи братьев и то, как четверо из них оказались погребены в Сен-Викторе [59]. Я же ограничусь признанием, что, поскольку этот памятник не имеет никакого отношения к семи спящим отрокам, следует полагать, что он был вделан в стену в том виде, в каком находится ныне, в те века невежества и варварства, когда скудость средств и неумелость мастеров вынуждали использовать мельчайшие фрагменты для украшения святых мест. Для этой же цели весьма часто разрушали и светские здания.",
+        "(57) См. «Собрание древностей Геркуланума». — (58) См. диссертацию о древней Марсельской академии г-на Оливье. Марсель, у Боя, 1727; она помещена в первом сборнике Академии изящной словесности этого города. — (59) По преданию, папа Урбан V привёз их останки из Рима и даровал их аббатству."
+      ],
+      "text_en": [
+        "The monument marked no. 1 is in the lower Church of Saint Victor, beside the Staircase facing the Chapel of St. Mauront: it is a Fragment of a marble Bas-relief, on which are shown persons emerging from a building resembling a portico. Their garments are all of the same cut: the Tunic and the Chlamys, or Mantle; their footwear is buskins: the middle figure holds in his left hand a cap in the style of those worn by the Gauls; he represents a person older than the others carved on this bas-relief; the latter are beardless; two of them hold a scroll: no doubt one of those rolled Papyrus tablets the Ancients used for writing, such as have been found among the ruins of Herculaneum (57).",
+        "It seems to me that the Artist meant to represent Philosophers or Scholars in the place set aside for their exercise, which among the Greeks was adorned with porticoes. The Academy of Marseille was too renowned not to have been decorated in the same taste (58).",
+        "This bas-relief, mutilated as it is, gives a fairly good idea of the skill of the Artists in the times when this work was executed. It was probably taken from the old Cemetery to adorn the Tomb which the Monks of St. Victor said was that of four Brothers among the Seven Sleepers. I leave it to the critics to clarify the history of these Seven Brothers, and how four of them came to be buried at St. Victor [59]. I shall content myself with admitting that, since the monument bears no relation to the Seven Sleepers, it is likely that it was set into the wall in the state it is found in today, during those centuries of ignorance and barbarism, when scarcity and the unskillfulness of workmen compelled the use of the smallest Fragments to decorate holy places. Profane Buildings, too, were very often stripped for this purpose.",
+        "(57) See the Recueil des Antiquités d'Herculaneum. — (58) See M. Olivier's dissertation on the ancient Academy of Marseille. Marseille, chez Boy, 1727; found in the first Collection of this City's Academy of Belles-Lettres. — (59) According to tradition, Pope Urban V brought their bones from Rome, and gave them to the Abbey."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Église inférieure de Saint-Victor",
+      "findspot_ru": "нижняя церковь Сен-Виктора",
+      "findspot_en": "the lower Church of Saint Victor"
+    },
+    {
+      "id": "pl19-2",
+      "part": 2,
+      "plate": 19,
+      "num": "2",
+      "fr": "Vœu d'Octavius Paternus à Jupiter Dolichène (guerrier sur un taureau)",
+      "ru": "Обет Октавия Патерна Юпитеру Долихенскому (воин на быке)",
+      "en": "Votive statue of Octavius Paternus to Jupiter Dolichenus (a warrior on a bull)",
+      "page": "152",
+      "group": "XIX",
+      "group_fr": "Planche XIX",
+      "group_en": "XIX",
+      "group_page": "151",
+      "flag": "",
+      "type": "statue",
+      "material_fr": "marbre",
+      "material_ru": "мрамор",
+      "material_en": "marble",
+      "img": [
+        "pl19-full.jpg"
+      ],
+      "plate_img": "pl19-full.jpg",
+      "bbox": [
+        14.0,
+        58.0,
+        64.0,
+        40.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°. 2. Dom Bernard de Montfaucon, & M. de Ruffi [60] ont cité le monument indiqué par ce numéro. C'est un de ceux qui font le plus d'honneur aux Artistes Marseillois; il fut trouvé vers l'an mil six cent cinquante-trois, & retiré du fond des eaux, par le pur effet du hasard, qui le fit embarrasser à un de ces grappins avec lesquels on enleve les immondices le long des quais. Le maître de la machine à curer le Port, fit présent de ce marbre au célèbre Poëte Balthasar de Vias, qui l'envoya à M. le Comte de Brienne. Enfin, selon ce que rapporte Montfaucon, il est au pouvoir du Duc de Wirtemberg, qui l'a fait placer dans son Museum.",
+        "Ce marbre représente un Guerrier dans l'attitude de quelqu'un qui tient une haste de la main droite; & de la gauche, quelque chose ressemblant à un rouleau. Monfaucon avoue ne pouvoir décider quel est cet objet, parce qu'il n'a aucun caractère distinctif.",
+        "Le Guerrier est posé en pied sur un Taureau passant, & une Aigle avec les aîles éployées, est placée sous le ventre du Taureau. On lit au bas du marbre: DEO DOLICHENIO OCT. PATERNVS EX IVSSV. EIVS PRO SALVTE SVA ET SVORVM.",
+        "ce qui désigne qu'Octavius Paternus fit élever ce monument votif au Dieu Dolichène, par son ordre, (c'est-à-dire, après quelque vision ou quelque songe, ou au retour d'un voyage), en reconnoissance de la protection de ce Dieu, qui l'avoit tiré lui & les siens de quelque danger. Le Dieu Dolichène n'étoit autre que Jupiter, qui étoit adoré sous ce nom dans une Isle de l'Archipel, nommée anciennement Icaria, ensuite Nicaria; elle étoit aussi nommée Ichthyoessa [61]: enfin Dolichène ou Delichène, à cause du culte de l'Idole de Jupiter Delichène, qui y étoit particulièrement adorée.",
+        "La Famille des Paternus, dont le nom est inséré dans les fastes des Consuls Romains, & dans les Familles Consulaires de Flavius Ursinus, devoit avoir une singulière dévotion à Jupiter Dolichène; car Monfaucon cite plusieurs monumens votifs, élevés à cette Divinité, par divers particuliers du même nom de Paternus (62). Ce monument trouvé dans le Port de Marseille, avoit été probablement placé dans le Temple de Minerve (63), Jupiter n'ayant point de Temple particulier dans cette Ville. La Statue héroïque de ce Dieu, trouvée dans les ruines du Temple de Minerve, doit faire présumer qu'il avoit un culte dans ce même Temple.",
+        "Monfaucon a fait graver ce monument comme une Ronde-bosse; Ruffi l'a présenté comme un Bas-relief: ils se servent néanmoins l'un & l'autre du mot Statue pour le désigner; cependant l'Abbé Marchetti qui fait mention de ce monument (64), n'emploie que le nom générique de marbre; ce qui semble plutôt désigner un Bas-relief. Je me suis décidé à le faire graver en Ronde-bosse, pour suivre en cela Monfaucon. Lorsqu'on marche sur les traces de pareils maîtres, on est justifié, si l'on s'égare.",
+        "(60) Montfaucon, Antiquité expliquée, tom. 1. pag. 50. Ruffi, Hist. de Marseille, page 214. — (61) Bertrand, Dictionnaire de Geograph. ancienne, au mot Icaria. — (62) Monfaucon, Antiquité expliquée, tom. 1, article Jupiter, pag. 50. — (63) Ce Temple étoit où est située la rue des Consuls, ainsi que je l'ai déjà remarqué. — (64) Marchetti, explication des usages & coutumes des Marseillois, pag. 167."
+      ],
+      "text_ru": [
+        "№ 2. Дом Бернар де Монфокон и г-н де Рюффи [60] упоминали памятник, обозначенный этим номером. Это один из тех, что более всего делают честь марсельским мастерам; он был найден около 1653 года и поднят со дна вод чистейшей случайностью, зацепившись за один из тех крюков-кошек, которыми убирают нечистоты вдоль набережных. Хозяин машины для очистки порта подарил этот мрамор знаменитому поэту Бальтазару де Виа, который отослал его графу де Брienne. Наконец, согласно сообщению Монфокона, он находится во владении герцога Вюртембергского, поместившего его в своём музее.",
+        "Этот мрамор изображает воина в позе человека, держащего в правой руке древко копья, а в левой — нечто похожее на свиток. Монфокон признаётся, что не может определить, что это за предмет, поскольку он не имеет никаких отличительных признаков.",
+        "Воин стоит, опираясь ногами на идущего быка, а под брюхом быка помещён орёл с распростёртыми крыльями. Внизу мрамора читается: DEO DOLICHENIO OCT. PATERNVS EX IVSSV. EIVS PRO SALVTE SVA ET SVORVM.",
+        "что означает, что Октавий Патерн воздвиг этот обетный памятник богу Долихену по его повелению (то есть после некоего видения или сна, либо по возвращении из путешествия) в благодарность за покровительство этого бога, избавившего его самого и его близких от какой-то опасности. Бог Долихен был не кем иным, как Юпитером, которого под этим именем почитали на одном из островов Архипелага, называвшемся в древности Икарией, а затем Никарией; он назывался также Ихтиоессой [61]; наконец, Долихен, или Делихен — по культу идола Юпитера Делихенского, которому там поклонялись особо.",
+        "Семейство Патернов, чьё имя занесено в анналы римских консулов и в консульские роды у Флавия Урсина, должно было питать особую преданность Юпитеру Долихенскому; ведь Монфокон приводит несколько обетных памятников, воздвигнутых этому божеству различными частными лицами, носившими то же имя Патерн (62). Этот памятник, найденный в марсельском порту, вероятно, был помещён в храме Минервы (63), поскольку Юпитер не имел в этом городе отдельного храма. Героическая статуя этого бога, найденная среди развалин храма Минервы, заставляет предполагать, что ему воздавался культ именно в этом храме.",
+        "Монфокон велел гравировать этот памятник как круглую скульптуру; Рюффи же представил его как барельеф: оба они, тем не менее, пользуются словом «статуя» для его обозначения; аббат Маркетти, упоминающий этот памятник (64), употребляет лишь общее название «мрамор», что скорее указывает на барельеф. Я решился гравировать его как круглую скульптуру, следуя в этом Монфокону. Когда идёшь по следам подобных мастеров, заблуждение простительно.",
+        "(60) Монфокон, «Объяснённая древность», т. 1, с. 50. Рюффи, «История Марселя», с. 214. — (61) Бертран, «Словарь древней географии», слово Icaria. — (62) Монфокон, «Объяснённая древность», т. 1, статья «Юпитер», с. 50. — (63) Этот храм находился там, где ныне расположена улица Консулов, как я уже отмечал. — (64) Маркетти, «Объяснение обычаев и нравов марсельцев», с. 167."
+      ],
+      "text_en": [
+        "No. 2. Dom Bernard de Montfaucon and M. de Ruffi [60] have cited the monument shown under this number. It is one of those that do the greatest honor to Marseille's Artists; it was found around the year 1653, and drawn up from the depths of the water by pure chance, having become caught on one of those grapples used to remove refuse along the quays. The master of the machine that cleaned the Harbor gave this marble to the celebrated Poet Balthasar de Vias, who sent it to M. le Comte de Brienne. Finally, according to Montfaucon, it is in the possession of the Duke of Württemberg, who had it placed in his Museum.",
+        "This marble represents a Warrior in the attitude of one holding a spear-shaft in his right hand, and in his left something resembling a scroll. Montfaucon admits he cannot determine what this object is, as it bears no distinctive feature.",
+        "The Warrior stands with his feet upon a walking Bull, and an Eagle with wings spread is placed beneath the Bull's belly. At the bottom of the marble one reads: DEO DOLICHENIO OCT. PATERNVS EX IVSSV. EIVS PRO SALVTE SVA ET SVORVM.",
+        "meaning that Octavius Paternus had this votive monument erected to the God Dolichenus, by his command (that is, after some vision or dream, or upon returning from a journey), in gratitude for this God's protection, which had drawn him and his household out of some danger. The God Dolichenus was none other than Jupiter, who was worshipped under this name on an island of the Archipelago, anciently called Icaria, afterwards Nicaria; it was also called Ichthyoessa [61]: and finally Dolichenus, or Delichenus, from the cult of the idol of Jupiter Delichenus, who was especially worshipped there.",
+        "The Paternus family, whose name is recorded in the annals of the Roman Consuls and among the Consular Families in Flavius Ursinus, must have held a particular devotion to Jupiter Dolichenus; for Montfaucon cites several votive monuments raised to this Divinity by various private individuals bearing the same name Paternus (62). This monument, found in the Harbor of Marseille, had probably been placed in the Temple of Minerva (63), Jupiter having no Temple of his own in this City. The heroic Statue of this God found among the ruins of the Temple of Minerva gives grounds to presume that he was worshipped in that same Temple.",
+        "Montfaucon had this monument engraved as a statue in the round; Ruffi presented it as a bas-relief: both nonetheless use the word Statue to designate it; the Abbé Marchetti, however, who mentions this monument (64), uses only the generic term marble, which seems rather to indicate a bas-relief. I have decided to have it engraved in the round, following Montfaucon in this. When one follows in the footsteps of such masters, one is forgiven for going astray.",
+        "(60) Montfaucon, Antiquité expliquée, vol. 1, p. 50. Ruffi, History of Marseille, p. 214. — (61) Bertrand, Dictionnaire de Géographie ancienne, entry Icaria. — (62) Montfaucon, Antiquité expliquée, vol. 1, article Jupiter, p. 50. — (63) This Temple stood where the rue des Consuls now is, as I have already noted. — (64) Marchetti, Explication des usages & coutumes des Marseillois, p. 167."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "DEO DOLICHENIO OCT. PATERNVS EX IVSSV. EIVS PRO SALVTE SVA ET SVORVM",
+      "legend_ru": "DEO DOLICHENIO OCT. PATERNVS EX IVSSV. EIVS PRO SALVTE SVA ET SVORVM",
+      "legend_en": "DEO DOLICHENIO OCT. PATERNVS EX IVSSV. EIVS PRO SALVTE SVA ET SVORVM",
+      "findspot_fr": "repêché dans le Port de Marseille, vers 1653",
+      "findspot_ru": "поднят со дна марсельского порта около 1653 года",
+      "findspot_en": "dredged up from the Harbor of Marseille, around 1653"
     }
   ]
 }
