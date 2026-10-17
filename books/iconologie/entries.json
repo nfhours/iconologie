@@ -16938,12 +16938,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-191.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Кинжал, вонзённый в грудь",
+          "meaning": "крайняя степень отчаяния, гибельная для самой жизни",
+          "what_en": "Dagger plunged into her breast",
+          "meaning_en": "the extreme of despair, fatal to life itself"
+        },
+        {
+          "what": "Ветвь кипариса",
+          "meaning": "подобно срубленному кипарису, отчаявшийся гасит в себе семена великих деяний",
+          "what_en": "Cypress branch",
+          "meaning_en": "like a felled cypress, the despairing man extinguishes within himself the seeds of great deeds"
+        },
+        {
+          "what": "Сломанный циркуль под ногами",
+          "meaning": "разум (иероглиф которого — циркуль) покидает отчаявшегося",
+          "what_en": "Broken compass at her feet",
+          "meaning_en": "reason, whose hieroglyph is the compass, abandons the despairing man"
+        }
+      ],
+      "text_ru": [
+        "Эта женщина представляет Отчаяние, последнее и худшее из всех зол. У неё в груди кинжал, который она вонзила себе по самую рукоять; в правой руке она держит ветвь кипариса и смотрит себе под ноги на сломанный циркуль. Кипарисом показано, что подобно",
+        "тому, как это дерево, будучи однажды срублено, никогда более не даёт новых побегов, так и Отчаявшийся гасит в себе все семена великих деяний: а сломанным циркулем — что разум, чьим иероглифом является циркуль, покидает его, оставляя во власти неистовства его страсти."
+      ],
+      "text_fr": [
+        "Cette femme represente le Desespoir, qui est le dernier & le pire de tous les maux. Elle a dans le sein vn poignard, qu'elle s'y est enfoncé jusques à la garde; tient de la main droite vn rameau de cyprés, & regarde à ses pieds vn compas rompu. Par le cyprés il est démontré, que com-",
+        "me cet arbre vne fois coupé, ne pousse jamais de nouveaux rejettons; vn Desesperé de mesme esteint en luy toutes les semences des grandes actions: & par le compas rompu, que la raison, dont le compas est le hieroglyphe, l'abandonne, pour le laisser en proye à la violence de sa passion."
+      ],
       "en": "Despair",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-191-1.jpg",
+        "p2-191-2.jpg"
+      ]
     },
     {
       "id": "p2-192",
@@ -16956,12 +16987,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-192.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Платье, усеянное языками",
+          "meaning": "неустанное злословие о других",
+          "what_en": "Robe strewn with tongues",
+          "meaning_en": "tireless gossip about others"
+        },
+        {
+          "what": "Кинжал в руке",
+          "meaning": "яростное разрывание чужой репутации, хуже убийства",
+          "what_en": "Dagger in her hand",
+          "meaning_en": "the furious tearing apart of another's reputation, worse than killing him"
+        },
+        {
+          "what": "Крыса в другой руке",
+          "meaning": "гложет честь и честность доброго человека",
+          "what_en": "Rat in her other hand",
+          "meaning_en": "gnawing away the honour and integrity of a good man"
+        }
+      ],
+      "text_ru": [
+        "Она изображена сидящей, облачённой в платье, сплошь усеянное языками, держащей кинжал в правой руке и крысу в левой. Её изображают сидящей, поскольку праздность — главная причина Злословия. Языки, которые ей даны, означают, что она никогда не устаёт говорить о других; кинжал — что некой необыкновенной яростью, разрывая репутацию ближнего, она обращается с ним хуже, чем если бы предавала его смерти; а крыса — что, подражая этому вредному животному, она гложет самую чистую сущность доброго человека — его честь и честность."
+      ],
+      "text_fr": [
+        "Elle est peinte assise, & couverte d'vne robe toute semée de langues, tenant vn poignard de la main droite, & vn rat de la gauche. On la represente assise, parce que l'oisiveté est la principale cause de la Detraction. Les langues qu'on luy donne signifient qu'elle ne se lasse jamais de parler d'autruy; le poignard, que par vne rage du tout extraordinaire, déchirant la reputation du prochain, elle le traite plus mal que si elle luy donnoit la mort; & le rat, qu'à l'imitation de cet animal nuisible, elle ronge la plus pure substance de l'homme de bien, qui est l'honneur & l'integrité."
+      ],
       "en": "Detraction",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-192-1.jpg",
+        "p2-192-2.jpg"
+      ]
     },
     {
       "id": "p2-193",
@@ -16974,12 +17034,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-193.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Лицо, закрытое плащом с глазами и ушами",
+          "meaning": "шпион скрывает себя, чтобы видеть и слышать всё незамеченным",
+          "what_en": "Face covered by a cloak strewn with eyes and ears",
+          "meaning_en": "the spy conceals himself in order to see and hear everything unnoticed"
+        },
+        {
+          "what": "Потайной фонарь",
+          "meaning": "слежка днём и ночью",
+          "what_en": "Dark lantern",
+          "meaning_en": "watching by day and by night"
+        },
+        {
+          "what": "Крылья на ногах и собака впереди",
+          "meaning": "усердие в выслеживании тайных уловок",
+          "what_en": "Winged feet and a dog walking ahead of him",
+          "meaning_en": "diligence in tracking down the most secret schemes"
+        }
+      ],
+      "text_ru": [
+        "Он представлен в облике человека, закрывающего лицо плащом, сплошь усеянным глазами и ушами. При этом ему дают держать в руке потайной фонарь; кроме того, у него крылья на ногах, и перед ним идёт собака. Лицо у него закрыто, дабы показать, что те, кто занимается шпионажем, прежде всего заботятся о том, чтобы их не узнавали, дабы с меньшим подозрением выведывать происходящее, в особенности при Дворе Государей. Глаза и уши означают, что ремесло таких людей — всё видеть и всё слышать, не только днём, но и ночью, что обозначено фонарём, который этот человек держит в руке. Что же до крыльев на его ногах и собаки, которая следует за ним, это показывает, что шпионы должны быть усердны в выслеживании самых тайных уловок."
+      ],
+      "text_fr": [
+        "Il est representé par vn homme qui se couvre le visage de son manteau, tout semé d'yeux & d'oreilles. Avec cela on luy fait tenir en main vne lanterne sourde; outre qu'il a des aisles aux pieds, & vn chien qui marche devant luy. Il a le visage couvert, pour montrer que ceux qui font les espions sont soigneux sur toutes choses de ne se point faire connoistre, pour découvrir avec moins de soupçon ce qui se passe, & particulierement à la Cour des Princes. Les yeux & les oreilles signifient, que le mestier de telles personnes est de tout voir, & de tout oüir, non pas seulement de jour, mais de nuit encore; ce qui est denoté par la lanterne que cet homme tient en main. Quant aux aisles qu'on luy met aux pieds, & au chien qui le suit, cela fait voir que les espions doivent estre diligens à flairer les plus secretes pratiques."
+      ],
       "en": "Spy",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-193-1.jpg",
+        "p2-193-2.jpg"
+      ]
     },
     {
       "id": "p2-194",
@@ -16992,12 +17081,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-194.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Змей, гложущий левую грудь",
+          "meaning": "печаль о благе ближнего",
+          "what_en": "Serpent gnawing her left breast",
+          "meaning_en": "sorrow at a neighbour's good fortune"
+        },
+        {
+          "what": "Гидра, которую она ласкает",
+          "meaning": "тайная зараза, губящая достойных людей ядом зависти",
+          "what_en": "Hydra she caresses",
+          "meaning_en": "a secret contagion that destroys worthy people with the poison of envy"
+        }
+      ],
+      "text_ru": [
+        "Зависть, которая обычно печалится о благе ближнего настолько же, насколько радуется постигающему его злу, являет оба этих проявления через змея, который гложет ей левую грудь, и через гидру, которую она ласкает: ибо подобно тому, как это чудовищное животное по природе своей любит заражать своим ядом всех приближающихся к нему, так и завистник тайной заразой с удовольствием губит самых достойных людей, не щадя ни самых близких, ни тех, чьим другом он притворяется."
+      ],
+      "text_fr": [
+        "L'Envie, qui s'attriste ordinairement du bien du prochain, autant qu'elle se réjouït du mal qui luy arrive, fait voir l'vn & l'autre de ces effets par le serpent qui luy ronge la mammelle gauche, & par l'hydre qu'elle caresse: car comme ce monstrueux animal aime naturellement à infecter de son venin tous ceux qui l'approchent; l'envieux de mesme par vne secrete contagion se plaist à perdre les plus gens de bien, sans épargner ses plus proches, ny ceux dont il fait semblant d'estre amy."
+      ],
       "en": "Envy",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-194-1.jpg",
+        "p2-194-2.jpg"
+      ]
     },
     {
       "id": "p2-195",
