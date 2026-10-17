@@ -14648,12 +14648,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-143.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Пальмовый венец",
+          "meaning": "невинность и чистота, дарованная Богом при Крещении",
+          "what_en": "Crown of palms",
+          "meaning_en": "innocence and purity, given by God at Baptism"
+        },
+        {
+          "what": "Омовение рук в чаше",
+          "meaning": "древний обычай объявлять себя непричастным к обвинению, омывая руки на людях",
+          "what_en": "Washing of hands in a basin",
+          "meaning_en": "the ancient custom of declaring oneself free of blame by washing one's hands in public"
+        },
+        {
+          "what": "Ягнёнок у ног",
+          "meaning": "иероглиф Невинности у священных и светских авторов",
+          "what_en": "Lamb at her feet",
+          "meaning_en": "a hieroglyph of Innocence among sacred and secular authors"
+        }
+      ],
+      "text_ru": [
+        "Её эмблема — юная девушка, увенчанная пальмами, умывающая руки в чаше, у ног которой лежит ягнёнок.",
+        "Святой Амвросий понимает под пальмовым венцом невинность и чистоту, дарованную нам Богом с того самого мгновения, когда мы возрождаемся святым Крещением; и верно также, что вода остаётся символом этого. По этой причине, по древнему обычаю, те, кто хотел объявить себя непричастными к какому-либо пятну или нечистоте, в которой их подозревали, омывали руки на глазах у народа. Что же до ягнёнка, нет никого, кто бы не знал, что в священных и светских авторах он всегда берётся как иероглиф Невинности."
+      ],
+      "text_fr": [
+        "Elle a pour embleme vne jeune fille couronnée de palmes, en action de laver ses mains dans vn bassin, & aux pieds de laquelle est couché vn agneau.",
+        "Saint Ambroise entend par la couronne de palmes, l'innocence & la pureté, qui nous est donnée de Dieu dés le mesme instant que nous sommes regenerez par le saint Baptesme: aussi est-il vray que l'eau en est encore vn symbole. A raison dequoy par vne ancienne coûtume ceux qui se vouloient declarer exempts de quelque tache, ou de quelque ordure dont on les soupçonnoit, se lavoient les mains en la presence du peuple. Quant à l'agneau, il n'y a personne qui ne sçache que dans les Autheurs sacrez & prophanes il est toûjours pris pour vn hieroglyphe de l'Innocence."
+      ],
       "en": "Innocence",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-143-1.jpg",
+        "p2-143-2.jpg"
+      ]
     },
     {
       "id": "p2-144",
@@ -14666,12 +14697,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-144.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Длинная мантия учёного мужа",
+          "meaning": "наставление через пример людей безупречной честности",
+          "what_en": "Long robe of the learned man",
+          "meaning_en": "instruction through the example of men of probity"
+        },
+        {
+          "what": "Зеркало с надписью INSPICE, CAVTVS ERIS",
+          "meaning": "взгляд на собственные недостатки, чтобы их исправить",
+          "what_en": "Mirror inscribed INSPICE, CAVTVS ERIS",
+          "meaning_en": "looking upon one's own faults in order to correct them"
+        }
+      ],
+      "text_ru": [
+        "Нет лучшего средства обрести добрые привычки и преуспеть в школе добродетели, чем наставляться уроками учёных людей, а особенно их примером, когда они люди безупречной честности.",
+        "Этому учит нас этот человек в длинной мантии, держащий в одной руке зеркало, в которое он смотрится, и вокруг которого читаются слова INSPICE, CAVTVS ERIS («ВСМОТРИСЬ, И БУДЕШЬ ОСМОТРИТЕЛЕН»). Этим он как будто призывает нас обратить взор на собственные недостатки, дабы, находя пятна в самих себе, мы стирали их, если возможно, подобно тому, как с помощью зеркала стирают грязь со своего лица."
+      ],
+      "text_fr": [
+        "Il n'est point de meilleur moyen de s'acquerir de bonnes habitudes, & de profiter dans l'école de la vertu, qu'en s'instruisant par les leçons des sçavans, & particulierement par leur exemple, quand ils sont hommes de probité.",
+        "Ce qui nous est enseigné par cet homme de robe longue, qui tient d'vne main vn miroir, où il se considere soy-mesme, & où se lisent ces mots à l'entour, INSPICE, CAVTVS ERIS. Par où il semble nous avertir de rabatre la veuë sur nos defauts, afin que trouvant des taches en nous-mesmes, nous les effacions, s'il est possible, comme font ceux qui par l'aide du miroir nettoyent ce qu'il y a de sale sur leur visage."
+      ],
       "en": "Instruction",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-144-1.jpg",
+        "p2-144-2.jpg"
+      ]
     },
     {
       "id": "p2-145",
@@ -14684,12 +14740,50 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-145.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юный облик",
+          "meaning": "Разум не стареет",
+          "what_en": "Youthful appearance",
+          "meaning_en": "the Intellect does not grow old"
+        },
+        {
+          "what": "Корона и скипетр",
+          "meaning": "власть над страстями",
+          "what_en": "Crown and sceptre",
+          "meaning_en": "dominion over the passions"
+        },
+        {
+          "what": "Пламя над головой",
+          "meaning": "естественное желание знания",
+          "what_en": "Flame above his head",
+          "meaning_en": "the natural desire for knowledge"
+        },
+        {
+          "what": "Орёл, на которого устремлён взгляд",
+          "meaning": "живость разумения, возносящая нас к высшим вещам",
+          "what_en": "Eagle on which his gaze is fixed",
+          "meaning_en": "the liveliness of understanding, which raises us to the highest things"
+        }
+      ],
+      "text_ru": [
+        "Мне кажется, что с большим основанием Разум представлен здесь в образе статного юноши, держащего в руке скипетр, с короной на голове, из которой исходит пламя, и с взглядом, пристально устремлённым на орла. Он изображён молодым, дабы показать, что Разум не стареет. Корона и скипетр представляют власть, которую он имеет над страстями; пламя, исходящее от его главы, означает естественное желание знания, которое порождает в нас способность Разумной Добродетели;",
+        "а орлом означена живость разумения, благодаря которой мы возносимся к высшим вещам и их созерцаем, подобно орлу, взмывающему в облака и пристально глядящему на Солнце."
+      ],
+      "text_fr": [
+        "Il me semble qu'avec beaucoup de raison l'Intellect se voit icy figuré par vn jeune homme de bonne mine, qui tient à la main vn sceptre, vne couronne sur la teste, d'où s'exhale vne flame, & a la veuë fixement attachée sur vn aigle. Il est peint jeune, pour montrer que l'Intellect ne vieillit point. La couronne & le sceptre representent l'empire qu'il a sur les passions; la flamme qui s'évapore du chef, marque le naturel desir qu'on a de sçavoir, que la capacité de la Vertu intellectuelle produit en nous;",
+        "& par l'aigle est signifiée la vivacité de l'entendement, par qui nous nous élevons aux choses les plus hautes, & les contemplons, comme fait l'aigle, qui s'élance jusques dans les nuës, & qui regarde fixement le Soleil."
+      ],
       "en": "Intellect",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-145-1.jpg",
+        "p2-145-2.jpg",
+        "p2-145-3.jpg"
+      ]
     },
     {
       "id": "p2-146",
@@ -14702,12 +14796,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-146.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Взгляд, обращённый ввысь",
+          "meaning": "помощь приходит свыше",
+          "what_en": "Gaze turned upward",
+          "meaning_en": "help must come from on high"
+        },
+        {
+          "what": "Сложенные руки",
+          "meaning": "молитвенное обращение",
+          "what_en": "Joined hands",
+          "meaning_en": "a gesture of prayer"
+        },
+        {
+          "what": "Пламя из темени и изо рта",
+          "meaning": "пыл усердия и молитвы",
+          "what_en": "Flame from the crown of her head and from her mouth",
+          "meaning_en": "the ardour of her zeal and prayer"
+        }
+      ],
+      "text_ru": [
+        "Она представлена в образе женщины, устремляющей взор вверх и держащей сложенные руки, с пламенем, исходящим из темени её головы, и ещё одним — изо рта. То, что она смотрит на небо, показывает, что вся помощь, которую она ожидает, должна прийти свыше; а пламя означает пыл её усердия и молитвы."
+      ],
+      "text_fr": [
+        "Elle est representée par vne femme qui porte sa veuë en haut, & qui tient les mains jointes, avec vne flame qui luy sort du sommet de la teste, & vne autre de sa bouche. Ce qu'elle regarde le ciel montre que tout le secours qu'elle attend doit venir d'enhaut; & quant aux flames, elles denotent l'ardeur de son zele & de sa priere."
+      ],
       "en": "Invocation",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-146-1.jpg",
+        "p2-146-2.jpg"
+      ]
     },
     {
       "id": "p2-147",
