@@ -19433,12 +19433,63 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-243.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Прозрачное платье",
+          "meaning": "доказательства столь ясны, что им невозможно противоречить",
+          "what_en": "Transparent robe",
+          "meaning_en": "her demonstrations are so clear they cannot be contradicted"
+        },
+        {
+          "what": "Крылья на голове",
+          "meaning": "силой духа возносится к созерцанию небесных вещей",
+          "what_en": "Wings on her head",
+          "meaning_en": "by the strength of her mind she rises to contemplate celestial things"
+        },
+        {
+          "what": "Циркуль, которым она чертит фигуры",
+          "meaning": "точность, опирающаяся на безошибочные начала",
+          "what_en": "Compass with which she traces figures",
+          "meaning_en": "precision resting on infallible principles"
+        },
+        {
+          "what": "Глобус в руке",
+          "meaning": "достоверное знание размеров небес и земли через математику",
+          "what_en": "Globe in her hand",
+          "meaning_en": "certain knowledge of the dimensions of heaven and earth, grounded in mathematics"
+        },
+        {
+          "what": "Ребёнок, которому она внушает доказательства",
+          "meaning": "математические истины доступны пониманию уже с детства",
+          "what_en": "Child to whom she explains her proofs",
+          "meaning_en": "mathematical truths can be grasped from childhood onward"
+        }
+      ],
+      "text_ru": [
+        "Эта дама, чья осанка серьёзна и важна, сразу даёт понять тем, кто её видит, что она представляет Математику. На ней прозрачное платье, волосы заплетены и рассыпаны по плечам; в правой руке циркуль, которым она чертит различные фигуры, в левой — некое подобие",
+        "сферы, а под её босыми ногами — подножие, на котором она держится.",
+        "Прозрачным одеянием нам показано, что её доказательства столь ясны, что им невозможно противоречить; крыльями на её голове — что силой своего духа она возносится к созерцанию небесных вещей; серьёзным лицом — что в её учении нет ничего, кроме серьёзности, заставляющей её пренебрегать вульгарными вещами; а рассыпанными волосами — что в её положениях, простирающихся широко, нет ничего натянутого или напускного.",
+        "Циркуль, которым она чертит различные фигуры, не считая тех, которыми усеян край её платья, означает, что она не действует наугад, но точно, опираясь как бы на основания и на безошибочные начала.",
+        "Глобус, который она держит в одной руке, включающий в себя круг небесный и описание земли, показывает, что у нас не было бы никакого достоверного знания размеров ни того, ни другого, если бы они не опирались на доводы Математики.",
+        "Ко всему сказанному следует добавить, что она старается внушить свои доказательства ребёнку, дабы дать нам понять, что уже с этого возраста мы способны запечатлевать их в нашей памяти, благодаря их чудесной очевидности, которая держится сама собой, что нам изображено наготой её ног, опирающихся на прочное основание."
+      ],
+      "text_fr": [
+        "Cette dame dont le maintien est serieux & grave, fait concevoir d'abord à ceux qui la voyent, qu'elle represente la Mathematique. Elle a vne robbe transparente, les cheveux tressez espars sur ses épaules; vn compas en la main droite dont elle trace diverses figures, en la gauche vne ma-",
+        "niere de sphere, & sous ses pieds qui sont nuds, vne base sur qui elle se soûtient.",
+        "Par son habillement transparent il nous est enseigné que ses demonstrations sont si claires, qu'on ne les peut contredire; par les aisles de sa teste, que par la force de son esprit elle s'eleve à la contemplation des choses celestes; par son visage grave, qu'il n'y a rien que de serieux en sa doctrine, qui luy fait dédaigner les choses vulgaires; & par ses cheveux espars, qu'en ses maximes, qui s'étendent au large, elle n'a rien de contraint ny d'affecté.",
+        "Le compas dont elle trace diverses figures, sans y comprendre celles dont le bord de sa robe est semé, signifie qu'elle n'agit point à la volée, mais avec justesse, comme s'appuyant sur des fondemens & sur des principes infaillibles.",
+        "Le globe qu'elle tient d'vne main, comprenant le cercle du ciel, & vne description de la terre, fait voir que nous n'aurions aucune connoissance certaine des dimensions de l'vn ny de l'autre, si elles ne se fondoient sur les raisons de Mathematique.",
+        "A tout ce que je viens de dire il faut ajoûter, qu'elle tâche de faire concevoir ses demonstrations à vn en enfant, pour nous donner à entendre que dés cet âge-là nous sommes propres à les imprimer dans nostre memoire, à cause de leur merveilleuse évidence qui se soûtient d'elle-mesme, comme il nous est figuré par la nudité de ses pieds, qui s'appuyent sur vne forte base."
+      ],
       "en": "Mathematics",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-243-1.jpg",
+        "p2-243-2.jpg"
+      ]
     },
     {
       "id": "p2-244",
@@ -19451,12 +19502,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-244.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Переливчатое, простое платье",
+          "meaning": "безыскусное, бесхитростное знание",
+          "what_en": "Simple, shimmering-coloured robe",
+          "meaning_en": "artless, unaffected knowledge"
+        },
+        {
+          "what": "Угольник, линейка и циркуль",
+          "meaning": "инструменты измерения земного шара",
+          "what_en": "Square, ruler and compass",
+          "meaning_en": "the instruments for measuring the globe"
+        }
+      ],
+      "text_ru": [
+        "Хорография, чья этимология, выведенная из греческого, означает частное описание города, провинции или любого иного места, представлена юной женщиной, просто одетой в переливчатый цвет. Угольник, линейка и циркуль, которые она держит, даны ей не без причины, ибо эти инструменты необходимы, дабы измерять, как она это делает, земной шар, через безыскусные и бесхитростные познания, обозначенные её платьем, на котором не замечается ничего лишнего."
+      ],
+      "text_fr": [
+        "La Corographie, dont l'étymologie tiré du Grec marque la description particuliere d'vne ville, d'vne province, ou de quelqu'autre lieu que ce soit, est figurée par vne jeune femme simplement vestuë de couleur changeante. Le quarré, la regle & le compas qu'elle tient, ne luy sont pas donnez sans sujet, ces instrumens estans necessaires à mesurer, comme elle fait, le globe de la terre, par des connoissances naïves & sans artifices, dénotées par sa robe, où il ne se remarque rien de superflu."
+      ],
       "en": "Chorography",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-244-1.jpg",
+        "p2-244-2.jpg"
+      ]
     },
     {
       "id": "p2-245",
@@ -19469,12 +19543,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-245.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Посох Иакова в руке",
+          "meaning": "инструмент, наиболее пригодный для измерения длины и ширины поверхностей",
+          "what_en": "Jacob's staff in her hand",
+          "meaning_en": "the instrument best suited to measuring the length and width of surfaces"
+        }
+      ],
+      "text_ru": [
+        "Под словом Планиметрия следует понимать то геометрическое знание, посредством которого можно измерять длину и ширину всевозможных поверхностей. Это мне кажется довольно хорошо представленным в образе этой женщины, которая держит в одной руке посох Иакова, оттого что этот инструмент наиболее пригоден из всех для верного выполнения этой операции, как особенно заметно в образе Геометрии."
+      ],
+      "text_fr": [
+        "Par le mot de Planemetrie, se doit entendre cette connoissance geometrique, par le moyen de laquelle on peut mesurer la longueur & la largeur de toutes sortes de surfaces. Ce qui me semble assez bien representé par la figure de cette femme, qui tient d'vne main le baston de Jacob, à cause que cet instrument est le plus propre de tous à bien faire cette operation, comme il se remarque plus particulierement dans la figure de la Geometrie."
+      ],
       "en": "Planimetry",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-245-1.jpg",
+        "p2-245-2.jpg"
+      ]
     },
     {
       "id": "p2-246",
@@ -19487,12 +19578,45 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-246.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Старческий облик",
+          "meaning": "География стара, как само разделение стихий Богом при сотворении мира",
+          "what_en": "Her aged appearance",
+          "meaning_en": "Geography is as old as God's separation of the elements at the Creation"
+        },
+        {
+          "what": "Земной шар у ног",
+          "meaning": "представление четырёх стихий — огня, воздуха, воды и земли",
+          "what_en": "Globe at her feet",
+          "meaning_en": "the representation of the four elements — fire, air, water and earth"
+        },
+        {
+          "what": "Геометрический угольник",
+          "meaning": "измерение ширины, длины, высоты и глубины мест",
+          "what_en": "Geometric square",
+          "meaning_en": "the measuring of the width, length, height and depth of places"
+        }
+      ],
+      "text_ru": [
+        "Её эмблема — старая женщина, у ног которой земной шар, в левой руке — циркуль, а в правой — геометрический угольник.",
+        "География есть искусство, которое рассматривает, различает и описывает части земли, таковы Провинции, города, моря, острова, горы, реки, озёра и всё прочее.",
+        "Она изображена старой, дабы показать, что таковой она и является на самом деле. Ибо первым делом Бога было разделить хаос и отделить четыре стихии — огонь, воздух, воду и землю, представленную здесь глобусом. В правой руке она держит геометрический угольник, поскольку этот инструмент вполне пригоден для измерения ширины, длины, высоты и глубины мест, которые желают измерить."
+      ],
+      "text_fr": [
+        "Elle a pour emblême vne vieille femme, ayant à ses pieds le globe de la terre, en sa main gauche vn compas, & en la droite vn quarré geometrique.",
+        "La Geographie est vn art qui considere, distingue & décrit les parties de la terre, telles que sont les Provinces, les villes, les mers, les isles, les montagnes, les rivieres, les lacs, & ainsi du reste.",
+        "Elle est peinte vieille, pour montrer qu'elle l'est en effet. Car la premiere chose que Dieu fit, ce fut de diviser le chaos, & de separer les quatres elemens, qui sont le feu, l'air, l'eau, & la terre, representée par le globe qui se voit icy. Elle tient de la main droite le quarré geometrique, dautant que cet instrument est tout à fait propre à prendre les largeurs, les longueurs, les hauteurs & les profondeurs des lieux que l'on veut mesurer."
+      ],
       "en": "Geography",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-246-1.jpg",
+        "p2-246-2.jpg"
+      ]
     },
     {
       "id": "p2-247",
