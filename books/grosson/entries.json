@@ -5582,6 +5582,296 @@
       "findspot_fr": "trouvé à Marseille, transporté sur la porte d'une maison de campagne",
       "findspot_ru": "найден в Марселе, перевезён на дверь загородного дома",
       "findspot_en": "found in Marseille, moved onto the door of a country house"
+    },
+    {
+      "id": "pl13-1",
+      "part": 2,
+      "plate": 13,
+      "num": "1",
+      "fr": "Fragment d'autel inscrit (caractères phéniciens présumés)",
+      "ru": "Фрагмент алтаря с надписью (предположительно финикийские знаки)",
+      "en": "Inscribed altar fragment (presumed Phoenician characters)",
+      "page": "122",
+      "group": "XIII",
+      "group_fr": "Planche XIII",
+      "group_en": "XIII",
+      "group_page": "122",
+      "flag": "",
+      "type": "fragment",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl13-full.jpg"
+      ],
+      "plate_img": "pl13-full.jpg",
+      "bbox": [
+        4.0,
+        2.0,
+        92.0,
+        48.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. Fragment de marbre blanc, sur lequel on remarque des caractères qui ne ressemblent à aucun de ceux que je connois; je soupçonne qu'ils pourroient être Phéniciens, en les comparant à ceux qui se voient sur quelques Médailles Phéniciennes: l'ancien commerce que Marseille entretenoit avec Tyr & Sidon, rend cette conjecture assez vraisemblable. Ce morceau étoit incrusté dans le mur du Fort Notre-Dame-de-la-Garde, à l'entrée de l'escalier; il paroît être le débris d'un Autel.",
+        "On le voit aujourd'hui servir de Bénitier, placé au haut de la rampe du pont-levis, totalement dégradé par le frottement continuel des mains de ceux qui s'en servent."
+      ],
+      "text_ru": [
+        "№ 1. Фрагмент белого мрамора, на котором видны знаки, не похожие ни на один из известных мне алфавитов; я подозреваю, что они могут быть финикийскими, сравнивая их с теми, что встречаются на некоторых финикийских монетах: древняя торговля, которую Марсель вёл с Тиром и Сидоном, делает это предположение довольно правдоподобным. Этот обломок был вделан в стену форта Нотр-Дам-де-ла-Гард, у входа на лестницу; по-видимому, это обломок алтаря.",
+        "Сегодня он служит кропильницей, помещённой наверху спуска подъёмного моста, совершенно истёртой от постоянного прикосновения рук тех, кто им пользуется."
+      ],
+      "text_en": [
+        "No. 1. A fragment of white marble, on which are seen characters resembling none that I know; I suspect they may be Phoenician, comparing them to those seen on some Phoenician medals: the ancient trade Marseille carried on with Tyre and Sidon makes this conjecture fairly plausible. This piece was embedded in the wall of Fort Notre-Dame-de-la-Garde, at the entrance of the staircase; it appears to be the remains of an Altar.",
+        "It is seen today serving as a holy-water font, placed at the top of the drawbridge ramp, totally worn away by the continual touch of the hands of those who use it."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Fort Notre-Dame-de-la-Garde",
+      "findspot_ru": "форт Нотр-Дам-де-ла-Гард",
+      "findspot_en": "Fort Notre-Dame-de-la-Garde"
+    },
+    {
+      "id": "pl13-2",
+      "part": 2,
+      "plate": 13,
+      "num": "2",
+      "fr": "Bas-relief: couple se donnant la main droite, avec chien (ex-voto conjugal)",
+      "ru": "Барельеф: пара, подающая друг другу правую руку, с собакой (супружеский вотив)",
+      "en": "Bas-relief: couple joining right hands, with a dog (conjugal ex-voto)",
+      "page": "122",
+      "group": "XIII",
+      "group_fr": "Planche XIII",
+      "group_en": "XIII",
+      "group_page": "122",
+      "flag": "",
+      "type": "relief",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl13-full.jpg"
+      ],
+      "plate_img": "pl13-full.jpg",
+      "bbox": [
+        4.0,
+        50.0,
+        92.0,
+        48.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Le Bas-relief en marbre blanc, désigné sous ce chiffre, est conforme à celui rapporté sous le n°. 3 de la Planche précédente; il n'en diffère presque pas, si ce n'est par le Chien. Ce symbole étoit particulièrement employé pour les morts; ce qui donne encore des présomptions pour croire ce second Bas-relief un ornement d'un tombeau; mais le défaut d'Inscription, & le lieu où il a été trouvé, favorisent encore plus ma conjecture, pour le croire un Ex-voto de la part de deux Epoux.",
+        "Ces Bas-reliefs n'étoient si communs dans Marseille, que parce que cette Ville regardoit Diane comme la Divinité tutélaire de la République, & la regardoit avec raison le secours le plus efficace, pour accorder les disputes des personnes mariées & réconcilier les mésintelligences conjugales, en inspirant aux deux Époux la fidélité réciproque qu'ils se dévoient. Cette Déesse présidoit encore, suivant l'opinion commune, aux accouchemens; qualité aux accouchemens. Les dévots parens des nouveaux nés, devoient naturellement lui faire des offrandes, & décorer ses Temples d'Ex-voto, en reconnoissance des heureux accouchemens; & comme la fécondité étoit une suite de la fidélité conjugale, les Marseillois mettoient, dans ces Ex-voto, des figures, qui, par leurs actions ou leurs attitudes, ainsi que par les attributs qui les accompagnoient, désignoient ces vertus sociales.",
+        "Ce Bas-relief grec avoit été trouvé aux environs de la Cathédrale; c'est précisément dans cet endroit, que le Temple de Diane étoit situé: ce qui vient à l'appui de ma conjecture.",
+        "Notre Compatriote M. Olivier, de l'Académie de cette Ville, qui s'est rendu célèbre par son Histoire de Philippe de Macédoine, avoit ce morceau en son pouvoir. J'ignore entre les mains de qui il a passé depuis le décès de ce Citoyen."
+      ],
+      "text_ru": [
+        "№ 2. Барельеф из белого мрамора, обозначенный этим номером, соответствует тому, что приведён под № 3 предыдущей таблицы; он почти ничем не отличается от него, кроме собаки. Этот символ особенно употреблялся применительно к умершим; это даёт дополнительные основания полагать, что и этот второй барельеф был украшением надгробия; но отсутствие надписи и место, где он был найден, ещё более подкрепляют моё предположение считать его вотивным даром двух супругов.",
+        "Такие барельефы были столь распространены в Марселе потому, что этот город считал Диану покровительствующим божеством Республики и с полным основанием видел в ней наиболее действенную помощь для улаживания споров супругов и примирения семейных разладов, внушая обоим супругам взаимную верность, которую они были должны друг другу. По общему мнению, эта богиня покровительствовала также родам. Благочестивые родители новорождённых должны были естественным образом приносить ей подношения и украшать её храмы вотивными дарами в знак благодарности за благополучные роды; а поскольку плодовитость была следствием супружеской верности, марсельцы помещали в этих вотивных дарах фигуры, которые своими действиями или позами, а также сопровождающими их атрибутами обозначали эти общественные добродетели.",
+        "Этот греческий барельеф был найден в окрестностях Кафедрального собора; именно в этом месте и находился Храм Дианы: что подкрепляет моё предположение.",
+        "Наш соотечественник г-н Оливье, член Академии этого города, прославившийся своей «Историей Филиппа Македонского», владел этим предметом. Мне неизвестно, в чьих руках он оказался после кончины этого гражданина."
+      ],
+      "text_en": [
+        "No. 2. The bas-relief in white marble, designated under this number, matches the one reported under no. 3 of the preceding Plate; it differs from it hardly at all, save for the Dog. This symbol was particularly used in connection with the dead; which gives further grounds for believing this second bas-relief to be an ornament of a tomb; but the lack of an Inscription, and the place where it was found, further favor my conjecture that it is an Ex-voto on the part of two Spouses.",
+        "Such bas-reliefs were so common in Marseille only because this City regarded Diana as the tutelary Divinity of the Republic, and rightly regarded her as the most effective help for settling the disputes of married people and reconciling conjugal misunderstandings, by inspiring in both Spouses the mutual fidelity they owed each other. This Goddess also presided, in the common opinion, over childbirth. The devout parents of the newborn naturally owed her offerings, and were to decorate her Temples with Ex-voto, in gratitude for happy deliveries; and as fecundity was a consequence of conjugal fidelity, the people of Marseille placed in these Ex-voto figures which, by their actions or attitudes, as well as by the attributes accompanying them, denoted these social virtues.",
+        "This Greek bas-relief had been found in the vicinity of the Cathedral; it is precisely in that spot that the Temple of Diana was situated: which supports my conjecture.",
+        "Our fellow citizen M. Olivier, of this City's Academy, who made himself famous with his History of Philip of Macedon, had this piece in his possession. I do not know into whose hands it has passed since this Citizen's death."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "environs de la Cathédrale",
+      "findspot_ru": "окрестности Кафедрального собора",
+      "findspot_en": "vicinity of the Cathedral"
+    },
+    {
+      "id": "pl14-1",
+      "part": 2,
+      "plate": 14,
+      "num": "1",
+      "fr": "Tombeau de Titus Tannonius (épitaphe latine)",
+      "ru": "Гробница Тита Таннония (латинская эпитафия)",
+      "en": "Tomb of Titus Tannonius (Latin epitaph)",
+      "page": "124",
+      "group": "XIV",
+      "group_fr": "Planche XIV",
+      "group_en": "XIV",
+      "group_page": "124",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl14-full.jpg"
+      ],
+      "plate_img": "pl14-full.jpg",
+      "bbox": [
+        2.0,
+        2.0,
+        96.0,
+        58.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LE Tombeau en marbre blanc, représenté sous le n°. 1 de cette Planche, est un des plus précieux morceaux qui existent encore dans Marseille. L'époque de sa construction se trouve déterminée par l'Épitaphe Latine qui y est renfermée; les noms de Titus, de Tannonius & de Valeriana, sont Romains, & décident conséquemment que ce monument fut érigé dans les temps de la Domination Romaine. J'observerai à cette occasion, que la grande quantité de noms Romains qui se trouvent sur la plupart des Épitaphes trouvées dans Marseille, me fait soupçonner que ce peuple avoit formé quelque établissement dans notre Ville. On ne peut guère interpréter autrement cette multitude de noms Romains, à moins qu'on n'ait recours à la Colonie d'Aix, dont la proximité pouvoit procurer aux Habitans la facilité de venir s'établir à Marseille.",
+        "Le monument dont il est ici question, est dû à l'amour de Tannonius, & de Tita Valeriana pour leur fils Titus Tannonius, qui vécut cinq ans, six mois & six jours, ainsi qu'on peut le remarquer dans l'Épitaphe, laquelle porte les mots suivans, avec les abréviations telles qu'elles sont dans la Gravure. Je les supprime ici pour la commodité des personnes qui ne sont point accoutumées au stile lapidaire des Anciens.",
+        "DULCISSIMO TITO INNOCENTISSIMO (DIIS) FILIO TANNONIO QUI VIXIT (MANIBUS) ANNOS V. MENSES VI. DIES VI. TANNONIUS TITA VALERIANA PARENTES FILIO CARISSIMO ET OMNI TEMPORE VITAE SUAE DESIDERANTISSIMO.",
+        "Ce morceau de Sculpture fut enlevé du Cimetière public de Paradis, par les Comtes de Provence, qui furent Souverains de Marseille. Ils le placèrent dans un salon de leur Palais qui étoit tout auprès du quai de Rive-neuve. Ils s'en servirent pour décorer la Salle à manger. C'est de ce local, que le Tombeau du jeune Tannonius fut transporté pour servir d'ornement à la Fontaine de l'Aumône, à laquelle il sert actuellement de bassin. Les curieux vont encore admirer ce monument: malgré la dégradation qu'il a essuyé par le laps de temps, il est encore digne d'attention."
+      ],
+      "text_ru": [
+        "Гробница из белого мрамора, представленная под № 1 этой таблицы, — один из самых драгоценных памятников, ещё существующих в Марселе. Время её создания определяется латинской эпитафией, которую она содержит; имена Тита, Таннония и Валерианы — римские, и, следовательно, доказывают, что этот памятник был воздвигнут во времена римского господства. Замечу по этому поводу, что большое количество римских имён, встречающихся на большинстве эпитафий, найденных в Марселе, заставляет меня подозревать, что этот народ основал некое поселение в нашем городе. Едва ли можно иначе истолковать это множество римских имён, если не прибегнуть к колонии Экс, близость которой могла облегчать жителям возможность переселяться в Марсель.",
+        "Памятник, о котором здесь идёт речь, обязан своим происхождением любви Таннония и Титы Валерианы к их сыну Титу Таннонию, прожившему пять лет, шесть месяцев и шесть дней, как это можно заметить в эпитафии, которая содержит следующие слова с сокращениями, в том виде, в каком они даны на гравюре. Здесь я опускаю их ради удобства лиц, не привыкших к лапидарному стилю древних.",
+        "DULCISSIMO TITO INNOCENTISSIMO (DIIS) FILIO TANNONIO QUI VIXIT (MANIBUS) ANNOS V. MENSES VI. DIES VI. TANNONIUS TITA VALERIANA PARENTES FILIO CARISSIMO ET OMNI TEMPORE VITAE SUAE DESIDERANTISSIMO.",
+        "Этот скульптурный предмет был вывезен с городского кладбища Паради графами Прованскими, бывшими сюзеренами Марселя. Они поместили его в зале своего дворца, находившегося рядом с набережной Рив-Нёв. Они использовали его для украшения столовой. Именно оттуда гробница юного Таннония была перенесена, чтобы служить украшением Фонтана Милостыни (Fontaine de l'Aumône), которому она служит ныне чашей. Любопытствующие и поныне приходят полюбоваться этим памятником: несмотря на разрушения, которые он претерпел от хода времени, он всё ещё достоин внимания."
+      ],
+      "text_en": [
+        "The Tomb in white marble, shown under no. 1 of this Plate, is one of the most precious pieces still existing in Marseille. The period of its construction is established by the Latin Epitaph it contains; the names Titus, Tannonius and Valeriana are Roman, and consequently establish that this monument was erected in the times of Roman Domination. I will observe on this occasion that the great quantity of Roman names found on most of the Epitaphs found in Marseille makes me suspect that this people had formed some settlement in our City. This multitude of Roman names can hardly be interpreted otherwise, unless one has recourse to the Colony of Aix, whose proximity could afford the Inhabitants the ease of coming to settle in Marseille.",
+        "The monument in question here is owed to the love of Tannonius and Tita Valeriana for their son Titus Tannonius, who lived five years, six months and six days, as may be noted in the Epitaph, which bears the following words, with the abbreviations as they appear in the Engraving. I omit them here for the convenience of persons not accustomed to the lapidary style of the Ancients.",
+        "DULCISSIMO TITO INNOCENTISSIMO (DIIS) FILIO TANNONIO QUI VIXIT (MANIBUS) ANNOS V. MENSES VI. DIES VI. TANNONIUS TITA VALERIANA PARENTES FILIO CARISSIMO ET OMNI TEMPORE VITAE SUAE DESIDERANTISSIMO.",
+        "This piece of Sculpture was removed from the public Cemetery of Paradis by the Counts of Provence, who were Sovereigns of Marseille. They placed it in a salon of their Palace which stood right by the quai de Rive-neuve. They used it to decorate the Dining Hall. It was from that place that the Tomb of young Tannonius was transported to serve as an ornament for the Fontaine de l'Aumône (Almonry Fountain), to which it now serves as a basin. Curious visitors still come to admire this monument: despite the degradation it has suffered through the passage of time, it is still worthy of attention."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "DULCISSIMO TITO INNOCENTISSIMO (DIIS) FILIO TANNONIO QUI VIXIT (MANIBUS) ANNOS V. MENSES VI. DIES VI. TANNONIUS TITA VALERIANA PARENTES FILIO CARISSIMO ET OMNI TEMPORE VITAE SUAE DESIDERANTISSIMO.",
+      "legend_ru": "DULCISSIMO TITO INNOCENTISSIMO (DIIS) FILIO TANNONIO QUI VIXIT (MANIBUS) ANNOS V. MENSES VI. DIES VI. TANNONIUS TITA VALERIANA PARENTES FILIO CARISSIMO ET OMNI TEMPORE VITAE SUAE DESIDERANTISSIMO.",
+      "legend_en": "DULCISSIMO TITO INNOCENTISSIMO (DIIS) FILIO TANNONIO QUI VIXIT (MANIBUS) ANNOS V. MENSES VI. DIES VI. TANNONIUS TITA VALERIANA PARENTES FILIO CARISSIMO ET OMNI TEMPORE VITAE SUAE DESIDERANTISSIMO.",
+      "findspot_fr": "Cimetière public de Paradis",
+      "findspot_ru": "кладбище Паради",
+      "findspot_en": "public Cemetery of Paradis"
+    },
+    {
+      "id": "pl14-2",
+      "part": 2,
+      "plate": 14,
+      "num": "2",
+      "fr": "Face latérale du tombeau (feston et rubans)",
+      "ru": "Боковая сторона гробницы (фестон и ленты)",
+      "en": "Lateral face of the tomb (festoon and ribbons)",
+      "page": "126",
+      "group": "XIV",
+      "group_fr": "Planche XIV",
+      "group_en": "XIV",
+      "group_page": "124",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl14-full.jpg"
+      ],
+      "plate_img": "pl14-full.jpg",
+      "bbox": [
+        4.0,
+        62.0,
+        42.0,
+        36.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Face latérale du même Tombeau; le goût & la sagesse avec lesquels le feston & les rubans sont jettés, m'ont paru dignes d'être conservés; ils sont précisément dans le goût, que nos Artistes tâchent de faire revivre sous le nom de la Grecque: il seroit bien mieux nommé le vrai genre; car toutes les fois qu'on a tenté de s'en écarter, on s'est jetté dans un goût d'ornement presque gothique, & toujours bizarre, lequel n'a souvent servi qu'à favoriser l'impéritie, qui sous les auspices de la mode, n'étoit assujettie à aucune régularité, & osoit effrontement le disputer aux mains les plus habiles, à conduire le ciseau, le crayon ou le pinceau. Qu'on daigne se rappeller cette production éphémère, connue sous le nom de Barroque; elle avoit tellement étendu son empire, qu'il s'en fallut de bien peu que les Arts relatifs au Dessein, ne revinssent au point où ils étoient dans les siècles d'ignorance & de barbarie, sans le sage réglement de l'Académie Royale, qui proscrivit enfin ce genre, avec l'ignominie si justement méritée.",
+        "(Note: ce Tombeau se trouvait placé où se trouve aujourd'hui le Domaine des Bernardines; le Roi René l'avoit habité sur ses derniers jours; il y fit même son Testament dans la Salle verte qui étoit en face de l'Abbaye St. Victor.)"
+      ],
+      "text_ru": [
+        "№ 2. Боковая сторона той же гробницы; вкус и мастерство, с которыми выполнены фестоны и ленты, показались мне достойными сохранения; они выдержаны именно в том вкусе, который наши художники стараются возродить под названием «греческого орнамента»: правильнее было бы назвать его подлинным стилем; ибо всякий раз, когда от него пытались отступить, впадали в почти готический и всегда причудливый орнаментальный вкус, который нередко служил лишь прикрытием для неумения, не подчинявшегося под покровительством моды никакой упорядоченности и дерзко оспаривавшего первенство у самых искусных рук, владеющих резцом, карандашом или кистью. Пусть вспомнят это недолговечное явление, известное под именем «барокко»; оно до того распространило свою власть, что искусства, связанные с рисунком, едва не вернулись к тому состоянию, в каком они пребывали в века невежества и варварства, если бы не мудрый устав Королевской академии, который в конце концов изгнал этот стиль с вполне заслуженным позором.",
+        "(Примечание: эта гробница находилась там, где ныне расположено владение бернардинок; король Рене провёл там последние дни своей жизни; он даже составил там своё завещание, в Зелёном зале, что находился напротив аббатства Сен-Виктор.)"
+      ],
+      "text_en": [
+        "No. 2. Lateral face of the same Tomb; the taste and skill with which the festoon and ribbons are cast seemed to me worth preserving; they are precisely in the taste that our Artists try to revive under the name of the Grecque: it would be much better called the true style; for every time an attempt was made to depart from it, one fell into an almost gothic and always bizarre ornamental taste, which often served only to favor incompetence, which, under the auspices of fashion, was subject to no regularity, and shamelessly dared to dispute precedence with the most skillful hands at guiding the chisel, the pencil or the brush. Let one deign to recall that ephemeral production known by the name of Baroque; it had so extended its dominion that the Arts relating to Design very nearly returned to the point where they stood in the centuries of ignorance and barbarism, had it not been for the wise regulation of the Royal Academy, which finally proscribed this style, with the ignominy so justly deserved.",
+        "(Note: this Tomb stood where the Domaine des Bernardines now stands; King René had lived there in his last days; he even made his Will there, in the Green Hall that faced the Abbey of St. Victor.)"
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Cimetière public de Paradis",
+      "findspot_ru": "кладбище Паради",
+      "findspot_en": "public Cemetery of Paradis"
+    },
+    {
+      "id": "pl14-3",
+      "part": 2,
+      "plate": 14,
+      "num": "3",
+      "fr": "Bas-relief: barque à la voile (vœu nautique, Temple de Diane)",
+      "ru": "Барельеф: парусная ладья (корабельный обет, Храм Дианы)",
+      "en": "Bas-relief: sailing boat (nautical vow, Temple of Diana)",
+      "page": "127",
+      "group": "XIV",
+      "group_fr": "Planche XIV",
+      "group_en": "XIV",
+      "group_page": "124",
+      "flag": "",
+      "type": "relief",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl14-full.jpg"
+      ],
+      "plate_img": "pl14-full.jpg",
+      "bbox": [
+        54.0,
+        62.0,
+        42.0,
+        36.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Bas-relief en marbre blanc, représentant une Barque à la voile; la construction est ancienne, & a du rapport avec celle des Barques représentées sur la colonne trajane qui est à Rome. Notre Bas-relief est un vœu nautique qui avoit été apposé dans le Temple de Diane; une tempête devoit avoir donné lieu à cet Ex-voto, car les vagues sont représentées sur ce Bas-relief, dans une grande agitation. On ne peut douter que ce monument ne soit dès les siècles du Paganisme; le bâton augural qu'on y voit sculpté, en est une preuve convaincante. Ce morceau de Sculpture orne l'Autel de St. Lazare dans l'Église Cathédrale, & se trouve placé au-dessus du Pilastre contigu à la porte de la Sacristie. Il a été probablement récupéré dans les vestiges du Temple de Diane, qui étoit sur ce local. Le rapport qu'on trouva entre cette Barque, & celle sur laquelle la tradition nous apprend que St. Lazare arriva dans cette Ville, fit croire à ceux qui récupérèrent ce marbre, que c'étoit sans doute l'événement de l'arrivée du Saint Évêque, qu'on avoit voulu représenter, & on n'hésita pas à s'en servir, pour décorer l'Autel de ce Saint Apôtre des Marseillois, sans faire attention au bâton augural, qui est une marque certaine du Paganisme.",
+        "Envain voudroit-on objecter que ce Bas-relief fut fait en même temps que la Chapelle; si cette opinion étoit vraie, on trouveroit quelque autre morceau de Sculpture en dessus du Pilastre, qui sert de pendant à celui sur lequel est placé le Bas-relief en question; mais on n'y trouve rien de tout. Les ornemens de cet Autel, sont presque tous récupérés de l'antiquité, à l'exception des Statues & de quelques Bas-reliefs dont la grossière structure montre assez que ces parties ont été faites pour suppléer aux endroits qu'on n'avoit pu remplir par des morceaux antiques, lorsqu'on réédifia cet Autel, vers le milieu du 15e. siècle. Ce qui confirme d'ailleurs cette conjecture que ce Bas-relief est un vœu nautique, c'est qu'il en existe dans Marseille un autre, représentant un pareil vœu avec une Inscription au bas, dont je ferai mention dans le cours de cet ouvrage.",
+        "Les vœux nautiques étoient en usage chez les Romains; c'est par de pareils monumens, qu'ils marquoient leur reconnoissance envers les Divinités auxquelles ils s'étoient voués pendant leurs voyages. On trouve encore à Rome un superbe monument en ce genre, à Santa Maria della Navicella, à qui ce monument a fait donner ce surnom: la Barque y est posée sur un piédestal isolé. Ficorini, dans son ouvrage intitulé Roma antiqua, page 89, est d'avis que c'est un Ex-voto."
+      ],
+      "text_ru": [
+        "№ 3. Барельеф из белого мрамора, изображающий парусную ладью; конструкция её старинная и имеет сходство с ладьями, изображёнными на колонне Траяна в Риме. Наш барельеф представляет собой корабельный обет, который был помещён в Храме Дианы; поводом для этого вотивного дара, по-видимому, послужила буря, так как волны изображены на этом барельефе в сильном волнении. Нельзя сомневаться, что этот памятник относится ещё к языческим векам; авгурский жезл, высеченный на нём, служит тому убедительным доказательством. Этот скульптурный предмет украшает алтарь Святого Лазаря в Кафедральном соборе и расположен над пилястром, примыкающим к двери ризницы. Вероятно, он был извлечён из остатков Храма Дианы, находившегося на этом месте. Сходство, обнаруженное между этой ладьёй и той, на которой, по преданию, святой Лазарь прибыл в этот город, заставило тех, кто обрёл этот мрамор, поверить, что здесь, без сомнения, изображено именно прибытие святого епископа, и они без колебаний использовали его для украшения алтаря этого святого апостола марсельцев, не обратив внимания на авгурский жезл, являющийся несомненным признаком язычества.",
+        "Напрасно стали бы возражать, что этот барельеф был создан одновременно с часовней; если бы это мнение было верным, над пилястром, парным тому, на котором помещён рассматриваемый барельеф, нашёлся бы ещё какой-нибудь скульптурный предмет; но там нет ничего подобного. Украшения этого алтаря почти все взяты из древности, за исключением статуй и некоторых барельефов, грубая работа которых достаточно показывает, что эти части были созданы, чтобы восполнить места, которые не удалось заполнить античными фрагментами, когда этот алтарь перестраивался в середине XV века. Это предположение о том, что данный барельеф — корабельный обет, подтверждается ещё и тем, что в Марселе существует другой подобный, изображающий такой же обет с надписью внизу, о котором я упомяну в ходе этого труда.",
+        "Корабельные обеты были в ходу у римлян; именно подобными памятниками они выражали свою благодарность божествам, которым посвящали себя во время своих путешествий. В Риме и поныне можно увидеть великолепный памятник такого рода, в церкви Санта-Мария-делла-Навичелла, которая получила от него это прозвание: ладья там помещена на отдельном постаменте. Фичорини в своём труде «Roma antiqua», с. 89, полагает, что это вотивный дар."
+      ],
+      "text_en": [
+        "No. 3. Bas-relief in white marble, representing a sailing Boat; the construction is ancient, and bears a resemblance to the boats depicted on Trajan's Column in Rome. Our bas-relief is a nautical vow that had been placed in the Temple of Diana; a storm must have given rise to this Ex-voto, for the waves are shown on this bas-relief in great turmoil. There can be no doubt that this monument dates from the centuries of Paganism; the augural staff seen carved upon it is convincing proof of this. This piece of Sculpture adorns the Altar of St. Lazarus in the Cathedral Church, and is placed above the Pilaster adjoining the door of the Sacristy. It was probably recovered among the remains of the Temple of Diana, which stood on this site. The resemblance found between this Boat and the one on which, tradition tells us, St. Lazarus arrived in this City led those who recovered this marble to believe that it was no doubt the arrival of the Holy Bishop that was meant to be depicted, and they did not hesitate to use it to decorate the Altar of this Holy Apostle of the Marseillais, without paying attention to the augural staff, which is a certain mark of Paganism.",
+        "It would be vain to object that this bas-relief was made at the same time as the Chapel; were that opinion true, one would find some other piece of Sculpture above the Pilaster that serves as the counterpart to the one on which the bas-relief in question is placed; but nothing of the kind is found there. The ornaments of this Altar are nearly all recovered from antiquity, with the exception of the Statues and a few bas-reliefs whose coarse workmanship shows clearly enough that these parts were made to fill in spots that could not be filled with antique pieces, when this Altar was rebuilt around the middle of the 15th century. What further confirms the conjecture that this bas-relief is a nautical vow is that there exists in Marseille another one, representing a similar vow with an Inscription below, which I shall mention in the course of this work.",
+        "Nautical vows were in use among the Romans; it was by such monuments that they marked their gratitude toward the Divinities to whom they had devoted themselves during their voyages. A superb monument of this kind is still found in Rome, at Santa Maria della Navicella, which gave this monument its surname: the Boat there is set upon an isolated pedestal. Ficorini, in his work entitled Roma antiqua, page 89, is of the opinion that it is an Ex-voto."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Autel de St. Lazare, Église Cathédrale",
+      "findspot_ru": "алтарь Св. Лазаря, Кафедральный собор",
+      "findspot_en": "Altar of St. Lazarus, Cathedral Church"
     }
   ]
 }
