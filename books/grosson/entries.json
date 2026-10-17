@@ -7284,6 +7284,119 @@
       "findspot_fr": "Église inférieure de Saint-Victor (Autel de St. Mauront)",
       "findspot_ru": "нижняя церковь Сен-Виктора (алтарь св. Морона)",
       "findspot_en": "the lower Church of Saint Victor (Altar of St. Mauront)"
+    },
+    {
+      "id": "pl23-1",
+      "part": 2,
+      "plate": 23,
+      "num": "1-2",
+      "fr": "Deux pilastres grotesques, remployés à l'autel de Saint-Lazare",
+      "ru": "Два гротескных пилястра, вторично использованных в алтаре Св. Лазаря",
+      "en": "Two grotesque-style pilasters, reused in the Altar of St. Lazarus",
+      "page": "167",
+      "group": "XXIII",
+      "group_fr": "Planche XXIII",
+      "group_en": "XXIII",
+      "group_page": "167",
+      "flag": "",
+      "type": "architectural fragment",
+      "material_fr": "marbre blanc statuaire",
+      "material_ru": "белый статуарный мрамор",
+      "material_en": "white statuary marble",
+      "img": [
+        "pl23-full.jpg"
+      ],
+      "plate_img": "pl23-full.jpg",
+      "bbox": [
+        2.0,
+        2.0,
+        56.0,
+        96.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "Les Nos. 1 & 2 de cette Planche, présentent deux Pilastres dans le genre des Grotesques. Ils ont été enlevés des ruines d'édifices situés auprès de la Cathédrale, qui étoient probablement des vestiges de l'ancien Temple de Diane, ou d'autres constructions, qu'on avoit décoré dans le temps aux dépens de ce Temple. Le bon goût dans le choix des ornemens, leur sage distribution, l'exactitude du dessein, tout annonce l'habileté de l'Artiste qui avoit exécuté ces précieux morceaux; ceux qui dirigeoient l'exécution de l'Autel dédié à St. Lazare dans l'Eglise Cathédrale, lorsque dans 15e. siècle on fit réédifier cette Chapelle, frappés sans doute des beautés qu'ils rencontrèrent parmi ces vestiges, crurent ne pouvoir mieux les employer qu'en les destinant à orner l'Autel, tous ceux qui n'étoient point dégradés.",
+        "Ces monumens sont en marbre blanc statuaire, & méritent l'attention de tous les connoisseurs, qui les ont toujours reputés antiques: on voit en effet, que dans le temps où les Artistes n'étoient pas même capables d'atteindre le genre médiocre, il auroit été impossible de leur faire exécuter les beautés répandues dans ces morceaux. Cette idée s'offre naturellement à l'aspect des figures Gothiques, dont l'Autel est orné; elles se ressentent toutes du mauvais goût & de l'impéritie des Sculpteurs, tandis que les autres parties antiques saisissent le spectateur, & lui rappellent avec plaisir les beaux siècles des arts dans la Grece & dans Rome."
+      ],
+      "text_ru": [
+        "№ 1 и 2 этой таблицы представляют два пилястра в гротескном роде. Они были сняты с развалин зданий, расположенных близ Кафедрального собора, которые, по-видимому, были остатками древнего храма Дианы либо иных построек, в своё время украшенных за счёт этого храма. Хороший вкус в выборе орнаментов, их разумное распределение, точность рисунка — всё это говорит об умении художника, исполнившего эти драгоценные образцы; те, кто руководил устройством алтаря, посвящённого Св. Лазарю, в кафедральной церкви, когда в XV веке эту часовню перестраивали, несомненно, поражённые красотами, встреченными среди этих остатков, рассудили, что лучше всего употребят их, предназначив для украшения алтаря все те фрагменты, что не были повреждены.",
+        "Эти памятники выполнены из белого статуарного мрамора и заслуживают внимания всех знатоков, неизменно считавших их античными: действительно видно, что во времена, когда художники не были способны достичь даже посредственного уровня, им было бы невозможно исполнить те красоты, что рассыпаны в этих произведениях. Эта мысль естественно приходит при виде готических фигур, которыми украшен алтарь; все они носят на себе печать дурного вкуса и неумелости скульпторов, тогда как прочие античные части захватывают зрителя и с удовольствием напоминают ему о прекрасных веках искусства в Греции и Риме."
+      ],
+      "text_en": [
+        "Nos. 1 & 2 of this Plate present two Pilasters in the Grotesque style. They were taken from the ruins of buildings situated near the Cathedral, which were probably remains of the ancient Temple of Diana, or of other structures that had in their time been decorated at that Temple's expense. The good taste in the choice of ornaments, their wise arrangement, the accuracy of the design, all proclaim the skill of the Artist who executed these precious pieces; those who directed the building of the Altar dedicated to St. Lazarus in the Cathedral Church, when this Chapel was rebuilt in the 15th century, doubtless struck by the beauties they found among these remains, judged they could put them to no better use than by setting aside, to adorn the Altar, all those that were not damaged.",
+        "These monuments are of white statuary marble, and deserve the attention of all connoisseurs, who have always held them to be antique: indeed, one can see that in an age when artists were not even capable of reaching a mediocre level, it would have been impossible to have them execute the beauties scattered through these pieces. This thought arises naturally at the sight of the Gothic figures adorning the Altar; they all betray the poor taste and unskillfulness of the Sculptors, whereas the other antique parts seize the viewer, and pleasantly recall to him the great ages of the arts in Greece and Rome."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "ruines près de la Cathédrale (ancien Temple de Diane présumé)",
+      "findspot_ru": "развалины близ Кафедрального собора (предположительно древний храм Дианы)",
+      "findspot_en": "ruins near the Cathedral (presumed site of the ancient Temple of Diana)"
+    },
+    {
+      "id": "pl23-2",
+      "part": 2,
+      "plate": 23,
+      "num": "3",
+      "fr": "Colonne d'ordre composite, vestige présumé de l'ancien baptistère",
+      "ru": "Колонна композитного ордера, предполагаемый остаток древнего баптистерия",
+      "en": "Composite-order column, a presumed relic of the old baptistery",
+      "page": "168",
+      "group": "XXIII",
+      "group_fr": "Planche XXIII",
+      "group_en": "XXIII",
+      "group_page": "167",
+      "flag": "",
+      "type": "architectural fragment",
+      "material_fr": "pierre de taille, astragale en marbre blanc",
+      "material_ru": "тёсаный камень, астрагал из белого мрамора",
+      "material_en": "cut stone, astragal of white marble",
+      "img": [
+        "pl23-full.jpg"
+      ],
+      "plate_img": "pl23-full.jpg",
+      "bbox": [
+        60.0,
+        2.0,
+        38.0,
+        96.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Colonne de l'ordre composite, qui se trouve dans le jardin potager de M. le Prévôt de l'Eglise de Marseille; elle est dans de belles proportions, & annonce la grandeur & la magnificence de l'édifice qu'elle décoroit. Je crois que cet endroit étoit l'ancien Baptistaire de la Cathédrale, qui avoit été orné des débris du Temple de Diane; on trouve en effet, aux environs, des tronçons d'autres colonnes également canelées & dans les mêmes proportions; ces tronçons sont en marbres orientaux, tandis que la colonne qui subsiste en entier est toute de pierre de taille, à l'exception de l'astragale qui est en marbre blanc statuaire; ce qui fait présumer qu'en construisant le Baptistaire, on avoit ramassé indifféremment toutes les colonnes qu'on avoit pu recupérer; car, si elles eussent été destinées de principe à orner ce lieu, elles auroient été faites incontestablement, ou toutes de marbre, ou toutes de pierre, sur-tout dans un édifice octogone, ainsi qu'on peut le remarquer par les arceaux qui restent; ce genre d'architecture exigeant de nécessité l'uniformité.",
+        "Le Sr. Clérisseau, habile Dessinateur de monumens antiques, dont les ouvrages en ce genre sont avec raison estimés des amateurs, s'attribua la découverte de ces ruines, & en fit une pompeuse description dans les feuilles Périodiques de Marseille. Ruffi, dans son histoire de cette Ville, avoit fait mention de cet Edifice avant lui; & tous nos Concitoyens instruits le connoissoient. Le Sr. Clerisseau auroit pu s'éviter la peine de le leur annoncer comme une découverte. Cet Artiste hasarda même de décider que c'étoit une des chapelles du Temple de Diane; son court séjour dans cette Ville ne lui permit pas d'en lire l'histoire, ni de prendre les renseignemens nécessaires; il n'auroit point adopté un sistème formellement contredit par les Chartes de la Cathédrale; s'il eût pris cette précaution, il auroit appris, qu'une ancienne Eglise subsistoit dans les terrains de la Prévôté, avant qu'on construisît celle qui existe de nos jours; qu'un mur à côté de l'orgue, est un vestige de cette ancienne Eglise; & pour lors, il seroit convenu avec nous, que la prétendue chapelle du Temple de Diane, n'étoit autre chose que le Baptistaire (73) de la Cathédrale, qui avoit été décoré avec des Colonnes antiques recupérées du Temple plus anciennement placé sur le même terrain.",
+        "(73) La place qu'occupoit cet Edifice, dénote assez son usage: les Baptistaires étoient anciennement tous placés hors des Eglises; les Cathédrales ou Eglises mères, étoient seules en droit d'en avoir. On voit encore de fameux édifices en ce genre, à Rome, à St. Jean de Latran, à Pise, à Florence & dans d'autres villes d'Italie: sans sortir même de notre Province; le Baptistaire de la Métropole d'Aix, est une preuve de ce que nous avançons."
+      ],
+      "text_ru": [
+        "№ 3. Колонна композитного ордера, находящаяся в огородном саду г-на прево Марсельской церкви; она отличается прекрасными пропорциями и свидетельствует о величии и великолепии здания, которое она украшала. Я полагаю, что это место было древним баптистерием кафедрального собора, украшенным обломками храма Дианы; действительно, в окрестностях находят обломки других колонн, также каннелированных и тех же пропорций; эти обломки выполнены из восточных мраморов, тогда как сохранившаяся целиком колонна целиком высечена из тёсаного камня, за исключением астрагала, выполненного из белого статуарного мрамора; это заставляет предполагать, что при постройке баптистерия без разбора собирали все колонны, какие удавалось раздобыть; ибо если бы они изначально предназначались для украшения этого места, их, несомненно, сделали бы либо все мраморными, либо все каменными, тем более в восьмиугольном здании, как это можно заметить по сохранившимся аркам; этот род архитектуры по необходимости требует единообразия.",
+        "Г-н Клериссо, искусный рисовальщик античных памятников, чьи труды в этом роде заслуженно ценятся любителями, приписал себе открытие этих развалин и дал их пышное описание в марсельских периодических листках. Рюффи в своей истории этого города упоминал об этом здании ещё до него; и все наши образованные сограждане знали о нём. Г-ну Клериссо следовало бы избавить себя от труда объявлять им это как открытие. Этот художник даже дерзнул утверждать, что это была одна из капелл храма Дианы; его краткое пребывание в этом городе не позволило ему ни прочесть его историю, ни собрать нужные сведения; он не принял бы системы, формально противоречащей хартиям кафедрального собора; прими он эту предосторожность, он узнал бы, что на землях прево существовала древняя церковь ещё до постройки нынешней; что стена рядом с органом — остаток этой древней церкви; и тогда он согласился бы с нами, что мнимая капелла храма Дианы была не чем иным, как баптистерием (73) кафедрального собора, украшенным античными колоннами, взятыми из храма, стоявшего некогда на этом же месте.",
+        "(73) Место, которое занимало это здание, достаточно указывает на его назначение: баптистерии в древности всегда располагались вне церквей; правом иметь их обладали лишь кафедральные, или материнские, церкви. Знаменитые здания такого рода и поныне можно видеть в Риме, у Сан-Джованни-ин-Латерано, в Пизе, во Флоренции и в других городах Италии; не выходя даже за пределы нашей провинции — баптистерий Экского митрополичьего собора служит тому доказательством."
+      ],
+      "text_en": [
+        "No. 3. Column of the Composite order, found in the kitchen garden of M. the Provost of the Church of Marseille; it is of fine proportions, and bespeaks the grandeur and magnificence of the building it once adorned. I believe this spot was the old Baptistery of the Cathedral, which had been decorated with remains of the Temple of Diana; indeed, nearby are found fragments of other columns, likewise fluted and of the same proportions; these fragments are of oriental marbles, whereas the column that survives whole is entirely of cut stone, except for the astragal, which is of white statuary marble; this suggests that in building the Baptistery, all the columns that could be recovered were gathered indiscriminately; for had they been originally intended to adorn this place, they would certainly have been made either all of marble or all of stone, especially in an octagonal building, as can be seen from the surviving arches; this style of architecture necessarily requiring uniformity.",
+        "Sieur Clérisseau, a skilled draughtsman of ancient monuments, whose works of this kind are rightly esteemed by connoisseurs, claimed credit for discovering these ruins, and gave a pompous description of them in Marseille's periodical sheets. Ruffi, in his history of this City, had mentioned this Building before him; and all our educated fellow-citizens knew of it. Sieur Clérisseau could have spared himself the trouble of announcing it to them as a discovery. This Artist even ventured to declare it one of the chapels of the Temple of Diana; his brief stay in this City did not allow him to read its history, or gather the necessary information; he would not have adopted a theory formally contradicted by the Cathedral's Charters; had he taken this precaution, he would have learned that an old Church stood on the grounds of the Provostry before the present one was built; that a wall beside the organ is a remnant of that old Church; and he would then have agreed with us that the supposed chapel of the Temple of Diana was nothing other than the Baptistery (73) of the Cathedral, which had been decorated with ancient Columns recovered from the Temple formerly standing on this same site.",
+        "(73) The location this Building occupied sufficiently indicates its use: Baptisteries were anciently always placed outside Churches; only Cathedrals, or mother Churches, had the right to one. Famous buildings of this kind are still to be seen at Rome, at St. John Lateran, at Pisa, at Florence, and in other cities of Italy: without even leaving our Province, the Baptistery of the Metropolitan Church of Aix is proof of what we assert."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "jardin potager de M. le Prévôt de l'Église de Marseille",
+      "findspot_ru": "огородный сад г-на прево Марсельской церкви",
+      "findspot_en": "the kitchen garden of the Provost of the Church of Marseille"
     }
   ]
 }
