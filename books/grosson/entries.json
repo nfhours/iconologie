@@ -2682,7 +2682,7 @@
       "group_fr": "Planche IV",
       "group_en": "IV",
       "group_page": "42",
-      "flag": "",
+      "flag": "non décrit par Grosson (lacune du texte original)",
       "type": "medal",
       "material_fr": "bronze",
       "material_ru": "бронза",
@@ -2698,15 +2698,21 @@
         6.34
       ],
       "attrs": [],
-      "text_fr": [],
-      "text_ru": [],
-      "text_en": [],
-      "obverse_fr": "",
-      "obverse_ru": "",
-      "obverse_en": "",
-      "reverse_fr": "",
-      "reverse_ru": "",
-      "reverse_en": "",
+      "text_fr": [
+        "Grosson décrit en détail les médailles n° 1 à 15 de cette Planche IV, mais son texte (p. 42-44) s'arrête après le n° 15 et passe directement à la Planche V, sans jamais commenter le n° 16. Il s'agit donc d'une lacune de l'auteur lui-même, et non d'une page manquante dans la source numérisée. Description d'après la seule gravure : à l'avers, une tête casquée avec les lettres [MA]MA (abréviation de MASSALIA); au revers, deux anneaux (O O)."
+      ],
+      "text_ru": [
+        "Гроссон подробно описывает монеты №1–15 этой Таблицы IV, но его текст (стр. 42–44) обрывается после №15 и сразу переходит к Таблице V, ни разу не упомянув №16. Это пробел самого автора, а не пропущенная страница в оцифрованном источнике. Описание составлено только по гравюре: на лицевой стороне — голова в шлеме с буквами [MA]MA (сокращение MASSALIA); на обороте — два кольца (O O)."
+      ],
+      "text_en": [
+        "Grosson describes medals No. 1-15 of this Plate IV in detail, but his text (pp. 42-44) stops after No. 15 and moves straight to Plate V without ever commenting on No. 16. This is a gap in the author's own text, not a missing page in the digitized source. Description based on the engraving alone: obverse, a helmeted head with the letters [MA]MA (abbreviation of MASSALIA); reverse, two rings (O O)."
+      ],
+      "obverse_fr": "tête casquée, lettres [MA]MA",
+      "obverse_ru": "голова в шлеме, буквы [MA]MA",
+      "obverse_en": "helmeted head, letters [MA]MA",
+      "reverse_fr": "deux anneaux (O O)",
+      "reverse_ru": "два кольца (O O)",
+      "reverse_en": "two rings (O O)",
       "motifs": [],
       "legend_fr": "",
       "legend_ru": "",
