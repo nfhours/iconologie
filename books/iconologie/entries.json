@@ -12989,12 +12989,39 @@
       "group_fr": "Amours divers",
       "group_page": "115",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-101-1.jpg",
+        "p2-101-2.jpg",
+        "p2-101-3.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Составная статья о «Мирских Любовях», охватывающая двенадцать медальонов на трёх листах: Мучение, Свидетельство, Удовлетворение и Удовольствие Любви (первый лист); Борьба, Удача, Любопытство и Сила Любви (второй лист); Удовольствие, Игра, Согласие и Наказание Любви (третий лист)",
+          "meaning": "Наказание Любви (Венера бичует привязанного к колонне Купидона розовой веткой) — горечь, скрытая в видимо сладостных муках влюблённых; борющиеся за пальму купидоны — соперничество в любви; слепая женщина на колесе с рогом изобилия — переменчивая удача в любви; басня о Психее — любопытство; похищенная у Юпитера молния — власть любви даже над царём богов; гриф, гложущий сердце, и ликующие увенчанные цветами фигуры рядом — смешение наслаждения и муки, присущее этой страсти",
+          "what_en": "A composite entry on \"Worldly Loves\", covering twelve roundels across three plates: Torment, Testimony, Contentment and Pleasure of Love (first plate); Combat, Fortune, Curiosity and Strength of Love (second plate); Pleasure, Play, Harmony and Punishment of Love (third plate)",
+          "meaning_en": "Love's Punishment (Venus whipping Cupid, bound to a column, with a rose-branch) signifies the bitterness hidden within lovers' seemingly sweet torments; the cupids wrestling over a palm, rivalry in love; the blind woman on a wheel with a cornucopia, love's fickle fortune; the fable of Psyche, curiosity; the thunderbolt stolen from Jupiter, love's power even over the king of the gods; the vulture gnawing a heart beside rejoicing, flower-crowned figures, the mingling of pleasure and torment inherent to this passion"
+        }
+      ],
+      "text_ru": [
+        "Здесь видны несколько его родов на вышеприведённых листах, из коих первый представляет удовольствие, игру, согласие и наказание Любви. Но поскольку по тому, как эти Любови изображены, они объясняются сами собою довольно ясно, я скажу лишь о последней, что мать её Венера, привязав её к колонне, у подножия коей в виде трофея помещены её лук и стрелы, бичует её розовой веткой; дабы показать тем самым, что наказание Влюблённых не лишено некой колкости и горечи, сколь бы сладостными и приятными ни казались по видимости эти муки.",
+        "Второй лист являет нашим взорам борьбу Любви в образе двух Купидонов, наперебой вырывающих друг у друга из рук пальмовую ветвь; её добрую удачу — в действии этого малого Бога, коему протягивает руку столь же слепая, как и он, женщина, держащая рог изобилия, с одной ногой в воздухе, а другой на колесе; её любопытство — в довольно известной басне о Психее; и её дивную Силу — в молнии, что он несёт, словно вырванной у самого Юпитера, дабы явить свою власть над этим владыкой Богов.",
+        "Третий — в облике Влюблённого, чьё сердце гложет гриф, и в облике трёх прочих, увенчанных цветами, пышно одетых и предающихся веселью, учит нас, как мы уже говорили прежде, что эта неистовая страсть смешивает воедино наслаждения и муки.",
+        "На первом из этих листов видны также изображённые Мучение, Свидетельство и Удовлетворение Любви — в облике Купидонов и юношей, чьи позы, птицы, лавровые ветви и чаши, что они держат, говорят довольно сами за себя, без нужды давать здесь более пространное объяснение."
+      ],
+      "text_fr": [
+        "IL s'en voit icy de plusieurs sortes dans les planches cy-dessus, dont la premiere represente le plaisir, le jeu, l'harmonie, & le chastiment d'Amour. Mais dautant que de la façon que ces Amours sont peints, ils s'expliquent assez clairement d'eux-mesmes, je diray seulement du dernier, que sa mere Venus l'ayant attaché à une colomne, au bas de laquelle sont mis en forme de trophée son arc & ses fleches, luy donne le foüet avec une branche de rosier; pour faire voir par là que la punition des Amans ne laisse pas d'avoir je ne sçay quoy de piquant & d'amer, quelque doux & agreables qu'en soient apparemment les supplices.",
+        "La seconde planche expose à nos yeux le combat d'Amour par deux Cupidons, qui font à l'envy pour s'arracher des mains une palme; Sa bonne fortune, par l'action de ce petit Dieu, auquel une femme aussi aveugle que luy tend la main, tenant une corne d'abondance, un pied en l'air, & l'autre sur une roüe; Sa curiosité par la fable de Psyché assez connuë; Et sa merveilleuse Force par une foudre qu'il porte, qu'il semble avoir arrachée à Jupiter mesme, pour faire voir son empire sur ce maistre des Dieux.",
+        "La troisiéme, par la figure d'un Amant auquel un vautour ronge le cœur; & par celle des trois autres qui sont couronnez de fleurs, pompeusement vestus, & en action de se réjouïr, nous apprend, comme nous avons dit cy-devant, que cette passion violente confond ensemble les plaisirs & les supplices.",
+        "On y voit encore representez le Tourment, le Tesmoignage, & le Contentement d'Amour, sur la premiere de ces planches, par des Cupidons & des jeunes gens dont les attitudes, les oiseaux, les branches de laurier & les coupes qu'ils tiennent, parlent assez d'eux-mesmes sans qu'il soit besoin d'en donner icy une plus ample explication."
+      ],
       "en": "Worldly Loves",
-      "group_en": "Various Kinds of Love"
+      "group_en": "Various Kinds of Love",
+      "scans": [
+        "p2-101-1.jpg",
+        "p2-101-2.jpg",
+        "p2-101-3.jpg",
+        "p2-101-4.jpg"
+      ]
     },
     {
       "id": "p2-102",
