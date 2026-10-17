@@ -12674,12 +12674,39 @@
       "group_fr": "Divers Gouvernemens",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-94.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Богато одетая женщина зрелого возраста на троне, с пучком розог в правой руке, шлемом в левой, грудами золота и серебра у ног",
+          "meaning": "Зрелый возраст и царственная осанка — благоразумие, потребное для управления Республикой; пучок связанных розог — единение, необходимое Государству; шлем и сокровища — деньги как нерв войны, нужные для самосохранения народа",
+          "what_en": "A richly dressed woman of mature age on a throne, a bundle of rods in her right hand, a helmet in her left, heaps of gold and silver at her feet",
+          "meaning_en": "Her maturity and regal bearing signify the prudence needed to govern a Republic; the bundle of bound rods, the union a State requires; the helmet and treasure, money as the sinew of war, needed for a people's self-preservation"
+        }
+      ],
+      "text_ru": [
+        "Её изображают женщиной зрелого возраста, богато одетой, восседающей на троне с превосходной и царственной величавостью. В правой руке у неё пучки розог, в левой — шлем, а у ног — груды золота и серебра.",
+        "Аристократией называют Государство, управляемое людьми благородного звания, пекущимися о соблюдении законов, о справедливом устроении всех дел и о распределении богатств и должностей между теми, кого они сочтут того достойными.",
+        "Её изображают в зрелом возрасте, дабы показать, что благоразумие и рассудительность необходимы для управления Республикой.",
+        "Она восседает по-царски и исполнена величия, ибо высшие должности должны доверяться лишь лицам выдающегося положения.",
+        "Ей дают связанный пучок розог, дабы научить нас великому единению, долженствующему царить в Государстве ради общего блага и сохранения.",
+        "Что до шлема, что она носит, и сокровищ у её ног, это означает, что деньги суть нерв войны, и что если народы желают сохранить себя, им не должно скупиться на них."
+      ],
+      "text_fr": [
+        "ELLE est representée par une femme d'âge viril richement vestuë, assise dans un throne, avec une majesté superbe & royale. Elle a en sa main droite des faisceaux de verges, en sa gauche un heaume, & à ses pieds des monceaux d'or & d'argent.",
+        "L'on appelle Aristocratie, un Estat gouverné par des hommes de condition noble, qui prennent le soin de faire observer les loix, de regler toutes choses avec justesse, & de faire part des richesses & des charges à ceux qu'ils en jugent dignes.",
+        "On la peint d'un âge rassis, pour faire voir que la prudence & le jugement sont necessaires au gouvernement de la Republique.",
+        "Elle est assise royalement & pleine de majesté, parceque les plus grands emplois ne doivent estre fiez qu'à des personnes de condition éminente.",
+        "On luy donne un faisceau de verges liées ensemble, pour nous apprendre la grande union qu'il y doit avoir dans un Estat pour le bien & la conservation du public.",
+        "Quant au heaume qu'elle porte, & aux tresors qui sont à ses pieds, cela veut dire que l'argent est le nerf de la guerre, & que si les peuples se veulent conserver, il ne faut pas qu'ils en soient avares."
+      ],
       "en": "Aristocracy",
-      "group_en": "Forms of Government"
+      "group_en": "Forms of Government",
+      "scans": [
+        "p2-94-1.jpg",
+        "p2-94-2.jpg"
+      ]
     },
     {
       "id": "p2-95",
@@ -12692,12 +12719,42 @@
       "group_fr": "Divers Gouvernemens",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-95.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Скромно одетая женщина, увенчанная виноградными побегами, с гранатовым яблоком в правой руке, змеями в левой и двумя мешками зерна",
+          "meaning": "Виноград и вяз — единение народа; скромное одеяние — ограниченность средств народа; гранат — народ, собранный воедино и управляющий собой; змеи — низменное, пресмыкающееся правление без заботы об истинной славе; зерно в мешках — попечение о пропитании важнее почестей",
+          "what_en": "A modestly dressed woman crowned with vine shoots, a pomegranate in her right hand, serpents in her left, and two sacks of grain",
+          "meaning_en": "The vine and elm leaves signify the people's union; her modest dress, the people's limited means; the pomegranate, a people gathered together and governing itself; the serpents, a base, creeping government unconcerned with true glory; the grain sacks, a greater care for sustenance than for honors"
+        }
+      ],
+      "text_ru": [
+        "Эта женщина, увенчанная виноградными побегами, скромно одетая, держащая в правой руке гранатовое яблоко, а в левой — змей, с двумя мешками, наполненными зёрнами, представляет Демократию.",
+        "Под нею разумеется Государство народное, то есть управляемое народом в форме Совета и Собрания, где каждый может подать свой голос для рассуждения об общественных делах.",
+        "Её венчают виноградной лозой и листьями вяза, дабы показать, что как эти два растения соединяются вместе, так же поступает и народ.",
+        "Её скромное одеяние сообразно положению народа, который, не имея довольно средств, не может явно выказать честолюбивое желание сравняться с теми, кто выше его по положению.",
+        "Она держит в правой руке гранатовое яблоко, ибо этот плод, как замечает Пиэрий Валериан, есть символ народа, собранного в одном месте и управляющего собой сообразно своему положению и имеющимся средствам.",
+        "Змеи, что она держит в руке, означают, что как народ обычно не тронут никаким попечением об истинной славе, так и правление его лишь пресмыкается.",
+        "Что до зёрен в мешках, они являют запасы, кои обычно делают Общины, более пекущиеся о пропитании, нежели о почестях."
+      ],
+      "text_fr": [
+        "CETTE femme couronnée de pampres, & modestement vestuë, tenant de la main droite une pomme de grenade, de la gauche des serpens, avec des grains dont elle a deux sacs remplis, represente la Democratie.",
+        "Par elle s'entend un Estat populaire, c'est à dire qui est gouverné par le peuple, en forme de Conseil & d'Assemblée, où chacun peut donner sa voix, pour deliberer des affaires publiques.",
+        "On la couronne de pampre & de feuilles d'ormeau, pour montrer que comme ces deux plantes s'unissent ensemble, le peuple en fait tout de mesme.",
+        "Son habit modeste s'accommode à la condition du peuple, qui pour n'avoir assez de moyens, ne peut mettre en evidence le desir ambitieux qu'il a d'aller du pair avec les autres, qui sont de plus grande condition que luy.",
+        "Elle tient en la main droite une pomme de grenade, à cause que ce fruit-là, comme le remarque Pierius Valerian, est le symbole d'un peuple assemblé dans un lieu, & qui se gouverne selon sa condition & les moyens qu'il en peut avoir.",
+        "Les serpens qu'elle tient en main, signifient que comme le peuple n'est ordinairement touché d'aucune consideration de vraye gloire, son gouvernement de mesme ne fait que ramper.",
+        "Pour ce qui est des grains qui sont dans les sacs, ils figurent les provisions qu'ont accoustumé de faire les Communautez, qui ont plus d'ambition pour les vivres que pour les honneurs."
+      ],
       "en": "Democracy",
-      "group_en": "Forms of Government"
+      "group_en": "Forms of Government",
+      "scans": [
+        "p2-95-1.jpg",
+        "p2-95-2.jpg",
+        "p2-95-3.jpg"
+      ]
     },
     {
       "id": "p2-96",
@@ -12710,12 +12767,51 @@
       "group_fr": "Divers Gouvernemens",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-96.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Горделивая юная женщина с лучистым венцом и алмазным знаком на груди, восседающая на земном шаре с тремя скипетрами в одной руке и свитком «Omnibus unus» в другой, лев и дракон с одной стороны, скованные цари среди трофеев с другой",
+          "meaning": "Лучистый венец — единственность и абсолютность монаршей власти, подобной единственному Солнцу; алмаз — несокрушимая твёрдость монарха перед любой силой; скипетры — власть над четырьмя частями света; лев и дракон — владычество над миром; пленные цари и трофеи — победы и триумфы завоевателей",
+          "what_en": "A proud young woman with a radiant crown and a diamond emblem on her breast, seated on a globe with three scepters in one hand and a scroll reading \"Omnibus unus\" in the other, a lion and dragon on one side, chained kings amid trophies on the other",
+          "meaning_en": "The radiant crown signifies the singularity and absoluteness of monarchic power, likened to the one sun; the diamond, the monarch's unbreakable firmness against any force; the scepters, dominion over the four parts of the world; the lion and dragon, world dominion; the captive kings and trophies, the victories and triumphs of conquerors"
+        }
+      ],
+      "text_ru": [
+        "Её символ — юная женщина с горделивым лицом, увенчанная лучами, на груди коей блистает алмазный знак.",
+        "Прибавлю к этому, что она восседает на земном шаре, держа одной рукой три скипетра, а другой — свиток со словами Omnibus unus (Единая для всех). Сверх того с правой её стороны приметны два яростных зверя, а именно лев и дракон; а слева — скованные Цари среди скипетров, венцов и боевых трофеев.",
+        "Монархия разумеется как единодержавие одного лица, дабы показать, что молодые люди, как замечает Аристотель, обычно горделивы и желают иметь превосходство над всеми прочими.",
+        "Она вооружена, как для того, чтобы внушать страх, так и для того, чтобы быть всегда готовой к битве и к новым завоеваниям.",
+        "Алмазы на её груди означают, что как этот драгоценный камень неукротим по своей твёрдости, так и Монарх стремится стать неодолимым для всех сил и противостоять всем, кто желает быть ему противным.",
+        "Её лучистый венец учит нас, что подобно тому как есть лишь одно Солнце, так и Монарх должен обладать абсолютной властью, никому не подчиняясь, как он и возвещает словами Omnibus unus.",
+        "Что до четырёх скипетров, что он держит, они суть символ державной власти над четырьмя частями Света. Это же означают, по Пиэрию, змея и дракон.",
+        "Что до трофеев, пленных Царей, равно как скипетров и венцов, все эти вещи суть знаки побед, какие обычно одерживают завоеватели, и их славнейших триумфов.",
+        "Я позабыл сказать, что лучи, коими увенчана Монархия, означают также тот высокий блеск величия и величавости, что сияет в облике Монархов. Таков был, по мнению некоторых, обычный блеск, замечаемый в лице Александра; из чьих глаз (особенно когда он шёл в бой) исторгались некие лучи света, столь живые и пронзительные, что заставляли опускать взор тех, кто на него смотрел, так что они как бы слепли от них. В чём воистину запечатлелся в нём от природы возвышеннейший из всех знаков державности. Ибо несомненно, что тот, кто чрезмерным честолюбием стремится владычествовать над всем миром, едва может стерпеть не только приближение к себе, но даже и то, чтобы на него смотрели.",
+        "Прибавьте к этому, что с одной стороны этой фигуры приметны два яростных зверя, а именно дракон и лев, ибо тот и другой, по Пиэрию, помещённые вместе перед статуей Богини Опис, были символом владычества над миром.",
+        "Некоторые ещё изображают Монархию с золотыми, сверкающими самоцветами котурнами у ног, в знак ещё более явного первенства, поскольку такого рода обувь в древности давалась лишь Государям и Героям."
+      ],
+      "text_fr": [
+        "ELLE a pour symbole une jeune femme d'un visage altier, couronnée de rayons, & sur le sein de laquelle brille une enseigne de diamans.",
+        "J'adjouste à cecy qu'elle est assise sur un globe, tenant d'une main trois sceptres, & de l'autre un écriteau avec ces mots, Omnibus unus. Outre qu'à son costé droit sont remarquables deux furieux animaux, à sçavoir un lion & un dragon; Et au gauche des Roys enchaisnez parmy des sceptres, des couronnes, & des trophées d'armes.",
+        "La Monarchie s'entend de la principauté d'une seule personne, pour montrer que les jeunes gens, comme le remarque Aristote, sont ordinairement altiers, & veulent avoir l'avantage sur tous les autres.",
+        "Elle est armée, tant pour se rendre redoutable, que pour estre toûjours preste à combatre & à faire de nouvelles conquestes.",
+        "Les diamans de son sein signifient que comme cette pierre precieuse est indomptable à cause de sa dureté, un Monarque de mesme tasche à se rendre invincible à toutes sortes de forces, & de resister à tous ceux qui luy veulent estre contraires.",
+        "Sa couronne de rayons nous apprend, que tout ainsi qu'il n'y a qu'un Soleil, le Monarque de mesme doit avoir un empire absolu, & ne relever de personne, comme il le declare par ces mots, Omnibus unus.",
+        "Quant aux quatre sceptres qu'il tient, ils sont le symbole d'un commandement souverain sur les quatre parties du Monde. Ce que le serpent & le dragon denotent encore, selon Pierius.",
+        "Pour ce qui est des trophées, des Roys captifs, & pareillement des sceptres & des couronnes, toutes ces choses sont des marques de victoires qu'ont accoustumé de gagner les conquerans, & de leurs plus celebres triomphes.",
+        "J'avois oublié que les rayons dont la Monarchie est couronnée, representent encore ce haut lustre de grandeur & de majesté qui brille sur la personne des Monarques. Tel estoit, selon quelques-uns, l'éclat ordinaire qui se remarquoit dans le visage d'Alexandre; des yeux duquel (sur tout quand il alloit au combat) s'élançoient je ne sçay quels traits de lumiere, si vifs, & si penetrans, qu'ils faisoient baisser la veuë à ceux qui le regardoient, de sorte qu'ils en estoient comme éblouïs. En quoy veritablement se voyoit empreinte en luy naturellement la plus sublime de toutes les marques de souveraineté. Car il est indubitable que celuy qui par un excés d'ambition se porte à maistriser tout le monde, peut à peine souffrir non seulement qu'on l'approche, mais non pas mesme qu'on le regarde.",
+        "Ajoûtez icy qu'en l'un des costez de cette figure sont remarquables deux animaux furieux, à sçavoir un dragon & un lion, à cause que l'un & l'autre, selon Pierius, mis ensemble devant la statuë de la Deesse Opis, estoient le symbole de l'empire du monde.",
+        "Quelques-uns encore representent la Monarchie ayant à ses pieds des brodequins d'or tous brillans de pierreries, pour une marque de préeminence plus signalée; dautant que cette sorte de chaussure ne se donnoit autrefois qu'aux Princes & aux Heros."
+      ],
       "en": "Monarchy",
-      "group_en": "Forms of Government"
+      "group_en": "Forms of Government",
+      "scans": [
+        "p2-96-1.jpg",
+        "p2-96-2.jpg",
+        "p2-96-3.jpg",
+        "p2-96-4.jpg"
+      ]
     },
     {
       "id": "p2-97",
