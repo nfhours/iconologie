@@ -3061,12 +3061,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-55.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Облик странника-пилигрима с посохом",
+          "meaning": "снаряжение изгнанника, вынужденного или добровольного",
+          "what_en": "Pilgrim's garb and staff",
+          "meaning_en": "the equipage of an exile, whether forced or self-imposed"
+        },
+        {
+          "what": "Сокол в левой руке",
+          "meaning": "неизменный атрибут странствующего путника",
+          "what_en": "Falcon in his left hand",
+          "meaning_en": "a customary attribute of the wayfarer"
+        }
+      ],
+      "text_ru": [
+        "Он изображён здесь в облике человека, одетого странником, держащего посох в правой руке и сокола в левой.",
+        "Есть два вида Изгнания: одно частное, обозначенное снаряжением странника, случающееся из-за какого-либо происшествия или когда человек по собственной воле изгоняет себя из своей страны; и другое — публичное, когда гражданин либо по своей вине, либо по подозрению изгоняется из отечества на определённый срок либо навечно."
+      ],
+      "text_fr": [
+        "Il est icy figuré par vn homme vestu en pelerin, tenant vn bourdon de la main droite, & vn faucon de la gauche.",
+        "Il y a deux sortes d'Exil; l'vn particulier, qui est denoté par l'equipage d'vn pelerin, & qui arrive à cause de quelque accident, ou quand de sa propre volonté l'homme se bannit de son païs; & l'autre public, lorsqu'vn citoyen ou par sa faute, ou par soupçon est exilé de sa patrie pour vn temps préfix, ou bien à perpetuité."
+      ],
       "en": "Exile",
-      "group_en": "E"
+      "group_en": "E",
+      "scans": [
+        "p1-55-1.jpg",
+        "p1-55-2.jpg"
+      ]
     },
     {
       "id": "p1-56",
@@ -3079,12 +3104,61 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-56.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Старческий облик",
+          "meaning": "Опыт — дитя времени (по Аристотелю)",
+          "what_en": "Her aged appearance",
+          "meaning_en": "Experience as a creature of time (per Aristotle)"
+        },
+        {
+          "what": "Позолоченное одеяние",
+          "meaning": "преимущество Опыта над Науками, как золота над металлами",
+          "what_en": "Gilded garment",
+          "meaning_en": "Experience's advantage over the Sciences, as gold's over other metals"
+        },
+        {
+          "what": "Геометрический угольник",
+          "meaning": "безошибочное измерение высоты, глубины и расстояния вещей",
+          "what_en": "Geometric square",
+          "meaning_en": "the infallible measuring of the height, depth and distance of things"
+        },
+        {
+          "what": "Жезл со свитком RERUM MAGISTRA",
+          "meaning": "Опыт правит познанием искусств и дел мира",
+          "what_en": "Wand with a scroll inscribed RERUM MAGISTRA",
+          "meaning_en": "Experience governs the knowledge of the arts and affairs of the world"
+        },
+        {
+          "what": "Пробирный камень и сосуд с пламенем",
+          "meaning": "безошибочное мерило ценности металлов и огонь, раскрывающий тайны природы",
+          "what_en": "Touchstone and a vessel with flame",
+          "meaning_en": "the infallible test of metals' worth, and the fire that unlocks nature's secrets"
+        }
+      ],
+      "text_ru": [
+        "Это старая женщина, облачённая в золотую газовую ткань, которая правой рукой держит геометрический угольник, а левой — жезл со свитком вокруг него, на котором написаны слова RERUM MAGISTRA, то есть «наставница вещей». Кроме того, у её ног можно заметить пробирный камень и сосуд, из которого испаряется пламя.",
+        "Она представлена старой, потому что, согласно Аристотелю, она — дитя времени: «Ибо она рождается возрастом и делает различным применением то, что Искусство, подвластное её закону, являет в себе ещё более дивным; если случится ей повстречаться на пути, который ей указывает пример».",
+        "Её одеяние позолочено, ибо она имеет над Науками то же преимущество, какое золото имеет над всеми прочими металлами. И не без великой тайны она держит в руке геометрический угольник; ибо с помощью этого инструмента, деля его градусы и умножая числа, посредством безошибочного опыта находят высоту, глубину и расстояние вещей. То же являет нам и её жезл, показывающий, что она правит здесь, внизу, и что без неё мы были бы слепы в познании искусств и дел мира.",
+        "При всём том огонь, который виден рядом с ней, подходит ей весьма уместно, ибо без него, как говорит Боккаччо в своей «Генеалогии Богов», мы не знали бы бесчисленного множества прекрасных вещей, которые являет нам Опыт: ведь именно он доводит до совершенства золото, серебро и все прочие металлы; он укрощает железо и бронзу; он отделяет чистое от нечистого; и он посредством удивительных превращений обращает чёрное в белое, травы — в стекло, а дерево — в пепел.",
+        "Что же до пробирного камня, он по праву являет Опыт, будучи безошибочным мерилом ценности металлов, и в особенности золота."
+      ],
+      "text_fr": [
+        "C'est vne vieille femme vestue de gaze d'or, qui de la main droite tient vn carré geometrique, & de la gauche vne baguette avec vn rouleau à l'entour, sur lequel sont écrits ces deux mots, RERUM MAGISTRA, c'est à dire la maistresse des choses. Outre qu'on peut remarquer à ses pieds vne pierre de touche, & vn vase, d'où s'évaporent des flammes.",
+        "Elle est representée vieille, parce que, selon Aristote, elle est la creature du temps: Car elle se produit par l'âge, Et fait par vn divers vsage Ce que l'Art suiet à sa loy, A de plus admirable en soy; S'il advient qu'elle se rencontre Dans le chemin que l'exemple luy montre.",
+        "Son habillement est doré, à cause qu'elle a le mesme avantage sur les Sciences, que l'on donne à l'or sur tous les autres metaux. Ce n'est pas aussi sans vn grand mystere, qu'elle tient en main le carré geometrique; parce qu'avec cet instrument, en divisant ses degrez, & multipliant ses nombres, l'on trouve par vne experience infaillible, la hauteur, la profondeur, & la distance des choses. Ce qui nous est pareillement declaré par sa baguette, qui montre qu'elle regente icy-bas, & que sans elle on seroit aveugle dans la connoissance des arts & des affaires du monde.",
+        "Avec tout cela, le feu qui se voit à son costé ne luy est pas mal convenable, dautant que sans luy, comme dit Bocace dans sa Genealogie des Dieux, nous ne sçaurions pas vne infinité de belles choses, que l'Experience nous montre: car c'est luy qui agit à la perfection de l'or, de l'argent, & de tous les autres metaux; luy qui dompte le fer & le bronze; qui separe le pur d'avec l'impur; & qui par d'étranges metamorphoses change le noir en blanc, les herbes en verre, & le bois en cendre.",
+        "Pour ce qui est de la pierre de touche, c'est à fort bon droit qu'elle figure l'Experience, en estant vne infaillible du prix des metaux, & particulierement de l'or."
+      ],
       "en": "Experience",
-      "group_en": "E"
+      "group_en": "E",
+      "scans": [
+        "p1-56-1.jpg",
+        "p1-56-2.jpg"
+      ]
     },
     {
       "id": "p1-57",
@@ -3097,12 +3171,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-57.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылья за спиной",
+          "meaning": "Добродетель, метафорически уподобленная полёту духа",
+          "what_en": "Wings on his back",
+          "meaning_en": "Virtue, metaphorically likened to the flight of the spirit"
+        },
+        {
+          "what": "Повязка на глазах",
+          "meaning": "Фортуна как слепое, баснословное божество без истинной власти над миром",
+          "what_en": "Blindfold over his eyes",
+          "meaning_en": "Fortune, a blind and fabled deity with no true power over the world"
+        },
+        {
+          "what": "Ноги на колесе",
+          "meaning": "переменчивость и непостоянство благосклонности",
+          "what_en": "Feet resting on a wheel",
+          "meaning_en": "the fickleness and inconstancy of favour"
+        }
+      ],
+      "text_ru": [
+        "Дабы явить её взору такой, какой её воображает дух по её действиям, древние представили её в образе юноши с крыльями за спиной, повязкой на глазах и ногами на колесе.",
+        "Этот образ, который они ей придали, служил лишь для того, чтобы открыть нам три источника, из которых проистекают и изливаются все милости. Первый — Добродетель, обозначенная крыльями, которые метафорически приписывают полёту духа. Второй — Фортуна, которая богатствами, даруемыми людям, осыпает их милостями, хотя она и есть лишь баснословное Божество, которому мы не должны приписывать никакой власти над здешними вещами, всецело зависящими от Божественного Провидения. И третий — не знаю какое счастливое стечение обстоятельств, возникающее между нравом великих мира сего и склонностями тех, кого они возвышают. Но как бы то ни было, Римляне и Греки приписывали случаю большую часть земных преуспеяний и давали ему повязку, подобную той, что здесь видна, оттого что обладающие ею чаще всего ею же ослеплены."
+      ],
+      "text_fr": [
+        "Pour la faire voir aux yeux telle que l'esprit se l'imagine par ses effets, les anciens l'ont representée par vn jeune homme qui a des aisles au dos, vn bandeau aux yeux, & les pieds sur vne roüe.",
+        "Cette peinture qu'ils en ont faite, n'a esté que pour nous découvrir trois sources, d'où procedent & rejallissent toutes les faveurs. La premiere est la Vertu, signifiée par les aisles, qu'on attribuë par metaphore au vol de l'esprit. La seconde, la Fortune, qui par les richesses qu'elle donne aux hommes, les fait combler de faveurs; bien que toutefois elle ne soit qu'vne Deité fabuleuse, à qui nous ne devons attribuer aucun empire sur les choses d'icy-bas, qui dependent toutes de la Providence Divine. Et la troisiéme, je ne sçay quelle conjoncture heureuse, qui se rencontre entre l'humeur des grands, & les inclinations de ceux qu'ils élevent. Mais quoy qu'il en soit, les Romains & les Grecs imputoient au hazard la plus part des prosperitez de la terre, & leur donnoient vn bandeau tel qu'il se voit icy, à cause que ceux qui les possedent en sont le plus souvent aveuglez."
+      ],
       "en": "Favor",
-      "group_en": "F"
+      "group_en": "F",
+      "scans": [
+        "p1-57-1.jpg",
+        "p1-57-2.jpg"
+      ]
     },
     {
       "id": "p1-58",
@@ -3115,12 +3220,59 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p1-58.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Нагота",
+          "meaning": "отсутствие нужды в тленных земных благах",
+          "what_en": "Nakedness",
+          "meaning_en": "no need for the perishable goods of this world"
+        },
+        {
+          "what": "Золотые косы",
+          "meaning": "нерушимый мир золотого века невинности",
+          "what_en": "Golden tresses",
+          "meaning_en": "the unbroken peace of the innocent golden age"
+        },
+        {
+          "what": "Звёздное небо, на котором она восседает",
+          "meaning": "блаженство, не подвластное бегу светил и смене времён года",
+          "what_en": "Starry sky on which she sits",
+          "meaning_en": "a bliss not subject to the course of the stars or the turning of the seasons"
+        },
+        {
+          "what": "Пальмовая ветвь и лавровый венец",
+          "meaning": "вход в Рай только через испытания, венец славы за доблестную борьбу",
+          "what_en": "Palm branch and laurel crown",
+          "meaning_en": "entry into Paradise only through trials, the crown of glory won by good fight"
+        },
+        {
+          "what": "Огненное пламя в руке",
+          "meaning": "пылкая любовь доброго христианина к Богу",
+          "what_en": "Fiery flame in her hand",
+          "meaning_en": "the ardent love of a good Christian for God"
+        }
+      ],
+      "text_ru": [
+        "Это образ юной девушки, обнажённой, чрезвычайно прекрасной, сияющей и увенчанной лавром. Она восседает на звёздном небе, откуда смотрит ввысь с радостным лицом, держа в левой руке пальмовую ветвь, а в правой — огненное пламя.",
+        "Её изображают юной и в добром расположении духа, потому что радость, здоровье, нетленные блага и все особые прелести, сопутствующие молодым людям, неотделимы от неё.",
+        "Она обнажена, ибо не имеет нужды покрывать себя тленными благами здешнего мира — ни чтобы украситься ими, ни чтобы восполнить тяготы жизни, — находя в себе самой полноту истинного довольства.",
+        "Её золотые косы — образы нерушимого мира, исполненного надёжности: ибо нет никого, кто не знал бы, что золото было символом единения в тот первый век, когда люди жили в невинности, нимало не нарушая законов природы. Звёздное небо — что истинное блаженство Блаженных не подвластно ни бегу светил, ни смене времён года. Пальмовая ветвь, соединённая с лавровым венцом, — что войти в Рай можно лишь через испытания, ибо верно, как говорит святой Павел, что нужно доблестно сражаться, дабы получить венец славы. А жгучее пламя — что добрый Христианин должен быть охвачен любовью к Богу и неустанно возносить взор к созерцанию Творца, ибо именно в этом состоит высшая точка вечного блаженства."
+      ],
+      "text_fr": [
+        "C'est l'image d'vne jeune fille nuë, extremement belle, resplendissante, & couronnée de laurier. Elle est assise sur vn ciel étoillé, d'où elle regarde en haut avec vn visage joyeux, tenant de la main gauche vne palme, & de la droite vne flamme de feu.",
+        "On la peint jeune & de belle humeur, parce que la joye, la santé, les biens incorruptibles, & toutes les graces particulieres qui accompagnent les jeunes gens, sont inseparables d'avec elle.",
+        "Elle est nuë, parce qu'elle n'a point besoin de se couvrir des biens perissables d'icy-bas, ou pour s'en parer, ou pour subvenir aux incommoditez de la vie, trouvant en soy-mesme le comble des vrais contentemens.",
+        "Ses tresses dorées sont des figures d'vne paix immortelle, & pleine de seureté: car il n'y a personne qui ne sçache que l'or estoit vn symbole d'vnion en ce premier âge où les hommes vivoient dans l'innocence, sans violer tant soit peu les loix de la nature. Le ciel étoillé, que la vraye felicité des Bienheureux n'est sujette ny au cours des astres, ny au mouvement des saisons: La palme jointe à la couronne de laurier, qu'on ne peut s'ouvrir vne entrée au Paradis, que par les tribulations, estant certain, comme dit S. Paul, qu'il faut combattre de bonne façon pour recevoir la couronne de gloire. Et la flamme ardente, qu'vn bon Chrestien doit estre embrazé de l'amour de Dieu, & avoir sans cesse les yeux elevez à la contemplation du Createur, puisqu'en cecy consiste le plus haut point de la felicité eternelle."
+      ],
       "en": "Eternal Felicity",
-      "group_en": "F"
+      "group_en": "F",
+      "scans": [
+        "p1-58-1.jpg",
+        "p1-58-2.jpg"
+      ]
     },
     {
       "id": "p1-59",
