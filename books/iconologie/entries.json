@@ -11559,12 +11559,42 @@
       "group_fr": "Diverses Fureurs",
       "group_page": "82",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-66-overview.jpg",
+        "p2-66-fureur.jpg",
+        "p2-66.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Общее вступление (без отдельного номера) о природе Неистовства вообще — муж с завязанными глазами, несущий охапку разного оружия, в коротком одеянии; на иллюстрации — общий вид страницы со всеми четырьмя медальонами «Diverses Fureurs»; затем крылатый юноша в лавровом венце и поясе из плюща, пишущий, обратив лицо к Небу",
+          "meaning": "Завязанные глаза — ослепление разума, свойственное всякому неистовству; разнородное оружие — неистовство, находящее повсюду орудия мести; крылья, лавр и плющ Поэтического Неистовства — быстрота поэтического гения и бессмертие славы, им даруемой, при условии долгого упражнения в искусстве",
+          "what_en": "A general introduction (without its own number) on the nature of Fury in general — a blindfolded man bearing an armful of various weapons, in a short garment; the illustration shows the full page with all four \"Diverse Furies\" roundels; then a winged youth in a laurel crown and ivy girdle, writing, his face turned toward Heaven",
+          "meaning_en": "The blindfold signifies the blinding of reason common to every fury; the varied weapons, fury's readiness to find instruments of vengeance everywhere; the wings, laurel and ivy of Poetic Fury, the swiftness of poetic genius and the immortal fame it bestows, granted only through long practice of the art"
+        }
+      ],
+      "text_ru": [
+        "Этот муж, чьи лик и повадка дышат одной лишь яростью, с завязанными глазами, словно метающий пук разного оружия, и одетый лишь наполовину, правдоподобно являет Неистовство и его действия.",
+        "Завязанные глаза означают, что Неистовство есть не что иное, как ослепление духа, и, овладевая человеком, совершенно лишает его умственного света, отчего он делает всё без разума и без рассуждения.",
+        "Разное оружие, что он сжимает в охапке, учит нас, что Неистовству довольно самого себя, дабы себя удовлетворить, и что оно повсюду и в любое время находит орудия мести. По той же причине ему дают короткое одеяние, ибо оно вовсе не заботится ни о благопристойности, ни о чести.",
+        "Этот род Неистовства изображён юношей с румяным, полным живости лицом, крыльями на голове, лавровым венцом, поясом из плюща, лицом, обращённым к Небу, и повадкой пишущего человека.",
+        "Крылья являют стремительность чрезвычайной быстроты поэтического гения, который, возносясь к высочайшим предметам, прославляет в потомстве памятные деяния великих мужей и сохраняет их цветущими на протяжении многих веков; подобно тому как лавр и плющ сохраняют свои листья вечно зеленеющими вопреки усилиям и обидам времени.",
+        "Лицо его живо и румяно, ибо Поэтическое Неистовство есть избыток живости духа, наполняющий душу дивными мыслями и научающий выводить их по порядку. По каковой причине, поскольку кажется невозможным, чтобы природа внушала столь высокие замыслы, их почитают особыми дарами, проистекающими от исключительной милости Небес. Отчего Платон и говорит, что дух Поэтов возбуждается божественным неистовством. И потому же в их воображении часто слагаются разные образы сверхъестественных вещей, кои они переносят на бумагу и кои едва понятны, ибо содержат нечто необычайное и пророческое. Это главная причина, по коей Древние называют Поэтов Родом Небесным, Сынами Юпитера, Толкователями Муз и Жрецами Аполлона. Прибавлю к этому, что из их писаний очевидно явствует, что это Неистовство рождается лишь долгим упражнением, коему одной природы недостаточно, если не поможет искусство."
+      ],
+      "text_fr": [
+        "CET homme, dont le visage & l'action ne respirent que rage, qui a les yeux bandez, qui semble lancer un faisceau de diverses armes, & qui n'est vestu qu'à demy, represente vray-semblablement la Fureur & ses effets.",
+        "Les yeux bandez signifient, que la Fureur n'estant autre chose qu'un aveuglement d'esprit, lors qu'elle possede l'homme, il est privé tout à fait de la lumiere intellectuelle, & qu'il fait par consequent toutes choses hors de raison & sans les considerer.",
+        "Les armes diverses dont il embrasse un faisceau, nous enseignent que la Fureur n'a besoin que de soy-mesme pour se satisfaire, & qu'elle trouve par tout & en quelque temps que ce soit des instrumens de vengeance. Aussi est-ce pour un mesme sujet qu'on luy donne un vestement court, à cause qu'elle ne se soucie point ny de bien-seance ny d'honnesteté.",
+        "CETTE sorte de Fureur a pour tableau un jeune garçon, qui a le teint vermeil & plein de vivacité, des aisles à la teste, avec une couronne de laurier, une ceinture de lierre, le visage tourné vers le Ciel, & l'action d'une personne qui écrit.",
+        "Les aisles montrent la promptitude de l'extreme vistesse du genie poëtique, qui s'élevant aux choses les plus hautes, rend fameux à la posterité les faits memorables des grands hommes, & les maintient fleurissans durant plusieurs siecles; de mesme que le laurier & le lierre conservent leurs feuilles toûjours verdoyantes contre les efforts & les injures du temps.",
+        "Il a le teint vif & vermeil, à cause que la Fureur Poëtique est une surabondance de vivacité d'esprits, qui remplit l'ame de merveilleuses pensées, & luy enseigne à les deduire par nombres. A raison dequoy, comme il semble impossible que la nature inspire des conceptions si hautes, on les tient pour des dons particuliers, qui procedent d'une singuliere grace du Ciel. Ce qui fait dire à Platon, que l'esprit des Poëtes est agité d'une divine fureur. Aussi est-ce par elle-mesme qu'ils se forment souvent dans l'idée diverses images de choses surnaturelles, qu'ils mettent sur le papier, & qui sont à peine entenduës, parce qu'elles contiennent je ne sçay quoy d'extraordinaire & de prophetique. C'est la principale cause pour laquelle les Anciens appellent les Poëtes, Races du Ciel, Fils de Jupiter, Interpretes des Muses, & Prestres d'Apollon. J'ajoûte à cecy qu'il paroist evidemment par leurs écrits, que cette Fureur ne s'engendre que par un long exercice, à quoy la nature ne peut suffire si l'art ne l'assiste."
+      ],
       "en": "Poetic Fury",
-      "group_en": "Various Kinds of Fury"
+      "group_en": "Various Kinds of Fury",
+      "scans": [
+        "p2-66-1.jpg",
+        "p2-66-2.jpg",
+        "p2-66-3.jpg"
+      ]
     },
     {
       "id": "p2-67",
@@ -11577,12 +11607,29 @@
       "group_fr": "Diverses Fureurs",
       "group_page": "82",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-67.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Вооружённый муж с устрашающим взором и пылающим лицом, с обнажённым мечом в правой руке и щитом со львом в левой",
+          "meaning": "Устрашающий взор и пылающее лицо — крайняя степень неистовства; обнажённый меч — готовность к немедленному насилию; лев на щите — ярость, в которую вырождается чрезмерная сила страсти",
+          "what_en": "An armed man with a dreadful look and a face aflame, a bare sword in his right hand and a shield bearing a lion in his left",
+          "meaning_en": "His dreadful look and burning face signify fury at its most extreme; the bare sword, readiness for immediate violence; the lion on the shield, the rage into which excessive passion degenerates"
+        }
+      ],
+      "text_ru": [
+        "Это Неистовство представлено вооружённым мужем с устрашающим взором, пылающим лицом, обнажённым мечом в правой руке и щитом в левой, посреди коего виден лев. Все эти вещи, описанные Альциато в составленной им эмблеме, суть истинные символы крайнего Неистовства, вырождающегося в ярость."
+      ],
+      "text_fr": [
+        "CETTE Fureur est representée par un homme armé, qui a le regard épouventable, le visage enflammé, l'épée nuë en la main droite, & en la gauche un écu, au milieu duquel se voit un lion. Toutes lesquelles choses décrites par Alciat dans un emblême qu'il en a fait, sont de vrais symboles d'une Fureur extreme, & qui dégenere en rage."
+      ],
       "en": "Extreme Fury",
-      "group_en": "Various Kinds of Fury"
+      "group_en": "Various Kinds of Fury",
+      "scans": [
+        "p2-67-1.jpg",
+        "p2-67-2.jpg"
+      ]
     },
     {
       "id": "p2-68",
@@ -11595,12 +11642,36 @@
       "group_fr": "Diverses Fureurs",
       "group_page": "82",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-68.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Воин в кирасе и шлеме с мечом и щитом, на коем выгравирован лев, терзающий собственных детёнышей от ярости; упоминаются также дополнительные образы без собственных медальонов: муж на оружии со скованными за спиной руками, факел и голова Медузы/аспид, крокодил",
+          "meaning": "Лев, терзающий своих детёнышей, — неукротимая, слепая ярость, обращённая даже на своих; трёхъязыкая змея — неумолимость неистовства, готового погибнуть, лишь бы отомстить; крокодил, обращающий ярость на себя при неудаче, — саморазрушительная природа безудержного гнева",
+          "what_en": "A warrior in cuirass and helmet with a sword and a shield bearing a lion dismembering its own cubs in rage; additional images without dedicated roundels are also mentioned: a man seated on weapons with hands chained behind his back, a torch and the head of Medusa or an asp, and a crocodile",
+          "meaning_en": "The lion tearing apart its own cubs signifies untamable, blind rage turned even against one's own; the three-tongued serpent, fury's relentlessness, willing to die for revenge; the crocodile turning its rage on itself when it misses its prey, the self-destructive nature of unchecked anger"
+        }
+      ],
+      "text_ru": [
+        "Дабы явить его действиями, изображают воина, облачённого в крепкую кирасу, в шлеме на голове, с мечом в правой руке и щитом в левой, на коем выгравирован лев, что от гнева и ярости своей расчленяет собственных детёнышей. Ибо это животное всегда было символом неукротимого неистовства, преимущественно у Египтян. К чему можно добавить и изображение змеи, почитаемой в Священном Писании неумолимой в своей ярости, когда она разит тремя своими языками. Что она даёт слишком хорошо почувствовать на опыте, когда, будучи кем-либо раздражена, она предаётся такому избытку ярости, что никогда не останавливается, доколе не изрыгнёт против него весь свой яд, отчего порою случается, что она издыхает, не сумев отомстить.",
+        "Помимо этих изображений Неистовства, есть и другие, не менее значительные: ибо его можно представить и в облике ужасного мужа, который, восседая на разном оружии и многих орудиях войны, словно содрогается от гнева и ярости, имея руки, скованные за спиной.",
+        "Есть и другие, дающие ему держать в правой руке большой зажжённый факел, а в левой — голову Медузы, или даже аспида, ибо нет такого Неистовства, сколь бы велико оно ни было, что могло бы сравниться с неистовством этой змеи, умерщвляющей своим укусом того, кто её касается, и тотчас же умирающей сама.",
+        "Египтяне равным образом изображали Неистовство крокодилом, поскольку это животное обращает свою ярость на самого себя, когда видит, что упустило свою добычу."
+      ],
+      "text_fr": [
+        "POUR la donner à connoistre par ses effets on peint un guerrier armé d'une forte cuirasse, portant sur la teste un heaume, à la main droite une épée, & en la gauche un écu, où se voit gravé un lion, qui de colere & de rage qu'il a, démembre ses propres faons. Car cet animal a toûjours esté le symbole d'une fureur indomptable, principalement chez les Egyptiens. A quoy on peut ajoûter aussi la figure d'un serpent, qui dans les saintes Lettres est tenu pour implacable en sa fureur, lors qu'il darde ses trois langues. Ce qu'il ne fait que trop sentir par épreuve, quand quelqu'un l'ayant irrité, il s'emporte à un tel excés de rage, qu'il ne s'arreste jamais jusques à ce qu'il ait vomy contre luy tout ce qu'il a de venin, d'où il s'ensuit quelquefois qu'il creve quand il ne peut se vanger.",
+        "Outre ces tableaux de la Fureur, il y en a d'autres qui ne sont pas moins considerables: car on la peut encore representer par un homme affreux, lequel assis sur diverses armes, & sur plusieurs instrumens de guerre, semble fremir de colere & de rage, ayant les mains enchaisnées derriere le dos.",
+        "Il y en a d'autres qui luy font tenir de la main droite une grande torche allumée, & de la gauche la teste de Meduse, ou mesme un aspic, à cause qu'il n'est point de Fureur, si grande soit-elle, qui se puisse comparer à celle de ce serpent, qui fait mourir de sa morsure celuy qui le touche, & meurt luy-mesme aussi-tost.",
+        "Les Egyptiens ont pareillement dépeint la Fureur par le crocodyle; dautant que cet animal tourne sa rage contre soy-mesme, quand il voit qu'il a manqué sa proye."
+      ],
       "en": "Indomitable Fury",
-      "group_en": "Various Kinds of Fury"
+      "group_en": "Various Kinds of Fury",
+      "scans": [
+        "p2-68-1.jpg",
+        "p2-68-2.jpg",
+        "p2-68-3.jpg"
+      ]
     },
     {
       "id": "p2-69",
