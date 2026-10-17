@@ -14843,12 +14843,49 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-147.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Взъерошенные волосы",
+          "meaning": "тревоги и опасения человека, погружённого в порок",
+          "what_en": "Bristling hair",
+          "meaning_en": "the fears and alarms of a man plunged in vice"
+        },
+        {
+          "what": "Взгляд, обращённый к небу",
+          "meaning": "без Божественной благодати дух привязан лишь к земному",
+          "what_en": "Gaze turned toward heaven",
+          "meaning_en": "without divine grace the spirit can cling only to earthly things"
+        },
+        {
+          "what": "Обнажённый меч",
+          "meaning": "для истинного вдохновения нужно отрешиться от всего, что ранит душу",
+          "what_en": "Bare sword",
+          "meaning_en": "for true inspiration one must strip away all that can wound the soul"
+        },
+        {
+          "what": "Цветок-подсолнечник",
+          "meaning": "обращённый грешник, подобно подсолнечнику, всегда обращается к Богу",
+          "what_en": "Sunflower",
+          "meaning_en": "the converted sinner, like the sunflower, ever turns toward God"
+        }
+      ],
+      "text_ru": [
+        "Этот юноша, чьи волосы взъерошены и который смотрит на небо, откуда исходят лучи, пронзающие ему сердце; а в правой руке он держит обнажённый меч, а в левой — цветок, называемый Подсолнечником, — взят здесь для изображения Вдохновения.",
+        "Безоблачным небом, усеянным звёздами, представлена безграничная благость Божья, которая особой милостью вдохновляет и воспламеняет грешника: взъерошенные волосы изображают постоянные опасения и тревоги, которые терзают человека, когда он погружён в порок; взгляд, обращённый ввысь, означает, что без Божественной благодати дух может быть привязан лишь к земным вещам; обнажённый меч — что для обретения истинных вдохновений нужно освободиться от всего, что может ранить нашу душу; а Подсолнечник — что, подражая этому цветку, который всегда следует за Солнцем, обращённый грешник, воспламенённый Божественной любовью, открывает своё сердце Богу и беспрестанно обращается к Нему."
+      ],
+      "text_fr": [
+        "Ce jeune garçon, dont les cheveux sont herissez, & qui regarde le ciel, d'où s'élancent des rayons qui luy percent le cœur; outre que de sa main droite il tient vne épée nuë, & de la gauche la fleur qu'on appelle Tourne-sol, est icy pris pour l'Inspiration.",
+        "Par le ciel serein & semy d'étoilles, est representée l'infinie bonté de Dieu, qui par vne grace particuliere inspire & enflame le pecheur: les cheveux herissez figurent les apprehensions & les allarmes continuelles que se donne l'homme quand il est plongé dans le vice: la veuë tournée en haut signifie que sans la grace divine l'esprit ne peut s'attacher qu'aux choses de la terre; l'épée nuë, que pour avoir de veritables inspirations, il faut se dénuer de toutes les choses qui peuvent blesser nostre ame; & le Tourne-sol, qu'à l'imitation de cette fleur, qui suit toûjours le Soleil, le pecheur converty, & embrasé de l'amour divin, ouvre son cœur à Dieu, & se tourne sans cesse vers luy."
+      ],
       "en": "Inspiration",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-147-1.jpg",
+        "p2-147-2.jpg"
+      ]
     },
     {
       "id": "p2-148",
@@ -14861,12 +14898,49 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-148.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Завязанный рот",
+          "meaning": "воздержание в пище",
+          "what_en": "Bandaged mouth",
+          "meaning_en": "restraint in eating"
+        },
+        {
+          "what": "Крокодил под ногами",
+          "meaning": "попранное чревоугодие (иероглиф у египтян)",
+          "what_en": "Crocodile beneath his feet",
+          "meaning_en": "gluttony trodden underfoot (a hieroglyph among the Egyptians)"
+        },
+        {
+          "what": "Заяц под левой рукой",
+          "meaning": "бдительность постящихся, возносящая дух к созерцанию небесного",
+          "what_en": "Hare under his left arm",
+          "meaning_en": "the vigilance of those who fast, raising the spirit to the contemplation of heavenly things"
+        },
+        {
+          "what": "Рыба (кефаль) и свиток PAVCA VESCOR",
+          "meaning": "символ воздержания («я ем мало»)",
+          "what_en": "Fish (mullet) and scroll inscribed PAVCA VESCOR",
+          "meaning_en": "the symbol of abstinence ('I eat little')"
+        }
+      ],
+      "text_ru": [
+        "Вот эмблема Поста, которую вам являет этот муж в расцвете лет. Он стоит на крокодиле, рот у него завязан, в одной руке он держит зайца, а в другой — рыбу, со свитком, на котором написано PAVCA VESCOR.",
+        "Его изображают в крепком возрасте, дабы показать, что для поста необходимы сила и здоровье. Он стоит на крокодиле, чтобы показать, что попирает чревоугодие, символом которого у египтян служило это животное. Что до зайца, которого он держит под левой рукой (животное, спящее с открытыми глазами), он означает бдительность постящихся, благодаря которой, очистив дух, они возносятся выше, к созерцанию небесных вещей. К этому я добавлю, что кефаль, которую он держит в левой руке, — символ воздержания, представленный словами PAVCA VESCOR, то есть «Я ем мало»."
+      ],
+      "text_fr": [
+        "Voicy l'embleme du Jeûne, que cet homme en vn âge florissant étale à vos yeux. Il est debout sur vn crocodile, a la bouche bandée, tient d'vne main vn lievre, & de l'autre vn poisson, avec vn écriteau, qui dit, PAVCA VESCOR.",
+        "On le peint d'âge robuste, afin de montrer que la force & la santé sont necessaires pour jeûner. Il est debout sur un crocodile, pour faire voir qu'il foule aux pieds la gourmandise, dont cet animal chez les Egyptiens estoit vne figure hieroglyphique. Quant au lievre qu'il tient sous le bras gauche (animal qui dort les yeux ouverts) il signifie la vigilance de ceux qui jeûnent, par le moyen de laquelle ayant l'esprit épuré, ils s'elevent plus haut à la contemplation des choses celestes. A quoy j'ajoûte que le poisson cephale, qu'il tient de la main gauche, est le symbole de l'abstinence, representée par ces mots, PAVCA VESCOR, c'est à dire, Je mange peu."
+      ],
       "en": "Fasting",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-148-1.jpg",
+        "p2-148-2.jpg"
+      ]
     },
     {
       "id": "p2-149",
@@ -14879,12 +14953,34 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-149.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Золотые и серебряные монеты, раздаваемые детям",
+          "meaning": "щедрость, дар благ ближним",
+          "what_en": "Gold and silver coins given to children",
+          "meaning_en": "generosity, the giving of goods to others"
+        },
+        {
+          "what": "Чаша в левой руке",
+          "meaning": "источник, из которого черпается щедрость",
+          "what_en": "Cup in her left hand",
+          "meaning_en": "the source from which generosity is drawn"
+        }
+      ],
+      "text_ru": [
+        "Этот образ довольно ясен сам по себе — в действии прекрасной юной дамы, которая правой рукой щедро раздаёт маленьким детям золотые и серебряные монеты, беря их из чаши, которую держит в левой руке."
+      ],
+      "text_fr": [
+        "Cette figure s'explique assez d'elle-mesme, par l'action d'vne belle jeune dame, qui de la main droite distribuë liberalement à de petits enfans des pieces d'or & d'argent, & les prend dans vne coupe qu'elle tient de la main gauche."
+      ],
       "en": "Liberality",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-149-1.jpg"
+      ]
     },
     {
       "id": "p2-150",
@@ -14897,12 +14993,40 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-150.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Тонкое, прозрачное платье",
+          "meaning": "искренность слов, подобная свету, проходящему сквозь стекло",
+          "what_en": "Thin, translucent robe",
+          "meaning_en": "sincerity of speech, like light shining through the glass it pierces"
+        },
+        {
+          "what": "Зажжённый фонарь",
+          "meaning": "свет истины и верности",
+          "what_en": "Lit lantern",
+          "meaning_en": "the light of truth and faithfulness"
+        },
+        {
+          "what": "Разбитая маска",
+          "meaning": "разоблачение лицемерия и двуличия",
+          "what_en": "Broken mask",
+          "meaning_en": "the unmasking of hypocrisy and duplicity"
+        }
+      ],
+      "text_ru": [
+        "Она облачена в тонкое, прозрачное платье, держа в одной руке подобие зажжённого фонаря или светильника, а в другой — маску, разбитую в нескольких местах. Тонкое платье означает, что верный человек должен являть в своих словах искренность своих поступков, подобно тому как свет проходит сквозь стекло, которое он пронизывает; а разбитой маской нам даётся понять, что трудно не быть врагом тех, у кого двойная душа и чья дружба — лишь притворство и обман."
+      ],
+      "text_fr": [
+        "Elle se couvre d'vne robe deliée, tenant d'vne main vne maniere de falot ou de lanterne allumée, & de l'autre vn masque rompu en divers endroits. La robe deliée signifie, que l'homme fidele doit faire paroistre dans ses paroles la sincerité de ses actions, comme la lumiere paroist à travers le verre qu'elle perce; & par le masque rompu, il nous est declaré qu'il est difficile de n'estre pas ennemy de ceux qui ont l'ame double, & dont l'amitié n'est que feintise & déguisement."
+      ],
       "en": "Loyalty",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-150-1.jpg"
+      ]
     },
     {
       "id": "p2-151",
