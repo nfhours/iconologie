@@ -19076,12 +19076,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-235.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Железная корона",
+          "meaning": "власть, удерживаемая только жестокостью и насилием",
+          "what_en": "Iron crown",
+          "meaning_en": "power upheld by cruelty and violence alone"
+        },
+        {
+          "what": "Обнажённый меч вместо скипетра",
+          "meaning": "отказ от законной власти в пользу насилия",
+          "what_en": "Bare sword in place of a sceptre",
+          "meaning_en": "the rejection of legitimate rule in favour of force"
+        },
+        {
+          "what": "Удила и ярмо",
+          "meaning": "орудия, которыми тиран держит в узде порабощённых",
+          "what_en": "Bit and yoke",
+          "meaning_en": "the instruments with which a tyrant keeps the enslaved in check"
+        }
+      ],
+      "text_ru": [
+        "Эта властная госпожа не имеет ни одного знака или эмблемы, которые были бы ей не к лицу. Она вооружена и стоит прямо, дабы показать, что бдительность и сила необходимы ей, дабы удержаться у власти. Её корона железная, ибо она добивается повиновения лишь всевозможными",
+        "видами жестокости и насилия. По этой же причине, вместо скипетра, который есть знак законной власти и правления, она держит обнажённый меч, удила и ярмо, поскольку пользуется этими вещами как орудиями, пригодными держать в узде тех, кого она обратила в своих рабов."
+      ],
+      "text_fr": [
+        "Cette imperieuse maistresse n'a point de marque ny d'enseigne qui ne luy soit convenable. Elle est armée, & se tient debout, pour montrer que la vigilance & la force luy sont necessaires afin de se maintenir. Sa couronne est de fer, parce qu'elle ne se fait obeïr que par toutes",
+        "sortes de cruautez & de violences. Aussi est-ce pour cette mesme raison, qu'au lieu de sceptre, qui est vne marque d'empire & de gouvernement legitime, elle tient vne épée nuë, vn mords & vn joug, parce qu'elle se sert de ces choses comme d'instrumens propres à tenir en bride ceux qu'elle a fait ses esclaves."
+      ],
       "en": "Tyranny",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-235-1.jpg",
+        "p2-235-2.jpg"
+      ]
     },
     {
       "id": "p2-236",
@@ -19094,12 +19125,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-236.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Пересчитывание денег",
+          "meaning": "ростовщичество, основанное на залоге",
+          "what_en": "Counting money",
+          "meaning_en": "usury practised only against solid collateral"
+        },
+        {
+          "what": "Чаша с золотыми и жемчужными цепями",
+          "meaning": "чрезмерный процент, запрещённый божескими и человеческими законами",
+          "what_en": "Cup with gold and pearl chains",
+          "meaning_en": "excessive interest, forbidden by divine and human law alike"
+        }
+      ],
+      "text_ru": [
+        "Она довольно хорошо представлена женщиной, погружённой в раздумья, которая одной рукой пересчитывает деньги, а в другой держит чашу, с которой свисают золотые и жемчужные цепи, дабы показать этим, что она ссужает лишь под надёжный залог и не иначе, как будучи уверена в чрезвычайном проценте; тем более достойная порицания, что она прекрасно знает, что такие доходы, как незаконные, ежедневно запрещаются законами божескими и человеческими."
+      ],
+      "text_fr": [
+        "Elle est assez bien representée par vne femme songearde, qui d'vne main compte de l'argent, & tient de l'autre vne coupe, d'où pendent des chaînes d'or & de perles, pour faire voir par là qu'elle ne preste jamais que sous de bons gages, & sans estre bien assurée d'vn interest extraordinaire; en cela d'autant plus blâmable, qu'elle sçait bien que tels gains, comme illicites, sont defendus tous les jours par les loix divines & humaines."
+      ],
       "en": "Usury",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-236-1.jpg",
+        "p2-236-2.jpg"
+      ]
     },
     {
       "id": "p2-237",
@@ -19112,12 +19166,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-237.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Обнажённый кинжал в правой руке",
+          "meaning": "злой замысел мстительного человека",
+          "what_en": "Bare dagger in her right hand",
+          "meaning_en": "the malicious intent of a vengeful person"
+        },
+        {
+          "what": "Укус собственного пальца",
+          "meaning": "внутренняя ярость мстительности",
+          "what_en": "Biting her own finger",
+          "meaning_en": "the inner fury of vindictiveness"
+        },
+        {
+          "what": "Лев, пронзённый стрелой",
+          "meaning": "символ Мести, которая не упускает случая покарать обидчика",
+          "what_en": "Lion pierced by an arrow",
+          "meaning_en": "the symbol of Vengeance, which never misses a chance to punish its offender"
+        }
+      ],
+      "text_ru": [
+        "Она изображена вам в облике разгневанной женщины, которая правой рукой держит совершенно обнажённый кинжал, а левой кусает себе один из пальцев, перед которой лев, доведённый до ярости пронзившей его стрелой. Кинжал и действие кусать себя — вещи, означающие злые замыслы мстительных людей. Что же до льва, он взят как символ Мести, оттого что, по Пиерию, он никогда не упускает случая отомстить, если может, тем, кто устраивает ему засады или ранит его, хотя он им не причинил зла, что египтяне также хотели показать своими иероглифическими фигурами."
+      ],
+      "text_fr": [
+        "On vous la dépeint en femme irritée, qui de la main droite tient vn poignard tout nud, & se mord vn des doigts de la main gauche, ayant devant elle vn lion, qu'vne fleche dont il est percé, rend comme furieux. Le poignard, & l'action de se mordre sont choses qui marquent les mauvais desseins des hommes vindicatifs. Quant au lion, il est mis pour vn symbole de la Vengeance, dautant que selon Pierius, il ne manque jamais de la prendre, s'il peut, de ceux qui luy dressent des embusches, où qui l'ont blessé sans qu'il leur ait fait du mal, ce que les Egyptiens ont aussi voulu donner à connoistre par leurs figures hieroglyphiques."
+      ],
       "en": "Vengeance",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-237-1.jpg",
+        "p2-237-2.jpg"
+      ]
     },
     {
       "id": "p2-238",
@@ -19130,12 +19213,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-238.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Семиглавая гидра",
+          "meaning": "символ семи смертных грехов",
+          "what_en": "Seven-headed hydra",
+          "meaning_en": "the symbol of the seven deadly sins"
+        },
+        {
+          "what": "Ласкающий её юноша",
+          "meaning": "слепая погоня за пороком в молодости, ведущая к неминуемой гибели",
+          "what_en": "Young man caressing it",
+          "meaning_en": "the blind pursuit of vice in youth, leading to certain ruin"
+        }
+      ],
+      "text_ru": [
+        "Он изображён здесь в облике семиглавой гидры, символа семи смертных грехов, которую ласкает этот юноша; и то слишком верно, что в этом возрасте, более чем во всё остальное время нашей жизни, мы гонимся за Пороком с такой слепотой, что наша гибель неизбежна, если разум не воспротивится этому с самого начала и не помешает нам упасть в пропасть."
+      ],
+      "text_fr": [
+        "Il est icy figuré par vn hydre à sept testes, symbole des sept pechez mortels, que ce jeune homme caresse; aussi n'est-il que trop veritable qu'en cet âge-là, plus qu'en tout le reste de nostre vie, nous courons aprés le Vice, avec tant d'aveuglement, que nostre perte est inévitable, si la raison ne s'y oppose d'abord, & ne nous empesche de tomber dans le precipice."
+      ],
       "en": "Vice",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-238-1.jpg",
+        "p2-238-2.jpg"
+      ]
     },
     {
       "id": "p2-239",
