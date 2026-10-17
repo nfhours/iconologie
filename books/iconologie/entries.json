@@ -18501,12 +18501,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-223.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Подпёртая рукой голова",
+          "meaning": "небрежность и бездействие",
+          "what_en": "Head resting on her hand",
+          "meaning_en": "idleness and inaction"
+        },
+        {
+          "what": "Сломанные прялки у ног",
+          "meaning": "естественное отвращение к труду",
+          "what_en": "Broken distaffs at her feet",
+          "meaning_en": "a natural aversion to labour"
+        },
+        {
+          "what": "Рыба-торпедо (электрический скат) в руке",
+          "meaning": "оцепенение, которое лень вызывает у соприкасающихся с ней",
+          "what_en": "Torpedo fish (electric ray) in her hand",
+          "meaning_en": "the numbness that idleness inflicts on those who come into contact with it"
+        }
+      ],
+      "text_ru": [
+        "Её эмблема — старая женщина, небрежно сидящая на камне, подпирая голову левой рукой, с окружающими словами TORPET INERS («КОСНЕЕТ В БЕЗДЕЙСТВИИ»). Добавлю, что у её ног видны сломанные прялки, дабы показать, что она от природы питает отвращение",
+        "к труду; и по этой же причине она держит в руке рыбу, называемую Торпедо (электрический скат), которая остаётся как бы неподвижной и немеет руки тех, кто к ней прикасается: подобно тому, как ленивец не сдвигается с места и по своему примеру делает бездельниками тех, кто имеет с ним какие-либо сношения."
+      ],
+      "text_fr": [
+        "Elle a pour emblême vne vieille femme nonchalament assise sur vne pierre, s'appuyant la teste sur sa main gauche, avec ces mots à l'entour, TORPET INERS. A quoy j'adjoûte qu'à ses pieds se voyent des quenouilles rompuës, pour montrer qu'elle abhorre naturellement",
+        "le travail; & que pour cette raison encore elle tient en main le poisson appellé Torpille, qui demeure comme immobile, & engourdit les mains de ceux qui le touchent: de mesme que le paresseux, qui ne bouge d'vne place, & qui à son exemple rend faineans ceux qui ont avec luy quelque sorte de commerce."
+      ],
       "en": "Sloth",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-223-1.jpg",
+        "p2-223-2.jpg"
+      ]
     },
     {
       "id": "p2-224",
@@ -18519,12 +18550,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-224.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Завязанные глаза",
+          "meaning": "слепота в расточительности",
+          "what_en": "Bandaged eyes",
+          "meaning_en": "blindness in extravagance"
+        },
+        {
+          "what": "Опрокинутый рог изобилия с рассыпающимися монетами",
+          "meaning": "дары без правила и меры",
+          "what_en": "Overturned cornucopia spilling coins",
+          "meaning_en": "gifts given without rule or measure"
+        }
+      ],
+      "text_ru": [
+        "Вот перед вами эмблема в облике женщины с завязанными глазами, которая держит обеими руками опрокинутый рог изобилия, из которого вперемешку сыплются золотые и серебряные монеты: этим обозначено, что она слепа в своей расточительности и что во всех дарах, которые она делает, она обычно не соблюдает ни правила, ни меры."
+      ],
+      "text_fr": [
+        "Vous en avez icy l'emblême en la personne d'vne femme qui a les yeux bandez, & qui tient à deux mains vne corne d'abondance renversée, d'où s'épandent pesle-mesle des pieces d'or & d'argent: par où il est signifié qu'elle est aveugle en sa profusion, & qu'en tous les dons qu'elle fait, elle n'observe ordinairement ny regle ny mesure."
+      ],
       "en": "Prodigality",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-224-1.jpg",
+        "p2-224-2.jpg"
+      ]
     },
     {
       "id": "p2-225",
@@ -18537,12 +18591,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-225.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Полное вооружение",
+          "meaning": "бесстрашие в обличении пороков",
+          "what_en": "Full armour",
+          "meaning_en": "fearlessness in denouncing vice"
+        },
+        {
+          "what": "Жаровня с огнём в руке",
+          "meaning": "пылкость в обнародовании чужих недостатков",
+          "what_en": "Brazier full of fire in her hand",
+          "meaning_en": "ardour in exposing the faults of the debauched"
+        }
+      ],
+      "text_ru": [
+        "Под ней понимают увещевания и упрёки, которые делают порочным людям по поводу их пороков, дабы они исправились в будущем; и для этого её изображают вооружённой, дабы показать, что она ничего не боится: ей также дают держать в одной руке жаровню, полную огня, дабы этим дать нам понять, что она пылка в обличении недостатков распутных людей."
+      ],
+      "text_fr": [
+        "Par elle on entend les remontrances & les reproches que l'on fait aux vicieux sur le sujet de leurs vices, afin qu'ils s'en corrigent à l'avenir; & c'est pour cela qu'on la peint armée, pour montrer qu'elle ne craint rien: on luy fait aussi tenir d'vne main vn réchaud plein de feu, pour nous donner à connoistre par là qu'elle est ardente à publier les defauts des personnes débauchées."
+      ],
       "en": "Reprehension",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-225-1.jpg",
+        "p2-225-2.jpg"
+      ]
     },
     {
       "id": "p2-226",
@@ -18555,12 +18632,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-226.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Облик старца",
+          "meaning": "проступки в зрелом возрасте значительнее юношеских",
+          "what_en": "The figure of an old man",
+          "meaning_en": "faults committed in old age are far graver than those of youth"
+        },
+        {
+          "what": "Лютня и карты",
+          "meaning": "недостойные забавы человека в летах",
+          "what_en": "Lute and playing cards",
+          "meaning_en": "amusements unbecoming a man of his years"
+        },
+        {
+          "what": "Романы и «Амадисы» у ног",
+          "meaning": "пустые любовные увлечения, неприличные для преклонных лет",
+          "what_en": "Romances and 'Amadis' novels at his feet",
+          "meaning_en": "idle romantic fancies unbefitting advanced age"
+        }
+      ],
+      "text_ru": [
+        "Соблазн представлен старцем, потому что проступки, совершаемые в этом возрасте, гораздо значительнее тех, что случаются в юности. Лютня и карты, которые он держит, вместе с романами и «Амадисами», видимыми у его ног, означают, что это предосудительное зрелище — видеть, как человек в летах забавляется подобными галантностями, ибо, как говорит Поэт, в этот последний сезон жизни",
+        "«Должно проститься с Венерой и Грациями»."
+      ],
+      "text_fr": [
+        "Le Scandale est representé par vn vieillard, parce que les fautes que l'on commet en cet âge-là sont beaucoup plus considerables que celles qui se font durant la jeunesse. Le luth & les cartes qu'il tient, ensemble les Romans & les Amadis qui se voyent à ses pieds, signifient que c'est vne chose scandaleuse de voir qu'vn homme d'âge s'amuse à ces galanteries, puisque comme dit le Poëte, en cette derniere saison de la vie",
+        "Il faut prendre congé de Venus & des Graces."
+      ],
       "en": "Scandal",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-226-1.jpg",
+        "p2-226-2.jpg"
+      ]
     },
     {
       "id": "p2-227",
