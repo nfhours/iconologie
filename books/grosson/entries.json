@@ -7559,6 +7559,220 @@
       "findspot_fr": "ruines aux environs de la Cathédrale",
       "findspot_ru": "развалины близ Кафедрального собора",
       "findspot_en": "ruins near the Cathedral"
+    },
+    {
+      "id": "pl25-1",
+      "part": 2,
+      "plate": 25,
+      "num": "1",
+      "fr": "Buste de Jupiter Sérapis en bronze",
+      "ru": "Бронзовый бюст Юпитера Сераписа",
+      "en": "Bronze bust of Jupiter Serapis",
+      "page": "171",
+      "group": "XXV",
+      "group_fr": "Planche XXV",
+      "group_en": "XXV",
+      "group_page": "171",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl25-full.jpg"
+      ],
+      "plate_img": "pl25-full.jpg",
+      "bbox": [
+        2.0,
+        2.0,
+        54.0,
+        60.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. Buste de Jupiter Sérapis en bronze; trouvé en 1704, à 16 pans de profondeur dans la terre, en creusant les fondations de la maison du sieur Moulieres, au bout du Cours de Marseille; ce Buste étoit à la distance de 3 pans d'une voûte servant autrefois à une fontaine près les anciens remparts. Le dessein de ce Monument m'a été communiqué par Mr. Gravier. Monsieur son père qui possédoit toutes les connoissances relatives à la Science de l'antiquité, n'avoit pas négligé de se procurer une copie de ce bronze; il avoit écrit au bas les particularités de sa découverte. Ce témoignage ne doit point être suspect; les beautés de ce Buste se font assez remarquer; & je crois inutile de les détailler."
+      ],
+      "text_ru": [
+        "№ 1. Бронзовый бюст Юпитера Сераписа; найден в 1704 году на глубине 16 пядей, при рытье фундамента дома г-на Мульер, в конце Марсельского Курса (Cours); этот бюст находился на расстоянии 3 пядей от свода, некогда служившего фонтаном близ древних крепостных стен. Рисунок этого памятника был сообщён мне г-ном Гравье. Его отец, обладавший всеми познаниями, относящимися к науке древности, не преминул обзавестись копией этой бронзы; он записал внизу обстоятельства её находки. Это свидетельство не может вызывать подозрений; красоты этого бюста достаточно заметны сами по себе, и я считаю излишним их подробно описывать."
+      ],
+      "text_en": [
+        "No. 1. Bronze bust of Jupiter Serapis; found in 1704, 16 spans deep in the ground, while digging the foundations of the house of sieur Moulières, at the end of the Cours de Marseille; this bust lay 3 spans from a vault that had once served as a fountain near the old ramparts. The drawing of this monument was given to me by M. Gravier. His father, who possessed all the knowledge relevant to the science of antiquity, had not failed to obtain a copy of this bronze; he had written at the bottom the particulars of its discovery. This testimony should not be suspected; the beauties of this bust are plain enough to see, and I think it needless to detail them."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "fondations de la maison du sieur Moulières, au bout du Cours",
+      "findspot_ru": "фундамент дома г-на Мульер, в конце Курса",
+      "findspot_en": "the foundations of sieur Moulières's house, at the end of the Cours"
+    },
+    {
+      "id": "pl25-2",
+      "part": 2,
+      "plate": 25,
+      "num": "2",
+      "fr": "Bronze de la déesse Minerve, en costume grec",
+      "ru": "Бронза богини Минервы в греческом костюме",
+      "en": "Bronze of the goddess Minerva, in Greek dress",
+      "page": "171",
+      "group": "XXV",
+      "group_fr": "Planche XXV",
+      "group_en": "XXV",
+      "group_page": "171",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl25-full.jpg"
+      ],
+      "plate_img": "pl25-full.jpg",
+      "bbox": [
+        56.0,
+        2.0,
+        42.0,
+        82.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Bronze représentant la Déesse Minerve, dans le Costume Grec; on y reconnoît des traces de rapport entre ce Costume & celui des Egyptiens. On sait que ces derniers furent les premiers inventeurs des beaux Arts. C'est d'après les connoissances que les Grecs puisèrent chez eux, qu'ils parvinrent à ce degré de perfection, qui fixa l'admiration de l'univers. Ce Monument avoit été au pouvoir de Mr. l'Abbé Boule; j'ignore entre les mains de qui il a passé depuis le decès de ce curieux. C'est à Mr. Gravier à qui je dois également la connoissance du dessein de ce bronze; ce Citoyen m'a affirmé qu'il étoit une suite des découvertes faites à la rue des Consuls."
+      ],
+      "text_ru": [
+        "№ 2. Бронза, изображающая богиню Минерву в греческом костюме; в нём узнаются следы связи этого костюма с египетским. Известно, что именно египтяне были первыми изобретателями изящных искусств. Именно благодаря познаниям, почерпнутым у них, греки достигли той степени совершенства, которая снискала восхищение всей вселенной. Этот памятник находился во владении аббата Буля; мне неизвестно, в чьих руках он оказался после кончины этого любителя древностей. Знакомством с рисунком этой бронзы я также обязан г-ну Гравье; этот гражданин заверил меня, что она является следствием находок, сделанных на улице Консулов."
+      ],
+      "text_en": [
+        "No. 2. Bronze representing the Goddess Minerva, in Greek dress; traces of a relation between this costume and that of the Egyptians can be made out in it. It is known that the latter were the first inventors of the fine Arts. It was on the knowledge the Greeks drew from them that they attained that degree of perfection which has won the admiration of the world. This monument had belonged to M. l'Abbé Boule; I do not know into whose hands it passed after this collector's death. I likewise owe my knowledge of this bronze's design to M. Gravier; this Citizen assured me it was a further find from the discoveries made on the rue des Consuls."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "rue des Consuls",
+      "findspot_ru": "улица Консулов",
+      "findspot_en": "rue des Consuls"
+    },
+    {
+      "id": "pl25-3",
+      "part": 2,
+      "plate": 25,
+      "num": "3",
+      "fr": "Figure d'un dieu marin en bronze",
+      "ru": "Бронзовая фигура морского божества",
+      "en": "Bronze figure of a Sea God",
+      "page": "172",
+      "group": "XXV",
+      "group_fr": "Planche XXV",
+      "group_en": "XXV",
+      "group_page": "171",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl25-full.jpg"
+      ],
+      "plate_img": "pl25-full.jpg",
+      "bbox": [
+        2.0,
+        64.0,
+        54.0,
+        34.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Figure d'un Dieu Marin, en bronze; elle est dans le Cabinet de Mr. Gravier; d'après l'assurance qu'il m'a donnée que ce Monument étoit renfermé dans un tombeau trouvé à Marseille, je me suis décidé à l'inférer dans ce Recueil. Il est très-naturel de trouver dans une Ville de commerce maritime, des Idoles représentant les Divinités des eaux; cette figure, ainsi que les deux indiquées par les No. précédens, devoient être destinées à orner des Laraires, ou a être suspendues en exvoto dans les Temples; leurs dimensions étant trop petites, pour qu'on puisse leur attribuer d'autres usages. La place que la dernière occupoit, confirme que c'étoit un Lare ou Pénate."
+      ],
+      "text_ru": [
+        "№ 3. Фигура морского божества в бронзе; она находится в кабинете г-на Гравье; согласно данному мне им заверению, что этот предмет был заключён в гробнице, найденной в Марселе, я решился включить его в это Собрание. Весьма естественно найти в городе морской торговли изваяния, изображающие божества вод; эта фигура, равно как и две предыдущие, обозначенные предшествующими номерами, должны были предназначаться для украшения ларариев либо для подвешивания в качестве вотивных даров в храмах; их размеры слишком малы, чтобы можно было приписать им иное назначение. Место, которое занимала последняя из них, подтверждает, что это был лар, или пенат."
+      ],
+      "text_en": [
+        "No. 3. Figure of a Sea God, in bronze; it is in the Cabinet of M. Gravier; on his assurance that this piece was enclosed in a tomb found at Marseille, I resolved to include it in this Collection. It is quite natural to find in a City of maritime trade idols representing the Divinities of the waters; this figure, like the two indicated under the preceding numbers, must have been intended to adorn Lararia, or to be hung as an ex-voto in Temples; their size being too small for any other use to be attributed to them. The position the last one occupied confirms that it was a Lar or Penate."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "un tombeau trouvé à Marseille",
+      "findspot_ru": "гробница, найденная в Марселе",
+      "findspot_en": "a tomb found at Marseille"
+    },
+    {
+      "id": "pl25-4",
+      "part": 2,
+      "plate": 25,
+      "num": "4",
+      "fr": "Amulette en bronze: Priape et une main \"impudique\"",
+      "ru": "Бронзовый амулет: Приап и «бесстыдная рука»",
+      "en": "Bronze amulet: a Priapus and an \"impudica\" hand",
+      "page": "172",
+      "group": "XXV",
+      "group_fr": "Planche XXV",
+      "group_en": "XXV",
+      "group_page": "171",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl25-full.jpg"
+      ],
+      "plate_img": "pl25-full.jpg",
+      "bbox": [
+        42.0,
+        2.0,
+        14.0,
+        36.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4. Amulète en bronze, représentant un Priape; & une main dont le pouce est passé entre le doigt index & le medium, signe dont l'indécence étoit très-propre à assortir la figure principale de cette Amulète. Ces mains que quelques antiquaires ont nommé impudiques, étoient d'un grand usage chez les Payens, ainsi que la représentation du Dieu Priape, par les parties du sexe masculin. Ils les regardoient comme des préservatifs du genre de ceux que les Latins nommoient Fascini; les jeunes filles, & même les garçons les portoient au col.",
+        "Si nous envisageons cet usage, relativement à nos mœurs actuelles, nous ne trouverons en lui que le comble de l'extravagance, de la superstition & d'une lubricité dégoûtante, autant qu'affichée; mais est-il possible que des Nations éclairées eussent autorisé cet usage, s'il eût présenté des idées de pure obscénité! Je ne puis me persuader qu'il ait jamais été permis de braver ainsi la pudeur. Il est plus naturel de croire que les peuples policés chez lesquels ces Amulètes étoient adoptées, n'avoient en vue que la fécondité des deux sexes, pour la propagation de l'espèce; ce qu'ils regardoient comme une faveur des Dieux, auxquels ils croyoient témoigner par-là leur reconnoissance, & s'assurer de leur protection, pour être préservés de la stérilité & de l'impuissance; c'est à ces vues qu'on doit rapporter la fameuse procession que les Matrones Romaines faisoient annuellement dans le mois d'Août, dans laquelle elles portoient la figure des parties honteuses. Les mains impudiques, telles que celle de notre Monument, peuvent avoir été introduites dans Rome, sous le régne de Caligula; qui donnoit la sienne à baiser, fermée de cette maniere, ainsi qu'on le voit dans Suétone (74). Ce bronze est encore au pouvoir de Mr. Gravier, & a été trouvé dans le terroir de cette Ville.",
+        "(74) Sueton. in Caligula cap. 56."
+      ],
+      "text_ru": [
+        "№ 4. Бронзовый амулет, изображающий Приапа и руку, большой палец которой пропущен между указательным и средним, — знак, чья непристойность вполне подходила к главной фигуре этого амулета. Эти «бесстыдные» руки, как назвали их некоторые антиквары, были в большом ходу у язычников, равно как и изображение бога Приапа через мужские половые органы. Их почитали оберегом того же рода, что и те, которые латиняне называли fascini; их носили на шее девушки и даже мальчики.",
+        "Если рассматривать этот обычай применительно к нашим нынешним нравам, мы не найдём в нём ничего, кроме верха сумасбродства, суеверия и отвратительного, притом выставляемого напоказ, распутства; но возможно ли, чтобы просвещённые народы допустили этот обычай, если бы он заключал в себе одну лишь непристойность? Я не могу убедить себя, что когда-либо дозволялось столь откровенно попирать стыдливость. Более естественно полагать, что благоустроенные народы, у которых были приняты эти амулеты, имели в виду лишь плодовитость обоих полов ради продолжения рода; это они почитали милостью богов, за которую, по их убеждению, выражали признательность, обеспечивая себе тем самым их покровительство, чтобы быть защищёнными от бесплодия и бессилия; именно с этими представлениями следует связывать знаменитое шествие, которое римские матроны совершали ежегодно в августе месяце, неся на нём изображение срамных частей. «Бесстыдные руки», подобные той, что на нашем памятнике, возможно, были введены в Риме при правлении Калигулы, который давал свою руку целовать, сложенную таким образом, как об этом сообщает Светоний (74). Эта бронза также находится во владении г-на Гравье и была найдена на землях этого города.",
+        "(74) Светоний, «Калигула», гл. 56."
+      ],
+      "text_en": [
+        "No. 4. Bronze amulet, representing a Priapus, and a hand with the thumb passed between the index and middle fingers, a sign whose indecency suited well with the main figure of this amulet. These hands, which some antiquaries have called \"impudicae,\" were in great use among the Pagans, as was the representation of the God Priapus by the male organ. They regarded them as preservatives of the kind the Latins called Fascini; young girls, and even boys, wore them around the neck.",
+        "If we view this custom in light of our present-day morals, we find in it nothing but the height of extravagance, superstition, and a disgusting as well as blatant lewdness; but is it possible that enlightened Nations would have sanctioned this custom, had it carried ideas of pure obscenity? I cannot persuade myself that modesty was ever allowed to be flouted so openly. It is more natural to believe that the civilized peoples among whom these Amulets were adopted had in view only the fertility of both sexes, for the propagation of the species; which they regarded as a favor of the Gods, to whom they believed they thereby showed their gratitude, and secured their protection against sterility and impotence; it is to these aims that one must relate the famous procession Roman Matrons held annually in the month of August, in which they carried the figure of the private parts. The \"impudicae\" hands, such as the one on our monument, may have been introduced at Rome under the reign of Caligula, who gave his own, closed in this manner, to be kissed, as Suetonius records (74). This bronze is likewise in the possession of M. Gravier, and was found within this City's territory.",
+        "(74) Suetonius, Caligula, ch. 56."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "territoire de Marseille",
+      "findspot_ru": "земли Марселя",
+      "findspot_en": "the territory of Marseille"
     }
   ]
 }
