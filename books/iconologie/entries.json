@@ -14141,12 +14141,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-131.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в белом одеянии с весами в одной руке и свинцовым отвесом в другой",
+          "meaning": "Белое одеяние — неподкупная честность в суждении о заслугах и проступках; весы — беспристрастное взвешивание наград и наказаний; отвес, падающий прямо, — неуклонное следование прямому пути добрых людей",
+          "what_en": "A woman in white robes, a scale in one hand and a plumb line in the other",
+          "meaning_en": "The white robe signifies incorruptible honesty in judging others' merits and faults; the scale, the impartial weighing of rewards and punishments; the plumb line, always falling straight, unwavering adherence to the upright path of good people"
+        }
+      ],
+      "text_ru": [
+        "Объяснение этой фигуры достаточно ясно само по себе. Она представляет Справедливость в облике женщины, облачённой в белое, держащей в одной руке весы, а в другой — свинцовый отвес, или лот. Белизна её одеяния — таинственный символ той неподкупности, с коею она судит о заслугах или проступках других, назначая за них награды или наказания, никогда не позволяя себе быть подкупленной; а свинцовым отвесом, или уровнем, всегда падающим прямо, явлено, что эта добродетель поступает равным образом и никогда не уклоняется с прямого пути, коего обычно держатся люди добрые."
+      ],
+      "text_fr": [
+        "L'EXPLICATION de cette figure est assez claire d'elle-mesme. Elle represente l'Equité, sous la personne d'vne femme vestuë de blanc, qui tient d'vne main vne balance, & de l'autre vn plomb, ou vne sonde. La blancheur de sa robe est vn mysterieux symbole de l'integrité dont elle se sert à juger des merites ou des démerites d'autruy, pour lesquels elle ordonne des recompenses ou des punitions, sans se laisser jamais corrompre; & par le plomb, ou le niveau, qui tombe toûjours droit, il est démontré que cette vertu en fait de mesme, & qu'elle ne s'égare point de la droite route que les gens de bien ont accoûtumé de tenir."
+      ],
       "en": "Equity",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-131-1.jpg",
+        "p2-131-2.jpg"
+      ]
     },
     {
       "id": "p2-132",
@@ -14159,12 +14176,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-132.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Муж, держащий дитя в руках, дабы раздавить его о треугольный камень, у ног его повержены другие дети",
+          "meaning": "Дитя — дурные помыслы, кои должно задушить при самом зарождении; треугольный камень — образ Христа, таинственное и непоколебимое основание души, о которое сокрушаются первые порывы ко греху",
+          "what_en": "A man holding a child in his hands to crush it against a triangular stone, with other children already struck down at his feet",
+          "meaning_en": "The child signifies evil thoughts, which must be smothered at their very birth; the triangular stone, a figure of Christ, the mysterious and unshakable foundation of the soul against which sin's first impulses are shattered"
+        }
+      ],
+      "text_ru": [
+        "Дитя, что этот муж держит в руках, дабы раздавить его, подобно прочим, поверженным у его ног, есть эмблема дурных помыслов, кои должно задушить при самом их зарождении, дабы они не укоренились и не ступали всё дальше вперёд. Что до треугольного камня, он есть образ Иисуса Христа, дабы показать, сообразно словам Псалма 36: Блажен, кто возьмёт и разобьёт младенцев о камень; что воистину блаженным должно почитать удел тех, кто воздерживается от пороков и сокрушает первые их порывы об этот таинственный камень, служащий непоколебимым основанием нашей души."
+      ],
+      "text_fr": [
+        "L'ENFANT que cet homme tient en ses mains pour l'écraser comme les autres qui se voyent abbatus à ses pieds, est vn emblême des mauvaises pensées, qu'il faut étouffer en leur naissance, de peur qu'elles ne s'enracinent, & ne prennent pied toûjours plus avant. Quand à la pierre triangulaire, elle est vne figure de Jesus-Christ, pour montrer, conformément à ces paroles du Pseaume 36. Heureux qui tiendra, & qui écrasera les enfans contre la pierre; qu'il faut estimer veritablement heureuse la condition de ceux qui s'abstiennent des vices, & qui brisent leurs premiers mouvemens contre cette pierre mysterieuse, qui est la base inébranlable de nostre ame."
+      ],
       "en": "Smothering of Evil Thoughts",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-132-1.jpg",
+        "p2-132-2.jpg"
+      ]
     },
     {
       "id": "p2-133",
@@ -14177,12 +14211,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-133.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в лазурном, усеянном звёздами одеянии, крепко удерживающая быка",
+          "meaning": "Бык — символ силы; звёздное небесное одеяние — непоколебимая Твёрдость небес, не подверженная так называемому «местному» изменению и неизменная во всех своих частях",
+          "what_en": "A woman in an azure, star-strewn robe, firmly restraining a bull",
+          "meaning_en": "The bull symbolizes strength; the starry sky-blue robe, the unshakable Firmness of the heavens, immune to what Philosophers call Local change, unwavering in every part"
+        }
+      ],
+      "text_ru": [
+        "Её представляет женщина, облачённая в лазурное одеяние, всё усеянное звёздами, которая столь сильно удерживает быка, что не даёт ему идти далее. Отсюда довольно ясно явствует, что бык есть символ силы; а небесно-голубым одеянием, всем сияющим звёздами, означена Твёрдость небес, вовсе не подверженная тому изменению, что Философы называют Местным, и не могущая поколебаться или быть потрясённой ни в одной из своих частей."
+      ],
+      "text_fr": [
+        "ELLE est representée par vne femme vestuë d'vne robe d'azur, toute semée d'étoilles, & qui arreste si fortement vn taureau, qu'elle l'empesche de passer outre. D'où il paroist assez clairement que le taureau est le symbole de la force; & que par la robe de couleur celeste, toute brillante d'étoilles, est dénotée la Fermeté du ciel, qui n'est nullement sujet à ce changement que les Philosophes appellent Local, & ne peut chanceler ny estre ébranlé en aucune de ses parties."
+      ],
       "en": "Firmness",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-133-1.jpg",
+        "p2-133-2.jpg"
+      ]
     },
     {
       "id": "p2-134",
@@ -14195,12 +14246,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-134.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина, покрытая тонким покрывалом, с букетом цветов в правой руке и подвешенным на нити стеклянным сосудом в левой",
+          "meaning": "Тонкое покрывало — лёгкая разрушимость человеческого существования; увядающие цветы — быстротечность красоты; хрупкий стеклянный сосуд — приятная взору, но хрупкая и преходящая природа всякого блеска и красоты",
+          "what_en": "A woman covered in a very fine veil, a bouquet of flowers in her right hand and a glass vial hanging from a thread in her left",
+          "meaning_en": "The fine veil signifies the easy destructibility of human existence; the withering flowers, the swift passing of beauty; the fragile glass vessel, the pleasing yet fragile and perishable nature of all splendor and beauty"
+        }
+      ],
+      "text_ru": [
+        "Эта женщина, с головы до ног покрытая весьма тонким покрывалом, держащая в правой руке букет цветов и листьев, а в левой — стеклянный сосуд, подвешенный на нити, довольно удачно являет человеческую хрупкость. Ибо хорошо известно, что нет ничего, что рвалось бы легче, нежели покрывало или иная тонкая ткань; ничего, что было бы более подвержено увяданию, нежели цветы; и ничего, что скорее билось бы и разрушалось, нежели стекло, которое, будучи чрезвычайно приятным взору, напоминает нам притом, что весь блеск, какой может иметь красота, хрупок и преходящ."
+      ],
+      "text_fr": [
+        "CETTE femme couverte par tout le corps d'vn voile fort delié, tenant de la main droite vn bouquet de fleurs & de feuilles, & de la gauche vne phiole de verre, qui pend à vn filet, represente assez bien l'humaine fragilité. Car on sçait assez qu'il n'est rien qui se déchire plus facilement qu'vn voile, ou telle autre étoffe deliée; rien qui soit plus sujet à se flétrir que les fleurs, ny rien qui se casse & se détruise plûtost que le verre, qui pour estre extremement agreable aux yeux, nous fait souvenir encore que tout ce que la beauté peut avoir d'éclat, est fragile & perissable."
+      ],
       "en": "Frailty",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-134-1.jpg",
+        "p2-134-2.jpg"
+      ]
     },
     {
       "id": "p2-135",
