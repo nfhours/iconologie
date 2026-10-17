@@ -19895,12 +19895,73 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-251.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Мужественный облик дамы",
+          "meaning": "фортификация требует неутомимости и отсутствия изнеженности",
+          "what_en": "The lady's manly bearing",
+          "meaning_en": "fortification demands tirelessness and an absence of softness"
+        },
+        {
+          "what": "Многоцветное одеяние",
+          "meaning": "разнообразие изобретений, нужных для укреплений",
+          "what_en": "Multicoloured garment",
+          "meaning_en": "the diverse inventions needed for fortifications"
+        },
+        {
+          "what": "Золотая цепь с алмазом",
+          "meaning": "Фортификация — благороднейшее из военных занятий, подобно алмазу среди камней",
+          "what_en": "Gold chain bearing a diamond",
+          "meaning_en": "fortification as the noblest of military works, like the diamond among stones"
+        },
+        {
+          "what": "Буссоль в правой руке",
+          "meaning": "инструмент для черчения планов",
+          "what_en": "Compass in her right hand",
+          "meaning_en": "the instrument for drawing plans"
+        },
+        {
+          "what": "Шестиугольная крепость с ласточкой",
+          "meaning": "ласточкино гнездо как иероглиф наилучшей постройки; правильное расположение укрепления",
+          "what_en": "Hexagonal fort with a swallow perched above it",
+          "meaning_en": "the swallow's nest as a hieroglyph of the best-built structure; the right siting of a fortress"
+        },
+        {
+          "what": "Мотыга и кирка у ног",
+          "meaning": "необходимые орудия для возведения укреплений",
+          "what_en": "Mattock and pick at her feet",
+          "meaning_en": "the tools indispensable to building fortifications"
+        }
+      ],
+      "text_ru": [
+        "Её эмблема — серьёзная дама, в облике которой заметно нечто мужественное. Её платье разных цветов, а главное её украшение — драгоценный алмаз, который она носит подвешенным на золотой цепи. В правой руке она держит инструмент, пригодный для черчения планов,",
+        "а в левой — картину, изображающую крепость шестиугольной формы, какую обычно используют при постройке самых правильных крепостей. Добавлю, что над этой крепостью — ласточка, а у её ног — нечто вроде мотыги для вскапывания земли.",
+        "Она представлена серьёзной и мужественной, ибо в искусстве фортификации не должно быть ничего, отдающего изнеженностью, и все, кто им занимается, должны являть себя неутомимыми в усталости.",
+        "Её одеяние многих цветов означает собственно различные изобретения, требуемые для успешного завершения военных укреплений.",
+        "Ей дают сверх того золотую цепь, на которой висит драгоценный алмаз, и это не без серьёзной причины; ибо подобно тому, как золото — благороднейший из всех металлов, Фортификация равным образом — славнейшее из всех военных занятий. На это можно добавить ещё, что подобно тому, как нет драгоценного камня, равного алмазу по твёрдости и красоте, так искусность — благороднейшая драгоценность Государя, поскольку она защищает его от ударов врагов.",
+        "Она держит в руке буссоль, оттого что этот математический инструмент пригоден для черчения планов.",
+        "Что же до картины, на которой сидит ласточка, это означает, что, предпринимая постройку крепости, нужно хорошо продумать её расположение и подражать ласточке, которая, по свидетельству Пиерия, благодаря дивному устройству своего гнезда, служит иероглифической фигурой наилучше построенных зданий.",
+        "Опущу, что мотыга и кирка положены у её ног как самые необходимые орудия для укрепления лагеря, будь то рытьё рвов и траншей, перемещение земли или копание фундаментов для возведения построек."
+      ],
+      "text_fr": [
+        "Elle a pour emblême vne dame serieuse, & dans le visage de laquelle se remarque quelque chose de viril. Sa robe est de diverses couleurs, & son principal atour vn riche diamant qu'elle porte attaché à vne chaîne d'or. De la main droite elle tient vn instrument propre à tirer des plans,",
+        "& de la gauche vn tableau representant vn Fort de figure hexagone, dont on se sert ordinairement en la structure des forteresses les plus regulieres. A quoy j'adjouste qu'au dessus du mesme Fort est vne hirondelle, & à ses pieds vne maniere de hoyau à bescher la terre.",
+        "Elle est representée serieuse & virile, parce qu'en l'art de fortifier il n'y doit rien avoir qui sente la molesse, & que tous ceux qui s'en mêlent se doivent montrer invincibles à la fatigue.",
+        "Par son habit de plusieurs couleurs s'entendent proprement les diverses inventions qui sont requises pour venir à bout des fortifications de la guerre.",
+        "On luy donne de plus vne chaîsne d'or, où pend vn precieux diamant, & ce n'est pas sans vne grande raison; car comme l'or est le plus noble de tous les metaux, l'Architecture de mesme est le plus illustre de tous les travaux militaires. Surquoy l'on peut dire encore, que comme il n'est point de pierre precieuse qui égale en force & en beauté le diamant, ainsi l'industrie est le plus noble joyau du Prince, puisqu'elle le met à couvert des coups de ses ennemis.",
+        "Elle tient en main vne boussole, dautant que cet instrument de Mathematique est propre à tirer des plans.",
+        "Pour ce qui est du tableau sur lequel vne hirondelle est perchée, cela signifie que lors que l'on entreprend de bâtir vne forteresse, il en faut bien considerer l'assiette, & imiter l'hirondelle, laquelle, au rapport de Pierius, par la merveilleuse structure de son nid, est vne figure hieroglyfique des bastimens les mieux faits.",
+        "J'obmets que le hoyau & le pic sont mis à ses pieds, pour estre les instrumens les plus necessaires à fortifier vn camp, soit qu'il faille faire des fossez & des tranchées, ou remuer la terre, & creuser des fondemens pour y bâtir dessus."
+      ],
       "en": "Military Architecture",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-251-1.jpg",
+        "p2-251-2.jpg"
+      ]
     },
     {
       "id": "p2-252",
@@ -19913,12 +19974,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-252.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юный облик",
+          "meaning": "Альтиметрия — дочь Геометрии, точно следующая материнским урокам",
+          "what_en": "Her youthful appearance",
+          "meaning_en": "Altimetry as Geometry's daughter, faithfully following her mother's lessons"
+        },
+        {
+          "what": "Геометрический угольник",
+          "meaning": "инструмент для измерения высоты башни",
+          "what_en": "Geometric square",
+          "meaning_en": "the instrument for taking the height of a tower"
+        }
+      ],
+      "text_ru": [
+        "Её изображают здесь в облике юной девушки, держащей геометрический угольник, которым она пользуется, дабы измерить высоту башни.",
+        "Она изображена юной, поскольку, будучи дочерью Геометрии, дабы не выродиться из качеств своей матери, она точно соблюдает все измерения, которые та ей показала, и держит для этой цели геометрический угольник как инструмент, вполне подходящий её замыслу."
+      ],
+      "text_fr": [
+        "On la represente icy par vne jeune fille, qui tient vn quarré Geometrique, dont elle se sert à prendre la hauteur d'vne tour.",
+        "Elle est peinte jeune, parce qu'estant fille de la Geometrie, pour ne degenerer des qualitez de sa mere, elle observe ponctuellement toutes les dimensions qu'elle luy a montrées, & tient pour cet effet le quarré Geometrique, comme vn instrument tout à fait convenable à son dessein."
+      ],
       "en": "Altimetry",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-252-1.jpg",
+        "p2-252-2.jpg"
+      ]
     },
     {
       "id": "p2-253",
@@ -19931,12 +20017,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-253.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Венец и платье из звёзд",
+          "meaning": "царственность познания светил",
+          "what_en": "Crown and robe of stars",
+          "meaning_en": "the regal nature of the knowledge of the stars"
+        },
+        {
+          "what": "Солнце перед ней",
+          "meaning": "предмет её наблюдений",
+          "what_en": "Sun before her",
+          "meaning_en": "the object of her study"
+        },
+        {
+          "what": "Скипетр и небесный глобус",
+          "meaning": "власть над изучением небесного свода",
+          "what_en": "Sceptre and celestial globe",
+          "meaning_en": "mastery over the study of the heavens"
+        },
+        {
+          "what": "Орёл у ног",
+          "meaning": "устремлённый ввысь взгляд, исследующий влияния светил",
+          "what_en": "Eagle at her feet",
+          "meaning_en": "a gaze fixed skyward, probing the influences of the stars"
+        }
+      ],
+      "text_ru": [
+        "Эта Царица прекрасных познаний, увенчанная звёздами и имеющая платье, ими сплошь усеянное, неслучайно имеет перед собой Солнце, скипетр в одной руке, небесный глобус в другой, а у ног — орла, дабы показать, что она всегда устремляет взор на течение Светил, изучению коих она посвящает всё своё внимание, в поисках самых любопытных и самых благородных тайн, зависящих от их влияний."
+      ],
+      "text_fr": [
+        "Cette Reine des belles connoissances, couronnée d'étoilles, & qui en a sa robe toute semée, n'a pas sans raison vn Soleil devant elle, vn sceptre en l'vne de ses mains, vn globe celeste en l'autre, & vn aigle à ses pieds, pour montrer qu'elle a toûjours les yeux fixes à considerer le cours des Astres, dont elle fait toute son estude en la recherche des plus curieux & des plus nobles secrets qui dépendent de leurs influences."
+      ],
       "en": "Astrology",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-253-1.jpg",
+        "p2-253-2.jpg"
+      ]
     },
     {
       "id": "p2-254",
@@ -19949,12 +20070,51 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-254.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Старческий облик",
+          "meaning": "Космография стара, как само сотворение мира",
+          "what_en": "Her aged appearance",
+          "meaning_en": "Cosmography is as old as the creation of the world itself"
+        },
+        {
+          "what": "Синее платье со звёздами",
+          "meaning": "внимание к небу",
+          "what_en": "Blue robe strewn with stars",
+          "meaning_en": "attentiveness to the heavens"
+        },
+        {
+          "what": "Небесный и земной глобусы по сторонам",
+          "meaning": "равное внимание к Небу и земле",
+          "what_en": "Celestial and terrestrial globes on either side",
+          "meaning_en": "equal attention paid to Heaven and Earth"
+        },
+        {
+          "what": "Астролябия и другие инструменты в руках",
+          "meaning": "измерение расстояний между небом и землёй",
+          "what_en": "Astrolabe and other instruments in her hands",
+          "meaning_en": "the measuring of the intervals and distances between heaven and earth"
+        }
+      ],
+      "text_ru": [
+        "Космография, так названная, поскольку своей целью ставит описание мира, имеет своим символом старую женщину, облачённую в синее платье, усеянное звёздами, с небесным глобусом по одну сторону, с земным — по другую, и с двумя различными математическими инструментами в руках, главный из которых — астролябия.",
+        "Её изображают пожилой с большим основанием, ибо она ведёт своё происхождение от самого сотворения мира.",
+        "Что до её синего платья, полного звёзд, и инструментов, которые она держит в руках, это означает, что она в равной мере внимательна к рассмотрению Неба и земли. По этой причине она весьма уместно помещена между этими двумя глобусами, в действии измерения промежутков и расстояний того и другого."
+      ],
+      "text_fr": [
+        "La Cosmographie, ainsi appellée, parce qu'elle se propose pour but la description du monde, a pour symbole vne vieille femme, vestuë d'vne robe bleuë, semée d'étoilles, ayant d'vn costé le globe du Ciel, de l'autre celuy de la Terre, & en ses mains deux differens instrumens de Mathematique, dont le principal est vn Astrolabe.",
+        "On la peint âgée avec beaucoup de raison, pour avoir pris son origine dés la creation du monde.",
+        "Quant à sa robe bleuë pleine d'étoilles, & aux instrumens qu'elle tient en ses mains, cela veut dire qu'elle est également attentive à considerer le Ciel & la terre. A raison dequoy elle est plantée fort à propos entre ces deux globes, en action de prendre les intervalles & les distances de l'vn & de l'autre."
+      ],
       "en": "Cosmography",
-      "group_en": "Sciences and Arts (untitled in the book)"
+      "group_en": "Sciences and Arts (untitled in the book)",
+      "scans": [
+        "p2-254-1.jpg",
+        "p2-254-2.jpg"
+      ]
     },
     {
       "id": "p2-255",
