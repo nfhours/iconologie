@@ -6534,6 +6534,186 @@
       "findspot_fr": "jardin de M. de Léon, environs de la rue Ste. Barbe",
       "findspot_ru": "сад г-на де Леона, в окрестностях улицы Св. Варвары",
       "findspot_en": "garden of M. de Léon, near the rue Ste. Barbe"
+    },
+    {
+      "id": "pl18-1",
+      "part": 2,
+      "plate": 18,
+      "num": "1",
+      "fr": "Dessus de tombeau: Mélitine, fille de Démétrius, femme du médecin Hermogène",
+      "ru": "Верхняя плита гробницы: Мелитина, дочь Деметрия, жена врача Эрмогена",
+      "en": "Tomb slab: Melitine, daughter of Demetrius, wife of the physician Hermogenes",
+      "page": "147",
+      "group": "XVIII",
+      "group_fr": "Planche XVIII",
+      "group_en": "XVIII",
+      "group_page": "147",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre",
+      "material_ru": "мрамор",
+      "material_en": "marble",
+      "img": [
+        "pl18-full.jpg"
+      ],
+      "plate_img": "pl18-full.jpg",
+      "bbox": [
+        4.0,
+        2.0,
+        68.0,
+        82.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LE Marbre désigné par le n°.1, est le dessus d'un Tombeau; il est au pouvoir de M. Michel, Honoraire de l'Académie de Peinture de cette Ville: il fut trouvé à la rue de Negrel. Ce quartier, ainsi que nous l'avons observé ailleurs, se trouvoit très-anciennement hors de l'enceinte de la Ville. Une femme y est représentée debout; ses habits marquent une personne de considération; elle a par-dessus la tunique: cette espèce de manteau que les femmes grecques portoient, & dont les Romaines firent usage d'après les premières, sous le nom de Palla, ou Amiculum, lequel étoit frangé [55].",
+        "Cette figure est entre deux piédestaux; on voit sur celui qui est à droite, un coffre; & sur l'autre, une ventouse qui ressemble à un bouclier des Maures, avec un de ces pots nommés Olla par les Anciens. Au bas, du côté droit, sont deux jeunes personnes, dont l'une tient un chien: cet animal étoit souvent représenté sur les Bas-reliefs destinés à l'ornement des sépultures; l'autre jeune personne tient un pot semblable à celui qui se trouve sur le piédestal. On trouve à gauche la figure d'une personne d'un âge un peu plus avancé; ce qu'on distingue par la grandeur de sa taille: elle tient d'une main une Spatule, & de l'autre une Phiole semblable en tout, à celles où nous renfermons encore de nos jours les liqueurs balsamiques.",
+        "Les trois figures sont habillées d'une Tunique à courtes manches, & par-dessus une autre Tunique, descendant jusqu'aux genoux: c'étoit une espèce de Rochet, dont les modernes Citoyennes de la Grèce se servent encore sous le nom d'Antheri. Cet habillement leste convenoit aux jeunes personnes, & a probablement donné lieu à l'origine des habits courts ou mantelets, qui ne sont que des demi-robes, se terminant aux genoux, dont les personnes du peuple se servent encore à Marseille, à Salon, & en divers endroits de la Provence.",
+        "Le monument que je décris, est orné dans le fronton d'une couronne funèbre, en usage chez les Grecs. On lit au haut l'Inscription suivante: MELITINEN DEMETRIOV ERMOGEN DE IATROV DE GVNAIKA. c'est-à-dire, Melitinam Demetrii Ermogenisque & Medici Uxorem. Melitine, fille de Demetrius, & femme d'Ermogene, Médecin.",
+        "Cette Épitaphe explique les attributs répandus sur le monument; on avoit cru honorer la mémoire de Mélitine, en traçant sur son Tombeau les marques de la profession de son mari. Cette profession étoit en grande vénération à Marseille, & on s'y rendoit de tous côtés pour étudier la Médecine dans sa célèbre Académie, qui avoit produit en ce genre de savans maîtres, dans les personnes de Demosthene, de Crinas, & de Carmis ou Carmidas. Le second de ces Médecins avoit mérité les honneurs d'une Statue de la part du public, pour avoir fait reconstruire les murs de Marseille sa patrie, qui avoient été ruinés par le siège de César. Pline dit qu'il donna cent sesterces pour cette dépense. D'après des témoignages si honorables pour la Médecine, il ne faut point être surpris que l'épouse d'un homme de cette profession eût obtenu une sépulture distinguée. Marseille ancienne, en honorant tous les genres de talens, entretenoit le patriotisme, & bannissoit par là l'esprit de prétention, qui n'est que trop souvent le partage des richesses entassées sur l'ignorance. On ne voyoit point, dans les temps florissans de notre République, ses Citoyens argumenter sur la prééminence des professions également honnêtes & honorables. Tempora mutantur, & nos mutamur in illis. Montfaucon, Planche VII, tom. V du supplément, cite un des marbres d'Oxford, qui est du même costume que celui-ci. [Hauteur, 3 pieds, 7 pouces, 6 lignes; largeur, 2 pieds.]",
+        "(55) Furgault, Recueil d'Antiquités Grecques & Romaines, page 273."
+      ],
+      "text_ru": [
+        "Мрамор, обозначенный номером 1, представляет собой верхнюю плиту гробницы; он находится во владении г-на Мишеля, почётного члена Академии живописи этого города: он был найден на улице Негрель. Этот квартал, как мы уже отмечали в другом месте, в весьма давние времена находился вне городской черты. На нём изображена стоящая женщина; её одежда указывает на особу значительного положения; поверх туники на ней накинут тот род плаща, который носили гречанки и который, по их примеру, стали носить и римлянки под названием Palla, или Amiculum, с бахромой [55].",
+        "Эта фигура помещена между двумя постаментами; на том, что справа, виден ларец, а на другом — банка для кровопускания, напоминающая мавританский щит, вместе с одним из тех сосудов, что древние называли Olla. Внизу, с правой стороны, изображены двое юных лиц, одно из которых держит собаку: это животное часто изображалось на барельефах, украшавших погребения; другое юное лицо держит сосуд, подобный тому, что стоит на постаменте. Слева видна фигура лица несколько более зрелого возраста, что заметно по её более крупному росту: она держит в одной руке шпатель, а в другой — флакон, во всём схожий с теми, в которых мы и поныне храним бальзамические жидкости.",
+        "Все три фигуры облачены в тунику с короткими рукавами, а поверх неё — в другую тунику, доходящую до колен: это была своего рода риза, которую современные гречанки по сей день носят под названием Antheri. Это лёгкое одеяние подобало молодым особам и, вероятно, послужило источником происхождения коротких одежд или полуплащей, представляющих собой лишь полуплатья, доходящие до колен, которыми простонародье до сих пор пользуется в Марселе, в Салоне и в различных местах Прованса.",
+        "Описываемый мною памятник украшен во фронтоне погребальным венком, бытовавшим у греков. Наверху читается следующая надпись: MELITINEN DEMETRIOV ERMOGEN DE IATROV DE GVNAIKA, то есть Melitinam Demetrii Ermogenisque & Medici Uxorem — «Мелитину, дочь Деметрия и жену Эрмогена, врача».",
+        "Эта эпитафия объясняет атрибуты, рассыпанные по памятнику; память Мелитины пожелали почтить, начертав на её гробнице знаки профессии её мужа. Эта профессия пользовалась в Марселе большим почётом, и сюда стекались отовсюду изучать медицину в его знаменитой академии, давшей в этом роде таких учёных наставников, как Демосфен, Кринас и Кармис, или Кармидас. Второй из этих врачей заслужил от народа честь быть удостоенным статуи за то, что восстановил на свои средства стены Марселя, своего отечества, разрушенные во время осады Цезарем. Плиний сообщает, что он пожертвовал на это сто сестерциев. При столь почётных для медицины свидетельствах не следует удивляться тому, что супруга человека этой профессии удостоилась выдающегося погребения. Древний Марсель, почитая всякого рода дарования, поддерживал тем самым патриотизм и изгонял дух тщеславия, который слишком часто становится уделом богатства, нагромождённого на невежестве. В цветущие времена нашей Республики граждане её не спорили о превосходстве профессий, одинаково честных и почтенных. Tempora mutantur, et nos mutamur in illis («Времена меняются, и мы меняемся вместе с ними»). Монфокон, таблица VII, т. V дополнения, приводит один из оксфордских мраморов, выполненный в том же костюме, что и этот. [Высота 3 фута 7 дюймов 6 линий; ширина 2 фута.]",
+        "(55) Фюрго, «Собрание греческих и римских древностей», с. 273."
+      ],
+      "text_en": [
+        "The marble marked no. 1 is the top slab of a Tomb; it is in the possession of M. Michel, honorary member of this City's Academy of Painting: it was found on the rue de Negrel. This quarter, as we have observed elsewhere, lay very anciently outside the City's walls. A woman is shown standing there; her garments mark her as a person of standing; over her tunic she wears the kind of mantle Greek women wore, and which the Roman women adopted after them, under the name Palla, or Amiculum, which was fringed [55].",
+        "This figure stands between two pedestals; on the one to the right is seen a casket; on the other, a cupping-vessel resembling a Moorish shield, together with one of those pots the Ancients called Olla. Below, on the right, are two young persons, one of whom holds a dog: this animal was often depicted on bas-reliefs meant to adorn tombs; the other young person holds a pot like the one on the pedestal. On the left is the figure of a somewhat older person, distinguishable by her larger stature: she holds in one hand a Spatula, and in the other a Phial entirely similar to those in which we still keep balsamic liquids today.",
+        "The three figures are dressed in a short-sleeved Tunic, and over it another Tunic reaching to the knees: a kind of rochet, which modern Greek women still wear under the name Antheri. This light garment suited young persons, and probably gave rise to the short garments or mantelets — mere half-gowns ending at the knee — still worn by common folk at Marseille, at Salon, and in various parts of Provence.",
+        "The monument I am describing is adorned in its pediment with a funerary crown, as was customary among the Greeks. At the top one reads the following Inscription: MELITINEN DEMETRIOV ERMOGEN DE IATROV DE GVNAIKA, that is, Melitinam Demetrii Ermogenisque & Medici Uxorem — Melitine, daughter of Demetrius, and wife of Ermogenes, Physician.",
+        "This Epitaph explains the attributes scattered over the monument; it was thought fitting to honor Melitine's memory by tracing on her Tomb the marks of her husband's profession. This profession was held in great veneration at Marseille, and people came from all sides to study Medicine in its celebrated Academy, which had produced learned masters of this art in the persons of Demosthenes, Crinas, and Carmis or Carmidas. The second of these Physicians had earned the honor of a public Statue for having had the walls of Marseille, his homeland, rebuilt after their ruin in Caesar's siege. Pliny says he gave a hundred sesterces toward this expense. Given such honorable testimony to Medicine, it is no surprise that the wife of a man of this profession should have obtained a distinguished burial. Ancient Marseille, by honoring every kind of talent, fostered patriotism, and thereby banished the spirit of pretension too often the lot of riches heaped upon ignorance. In the flourishing days of our Republic, its Citizens were not seen arguing over the preeminence of equally honest and honorable professions. Tempora mutantur, et nos mutamur in illis. Montfaucon, Plate VII, vol. V of the supplement, cites one of the Oxford marbles dressed in the same costume as this one. [Height 3 feet 7 inches 6 lines; width 2 feet.]",
+        "(55) Furgault, Recueil d'Antiquités Grecques & Romaines, p. 273."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "ΜΕΛΙΤΙΝΗΝ ΔΗΜΗΤΡΙΟΥ ΕΡΜΟΓΕΝ ΔΕ ΙΑΤΡΟΥ ΔΕ ΓΥΝΑΙΚΑ",
+      "legend_ru": "ΜΕΛΙΤΙΝΗΝ ΔΗΜΗΤΡΙΟΥ ΕΡΜΟΓΕΝ ΔΕ ΙΑΤΡΟΥ ΔΕ ΓΥΝΑΙΚΑ",
+      "legend_en": "ΜΕΛΙΤΙΝΗΝ ΔΗΜΗΤΡΙΟΥ ΕΡΜΟΓΕΝ ΔΕ ΙΑΤΡΟΥ ΔΕ ΓΥΝΑΙΚΑ",
+      "findspot_fr": "rue de Negrel",
+      "findspot_ru": "улица Негрель",
+      "findspot_en": "rue de Negrel"
+    },
+    {
+      "id": "pl18-2",
+      "part": 2,
+      "plate": 18,
+      "num": "2",
+      "fr": "Marotte en bronze (Momus, dieu de la raillerie)",
+      "ru": "Бронзовая марота (Мом, бог насмешки)",
+      "en": "Bronze fool's-head (Momus, god of mockery)",
+      "page": "149",
+      "group": "XVIII",
+      "group_fr": "Planche XVIII",
+      "group_en": "XVIII",
+      "group_page": "147",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl18-full.jpg"
+      ],
+      "plate_img": "pl18-full.jpg",
+      "bbox": [
+        74.0,
+        34.0,
+        24.0,
+        42.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°.2. Marotte en bronze, qui doit avoir servi dans le Laraire [56] de quelque Particulier. Cet attribut étoit propre à Momus, que les Grecs, ainsi que les Romains faisoient fils du sommeil & de la nuit. C'est pour cela que la figure de la Marotte a les yeux fermés. Le nom de Momus vient du Grec Momos, reproche, parce que, selon la mythologie, Momus étoit la Divinité de la raillerie; par ses traits satyriques, il pouvoit reprocher tout ce qu'il vouloit: les Dieux n'étoient point exempts de ses reproches; il leur reprocha, par exemple, de n'avoir pas fait l'homme avec une petite ouverture à la poitrine, afin de pouvoir discerner ce qui se passe dans son intérieur.",
+        "(56) Les Laraires étoient des cabinets où les maîtres du Logis tenoient les Effigies des Dieux Lares, ou Divinités Domestiques. Ces reduits étoient plus ou moins décorés, selon les richesses & la dévotion du Possesseur."
+      ],
+      "text_ru": [
+        "№ 2. Бронзовый жезл-голова (марота), служивший, по-видимому, в ларарии [56] некоего частного лица. Этот атрибут был свойствен Мому, которого греки, как и римляне, считали сыном сна и ночи. Именно поэтому у фигуры мароты закрыты глаза. Имя Мома происходит от греческого momos — «укор», поскольку, согласно мифологии, Мом был божеством насмешки; своими язвительными чертами он мог упрекнуть в чём угодно: даже боги не были избавлены от его упрёков; он, например, упрекал их за то, что они не сделали в груди человека небольшого отверстия, чтобы можно было видеть, что происходит внутри него.",
+        "(56) Ларарии представляли собой шкафчики, в которых хозяева дома хранили изображения богов-ларов, или домашних божеств. Эти ниши украшались более или менее богато, в зависимости от достатка и благочестия владельца."
+      ],
+      "text_en": [
+        "No. 2. Bronze fool's-head (marotte), which must have served in the Lararium [56] of some private individual. This attribute belonged to Momus, whom the Greeks, as well as the Romans, made the son of Sleep and Night. This is why the figure of the Marotte has closed eyes. The name Momus comes from the Greek Momos, reproach, because, according to mythology, Momus was the Divinity of mockery; through his satirical sallies he could reproach whatever he wished: the Gods themselves were not exempt from his reproaches; he reproached them, for instance, for not having made man with a small opening in the chest, so that one could discern what goes on within him.",
+        "(56) Lararia were cabinets in which the masters of a household kept the Effigies of the Lares, or Household Divinities. These recesses were decorated more or less richly, according to the wealth and devotion of the Owner."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "",
+      "findspot_ru": "",
+      "findspot_en": ""
+    },
+    {
+      "id": "pl18-3",
+      "part": 2,
+      "plate": 18,
+      "num": "3-4",
+      "fr": "Clou-amulette en bronze: Mars et Minerve, avec son revers aux palmes",
+      "ru": "Бронзовый гвоздь-амулет: Марс и Минерва, с оборотной стороной (пальмовые ветви)",
+      "en": "Bronze nail-amulet: Mars and Minerva, with its palm-branch reverse",
+      "page": "150",
+      "group": "XVIII",
+      "group_fr": "Planche XVIII",
+      "group_en": "XVIII",
+      "group_page": "147",
+      "flag": "",
+      "type": "object",
+      "material_fr": "bronze",
+      "material_ru": "бронза",
+      "material_en": "bronze",
+      "img": [
+        "pl18-full.jpg"
+      ],
+      "plate_img": "pl18-full.jpg",
+      "bbox": [
+        10.0,
+        82.0,
+        80.0,
+        16.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "N°.3. Le Bronze marqué de ce chiffre, est encore un de ceux destinés aux Laraires; il représente Mars & Minerve. J'avois d'abord cru que c'étoit la garde d'un glaive; mais outre son épaisseur, qui a près de 6 lignes, j'ai observé que la partie qui devoit servir de passage à la lame pour être emmanchée à la poignée, auroit été trop foible pour soutenir le poids; d'ailleurs elle vient en diminuant pour se terminer en pointe; ce qui m'a décidé à croire que c'étoit un clou à vis qui servoit à fixer cette espèce d'Amulette sur un piédestal, afin de pouvoir le placer parmi les Lares.",
+        "Ce morceau est au pouvoir de M. Michel; il a été trouvé dans des ruines, ainsi que le précédent.",
+        "Le n°.4. représente le revers du n°.3: on y voit des palmes, attributs communs aux deux Divinités, Mars & Minerve."
+      ],
+      "text_ru": [
+        "№ 3. Бронза, обозначенная этим номером, также относится к числу предназначенных для ларариев предметов; она изображает Марса и Минерву. Сначала я полагал, что это гарда меча; но, помимо её толщины, составляющей около 6 линий, я заметил, что часть, которая должна была бы служить проходом для клинка, вставляемого в рукоять, была бы слишком слаба, чтобы выдержать его вес; к тому же она сужается к концу, заканчиваясь остриём; это заставило меня прийти к заключению, что перед нами винтовой гвоздь, служивший для крепления этого своеобразного амулета на постаменте, чтобы его можно было поместить среди ларов.",
+        "Этот предмет находится во владении г-на Мишеля; он был найден среди развалин, так же как и предыдущий.",
+        "№ 4 представляет оборотную сторону № 3: на ней видны пальмовые ветви — атрибуты, общие обоим божествам, Марсу и Минерве."
+      ],
+      "text_en": [
+        "No. 3. The Bronze marked with this number is likewise one of those intended for Lararia; it represents Mars and Minerva. I had at first thought it was the guard of a sword; but besides its thickness, nearly 6 lines, I observed that the part meant to let the blade pass through to be fitted into the hilt would have been too weak to bear the weight; moreover it tapers to a point; which led me to conclude that it was a screw-nail used to fix this sort of Amulet onto a pedestal, so that it could be placed among the Lares.",
+        "This piece is in the possession of M. Michel; it was found among ruins, as was the preceding one.",
+        "No. 4 shows the reverse of no. 3: palm fronds are seen on it, attributes common to both Divinities, Mars and Minerva."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "",
+      "findspot_ru": "",
+      "findspot_en": ""
     }
   ]
 }
