@@ -16764,12 +16764,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-187.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Почти обнажённая фигура с искусно заплетенными волосами",
+          "meaning": "порок, лишающий душу её драгоценных украшений — чести, свободы, мудрости",
+          "what_en": "Nearly naked figure with elaborately braided hair",
+          "meaning_en": "a vice that strips the soul of its most precious ornaments — honour, liberty, wisdom"
+        },
+        {
+          "what": "Крокодил, на котором она восседает",
+          "meaning": "иероглиф безудержного невоздержания у древних",
+          "what_en": "Crocodile on which she sits",
+          "meaning_en": "a hieroglyph among the ancients for utterly unbridled incontinence"
+        },
+        {
+          "what": "Куропатка, которую она ласкает",
+          "meaning": "ещё один символ разнузданной похоти",
+          "what_en": "Partridge she caresses",
+          "meaning_en": "another symbol of unbridled lust"
+        }
+      ],
+      "text_ru": [
+        "Эмблема Вожделения видна здесь в образе почти обнажённой женщины, чьи волосы искусно заплетены, и которая сидит на крокодиле, держа в одной руке куропатку, которую она ласкает. Она изображена обнажённой, оттого что этому пороку свойственно лишать",
+        "не только тело земных благ, но и душу её драгоценнейших украшений — таких как честь, свобода, благоразумие, мудрость и прочих даров, которые слепая страсть заставляет её утратить полностью. Добавлю, что крокодил, на котором она восседает, и куропатка, которую она приручает, подходят ей неплохо, поскольку эти животные у древних всегда служили иероглифическими фигурами совершенно безудержного невоздержания."
+      ],
+      "text_fr": [
+        "L'embleme de la Concupiscence se voit icy sous la figure d'vne femme presque nuë, dont les cheveux sont tressez avec art, & qui est assise sur vn crocodile, tenant d'vne main vne perdrix qu'elle caresse. Elle est peinte nuë, dautant que c'est le propre de ce vice de ne dépouiller",
+        "pas seulement le corps des biens de fortune, mais encore l'ame de ses plus precieux ornemens, tels que sont l'honneur, la liberté, la prudence, la sagesse, & ainsi des autres dons qu'vne passion aveugle luy fait perdre entierement. J'obmets que le crocodile sur qui elle est montée, & la perdrix qu'elle amadouë, ne luy conviennent pas mal, parce que ces animaux ont toûjours esté chez les anciens des figures hieroglifiques d'vne incontinence tout à fait débordée."
+      ],
       "en": "Concupiscence",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-187-1.jpg",
+        "p2-187-2.jpg"
+      ]
     },
     {
       "id": "p2-188",
@@ -16782,12 +16813,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-188.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Нагота и крылья",
+          "meaning": "открытая всем страсть, не знающая границ",
+          "what_en": "Nakedness and wings",
+          "meaning_en": "a passion open to all, knowing no bounds"
+        },
+        {
+          "what": "Завязанные глаза",
+          "meaning": "отсутствие света разума в её действиях",
+          "what_en": "Bandaged eyes",
+          "meaning_en": "the absence of reason's light in her actions"
+        }
+      ],
+      "text_ru": [
+        "Алчность, или Вожделение, опасная страсть, выходящая за пределы разума, изображена обнажённой, с крыльями и завязанными глазами, дабы показать, что ей свойственно обнажать перед всеми свои собственные пороки; гнаться за ложными вещами или теми, что имеют лишь видимость блага, и никогда не пользоваться в своих действиях светом разума."
+      ],
+      "text_fr": [
+        "La Cupidité, ou la Convoitise, appetit dangereux, & qui s'emporte hors des bornes de la raison, est peinte nuë, avec des aisles, & les yeux bandez, pour montrer que c'est son ordinaire de découvrir devant tout le monde ses propres defauts; de courir aprés les choses fausses, ou qui n'ont qu'vne simple apparence de bien, & de ne se servir jamais en ce qu'elle fait, de la lumiere de l'entendement."
+      ],
       "en": "Cupidity",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-188-1.jpg",
+        "p2-188-2.jpg"
+      ]
     },
     {
       "id": "p2-189",
@@ -16800,12 +16854,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-189.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Взъерошенные волосы, оканчивающиеся змеями",
+          "meaning": "жестокие замыслы, которые она порождает",
+          "what_en": "Bristling hair ending in snakes",
+          "meaning_en": "the cruel designs she conceives and engenders"
+        },
+        {
+          "what": "Пылающий факел (как у Прозерпины)",
+          "meaning": "раздоры, разжигаемые в королевствах",
+          "what_en": "Blazing torch (like Proserpine's)",
+          "meaning_en": "the strife she kindles in kingdoms"
+        },
+        {
+          "what": "Три свитка с судейскими терминами",
+          "meaning": "тяжбы и опустошения, причиняемые семьям",
+          "what_en": "Three scrolls bearing legal terms",
+          "meaning_en": "the lawsuits and ruin she causes among families"
+        }
+      ],
+      "text_ru": [
+        "Вот самая ужасная и самая пагубная из всех фурий. Это Раздор, с взъерошенными волосами, оканчивающимися змеями. В её правой руке виден пылающий факел, примерно такой же, какой дают Прозерпине; а в левой она держит три различных свитка, на которых читаются некоторые судейские термины. Через змей, которых она несёт, следует понимать жестокие замыслы, которые она вынашивает и порождает; через её факел — раздоры, которые она разжигает в Королевствах; а через свиток в её руках — различные тяжбы и опустошения, которые она причиняет семьям."
+      ],
+      "text_fr": [
+        "Voicy la plus effroyable & la plus pernicieuse de toutes les furies. C'est la Discorde, avec ses cheveux herissez, & qui aboutissent en couleuvres. En sa main droite se voit vne torche ardente, telle à peu prés que celle qu'on donne à Proserpine; & de la gauche elle tient trois divers écriteaux, où se lisent quelques termes de chicane. Par les serpens qu'elle porte, se doivent entendre les cruels desseins qu'elle conçoit & engendre; par son flambeau, les dissentions qu'elle allume dans les Royaumes; & par l'écriteau qui est dans ses mains, les divers procés, & les desolations qu'elle cause dans les familles."
+      ],
       "en": "Discord",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-189-1.jpg",
+        "p2-189-2.jpg"
+      ]
     },
     {
       "id": "p2-190",
@@ -16818,12 +16901,31 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-190.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Латинская пословица AVRIBVS LVPVM TENEO",
+          "meaning": "мучительная нерешительность — держать волка за уши, не в силах ни отпустить, ни удержать",
+          "what_en": "Latin proverb AVRIBVS LVPVM TENEO",
+          "meaning_en": "agonising indecision — holding a wolf by the ears, unable either to release or to hold on"
+        }
+      ],
+      "text_ru": [
+        "Сюжет этой эмблемы взят из латинской пословицы AVRIBVS LVPVM TENEO, то есть «Держу волка за уши»:",
+        "После долгих поисков\nСомнений, подобных моим,\nЯ оказываюсь в большом затруднении\nИ держу волка за уши."
+      ],
+      "text_fr": [
+        "Le sujet de cet emblême est tiré de ce Proverbe latin, AVRIBVS LVPVM TENEO, c'est à dire,",
+        "Aprés avoir long-temps cherché\nDes doutes aux miennes pareilles;\nJe me trouve bien empesché,\nEt tiens le loup par les oreilles."
+      ],
       "en": "Doubt",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-190-1.jpg",
+        "p2-190-2.jpg"
+      ]
     },
     {
       "id": "p2-191",
