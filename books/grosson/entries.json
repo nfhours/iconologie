@@ -10279,6 +10279,64 @@
       "findspot_fr": "place Saint-Victor",
       "findspot_ru": "площадь Сен-Виктор",
       "findspot_en": "the Place Saint-Victor"
+    },
+    {
+      "id": "pl34-1",
+      "part": 4,
+      "plate": 34,
+      "num": "1",
+      "fr": "Façade de la maison attribuée à T. Annius Milon",
+      "ru": "Фасад дома, приписываемого Титу Аннию Милону",
+      "en": "Façade of the house attributed to T. Annius Milo",
+      "page": "218",
+      "group": "XXXIV",
+      "group_fr": "Planche XXXIV",
+      "group_en": "XXXIV",
+      "group_page": "218",
+      "flag": "",
+      "type": "building",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl34-full.jpg"
+      ],
+      "plate_img": "pl34-full.jpg",
+      "bbox": [
+        46.5,
+        2.0,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. Maison située à la rue des Grands-Carmes. La tradition nous apprend qu'elle fut la demeure de T. Annius Milon, Citoyen Romain, pendant le temps de son exil, après le meurtre de Clodius. Je ne répéterai point ce que j'ai dit de cette tradition dans l'explication de la Planche XI, où j'ai fait graver séparément la statue, pour la présenter au lecteur dans des proportions plus grandes que celles du même morceau représenté sur la façade de la maison gravée dans la Planche dont il est ici question. L'antiquité de cet édifice me paroît indubitable (96). Quiconque a vu plusieurs constructions anciennes en reconnoîtra aisément le genre dans cette maison, dont j'ai récupéré la structure, en supprimant seulement les parties modernes. La porte & les fenêtres antiques sont encore marquées en entier. La distribution intérieure de la maison a été totalement changée par des ouvertures & des murs de séparation, de sorte qu'on n'y peut rien reconnoître.",
+        "La tête qui est sculptée à droite de la façade me paroît une tête d'Esclave: ce genre d'ornement étoit usité parmi les anciens. C'est ainsi que les Grecs représentoient sur leurs édifices les femmes de Carye sur des gaines, soutenant les corniches à la place des colonnes. Les peuples de Carye s'étant révoltés, les Grecs remporterent sur eux la victoire: les hommes furent tous passés au fil de l'épée, & les femmes réduites à la captivité. Pour en perpétuer la mémoire, on représenta dans les édifices publics, au lieu de colonnes, ces misérables captives chargées d'un pesant fardeau, image de leur misere (97). Ce genre de décoration prit de là le nom de Caryatides.",
+        "(96) Voyez l'explication de la Planche 11. — (97) Dictionnaire portatif des beaux arts de M. Lacombe au mot Caryatides."
+      ],
+      "text_ru": [
+        "№ 1. Дом, расположенный на улице Гран-Кармов. Предание гласит, что он был жилищем Тита Анния Милона, римского гражданина, во время его изгнания, после убийства Клодия. Я не стану повторять того, что уже сказал об этом предании в объяснении таблицы XI, где велел гравировать статую отдельно, дабы представить читателю в бо́льших пропорциях, нежели тот же предмет, изображённый на фасаде дома, гравированном на рассматриваемой здесь таблице. Древность этого здания представляется мне несомненной (96). Всякий, кто видел немало древних построек, легко узнает их род в этом доме, структуру которого я восстановил, устранив лишь более поздние части. Античные дверь и окна отмечены полностью. Внутренняя планировка дома была совершенно изменена проёмами и перегородками, так что в ней уже ничего нельзя распознать.",
+        "Голова, высеченная справа на фасаде, представляется мне головой раба: такого рода украшение было в ходу у древних. Так греки изображали на своих зданиях карийских женщин на тумбах-гермах, поддерживающих карнизы вместо колонн. Когда народы Карии восстали, греки одержали над ними победу: все мужчины были преданы мечу, а женщины обращены в плен. Дабы увековечить память об этом, в общественных зданиях вместо колонн стали изображать этих несчастных пленниц, несущих на себе тяжкий груз, — образ их бедствия (97). От этого такой род украшения получил название кариатид.",
+        "(96) См. объяснение таблицы 11. — (97) «Малый словарь изящных искусств» г-на Лакомба, слово «Кариатиды»."
+      ],
+      "text_en": [
+        "No. 1. House located on the rue des Grands-Carmes. Tradition tells us it was the dwelling of T. Annius Milo, a Roman Citizen, during the time of his exile, after the murder of Clodius. I shall not repeat what I said of this tradition in the explanation of Plate XI, where I had the statue engraved separately, to present it to the reader at a larger scale than the same piece as shown on the façade of the house engraved in the Plate here in question. The antiquity of this building seems to me beyond doubt (96). Anyone who has seen a number of ancient constructions will readily recognize the style in this house, whose structure I have recovered by removing only the modern parts. The antique door and windows are still marked in full. The interior layout of the house has been entirely altered by openings and partition walls, so that nothing of it can be made out.",
+        "The head carved to the right of the façade appears to me to be the head of a Slave: this kind of ornament was in use among the ancients. This is how the Greeks depicted, on their buildings, the women of Caria on herm-shafts, supporting the cornices in place of columns. The peoples of Caria having revolted, the Greeks won the victory over them: the men were all put to the sword, and the women reduced to captivity. To perpetuate the memory of this, public buildings came to show, in place of columns, these wretched captives bearing a heavy burden, an image of their misery (97). This kind of decoration took from this the name Caryatids.",
+        "(96) See the explanation of Plate 11. — (97) M. Lacombe's pocket Dictionnaire des beaux arts, entry Caryatides."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "rue des Grands-Carmes",
+      "findspot_ru": "улица Гран-Кармов",
+      "findspot_en": "rue des Grands-Carmes"
     }
   ]
 }
