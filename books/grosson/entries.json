@@ -7773,6 +7773,79 @@
       "findspot_fr": "territoire de Marseille",
       "findspot_ru": "земли Марселя",
       "findspot_en": "the territory of Marseille"
+    },
+    {
+      "id": "pl26-1",
+      "part": 2,
+      "plate": 26,
+      "num": "1-8",
+      "fr": "Chapiteaux et bases grotesques du cloître de Saint-Victor",
+      "ru": "Гротескные капители и базы клуатра Сен-Виктора",
+      "en": "Grotesque-style capitals and bases from the cloister of Saint-Victor",
+      "page": "174",
+      "group": "XXVI",
+      "group_fr": "Planche XXVI",
+      "group_en": "XXVI",
+      "group_page": "174",
+      "flag": "",
+      "type": "architectural fragment",
+      "material_fr": "pierre du Cap Couronne; marbre blanc (bases)",
+      "material_ru": "камень Кап-Куронн; белый мрамор (базы)",
+      "material_en": "Cap Couronne stone; white marble (bases)",
+      "img": [
+        "pl26-full.jpg"
+      ],
+      "plate_img": "pl26-full.jpg",
+      "bbox": [
+        2.0,
+        2.0,
+        96.0,
+        96.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "J'Ai avancé dans le discours préliminaire que l'Abbaye de St. Victor avoit été réédifiée plusieurs fois, aux dépens des Edifices profanes, mutilés à cet effet, ou de leurs vestiges épars en divers endroits de la Ville. Les fragmens d'Architecture renfermés dans cette Planche, sont un témoignage certain en faveur de cette opinion. La quantité de chapiteaux & de bases de diverses proportions, qui décorent le Péristille nommé le Cloître, est aussi nombreuse que ces objets sont bizarres: je me suis décidé à ne faire graver que ceux qui m'ont paru les mieux traités, ou les plus singuliers, relativement au goût; ces compositions capricieuses feroient douter de leur antiquité, si nous n'en trouvions de tout aussi ridicules dans les divers ouvrages des Antiquaires. Le seul Recueil des Antiquités d'Herculaneum, peut nous convaincre que, si les anciens suivoient les règles des arts, ils s'en écartoient aussi quelquefois (75), chaque siècle a vu éclorre des productions où les Artistes n'ont consulté que leur caprice. Notre Nation, de nos jours même, au milieu des chefs-d'œuvre des Bouchardon, des Pigalle, des Coustou, des Saly, des Vanloo, des Pierre, & de tant d'autres célèbres Maîtres, étale des compositions dans le genre nommé le Barroque, auquel on pourroit appliquer avec raison, le passage d'Horace.",
+        "Humano capiti cervicem pictor equinam / Jungere si velit, & varias inducere plumas; / Undique collatis membris, ut turpiter atrum / Definit in piscem mulier formosa superne; / Spectatum admissi risum teneatis amici (76).",
+        "Si les productions de ce genre passent à la postérité, elles jetteront dans le doute ceux qui les compareront aux célèbres morceaux dûs au même siécle. Tous les chapiteaux du Cloître de St. Victor, malgré leur singularité, conservent néanmoins des vestiges de l'ordre Ionique, & encore plus du Corinthien; ce qui constitue l'ordre composite mis quelquefois en usage par les Marseillois. Les chapiteaux de la Colonne de l'Eglise inférieure de St. Victor, ceux des six Colonnes de l'Eglise Cathédrale, tous reconnus antiques, sont des preuves certaines que l'ordre Corinthien étoit le plus en vigueur dans Marseille (77), les cintres de la Chapelle dédiée à St. Lazare, dans la Cathédrale, recuperés des vestiges du Temple de Diane, viennent également à l'appui de cette vérité.",
+        "Tous les éclarcissemens qu'on peut tirer des six chapiteaux contenus dans cette Planche, depuis le No. 1 jusqu'à No. 6, se réduisent aux reflexions précédentes, ils ne sont susceptibles d'aucune explication, ils sont tous en pierre de la carriere blanche du Cap couronne; c'est de cet endroit que les Marseillois ont de tous les temps extrait les pierres pour leurs édifices.",
+        "Les deux bases No. 7 & 8, sont en marbre blanc, ce sont les seules de bon goût, parmi le grand nombre qu'on trouve dans le peristille de S. Victor, elles donnent une assez bonne idée de l'intelligence dans le choix des ornemens, de la part des Artistes qui les ont travaillées.",
+        "(75) C'est ce qui a donné lieu au genre connu sous le nom de grotesque. Mr. Lacombe dans son Dictionnaire des beaux Arts définit ce genre, des ornemens de pur caprice, variés, de figures d'animaux, de feuillages, de fleurs, de fruits &c. D'après cette définition, on reconnoît aisément que nos chapiteaux sont dans le genre des grotesques.",
+        "(76) Horatius, de arte Poetica.",
+        "(77) Un Citoyen aussi éclairé qu'estimable, dans une dissertation dont il fit part au Public en 1771, a conseillé à ceux qui s'occupoient à des recherches historiques sur Marseille, d'aller recuperer en Ionie, les costumes des Marseillois. «Leur Ville étoit une Colonie de Phocéens; elle devoit avoir conservé les usages de la Métropole, & puisque Marseille ne possède aucun monument, qui puisse nous conduire à la connoissance de la vérité, réclamons les costumes ioniens, c'est un bien de famille qu'on peut récupérer sans injustice». Tel a été le raisonnement de ce Citoyen, auquel nous osons opposer ce Recueil; quoique peu important, il justifie notre Ville de la disette des Monumens; & quant au costume ionien, rien ne prouve qu'il eût été seul adopté par nos pères: tout prouve au contraire; que le costume Corinthien étoit plus en usage chez eux. Ainsi nos Concitoyens ont sous leurs yeux des titres qu'ils iroient vainement chercher ailleurs."
+      ],
+      "text_ru": [
+        "В предварительном рассуждении я уже отмечал, что аббатство Сен-Виктор неоднократно перестраивалось за счёт светских зданий, намеренно разрушавшихся для этой цели, либо их остатков, разбросанных в различных местах города. Архитектурные фрагменты, собранные на этой таблице, служат несомненным свидетельством в пользу этого мнения. Количество капителей и баз различных пропорций, украшающих перистиль, именуемый клуатром, столь же велико, сколь причудливы сами эти предметы: я решился гравировать лишь те, что показались мне наиболее искусно исполненными либо наиболее своеобразными по вкусу; эти прихотливые сочетания заставили бы усомниться в их древности, если бы мы не находили столь же нелепых образцов в различных трудах антикваров. Одного лишь «Собрания древностей Геркуланума» достаточно, чтобы убедить нас, что, хотя древние и следовали правилам искусств, они порой от них и отступали (75); каждый век видел рождение произведений, в которых художники руководствовались лишь собственной прихотью. Наш народ, даже в наши дни, посреди шедевров Бушардона, Пигаля, Кусту, Сали, Ванлоо, Пьера и стольких других прославленных мастеров, являет сочинения в роде, именуемом «барокко», к которому с полным основанием можно было бы применить известное место у Горация.",
+        "«Если бы живописец пожелал приставить к человеческой голове конскую шею и покрыть разными перьями члены, отовсюду собранные, так что безобразно оканчивалась бы рыбьим хвостом прекрасная сверху женщина, — удержали бы вы, друзья, допущенные взглянуть на это, смех?» (76).",
+        "Если произведения подобного рода дойдут до потомства, они повергнут в сомнение тех, кто станет сравнивать их со знаменитыми творениями того же века. Все капители клуатра Сен-Виктора, несмотря на свою причудливость, сохраняют тем не менее следы ионического ордера, и ещё более — коринфского; это и составляет композитный ордер, порою применявшийся марсельцами. Капители колонны нижней церкви Сен-Виктора, капители шести колонн кафедрального собора, все признанные античными, служат несомненным доказательством того, что коринфский ордер был наиболее распространён в Марселе (77); арочные дуги часовни, посвящённой Св. Лазарю, в кафедральном соборе, взятые из остатков храма Дианы, также подкрепляют эту истину.",
+        "Все разъяснения, какие можно извлечь из шести капителей, помещённых на этой таблице, от № 1 до № 6, сводятся к вышеизложенным рассуждениям; они не допускают никакого иного объяснения; все они выполнены из белого камня каменоломни Кап-Куронн; именно оттуда марсельцы во все времена добывали камень для своих зданий.",
+        "Две базы, № 7 и 8, выполнены из белого мрамора; это единственные образцы хорошего вкуса среди того великого множества, что находится в перистиле Сен-Виктора; они дают довольно верное представление об искусности в выборе украшений со стороны мастеров, их исполнивших.",
+        "(75) Именно это и дало начало роду, известному под названием «гротеск». Г-н Лакомб в своём «Словаре изящных искусств» определяет этот род как орнаменты чистейшей прихоти, разнообразные, составленные из фигур животных, листвы, цветов, плодов и т. д. Согласно этому определению, легко узнать, что наши капители принадлежат к роду гротесков.",
+        "(76) Гораций, «Наука поэзии».",
+        "(77) Один гражданин, столь же просвещённый, сколь и достойный уважения, в рассуждении, обнародованном им в 1771 году, советовал тем, кто занимается историческими изысканиями о Марселе, отправиться добывать в Ионии костюмы марсельцев. «Их город был колонией фокейцев; он должен был сохранить обычаи метрополии, а поскольку Марсель не обладает ни одним памятником, способным привести нас к познанию истины, потребуем ионийские костюмы — это семейное достояние, которое можно вернуть себе, не совершая несправедливости». Таково было рассуждение этого гражданина, которому мы осмеливаемся противопоставить настоящее Собрание; сколь бы малозначительным оно ни было, оно оправдывает наш город от упрёка в скудости памятников; что же касается ионийского костюма, ничто не доказывает, что он один был принят нашими предками: напротив, всё доказывает, что у них более был в ходу коринфский костюм. Так наши сограждане имеют перед глазами свидетельства, которые они напрасно стали бы искать где-либо ещё."
+      ],
+      "text_en": [
+        "I stated in the Preliminary Discourse that the Abbey of St. Victor had been rebuilt several times at the expense of secular Buildings, mutilated for that purpose, or of their remains scattered about various parts of the City. The architectural fragments gathered on this Plate are certain evidence in favor of this opinion. The quantity of capitals and bases of various proportions decorating the peristyle called the Cloister is as great as these objects are bizarre: I have decided to have engraved only those that seemed to me the best executed, or the most singular in taste; these fanciful compositions would make one doubt their antiquity, were it not that equally ridiculous examples are found in various works by Antiquarians. The Recueil des Antiquités d'Herculaneum alone can convince us that, while the ancients followed the rules of the arts, they also sometimes departed from them (75); every century has seen productions bloom in which Artists consulted only their own fancy. Our Nation, even in our own day, amid the masterpieces of Bouchardon, Pigalle, Coustou, Saly, Vanloo, Pierre, and so many other celebrated Masters, displays compositions in the style called the Baroque, to which Horace's passage could rightly be applied.",
+        "\"If a painter chose to join a horse's neck to a human head, and lay feathers of every kind over limbs gathered from here and there, so that what was a lovely woman above ended hideously in a black fish's tail, could you, my friends, admitted to view such a sight, hold back your laughter?\" (76)",
+        "If productions of this kind reach posterity, they will cast doubt in those who compare them to the celebrated pieces owed to the same century. All the capitals of St. Victor's Cloister, for all their oddity, nonetheless retain traces of the Ionic order, and even more of the Corinthian; which makes up the composite order sometimes used by the people of Marseille. The capitals of the column in St. Victor's lower Church, those of the six Columns of the Cathedral Church, all acknowledged as ancient, are certain proof that the Corinthian order was most prevalent at Marseille (77); the arch-bands of the Chapel dedicated to St. Lazarus in the Cathedral, recovered from the remains of the Temple of Diana, likewise support this truth.",
+        "All the clarifications that can be drawn from the six capitals shown on this Plate, from no. 1 to no. 6, reduce to the preceding reflections; they admit of no further explanation; they are all of the white stone from the Cap Couronne quarry; it is from this spot that the people of Marseille have at all times quarried stone for their buildings.",
+        "The two bases, nos. 7 & 8, are of white marble; they are the only ones of good taste among the great number found in St. Victor's peristyle; they give a fairly good idea of the discernment shown in the choice of ornament by the Artists who worked them.",
+        "(75) This is what gave rise to the style known as the grotesque. M. Lacombe, in his Dictionnaire des beaux Arts, defines this style as ornaments of pure fancy, varied, made of animal figures, foliage, flowers, fruits, etc. By this definition, our capitals are readily recognized as being in the grotesque style.",
+        "(76) Horace, Ars Poetica.",
+        "(77) A Citizen as enlightened as he is esteemed, in a dissertation he made public in 1771, advised those engaged in historical research on Marseille to go recover, in Ionia, the costumes of the Marseillais. \"Their City was a Colony of Phocaeans; it must have preserved the customs of the Mother City, and since Marseille possesses no monument that can lead us to the knowledge of the truth, let us claim the Ionian costumes — a family possession that may be reclaimed without injustice.\" Such was this Citizen's reasoning, to which we dare oppose this Collection; however modest, it clears our City of the charge of lacking monuments; and as for the Ionian costume, nothing proves it was the only one adopted by our forefathers: everything proves, on the contrary, that the Corinthian costume was more in use among them. Thus our fellow-citizens have before their very eyes the proofs they would search for in vain elsewhere."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "péristyle (cloître) de l'abbaye de Saint-Victor",
+      "findspot_ru": "перистиль (клуатр) аббатства Сен-Виктор",
+      "findspot_en": "the peristyle (cloister) of the Abbey of Saint-Victor"
     }
   ]
 }
