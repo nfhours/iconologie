@@ -18155,12 +18155,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-215.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Уродливая внешность",
+          "meaning": "деяния Злобы всегда безобразны и ненавистны добрым людям",
+          "what_en": "Ugly appearance",
+          "meaning_en": "the deeds of Malice are always hideous and hateful to good people"
+        },
+        {
+          "what": "Распахнутые крылья",
+          "meaning": "вечная готовность творить зло",
+          "what_en": "Open wings",
+          "meaning_en": "an ever-ready readiness to do harm"
+        },
+        {
+          "what": "Перепёлка в левой руке",
+          "meaning": "уподобление птице, мутящей воду, чтобы навредить другим",
+          "what_en": "Quail in her left hand",
+          "meaning_en": "a likeness to the bird that muddies the water to harm others"
+        }
+      ],
+      "text_ru": [
+        "Эта некрасивая женщина с распахнутыми крыльями, несущая перепёлку в левой руке, — эмблема Злобы. Её уродство предупреждает нас, что её деяния всегда безобразны и ненавистны добрым людям; её распахнутые крылья — что она всегда готова творить зло;",
+        "а перепёлка, которую она держит, — что, подражая этой птице, которая, по мнению натуралистов, мутит воду, напившись, дабы другие птицы не могли из неё пить, — так и злобный человек пускает в ход всевозможные ухищрения, дабы попытаться навредить ближнему."
+      ],
+      "text_fr": [
+        "Cette femme laide, ayant les aisles ouvertes, & qui porte vne caille de la main gauche, est l'emblême de la Malice. Sa laideur nous avertit que ses actions sont en tout temps difformes & odieuses aux gens de bien; ses aisles ouvertes, qu'elle est toûjours prompte à faire du mal;",
+        "& la caille qu'elle tient, qu'à l'imitation de cet oiseau, qui selon les Naturalistes, trouble l'eau quand il a beu, afin que les autres oiseaux n'en puissent boire: ainsi l'homme malin vse de toutes les artifices imaginables pour essayer de nuire au prochain."
+      ],
       "en": "Malignity",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-215-1.jpg",
+        "p2-215-2.jpg"
+      ]
     },
     {
       "id": "p2-216",
@@ -18173,12 +18204,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-216.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Два зажжённых факела в руках",
+          "meaning": "Злоязычник как истинный поджигатель, разжигающий тайную вражду до публичного скандала",
+          "what_en": "Two lit torches in her hands",
+          "meaning_en": "the Slanderer as a true firebrand, fanning secret hatred into public scandal"
+        }
+      ],
+      "text_ru": [
+        "Её изображают с двумя зажжёнными факелами, которые она держит в руках, дабы дать понять, что Злоязычник — истинный поджигатель, и что, разжигая тайную вражду, он становится причиной того, что её последствия становятся явными и столь же опасными, как у пылающего костра, когда он охватывает какой-либо горючий материал, после того как долго таился под пеплом."
+      ],
+      "text_fr": [
+        "On la peint avec deux flambeaux allumez, qu'elle tient en ses mains, pour donner à connoistre que le Medisant est vn vray boutefeu, & que fomentant des haines secretes, il est cause que les effets en deviennent publics, & aussi dangereux que ceux d'vn brazier ardant, lorsqu'il s'attache à quelque matiere combustible, aprés avoir esté long-temps caché sous la cendre."
+      ],
       "en": "Slander",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-216-1.jpg",
+        "p2-216-2.jpg"
+      ]
     },
     {
       "id": "p2-217",
@@ -18191,12 +18239,49 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-217.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Уродливая внешность",
+          "meaning": "нет ничего безобразнее обиды, причинённой вопреки справедливости",
+          "what_en": "Ugly appearance",
+          "meaning_en": "nothing is more hideous than an offence committed against equity"
+        },
+        {
+          "what": "Платье, усеянное языками и бритвами",
+          "meaning": "вред ближнему словом и делом",
+          "what_en": "Robe strewn with tongues and razors",
+          "meaning_en": "harm done to others by word as well as by deed"
+        },
+        {
+          "what": "Выстрел из мушкета",
+          "meaning": "действие, причиняющее обиду",
+          "what_en": "Firing a musket",
+          "meaning_en": "the act that inflicts offence"
+        },
+        {
+          "what": "Пёс, пострадавший от нападения на дикобраза",
+          "meaning": "тот, кто мнит ранить другого, ранит самого себя",
+          "what_en": "Dog hurt from attacking a porcupine",
+          "meaning_en": "he who thinks to wound another wounds himself"
+        }
+      ],
+      "text_ru": [
+        "Мне кажется, она здесь довольно хорошо являет себя в облике некрасивой женщины, чьё платье сплошь усеяно языками и бритвами; кроме того, она в действии выстрела из мушкета, а у её ног виден пёс, атакующий дикобраза. Её уродством показано, что нет ничего столь безобразного, как обида, причинённая вопреки справедливости: языками и бритвами — что вредят ближнему не только делом, но и словом: а псом, пострадавшим от нападения на дикобраза,",
+        "«Что тот, кто мнит ранить другого, ранит самого себя»."
+      ],
+      "text_fr": [
+        "Il me semble qu'elle se découvre assez bien icy en la personne d'vne laide femme, la robe de laquelle est toute semée de langues & de razoirs; outre qu'elle est en action de tirer vn mousquet, & qu'à ses pieds se voit vn chien qui attaque vn porc-épic. Par sa laideur il est démontré qu'il n'est rien de si difforme qu'vne offense faite contre l'équité: par les langues & les razoirs, qu'on nuit à autruy non seulement par l'action, mais par la parole encore: & par le chien qui se trouve mal d'avoir attaqué le porc-épic,",
+        "Que tel pense blesser, qui se blesse soy-mesme."
+      ],
       "en": "Offense",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-217-1.jpg",
+        "p2-217-2.jpg"
+      ]
     },
     {
       "id": "p2-218",
@@ -18209,12 +18294,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-218.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Дерзкий, неопределённый облик (ни красивая, ни безобразная)",
+          "meaning": "готовность внезапно увлечься любым домыслом",
+          "what_en": "Bold, ambiguous appearance (neither beautiful nor ugly)",
+          "meaning_en": "a readiness to be suddenly swept up by any notion"
+        },
+        {
+          "what": "Крылья на спине и на обеих руках",
+          "meaning": "быстрота и переменчивость суждения (по Гиппократу)",
+          "what_en": "Wings on her back and both hands",
+          "meaning_en": "the swiftness and fickleness of opinion (per Hippocrates)"
+        }
+      ],
+      "text_ru": [
+        "Она представлена в образе довольно хорошо одетой женщины, не красивой и не безобразной, но дерзкой на вид и готовой внезапно увлечься всем, что она себе вообразит; вот почему, по Гиппократу, она изображена так, как вы видите здесь, — с крыльями на спине и на обеих руках."
+      ],
+      "text_fr": [
+        "Elle est representée par vne femme assez bien vestuë, qui n'est ny belle ny laide; mais qui paroist audacieuse à sa mine, & preste à s'emporter soudainement à tout ce qu'elle s'imagine; voila pourquoy, selon Hippocrate, elle est peinte comme vous voyez icy, avec des aisles au dos & aux deux mains."
+      ],
       "en": "Opinion",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-218-1.jpg",
+        "p2-218-2.jpg"
+      ]
     },
     {
       "id": "p2-219",
