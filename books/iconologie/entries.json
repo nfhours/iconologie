@@ -13518,12 +13518,54 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-114-1.jpg",
+        "p2-114-2.jpg",
+        "p2-114-3.jpg",
+        "p2-114-4.jpg",
+        "p2-114-5.jpg",
+        "p2-114-6.jpg",
+        "p2-114-7.jpg",
+        "p2-114-8.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Составная статья о Восьми Заповедях Блаженства, представленных восемью отдельными медальонами: I. Нищета духом (полуобнажённое дитя, взирающее на Небо); II. Кротость (дева, ласкающая агнца); III. Плач (коленопреклонённая дева со слезами); IV. Алчущие правды (Правосудие с пламенеющим мечом и весами против Диавола); V. Чистота сердца (женщина со слезами над сердцем); VI. Милосердие (женщина, делящая хлеб с детьми); VII. Миротворчество (женщина с оливковой ветвью, попирающая оружие); VIII. Гонимые за правду (женщина с крестом, скорбящая над убитыми детьми)",
+          "meaning": "Каждый медальон сопровождён латинской цитатой из Евангелия от Матфея (Нагорная проповедь) либо иным изречением (Соломон, св. Августин), иллюстрирующим соответствующую Заповедь Блаженства; вместе они составляют полный цикл восьми евангельских блаженств",
+          "what_en": "A composite entry on the Eight Beatitudes, represented by eight separate roundels: I. Poverty of Spirit (a half-naked child gazing at Heaven); II. Meekness (a maiden caressing a lamb); III. Mourning (a kneeling, weeping maiden); IV. Hungering for Righteousness (Justice with a flaming sword and scales against the Devil); V. Purity of Heart (a woman weeping over a heart); VI. Mercy (a woman sharing bread with children); VII. Peacemaking (a woman with an olive branch, trampling weapons); VIII. Persecution for Righteousness (a woman with a cross, mourning slain children)",
+          "meaning_en": "Each roundel bears a Latin quotation from the Gospel of Matthew (the Sermon on the Mount) or another saying (Solomon, St. Augustine) illustrating the corresponding Beatitude; together they form the complete cycle of the eight Gospel beatitudes"
+        }
+      ],
+      "text_ru": [
+        "I. ПЕРВОЕ из этих Блаженств являет нам полуобнажённое дитя, или по крайней мере с весьма коротким одеянием, взирающее на Небо. Его малый возраст являет его невинность, восприимчивую к Вере и добрым наставлениям, влагаемым в его душу; его короткое одеяние — малое значение, придаваемое почестям и мирским благам, кои Нищие духом обычно презирают; а взор его, обращённый к Небу, — природную склонность к месту своего происхождения, откуда и должно прийти его главное блаженство.",
+        "II. КРОТОСТЬ незлобивых душ представлена этой девой, словно ласкающей агнца, а над нею читаются слова из Соломона: MANSVETI HÆREDITABVNT TERRAM (кроткие наследуют землю). Агнец, в Священном Писании символ чистой, незлобивой души, напоминает нам не питать к ближнему никакой горечи или озлобления; а слова Соломона — что в награду за эту кротость духа ко всякому мы непременно унаследуем не землю тленную и полную трудов, но ту, где вечный покой, и которую Сам Бог нам обещал.",
+        "III. ЭТА преклонившая колена дева, со сложенными руками, проливающая слёзы, тайно предостерегает нас, что блаженны плачущие о своих и чужих прегрешениях, ибо они утешатся; что истинно, как учат слова этой эмблемы, заимствованные у святого Августина, что за нашей скорбью в этой жизни должна последовать нескончаемая радость в иной.",
+        "IV. ПРАВОСУДИЕ, держащее здесь в одной руке пламенеющий меч, а в другой — весы, которые, кажется, желает у него отнять Диавол, показывает, что истинно алчущие и жаждущие этой Добродетели исполняются благами; и что пламенное усердие, кое они к ней питают, служит им подобно непобедимому мечу, коим они истребляют порок, представленный Диаволом.",
+        "V. ЭТА опечаленная женщина, проливающая здесь слёзы над сердцем, что держит в руке, являет чистоту, принимаемую в Священном Писании за Невинность: при этом надлежит заметить, что эта чистота сердца состоит в том, чтобы не осквернить его никаким пятном порока. Награда за это, конечно, не могла бы быть больше, нежели она есть, ибо она являет нам в Боге всё, что может сделать нас счастливыми и довольными.",
+        "VI. МИЛОСЕРДИЕ, отзывчивое к страданиям других, здесь представлено милосердной женщиной, делящей между двумя малыми детьми только что преломленный ею хлеб. Что учит нас, что среди стольких действий, производимых этой добродетелью, она ставит себе главной целью давать есть и пить нуждающимся; чего Бог непрестанно заповедует нам, и что одно способно умиротворить Его гнев, как замечает святой Иероним.",
+        "VII. ТА, что вы видите здесь держащей в одной руке оливковую ветвь и попирающей стопами луки, щиты и мечи, не может быть принята иначе, как за Мир, никогда не столь достохвальный, как когда обретается собственной заслугой и собственной добродетелью. Дабы истинно им наслаждаться, должно воевать не столько с врагами тела, сколько с врагами души, каковы страсти и пороки; ибо те, кто так поступает, причисляются к сынам Божиим и становятся причастниками вечного блаженства.",
+        "VIII. ПЛАЧЕВНОЕ состояние этой женщины, держащей в руке крест и видящей убитыми у своих ног собственных детей, служит нам примером чувствительнейших скорбей этой жизни. Крест — символ гонений, претерпеваемых за Веру, что есть благороднейшая часть Правосудия. К чему ободряет нас Апостол, говоря: что если мы причастны страданиям, то будем причастны и утешениям."
+      ],
+      "text_fr": [
+        "I. LA premiere de ces Beatitudes nous est figurée par vn enfant à demy nud, ou du moins dont la robe est fort courte, lequel regarde le Ciel. Son bas âge montre son innocence, susceptible de la Foy & des bonnes instructions qui luy sont mises dans l'ame; sa robe courte, le peu d'estat qu'il fait des honneurs, & des biens du monde, que les Pauvres d'esprit tiennent ordinairement à mépris; & sa veuë tournée au Ciel, l'inclination naturelle qu'il a vers le lieu de son origine, d'où luy doit venir sa principale felicité.",
+        "II. LA douceur des esprits debonnaires est representée par cette fille, qui semble caresser vn agneau, & au dessus de laquelle se lisent ces mots tirez de Salomon, MANSVETI HÆREDITABVNT TERRAM. L'agneau, qui dans les saintes Lettres est le symbole d'vne ame pure, & qui n'a point de malice, nous fait souvenir de n'avoir contre nostre prochain aucune sorte d'aigreur ny d'amertume; & les paroles de Salomon, que pour recompense de cette douceur d'esprit envers vn chacun, nous heriterons asseurément, non pas d'vne terre perissable, & pleine de travaux, mais de celle où est le repos eternel, & que Dieu nous a promise luy-mesme.",
+        "III. CETTE fille à genoux, tenant les mains jointes, & en action de répandre des larmes, nous avertit secretement, que Bienheureux sont ceux qui pleurent leurs propres offenses, & celle du prochain, parce qu'ils seront consolez; estant veritable, comme l'enseignent les paroles de cet emblême, tirées de S. Augustin, Que de nostre deuil en cette vie se doit ensuivre vne joye perdurable en l'autre.",
+        "IV. LA Justice tenant icy d'vne main vne epée flamboyante, & de l'autre vne balance, qu'il semble que le Diable luy vueille oster, montre que ceux qui ont veritablement & faim & soif de cette Vertu, sont comblez de biens; & que l'ardent zele qu'ils ont pour elle, leur est comme vne epée invincible, par le moyen de laquelle ils exterminent le vice, representé par le Diable.",
+        "V. CETTE femme desolée, à qui vous voyez icy répandre des larmes sur vn cœur qu'elle tient à la main, represente la pureté, qui dans les saintes Lettres est prise pour l'Innocence: Où il est à remarquer que cette netteté de cœur consiste à ne l'avoir souillé d'aucune tache de vice. De quoy certes la recompense ne sçauroit estre plus grande qu'elle est, puisqu'elle nous fait voir en Dieu tout ce qui nous peut rendre heureux & contens.",
+        "VI. LA Misericorde, qui se rend sensible aux afflictions d'autruy, est icy representée par vne femme charitable, & qui partage à deux petits enfans vn pain qu'elle vient de rompre. Ce qui nous apprend qu'entre tant d'effets que produit cette vertu, elle se propose pour but principal, de donner à manger & à boire à ceux qui en ont besoin; chose que Dieu nous recommande à tout moment, & qui est capable elle seule d'appaiser son courroux, comme le remarque S. Hierosme.",
+        "VII. CELLE à qui vous voyez icy tenir d'vne main vn rameau d'olivier, & fouler aux pieds des arcs, des boucliers & des epées, ne se peut mieux prendre que pour la Paix, qui n'est jamais si recommandable que lors qu'on se l'acquiert par son merite & par sa propre vertu. Pour en jouïr veritablement, il ne faut pas tant faire la guerre aux ennemis du corps qu'à ceux de l'ame, qui sont les passions & les vices; car ceux qui en vsent ainsi, sont mis au nombre des enfans de Dieu, & faits participans de la beatitude eternelle.",
+        "VIII. L'ETAT deplorable de cette femme, qui tient vne croix à la main, & qui voit tuez à ses pieds ses propres enfans, nous est vn exemple des plus sensibles afflictions de cette vie. La croix est le symbole des persecutions que l'on souffre pour la Religion, ce qui est la plus noble partie de la Justice. A quoy nous encourage l'Apostre, quand il dit, Que si nous avons part aux souffrances, nous l'aurons aussi aux consolations."
+      ],
       "en": "The Eight Beatitudes",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-114-1.jpg",
+        "p2-114-2.jpg",
+        "p2-114-3.jpg",
+        "p2-114-4.jpg",
+        "p2-114-5.jpg",
+        "p2-114-6.jpg"
+      ]
     },
     {
       "id": "p2-115",
