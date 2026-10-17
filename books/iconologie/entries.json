@@ -17122,12 +17122,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-195.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Щит в правой руке",
+          "meaning": "военная вооружённость, сопутствующая засаде",
+          "what_en": "Shield in her right hand",
+          "meaning_en": "the martial readiness that accompanies an ambush"
+        },
+        {
+          "what": "Сеть в левой руке",
+          "meaning": "ловушка, расставляемая другим (символ у древних)",
+          "what_en": "Net in her left hand",
+          "meaning_en": "a trap set for others (a symbol among the ancients)"
+        }
+      ],
+      "text_ru": [
+        "Её эмблема — образ вооружённой женщины, которая правой рукой держит щит, а в левой несёт сеть, каковую древние всегда принимали за символ ловушек, расставляемых другим. К этому относится то, что мы читаем о Питтаке, одном из семи Мудрецов",
+        "Греции, который, вступая в бой с Фриноном, предводителем афинян, спрятал под своим щитом сети и набросил их на него, чтобы спутать его, как в действительности он и одолел его этой хитростью."
+      ],
+      "text_fr": [
+        "Son emblême est sous la figure d'vne femme armée, qui de la main droite soûtient vn bouclier, & porte en la gauche vn filet que les anciens ont toûjours pris pour vn symbole des pieges que l'on tend aux autres. A quoy se rapporte ce que nous lisons de Pyttachus, l'vn des sept Sages",
+        "de Grece, lequel ayant à combatre Frinon capitaine des Atheniens, cacha sous son escu des filets, qu'il luy jetta dessus, pour l'embarasser, comme en effet il en vint à bout par cette ruse."
+      ],
       "en": "Ambush",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-195-1.jpg",
+        "p2-195-2.jpg"
+      ]
     },
     {
       "id": "p2-196",
@@ -17140,12 +17165,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-196.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Молодость облика",
+          "meaning": "горячая кровь юности, не ведающая страха",
+          "what_en": "Her youthful appearance",
+          "meaning_en": "the hot blood of youth, fearless in any undertaking"
+        },
+        {
+          "what": "Полное вооружение",
+          "meaning": "оружие делает человека дерзким и неистовым",
+          "what_en": "Full armour",
+          "meaning_en": "weapons generally make those who bear them bold and violent"
+        },
+        {
+          "what": "Дубовый посох",
+          "meaning": "неукротимый нрав",
+          "what_en": "Oaken staff",
+          "meaning_en": "an untameable nature"
+        },
+        {
+          "what": "Рука на голове яростного тигра",
+          "meaning": "свирепость, не поддающаяся приручению",
+          "what_en": "Hand resting on the head of a raging tiger",
+          "meaning_en": "a savagery that cannot be tamed"
+        }
+      ],
+      "text_ru": [
+        "Вот она представлена в образе юной дамы, полной пыла и вооружённой с головы до ног, держащей дубовый посох в правой руке, а левую возложившей на голову яростного тигра. Она изображена молодой, потому что кровь, преобладающая в этом возрасте, делает людей пылкими в любом начинании, не ведающем страха. Её изображают вооружённой, поскольку оружие обычно делает тех, кто его носит, дерзкими и неистовыми. Что до дубового посоха, его дают ей как символ неукротимого нрава, ибо именно в этом смысле его понимают самые прославленные Поэты; и по той же причине она возлагает руку на тигра, животное свирепое, и из всех прочих наименее поддающееся приручению."
+      ],
+      "text_fr": [
+        "La voicy representée par vne jeune dame, pleine de fougue, & armée de toutes pieces, tenant vn bâton de chesne avec la main droite, & portant la gauche sur la teste d'vn tygre furieux. Elle est peinte jeune, parce que le sang qui prédomine à cet âge-là, rend les hommes ardens à tout entreprendre sans rien craindre. On la peint armée, dautant que les armes rendent ordinairement ceux qui les portent hardis & violens. Quant au bâton de chesne, on le luy donne pour symbole d'vn naturel indomptable, car c'est en ce sens que les plus celebres Poëtes le prennent; & pour cette mesme raison encore elle porte la main sur vn tygre, animal farouche, & qui est celuy de tous les autres qu'on peut le moins apprivoiser."
+      ],
       "en": "Ferocity",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-196-1.jpg",
+        "p2-196-2.jpg"
+      ]
     },
     {
       "id": "p2-197",
@@ -17158,12 +17218,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-197.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Зажжённый пучок соломы",
+          "meaning": "мнимый блеск обмана, исчезающий так же быстро, как соломенный огонь",
+          "what_en": "Lit bundle of straw",
+          "meaning_en": "the apparent brilliance of deceit, which fades as fast as a straw fire"
+        },
+        {
+          "what": "Маски и языки под платьем",
+          "meaning": "множество личин и лесть, приспособленная для завлечения жертв",
+          "what_en": "Masks and tongues beneath her robe",
+          "meaning_en": "countless disguises and flattery tailored to ensnare her victims"
+        },
+        {
+          "what": "Деревянная нога",
+          "meaning": "притворство и кривизна всех её поступков",
+          "what_en": "Wooden leg",
+          "meaning_en": "the pretence and crookedness of all her dealings"
+        }
+      ],
+      "text_ru": [
+        "Её эмблема — юная дама, держащая в руках зажжённый пучок соломы; а под её платьем, сплошь усеянным масками и языками, обнаруживается, что у неё деревянная нога. Факелом, который она несёт, показано, что весь блеск, который она являет на вид, дабы обмануть других, проходит так же быстро, как соломенный огонь; масками и языками — что она принимает всевозможные личины и приспосабливает свою лесть на сто ладов к замыслу завлечь тех, кого желает погубить; а деревянной ногой — что все её приходы и уходы притворны, что в своих поступках она никогда не идёт прямо, и что в ней всегда больше хитрости, чем естества."
+      ],
+      "text_fr": [
+        "Elle a pour emblême vne jeune dame, qui tient entre les mains vne botte de paille allumée; & sous la robe de laquelle, toute semée de masques & de langues, il se découvre qu'elle a vne jambe de bois. Par la torche qu'elle porte, il est demontré que tout l'éclat qu'elle témoigne en apparence pour tromper autruy, se passe aussi viste qu'vn feu de paille; par ses masques & ses langues, qu'elle prend toutes sortes de visages, & accommode en cent façons sa cajollerie au dessein qu'elle a d'attirer ceux qu'elle veut perdre; & par la jambe de bois, que toutes ses allées & ses venuës sont contrefaites, qu'en ses actions elle ne marche jamais droit, & qu'il y a toûjours plus d'artifice que de naturel."
+      ],
       "en": "Trickery",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-197-1.jpg",
+        "p2-197-2.jpg"
+      ]
     },
     {
       "id": "p2-198",
@@ -17176,12 +17265,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-198.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Две головы на одной шее (юная и старая)",
+          "meaning": "двуличие обмана",
+          "what_en": "Two heads on a single neck (young and old)",
+          "meaning_en": "the two-facedness of fraud"
+        },
+        {
+          "what": "Два сердца в правой руке",
+          "meaning": "предательство",
+          "what_en": "Two hearts in her right hand",
+          "meaning_en": "betrayal"
+        },
+        {
+          "what": "Маска в левой руке",
+          "meaning": "лицемерие и притворство",
+          "what_en": "Mask in her left hand",
+          "meaning_en": "hypocrisy and pretence"
+        },
+        {
+          "what": "Хвост скорпиона",
+          "meaning": "пагубный яд, который она источает",
+          "what_en": "Scorpion's tail",
+          "meaning_en": "the pernicious venom she stings with"
+        },
+        {
+          "what": "Орлиные когти вместо ног",
+          "meaning": "хищничество, нацеленное на честь и достояние других",
+          "what_en": "Eagle's talons in place of feet",
+          "meaning_en": "predation aimed at others' honour and property"
+        }
+      ],
+      "text_ru": [
+        "Вы видите её здесь с двумя головами, сросшимися на одной шее, одна из которых принадлежит юному существу, а другая — старухе. В правой руке она держит два сердца, а в левой — маску, с хвостом скорпиона и вместо ног — когтями орла. Двойное сердце означает предательство, а маска — лицемерие, которым она пользуется. Добавлю, что хвостом скорпиона обозначен пагубный яд, который она источает; а орлиными когтями — что она подобна хищной птице, не имеющей иной цели, кроме как похищать честь и достояние других."
+      ],
+      "text_fr": [
+        "Vous la voyez icy avec deux testes entées sur vn mesme col, l'vne desquelles est d'vne personne jeune, & l'autre d'vne vieille. Elle tient deux cœurs de la main droite, & de la gauche vn masque, ayant vne queuë de scorpion, & au lieu de pieds, les serres d'vn aigle. Le double cœur signifie la trahison, & le masque la dissimulation dont elle vse. J'obmets que par la queuë du scorpion est denoté le pernicieux venin qu'elle darde; & par les serres d'aigle, qu'elle est comparable à vn oiseau de proye, pour ne se proposer d'autre but que de ravir l'honneur & le bien d'autruy."
+      ],
       "en": "Fraud",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-198-1.jpg",
+        "p2-198-2.jpg"
+      ]
     },
     {
       "id": "p2-199",
