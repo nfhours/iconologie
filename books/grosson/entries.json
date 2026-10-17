@@ -10760,6 +10760,250 @@
       "findspot_fr": "quartier du Canet",
       "findspot_ru": "квартал Кане",
       "findspot_en": "the Canet quarter"
+    },
+    {
+      "id": "pl38-1",
+      "part": 5,
+      "plate": 38,
+      "num": "1",
+      "fr": "Autel funéraire des frères Rufinus, Charito, Lucillus et Flavianus (débat sur l'ascia)",
+      "ru": "Погребальный алтарь братьев Руфина, Харитона, Луцилла и Флавиана (спор об ascia)",
+      "en": "Funerary altar of the brothers Rufinus, Charito, Lucillus and Flavianus (the ascia debate)",
+      "page": "243",
+      "group": "XXXVIII",
+      "group_fr": "Planche XXXVIII",
+      "group_en": "XXXVIII",
+      "group_page": "243",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "pierre froide",
+      "material_ru": "\"холодный камень\"",
+      "material_en": "\"cold stone\"",
+      "img": [
+        "pl38-full.jpg"
+      ],
+      "plate_img": "pl38-full.jpg",
+      "bbox": [
+        19.5,
+        5.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "LE N°. 1. offre un piédestal du genre de ceux qu'on étoit en usage d'élever sur le lieu de la sépulture; la partie supérieure se termine en rond, & est tant soit peu creusée: ce qui dénote que ces piédestaux servoient en même temps d'Autel pour faire des sacrifices en l'honneur des mânes; ce creux devant être destiné pour contenir les charbons ardens, ainsi qu'on le remarque dans tous les Autels antiques.",
+        "Ce piédestal, ou pour mieux dire, cet Autel funèbre fut trouvé dans le dernier siècle, dans le jardin de Mr. Pierre Bazan, Ecuyer; il étoit en pierre vulgairement désignée par l'épithète de froide.",
+        "L'inscription sépulcrale doit être lue dans le sens suivant: DHIS MANIBVS, TITI PVBLII RVFINI, TITVS PVBLIVS CHARITO, SEXTIVS LVCILLVS, FLAVIANVS FRATRES.",
+        "Aux Dieux Manes de Titus Publius Rufinus, Titus Publius Charito, Sextius Lucillus & Flavien ses freres, (Ont élevé ce monument.) On voit sur une des faces latérales un marteau taillant. Guichardin & Viguier, qui ont écrit des funérailles anciennes, sont d'avis que cet instrument gravé sur les monumens funèbres, est une marque de la sacrificature que les défunts avoient exercée, & lui donnent le nom de hache; ce sentiment ne me paroît pas vraisemblable. Les Colléges de Sacrificateurs quelques nombreux qu'on les suppose, ne l'étoient cependant pas au point de pouvoir être comparés avec la multitude de monumens, sur lesquels on trouve cette marque; il faudroit supposer une mortalité continuelle de ces Ministres des fausses Divinités: & dans tous les lieux où ils habitoient. On trouve d'ailleurs cette prétendue hache sculptée sur des monumens élevés à la mémoire des personnes du sexe, dans les Villes où l'on est assuré n'avoir jamais existé de culte, dont le Sacerdoce leur eût été confié. J'en ai vu plusieurs dans la Ville de Vienne en Dauphiné, où l'on trouve également le même objet sculpté sur des pierres sépulcrales, qui contient les titres honorifiques du défunt, sans cependant qu'il y soit fait mention de la Sacrificature. Une inscription trouvée à Lyon étoit en l'honneur d'un certain Rusticanus Erennius, Vétéran de la CXXXVI légion. (Qualité bien opposée à celle de sacrificateur), portoit aussi l'Ascia. Convenons que la prétendue hache n'est que le marteau taillant des Maçons, le vrai Ascia, & qu'il n'est placé dans les monumens funèbres, à côté des inscriptions sépulcrales que pour suppléer à la formule usitée chez les anciens, de SUB ASCIA DEDICAVIT qu'ils y mettoient tout au long, & quelquefois par les abréviations S. A. D. Les Antiquaires ont été de tout temps divisés d'opinion sur cette formule, qui a donné lieu à plusieurs systêmes qu'on auroit pu s'éviter d'enfanter par des soins infinis & des recherches vaines.",
+        "Si on eût jetté les yeux sans prévention sur l'instrument sculpté à côté ou au bas d'un grand nombre d'inscriptions, soit qu'elles fussent gravées sur de simples pierres, ou sur des Autels du genre de celui que je décris. M. l'Abbé Venuti de l'Académie Royale des Inscriptions, dans ses dissertations sur les anciens monumens de la Ville de Bordeaux (11) a jetté un grand jour sur cette matière. En rapportant un Cippe sur lequel on trouve le même instrument. «L'inscription suivante, dit Mr. Venuti, est sur un Cippus d'une figure ronde qui se termine en forme de cône; elle représente en creux, d'un côté la figure de l'Ascia & celle d'un Equerre, deux instrumens, qui nous indiquent la célèbre formule employée dans les monumens des Gaules: Sub Ascia dedicavit, sans qu'il en soit parlé dans l'inscription sépulcrale. Dans ce grand problême antiquaire sur l'Ascia sépulcrale qui a fait tant raisonner & tant disputer les savans de notre siècle, je crois fournir une nouvelle preuve à ceux qui prétendent que l'Ascia appartenoit à la maçonnerie, & servoit à couper & à équarrir les pierres. Voici une espèce d'équerre jointe à l'Ascia, qui paroît le décider incontestablement; car on voit bien que l'équerre n'est d'aucun usage pour creuser les fossés, ni pour nettoyer les ronces; or si l'Ascia & l'équerre sont des instrumens relatifs, comme il paroît par notre monument, où ils sont placés à côté l'un de l'autre, il en naîtra une explication toute simple de la formule: Sub Ascia dedicavit, c'est-à-dire, Tombeau qui a été dédié au sortir de la main de l'ouvrier promptement, sans délai, & avec toute la diligence possible: on ne disconviendra pas que la dédicace d'un tombeau ne fût un acte de la Religion Payenne, suivi de plusieurs cérémonies: cet acte pouvoit être différé selon le loisir ou la volonté de ceux qui avoient ordonné la construction du tombeau; comme on différoit souvent la dédicace des Temples & autres édifices consacrés aux Dieux. L'Auteur des divers monumens (12) qui ont rapport à la religion, a remarqué que les termes de Dioclétien, ne furent dédiés par Sévère, que quatre ans après qu'ils eurent été bâtis. Le Temple que Tibère fit construire en l'honneur d'Auguste, fut consacré par Cajus après sa mort. L'Amphithéâtre de Vespasien fut dédié quelques années après par Titus son fils; & Quintilien (13) remarque que les ouvrages, avant la dédicace, n'étoient pas réputés appartenir à la religion; ce qui étoit essentiel aux tombeaux; ainsi on ne pouvoit trop se presser d'en faire la cérémonie. D'ailleurs la diligence & l'empressement à s'acquitter de ce devoir à l'égard des tombeaux, étoit louable, & méritoit qu'on avertit le public par la formule: Sub Ascia dedicavit». On ne peut trouver une meilleure explication touchant la figure de cet instrument sculptée sur les monumens funèbres. Je me suis fait un plaisir de la rapporter en entier, parce qu'elle ne laisse rien à désirer.",
+        "J'ajouterai seulement qu'un usage observé de nos jours à Marseille, lorsqu'on pose la première pierre d'un édifice quelconque, me paroît être un reste des anciennes dédicaces. Le maître de l'édifice, ou le plus éminent en dignité parmi ceux qui le font construire, donne quelques coups de marteau sur cette pierre; la superstition a choisi de préférence le nombre de trois. Il pourroit bien être vrai que le marteau servît anciennement au même usage dans la dédicace des tombeaux. Malgré les nuances variées dans lesquelles nos coutumes présentes sont enveloppées, il reste toujours quelques traces de l'ancien canevas.",
+        "(11) Page 73, édition de M.DCC.LIV, Bordeaux, chez Jean Chappuis. — (12) Pag. 93. — (13) Quintilien, déclam. 322."
+      ],
+      "text_ru": [
+        "№ 1 являет постамент того рода, какой было принято воздвигать на месте погребения; верхняя часть его закруглена и слегка вогнута: это указывает на то, что такие постаменты одновременно служили алтарём для жертвоприношений в честь манов; эта впадина, несомненно, предназначалась для горящих углей, как это замечается во всех античных алтарях.",
+        "Этот постамент, или, точнее, этот погребальный алтарь, был найден в прошлом веке в саду г-на Пьера Базана, эсквайра; он был из камня, в просторечии называемого «холодным».",
+        "Погребальную надпись следует читать в следующем смысле: DHIS MANIBVS, TITI PVBLII RVFINI, TITVS PVBLIVS CHARITO, SEXTIVS LVCILLVS, FLAVIANVS FRATRES.",
+        "«Богам манам Тита Публия Руфина; Тит Публий Харитон, Секстий Луцилл и Флавиан, его братья, (воздвигли этот памятник)». На одной из боковых граней виден плотничий топорик (ascia). Гишарден и Вигье, писавшие о древних похоронных обрядах, полагают, что этот инструмент, высеченный на погребальных памятниках, является знаком жреческой должности, которую исполняли покойные, и называют его «топором»; это мнение не кажется мне правдоподобным. Коллегии жрецов-совершителей жертвоприношений, сколь бы многочисленными их ни представляли, всё же не были столь обширны, чтобы их можно было сравнить с огромным числом памятников, на которых встречается этот знак; пришлось бы предположить непрерывную смертность этих служителей ложных божеств, причём во всех местах их обитания. Кроме того, этот мнимый топор встречается высеченным на памятниках, воздвигнутых в память лиц женского пола, в городах, где, как достоверно известно, никогда не существовало культа, жречество которого было бы им доверено. Я видел несколько таких в городе Вьенн в Дофине, где тот же предмет также встречается высеченным на надгробных камнях, содержащих почётные титулы покойного, однако без всякого упоминания о жреческой должности. Одна надпись, найденная в Лионе, была в честь некоего Рустикана Эренния, ветерана 136-го легиона (звание, совершенно противоположное жреческому), и на ней также изображена ascia. Признаем же, что мнимый топор — не что иное, как каменотёсный молоток-топорик каменщиков, подлинная ascia, и что он помещается на погребальных памятниках рядом с надгробными надписями лишь затем, чтобы заменить употреблявшуюся у древних формулу SUB ASCIA DEDICAVIT, которую они иногда писали полностью, а иногда сокращали буквами S. A. D. Антиквары во все времена расходились во мнениях относительно этой формулы, что породило немало систем, рождения которых можно было бы избежать, не прибегая к бесконечным усилиям и тщетным изысканиям.",
+        "Если бы без предвзятости взглянуть на инструмент, высеченный рядом или внизу множества надписей, будь то выгравированных на простых камнях или на алтарях того рода, что я описываю. Аббат Венути, член Королевской академии надписей, в своих рассуждениях о древних памятниках города Бордо (11) пролил большой свет на этот предмет, приведя киппу, на которой встречается тот же инструмент. «Следующая надпись, — говорит г-н Венути, — находится на киппе круглой формы, заканчивающейся конусом; на ней рельефно изображены с одной стороны фигура ascia, а с другой — наугольника, двух инструментов, указывающих нам на знаменитую формулу, употреблявшуюся на памятниках Галлии: Sub Ascia dedicavit, хотя о ней и не говорится в самой погребальной надписи. В этой великой антикварной загадке о погребальной ascia, заставившей учёных нашего века столько рассуждать и столько спорить, я полагаю, что предоставляю новое доказательство тем, кто утверждает, что ascia принадлежала каменщичьему ремеслу и служила для рубки и отёски камней. Вот своего рода наугольник, соединённый с ascia, который, по-видимому, решает дело бесспорно; ибо ясно видно, что наугольник бесполезен для рытья рвов или для расчистки терновника; если же ascia и наугольник — орудия родственные, как это явствует из нашего памятника, где они помещены рядом друг с другом, то отсюда рождается совершенно простое объяснение формулы Sub Ascia dedicavit, то есть: «Гробница, посвящённая тотчас по выходе из рук мастера, без промедления и со всей возможной поспешностью»: нельзя отрицать, что освящение гробницы было актом языческой религии, сопровождавшимся несколькими обрядами: этот акт мог откладываться в зависимости от досуга или воли тех, кто распорядился о постройке гробницы, подобно тому как часто откладывалось освящение храмов и других зданий, посвящённых богам. Автор различных памятников (12), относящихся к религии, заметил, что термы Диоклетиана были освящены Севером лишь через четыре года после их постройки. Храм, построенный Тиберием в честь Августа, был освящён Гаем уже после смерти последнего. Амфитеатр Веспасиана был освящён несколькими годами позже его сыном Титом; а Квинтилиан (13) замечает, что сооружения до освящения не считались принадлежащими религии; это было существенно важно для гробниц, а потому с совершением этого обряда нельзя было медлить. Впрочем, усердие и поспешность в исполнении этого долга в отношении гробниц были похвальны и заслуживали того, чтобы оповещать об этом публику формулой Sub Ascia dedicavit». Лучшего объяснения изображения этого инструмента, высекаемого на погребальных памятниках, найти невозможно. Я с удовольствием привёл его целиком, поскольку оно не оставляет желать лучшего.",
+        "Добавлю лишь, что обычай, соблюдаемый в наши дни в Марселе при закладке первого камня какого-либо здания, представляется мне остатком древних освящений. Хозяин здания, или наиболее достойный по положению среди тех, кто его строит, наносит несколько ударов молотком по этому камню; суеверие предпочтительно избрало число три. Весьма вероятно, что молоток в древности служил тому же назначению при освящении гробниц. Несмотря на разнообразные оттенки, в которые облечены наши нынешние обычаи, в них всегда остаются какие-то следы древней канвы.",
+        "(11) С. 73, издание 1754 года, Бордо, у Жана Шаппюи. — (12) С. 93. — (13) Квинтилиан, декламация 322."
+      ],
+      "text_en": [
+        "No. 1 offers a pedestal of the kind commonly raised over a burial place; its upper part is rounded and slightly hollowed: showing that these pedestals also served as an Altar for sacrifices in honor of the Manes, this hollow being meant to hold the burning coals, as is seen in all antique Altars.",
+        "This pedestal, or rather this funerary Altar, was found in the last century, in the garden of M. Pierre Bazan, Esquire; it was of the stone popularly called \"cold.\"",
+        "The sepulchral inscription should be read in the following sense: DHIS MANIBVS, TITI PVBLII RVFINI, TITVS PVBLIVS CHARITO, SEXTIVS LVCILLVS, FLAVIANVS FRATRES.",
+        "\"To the Divine Shades of Titus Publius Rufinus, Titus Publius Charito, Sextius Lucillus and Flavianus, his brothers, (erected this monument).\" On one of the lateral faces a carpenter's adze is seen. Guichardin and Viguier, who wrote on ancient funerals, hold that this instrument, engraved on funerary monuments, is a mark of the priestly office the deceased had held, and call it an \"axe\"; this view does not seem to me plausible. The Colleges of Sacrificers, however numerous they are supposed to have been, were nevertheless not so numerous as to compare with the multitude of monuments bearing this mark; one would have to assume a continual mortality among these ministers of false Divinities, in every place they inhabited. Moreover, this supposed axe is found carved on monuments raised to the memory of women, in Cities known never to have had a cult whose priesthood would have been entrusted to them. I have seen several in the City of Vienne in Dauphiné, where the same object is likewise found carved on sepulchral stones bearing the honorific titles of the deceased, yet with no mention of a priestly office. An inscription found at Lyon honored a certain Rusticanus Erennius, Veteran of the 136th legion (a rank quite opposed to that of sacrificer), and it too bore the Ascia. Let us agree that the supposed axe is nothing but the masons' cutting hammer, the true Ascia, and that it is placed on funerary monuments beside sepulchral inscriptions only to stand in for the formula used among the ancients, SUB ASCIA DEDICAVIT, which they sometimes wrote in full, and sometimes abbreviated as S. A. D. Antiquarians have at all times been divided in opinion over this formula, which has given rise to several theories that endless effort and fruitless research might have spared us.",
+        "Had one looked without prejudice at the instrument carved beside or beneath a great many inscriptions, whether engraved on plain stones or on Altars of the kind I describe... M. l'Abbé Venuti, of the Royal Academy of Inscriptions, in his dissertations on the ancient monuments of the City of Bordeaux (11), shed great light on this matter, reporting a Cippus bearing the same instrument. \"The following inscription,\" says M. Venuti, \"is on a Cippus of round shape ending in a cone; it shows in relief, on one side, the figure of the Ascia and that of a Square, two instruments indicating to us the famous formula used on monuments of Gaul: Sub Ascia dedicavit, though it is not mentioned in the sepulchral inscription itself. In this great antiquarian problem of the sepulchral Ascia, which has caused the scholars of our century so much reasoning and dispute, I believe I offer new proof to those who claim the Ascia belonged to masonry, and served to cut and square stones. Here is a kind of square joined to the Ascia, which seems to settle the matter beyond dispute; for it is clear the square is of no use for digging ditches or clearing brambles; now if the Ascia and the square are related instruments, as appears from our monument, where they are placed side by side, a quite simple explanation of the formula Sub Ascia dedicavit follows: that is, 'a Tomb that was dedicated as soon as it left the workman's hand, promptly, without delay, and with all possible diligence'; one cannot deny that the dedication of a tomb was an act of the Pagan Religion, followed by several ceremonies: this act could be postponed according to the leisure or will of those who had ordered the tomb's construction, just as the dedication of Temples and other buildings consecrated to the Gods was often postponed. The author of various works (12) relating to religion has noted that the Baths of Diocletian were not dedicated by Severus until four years after their construction. The Temple Tiberius had built in honor of Augustus was consecrated by Caius after the latter's death. The Amphitheater of Vespasian was dedicated some years later by his son Titus; and Quintilian (13) notes that works, before their dedication, were not held to belong to religion; which was essential for tombs, so one could not be too quick to perform this ceremony. Moreover, diligence and eagerness in discharging this duty toward tombs was praiseworthy, and deserved that the public be informed of it by the formula: Sub Ascia dedicavit.\" No better explanation can be found for the figure of this instrument carved on funerary monuments. I took pleasure in reporting it in full, since it leaves nothing to be desired.",
+        "I will add only that a custom observed nowadays at Marseille, when laying the first stone of any building, seems to me a remnant of ancient dedications. The master of the building, or the most eminent in rank among those having it built, strikes this stone with the hammer a few times; superstition has preferentially chosen the number three. It may well be true that the hammer anciently served the same purpose in the dedication of tombs. Despite the varied nuances enveloping our present customs, some traces of the ancient pattern always remain.",
+        "(11) P. 73, 1754 edition, Bordeaux, chez Jean Chappuis. — (12) P. 93. — (13) Quintilian, Declamation 322."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M TITI PVBLI RVFINI TITVS PVBLIVS CHARITO SEXTIVS LVCILLVS FLAVIANVS FRATRES",
+      "legend_ru": "D M TITI PVBLI RVFINI TITVS PVBLIVS CHARITO SEXTIVS LVCILLVS FLAVIANVS FRATRES",
+      "legend_en": "D M TITI PVBLI RVFINI TITVS PVBLIVS CHARITO SEXTIVS LVCILLVS FLAVIANVS FRATRES",
+      "findspot_fr": "jardin de M. Pierre Bazan",
+      "findspot_ru": "сад г-на Пьера Базана",
+      "findspot_en": "the garden of M. Pierre Bazan"
+    },
+    {
+      "id": "pl38-2",
+      "part": 5,
+      "plate": 38,
+      "num": "2",
+      "fr": "Autel funéraire de Cossutia, érigé par Victoria Pompea et Abascantus",
+      "ru": "Погребальный алтарь Коссутии, воздвигнутый Викторией Помпеей и Абасканфом",
+      "en": "Funerary altar of Cossutia, raised by Victoria Pompea and Abascantus",
+      "page": "247",
+      "group": "XXXVIII",
+      "group_fr": "Planche XXXVIII",
+      "group_en": "XXXVIII",
+      "group_page": "243",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "pierre froide",
+      "material_ru": "\"холодный камень\"",
+      "material_en": "\"cold stone\"",
+      "img": [
+        "pl38-full.jpg"
+      ],
+      "plate_img": "pl38-full.jpg",
+      "bbox": [
+        75.0,
+        6.0,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Autre piédestal en pierre froide, qui se trouvoit placé à l'entrée du jardin de la maison de campagne du feu Conseiller Antelmy (14). C'est encore un de ces Autels élevés sur la sépulture. L'inscription qui y est gravée doit être lue comme il suit: DIIS MANIBVS COSSVTIÆ VICTORIA POMPEA ABASCANTVS CONIVGI EIVS SACRVM IVSSIT FIERI ÆRE.",
+        "Aux Dieux Manes de Cossutia, Victoria Pompéa a érigé ce monument, & Abscantus a ordonné de le consacrer à ses dépens à la mémoire de son épouse. Le nom de Cossutia, qui est Romain, est commun dans les Monumens Marseillois. Nous avons une Cossutia Hycla, dont le nom est consigné dans l'inscription du fameux tombeau décoré de centaures, qui est conservé à Saint Victor. Le cachet de Marcus Cossutius Chresimus, inséré dans ce receuil, est encore une preuve que cette Famille Romaine étoit connue à Marseille par quelqu'établissement, ou par le droit de clientelle qu'elle avoit accordé à des Marseillois. Abascantus est un nom connu dans plusieurs inscriptions des Gaules (15). Le Sacrum jussit fieri, est encore une formule de consécration. L'abréviation par laquelle elle est désignée a toujours été expliquée ainsi par les bons antiquaires. La lettre P qui commence le mot Pompea doit avoir été effacée par la dégradation, ainsi que la lettre N. du mot Conjugi. Eis pour Ejus est une de ces fautes que les ouvriers commettoient si souvent, & dont le style lapidaire antique fournit des exemples réitérés.",
+        "(14) Massiliographie manusc. — (15) Le recueil de Mr. de Caylus, les inscriptions trouvées à Vienne contiennent également le nom d'Abascantus."
+      ],
+      "text_ru": [
+        "№ 2. Другой постамент из «холодного камня», находившийся у входа в сад загородного дома покойного советника Антельми (14). Это также один из тех алтарей, что воздвигались над погребением. Высеченную на нём надпись следует читать так: DIIS MANIBVS COSSVTIÆ VICTORIA POMPEA ABASCANTVS CONIVGI EIVS SACRVM IVSSIT FIERI ÆRE.",
+        "«Богам манам Коссутии; Виктория Помпея воздвигла этот памятник, а Абасканф велел освятить его на свои средства в память своей супруги». Имя Cossutia, римское по происхождению, часто встречается в марсельских памятниках. У нас есть некая Коссутия Гикла, чьё имя запечатлено в надписи знаменитой гробницы, украшенной кентаврами и хранящейся в Сен-Викторе. Печать Марка Коссутия Хресима, помещённая в этом собрании, служит ещё одним доказательством того, что это римское семейство было известно в Марселе благодаря какому-то поселению либо посредством права клиентелы, предоставленного им марсельцам. Abascantus — имя, известное по нескольким надписям Галлии (15). Sacrum jussit fieri — также формула посвящения. Сокращение, которым она обозначается, добрые антиквары всегда объясняли именно так. Буква P, с которой начинается слово Pompea, должна была стереться от повреждения, равно как и буква N в слове Conjugi. Eis вместо Ejus — одна из тех ошибок, что рабочие допускали весьма часто и которым античный лапидарный стиль даёт немало повторяющихся примеров.",
+        "(14) Рукописная «Массилиография». — (15) Собрание г-на де Кайлюса: надписи, найденные в Вьенне, также содержат имя Abascantus."
+      ],
+      "text_en": [
+        "No. 2. Another pedestal of \"cold stone,\" which stood at the entrance of the garden of the late Councillor Antelmy's country house (14). This too is one of those Altars raised over a burial. The inscription engraved on it should be read as follows: DIIS MANIBVS COSSVTIÆ VICTORIA POMPEA ABASCANTVS CONIVGI EIVS SACRVM IVSSIT FIERI ÆRE.",
+        "\"To the Divine Shades of Cossutia; Victoria Pompea erected this monument, and Abascantus ordered it consecrated at his own expense to the memory of his wife.\" The name Cossutia, which is Roman, is common in Marseille monuments. We have a Cossutia Hycla, whose name is recorded in the inscription of the famous centaur-adorned tomb kept at Saint Victor. The seal of Marcus Cossutius Chresimus, included in this collection, is further proof that this Roman Family was known at Marseille through some settlement, or through the right of clientage it had granted to Marseille residents. Abascantus is a name known from several inscriptions of Gaul (15). Sacrum jussit fieri is likewise a formula of consecration. The abbreviation designating it has always been explained thus by good antiquarians. The letter P beginning the word Pompea must have been erased by wear, as was the letter N of the word Conjugi. Eis for Ejus is one of those errors workmen so often made, of which the ancient lapidary style furnishes repeated examples.",
+        "(14) Manuscript Massiliographie. — (15) M. de Caylus's collection: the inscriptions found at Vienne likewise contain the name Abascantus."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M COSSVTIAE VICTORIA POMPEA ABASCANTVS CONIVGI EIVS SACRVM IVSSIT FIERI AERE",
+      "legend_ru": "D M COSSVTIAE VICTORIA POMPEA ABASCANTVS CONIVGI EIVS SACRVM IVSSIT FIERI AERE",
+      "legend_en": "D M COSSVTIAE VICTORIA POMPEA ABASCANTVS CONIVGI EIVS SACRVM IVSSIT FIERI AERE",
+      "findspot_fr": "maison de campagne du Conseiller Antelmy",
+      "findspot_ru": "загородный дом советника Антельми",
+      "findspot_en": "Councillor Antelmy's country house"
+    },
+    {
+      "id": "pl38-3",
+      "part": 5,
+      "plate": 38,
+      "num": "3",
+      "fr": "Inscription grecque pour Flavius Statius Syrianus",
+      "ru": "Греческая надпись в честь Флавия Статия Сириана",
+      "en": "Greek inscription for Flavius Statius Syrianus",
+      "page": "248",
+      "group": "XXXVIII",
+      "group_fr": "Planche XXXVIII",
+      "group_en": "XXXVIII",
+      "group_page": "243",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl38-full.jpg"
+      ],
+      "plate_img": "pl38-full.jpg",
+      "bbox": [
+        19.5,
+        85.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Parmi les inscriptions qu'on voyoit autrefois incrustées sur les murs de l'Abbaye St. Victor, on distinguoit, selon le Père Guesnay (16), celle représentée sous ce numéro. Partie des noms qui y sont renfermés, sont Romains, quoique l'inscription soit en caractères Grecs. Elle doit avoir été faite à l'occasion de la dédicace de quelque monument. Je crois pouvoir la traduire ainsi: FLAVIO STATIO SYRIANO PATRI EVSEBES. STATIVS, STATIVS STATII TITVS IANVS.",
+        "C'est-à-dire, Eusèbe Statius, Statius fils de Statius (*) & Titus Janus, ont élevé ce monument à leur Père, Flavius Statius Syrianus, [ou Syrien de nation.]",
+        "EVSEBE est un nom d'une vraie origine Grecque. Celui de STATIVS, se trouve répété dans d'autres inscriptions de Marseille.",
+        "(16) Guesnay, Annales Provinciæ Massiliensis, pag. 78. — (*) C'est-à-dire fils du précédent, & petit-fils de Flavius Statius à qui le monument étoit dédié."
+      ],
+      "text_ru": [
+        "№ 3. Среди надписей, некогда вделанных в стены аббатства Сен-Виктор, согласно отцу Генэ (16), выделялась та, что представлена под этим номером. Часть содержащихся в ней имён — римские, хотя сама надпись выполнена греческими буквами. Она должна была быть составлена по случаю освящения какого-то памятника. Полагаю, что могу перевести её так: FLAVIO STATIO SYRIANO PATRI EVSEBES. STATIVS, STATIVS STATII TITVS IANVS.",
+        "То есть: «Евсевий Статий, Статий, сын Статия (*), и Тит Ян воздвигли этот памятник своему отцу, Флавию Статию Сириану [или сирийцу по происхождению]».",
+        "EVSEBE — имя подлинно греческого происхождения. Имя STATIVS повторяется и в других марсельских надписях.",
+        "(16) Генэ, «Анналы Марсельской провинции», с. 78. — (*) То есть сын предыдущего и внук Флавия Статия, которому был посвящён памятник."
+      ],
+      "text_en": [
+        "No. 3. Among the inscriptions once seen embedded in the walls of the Abbey of St. Victor, Father Guesnay (16) distinguished the one shown under this number. Some of the names it contains are Roman, although the inscription is in Greek characters. It must have been made on the occasion of some monument's dedication. I believe I can translate it thus: FLAVIO STATIO SYRIANO PATRI EVSEBES. STATIVS, STATIVS STATII TITVS IANVS.",
+        "That is: \"Eusebius Statius, Statius son of Statius (*), and Titus Janus erected this monument to their Father, Flavius Statius Syrianus [or a Syrian by nation].\"",
+        "EVSEBE is a name of genuinely Greek origin. That of STATIVS recurs in other Marseille inscriptions.",
+        "(16) Guesnay, Annales Provinciæ Massiliensis, p. 78. — (*) That is, son of the preceding, and grandson of Flavius Statius, to whom the monument was dedicated."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "ΦΛΑ ΣΤΑΤΙΩ ΣΥΡΙΑΝΩ ΠΑΤΡΙ ΕΥΣΕΒΕ ΣΤΑΤ ΣΤΑΤ ΣΤΑΤΙΑΝΟΣ",
+      "legend_ru": "ΦΛΑ ΣΤΑΤΙΩ ΣΥΡΙΑΝΩ ΠΑΤΡΙ ΕΥΣΕΒΕ ΣΤΑΤ ΣΤΑΤ ΣΤΑΤΙΑΝΟΣ",
+      "legend_en": "ΦΛΑ ΣΤΑΤΙΩ ΣΥΡΙΑΝΩ ΠΑΤΡΙ ΕΥΣΕΒΕ ΣΤΑΤ ΣΤΑΤ ΣΤΑΤΙΑΝΟΣ",
+      "findspot_fr": "murs de l'abbaye Saint-Victor",
+      "findspot_ru": "стены аббатства Сен-Виктор",
+      "findspot_en": "the walls of the Abbey of Saint-Victor"
+    },
+    {
+      "id": "pl38-4",
+      "part": 5,
+      "plate": 38,
+      "num": "4",
+      "fr": "Autel de Pompeia Muska pour son nourrisson Hius Pompeius Felicianus",
+      "ru": "Алтарь Помпеи Мушки для её воспитанника Хия Помпея Фелициана",
+      "en": "Altar of Pompeia Muska for her foster child Hius Pompeius Felicianus",
+      "page": "249",
+      "group": "XXXVIII",
+      "group_fr": "Planche XXXVIII",
+      "group_en": "XXXVIII",
+      "group_page": "243",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl38-full.jpg"
+      ],
+      "plate_img": "pl38-full.jpg",
+      "bbox": [
+        73.5,
+        83.0,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4. Autel en forme de Piédestal sur lequel on trouve encore la figure de l'Ascia sculptée en creux sur une des faces latérales. Ce monument funèbre est une marque de tendresse de la part d'une personne du sexe envers son nourrisson. On lit à travers plusieurs cœurs sculptés de tous côtés dans l'épitaphe, les noms du défunt & de la personne qui lui a fait ériger le monument: voici comment on doit lire: DIIS MANIBVS HIO POMPEIO FELICIANO, POMPEIA MVSKA, ALVMNO DVLCISSIMO.",
+        "Pompéia Muska a élevé ce monument à son cher nourrisson Hius Pompéius Félicien. Le nom de Pompéia, qui précède celui de Muska, donne l'idée d'une Affranchie de la famille Pompéia, dont elle avoit pris le nom à l'occasion de cet affranchissement, & qui avoit nourri un enfant de cette famille, auquel elle avoit élevé cet Autel sépulcral, qui fut trouvé en construisant la place de l'Arcenal, dans la partie nommée la Darce."
+      ],
+      "text_ru": [
+        "№ 4. Алтарь в форме постамента, на котором также встречается рельефно высеченная фигура ascia на одной из боковых граней. Этот погребальный памятник — знак нежности, проявленной женщиной к своему воспитаннику. Сквозь несколько сердечек, высеченных по всем сторонам эпитафии, читаются имена покойного и лица, велевшего воздвигнуть ему памятник: вот как это следует читать: DIIS MANIBVS HIO POMPEIO FELICIANO, POMPEIA MVSKA, ALVMNO DVLCISSIMO.",
+        "«Помпея Мушка воздвигла этот памятник своему дорогому воспитаннику Хию Помпею Фелициану». Имя Pompeia, предшествующее имени Muska, наводит на мысль о вольноотпущеннице из семьи Помпеев, чьё имя она приняла по случаю этого освобождения и которая вскормила ребёнка этой семьи, которому и воздвигла этот погребальный алтарь, найденный при строительстве площади Арсенала, в части, называемой Дарс."
+      ],
+      "text_en": [
+        "No. 4. Altar in the form of a Pedestal, on which the figure of the Ascia is likewise found carved in relief on one of the lateral faces. This funerary monument is a mark of tenderness from a woman toward her foster child. Through several hearts carved on all sides of the epitaph, one reads the names of the deceased and of the person who had the monument erected: it is to be read thus: DIIS MANIBVS HIO POMPEIO FELICIANO, POMPEIA MVSKA, ALVMNO DVLCISSIMO.",
+        "\"Pompeia Muska erected this monument to her dear foster child Hius Pompeius Felicianus.\" The name Pompeia, preceding that of Muska, suggests a Freedwoman of the Pompeia family, whose name she had taken on the occasion of her manumission, and who had nursed a child of that family, to whom she raised this sepulchral Altar, found while building the Arsenal square, in the part called the Darse."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D M HIO POMPEIO FELICIANO POMPEIA MVSKA ALVMNO DVLCISSIMO",
+      "legend_ru": "D M HIO POMPEIO FELICIANO POMPEIA MVSKA ALVMNO DVLCISSIMO",
+      "legend_en": "D M HIO POMPEIO FELICIANO POMPEIA MVSKA ALVMNO DVLCISSIMO",
+      "findspot_fr": "place de l'Arsenal, la Darce",
+      "findspot_ru": "площадь Арсенала, Дарс",
+      "findspot_en": "the Arsenal square, the Darse"
     }
   ]
 }
