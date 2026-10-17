@@ -16212,12 +16212,49 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-175.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Крылья за спиной",
+          "meaning": "небесная природа этой добродетели",
+          "what_en": "Wings on her back",
+          "meaning_en": "the celestial nature of this virtue"
+        },
+        {
+          "what": "Нагота",
+          "meaning": "отказ от мирских величий и богатств",
+          "what_en": "Nakedness",
+          "meaning_en": "the renunciation of worldly grandeur and riches"
+        },
+        {
+          "what": "Облака под ногами",
+          "meaning": "попрание земных сует",
+          "what_en": "Clouds beneath her feet",
+          "meaning_en": "the trampling down of earthly vanities"
+        },
+        {
+          "what": "Свиток DOMINE, ANTE TE OMNE DESIDERIVM MEVM",
+          "meaning": "единственное желание — служить Богу",
+          "what_en": "Scroll inscribed DOMINE, ANTE TE OMNE DESIDERIVM MEVM",
+          "meaning_en": "the sole desire to serve God"
+        }
+      ],
+      "text_ru": [
+        "Эта Добродетель, не имеющая в себе ничего, кроме небесного, неплохо представлена женщиной, вознесённой высоко над землёй. Она почти совершенно обнажена, с крыльями за спиной, окружённая лучами, с облаками под ногами. Всё это вместе означает, что она",
+        "попирает здешние суеты, символами которых служат туманы и облака: что её нагота ей приятна, будучи лишённой мирских величий и богатств: что её помыслы направлены единственно к Небу, и что у неё нет иного желания, кроме как служить Богу; это она являет этими священными словами: «Господи, пред Тобою всё желание моё»."
+      ],
+      "text_fr": [
+        "Cette Vertu n'ayant rien que de celeste, n'est pas mal representée par vne femme bien haut élevée par dessus la terre. Elle est presque toute nuë, ayant des aisles au dos, des rayons qui l'environnent, & des nuages sous les pieds. Toutes ces choses ensemble signifient, qu'elle",
+        "foule les vanitez d'icy-bas, dont les brouillars & les nuages sont les symboles: Que sa nudité luy plaist, estant dépouillée des grandeurs & des richesses du monde: Que ses pensées n'ont pour but que le Ciel, & qu'elle n'a point d'autre desir que de servir Dieu; ce qu'elle declare par ces paroles sacrées, Domine, ante te omne desiderium meum."
+      ],
       "en": "True Wisdom",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-175-1.jpg",
+        "p2-175-2.jpg"
+      ]
     },
     {
       "id": "p2-176",
@@ -16230,12 +16267,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-176.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Грудь, полная молока",
+          "meaning": "сущность, извлекаемая из самой чистой пищи",
+          "what_en": "Breasts full of milk",
+          "meaning_en": "the substance we draw from the purest of all nourishment"
+        },
+        {
+          "what": "Колосья и виноградные лозы",
+          "meaning": "плодородие Земли, матери-кормилицы всех созданий",
+          "what_en": "Ears of grain and vine branches",
+          "meaning_en": "the wondrous fertility of the Earth, nursing mother of all creatures"
+        }
+      ],
+      "text_ru": [
+        "Эта дама своей обнажённой грудью, полной молока, даёт понять Сущность, которую мы извлекаем из самой чистой из всех пищ. Колосья и виноградные лозы, которые она несёт, означают удивительное плодородие Земли, матери-кормилицы всех созданий мира."
+      ],
+      "text_fr": [
+        "Cette dame par ses mammelles qu'elle montre, qui sont pleines de lait, donne à connoistre la Substance que nous tirons de la plus pure de toutes les nourritures. Les épics & les pampres qu'elle porte, marquent la merveilleuse fecondité de la Terre, mere-nourrice de toutes les creatures du monde."
+      ],
       "en": "Substance",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-176-1.jpg",
+        "p2-176-2.jpg"
+      ]
     },
     {
       "id": "p2-177",
@@ -16248,12 +16308,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-177.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Единорог, ласкаемый девушкой",
+          "meaning": "по преданию, единорога может приручить только девственница",
+          "what_en": "Unicorn caressed by the maiden",
+          "meaning_en": "according to legend, only a virgin can tame a unicorn"
+        }
+      ],
+      "text_ru": [
+        "Вот эмблема Девственности, в облике юной девушки, ласкающей единорога: это придумано недурно, если верно то, что писали некоторые авторы, — что единорога можно поймать и приручить только девственнице."
+      ],
+      "text_fr": [
+        "C'est icy l'emblême de la Virginité, sous la figure d'vne jeune fille qui caresse vne licorne: ce qui n'est pas mal imaginé, s'il est vray, comme quelques autheurs l'ont écrit, que la licorne ne se laisse prendre ny apprivoiser que par vne vierge."
+      ],
       "en": "Virginity",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-177-1.jpg",
+        "p2-177-2.jpg"
+      ]
     },
     {
       "id": "p2-178",
@@ -16266,12 +16343,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-178.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Зеркало в руке",
+          "meaning": "Истина не имеет иного предмета, кроме самой себя",
+          "what_en": "Mirror in her hand",
+          "meaning_en": "Truth has no object but itself"
+        },
+        {
+          "what": "Весы в другой руке",
+          "meaning": "нерушимость и неподкупность в словах",
+          "what_en": "Scales in her other hand",
+          "meaning_en": "inviolability and incorruptibility in her words"
+        }
+      ],
+      "text_ru": [
+        "Прелести и красота, открывающиеся на лице этой дамы, достаточно показывают, сколь притягательна Истина и сколь она очаровательна. В одной руке ей дают держать зеркало, дабы показать, что у неё нет иного предмета, кроме самой себя; а в другой — весы, означающие, что она всегда нерушима и неподкупна в своих словах."
+      ],
+      "text_fr": [
+        "Les agrémens & les beautez qui se découvrent sur le visage de cette dame, font assez voir quels sont les appas de la verité, & combien elle est charmante. On luy fait tenir vn miroir d'vne main, pour montrer qu'elle n'a point d'autre objet que soy-mesme; & de l'autre vne balance, qui signifie qu'elle est toûjours inviolable & incorruptible en ses paroles."
+      ],
       "en": "Truth",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-178-1.jpg",
+        "p2-178-2.jpg"
+      ]
     },
     {
       "id": "p2-179",
