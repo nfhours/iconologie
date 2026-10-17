@@ -9307,6 +9307,455 @@
       "findspot_fr": "Craulonguette (Camargue); golfe de Marseille; Corse (Ajaccio)",
       "findspot_ru": "Кролонгет (Камарг); Марсельский залив; Корсика (Аяччо)",
       "findspot_en": "Craulonguette (Camargue); the Gulf of Marseille; Corsica (Ajaccio)"
+    },
+    {
+      "id": "pl32-1",
+      "part": 3,
+      "plate": 32,
+      "num": "1",
+      "fr": "Patère en pierre de jade",
+      "ru": "Патера из яшмы (нефрита)",
+      "en": "Patera of jade stone",
+      "page": "202",
+      "group": "XXXII",
+      "group_fr": "Planche XXXII",
+      "group_en": "XXXII",
+      "group_page": "202",
+      "flag": "",
+      "type": "object",
+      "material_fr": "jade",
+      "material_ru": "яшма (нефрит)",
+      "material_en": "jade",
+      "img": [
+        "pl32-full.jpg"
+      ],
+      "plate_img": "pl32-full.jpg",
+      "bbox": [
+        18.5,
+        1.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. Patère en pierre de Jade, trouvée dans les terrains des quartiers de la Major, en 1766. Ce monument est en mon pouvoir; quoiqu'un peu mutilé sur les bords, je le regarde comme un des plus jolis morceaux trouvés dans Marseille; il paroît avoir été travaillé au tour; ce qu'on reconnoît au-dessous, qui, n'ayant jamais été poli, a conservé les rayes de l'outil. Ses proportions, la richesse de la matière, me font présumer que cette patère étoit destinée à l'usage domestique, ou à celui de quelque Temple, plutôt qu'aux libations dans les cérémonies funèbres, dans lesquelles on n'usoit en général, que de patères en terre cuite, de la même forme que celle-ci; mais dans des proportions moins recherchées. On se servoit rarement de patères à deux becs, comme celle de la planche précédente. La quantité des premières & le petit nombre de celles-ci trouvées dans les endroits destinés à la sépulture, confirment cette opinion.",
+        "On sait que les patères n'étoient pas seulement en usage dans les Sacrifices, mais que les particuliers dont la dévotion les portoit à établir des Laraires dans leurs maisons, tâchoient d'imiter en petit, dans ces réduits, toutes les cérémonies réligieuses; ils se procuroient toutes les Idoles auxquelles ils vouloient adresser leurs vœux, & tous les ustensiles & les vases nécessaires à leurs cultes. Ils avoient conséquemment des patères, & s'en servoient lorsqu'ils leur consacroient des fruits, des mets, &c. qu'ils venoient poser avec superstition dans ces petits vases, aux pieds des statues des Lares. Notre patère paroît avoir été destinée à cet usage, par quelque riche particulier. Il me semble (dit Mr. de Caylus), voir nos petits enfans lorsqu'ils font la chapelle (87). Rien de plus ressemblant en effet, mais beaucoup plus ridicule dans des personnes d'un âge mûr. On a de la peine à se persuader que ces grands personnages, pour la mémoire desquels nous avons tant de vénération, eussent de pareilles foiblesses; mais tous les siècles fourniroient des volumes très-amples sur l'histoire des égaremens de l'esprit humain.",
+        "(87) Caylus, Recueil d'Antiquités, tom. 6."
+      ],
+      "text_ru": [
+        "№ 1. Патера из яшмы (нефрита), найденная на землях квартала Майор в 1766 году. Этот памятник находится в моём владении; хотя он несколько повреждён по краям, я считаю его одним из самых изящных предметов, найденных в Марселе; он, по-видимому, был обработан на токарном станке, что заметно по его исподней стороне, которая, никогда не будучи отполированной, сохранила следы инструмента. Его пропорции, богатство материала заставляют меня предполагать, что эта патера предназначалась для домашнего обихода либо для какого-то храма, а не для возлияний в погребальных обрядах, в которых обычно использовались лишь терракотовые патеры той же формы, но менее изысканных пропорций. Патеры с двумя носиками, подобные той, что на предыдущей таблице, использовались редко. Многочисленность первых и малое число вторых, найденных в местах погребений, подтверждают это мнение.",
+        "Известно, что патеры использовались не только при жертвоприношениях, но и частными лицами, чья набожность побуждала их устраивать в своих домах ларарии, где они старались в миниатюре воспроизвести все религиозные обряды; они обзаводились всеми божками, которым желали возносить обеты, и всей утварью и сосудами, необходимыми для их культа. Соответственно, у них были патеры, которыми они пользовались, посвящая богам плоды, яства и т. д., которые они с суеверным тщанием помещали в эти небольшие сосуды у ног статуй ларов. Наша патера, по-видимому, предназначалась для этого назначения каким-то состоятельным частным лицом. «Мне кажется, — говорит г-н де Кайлюс, — что я вижу наших малых детей, когда они устраивают игрушечную часовню» (87). В самом деле, ничего не может быть более схожим, но куда более нелепым у людей зрелого возраста. Трудно поверить, что эти великие мужи, память которых мы столь чтим, были подвержены подобным слабостям; но все века дали бы весьма обширные тома по истории заблуждений человеческого разума.",
+        "(87) Кайлюс, «Собрание древностей», т. 6."
+      ],
+      "text_en": [
+        "No. 1. Patera of jade stone, found on the grounds of the Major quarter, in 1766. This piece is in my possession; though somewhat damaged at the edges, I regard it as one of the prettiest pieces found at Marseille; it appears to have been worked on the lathe, as can be seen underneath, which, never having been polished, has kept the marks of the tool. Its proportions and the richness of the material lead me to presume this patera was meant for domestic use, or for some Temple, rather than for libations in funerary ceremonies, in which generally only terra-cotta paterae of the same shape, but of less refined proportions, were used. Two-spouted paterae, like the one in the preceding plate, were rarely used. The abundance of the former and the small number of the latter found in burial places confirm this opinion.",
+        "It is known that paterae were used not only in Sacrifices, but that private individuals whose devotion led them to set up Lararia in their houses tried to imitate, in miniature, all religious ceremonies in these recesses; they procured all the Idols to which they wished to address their vows, and all the utensils and vessels needed for their worship. They accordingly had paterae, and used them when consecrating fruits, dishes, etc., which they superstitiously placed in these small vessels at the feet of the statues of the Lares. Our patera appears to have been meant for this use, by some wealthy individual. \"It seems to me,\" says M. de Caylus, \"that I see our little children playing at 'making the chapel'\" (87). Nothing could indeed resemble it more, yet nothing could be more ridiculous in persons of mature age. One finds it hard to believe that those great figures, for whose memory we hold such veneration, had such weaknesses; but every century would furnish very ample volumes on the history of the aberrations of the human mind.",
+        "(87) Caylus, Recueil d'Antiquités, vol. 6."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "quartier de la Major",
+      "findspot_ru": "квартал Майор",
+      "findspot_en": "the Major quarter"
+    },
+    {
+      "id": "pl32-2",
+      "part": 3,
+      "plate": 32,
+      "num": "2-3",
+      "fr": "Poids (tête de Janus / proue de navire)",
+      "ru": "Гиря (голова Януса / нос корабля)",
+      "en": "Weight (head of Janus / ship's prow)",
+      "page": "204",
+      "group": "XXXII",
+      "group_fr": "Planche XXXII",
+      "group_en": "XXXII",
+      "group_page": "202",
+      "flag": "",
+      "type": "object",
+      "material_fr": "",
+      "material_ru": "",
+      "material_en": "",
+      "img": [
+        "pl32-full.jpg"
+      ],
+      "plate_img": "pl32-full.jpg",
+      "bbox": [
+        68.5,
+        1.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2 & 3. Poids dont on a trouvé dans Marseille, une quantité considérable de toutes les grandeurs proportionnelles à l'usage. Je n'ai fait graver que celui-ci, parce qu'étant du plus grand module, il devient plus intéressant au coup d'œil. On voit d'un côté la double tête de Janus, & de l'autre un Rostrum ou proue de vaisseau. Mr. de Caylus attribue l'invention de ce genre de poids aux étrusques; il dit dans son explication des vignettes du 6e. volume de son Recueil, que «ces monumens prouvent la tradition très-ancienne d'un Législateur venu par mer, qui a civilisé l'Etrurie, & confirment par conséquent la répétition uniforme des événemens du plus grand nombre des peuples dans tous les siècles». Le commerce des Marseillois avec les Etrusques pouvoit leur avoir fait adopter leurs poids, à l'exemple des Romains leurs alliés, qui en avoient fait de même, savoir en quel temps leur usage fut introduit dans notre Ville, est un objet qu'on doit mettre au rang des impossibilités; peut-être même que ces poids ne sont si communs dans Marseille, que parce que ses marchands avoient soin de se pourvoir des poids en usage chez les divers peuples, avec lesquels ils commerçoient, pour vérifier s'ils n'étoient point lezés par leurs correspondans, dans les envois qu'ils leur faisoient, ou qu'ils en recevoient; tels à-peu-près nos commerçans modernes tiennent, pour la même raison, dans leurs comptoirs, des poids & des mesures de divers pays."
+      ],
+      "text_ru": [
+        "№ 2 и 3. Гири, которых в Марселе было найдено значительное количество, всех размеров, соразмерных их назначению. Я велел гравировать лишь эту, поскольку, будучи наибольшего модуля, она более интересна для взгляда. На одной стороне видна двойная голова Януса, на другой — Rostrum, или нос корабля. Г-н де Кайлюс приписывает изобретение подобного рода гирь этрускам; в своём объяснении виньеток 6-го тома своего «Собрания» он говорит, что «эти памятники доказывают весьма древнее предание о законодателе, прибывшем морем, который цивилизовал Этрурию, и тем самым подтверждают единообразную повторяемость событий у большинства народов во все века». Торговля марсельцев с этрусками могла заставить их перенять их гири, по примеру римлян, их союзников, поступивших так же; узнать же, в какое время их употребление было введено в нашем городе, — задача, которую следует причислить к неразрешимым; возможно даже, что эти гири столь распространены в Марселе лишь потому, что его купцы заботились обзавестись гирями, бытовавшими у различных народов, с которыми они торговали, дабы проверять, не были ли они обмануты своими корреспондентами в присылаемых или получаемых ими товарах; примерно так же наши современные торговцы по той же причине держат в своих конторах гири и меры разных стран."
+      ],
+      "text_en": [
+        "Nos. 2 & 3. Weights, of which a considerable quantity, of every size proportional to their use, have been found at Marseille. I have had only this one engraved, because, being of the largest module, it is more interesting to the eye. On one side is seen the double head of Janus, and on the other a Rostrum, or ship's prow. M. de Caylus attributes the invention of this kind of weight to the Etruscans; he says, in his explanation of the vignettes of the 6th volume of his Recueil, that \"these monuments prove the very ancient tradition of a Lawgiver who came by sea and civilized Etruria, and consequently confirm the uniform recurrence of events among the greater part of peoples in every age.\" The trade of the Marseillais with the Etruscans may have led them to adopt their weights, following the example of the Romans, their allies, who did the same; to know at what time their use was introduced in our City is a matter that must be ranked among impossibilities; perhaps even these weights are so common at Marseille only because its merchants took care to provide themselves with the weights in use among the various peoples with whom they traded, so as to verify whether they were not being cheated by their correspondents in the goods sent to or received from them; much as our modern merchants, for the same reason, keep in their counting-houses weights and measures of various countries."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl32-3",
+      "part": 3,
+      "plate": 32,
+      "num": "4",
+      "fr": "Autel en marbre blanc (consacré à Cybèle)",
+      "ru": "Алтарь из белого мрамора (посвящённый Кибеле)",
+      "en": "White-marble altar (consecrated to Cybele)",
+      "page": "205",
+      "group": "XXXII",
+      "group_fr": "Planche XXXII",
+      "group_en": "XXXII",
+      "group_page": "202",
+      "flag": "",
+      "type": "object",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl32-full.jpg"
+      ],
+      "plate_img": "pl32-full.jpg",
+      "bbox": [
+        18.5,
+        26.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4. Autel en marbre blanc, trouvé en 1586 sur une des montagnes du terroir de Marseille, par un Bucheron (88). On le prit dans les temps, pour une urne cinéraire, parce que le foyer étoit rempli de plusieurs petits ossellets mêlés avec quelques cendres. La forme de ce monument, & l'usage auquel il fut ensuite destiné, démontrent que c'étoit un véritable Autel, & non une urne. Le Bucheron, qui l'avoit découvert, imaginant que c'étoit des ossemens de Saints qui se trouvoient dans le foyer, crut devoir le donner en présent au Prieur de Notre-Dame de la Bourgade (89), qui le fit servir de Bénitier à son Eglise. Sur quoi on peut remarquer, que si c'eût été une urne cinéraire, le vase ayant été pour lors trop profond, il n'auroit pu servir de Bénitier, parce qu'il auroit été nécessaire d'aller puiser l'eau-bénite au fond, ou la renouveller journellement, pour éviter la putréfaction; au lieu que le foyer d'un Autel, n'ayant que quelques pouces de profondeur pour contenir les charbons, donne naturellement l'idée de le faire servir de bénitier.",
+        "Il n'y a d'ailleurs qu'à considérer le monument & les attributs des guirlandes, pour être convaincu que ce n'est qu'un Autel consacré à Cybèle, ou à telle autre Divinité à qui on attribuoit la protection & la conservation des productions de la terre. Les petits ossellets que le feu n'avoit pas consumés, devoient être les restes de quelque victime, & non des ossemens humains. Le lieu où cet Autel fut trouvé, donne naturellement l'idée d'un culte dans les forêts. On sait que les montagnes des environs de Marseille, étoient anciennement toutes couvertes de bois, & faisoient partie de la forêt sacrée, dans laquelle il y avoit un culte établi (90). Quoi de plus simple que d'y rencontrer des autels! Celui-ci est de bon goût dans sa noble simplicité.",
+        "(88) Manuscrit de la Massiliographie, par Mrs. Prat & Durant. Ce manuscrit se trouve à la Bibliotheque du Collége de Marseille; à celle de Mr. Chomel, Lieutenant Criminel, & à celle de Mr. Michel. — (89) Notre-Dame du Mont. — (90) Lucan in Pharsat."
+      ],
+      "text_ru": [
+        "№ 4. Алтарь из белого мрамора, найденный в 1586 году дровосеком (88) на одной из гор марсельской округи. В своё время его приняли за погребальную урну, поскольку очаг его был заполнен мелкими косточками, перемешанными с золой. Форма этого памятника и назначение, которое ему затем придали, доказывают, что это был подлинный алтарь, а не урна. Дровосек, обнаруживший его и вообразивший, что находящееся в очаге — кости святых, счёл своим долгом поднести его в дар приору Нотр-Дам-де-ла-Бургад (89), который приспособил его под кропильницу для своей церкви. По этому поводу можно заметить, что, будь это погребальная урна, сосуд оказался бы тогда слишком глубоким и не годился бы для кропильницы, ибо пришлось бы зачерпывать святую воду со дна либо ежедневно её менять, во избежание порчи; тогда как очаг алтаря, имеющий лишь несколько дюймов глубины для углей, сам собой наводит на мысль использовать его как кропильницу.",
+        "Впрочем, достаточно рассмотреть сам памятник и атрибуты гирлянд, чтобы убедиться, что это не что иное, как алтарь, посвящённый Кибеле либо иному божеству, которому приписывали покровительство и сохранение плодов земли. Мелкие косточки, не истреблённые огнём, должны были быть остатками какой-то жертвы, а не человеческими костями. Место, где был найден этот алтарь, естественно наводит на мысль о культе в лесах. Известно, что горы в окрестностях Марселя в древности были сплошь покрыты лесом и входили в состав священного леса, в котором отправлялся установленный культ (90). Что может быть проще, чем встретить там алтари! Этот алтарь отличается хорошим вкусом в своей благородной простоте.",
+        "(88) Рукопись «Массилиографии» господ Пра и Дюрана. Эта рукопись хранится в библиотеке Марсельского коллежа, в библиотеке г-на Шомеля, уголовного лейтенанта, и в библиотеке г-на Мишеля. — (89) Нотр-Дам-дю-Мон. — (90) Лукан, «Фарсалия»."
+      ],
+      "text_en": [
+        "No. 4. Altar in white marble, found in 1586 on one of the mountains of Marseille's territory, by a Woodcutter (88). It was taken at the time for a cinerary urn, because the hearth was filled with several small bones mixed with some ashes. The shape of this monument, and the use to which it was afterwards put, show that it was a genuine Altar, not an urn. The Woodcutter who discovered it, imagining that the bones in the hearth were those of Saints, felt obliged to present it to the Prior of Notre-Dame de la Bourgade (89), who had it serve as a Holy-water font for his Church. On this one may remark that, had it been a cinerary urn, the vessel, being then too deep, could not have served as a font, since it would have been necessary to draw the holy water from the bottom, or renew it daily to prevent putrefaction; whereas the hearth of an Altar, being only a few inches deep to hold the coals, naturally suggests using it as a font.",
+        "Moreover, one need only consider the monument and the garland motifs to be convinced that this is nothing but an Altar consecrated to Cybele, or to some other Divinity credited with protecting and preserving the earth's produce. The small bones the fire had not consumed must have been the remains of some sacrificial victim, not human bones. The place where this Altar was found naturally suggests a cult practiced in forests. It is known that the mountains around Marseille were anciently all covered with woods, and formed part of the sacred forest, in which a cult was established (90). What could be more natural than to find altars there! This one is in good taste, in its noble simplicity.",
+        "(88) Manuscript of the Massiliographie, by Messrs. Prat & Durant. This manuscript is held at the Library of the Collège de Marseille, at that of M. Chomel, Criminal Lieutenant, and at that of M. Michel. — (89) Notre-Dame du Mont. — (90) Lucan, Pharsalia."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "montagne du terroir de Marseille",
+      "findspot_ru": "гора марсельской округи",
+      "findspot_en": "a mountain in Marseille's territory"
+    },
+    {
+      "id": "pl32-4",
+      "part": 3,
+      "plate": 32,
+      "num": "5",
+      "fr": "Vase d'albâtre",
+      "ru": "Алебастровый сосуд",
+      "en": "Alabaster vase",
+      "page": "206",
+      "group": "XXXII",
+      "group_fr": "Planche XXXII",
+      "group_en": "XXXII",
+      "group_page": "202",
+      "flag": "",
+      "type": "object",
+      "material_fr": "albâtre",
+      "material_ru": "алебастр",
+      "material_en": "alabaster",
+      "img": [
+        "pl32-full.jpg"
+      ],
+      "plate_img": "pl32-full.jpg",
+      "bbox": [
+        53.5,
+        26.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 5. Vase d'Albâtre, trouvé dans les quartiers de la Ville supérieure; ses proportions, les ornemens & la manière dont il est traité, tout annonce l'intelligence de l'Artiste; l'usage des vases d'albâtre, pour la table, & le service domestique relatif à la boisson & aux parfums, étoient si communs chez les anciens, qu'ils en étoient venus au point de les désigner tout uniment par le mot Alabastrum, Albâtre; quoique ces vases fussent de diverses matières. Celui que je décris étoit destiné sans doute à cet usage; il a été trouvé vuide, il étoit d'ailleurs trop petit pour contenir les cendres d'un corps humain; & il est plus naturel de croire que c'étoit un vrai Crater ou Poculum au service du buffet.",
+        "Nos anciens n'avoient pas besoin de tirer de bien loin la matière première des vases d'albâtre; nous en possédons en Provence, du côté de Gréoux, des Carrières, d'une très-belle qualité, qui le disputent aux albâtres d'Orient, qui sont en général les plus estimées, c'étoit au reste une sorte de superstition que l'usage des vases d'albâtre, par les vertus que la médecine leur attribuoit. Notre monument doit avoir resté bien long-temps dans la terre; car il est fêlé en divers endroits & tout couvert de taches jaunes; le pied est adapté avec un mastic, dans la composition duquel il entroit de la poussière de l'albâtre même. Ce pied paroît avoir été fait par le secours du tour; le couvercle est moins perfectionné, que le corps du vase; mais l'ensemble présente un objet d'une agréable composition. Ce morceau est en mon pouvoir. (Hauteur depuis le pied jusqu'au couronnement du couvercle, 8 pouces; sans le couvercle, 5 pouces & demi; diametre du vase, 2 pieds)."
+      ],
+      "text_ru": [
+        "№ 5. Алебастровый сосуд, найденный в кварталах верхнего города; его пропорции, украшения и манера исполнения — всё говорит об искусстве мастера; употребление алебастровых сосудов для стола и домашних надобностей, связанных с напитками и благовониями, было столь распространено у древних, что они дошли до того, что стали обозначать их попросту словом alabastrum, алебастр, хотя сами сосуды изготавливались из разных материалов. Описываемый мною сосуд, несомненно, предназначался именно для этого; он был найден пустым и к тому же слишком мал, чтобы вмещать прах человеческого тела; естественнее полагать, что это был настоящий кратер, или poculum, для буфетной службы.",
+        "Нашим предкам не нужно было добывать сырьё для алебастровых сосудов издалека; у нас в Провансе, в окрестностях Греу, есть каменоломни весьма прекрасного качества, оспаривающие первенство у восточного алебастра, в целом наиболее ценимого; впрочем, самим употреблением алебастровых сосудов отчасти руководило суеверие — из-за свойств, которые им приписывала медицина. Наш памятник, должно быть, весьма долго пролежал в земле, ибо он во многих местах растрескан и весь покрыт жёлтыми пятнами; ножка прикреплена мастикой, в состав которой входила пыль самого алебастра. Эта ножка, по-видимому, была изготовлена с помощью токарного станка; крышка менее совершенна, чем тулово сосуда; но в целом предмет являет собой приятную композицию. Этот предмет находится в моём владении. (Высота от ножки до навершия крышки — 8 дюймов; без крышки — 5 с половиной дюймов; диаметр сосуда — 2 фута)."
+      ],
+      "text_en": [
+        "No. 5. Alabaster vase, found in the quarters of the Upper City; its proportions, ornament, and the manner of its working all proclaim the Artist's skill; the use of alabaster vessels for the table, and for domestic service relating to drink and perfumes, was so common among the ancients that they came to designate them simply by the word Alabastrum, alabaster, although such vessels were made of various materials. The one I describe was doubtless meant for this use; it was found empty, and was moreover too small to hold the ashes of a human body; it is more natural to believe it was a genuine Crater, or Poculum, for sideboard service.",
+        "Our ancestors had no need to fetch the raw material for alabaster vessels from afar; we possess, in Provence, near Gréoux, quarries of very fine quality, which rival the alabasters of the East, generally the most esteemed; moreover, the use of alabaster vessels was in part a kind of superstition, owing to the virtues medicine attributed to them. Our piece must have lain a very long time in the ground, for it is cracked in several places and entirely covered with yellow stains; the foot is fitted on with a mastic, into whose composition alabaster dust itself entered. This foot appears to have been made with the aid of the lathe; the lid is less finely finished than the body of the vase; but the whole presents an agreeably composed object. This piece is in my possession. (Height from the foot to the top of the lid, 8 inches; without the lid, 5 and a half inches; diameter of the vase, 2 feet)."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "quartiers de la Ville supérieure",
+      "findspot_ru": "кварталы верхнего города",
+      "findspot_en": "the quarters of the Upper City"
+    },
+    {
+      "id": "pl32-5",
+      "part": 3,
+      "plate": 32,
+      "num": "6",
+      "fr": "Lacrimatoire en verre (forme en bouteille)",
+      "ru": "Стеклянная слёзница (в форме бутыли)",
+      "en": "Glass lacrimatory (bottle-shaped)",
+      "page": "207",
+      "group": "XXXII",
+      "group_fr": "Planche XXXII",
+      "group_en": "XXXII",
+      "group_page": "202",
+      "flag": "",
+      "type": "object",
+      "material_fr": "verre",
+      "material_ru": "стекло",
+      "material_en": "glass",
+      "img": [
+        "pl32-full.jpg"
+      ],
+      "plate_img": "pl32-full.jpg",
+      "bbox": [
+        80.5,
+        26.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 6. Lacrimatoire en verre, d'une forme différente de celui contenu dans la planche 30, n°.5. Les lacrimatoires en verre de cette forme, quoique moins ordinaires que les autres, ne laissent pas que d'être très-communs dans Marseille. On en a trouvé dans les divers endroits destinés à la sépulture. Celui-ci est un de ceux trouvés en 1752, au terrain de Madame Corail, sous le glacis de la Citadelle St. Nicolas. J'avoue qu'il n'y a pas, dans un pareil monument de quoi satisfaire la curiosité du Lecteur; aussi ne l'ai-je fait graver que pour conserver l'idée du galbe, qui approche beaucoup de celui dont on se sert encore de nos jours, pour les bouteilles en usage dans les Pharmacies. Je n'ai pas vu d'ailleurs des lacrimatoires de cette forme, dans les cabinets que j'ai parcourus dans diverses villes anciennes, où de curieux Patriotes avoient ramassé les objets antiques, qui étoient relatifs à leur ville. Ce qui me fait présumer que ce costume étoit plus particulier à Marseille."
+      ],
+      "text_ru": [
+        "№ 6. Стеклянная слёзница формы, отличной от той, что приведена на таблице 30, № 5. Стеклянные слёзницы этой формы, хотя и менее обычные, чем прочие, тем не менее весьма распространены в Марселе. Их находили в различных местах, предназначенных для погребений. Эта — одна из найденных в 1752 году на землях г-жи Кораль, под гласисом цитадели Сен-Николя. Признаюсь, что подобный памятник не содержит ничего, что могло бы удовлетворить любопытство читателя; я велел гравировать его лишь ради сохранения представления об очертании, весьма близком к тому, что и поныне употребляется для аптекарских склянок. Впрочем, слёзниц такой формы я не встречал в кабинетах, которые я осматривал в различных древних городах, где любознательные патриоты собрали античные предметы, относящиеся к их городу. Это заставляет меня предполагать, что эта форма была более свойственна именно Марселю."
+      ],
+      "text_en": [
+        "No. 6. Glass lacrimatory, of a shape different from the one shown in Plate 30, no. 5. Glass lacrimatories of this shape, though less common than the others, remain quite frequent at Marseille. They have been found in various places set aside for burial. This one is among those found in 1752, on the grounds of Madame Corail, beneath the glacis of the Citadel of St. Nicolas. I admit there is nothing in such a piece to satisfy the Reader's curiosity; I had it engraved only to preserve the idea of its outline, which closely resembles that still used today for Pharmacy bottles. I have, moreover, not seen lacrimatories of this shape in the cabinets I visited in various ancient cities, where curious Patriots had gathered antique objects relating to their city, which leads me to presume this form was more peculiar to Marseille."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "propriété de Mme Corail, sous le glacis de la Citadelle St. Nicolas",
+      "findspot_ru": "владение г-жи Кораль, под гласисом цитадели Сен-Николя",
+      "findspot_en": "the property of Mme Corail, beneath the glacis of the Citadel of St. Nicolas"
+    },
+    {
+      "id": "pl32-6",
+      "part": 3,
+      "plate": 32,
+      "num": "7",
+      "fr": "Vase cinéraire en verre (Porte Réale, 1591)",
+      "ru": "Стеклянный погребальный сосуд (Королевские ворота, 1591)",
+      "en": "Glass cinerary vase (Porte Réale, 1591)",
+      "page": "208",
+      "group": "XXXII",
+      "group_fr": "Planche XXXII",
+      "group_en": "XXXII",
+      "group_page": "202",
+      "flag": "",
+      "type": "object",
+      "material_fr": "verre",
+      "material_ru": "стекло",
+      "material_en": "glass",
+      "img": [
+        "pl32-full.jpg"
+      ],
+      "plate_img": "pl32-full.jpg",
+      "bbox": [
+        9.5,
+        83.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 7. Vase cinéraire en verre, qui fut trouvé en 1591, en faisant le Pont-levis de la Porte Réale (91). Cette porte se trouvoit au même endroit où est aujourd'hui située la Place Maronne. Ce vase cinéraire étoit accompagné d'un autre tout semblable, renfermés tous les deux dans des boîtes de plomb avec leurs couvercles. Ils étoient posés sous deux petites voûtes en maçonnerie, à huit pans de profondeur dans la terre; à côté de chaque boîte étoit un lacrimatoire de verre, extrêmement épais, ainsi que les vases. On a trouvé de nos jours au même local, en reconstruisant une des maisons appartenante à Mr. le Chevalier de la Roque, Major de la Citadelle St. Nicolas, des tombeaux en pierre au-dessous des anciennes fondations; ce qui confirmé que ce terrain étoit autrefois destiné à la sépulture, ainsi que je l'ai observé dans le Discours Préliminaire.",
+        "(91) Manuscrit de la Massiliographie."
+      ],
+      "text_ru": [
+        "№ 7. Стеклянный погребальный сосуд, найденный в 1591 году при устройстве подъёмного моста Королевских ворот (91). Эти ворота находились на том же месте, где ныне расположена площадь Маронн. Этот погребальный сосуд сопровождался другим, совершенно подобным, оба были заключены в свинцовые ларцы с крышками. Они были помещены под двумя небольшими кирпичными сводами на глубине восьми пядей в земле; рядом с каждым ларцом находилась стеклянная слёзница, чрезвычайно толстостенная, как и сами сосуды. В наши дни на том же месте, при перестройке одного из домов, принадлежащего г-ну шевалье де ла Року, майору цитадели Сен-Николя, были найдены каменные гробницы под древними фундаментами; это подтверждает, что эта земля некогда предназначалась для погребений, как я уже отмечал в предварительном рассуждении.",
+        "(91) Рукопись «Массилиографии»."
+      ],
+      "text_en": [
+        "No. 7. Glass cinerary vase, found in 1591 while building the drawbridge of the Porte Réale (91). This gate stood on the same spot where the Place Maronne is now situated. This cinerary vase was accompanied by another entirely similar one, both enclosed in lead boxes with their lids. They were placed beneath two small masonry vaults, eight spans deep in the ground; beside each box was a glass lacrimatory, extremely thick, as were the vases themselves. In our own day, stone tombs have been found at the same spot, beneath the old foundations, while rebuilding a house belonging to M. le Chevalier de la Roque, Major of the Citadel of St. Nicolas; which confirms that this ground was formerly set aside for burial, as I have noted in the Preliminary Discourse.",
+        "(91) Manuscript of the Massiliographie."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "Pont-levis de la Porte Réale (auj. Place Maronne)",
+      "findspot_ru": "подъёмный мост Королевских ворот (ныне площадь Маронн)",
+      "findspot_en": "the drawbridge of the Porte Réale (now Place Maronne)"
+    },
+    {
+      "id": "pl32-7",
+      "part": 3,
+      "plate": 32,
+      "num": "8",
+      "fr": "Grande urne cinéraire en terre cuite: épitaphe grecque de Leudemus, gymnasiarque",
+      "ru": "Большая терракотовая погребальная урна: греческая эпитафия Леудема, гимнасиарха",
+      "en": "Large terra-cotta cinerary urn: Greek epitaph of Leudemus, gymnasiarch",
+      "page": "208",
+      "group": "XXXII",
+      "group_fr": "Planche XXXII",
+      "group_en": "XXXII",
+      "group_page": "202",
+      "flag": "",
+      "type": "object",
+      "material_fr": "terre cuite; plaque de cuivre",
+      "material_ru": "терракота; медная пластина",
+      "material_en": "terra cotta; copper plate",
+      "img": [
+        "pl32-full.jpg"
+      ],
+      "plate_img": "pl32-full.jpg",
+      "bbox": [
+        46.5,
+        83.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 8. Grande Urne cinéraire en terre cuite, trouvée en jettant les fondemens d'une maison particulière près le grands puits, vers la fin du 16e. siècle. Cette urne étoit accompagnée de deux autres un peu moins grandes; elles étoient toutes remplies de cendres. Celle que je décris étoit ornée d'une lame de cuivre en deux pièces. Cette lame avoit un pied de hauteur sur deux de large (92); sur laquelle on lisoit l'inscription Grecque gravée dans cette planche. Laquelle peut être traduite ainsi: LEVDEMVS DIONISII FILIVS NATV MAIOR VICTOR ADOLESCENTIVM IN ORDINE, ET GIMNASIARCHA BIS.",
+        "Leudemus, fils aîné de Dénis qui fut en règle vainqueur des adolescens, & deux fois Gymnasiarque; c'est-à-dire, chef du Gymnase. C'étoit chez les Grecs une espèce de Magistrat très-important & fort considéré; son emploi consistoit à veiller sur ce que tous les jeunes citoyens qu'on lui confioit, fussent formés aux exercices du corps. Il avoit sous lui deux subalternes dont l'un étoit nommé XISTARQUE, lequel présidoit à la Lutte; & l'autre s'appelloit GYMNASTE; il présidoit à tous les exercices, ayant soin qu'on les fît à temps d'une manière décente, & qui ne nuisît point à la santé.",
+        "Les Gymnases étoient des édifices publics, entretenus par le gouvernement, qui se piquoit d'élever avec somptuosité ces monumens utiles. Les exercices ordinaires dans les Gymnases étoient la Lutte, ou le Pancrace, le Javelot ou le Pugilat, le Saut, le Disque ou Palet, & tout ce qui pouvoit former un tempérament robuste à la jeunesse; les règles de tous ces exercices formoient ce qu'on appelle la Gymnastique.",
+        "On ne perd pas totalement la mémoire des grands établissemens, & l'on en retrouve toujours quelques traces dans les anciennes Villes. Partie des exercices du Gymnase subsistent encore dans Marseille parmi les jeunes gens, & les habitans de la campagne. Le jeu du Disque ou Palet, la course, & les trois sauts, sont encore leurs récréations ordinaires; mais c'est tout ce qui nous reste des Gymnases. Que diroient de nos jours ces Peres & ces Meres de famille, occupés à faire de jolies poupées de leurs enfans, & qui les élèvent dans la mollesse; ces têtes cheries peuvent bien être coëffées à la grecque (93); mais on ne leur permettroit surement pas de pratiquer les exercices grecs, qu'on abandonneroit tout au plus à ce que nos élégans nomment, à tout hasard, la vile populace? Il faut avouer que Marseille ancienne s'honoroit elle-même dans ces établissemens. Rien ne prouve mieux le cas qu'elle en faisoit, que l'épitaphe de Leudemus; puisqu'on y fait mention, comme de titres honorables, de sa qualité de vainqueur des adolescens dans les règles, & de celle de Gymnasiarque deux fois.",
+        "On riroit à présent de voir mettre sur la tombe d'un citoyen, qu'il remporta le premier prix du collège, & qu'il mérita d'en être deux fois le Préfet; cependant c'est en mettant de la dignité à de pareils objets, que la Grèce vit dans son sein cette multitude de grands personnages, qui l'illustrerent dans tous les genres. Nous sentons tous leurs avantages sur nous à cet égard; mais depuis que l'ignorance enveloppée des richesses a usurpé une considération, qui n'étoit dûe qu'aux talens, nous sommes assez injustes pour leur refuser l'hommage qu'ils méritent; nous sacrifions en général à l'idole du jour; & le mot de Patrie est presque devenu un de ces mots gothiques dont il est à peine permis de s'entretenir par curiosité.",
+        "(92) Manuscrit de la Massiliographie. — (93) Tout est aujourd'hui à la grecque; meubles, bijoux, ajustement & coëffures. La coëffure à la grecque consiste à avoir un énorme toupet qu'on croit être une imitation de la mitelle des anciens, qui étoit seulement à l'usage des femmes. Combien des gens meublés, vêtus & coëffés à la grecque qui ne sont pas pour cela de grands grecs? mais la mode se joue de tout."
+      ],
+      "text_ru": [
+        "№ 8. Большая погребальная урна из обожжённой глины, найденная при закладке фундамента частного дома близ «больших колодцев» к концу XVI века. Эта урна сопровождалась двумя другими, несколько меньшего размера; все они были наполнены пеплом. Описываемая мною урна была украшена медной пластиной из двух частей. Эта пластина имела высоту в один фут при ширине в два (92); на ней читалась греческая надпись, воспроизведённая на этой таблице. Её можно перевести следующим образом: LEVDEMVS DIONISII FILIVS NATV MAIOR VICTOR ADOLESCENTIVM IN ORDINE, ET GIMNASIARCHA BIS.",
+        "«Леудем, старший сын Дионисия, по правилам одержавший победу среди юношей и дважды бывший гимнасиархом», то есть начальником гимнасия. У греков это была весьма важная и весьма почитаемая должность магистрата; в его обязанности входило следить за тем, чтобы все вверенные ему юные граждане были обучены телесным упражнениям. Под его началом состояли два помощника, один из которых назывался ксистархом и заведовал борьбой, а другой — гимнастом; он руководил всеми упражнениями, следя за тем, чтобы их выполняли своевременно и пристойным образом, не вредя здоровью.",
+        "Гимнасии были общественными зданиями, содержавшимися за счёт государства, которое почитало за честь возводить эти полезные сооружения с подобающей пышностью. Обычными упражнениями в гимнасиях были борьба, или панкратий, метание копья или кулачный бой, прыжок, метание диска и всё то, что могло закалить крепкое телосложение юношества; правила всех этих упражнений составляли то, что называется гимнастикой.",
+        "Память о великих учреждениях не исчезает совсем, и в древних городах всегда можно отыскать хоть какие-то их следы. Часть упражнений гимнасия сохраняется в Марселе и поныне среди молодёжи и сельских жителей. Игра в диск, бег и тройной прыжок до сих пор остаются их обычными развлечениями; но это всё, что осталось нам от гимнасиев. Что сказали бы в наши дни те отцы и матери семейств, занятые тем, чтобы сделать из своих детей хорошеньких куколок, и воспитывающие их в неге; эти милые головки вполне могут быть причёсаны на греческий манер (93); но им уж точно не позволили бы заниматься греческими упражнениями, которые в лучшем случае оставили бы тому, что наши щёголи как попало именуют «подлой чернью»? Надо признать, что древний Марсель сам почитал себя за эти учреждения. Ничто не доказывает лучше, насколько он их ценил, чем эпитафия Леудема, ведь в ней упоминается, как о почётных титулах, его звание победителя среди юношей по правилам и дважды гимнасиарха.",
+        "Сегодня посмеялись бы, увидев на могиле гражданина упоминание о том, что он получил первую награду коллежа и дважды заслужил быть его префектом; между тем именно оттого, что подобным вещам придавалось такое достоинство, Греция взрастила в своём лоне то множество великих мужей, прославивших её во всех областях. Мы все чувствуем их превосходство над нами в этом отношении; но с тех пор как невежество, облечённое в богатство, присвоило себе уважение, подобавшее лишь дарованиям, мы достаточно несправедливы, чтобы отказывать им в заслуженной почести; мы, как правило, приносим жертвы кумиру дня; а слово «Отечество» почти стало одним из тех «готических» слов, о которых едва ли позволительно рассуждать из простого любопытства.",
+        "(92) Рукопись «Массилиографии». — (93) Ныне всё на греческий манер: мебель, украшения, наряды и причёски. Причёска на греческий манер состоит в огромном хохле, который считают подражанием митре древних, бывшей, однако, принадлежностью лишь женщин. Сколько людей, обставленных, одетых и причёсанных на греческий манер, вовсе не являются от этого великими греками? Но мода играет всем."
+      ],
+      "text_en": [
+        "No. 8. Large cinerary Urn in terra cotta, found while laying the foundations of a private house near the \"great wells,\" toward the end of the 16th century. This urn was accompanied by two others, somewhat smaller; all were filled with ashes. The one I describe was adorned with a copper plate in two pieces. This plate was a foot high by two feet wide (92); on it was read the Greek inscription engraved on this plate, which may be translated thus: LEVDEMVS DIONISII FILIVS NATV MAIOR VICTOR ADOLESCENTIVM IN ORDINE, ET GIMNASIARCHA BIS.",
+        "\"Leudemus, eldest son of Dionysius, who by the rules was victor among the youths, and twice Gymnasiarch\"; that is, head of the Gymnasium. Among the Greeks this was a very important and highly regarded kind of Magistrate; his office consisted in overseeing that all the young citizens entrusted to him were trained in bodily exercises. He had under him two subordinates, one called the XYSTARCH, who presided over Wrestling, and the other called the GYMNAST, who presided over all exercises, taking care that they were performed at proper times, decently, and without harm to health.",
+        "Gymnasia were public buildings, maintained by the government, which prided itself on raising these useful monuments with sumptuousness. The ordinary exercises in the Gymnasia were Wrestling, or the Pancration, the Javelin or Boxing, the Jump, the Discus, and everything that could build a robust constitution in youth; the rules of all these exercises made up what is called Gymnastics.",
+        "The memory of great institutions is never wholly lost, and some trace of them is always found again in ancient Cities. Part of the exercises of the Gymnasium still survive at Marseille among young people and the inhabitants of the countryside. The game of the Discus, running, and the triple jump are still their ordinary recreations; but that is all that remains to us of the Gymnasia. What would today's Fathers and Mothers say, busy making pretty dolls of their children and raising them in softness; those cherished little heads may well be dressed à la grecque (93); but they would surely not be allowed to practice Greek exercises, which would at most be left to what our fashionable people carelessly call \"the vile populace\"? It must be admitted that ancient Marseille honored itself in these institutions. Nothing proves better the esteem in which it held them than the epitaph of Leudemus, since it mentions, as honorable titles, his status as a by-the-rules victor among youths, and twice Gymnasiarch.",
+        "One would laugh today to see it recorded on a citizen's tomb that he won the first prize of the college, and deserved to be twice its Prefect; and yet it was by lending such dignity to such things that Greece nurtured within her that multitude of great figures who made her illustrious in every field. We all feel their superiority over us in this respect; but since ignorance cloaked in riches has usurped a regard due only to talent, we are unjust enough to refuse them the homage they deserve; we generally sacrifice to the idol of the day; and the word Fatherland has nearly become one of those \"Gothic\" words one is scarcely permitted to discuss out of mere curiosity.",
+        "(92) Manuscript of the Massiliographie. — (93) Everything today is à la grecque: furniture, jewelry, dress, and hairstyles. The Greek hairstyle consists of an enormous topknot believed to imitate the ancients' mitella, which was, however, worn only by women. How many people, furnished, dressed, and coiffed à la grecque are, for all that, not great Greeks at all? But fashion makes sport of everything."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "ΛΕΥΔΗΜΟΣ ΔΙΟΝΥΣΙΟΥ ΓΕΒΑΙΤΕΡΟΣ ΝΙΚΗΣΑΣ ΕΦΗΒΟΥΣ ΕΥ ΤΑΞΙΑΙ ΚΑΙ ΓΙΜΑΣΙΑΡΧΗΣΑΣ ΔΙΣ",
+      "legend_ru": "ΛΕΥΔΗΜΟΣ ΔΙΟΝΥΣΙΟΥ ΓΕΒΑΙΤΕΡΟΣ ΝΙΚΗΣΑΣ ΕΦΗΒΟΥΣ ΕΥ ΤΑΞΙΑΙ ΚΑΙ ΓΙΜΑΣΙΑΡΧΗΣΑΣ ΔΙΣ",
+      "legend_en": "ΛΕΥΔΗΜΟΣ ΔΙΟΝΥΣΙΟΥ ΓΕΒΑΙΤΕΡΟΣ ΝΙΚΗΣΑΣ ΕΦΗΒΟΥΣ ΕΥ ΤΑΞΙΑΙ ΚΑΙ ΓΙΜΑΣΙΑΡΧΗΣΑΣ ΔΙΣ",
+      "findspot_fr": "près le grands puits, Marseille",
+      "findspot_ru": "близ «больших колодцев», Марсель",
+      "findspot_en": "near the \"great wells,\" Marseille"
+    },
+    {
+      "id": "pl32-8",
+      "part": 3,
+      "plate": 32,
+      "num": "9",
+      "fr": "Lacrimatoire en terre cuite",
+      "ru": "Терракотовая слёзница",
+      "en": "Terra-cotta lacrimatory",
+      "page": "211",
+      "group": "XXXII",
+      "group_fr": "Planche XXXII",
+      "group_en": "XXXII",
+      "group_page": "202",
+      "flag": "",
+      "type": "object",
+      "material_fr": "terre cuite",
+      "material_ru": "терракота",
+      "material_en": "terra cotta",
+      "img": [
+        "pl32-full.jpg"
+      ],
+      "plate_img": "pl32-full.jpg",
+      "bbox": [
+        80.5,
+        83.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 9. Lacrimatoire en terre cuite trouvé dans les terrains près St. Victor en 1749. L'usage des lacrimatoires de cette matière étoit probablement rare dans Marseille; on en a trouvé en très-petite quantité, tandis que presque tous les monumens funèbres qui ont été découverts nous ont fourni de ceux en verre; le morceau que je décris a près de cinq pouces de hauteur; Mre. d'Ardene, pour lors Supérieur de l'Oratoire, m'ayant témoigné le désir de le placer dans le cabinet de cette Maison, je me fis un devoir de le lui présenter; & ce morceau s'y trouve encore."
+      ],
+      "text_ru": [
+        "№ 9. Терракотовая слёзница, найденная на землях близ Сен-Виктора в 1749 году. Употребление слёзниц из этого материала было, по-видимому, редким в Марселе; их найдено в весьма малом количестве, тогда как почти все обнаруженные погребальные памятники доставили нам стеклянные. Описываемый мною предмет имеет около пяти дюймов в высоту; г-н д'Арден, бывший тогда настоятелем Оратории, выразив мне желание поместить его в кабинет этого дома, я счёл своим долгом преподнести его ему; и этот предмет находится там до сих пор."
+      ],
+      "text_en": [
+        "No. 9. Terra-cotta lacrimatory found on the grounds near St. Victor in 1749. The use of lacrimatories of this material was probably rare at Marseille; very few have been found, whereas almost all the funerary monuments discovered have supplied glass ones; the piece I describe is nearly five inches high; M. d'Ardène, then Superior of the Oratory, having expressed to me his wish to place it in that House's cabinet, I made it a duty to present it to him; and the piece is still kept there."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "terrains près Saint-Victor",
+      "findspot_ru": "земли близ Сен-Виктора",
+      "findspot_en": "grounds near Saint-Victor"
     }
   ]
 }
