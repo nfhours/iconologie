@@ -12438,12 +12438,32 @@
       "group_fr": "Diverses Vies",
       "group_page": "103",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-88-overview.jpg",
+        "p2-88.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Общее вступление о двух путях к блаженству — Деятельной и Созерцательной жизни (Марфа и Мария); на иллюстрации — общий вид страницы со всеми медальонами «Diverses Vies»; затем Деятельная Жизнь — крепкий муж в шляпе, с заступом на плече и лемехом плуга в руке",
+          "meaning": "Заступ и лемех — земледелие как самое деятельное и необходимое занятие; упоминание Микеланджело — зеркало (размышление о своих делах) и гирлянда цветов (добродетели, украшающие жизнь и посмертную славу) как альтернативные атрибуты деятельной жизни",
+          "what_en": "A general introduction on the two paths to blessedness — the Active and Contemplative life (Martha and Mary); the illustration shows the full page with all the \"Diverse Lives\" roundels; then Active Life — a sturdy man in a hat, a spade over his shoulder and a plowshare in hand",
+          "meaning_en": "The spade and plowshare signify agriculture as the most active and necessary of occupations; the mention of Michelangelo, a mirror (reflection on one's deeds) and a flower garland (the virtues that adorn life and posthumous glory) as alternative attributes of active life"
+        }
+      ],
+      "text_ru": [
+        "Есть два пути, ведущих к блаженству, и можно по праву сказать, что они различны, сообразно тому, как склонности и убедительные доводы различаются в человеке. Оба они заключены под именами жизни Деятельной и Созерцательной, которые одобрил Спаситель наш в лице Марфы и Марии Магдалины. И хотя та, что была прилежна к действию, была предпочтена, другая всё же не перестала быть достойной похвалы и награды.",
+        "Её изображают мужем в летах, крепким, несущим большую шляпу на голове, заступ в правой руке, а в левой — лемех плуга; чем показано, что из всех занятий земледелие наиболее деятельно и наиболее необходимо для сохранения человека. Скажу по этому поводу, что Микеланджело, превосходнейший из всех Живописцев своего времени, изобразил Деятельную Жизнь на гробнице Юлия II в облике Лии, дочери Лавана, коей он дал держать одной рукой зеркало, дабы дать понять этим, что мы должны тщательно размышлять о своих поступках; а в другой — гирлянду цветов, символ добродетелей, украшающих нашу жизнь и делающих её славной после того, как нас уже не станет в мире."
+      ],
+      "text_fr": [
+        "IL y a deux chemins qui conduisent à la felicité, & on peut bien dire qu'ils sont divers, selon que les inclinations, & les raisons persuasives se trouvent differentes en l'homme. Ils sont compris l'un & l'autre sous les noms de vie Active & Contemplative, que Nostre Sauveur approuva en la personne de Marthe & de Marie Magdelene. Or bien que celle qui estoit attentive à l'action fust preferée, l'autre neanmoins ne laissa pas d'estre digne & de louange & de recompense.",
+        "ON la peint en homme d'âge, & robuste, qui porte un grand chapeau sur sa teste, une besche en la main droite, & en la gauche un soc de charruë; par où il est montré, que de tous les exercices, l'agriculture est le plus agissant, & le plus necessaire aussi à la conservation de l'homme. Je diray à ce propos que Michel l'Ange, le plus excellent de tous les Peintres de son temps, representa la Vie Active sur le tombeau de Jules II. par Lia fille de Laban, à laquelle il fit tenir un miroir d'une main, pour donner à connoistre par là que nous devons faire une soigneuse reflexion sur nos actions; & en l'autre une guirlande de fleurs, pour symbole des vertus qui embellissent nostre vie, & la rendent glorieuse aprés que nous ne sommes plus au monde."
+      ],
       "en": "Active Life",
-      "group_en": "Various Kinds of Life"
+      "group_en": "Various Kinds of Life",
+      "scans": [
+        "p2-88-1.jpg",
+        "p2-88-2.jpg"
+      ]
     },
     {
       "id": "p2-89",
@@ -12456,12 +12476,37 @@
       "group_fr": "Diverses Vies",
       "group_page": "103",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-89.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Женщина в зелёном одеянии с гирляндой вечноживой травы и фениксом над ней, лирой со смычком в левой руке и чашей, из которой поит ребёнка, в правой",
+          "meaning": "Зелёный цвет и трава Semperviva — жизнь, уподобленная цветению растений; феникс — возрождение жизни; лира о семи струнах — семилетние ступени человеческой жизни от зачатия до десятого семилетия, в коем человек желает покинуть мир; поение ребёнка — питание как основа сохранения жизни",
+          "what_en": "A woman in green with a garland of everlasting grass and a phoenix above it, a lyre with a bow in her left hand and a cup from which she gives a child to drink in her right",
+          "meaning_en": "The green color and the evergreen grass signify life likened to the flowering of plants; the phoenix, life's renewal; the seven-stringed lyre, the seven-year stages of human life from conception to the tenth stage, when a man longs to leave the world; the child drinking, nourishment as the foundation of sustained life"
+        }
+      ],
+      "text_ru": [
+        "Её изображают женщиной в зелёном одеянии, с гирляндой, сплетённой из травы, именуемой Semperviva, или Вечноживая, а над этой гирляндой — Феникс; сверх того она держит в левой руке лиру со смычком, а в правой — чашу, коей даёт пить ребёнку.",
+        "То, что применительно к человеку зовётся жить, применительно к растениям зовётся зеленеть. А соразмерность, существующая в словах, обретается и в вещах, ими означаемых. Говорю же я, сообразно с этим, что жизнь человека есть не что иное, как зелень, поддерживающая тепло, движение и всё превосходное и прекрасное, что есть в них обоих. Как мы видим ещё, что зелень растений не без основания зовётся жизнью, ибо при её утрате должны равным образом отсутствовать и питание, и тепло, и дородство. По каковой причине трава, коей увенчана эта фигура, зовётся Semperviva: подобно тому как пора процветания у человека именуется зеленью, от латинского глагола vivere (жить). И по этой же причине людей, особенно добродетельных, называют Viri (мужами). Не без основания, стало быть, облачают эту фигуру в зелёное и в знак жизни помещают на её гирлянду феникса — будь то истории или баснословия ради того, что Натуралисты сообщают об этой птице.",
+        "Она держит в левой руке лиру со смычком, что Пиэрий Валериан желает разуметь о порядке, встречающемся в человеческой жизни. И впрямь некоторые, найдя, что в лире семь различий голоса, заключили, что то же разнообразие примечается и в состоянии, коим непрестанно волнуется человеческая жизнь. И по правде говоря, на седьмой неделе после зачатия мужской плод образуется во чреве женщины; через семь часов после рождения он являет явные знаки жизни и смерти. В первое семилетие выпадают его первые зубы, и приходят другие, крепче. Во второе, начиная быть способным к порождению, он идёт к возмужанию. В третье пушок покрывает его подбородок, и тогда он перестаёт расти. В четвёртое он в полной силе и в совершенном дородстве. В пятое вступает в возраст, когда, по Платону, ему надлежит жениться. В шестое печётся о приобретении и сохранении приобретённого. В седьмое силы его убывают, но разум и ум возрастают. В восьмое разумение его твёрдо в высшей степени, каким и должно быть. В девятое он обходителен и услужлив к ближнему. И, наконец, в десятое он становится столь угрюм и неприятен, что желает лишь покинуть мир.",
+        "Что до ребёнка, коего поит эта женщина, это означает, что без подобающего питья и пищи невозможно поддержание жизни, ибо именно пища укрепляет и сохраняет естественную теплоту."
+      ],
+      "text_fr": [
+        "ON la represente par une femme vestuë de verd, ayant sur la teste une guirlande faite de l'herbe que l'on appelle Semperviva, ou Toûjours-vive, & au dessus de cette guirlande un Phenix; outre qu'elle tient en sa main gauche une lyre avec un archet, & en la droite une couppe, dont elle se sert à donner à boire à un enfant.",
+        "Ce que l'on appelle vivre à l'égard de l'homme, se nomme reverdir à l'égard des plantes. Or est-il que la mesme proportion qu'il y a dans les paroles, se trouve encore dans les choses qu'elles signifient. Je dis donc conformément à cecy, que la vie de l'homme n'est autre chose qu'une verdure qui maintient la chaleur, le mouvement, & tout ce que les deux ensemble ont d'excellent & de beau. Comme nous voyons encore, que la verdure des plantes n'est pas trop mal appellée vie, qui venant à manquer, il faut que la nourriture, la chaleur, & l'embonpoint manquent de mesme. A raison dequoy l'herbe dont cette figure est couronnée, est dite Semperviva: De mesme que l'âge de prosperité en l'homme se nomme verdure, du verbe Latin vivere. Et pour cette raison aussi, les hommes, principalement les vertueux, sont appellez Viri. Ce n'est donc pas sans sujet qu'on habille cette figure de verd, & que pour un symbole de vie l'on met sur sa guirlande un phenix, soit qu'il faille prendre ou pour une histoire, ou pour une fable, ce que les Naturalistes rapportent de cet oiseau.",
+        "Elle tient de la main gauche une lyre avec un archet, ce que Pierius Valerian veut estre entendu de l'ordre qui se rencontre dans la vie humaine. En effet quelques-uns ayant trouvé qu'il y avoit en la lyre sept differences de voix, ont inferé que cette mesme diversité se remarquoit dans l'estat dont la vie humaine est continuellement agitée. Et à vray dire, la septiéme semaine aprés la conception, le masle est formé dans le ventre de la femme; sept heures aprés son enfantement il donne des signes manifestes de vie & de mort. Au premier septenaire ses premieres dents luy tombent, & il luy en vient d'autres plus fortes. Au second, commençant d'estre capable de generation, il s'achemine à la virilité. Au troisiéme, un poil follet luy couvre le menton, & alors il cesse de croistre. Au quatriéme, il est en sa pleine force, & dans un parfait embonpoint. Au cinquiéme, il entre dans l'âge où Platon veut qu'il soit marié. Au sixiéme, il prend le soin d'acquerir & de conserver les choses acquises. Au septiéme, il diminuë de forces, mais il en augmente de raison & d'esprit. Au huitiéme, il a l'entendement solide au dernier point, & tel qu'il le doit avoir. Au neufiéme, il est traitable & obligeant envers le prochain. Et pour conclusion, au dixiéme, il devient si chagrin & si déplaisant, qu'il ne demande plus qu'à estre hors du monde.",
+        "Pour le regard de l'enfant à qui cette femme donne à boire, cela veut dire, que sans le breuvage & les alimens convenables, il est impossible que la vie se maintienne, puisque c'est la nourriture qui fortifie & conserve la chaleur naturelle."
+      ],
       "en": "Human Life",
-      "group_en": "Various Kinds of Life"
+      "group_en": "Various Kinds of Life",
+      "scans": [
+        "p2-89-1.jpg",
+        "p2-89-2.jpg",
+        "p2-89-3.jpg",
+        "p2-89-4.jpg"
+      ]
     },
     {
       "id": "p2-90",
@@ -12474,12 +12519,29 @@
       "group_fr": "Diverses Vies",
       "group_page": "103",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-90.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Сизиф, несущий на плече огромный камень вверх по горе",
+          "meaning": "Гора — символ человеческой жизни, чья вершина означает покой, к коему все стремятся; камень — бесконечный труд и забота, потребные для достижения этого покоя",
+          "what_en": "Sisyphus, carrying a huge stone on his shoulder up a mountain",
+          "meaning_en": "The mountain symbolizes human life, whose summit signifies the peace everyone seeks; the stone, the endless labor and care needed to reach it"
+        }
+      ],
+      "text_ru": [
+        "Дабы показать, что смертная жизнь подвержена непрестанному беспокойству, довольно представить фигуру Сизифа, который, по словам Поэтов, никогда не перестаёт носить и вновь приносить огромный камень на высокую гору. Эта гора — символ нашей жизни; её вершина означает покой, к коему стремится каждый; а огромный камень, что несёт Сизиф, означает труд и заботу, что прилагает каждый, дабы достичь вершины."
+      ],
+      "text_fr": [
+        "POUR faire voir que la vie mortelle est sujette à une perpetuelle inquietude, il ne faut que se representer la figure de Sysiphe, lequel, au dire des Poëtes, ne cesse jamais de porter & rapporter une grosse pierre sur une haute montagne. Ce mont est le symbole de nostre vie; son sommet marque la tranquillité où chacun aspire; & la grosse pierre que porte Sysiphe, signifie la peine & le soin qu'un chacun prend pour arriver en haut."
+      ],
       "en": "Restless Life",
-      "group_en": "Various Kinds of Life"
+      "group_en": "Various Kinds of Life",
+      "scans": [
+        "p2-90-1.jpg",
+        "p2-90-2.jpg"
+      ]
     },
     {
       "id": "p2-91",
@@ -12492,12 +12554,33 @@
       "group_fr": "Diverses Vies",
       "group_page": "103",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-91.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Обнажённая женщина, возносящая руку к Небу со свитком «Mihi inhærere Deo bonum est»; (вариант) женщина с крылышками на голове, взирающая на Небо, из коего нисходят лучи света",
+          "meaning": "Обнажённость и рука, воздетая к Небу — отрешённость созерцательной души от земного; свиток с псаломским стихом — благо прилепления к Богу; крылья и лучи света — возвышение разума, достижимое лишь по особой милости Божией",
+          "what_en": "A naked woman raising her hand to Heaven with a scroll reading \"Mihi inhærere Deo bonum est\"; (a variant) a woman with wings on her head gazing at Heaven, from which rays of light descend",
+          "meaning_en": "Her nakedness and hand raised to Heaven signify the contemplative soul's detachment from earthly things; the scroll with its psalm verse, the good of clinging to God; the wings and rays of light, the mind's elevation, attainable only through special divine grace"
+        }
+      ],
+      "text_ru": [
+        "Её изображают трояко: во-первых, обнажённой женщиной, возносящей к Небу одну открытую руку, а в другой держащей свиток, на коем читаются слова из Псалма Mihi inhærere Deo bonum est, означающие, что благо — прилепиться к Богу.",
+        "Во-вторых, её представляют другой женщиной, чьи глаза обращены к Небу, откуда к ней нисходят лучи света, с крылышками на голове, правой рукой поднятой, а левой опущенной.",
+        "Двумя её крыльями означено возвышение разума, никогда не унижающего своих мыслей до вещей низких и тленных, но всегда возносящего их ввысь с совершенной преданностью себя. Потому-то её и изображают взирающей на Небо, откуда нисходят на неё блистающие лучи, со всех сторон её окружающие. Отсюда явствует, что нельзя обладать душой, способной к созерцанию, иначе как по особой милости Божией."
+      ],
+      "text_fr": [
+        "ON la dépeint en trois façons; premierement par une femme nuë, qui eleve au Ciel une de ses mains ouverte, & tient de l'autre un écriteau, où se lisent ces paroles tirées du Pseaume, Mihi inhærere Deo bonum est, qui signifient qu'il est bon de s'attacher à Dieu.",
+        "On la represente en second lieu, par une autre femme qui a les yeux tournez vers le Ciel, d'où luy viennent des rayons de lumiere, ayant des aislerons sur la teste, la main droite haute, & la gauche basse.",
+        "Par ses deux aisles est signifiée l'elevation de l'entendement, qui ne ravale jamais ses pensées aux choses basses & corruptibles, mais les porte toûjours en haut avec une parfaite resignation de soy-mesme. Aussi est-ce pour cela qu'elle est peinte regardant le Ciel, d'où descendent sur elle des rayons resplendissans, & qui l'environnent de toutes parts. D'où il est manifeste qu'on ne peut avoir une ame propre à la contemplation, que par une particuliere grace de Dieu."
+      ],
       "en": "Contemplative Life",
-      "group_en": "Various Kinds of Life"
+      "group_en": "Various Kinds of Life",
+      "scans": [
+        "p2-91-1.jpg",
+        "p2-91-2.jpg"
+      ]
     },
     {
       "id": "p2-92",
@@ -12510,12 +12593,37 @@
       "group_fr": "Diverses Vies",
       "group_page": "103",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-88-overview.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юная дева, увенчанная цветами и листьями, с эмблемой однодневной мухи (Hemerrobium) на груди и розами с латинской надписью в правой руке",
+          "meaning": "Однодневная муха, живущая лишь день, — краткость человеческой жизни; увядающие розы и венок из листьев — быстротечность красоты и силы; ответ Саллюстия Теофрасту — жизнь не коротка, если дорожить её мгновениями ради заслуги вечной жизни",
+          "what_en": "A young maiden crowned with flowers and leaves, the emblem of a mayfly (Hemerrobium) on her breast, and roses with a Latin inscription in her right hand",
+          "meaning_en": "The mayfly, living but a day, signifies the brevity of human life; the fading roses and leaf garland, the swift passing of beauty and strength; Sallust's reply to Theophrastus argues that life is not short if its moments are used well, to earn eternal life"
+        }
+      ],
+      "text_ru": [
+        "Её можно изобразить юной женщиной, увенчанной цветами и разными листьями, с выгравированным на груди небольшим крылатым животным, разновидностью мухи, именуемой греками Hemerrobium (однодневка). В правой руке она держит розы, вокруг коих слова: Una dies aperit, conficit una dies, означающие: Как в один лишь день они распускаются, Так в один лишь день и красота их увядает.",
+        "Человеку столь естественно любить жизнь, что он обычно сетует, что она слишком коротка. Читаем по этому поводу, что Теофраст перед смертью роптал на Природу, говоря, что нет никакого основания, чтобы она давала столь долгую жизнь оленям и воронам и столь краткую людям, умирающим, по его словам, едва лишь начав становиться способными к наукам и познаниям. Но этим словам Теофраста, переданным Цицероном, Саллюстий совершенно противополагается в начале своей Югуртинской войны, где он говорит, что люди несправедливо сетуют на собственную природу, воображая её слабой и недолговечной, хотя верно, однако, что человеческой Природе недостаёт скорее усердия, нежели силы или времени. Откуда он желает заключить, что у человека времени даже с избытком, если он пожелает хорошо его употребить. Что подтверждает и Князь Нравственных Философов такими словами: По какому поводу сетуем мы на Природу? Она обходится с нами довольно мягко, и тот, кто умеет хорошо пользоваться жизнью, находит её довольно долгой. Но как бы то ни было, мы должны довольствоваться сроком, что верховный Создатель всех вещей положил нашим дням; поскольку Он не делает ничего без веса и меры, Он желает, чтобы, если жизнь наша кажется нам короткой, мы извлекали пользу из её мгновений и были всегда готовы умереть, дабы упражнением в добрых делах могли заслужить жизнь вечную. Зенон говорит по этому поводу, что время есть та вещь в мире, в коей мы имеем наибольшую нужду; а Папа Пий II сравнивает жизнь человека со сном, что лишь проходит, или даже с ветром и тенью.",
+        "Этот образ жизни не без причины увенчан листьями, дабы показать, что её сила проходит, как их зелень, как замечает Симонид в этих стихах: Под натиском времени все люди падают, И их мимолётные дни суть опадающие листья.",
+        "Дабы лучше выразить эту истину, жизнь по праву сравнивают с Эмеробием, летучим животным с двумя крыльями и четырьмя ногами, немного крупнее большой мухи, которое, по Плинию, умирает в тот же день, когда рождается.",
+        "Роза — также иероглиф этой же хрупкости наших дней: ибо, как говорит Афиней, насколько она прекраснее прочих цветов, настолько же быстрее меркнут её блеск и красота."
+      ],
+      "text_fr": [
+        "ELLE peut avoir pour crayon une jeune femme, couronnée de fleurs & de feuilles differentes, ayant gravé sur le sein un petit animal qui a des aisles, & qui est une espece de mouche, appellée des Grecs Hemerrobium. En la main droite elle tient des roses, avec ces mots à l'entour, Una dies aperit, conficit una dies, qui signifient Que comme en un seul jour elles s'épanouïssent, En un seul jour aussi leurs beautez se fletrissent.",
+        "C'est une chose si naturelle à l'homme d'aimer la vie, qu'il se plaint ordinairement qu'elle est trop courte. Nous lisons à ce propos, que Theophraste avant que de mourir, pesta contre la Nature, disant qu'il n'y avoit aucune apparence qu'elle fist vivre si long-temps les cerfs & les corneilles, & si peu les hommes, qui mouroient, disoit-il, si tost qu'ils commençoient de se rendre capables de disciplines & de sciences. Mais à ces paroles de Theophraste rapportées par Ciceron, Salluste s'oppose tout à fait au commencement de la guerre de Jugurtha, où il dit que les hommes se plaignent à tort contre leur propre nature, qui s'imaginent estre foible & trop peu durable, bien qu'il soit vray neanmoins que l'industrie manque à la Nature humaine plûtost que la force ny le temps. D'où il veut inferer que l'homme en a trop, s'il le veut bien employer. Ce que le Prince des Philosophes Moraux avoüe de mesme par ces paroles. A quel propos nous plaignons-nous de la Nature? elle nous traite assez doucement, & celuy qui sçait bien user de la vie, la trouve assez longue. Mais quoy qu'il en soit, nous devons nous contenter du terme que le souverain Createur de toutes choses a mis en nos jours; comme il ne fait rien qu'avec poids & mesure, il veut que si nostre vie nous semble courte, nous fassions nostre profit de ses momens, & soyons toûjours prests à mourir, afin que par l'exercice des bonnes œuvres nous puissions meriter la vie eternelle. Zenon dit à ce propos, que le temps est la chose du monde dont nous avons plus de besoin; & le Pape Pie II. compare la vie de l'homme à un songe qui ne fait que passer, ou mesme au vent & à l'ombre.",
+        "Cette image de la vie n'est pas sans raison couronnée de feuilles, pour montrer que sa vigueur se passe comme leur verdure, ainsi que le remarque Simonidés dans ces vers. Sous les efforts du temps tous les hommes succombent, Et leurs jours passagers sont des feuilles qui tombent.",
+        "Pour mieux exprimer cette verité, on compare la vie à bon droit à l'Hemorobion, animal volatile, qui a deux aisles & quatre pieds, un peu plus grand qu'une grosse mouche, & qui selon Pline meurt le mesme jour qu'il naist.",
+        "La rose est encore un hieroglyfe de cette mesme fragilité de nos jours: car, comme dit Athenée, d'autant qu'elle est belle par dessus les autres fleurs, d'autant plus viste aussi son éclat & sa beauté se passent."
+      ],
       "en": "Short Life",
-      "group_en": "Various Kinds of Life"
+      "group_en": "Various Kinds of Life",
+      "scans": [
+        "p2-91-3.jpg",
+        "p2-91-4.jpg"
+      ]
     },
     {
       "id": "p2-93",
@@ -12528,12 +12636,32 @@
       "group_fr": "Diverses Vies",
       "group_page": "103",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-88-overview.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Морщинистая старуха в одеянии старинного покроя, с вороной в левой руке и опирающаяся правой рукой на оленя с длинными рогами",
+          "meaning": "Старинное одеяние и морщины — долгие прожитые годы; олень — животное-долгожитель, по преданию достигающее сотен лет (с историческими примерами ошейников Александра Великого и Карла VI); ворона — птица, живущая ещё дольше оленя",
+          "what_en": "A wrinkled old woman in antique dress, a crow in her left hand, resting her right hand on a long-antlered stag",
+          "meaning_en": "The antique dress and wrinkles signify many years lived; the stag, a legendarily long-lived animal said to reach centuries of age (with historical examples of collared stags under Alexander the Great and Charles VI); the crow, a bird living even longer than the stag"
+        }
+      ],
+      "text_ru": [
+        "Её представляет старая, вся морщинистая женщина, одетая на старинный лад, держащая в левой руке ворону и опирающаяся правой на оленя с чрезвычайно длинными рогами.",
+        "Её старинное одеяние — символ долгих лет, кои она видела, а олень — другой такой же символ. Это животное весьма долговечно, как замечает Плиний, говорящий, что при державе Александра Великого был пойман олень, чей ошейник означал необычайный возраст; а Агафокл, тиран Сиракузский, убил на охоте другого, о чрезвычайной старости коего были весьма явные догадки. Но, не приводя доказательств столь издалека, довольно сказать, что в Истории читается, что Карл VI, Король Франции, поймал в Санлисском лесу оленя, на чьём ошейнике были начертаны слова Hoc Cæsar me donavit, означающие: Цезарь мне его подарил. Что впоследствии дало повод к поговорке: Cæsari sum, noli me tangere — Я принадлежу Цезарю, не трогай меня.",
+        "Жизнь вороны ещё дольше, нежели жизнь оленя, и вот почему мы поместили её также в левую руку этой фигуры."
+      ],
+      "text_fr": [
+        "ELLE est representée par une vieille femme toute ridée, vestuë à l'antique, qui de la main gauche tient une corneille, & s'appuye de la droite sur un cerf qui a le bois extremement long.",
+        "Son habillement à l'antique, est le symbole des longues années qu'elle a veuës, & le cerf en est un autre aussi. Cet animal est de tres-longue vie, comme le remarque Pline, qui dit que sous l'empire d'Alexandre le Grand il en fut pris un, dont le collier marquoit un âge extraordinaire; & qu'Agatoclés Tyran de Syracuse, en tua un autre à la chasse, de l'extreme vieillesse duquel on eut des conjectures tres-apparentes. Mais sans en tirer de preuve de si loin, il suffit de dire qu'il se lit dans l'Histoire, que Charles VI. Roy de France prit un cerf dans la forest de Senlis, sur le collier duquel estoient gravées ces paroles, Hoc Cæsar me donavit, qui signifie, Cesar me l'a donné. Ce qui a fait dire depuis par maniere de proverbe, Cæsari sum, noli me tangere, Je suis à Cesar, ne me touche point.",
+        "La vie de la corneille est encore plus longue que celle du cerf, & voila pourquoy nous l'avons mise aussi en la main gauche de cette figure."
+      ],
       "en": "Long Life",
-      "group_en": "Various Kinds of Life"
+      "group_en": "Various Kinds of Life",
+      "scans": [
+        "p2-91-5.jpg"
+      ]
     },
     {
       "id": "p2-94",
