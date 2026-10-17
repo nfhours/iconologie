@@ -17942,12 +17942,42 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-211.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Распущенные волосы, как у вакханки",
+          "meaning": "необузданная злоба, готовая поносить весь свет",
+          "what_en": "Dishevelled hair, like a bacchante",
+          "meaning_en": "unbridled malice, ready to revile the whole world"
+        },
+        {
+          "what": "Рука, упертая в бок",
+          "meaning": "вызывающая, воинственная поза",
+          "what_en": "Hand on her hip",
+          "meaning_en": "a defiant, combative posture"
+        },
+        {
+          "what": "Розги или тернии в руке",
+          "meaning": "оскорбительные уколы языка, жалящие невинных",
+          "what_en": "Rods or thorns in her hand",
+          "meaning_en": "the injurious barbs of her tongue, which sting the innocent"
+        }
+      ],
+      "text_ru": [
+        "Достаточно одной позы этой женщины, чтобы тотчас судить, что она полна злобы и готова поносить весь свет. Волосы её распущены, как у вакханки, одной рукой она упирается в бок, а в другой держит розги, или скорее тернии,",
+        "каковые суть символы оскорбительных уколов её языка, которым она жалит самых невинных."
+      ],
+      "text_fr": [
+        "Il ne faut que la posture de cette femme, pour juger aussi-tost qu'elle est pleine de malignité, & preste à pester contre tout le monde. Elle a les cheveux épars comme vne bacchante, porte l'vne de ses mains sur le flanc, & tient de l'autre des verges, ou plûtost des épines,",
+        "qui sont les symboles des traits injurieux de sa langue, dont elle pique les plus innocens."
+      ],
       "en": "Insult",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-211-1.jpg"
+      ]
     },
     {
       "id": "p2-212",
@@ -17960,12 +17990,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-212.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Белое платье в пятнах",
+          "meaning": "порча и осквернение души через презрение к законам",
+          "what_en": "White robe covered in stains",
+          "meaning_en": "the corruption and defilement of the soul through contempt for the laws"
+        },
+        {
+          "what": "Весы, попираемые ногами",
+          "meaning": "пренебрежение правосудием",
+          "what_en": "Scales trampled underfoot",
+          "meaning_en": "contempt for justice"
+        },
+        {
+          "what": "Жаба в руке",
+          "meaning": "яд, заражающий добрые нравы",
+          "what_en": "Toad in her hand",
+          "meaning_en": "the venom that infects good morals"
+        },
+        {
+          "what": "Меч в другой руке",
+          "meaning": "неистовое усилие погубить невинность",
+          "what_en": "Sword in her other hand",
+          "meaning_en": "the violent effort made to destroy innocence"
+        }
+      ],
+      "text_ru": [
+        "Белое платье, которым покрыта эта женщина, сплошь усеянное пятнами, показывает, что Несправедливость есть не что иное, как порча и осквернение души, выражающееся в презрении к законам; и потому она изображена здесь попирающей ногами весы. Кроме того, жабой, которую она несёт в одной руке, означен яд, которым она заражает добрые нравы; а мечом, который она держит в другой, — неистовое усилие, прилагаемое ею, дабы погубить невинность."
+      ],
+      "text_fr": [
+        "La robe blanche dont cette femme est couverte, toute semée de taches, montre que l'Injustice n'est que corruption & que souillure de l'ame, par le mépris qu'elle fait des loix; & c'est pour cela qu'elle est icy peinte foulant aux pieds la balance. De plus par le crapaut qu'elle porte en vne main, est signifié le venin dont elle infecte les bonnes mœurs; & par l'épée qu'elle tient de l'autre, le violent effort qu'elle fait pour ruiner l'innocence."
+      ],
       "en": "Injustice",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-212-1.jpg",
+        "p2-212-2.jpg"
+      ]
     },
     {
       "id": "p2-213",
@@ -17978,12 +18043,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-213.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Голова дракона с пламенем на шлеме",
+          "meaning": "разрушительная ярость гнева",
+          "what_en": "Flame-spewing dragon's head on her helmet",
+          "meaning_en": "the destructive fury of anger"
+        },
+        {
+          "what": "Меч",
+          "meaning": "железо, которое гнев несёт повсюду",
+          "what_en": "Sword",
+          "meaning_en": "the iron that anger carries everywhere"
+        },
+        {
+          "what": "Зажжённый факел",
+          "meaning": "огонь, который гнев несёт повсюду",
+          "what_en": "Lit torch",
+          "meaning_en": "the fire that anger carries everywhere"
+        },
+        {
+          "what": "Полное вооружение",
+          "meaning": "кровавая, но недолговечная ярость",
+          "what_en": "Full armour",
+          "meaning_en": "a bloody fury, though short-lived"
+        }
+      ],
+      "text_ru": [
+        "Гнев изображён здесь в облике юной дамы, вооружённой с головы до ног, с головой дракона, извергающей пламя, в качестве нашлемника на её шлеме, причём она держит в одной руке меч, а в другой — зажжённый факел: это достаточно ясно являет действия этой страсти, состоящие в том, чтобы нести повсюду железо и огонь: недаром её определяют как «Кровавую ярость, но недолговечную»."
+      ],
+      "text_fr": [
+        "La Colere est icy dépeinte par vne jeune dame armée de toutes pieces, & qui porte pour cimier sur son heaume vne teste de dragon vomissant des flammes, outre qu'elle tient d'vne main vne épée, & de l'autre vne torche allumée: ce qui fait voir assez clairement les effets de cette passion, qui sont de porter par tout le fer & le feu: aussi n'est-ce pas sans raison qu'on la definit Vne fureur sanglante, & de peu de durée."
+      ],
       "en": "Wrath",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-213-1.jpg",
+        "p2-213-2.jpg"
+      ]
     },
     {
       "id": "p2-214",
@@ -17996,12 +18096,53 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-214.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Задумчивая, подпирающая голову поза",
+          "meaning": "праздность как источник сладострастия",
+          "what_en": "Pensive pose, head resting on her hand",
+          "meaning_en": "idleness as the source of lust"
+        },
+        {
+          "what": "Скорпион в руке",
+          "meaning": "иероглиф блудодеяния (по Пиерию)",
+          "what_en": "Scorpion in her hand",
+          "meaning_en": "a hieroglyph of lechery (per Pierius)"
+        },
+        {
+          "what": "Козёл рядом",
+          "meaning": "похотливость",
+          "what_en": "Goat beside her",
+          "meaning_en": "lustfulness"
+        },
+        {
+          "what": "Виноградная лоза",
+          "meaning": "вино как спутник сладострастия («без доброго Вакха Венера всегда холодна»)",
+          "what_en": "Vine",
+          "meaning_en": "wine as the companion of lust ('without good Bacchus, Venus is ever cold')"
+        }
+      ],
+      "text_ru": [
+        "Вот эмблема Распутства в образе женщины, сладострастно одетой, которая, вся задумчивая, подпирает голову левой рукой, а в правой держит скорпиона, рядом с которой — козёл и виноградная лоза. Она сидит задумчивая, дабы показать, что праздность, как говорит Поэт,",
+        "«Зажигает факел сына Цитереи».",
+        "Что до скорпиона и лозы, то один из них, по Пиерию, есть иероглиф блудодеяния, а другая — равным образом, ибо верно,",
+        "«Что без доброго Вакха Венера всегда холодна»."
+      ],
+      "text_fr": [
+        "Voicy l'emblême de la Luxure sous la figure d'vne femme lascivement habillée, qui toute pensive appuye la teste sur sa main gauche, & tient de la droite vn scorpion, ayant à costé vn bouc & vn sep de vigne. Elle est assise & pensive, pour montrer que l'oisiveté, comme dit le Poëte,",
+        "Allume le flambeau du fils de Cytherée.",
+        "Pour ce qui est du scorpion & de la vigne, l'vn, selon Pierius, est le hieroglyphe de la paillardise, & l'autre pareillement, puisqu'il est vray",
+        "Que sans le bon Bacchus, Venus est toûjours froide."
+      ],
       "en": "Lust",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-214-1.jpg",
+        "p2-214-2.jpg"
+      ]
     },
     {
       "id": "p2-215",
