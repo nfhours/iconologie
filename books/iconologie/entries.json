@@ -14476,12 +14476,37 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-139.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Покрытое покрывалом лицо",
+          "meaning": "целомудрие, избегающее взглядов, разжигающих похоть",
+          "what_en": "Veiled face",
+          "meaning_en": "chastity, avoiding the sights that kindle concupiscence"
+        },
+        {
+          "what": "Почтенная, скромная одежда",
+          "meaning": "умеренность души",
+          "what_en": "Honourable, modest garment",
+          "meaning_en": "moderation of the soul"
+        }
+      ],
+      "text_ru": [
+        "Она представлена в образе почтенно одетой дамы с закрытым покрывалом лицом. Благопристойная одежда, которой она прикрывает тело, — знак умеренности души; а покрытые глаза — ещё один знак целомудренной особы, избегающей взглядов, от которых в сердце разгорается похоть; и это верно, как говорит поэт:",
+        "«Сколь опасны похотливые взгляды, что ранят влюблённые сердца»."
+      ],
+      "text_fr": [
+        "Elle est representée par vne dame honorablement vestuë, & qui a le visage voilé. L'honneste habit dont elle se couvre le corps, est vne marque de la moderation de l'ame; & les yeux voilez en sont vne autre d'vne personne chaste, qui fuit les objets par où la concupiscence s'allume dans le cœur; estant veritable, comme dit le Poëte:",
+        "Que les regards lascifs sont des traits dangereux, Qui blessent les cœurs amoureux."
+      ],
       "en": "Honesty",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-139-1.jpg",
+        "p2-139-2.jpg"
+      ]
     },
     {
       "id": "p2-140",
@@ -14494,12 +14519,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-140.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Цветы в руках",
+          "meaning": "приятность в общении, равно радующая взор и обоняние",
+          "what_en": "Flowers in her hands",
+          "meaning_en": "pleasantness in company, agreeable alike to sight and smell"
+        },
+        {
+          "what": "Золотая цепь в левой руке",
+          "meaning": "благородные души связаны между собой взаимными услугами",
+          "what_en": "Gold chain in her left hand",
+          "meaning_en": "generous souls bound to one another through mutual services"
+        }
+      ],
+      "text_ru": [
+        "То, что здесь называется Человечностью, точнее можно назвать Обходительностью, или Учтивостью — особой склонностью быть приятным нраву других. Её изображают в виде прекрасной дамы, держащей перед собой множество цветов, равно приятных и взору, и обонянию; а в левой руке — золотую цепь, в знак того, что благородные души как бы связываются между собой взаимными услугами, которые они друг другу оказывают."
+      ],
+      "text_fr": [
+        "Ce qu'on appelle icy Humanité, se peut plus proprement nommer Accortise, ou Courtoisie, qui est vne certaine inclination à se rendre complaisant à l'humeur d'autruy. On la represente par vne belle dame, tenant devant elle quantité de fleurs, qui ne sont pas moins agreables à la veuë qu'à l'odorat; & vne chaîne d'or de la main gauche, pour montrer que les ames genereuses semblent s'attacher entr'elles par les mutuels offices qu'elles se rendent."
+      ],
       "en": "Humanity",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-140-1.jpg",
+        "p2-140-2.jpg"
+      ]
     },
     {
       "id": "p2-141",
@@ -14512,12 +14560,35 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-141.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Пальмовая ветвь",
+          "meaning": "чем больше Смирение принижают, тем выше оно поднимается",
+          "what_en": "Palm branch",
+          "meaning_en": "the more Humility is pressed down, the more it rises"
+        },
+        {
+          "what": "Корона под ногами",
+          "meaning": "презрение к земному величию и суетности",
+          "what_en": "Crown beneath her feet",
+          "meaning_en": "contempt for earthly grandeur and vanity"
+        }
+      ],
+      "text_ru": [
+        "Та, кого вы видите здесь держащей пальмовую ветвь в руке, а под ногами — корону, — это Смирение, добродетель, тем более достойная похвалы в том, кто ею обладает, что он почитает собственные заслуги за ничто. Ей дают пальмовую ветвь оттого, что чем больше её пытаются унизить, тем выше она поднимается; кроме того, корона, попранная её ногами, являет презрение, которое она питает к земному величию и суетности."
+      ],
+      "text_fr": [
+        "Celle à qui vous voyez icy tenir vne palme à la main, & vne couronne sous ses pieds, est l'Humilité, vertu qui rend la personne qui la possede d'autant plus loüable, qu'elle fait gloire d'estimer comme vn neant son propre merite. Aussi luy donne-t'on vne palme, à cause que tant plus on tâche de l'abaisser, tant plus elle se releve; outre que par la couronne soumise à ses pieds, est demontré le mépris qu'elle fait des grandeurs & des vanitez de la terre."
+      ],
       "en": "Humility",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-141-1.jpg",
+        "p2-141-2.jpg"
+      ]
     },
     {
       "id": "p2-142",
@@ -14530,12 +14601,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-142.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Пальмовый венец",
+          "meaning": "Честь — дитя Победы",
+          "what_en": "Crown of palm",
+          "meaning_en": "Honour as a child of Victory"
+        },
+        {
+          "what": "Копьё, щит и браслеты",
+          "meaning": "знаки отличия и награда за доблесть",
+          "what_en": "Lance, shield and bracelets",
+          "meaning_en": "ensigns and rewards of valour"
+        },
+        {
+          "what": "Два храма на щите с надписью HIC TERMINVS HÆRET",
+          "meaning": "Честь и Добродетель неразделимы",
+          "what_en": "Two temples on the shield inscribed HIC TERMINVS HÆRET",
+          "meaning_en": "Honour and Virtue are inseparable"
+        }
+      ],
+      "text_ru": [
+        "Этот воин, носящий пальмовый венец, золотую цепь, браслеты, копьё и щит, на котором изображены два храма с надписью HIC TERMINVS HÆRET («ЗДЕСЬ ПРЕБЫВАЕТ ПРЕДЕЛ»), помещён здесь отнюдь не случайно для образа Чести. Будучи сыном Победы, он по праву носит чело, увенчанное пальмами, а копьё, щит и браслеты даны ему как знаки отличия и награда за доблесть. Что же до девиза с двумя храмами, он учит нас, что Честь и Добродетель настолько неразделимы, что войти в одну можно только через другую."
+      ],
+      "text_fr": [
+        "Ce guerrier qui porte vne couronne de palme, vne chaîne d'or, des bracelets, vne lance, & vn escu, où sont peints deux temples avec ces mots HIC TERMINVS HÆRET, n'est pas mis icy hors de propos pour le tableau de l'Honneur. Estant fils de la Victoire, c'est à bon droit qu'il a le front ceint de palmes, & que la lance, l'escu & les bracelets luy sont donnez pour enseignes & pour recompenses de sa valeur. Quant à la devise des deux temples, elle nous apprend que l'Honneur & la Vertu sont tellement inseparables, qu'on ne peut entrer dans l'vn que par l'autre."
+      ],
       "en": "Honor",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-142-1.jpg",
+        "p2-142-2.jpg"
+      ]
     },
     {
       "id": "p2-143",
