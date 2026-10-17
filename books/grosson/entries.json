@@ -7159,6 +7159,131 @@
       "findspot_fr": "ancien cimetière de Paradis",
       "findspot_ru": "древнее кладбище Паради",
       "findspot_en": "the old cemetery of Paradis"
+    },
+    {
+      "id": "pl22-1",
+      "part": 2,
+      "plate": 22,
+      "num": "1",
+      "fr": "Sarcophage romain: amours forgeant des armes, médaillon de Romulus et Rémus",
+      "ru": "Римский саркофаг: амуры, кующие оружие, медальон с Ромулом и Ремом",
+      "en": "Roman sarcophagus: cupids forging weapons, a medallion of Romulus and Remus",
+      "page": "164",
+      "group": "XXII",
+      "group_fr": "Planche XXII",
+      "group_en": "XXII",
+      "group_page": "164",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl22-full.jpg"
+      ],
+      "plate_img": "pl22-full.jpg",
+      "bbox": [
+        3.0,
+        3.0,
+        94.0,
+        46.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. Tombeau Romain en marbre blanc, qui se trouve renfermé dans la grotte de la Chapelle de la Magdeleine à St. Victor; des amours occupés à forger des armes, décorent ce monument; un médaillon posé sur une aigle, & soutenu par deux génies aîlés, forme l'ornement du milieu; on y voit Remus & Romulus allaités par une Louve. Cet emblême de la République Romaine étoit souvent répété sur les objets d'utilité & d'agrément; on le trouve empreint sur le revers d'une médaille, ou As Romain, de petit module.",
+        "Le sujet traité dans notre monument devoit être du goût des Romains; la fâmeuse galerie Justiniani possédoit un tombeau en tout semblable à celui-ci [71]. Des amours occupés aux mêmes opérations, & le même médaillon sur le milieu, font supposer que cette composition ainsi répétée, devoit être une imitation de quelque modèle dans un genre supérieur. C'est ainsi que nos savans Artistes modernes ont souvent mis avec raison de la gloire à imiter les chef-d'œuvres des habiles maîtres.",
+        "Ce morceau de sculpture, quoique dégradé par sa grande vetusté, présente cependant de belles parties, que le souterrain dans lequel il est renfermé, ne permet pas de voir dans tout leur jour. Il avoit incontestablement servi à la sepulture de quelque Citoyen Romain.",
+        "[71] Planche 101 de la Galeria Justiniana."
+      ],
+      "text_ru": [
+        "№ 1. Римская гробница из белого мрамора, хранящаяся в пещере часовни Магдалины в Сен-Викторе; этот памятник украшают амуры, занятые ковкой оружия; медальон, покоящийся на орле и поддерживаемый двумя крылатыми гениями, образует украшение середины; на нём видны Рем и Ромул, вскармливаемые волчицей. Эта эмблема Римской республики часто повторялась на предметах полезного и декоративного назначения; её можно встретить оттиснутой на обороте медали, или римского асса, малого модуля.",
+        "Сюжет, представленный на нашем памятнике, должен был быть во вкусе римлян; знаменитая галерея Джустиниани обладала гробницей, во всём подобной этой [71]. Амуры, занятые теми же действиями, и тот же медальон посередине заставляют предполагать, что эта столь часто повторяемая композиция восходит к подражанию некоему образцу более высокого рода. Так и наши учёные современные художники нередко с полным основанием полагали честь в подражании шедеврам искусных мастеров.",
+        "Этот скульптурный предмет, хотя и повреждённый своей глубокой древностью, являет, тем не менее, прекрасные части, которые подземелье, где он хранится, не позволяет рассмотреть во всей их полноте. Он, несомненно, служил местом погребения некоего римского гражданина.",
+        "[71] Таблица 101 «Galeria Justiniana»."
+      ],
+      "text_en": [
+        "No. 1. Roman tomb in white marble, kept within the grotto of the Chapel of the Magdalene at St. Victor; cupids busy forging weapons adorn this monument; a medallion resting on an eagle and supported by two winged geniuses forms the central ornament; on it are seen Remus and Romulus suckled by a She-wolf. This emblem of the Roman Republic was often repeated on objects of use and ornament; it is found struck on the reverse of a coin, or small-module Roman As.",
+        "The subject treated on our monument must have suited Roman taste; the famous Giustiniani gallery possessed a tomb entirely similar to this one [71]. Cupids engaged in the same tasks, and the same medallion at the center, suggest that this so often repeated composition must have been an imitation of some model of a higher order. This is just how our learned modern Artists have often rightly taken pride in imitating the masterpieces of skilled masters.",
+        "This piece of sculpture, though worn by its great age, nonetheless presents fine parts that the underground chamber enclosing it does not allow to be seen in full light. It had undoubtedly served as the burial place of some Roman Citizen.",
+        "[71] Plate 101 of the Galeria Justiniana."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "",
+      "legend_ru": "",
+      "legend_en": "",
+      "findspot_fr": "grotte de la Chapelle de la Magdeleine, Saint-Victor",
+      "findspot_ru": "пещера часовни Магдалины, Сен-Виктор",
+      "findspot_en": "the grotto of the Magdalene Chapel, Saint-Victor"
+    },
+    {
+      "id": "pl22-2",
+      "part": 2,
+      "plate": 22,
+      "num": "2",
+      "fr": "Sarcophage romain de Julia Quintina (centaures et char de la Victoire)",
+      "ru": "Римский саркофаг Юлии Квинтины (кентавры и колесница Победы)",
+      "en": "Roman sarcophagus of Julia Quintina (centaurs and the chariot of Victory)",
+      "page": "165",
+      "group": "XXII",
+      "group_fr": "Planche XXII",
+      "group_en": "XXII",
+      "group_page": "164",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre blanc",
+      "material_ru": "белый мрамор",
+      "material_en": "white marble",
+      "img": [
+        "pl22-full.jpg"
+      ],
+      "plate_img": "pl22-full.jpg",
+      "bbox": [
+        3.0,
+        54.0,
+        94.0,
+        44.0
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Autre tombeau Romain en marbre blanc, conservé dans l'Eglise inférieure de St. Victor; il sert de couronnement à l'Autel de St. Mauront dont il renferme les ossemens. Ce monument est un des plus beaux de ceux qui se trouvent dans cette Abbaye. Il représente des centaures de l'un & de l'autre sexe, attelés à des chars, faits suivant l'ancien Costume Romain, qui ressembloient plutôt à des brouettes qu'à des voitures commodes. Ces centaures sont conduits par des amours; on voit dans un des deux chars la victoire, la palme à la main; & dans l'autre, deux personnes de sexe différent; sur le milieu, deux captifs enchaînés à un palmier, surmonté d'un médaillon, dans lequel on lit l'épitaphe suivante: D. M. IVLIÆ QVINTINÆ COSSVTIA HYCLA MATER FILIÆ PIISSIMÆ.",
+        "Aux Dieux Manes de Julia Quintina, fille très-pieuse [72], Cossutia Hycla, sa mère. Deux génies aîlés, tels qu'on représente les Anges, soutiennent d'une main le médaillon, & de l'autre une Palme. Tous ces objets sont rendus avec toute la délicatesse d'un ciseau conduit par des mains habiles; mais je ne conçois pas pourquoi des attributs, qui devoient être uniquement destinés à caractériser la sépulture de quelque conquérant, se trouvent ici placés pour décorer le tombeau d'une personne du sexe; il faut l'avouer, on a vu de tous temps des artistes de mérite sacrifier le bon goût & la vérité au caprice des ignorans qui les emploient.",
+        "Combien d'anachronismes nos Peintres & nos Sculpteurs ne font-ils pas, en se prêtant à placer dans les sujets historiques relatifs à la religion, des saints personnages, qui n'ont vécu que long-temps après l'époque représentée sur le tableau, ou le Bas-relief? Un artiste instruit devroit se faire une délicatesse de profaner ainsi les talens. La peinture & la sculpture sont deux arts faits pour suppléer d'une manière particulière à l'écriture; ils produisent même un effet plus sensible & qui frappe également les savans & le vulgaire le plus stupide. Si ceux qui exercent ces arts, nous induisent en erreur, ils sont aussi répréhensibles qu'un Historien qui avanceroit des faussetés. Ils commettent même une faute plus grave, lorsque leurs productions sont relatives à la Religion. Les contre-vérités en ce genre, fournissent aux incrédules & aux sectes ennemis de notre croyance, des prétextes pour nous ridiculiser.",
+        "Les noms de Julia Quintina & de Cossutia Hycla sculptés sur le tombeau que je viens de décrire, sont Romains, & désignent assez que ce monument doit être rapporté aux temps de la domination de nos vainqueurs.",
+        "[72] Il s'agit ici de la piété filiale, du respect envers les parens, que les Romains rendoient par le mot Pietas."
+      ],
+      "text_ru": [
+        "№ 2. Другая римская гробница из белого мрамора, хранящаяся в нижней церкви Сен-Виктора; она служит завершением алтаря Св. Морона, останки которого в ней покоятся. Этот памятник — один из прекраснейших среди находящихся в этом аббатстве. Он изображает кентавров обоих полов, запряжённых в колесницы, исполненные в духе древнеримского обычая, более похожие на тачки, нежели на удобные повозки. Этих кентавров правят амуры; на одной из двух колесниц видна Победа с пальмовой ветвью в руке, а на другой — двое лиц разного пола; посередине — двое пленников, прикованных к пальме, над которой возвышается медальон с такой эпитафией: D. M. IVLIÆ QVINTINÆ COSSVTIA HYCLA MATER FILIÆ PIISSIMÆ.",
+        "«Теням усопшей Юлии Квинтины, дочери преблагочестивой [72], (поставила) Коссутия Гикла, мать её». Два крылатых гения, подобные тому, как изображают ангелов, поддерживают одной рукой медальон, а другой — пальмовую ветвь. Все эти предметы переданы с той тонкостью резца, какую дают лишь умелые руки; но я не могу уразуметь, почему атрибуты, предназначенные исключительно для обозначения погребения некоего завоевателя, помещены здесь для украшения гробницы особы женского пола; приходится признать, что во все времена встречались достойные художники, жертвовавшие хорошим вкусом и истиной прихотям невежественных заказчиков.",
+        "Сколько анахронизмов допускают наши живописцы и скульпторы, соглашаясь помещать в исторические сюжеты, относящиеся к религии, святых персонажей, которые жили намного позже времени, изображённого на картине или барельефе? Просвещённому художнику следовало бы считать делом чести не осквернять таким образом своё дарование. Живопись и скульптура — два искусства, созданных особым образом восполнять письмо; они производят даже более ощутимое впечатление, равно поражающее как учёных, так и самую невежественную толпу. Если те, кто занимается этими искусствами, вводят нас в заблуждение, они столь же достойны порицания, как историк, допускающий вымыслы. Они совершают даже более тяжкую ошибку, когда их произведения касаются религии. Подобные извращения истины дают неверующим и враждебным нашей вере сектам поводы для насмешек над нами.",
+        "Имена Юлии Квинтины и Коссутии Гиклы, высеченные на описанной мною гробнице, — римские, и достаточно ясно указывают, что этот памятник следует отнести ко временам владычества наших победителей.",
+        "[72] Здесь имеется в виду сыновняя почтительность, уважение к родителям, которые римляне обозначали словом Pietas."
+      ],
+      "text_en": [
+        "No. 2. Another Roman tomb in white marble, kept in the lower Church of St. Victor; it serves as the crowning piece of the Altar of St. Mauront, whose bones it holds. This monument is one of the finest found in this Abbey. It depicts centaurs of both sexes, harnessed to chariots made in the ancient Roman fashion, which resembled wheelbarrows more than comfortable carriages. These centaurs are driven by cupids; in one of the two chariots is seen Victory, palm in hand; and in the other, two persons of different sex; at the center, two captives chained to a palm tree, surmounted by a medallion on which one reads the following epitaph: D. M. IVLIÆ QVINTINÆ COSSVTIA HYCLA MATER FILIÆ PIISSIMÆ.",
+        "\"To the Divine Shades of Julia Quintina, most dutiful daughter [72], (this was set up by) Cossutia Hycla, her mother.\" Two winged geniuses, such as Angels are depicted, support the medallion with one hand and a Palm with the other. All these objects are rendered with all the delicacy of a chisel guided by skilled hands; but I cannot conceive why attributes meant solely to characterize the burial of some conqueror should be found here used to adorn the tomb of a woman; it must be admitted, artists of merit have at all times been seen to sacrifice good taste and truth to the whims of the ignorant patrons who employ them.",
+        "How many anachronisms do our Painters and Sculptors not commit, lending themselves to placing, in historical subjects relating to religion, holy figures who lived only long after the period depicted in the painting or bas-relief? An educated artist ought to make it a point of honor not to profane his talent in this way. Painting and sculpture are two arts made to supplement writing in a particular manner; they even produce a more striking effect, impressing the learned and the dullest common folk alike. If those who practice these arts mislead us, they are as reprehensible as a Historian who would put forth falsehoods. They commit an even graver fault when their works relate to Religion. Such untruths in this genre give unbelievers and sects hostile to our faith pretexts to ridicule us.",
+        "The names Julia Quintina and Cossutia Hycla carved on the tomb I have just described are Roman, and clearly enough indicate that this monument should be dated to the times of our conquerors' rule.",
+        "[72] This refers to filial piety, the respect toward parents that the Romans expressed by the word Pietas."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "D. M. IVLIÆ QVINTINÆ COSSVTIA HYCLA MATER FILIÆ PIISSIMÆ",
+      "legend_ru": "D. M. IVLIÆ QVINTINÆ COSSVTIA HYCLA MATER FILIÆ PIISSIMÆ",
+      "legend_en": "D. M. IVLIÆ QVINTINÆ COSSVTIA HYCLA MATER FILIÆ PIISSIMÆ",
+      "findspot_fr": "Église inférieure de Saint-Victor (Autel de St. Mauront)",
+      "findspot_ru": "нижняя церковь Сен-Виктора (алтарь св. Морона)",
+      "findspot_en": "the lower Church of Saint Victor (Altar of St. Mauront)"
     }
   ]
 }
