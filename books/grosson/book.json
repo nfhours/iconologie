@@ -34,6 +34,11 @@
       "n": 4,
       "ru": "Часть четвёртая. Здания",
       "en": "Part Four. Buildings"
+    },
+    {
+      "n": 5,
+      "ru": "Часть пятая. Надписи и эпитафии",
+      "en": "Part Five. Inscriptions and Epitaphs"
     }
   ],
   "partsNote": "Список частей предварительный: Часть I (медали, завершена), Часть II (рельефы/статуи/архит. фрагменты, Таблицы X-XXVIII, завершена), Часть III (лампы, сосуды, бытовые предметы, начата с Таблицы XXIX) — открывается общим рассуждением автора о лампах как главной категории находок; далее предположительно идёт раздел надписей. Уточнить после сверки с оглавлением книги.",
@@ -419,6 +424,14 @@
       "n": 36,
       "title_ru": "Таблица XXXVI. План подвалов аббатства Сен-Совёр",
       "title_en": "Plate XXXVI. Plan of the cellars of the Abbey of Saint-Sauveur",
+      "caption_fr": "",
+      "caption_ru": "",
+      "caption_en": ""
+    },
+    {
+      "n": 37,
+      "title_ru": "Таблица XXXVII. Четыре греческие надгробные надписи",
+      "title_en": "Plate XXXVII. Four Greek funerary inscriptions",
       "caption_fr": "",
       "caption_ru": "",
       "caption_en": ""

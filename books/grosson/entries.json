@@ -10507,6 +10507,259 @@
       "findspot_fr": "Abbaye Saint-Sauveur, place de Lenche",
       "findspot_ru": "аббатство Сен-Совёр, площадь Ланш",
       "findspot_en": "the Abbey of Saint-Sauveur, place de Lenche"
+    },
+    {
+      "id": "pl37-1",
+      "part": 5,
+      "plate": 37,
+      "num": "1",
+      "fr": "Cippe d'Apollophanes, fils de Boétus (calendrier lunaire marseillais)",
+      "ru": "Киппа Аполлофана, сына Боэта (марсельский лунный календарь)",
+      "en": "Cippus of Apollophanes, son of Boetus (a Marseille lunar calendar date)",
+      "page": "236",
+      "group": "XXXVII",
+      "group_fr": "Planche XXXVII",
+      "group_en": "XXXVII",
+      "group_page": "236",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre blanc statuaire",
+      "material_ru": "белый статуарный мрамор",
+      "material_en": "white statuary marble",
+      "img": [
+        "pl37-full.jpg"
+      ],
+      "plate_img": "pl37-full.jpg",
+      "bbox": [
+        26.5,
+        2.5,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 1. Cippe trouvé au quartier du Canet, à demi lieu de distance de Marseille. Le paysan qui l'avoit trouvé, s'en servoit pour étançonner les tonneaux dans son ménage. Mr. Michel le fit acheter, & l'a placé dans la Cour de sa maison. Ce monument est en marbre blanc statuaire; les feuilles de laurier qui couronnent le Cippe, sont traitées avec goût; l'inscription Grecque, sculptée sur la base, peut être traduite ainsi: ANNO SEXTO, DECIMA PRIMÆ DECADIS MENSIS AGANAIOV (MINERVÆ) XXIX APOLLOPHANES FILIVS BOETI BENIGNVM ET ETERNVM VALE QVI VIXIT ANNOS XCII. PIE FILII.",
+        "C'est-à-dire, la sixième année, le dixième jour de la première décade du mois des fêtes de Minerve, revenant pour la 29e. fois, Apollophanes, fils de Boétus bon & éternel adieu, qui a vécu 92 ans. Ses enfans ont élevé pieusement ce monument.",
+        "Les Grecs & les Romains se servoient des mois lunaires, qui sont d'environ 29 jours & demi; de sorte qu'ils les faisoient alternativement de 29 & de 30 jours. Le dixième jour de la première décade revenoit au dixième jour du mois. Le mois dédié à Minerve chez les Athéniens, étoit le mois Scirrophorion, qui revenoit au mois de Mai dans notre façon de compter: peut-être la coutume des Marseillois étoit de nommer ce mois d'un des noms de Minerve, parce qu'on célébroit en ce temps-là des fêtes en son honneur. Nous connoissons les mois des Athéniens; mais chaque contrée de la Grèce avoit des usages particuliers, qui ne nous ont point été transmis. Il seroit à désirer qu'on eût trouvé dans notre Patrie un assez grand nombre d'inscriptions, avec de pareilles dates, pour pouvoir en former un calendrier; ce qui nous feroit retrouver le costume de nos pères."
+      ],
+      "text_ru": [
+        "№ 1. Киппа, найденная в квартале Кане, в полулье от Марселя. Крестьянин, нашедший её, использовал её у себя в хозяйстве для подпорки бочек. Г-н Мишель велел её купить и поместил во дворе своего дома. Этот памятник выполнен из белого статуарного мрамора; лавровые листья, венчающие киппу, переданы со вкусом; греческая надпись, высеченная на основании, может быть переведена следующим образом: ANNO SEXTO, DECIMA PRIMÆ DECADIS MENSIS AGANAIOV (MINERVÆ) XXIX APOLLOPHANES FILIVS BOETI BENIGNVM ET ETERNVM VALE QVI VIXIT ANNOS XCII. PIE FILII.",
+        "То есть: «В шестой год, в десятый день первой декады месяца празднеств Минервы, приходящейся в 29-й раз, Аполлофан, сын Боэта, доброе и вечное прощание, проживший 92 года. Дети благочестиво воздвигли этот памятник».",
+        "Греки и римляне пользовались лунными месяцами, составлявшими около 29 с половиной дней; так что они делали их попеременно по 29 и по 30 дней. Десятый день первой декады приходился на десятый день месяца. Месяц, посвящённый Минерве у афинян, назывался скиррофорион и соответствовал маю по нашему счёту: возможно, у марсельцев было в обычае называть этот месяц одним из имён Минервы, поскольку в это время справлялись празднества в её честь. Нам известны месяцы афинян; но у каждой области Греции были свои особые обычаи, которые до нас не дошли. Следовало бы пожелать, чтобы в нашем отечестве нашлось достаточное число надписей с подобными датами, позволяющее составить из них календарь; это позволило бы нам восстановить обычаи наших предков."
+      ],
+      "text_en": [
+        "No. 1. Cippus found in the Canet quarter, half a league from Marseille. The peasant who found it used it to prop up barrels in his household. M. Michel had it bought and placed it in the courtyard of his house. This piece is of white statuary marble; the laurel leaves crowning the cippus are rendered with taste; the Greek inscription carved on the base may be translated thus: ANNO SEXTO, DECIMA PRIMÆ DECADIS MENSIS AGANAIOV (MINERVÆ) XXIX APOLLOPHANES FILIVS BOETI BENIGNVM ET ETERNVM VALE QVI VIXIT ANNOS XCII. PIE FILII.",
+        "That is: \"In the sixth year, the tenth day of the first decade of the month of Minerva's festivals, falling for the 29th time, Apollophanes, son of Boetus, a kind and eternal farewell, who lived 92 years. His children piously raised this monument.\"",
+        "The Greeks and Romans used lunar months, of about 29 and a half days, so that they made them alternately 29 and 30 days long. The tenth day of the first decade fell on the tenth day of the month. The month dedicated to Minerva among the Athenians was Skirophorion, which corresponds to May in our reckoning: perhaps it was the custom of the Marseillais to name this month after one of Minerva's titles, since festivals in her honor were celebrated at that time. We know the months of the Athenians; but each region of Greece had its own particular customs, which have not come down to us. It would be desirable to have found in our Fatherland a sufficient number of inscriptions with similar dates to form a calendar from them, which would let us recover the customs of our forefathers."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "ΕΤΟΥΣ ΣΙΤ ΛΛΗΝΟΣ ΑΓΑΝΑΙΟΥ Κ Θ ΑΠΟΛΛΟΦΑΝΕΣ ΒΟΗΘΟΥ ΧΡΗΣΤΕ ΚΑΙ ΑΛΥΠΕ ΧΑΙΡΕ ΖΗΣ ΑΣΕ ΤΗ ΨΒ ΕΥΣΕΒ ΦΙΛΟΤΕΚΝΕ",
+      "legend_ru": "ΕΤΟΥΣ ΣΙΤ ΛΛΗΝΟΣ ΑΓΑΝΑΙΟΥ Κ Θ ΑΠΟΛΛΟΦΑΝΕΣ ΒΟΗΘΟΥ ΧΡΗΣΤΕ ΚΑΙ ΑΛΥΠΕ ΧΑΙΡΕ ΖΗΣ ΑΣΕ ΤΗ ΨΒ ΕΥΣΕΒ ΦΙΛΟΤΕΚΝΕ",
+      "legend_en": "ΕΤΟΥΣ ΣΙΤ ΛΛΗΝΟΣ ΑΓΑΝΑΙΟΥ Κ Θ ΑΠΟΛΛΟΦΑΝΕΣ ΒΟΗΘΟΥ ΧΡΗΣΤΕ ΚΑΙ ΑΛΥΠΕ ΧΑΙΡΕ ΖΗΣ ΑΣΕ ΤΗ ΨΒ ΕΥΣΕΒ ΦΙΛΟΤΕΚΝΕ",
+      "findspot_fr": "quartier du Canet",
+      "findspot_ru": "квартал Кане",
+      "findspot_en": "the Canet quarter"
+    },
+    {
+      "id": "pl37-2",
+      "part": 5,
+      "plate": 37,
+      "num": "2",
+      "fr": "Pilier funéraire de Caia Lephena (la \"Pierre froide\", débat érudit sur sa traduction)",
+      "ru": "Надгробный столб Кайи Лефены (\"холодный камень\", учёный спор о переводе)",
+      "en": "Funerary pillar of Caia Lephena (the \"cold stone\", a scholarly translation dispute)",
+      "page": "237",
+      "group": "XXXVII",
+      "group_fr": "Planche XXXVII",
+      "group_en": "XXXVII",
+      "group_page": "236",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre commun",
+      "material_ru": "обычный мрамор",
+      "material_en": "common marble",
+      "img": [
+        "pl37-full.jpg"
+      ],
+      "plate_img": "pl37-full.jpg",
+      "bbox": [
+        80.0,
+        4.0,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 2. Tronçon de colonne en marbre commun, vulgairement nommé Pierre froide, dont on a fait de tous les temps un très-grand usage dans Marseille. Ce monument trouvé dans cette Ville, étoit au pouvoir de Mr. Rigord, Subdélégué de l'Intendant de Provence, qui l'avoit fait placer dans sa maison. Les Professeurs du Collège que Mr. de Belsunce avoit institué, étant devenus possesseurs de cette maison, le furent également de ce Cippe: ils établirent la pension dans ce local, & firent placer le monument dans la Cour. Les écoliers, peu soigneux de sa conservation, s'amuserent à le mutiler, ainsi qu'il est ordinaire à leur âge. Ce Collège ayant été donné à la communauté de Marseille, lors de la destruction de la Société, la cour a été convertie en magasin; & notre Cippe est ainsi abandonné à la discrétion de tous ceux qui y placent leurs marchandises. J'ai cru ces détails nécessaires, pour prévenir ceux de mes lecteurs qui seront curieux de vérifier ce monument, de n'être point surpris des différences qu'ils trouveront entre l'inscription telle qu'elle est sur l'original, & celle renfermée dans la gravure. Elles viennent de l'indiscrétion des écoliers, qui ont fait un Alpha du premier Lambda, &c. J'ai une copie de cette inscription telle qu'elle étoit, lorsque Mr. Rigord en étoit possesseur; & c'est d'après elle que j'ai fait exécuter la gravure.",
+        "Ce morceau a occasionné des débats littéraires, consignés dans les mémoires de Trévoux des mois de Mai & d'Octobre 1714, Juillet 1715 & Décembre 1716, ainsi que dans le mercure de France du mois d'Août 1721.",
+        "Mr. de la R**. avoit donné (7) une explication de l'inscription Grecque, sculptée sur notre monument. Selon lui, c'étoit dans le sens suivant qu'on devoit la traduire en Latin: CAIA LEPHENA POSIDONACTIS FILIA. DIONISIVS IVLIVS, QVI ET DIAS NICVS FILIVS. MATRI MEMORIÆ GRATIA.",
+        "Les Auteurs du Journal de Trévoux joignirent à cette interprétation une autre explication de la même inscription, en ajoutant, au-dessous des paroles Latines, les mots qui suivent. «C'est à Dias Nicus que Denis Jule son fils & Caia Lephena, fille de Posidonax, sa belle-fille ont érigé ce monument.»",
+        "Mr. de Valbonais, premier Président de la Chambre des comptes de Dauphiné, donna un autre interprétation, dans une lettre écrite à Mr. de Bon, premier Président de la Cour des Aides de Montpellier; il prétendit qu'on devoit traduire ainsi l'inscription: CAIÆ LEPHENÆ DIONISIVS IVLIVS NEPTVNO ACTVS, QVI ET DIÆ NICAS MATRI, MEMORIÆ GRATIA Supple POSVIT.",
+        "Rien de plus ingénieux que le systême imaginé par Mr. de Valbonais pour appuyer son explication; mais il péche contre la vraisemblance; & toutes les réflexions qui suivent, tiennent du Roman. Il seroit trop long de les rapporter (8), il suffira pour mettre le lecteur à portée d'en juger, d'en exposer un seul trait sous ses yeux. «Un Grec tel que celui-ci, dit Mr. de Valbonais, voyage sur mer...... deux femmes qui étoient sur son bord, meurent...... un de ses premiers soins est de leur rendre les honneurs de la sépulture: leur mémoire lui est chere; il veut en laisser une marque à la postérité. Comme il est étranger & qu'il ne sait point la langue du pays, il se sert de la sienne dans le monument.» [on peut juger du mérite de l'explication par cette dernière phrase.] Un Grec qui ne sait point la langue de Marseille, Colonie Grecque, dans laquelle les Romains venoient étudier la langue des Demosthène, des Platon & des Homeres. Quelle étrange méprise! Aussi l'Auteur de la lettre à Mr. Rigord, inférée dans le mercure du mois d'Août 1721, ne manque pas de la relever.",
+        "De toutes les interprétations de notre inscription, celle que présente la traduction Latine de Mr. de la R. est la plus naturelle; mais elle doit être traduite en François comme il suit: CAIA LEPHENA FILLE DE POSIDONAX, DENIS IVLES, QVI EST FILS DE DIAS NICVS, ONT ÉLEVÉ CE MONVMENT A LA MÉMOIRE DE LEVR MERE.",
+        "La différence que les mots Qui & Dias Nicus filius, semblent mettre entre Denis Jules & Caia Lephena sa sœur, doit naturellement venir de ce qu'ils étoient frere & sœur utérins, leur mère ayant convolé à de secondes nôces, Denis Jules, pour distinguer auquel de deux maris il devoit la naissance, avoit ajouté sur l'épitaphe de celle-ci qui & Dias Nicus filius (9). Hauteur 3 pieds 9 pouces & demi.",
+        "(7) Dans une lettre écrite à Mr. Rigord au mois de Mai 1714. — (8) Voyez les journaux & le mercure cités ci-dessus. — (9) J'ai dit souvent dans le cours de cet ouvrage, qu'on trouvoit dans les Villes anciennes des traces de leur antiquité, dans les institutions & les usages modernes de ces mêmes Villes. Ces reflexions doivent s'étendre jusques sur les noms propres; on en rencontre très-souvent dans les familles Marseilloises; dont la différence de prononciation est la seule qu'on remarque entre les mêmes noms rendus en Grec ou en Latin: tel est celui de NIKOYS. Il y a nombre de personnes qui portent le nom de NICOU dans Marseille. Ces nuances presqu'insensibles frappent ceux qui connoissent les langues; il ne me paroît pas indifférent de les rapporter dans un ouvrage destiné à conserver à la Patrie les titres de son ancienneté."
+      ],
+      "text_ru": [
+        "№ 2. Обломок колонны из обычного мрамора, в просторечии называемый «холодным камнем» (Pierre froide), который во все времена широко использовался в Марселе. Этот памятник, найденный в этом городе, находился во владении г-на Ригора, субделегата интенданта Прованса, поместившего его в своём доме. Профессора коллежа, учреждённого г-ном де Бельсансом, став владельцами этого дома, стали владельцами и этой киппы: они устроили в этом помещении пансион и поместили памятник во дворе. Школьники, мало заботясь о его сохранности, забавлялись, повреждая его, как это обычно в их возрасте. Поскольку этот коллеж был передан марсельской общине при упразднении Общества (иезуитов), двор был превращён в склад; и наша киппа оказалась предоставлена на волю всех тех, кто складывает там свои товары. Я счёл эти подробности необходимыми, дабы предупредить тех из моих читателей, кто пожелает сверить этот памятник, не удивляться различиям, которые они найдут между надписью в том виде, в каком она на оригинале, и той, что приведена на гравюре. Эти различия происходят от неосторожности школьников, превративших первую лямбду в альфу и т. д. У меня имеется копия этой надписи в том виде, в каком она была, когда ею владел г-н Ригор; и именно по ней я велел исполнить гравюру.",
+        "Этот предмет вызвал литературные споры, отражённые в «Мемуарах Треву» за май и октябрь 1714 года, июль 1715 и декабрь 1716 года, а также в «Mercure de France» за август 1721 года.",
+        "Г-н де ла Р** дал (7) объяснение греческой надписи, высеченной на нашем памятнике. По его мнению, её следовало переводить на латынь в следующем смысле: CAIA LEPHENA POSIDONACTIS FILIA. DIONISIVS IVLIVS, QVI ET DIAS NICVS FILIVS. MATRI MEMORIÆ GRATIA.",
+        "Авторы «Журнала Треву» присоединили к этому толкованию другое объяснение той же надписи, добавив под латинскими словами следующее: «Это Диасу Никусу Денис Жюль, его сын, и Кайя Лефена, дочь Посидонакса, его падчерица, воздвигли этот памятник».",
+        "Г-н де Вальбоне, первый президент Счётной палаты Дофине, дал иное толкование в письме, написанном г-ну де Бону, первому президенту Палаты косвенных сборов Монпелье; он утверждал, что надпись следует переводить так: CAIÆ LEPHENÆ DIONISIVS IVLIVS NEPTVNO ACTVS, QVI ET DIÆ NICAS MATRI, MEMORIÆ GRATIA (подразумевается) POSVIT.",
+        "Нет ничего более изощрённого, чем система, придуманная г-ном де Вальбоне в подкрепление своего объяснения; но она грешит против правдоподобия; и все последующие рассуждения отдают романом. Было бы слишком долго их все приводить (8); довольно будет, чтобы дать читателю возможность судить, представить его взору лишь одну черту. «Такой грек, — говорит г-н де Вальбоне, — путешествует морем... две женщины, бывшие на его борту, умирают... одна из первых его забот — воздать им погребальные почести: их память ему дорога; он хочет оставить о том памятный знак потомству. Поскольку он чужестранец и не знает языка страны, он пользуется своим собственным на памятнике». [По этой последней фразе можно судить о достоинстве объяснения.] Грек, не знающий языка Марселя — греческой колонии, где сами римляне приезжали изучать язык Демосфена, Платона и Гомера! Какое странное заблуждение! Автор письма к г-ну Ригору, помещённого в «Mercure» за август 1721 года, не преминул это отметить.",
+        "Из всех толкований нашей надписи наиболее естественным представляется то, что даёт латинский перевод г-на де ла Р.; но на французский его следует перевести так: «КАЙЯ ЛЕФЕНА, ДОЧЬ ПОСИДОНАКСА, И ДЕНИ ЖЮЛЬ, СЫН ДИАСА НИКУСА, ВОЗДВИГЛИ ЭТОТ ПАМЯТНИК В ПАМЯТЬ СВОЕЙ МАТЕРИ».",
+        "Различие, которое слова «qui» и «Dias Nicus filius» как будто проводят между Денисом Жюлем и его сестрой Кайей Лефеной, должно, естественно, проистекать из того, что они были единоутробными братом и сестрой: их мать вступила во второй брак, и Дени Жюль, дабы указать, от какого из двух мужей он происходит, добавил в эпитафии матери слова «qui» и «Dias Nicus filius» (9). Высота 3 фута 9 с половиной дюймов.",
+        "(7) В письме, написанном г-ну Ригору в мае 1714 года. — (8) См. упомянутые выше журналы и «Mercure». — (9) Я неоднократно отмечал на протяжении этого труда, что в древних городах находят следы их древности в современных учреждениях и обычаях этих же городов. Эти замечания должны распространяться и на собственные имена; их весьма часто встречают в марсельских семействах, причём единственное различие, какое замечается между одними и теми же именами, переданными по-гречески или по-латыни, — это разница в произношении: таково имя NIKOYS. В Марселе немало лиц, носящих имя NICOU. Эти почти неуловимые оттенки поражают тех, кто знает языки; мне не представляется безразличным отмечать их в труде, предназначенном сохранить отечеству свидетельства его древности."
+      ],
+      "text_en": [
+        "No. 2. Column fragment of common marble, popularly called \"cold stone\" (Pierre froide), which has at all times been put to very great use at Marseille. This piece, found in this City, was in the possession of M. Rigord, Deputy of the Intendant of Provence, who had it placed in his house. The Professors of the College founded by M. de Belsunce, having become owners of this house, likewise became owners of this Cippus: they set up a boarding school there, and had the monument placed in the Courtyard. The schoolboys, careless of its preservation, amused themselves mutilating it, as is usual at their age. This College having been given to the community of Marseille upon the Society's suppression, the courtyard was turned into a warehouse; and our Cippus is thus left to the mercy of all those who store their goods there. I thought these details necessary, to forewarn those readers curious to verify this monument, so they would not be surprised at the differences they will find between the inscription as it stands on the original and the one shown in the engraving. These come from the carelessness of schoolboys, who turned the first Lambda into an Alpha, etc. I have a copy of this inscription as it was when M. Rigord owned it, and it is from that copy I had the engraving made.",
+        "This piece gave rise to literary debates, recorded in the Mémoires de Trévoux of May and October 1714, July 1715, and December 1716, as well as in the Mercure de France of August 1721.",
+        "M. de la R** had given (7) an explanation of the Greek inscription carved on our monument. According to him, it was to be translated into Latin in the following sense: CAIA LEPHENA POSIDONACTIS FILIA. DIONISIVS IVLIVS, QVI ET DIAS NICVS FILIVS. MATRI MEMORIÆ GRATIA.",
+        "The authors of the Journal de Trévoux added to this interpretation another explanation of the same inscription, appending, beneath the Latin words, the following: \"It is to Dias Nicus that Denis Jule, his son, and Caia Lephena, daughter of Posidonax, his stepdaughter, erected this monument.\"",
+        "M. de Valbonais, first President of the Chambre des Comptes of Dauphiné, gave another interpretation, in a letter written to M. de Bon, first President of the Cour des Aides of Montpellier; he claimed the inscription should be translated thus: CAIÆ LEPHENÆ DIONISIVS IVLIVS NEPTVNO ACTVS, QVI ET DIÆ NICAS MATRI, MEMORIÆ GRATIA (understood) POSVIT.",
+        "Nothing could be more ingenious than the system M. de Valbonais devised to support his explanation; but it offends against plausibility, and all the reflections that follow smack of a novel. It would take too long to report them all (8); it will suffice, to let the reader judge, to set a single trait before his eyes. \"A Greek such as this one,\" says M. de Valbonais, \"travels by sea... two women aboard his ship die... one of his first concerns is to render them the honors of burial: their memory is dear to him; he wishes to leave a mark of it to posterity. Being a foreigner and not knowing the language of the country, he uses his own on the monument.\" [One may judge the merit of this explanation from this last sentence alone.] A Greek who does not know the language of Marseille, a Greek Colony where the Romans themselves came to study the language of Demosthenes, Plato, and Homer! What a strange blunder! The author of the letter to M. Rigord, printed in the Mercure of August 1721, does not fail to point this out.",
+        "Of all the interpretations of our inscription, the one given by M. de la R.'s Latin translation is the most natural; but it should be rendered into French as follows: \"CAIA LEPHENA, DAUGHTER OF POSIDONAX, AND DENIS JULES, SON OF DIAS NICUS, ERECTED THIS MONUMENT TO THE MEMORY OF THEIR MOTHER.\"",
+        "The distinction that the words Qui and Dias Nicus filius seem to draw between Denis Jules and his sister Caia Lephena must naturally come from their being brother and sister by the same mother only, their mother having remarried; Denis Jules, to distinguish from which of the two husbands he was born, added on his mother's epitaph the words qui and Dias Nicus filius (9). Height 3 feet 9 and a half inches.",
+        "(7) In a letter written to M. Rigord in May 1714. — (8) See the journals and the Mercure cited above. — (9) I have often said in the course of this work that traces of ancient Cities' antiquity are found in the modern institutions and customs of these same Cities. These remarks should extend even to proper names; they are very often encountered in Marseille families, the only difference noted between the same names rendered in Greek or Latin being one of pronunciation: such is the name NIKOYS. There are a number of people in Marseille who bear the name NICOU. These almost imperceptible nuances strike those who know the languages; it does not seem to me pointless to record them in a work meant to preserve for the Fatherland the credentials of its antiquity."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "ΚΑΗ ΦΕΝΗ ΠΟΣΙΔΟΝΑΚΤΟΣ ΔΙΟΝΥΣΙΟΣ ΙΟΥΛΙΟΣ ΔΣ ΚΑΙ ΔΙΑΣ ΝΙΚΟΣ ΤΗ ΜΗΤΡΙ ΜΝΗΜΗΣ ΧΑΡΙΝ",
+      "legend_ru": "ΚΑΗ ΦΕΝΗ ΠΟΣΙΔΟΝΑΚΤΟΣ ΔΙΟΝΥΣΙΟΣ ΙΟΥΛΙΟΣ ΔΣ ΚΑΙ ΔΙΑΣ ΝΙΚΟΣ ΤΗ ΜΗΤΡΙ ΜΝΗΜΗΣ ΧΑΡΙΝ",
+      "legend_en": "ΚΑΗ ΦΕΝΗ ΠΟΣΙΔΟΝΑΚΤΟΣ ΔΙΟΝΥΣΙΟΣ ΙΟΥΛΙΟΣ ΔΣ ΚΑΙ ΔΙΑΣ ΝΙΚΟΣ ΤΗ ΜΗΤΡΙ ΜΝΗΜΗΣ ΧΑΡΙΝ",
+      "findspot_fr": "Marseille",
+      "findspot_ru": "Марсель",
+      "findspot_en": "Marseille"
+    },
+    {
+      "id": "pl37-3",
+      "part": 5,
+      "plate": 37,
+      "num": "3",
+      "fr": "Pierre sépulcrale de Carmolaus, affranchi par Charles",
+      "ru": "Надгробный камень Кармолая, отпущенного на волю Карлом",
+      "en": "Sepulchral stone of Carmolaus, freed by Charles",
+      "page": "240",
+      "group": "XXXVII",
+      "group_fr": "Planche XXXVII",
+      "group_en": "XXXVII",
+      "group_page": "236",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "pierre du Cap Couronne",
+      "material_ru": "камень Кап-Куронн",
+      "material_en": "Cap Couronne stone",
+      "img": [
+        "pl37-full.jpg"
+      ],
+      "plate_img": "pl37-full.jpg",
+      "bbox": [
+        29.0,
+        57.0,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 3. Pierre sépulcrale chargée d'une inscription Grecque, trouvée en 1763 à la place au-devant de l'Eglise de St. Victor. Elle est incrustée sur la façade de la maison de Mr. le Chanoine d'Albert, dans l'angle de la terrasse de la place. Ce monument est en pierre de la carrière ordinaire du Cap Couronne. L'inscription doit être traduite par les mots suivans: Carolus, libertus, Carmolao Thrasonis, qui & Menon [supple vocatur.]",
+        "C'est-à-dire, Charles l'Affranchi a érigé ce monument à Carmolaus fils de Thrason nommé aussi Menon.",
+        "Mr. le Comte de Caylus rapporte cette inscription dans son 7e. volume du Recueil des Antiquités, à la partie Gauloise. Il adopte avec raison cette explication qui est de Mr. Lebeau, Secrétaire de l'Académie des Inscriptions & Belles-lettres, de qui Mr. de Caylus avoue la tenir."
+      ],
+      "text_ru": [
+        "№ 3. Надгробный камень с греческой надписью, найденный в 1763 году на площади перед церковью Сен-Виктор. Он вделан в фасад дома каноника д'Альбера, на углу террасы площади. Этот памятник выполнен из камня обычной каменоломни Кап-Куронн. Надпись следует переводить следующими словами: Carolus, libertus, Carmolao Thrasonis, qui & Menon [подразумевается vocatur].",
+        "То есть: «Карл Вольноотпущенник воздвиг этот памятник Кармолаю, сыну Трасона, именуемому также Меноном».",
+        "Граф де Кайлюс приводит эту надпись в 7-м томе своего «Собрания древностей», в галльской части. Он справедливо принимает это объяснение, принадлежащее г-ну Лебо, секретарю Академии надписей и изящной словесности, от которого г-н де Кайлюс, по его признанию, его и получил."
+      ],
+      "text_en": [
+        "No. 3. Sepulchral stone bearing a Greek inscription, found in 1763 on the square before the Church of St. Victor. It is embedded in the façade of the house of M. le Chanoine d'Albert, at the corner of the square's terrace. This piece is of the common quarry stone of Cap Couronne. The inscription should be translated by the following words: Carolus, libertus, Carmolao Thrasonis, qui & Menon [supple vocatur].",
+        "That is: \"Charles the Freedman erected this monument to Carmolaus, son of Thrason, also called Menon.\"",
+        "M. le Comte de Caylus reports this inscription in the 7th volume of his Recueil des Antiquités, in the Gallic section. He rightly adopts this explanation, which is by M. Lebeau, Secretary of the Académie des Inscriptions et Belles-Lettres, from whom M. de Caylus admits he had it."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "ΧΑΡΜΟΛΑΩ ΘΡΑΣΩΝΟΣ ΚΑΙ ΜΕ ΝΩΝ ΧΑΡΙΣ ΟΑΠΕΛΕΥΘΕΡΟΣ",
+      "legend_ru": "ΧΑΡΜΟΛΑΩ ΘΡΑΣΩΝΟΣ ΚΑΙ ΜΕ ΝΩΝ ΧΑΡΙΣ ΟΑΠΕΛΕΥΘΕΡΟΣ",
+      "legend_en": "ΧΑΡΜΟΛΑΩ ΘΡΑΣΩΝΟΣ ΚΑΙ ΜΕ ΝΩΝ ΧΑΡΙΣ ΟΑΠΕΛΕΥΘΕΡΟΣ",
+      "findspot_fr": "place devant l'église Saint-Victor",
+      "findspot_ru": "площадь перед церковью Сен-Виктор",
+      "findspot_en": "the square before the Church of Saint-Victor"
+    },
+    {
+      "id": "pl37-4",
+      "part": 5,
+      "plate": 37,
+      "num": "4",
+      "fr": "Cippe d'Ognetes (adieu funèbre et violation des sépultures)",
+      "ru": "Киппа Огнеты (погребальное прощание и нарушение неприкосновенности гробниц)",
+      "en": "Cippus of Ognetes (a funerary farewell and tomb-violation laws)",
+      "page": "241",
+      "group": "XXXVII",
+      "group_fr": "Planche XXXVII",
+      "group_en": "XXXVII",
+      "group_page": "236",
+      "flag": "",
+      "type": "tomb",
+      "material_fr": "marbre blanc statuaire",
+      "material_ru": "белый статуарный мрамор",
+      "material_en": "white statuary marble",
+      "img": [
+        "pl37-full.jpg"
+      ],
+      "plate_img": "pl37-full.jpg",
+      "bbox": [
+        76.0,
+        51.0,
+        7,
+        5
+      ],
+      "attrs": [],
+      "text_fr": [
+        "No. 4. Cippe trouvé au même quartier que celui coté numero 1. Il étoit au pouvoir du même Paysan, & lui servoit au même usage. Il est aujourd'hui placé dans la cour de la maison de Mr. Michel. Ce Cippe est plus curieux que le premier, en ce que la couronne de laurier est à double rang de feuilles, desquelles il sort des fleurs par distance; il est également en marbre blanc statuaire, & parfaitement bien exécuté: l'inscription Grecque qui est au bas, se rend en latin de la façon suivante: OGNETE IACENS ESTO, OPORTVNE. VALE TER MILLE ET SEXIES MILLIES. ANNO SEPTIMO MENSE QVINTO.",
+        "C'est-à-dire, Ognetes, reposez tranquillement: adieu trois mille fois; adieu la septième année, le cinquième mois.",
+        "Les ames de ceux qui étoient privés de la sépulture chez les Payens, étoient, selon leur croyance, errantes & vagabondes sur les bords du Styx, Caron leur refusant l'entrée de sa barque jusques à ce que le corps qu'elles avoient animé eût été enseveli; ce qui explique le Jacens esto oportunè, mis sur le Cippe qui décoroit la sépulture d'Ognetes. Celui qui lui avoit fait ériger ce monument, adressoit cet apostrophe aux mânes du défunt dans cette idée, ou dans le désir que personne ne vînt troubler ses cendres; ce qui étoit une profanation si grande chez les Payens, qu'elle méritoit l'animadversion du gouvernement. Les loix pénales sur la violation des sépulcres étoient extrêmement rigoureuses. Elles taxoient de sacriléges & punissoient comme tels ceux qui s'abandonnoient à cet excès, ou qui commettoient la moindre indécence auprès des tombeaux (10).",
+        "(10) Les peines contre les violateurs des sépulcres étoient pécuniaires dans certains cas, comme d'y bâtir par-dessus. On violoit même les sépulcres, en insultant les corps de ceux qui y étoient renfermés, soit qu'on les exhumât, soit qu'on leur jettât des pierres par mépris. Dans le 1er. cas celui qui commettoit ce crime, étoit regardé comme coupable de sacrilége; & les peines étoient différentes, selon la condition du criminel, & suivant les diverses manières dont le crime avoit été commis. Si celui qui avoit exhumé un corps, étoit un Plébéïen ou un homme de la lie du peuple, il étoit puni de mort; s'il étoit Patricien, il étoit seulement condamné à un exil perpétuel, à moins qu'il n'eût fait l'exhumation à force ouverte, & dans le dessein de voler; car alors on le punissoit corporellement; mais s'il avoit fait cette exhumation sans employer la violence, la punition se bornoit à l'exil & à la restitution de la valeur de la chose volée. Terrasson, Hist. de la Jurisprudence Romaine, page 200, à l'article des loix des XII tables, sur la loi 97, X table."
+      ],
+      "text_ru": [
+        "№ 4. Киппа, найденная в том же квартале, что и № 1. Она находилась во владении того же крестьянина и служила ему для того же назначения. Ныне она помещена во дворе дома г-на Мишеля. Эта киппа любопытнее первой тем, что лавровый венок на ней выполнен в два ряда листьев, среди которых местами выступают цветы; она также из белого статуарного мрамора и исполнена в совершенстве: греческая надпись внизу передаётся на латыни следующим образом: OGNETE IACENS ESTO, OPORTVNE. VALE TER MILLE ET SEXIES MILLIES. ANNO SEPTIMO MENSE QVINTO.",
+        "То есть: «Огнета, покойся спокойно: прощай три тысячи раз; прощай, седьмой год, пятый месяц».",
+        "Души тех, кто был лишён погребения, у язычников, по их верованию, блуждали неприкаянными по берегам Стикса, и Харон отказывал им во входе в свою ладью, пока не будет погребено тело, которое они одушевляли; это и объясняет «Jacens esto oportunè», начертанное на киппе, украшавшей гробницу Огнеты. Тот, кто велел воздвигнуть этот памятник, обращал это воззвание к манам усопшей с этой мыслью, или же из желания, чтобы никто не потревожил её прах; подобное считалось у язычников столь тяжким осквернением, что заслуживало кары со стороны властей. Уголовные законы о нарушении неприкосновенности гробниц были чрезвычайно суровы. Они квалифицировали как святотатство и карали соответственно тех, кто предавался подобным излишествам или допускал малейшую непристойность у гробниц (10).",
+        "(10) Наказания за осквернение гробниц в некоторых случаях были денежными — например, за постройку поверх них. Гробницы оскверняли также, оскорбляя тела заключённых в них, будь то их эксгумацией, будь то бросанием в них камней из презрения. В первом случае совершивший это преступление считался виновным в святотатстве; наказания различались в зависимости от положения преступника и от различных способов совершения преступления. Если эксгумировавший тело был плебеем или человеком из подонков общества, его карали смертью; если он был патрицием, его осуждали лишь на вечное изгнание, разве что эксгумация была произведена открытой силой и с целью грабежа — в этом случае его подвергали телесному наказанию; но если эксгумация была произведена без применения насилия, наказание ограничивалось изгнанием и возмещением стоимости похищенного. Террассон, «История римской юриспруденции», с. 200, статья о законах XII таблиц, закон 97, таблица X."
+      ],
+      "text_en": [
+        "No. 4. Cippus found in the same quarter as the one marked no. 1. It was in the possession of the same Peasant, and served him for the same purpose. It is now placed in the courtyard of M. Michel's house. This Cippus is more curious than the first, in that the laurel wreath has a double row of leaves, from among which flowers emerge at intervals; it is likewise of white statuary marble, and perfectly well executed: the Greek inscription at the bottom renders into Latin as follows: OGNETE IACENS ESTO, OPORTVNE. VALE TER MILLE ET SEXIES MILLIES. ANNO SEPTIMO MENSE QVINTO.",
+        "That is: \"Ognetes, rest quietly: farewell three thousand times; farewell, seventh year, fifth month.\"",
+        "The souls of those deprived of burial were believed by the Pagans to wander restlessly along the banks of the Styx, Charon refusing them entry into his boat until the body they had animated had been buried; this explains the Jacens esto oportunè placed on the Cippus adorning Ognetes's grave. Whoever had this monument erected addressed this apostrophe to the departed's shade with this thought in mind, or from a wish that no one disturb her ashes; such disturbance was so grave a profanation among the Pagans that it deserved the government's censure. The penal laws against violating tombs were extremely strict. They branded as sacrilege, and punished as such, those who indulged in this excess, or who committed the slightest indecency near tombs (10).",
+        "(10) Penalties against violators of tombs were, in certain cases, monetary, as for building over them. Tombs were also violated by insulting the bodies kept within, whether by exhuming them or by throwing stones at them out of contempt. In the first case, whoever committed this crime was regarded as guilty of sacrilege; penalties differed according to the criminal's rank, and the manner in which the crime had been committed. If whoever had exhumed a body was a Plebeian or a man of the lowest class, he was punished with death; if he was a Patrician, he was only sentenced to perpetual exile, unless he had carried out the exhumation by open force and with intent to steal, in which case he was punished corporally; but if he had carried out the exhumation without using violence, the punishment was limited to exile and restitution of the value of the stolen object. Terrasson, Histoire de la Jurisprudence Romaine, p. 200, article on the laws of the Twelve Tables, law 97, Table X."
+      ],
+      "obverse_fr": "",
+      "obverse_ru": "",
+      "obverse_en": "",
+      "reverse_fr": "",
+      "reverse_ru": "",
+      "reverse_en": "",
+      "motifs": [],
+      "legend_fr": "Ω ΓΝΗΤΕ ΗΣΤΕ ΚΑΙ ΡΕ ΧΑΙΡΕ ΤΡΙΣΧΙΛΙΑΚΙΣ ΕΤΗ Ζ ΜΗΝΙ Ε",
+      "legend_ru": "Ω ΓΝΗΤΕ ΗΣΤΕ ΚΑΙ ΡΕ ΧΑΙΡΕ ΤΡΙΣΧΙΛΙΑΚΙΣ ΕΤΗ Ζ ΜΗΝΙ Ε",
+      "legend_en": "Ω ΓΝΗΤΕ ΗΣΤΕ ΚΑΙ ΡΕ ΧΑΙΡΕ ΤΡΙΣΧΙΛΙΑΚΙΣ ΕΤΗ Ζ ΜΗΝΙ Ε",
+      "findspot_fr": "quartier du Canet",
+      "findspot_ru": "квартал Кане",
+      "findspot_en": "the Canet quarter"
     }
   ]
 }
