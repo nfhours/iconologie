@@ -19254,12 +19254,44 @@
       "group_fr": "Les quatre parties du Jour",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-239.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Звезда на темени",
+          "meaning": "свет, который даёт Заря",
+          "what_en": "Star atop her head",
+          "meaning_en": "the light that the Dawn gives us"
+        },
+        {
+          "what": "Дротик в руке",
+          "meaning": "тайный пыл, которым Заря воспламеняет и уязвляет",
+          "what_en": "Dart in her hand",
+          "meaning_en": "the secret ardour with which Dawn inflames and pierces us"
+        },
+        {
+          "what": "Крылатый конь Пегас",
+          "meaning": "живость мыслей, внушаемая добрым умам, особенно поэтам",
+          "what_en": "Winged horse Pegasus",
+          "meaning_en": "the quick liveliness of thought Dawn inspires in good minds, especially poets"
+        }
+      ],
+      "text_ru": [
+        "Оно означено нам прекрасной обнажённой женщиной, у которой на темени звезда, в одной руке — дротик, а в другой — привязанный конь Пегас.",
+        "Звездой обозначен свет, который даёт нам Заря; дротиком — тайный пыл, которым она нас воспламеняет и уязвляет; а крылатым конём Пегасом — быстрая живость мыслей, которую она внушает добрым умам, и в особенности Поэтам, чьей подругой она является. Некоторые другие изображают её на разноцветном небе, откуда она рассыпает цветы вперемешку и даже орошает своими слезами те, что произвела земля, как показано этими стихами:",
+        "«Уже своими яркими красками\nЗаря, расписывая всё сущее,\nПревращает в жемчуг свои слёзы\nНа лике лилий и роз»."
+      ],
+      "text_fr": [
+        "Il nous est signifié par vne belle femme nuë, ayant sur le sommet de la teste vne étoille, vn dard en vne main, & en l'autre le cheval Pegase qu'elle tient attaché.",
+        "Par l'étoille est denotée la clarté que l'Aurore nous donne; par le dard, la secrete ardeur dont elle nous enflamme & nous pique; & par le cheval Pegase, à qui l'on attribuë des aisles, la prompte vivacité des pensées qu'elle inspire aux bons esprits, & principalement aux Poëtes, dont elle est amie. Quelques autres la representent dans vn ciel diversement coloré, d'où elle seme des fleurs pesle-mesle, & arrose mesme de ses larmes celles que la terre a produites, comme il est démontré par ces vers.",
+        "Deja de ses vives couleurs\nL'Aurore peignant toutes choses,\nVient changer en perles ses pleurs,\nSur le teint des lys & des roses."
+      ],
       "en": "Morning",
-      "group_en": "The Four Parts of the Day"
+      "group_en": "The Four Parts of the Day",
+      "scans": [
+        "p2-239-1.jpg"
+      ]
     },
     {
       "id": "p2-240",
@@ -19272,12 +19304,35 @@
       "group_fr": "Les quatre parties du Jour",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-240.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Венера с сыном Купидоном",
+          "meaning": "жар и уязвление сердец в расцвете их возраста",
+          "what_en": "Venus with her son Cupid",
+          "meaning_en": "burning and wounding hearts in the prime of their age"
+        },
+        {
+          "what": "Огненные дротики (лучи)",
+          "meaning": "истинные символы полуденного зноя Солнца",
+          "what_en": "Fiery darts (rays)",
+          "meaning_en": "the true symbols of the Sun's noonday heat"
+        }
+      ],
+      "text_ru": [
+        "Я напрасно объяснял бы этот образ, поскольку достаточно немного здравого смысла, дабы понять, что он означает. Ибо подобно тому, как Венера, изображённая здесь со своим сыном Купидоном, одновременно жжёт и ранит тех, кого настигает либо своим пламенем, либо своими стрелами, производя свои главные действия в сердцах живых существ, когда те входят в средину своего возраста; так и Солнце никогда не бывает столь жгучим, как в свой Полдень, когда, падая на нас отвесно, оно мечет на все здешние вещи свои огненные дротики, или, если угодно, свои лучи, которые суть истинные его символы."
+      ],
+      "text_fr": [
+        "J'expliquerois inutilement cette figure, puisqu'il ne faut qu'vn peu de sens commun pour sçavoir ce qu'elle signifie. Car comme Venus icy dépeinte avec son fils Cupidon, brule & blesse ensemble ceux qu'elle atteint ou de ses flammes ou de ses fleches, produisant ses principaux effets dans les cœurs des animaux, quand ils entrent au milieu de leur âge; le Soleil de mesme n'est jamais si ardent que lors qu'estant en son Midy, & donnant à plomb sur nous, il élance sur toutes les choses d'icy bas ses dards enflammez, ou si voulez ses rayons, qui en sont les veritables symboles."
+      ],
       "en": "Midday",
-      "group_en": "The Four Parts of the Day"
+      "group_en": "The Four Parts of the Day",
+      "scans": [
+        "p2-240-1.jpg",
+        "p2-240-2.jpg"
+      ]
     },
     {
       "id": "p2-241",
@@ -19290,12 +19345,35 @@
       "group_fr": "Les quatre parties du Jour",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-241.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Лук в руке",
+          "meaning": "атрибут охотницы Дианы",
+          "what_en": "Bow in her hand",
+          "meaning_en": "the attribute of Diana the huntress"
+        },
+        {
+          "what": "Собаки на поводке",
+          "meaning": "вечер — самое благоприятное время для охоты",
+          "what_en": "Dogs led on a leash",
+          "meaning_en": "evening as the most favourable time for hunting"
+        }
+      ],
+      "text_ru": [
+        "Его невозможно представить лучше, чем это сделано здесь в образе Дианы, которая держит в одной руке лук, а в другой — собак, которых ведёт на поводке. Этим даётся понять, что из всех частей дня нет ни одной более подходящей и более благоприятной для охотников, чем вечер."
+      ],
+      "text_fr": [
+        "Il ne sçauroit estre mieux representé qu'il est icy par cette figure de Diane, qui tient d'vne main vn arc, & de l'autre des chiens qu'elle mene en lesse. Par où il est donné à connoistre, que de toutes les parties du jour, il n'en est point de plus propre ny de plus favorable aux chasseurs que le soir."
+      ],
       "en": "Evening",
-      "group_en": "The Four Parts of the Day"
+      "group_en": "The Four Parts of the Day",
+      "scans": [
+        "p2-241-1.jpg",
+        "p2-241-2.jpg"
+      ]
     },
     {
       "id": "p2-242",
@@ -19308,12 +19386,41 @@
       "group_fr": "Les quatre parties du Jour",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-242.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Венец из маков",
+          "meaning": "Ночь — мать Сна",
+          "what_en": "Crown of poppies",
+          "meaning_en": "Night as the mother of Sleep"
+        },
+        {
+          "what": "Трезубец и зажжённый факел",
+          "meaning": "власть Ночи над тьмой",
+          "what_en": "Trident and lit torch",
+          "meaning_en": "Night's dominion over darkness"
+        },
+        {
+          "what": "Облик Прозерпины, Царицы преисподней",
+          "meaning": "связь Ночи с подземным миром и сном",
+          "what_en": "The figure of Proserpine, Queen of the underworld",
+          "meaning_en": "Night's kinship with the underworld and with sleep"
+        }
+      ],
+      "text_ru": [
+        "Весьма уместно изображают её в образе Прозерпины, Царицы преисподней. Маки, которыми она увенчана, показывают, что она — мать Сна. Это происходит оттого, что своей влажностью она усиливает испарения желудка, которые поднимаются к высшей части тела и, удвоив свой холод от холода мозга, опускаются ниже и заставляют нас спать, чему, по Аристотелю, чрезвычайно способствует тьма. Здесь следует заметить, что Поэты называют Ночь нежной кормилицей Сна, потому что она не только порождает его, но и действительно поддерживает и питает. Что же до трезубца и зажжённого факела, которые ей дают держать в руке, это показывает её власть над тьмой, сквозь которую невозможно действовать, если она не рассеяна светом, по каковой причине некоторые выводят этимологию слова Nox от латинского глагола nocere («вредить»), дабы показать, что Ночь, безусловно, вредна для глаз, лишая их способности видеть, скрывая от них цвета вещей, которые по природе своей радуют взор."
+      ],
+      "text_fr": [
+        "C'est fort à propos qu'on la dépeint sous l'image de Proserpine, Reine des enfers. Les pavots dont elle est couronnée, montrent qu'elle est mere du Sommeil. Ce qui procede de ce que par son humidité elle accroist les vapeurs de l'estomach, qui s'élevent en la plus haute partie du corps, & qui redoublant leur froideur par celle du cerveau, descendent plus bas, & nous font dormir, à quoy, selon Aristote, les tenebres contribuent extremément. Où il est à remarquer que les Poëtes nomment la Nuit la douce nourrice du Sommeil, parce qu'elle ne l'engendre pas seulement, mais qu'elle l'entretient en effet & le nourrit. Quant au trident & à la torche allumée qu'on luy fait porter en la main, c'est pour montrer l'empire qu'elle a sur les tenebres, à travers lesquels il est impossible d'agir, si elles ne sont dissipées par la clarté, à raison dequoy quelques-vns tirent l'ethymologie de Nox du verbe latin nocere, pour montrer que la Nuit est asseurément nuisible aux yeux, en ce qu'elle les prive de l'acte de voir, en leur cachant les couleurs des choses ausquelles l'œil se plaist naturellement."
+      ],
       "en": "Night",
-      "group_en": "The Four Parts of the Day"
+      "group_en": "The Four Parts of the Day",
+      "scans": [
+        "p2-242-1.jpg",
+        "p2-242-2.jpg"
+      ]
     },
     {
       "id": "p2-243",
