@@ -18335,12 +18335,43 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-219.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Разорванное платье",
+          "meaning": "гордыня не связана с достатком — она невыносима даже в бедности и убожестве",
+          "what_en": "Torn robe",
+          "meaning_en": "pride has nothing to do with wealth — it is unbearable even amid poverty and wretchedness"
+        },
+        {
+          "what": "Павлин в руке",
+          "meaning": "иероглиф надменного, высокомерного нрава",
+          "what_en": "Peacock in her hand",
+          "meaning_en": "the hieroglyph of a haughty, arrogant temper"
+        },
+        {
+          "what": "Шар под ногами",
+          "meaning": "презрение ко всему свету",
+          "what_en": "Globe beneath her feet",
+          "meaning_en": "contempt for the whole world"
+        }
+      ],
+      "text_ru": [
+        "Эта юная девушка, чьё платье разорвано, держащая павлина в одной руке и стоящая ногами на шаре, достаточно показывает, что её гордыню невозможно терпеть, столь высок предел, до которого она вознеслась. Ибо сколь бы бедна и жалка она ни была, она не перестаёт являть взорам",
+        "всех свой надменный нрав, обозначенный павлином, который служит его иероглифом, и презрение ко всему свету, представленное шаром."
+      ],
+      "text_fr": [
+        "Cette jeune fille, dont la robe est déchirée, qui tient vn paon d'vne main, & vn globe sous ses pieds, fait assez voir que son orgueil ne se peut souffrir, si haut est le comble où il est monté. Car quelque pauvre & miserable qu'elle soit, elle ne laisse pas de produire à la veuë",
+        "de tous son humeur altiere, dénotée par le paon, qui en est le hieroglyphe; & de baffouër tout le monde, representé par le globe."
+      ],
       "en": "Insufferable Pride",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-219-1.jpg",
+        "p2-219-2.jpg"
+      ]
     },
     {
       "id": "p2-220",
@@ -18353,12 +18384,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-220.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Чёрное платье, обвитое плющом",
+          "meaning": "невосприимчивость к истине и упорная привязанность к собственным мнениям",
+          "what_en": "Black robe entwined with ivy",
+          "meaning_en": "imperviousness to truth and a stubborn clinging to one's own opinions"
+        },
+        {
+          "what": "Туманы и облака вокруг лица",
+          "meaning": "упорство в вере, что даже в ясных вещах есть неясность",
+          "what_en": "Mists and clouds around her face",
+          "meaning_en": "persisting in the belief that some obscurity remains even in clear matters"
+        },
+        {
+          "what": "Ослиная голова в руках",
+          "meaning": "Невежество как мать Упрямства",
+          "what_en": "Donkey's head in her hands",
+          "meaning_en": "Ignorance as the mother of Obstinacy"
+        }
+      ],
+      "text_ru": [
+        "Она облачена в чёрное платье, обвитое ветвями плюща; её лицо окружено туманами и облаками, а в руках она держит ослиную голову. Чёрным платьем с листьями плюща показано, что упрямый человек столь же невосприимчив к истине, сколь чёрный цвет — к любому другому; и что он держится своих мнений так же крепко, как плющ держится за стену: облаком — что, сколь бы ясны ни были вещи, он всегда упорствует в убеждении, что в них есть некая неясность: а ослиной головой — что Невежество можно по праву назвать матерью Упрямства."
+      ],
+      "text_fr": [
+        "Elle est vestuë d'vne robe noire environnée de branches de lierre; elle a des brouillars & des nuës autour de son visage, & porte en ses mains vne teste d'asne. Par sa robe noire à feuillages de lierre, il est démontré qu'vn homme obstiné n'est non plus susceptible de la verité, comme le noir d'aucune autre couleur; & qu'il s'attache à ses opinions aussi fortement, que le lierre à la muraille: par le nuage, que pour claires que soient les choses, il persiste toûjours à croire qu'il y a quelque sorte d'obscurité: & par la teste d'asne, que l'Ignorance peut estre avec raison appellée mere de l'Obstination."
+      ],
       "en": "Obstinacy",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-220-1.jpg",
+        "p2-220-2.jpg"
+      ]
     },
     {
       "id": "p2-221",
@@ -18371,12 +18431,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-221.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Омовение мавра (намёк на пословицу)",
+          "meaning": "тщетный, напрасный труд, не меняющий природы вещей",
+          "what_en": "Washing of a Moor (an allusion to the proverb)",
+          "meaning_en": "futile, wasted labour that changes nothing's nature"
+        }
+      ],
+      "text_ru": [
+        "Этот образ не нуждается в объяснении, поскольку то, что он являет, настолько верно, что дало повод пословице, гласящей, что, омывая тело мавра, дабы сделать его белым, теряют только щёлок."
+      ],
+      "text_fr": [
+        "Cette figure n'a pas besoin d'explication, puisque la chose qu'elle démontre est si veritable, qu'elle a donné lieu au Proverbe qui dit, qu'à laver le corps d'vn More pour le faire devenir blanc, on n'y perd que la lescive."
+      ],
       "en": "Wasted Effort",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-221-1.jpg",
+        "p2-221-2.jpg"
+      ]
     },
     {
       "id": "p2-222",
@@ -18389,12 +18466,29 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-222.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Две змеи в руках",
+          "meaning": "символ крайнего вероломства (по Аристотелю)",
+          "what_en": "Two serpents in her hands",
+          "meaning_en": "the symbol of extreme treachery (per Aristotle)"
+        }
+      ],
+      "text_ru": [
+        "Она обозначена вам этим образом коварной женщины, которая держит в каждой руке по змее, каковая, по Аристотелю, есть символ крайнего вероломства."
+      ],
+      "text_fr": [
+        "Elle vous est denotée par cette figure d'vne femme artificieuse, qui tient en chaque main vn serpent, lequel, selon Aristote, est le symbole d'vne extreme perfidie."
+      ],
       "en": "Perfidy",
-      "group_en": "Vices (untitled in the book)"
+      "group_en": "Vices (untitled in the book)",
+      "scans": [
+        "p2-222-1.jpg",
+        "p2-222-2.jpg"
+      ]
     },
     {
       "id": "p2-223",
