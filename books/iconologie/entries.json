@@ -12824,12 +12824,37 @@
       "group_fr": "Amours divers",
       "group_page": "115",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-97-overview.jpg",
+        "p2-97.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Два дополнительных образа без собственных медальонов: Любовь к Богу (муж на коленях, глаза к Небу, открытое сердце) и Любовь к ближнему (богато одетый муж с пеликаном, питающим птенцов своей кровью, подающий милостыню больному); на иллюстрации — общий вид страницы со всеми медальонами «Divers Amours»; затем Укрощённая Любовь — сидящий крылатый Купидон с песочными часами, птицей и потухшим факелом под ногами",
+          "meaning": "Открытое сердце — непосредственность любви к Богу; пеликан, кормящий кровью, — жертвенная любовь к ближнему; песочные часы и потухший факел — время и нищета, укрощающие любовную страсть; тощая птица — измождённое состояние влюблённых; попранное оружие — покорность и презрение к прежней страсти",
+          "what_en": "Two further images without dedicated roundels: Love of God (a kneeling man, eyes toward Heaven, an open heart) and Love of Neighbor (a richly dressed man with a pelican feeding its young with its own blood, giving alms to a sick man); the illustration shows the full page with all the \"Diverse Loves\" roundels; then Tamed Love — a seated winged Cupid with a sand-glass, a bird, and a bow, quiver and extinguished torch underfoot",
+          "meaning_en": "The open heart signifies the directness of love for God; the blood-feeding pelican, sacrificial love for one's neighbor; the sand-glass and extinguished torch, the time and poverty that tame love's passion; the emaciated bird, lovers' wasted state; the trampled weapons, submission and contempt for a spent passion"
+        }
+      ],
+      "text_ru": [
+        "Любовь к Богу изображают мужем, преклонившим колена, с глазами, обращёнными к Небу, и открытым сердцем. Что объясняет себя довольно само собою. А Любовь к ближнему — другим мужем, богато одетым, подле коего виден пеликан, орошающий своих птенцов собственной кровью. К чему прибавлю, что это милосердное лицо одной рукой поднимает бедного больного, а другой подаёт ему деньги, как заповедует Бог в Евангелии.",
+        "Его являет нам сидящий Купидон с крыльями на спине, песочными часами в правой руке, маленькой птицей в левой, и под ногами — лук, колчан и потухший факел.",
+        "То, что он попирает ногами собственное оружие, есть знак покорности и крайнего презрения. А поскольку нет ничего, что столь же хорошо укрощало бы Любовь, как время и бедность, одно весьма уместно явлено песочными часами, что Купидон держит в руке, будучи, как он есть, истинным символом времени, коим усмиряются сильнейшие страсти жизни, но угасает им особенно страсть Любви, предлагающая себе целью наслаждение. А поскольку красота, обожаемая влюблённым, изменяется временем, то и чувство должно меняться равным образом, и действие прекращается, когда прекращается причина. Демосфен весьма удачно сказал по этому поводу, что огонь, коим Любовь воспламеняет сердце, угасает не столько от прилагаемой заботы, сколько от самого равнодушия, коим время неприметно охлаждает самых воспламенённых.",
+        "Что до птицы, что ему дают держать, называемой греками Κιρκνος, а латинянами Cinclus, чрезвычайно худой и истощённой, — это символ жалкого состояния влюблённых, коих сила их страсти обычно делает худыми. Но поскольку, по Кратету Фиванскому, есть три вещи, способные укротить Любовь, а именно голод, время и отчаяние, было бы не без основания накинуть верёвку на шею Купидона, дабы показать, что отчаявшиеся влюблённые обычно желают смерти во всякий час и даже порою устремляются к ней. Свидетель тому Федра, которая в Ипполите Еврипида, не в силах долее сносить яростные приступы Любви, решается положить конец своей жизни. Надлежит, однако, заметить, что большинство влюблённых, замышляющих более не жить, в конце концов теряют это желание и вскоре меняют это пагубное решение, лишь только им выпадет малейшая удача. Тассо говорит об этом так: Таков обычай Влюблённого — Говорить о смертельной обиде; Но поскольку Любовь непостоянна, Действие за этим следует редко. А Кавальер Гварини, введя Миртилла, который в приступе своей страсти заключает, как человек отчаявшийся, Что лишь смерть может тому дать исцеление, заставляет Амариллис ответить ему: Ты говоришь о смерти, о несчастный Пастух! И желаешь окончить дни свои, дабы прекратить муку свою; Но это скорее действие любовной речи, Нежели воли твёрдой и непреложной."
+      ],
+      "text_fr": [
+        "L'ON represente l'Amour de Dieu par un homme à genoux, qui a les yeux tournez vers le Ciel, & le cœur ouvert. Ce qui s'explique assez de soy-mesme. Et l'Amour du prochain, par un autre homme, vestu richement; au costé duquel se voit un pelican, en action d'arroser ses petits de son propre sang. A quoy j'ajoûte que cette personne charitable releve d'une main un pauvre malade, & de l'autre luy donne de l'argent, comme Dieu le commande dans l'Evangile.",
+        "IL nous est figuré par un Cupidon assis, qui a des aisles au dos, une horloge en la main droite, un petit oiseau en la main gauche, & sous ses pieds un arc, un carquois & un flambeau éteint.",
+        "Ce qu'il foule aux pieds ses propres armes, est une marque de soûmission & d'un extreme dédain. Or dautant qu'il n'est rien qui dompte si bien l'Amour, comme font le temps & la pauvreté, l'un est demonstré fort à propos par l'horloge que Cupidon tient en main, estant, comme il est, le vray symbole du temps, par qui sont calmées les plus violentes passions de la vie, mais il éteint particulierement celle d'Amour, qui se propose pour but la jouïssance. Or comme la beauté qu'adore un amant, est changée par le temps; il faut que l'affection change de mesme, & que l'effet cesse, lors que la cause vient à cesser. Demosthene a fort bien dit à ce propos, que le feu dont Amour embrase le cœur, ne s'éteint pas tant par le soin qu'on y apporte, que par la nonchalance mesme, dont le temps refroidit insensiblement les plus échauffez.",
+        "Quant à l'oiseau qu'on luy fait tenir, que les Grecs appellent Κιρκνος, & les Latins Cinclus, qui est extremement maigre & décharné, c'est un symbole du miserable estat des amans, que la force de leur passion rend ordinairement maigres. Mais dautant que, selon Cratés le Thebain, il y a trois choses qui sont capables de dompter l'Amour, à sçavoir la faim, le temps, & le desespoir, l'on n'auroit pas mauvaise raison de mettre une corde au col du Cupidon, pour faire voir que les amans desesperez ont accoûtumé de souhaiter la mort à toute heure, & mesme de s'y precipiter quelquefois. Témoin Phedre, qui dans l'Hypolite d'Euripide, ne pouvant souffrir plus long-temps les furieuses atteintes d'Amour, se resout de mettre fin à sa vie. Où il est à remarquer pourtant que la pluspart des amans qui se proposent de ne plus vivre, en perdent enfin l'envie, & changent bien-tost cette funeste resolution, lorsque le moindre bonheur leur arrive. Le Tasse le dit ainsi: C'est la coustume d'un Amant De parler du mortel outrage; Mais comme l'Amour est volage, L'effet s'en ensuit rarement. Et le Cavalier Guarini ayant introduit Myrtille, qui dans l'accés de sa passion conclut en homme desesperé, Que la mort seulement y peut mettre remede, luy fait répondre par Amaryllis: Tu parles de mourir, ô Berger malheureux! Et veux finir tes jours pour terminer ta peine; Mais c'est plûtost l'effet d'un langage amoureux, Que d'une volonté qui soit ferme & certaine."
+      ],
       "en": "Love Subdued",
-      "group_en": "Various Kinds of Love"
+      "group_en": "Various Kinds of Love",
+      "scans": [
+        "p2-97-1.jpg",
+        "p2-97-2.jpg",
+        "p2-97-3.jpg"
+      ]
     },
     {
       "id": "p2-98",
@@ -12842,12 +12867,30 @@
       "group_fr": "Amours divers",
       "group_page": "115",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-98.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Обнажённое крылатое дитя с лавровым венцом на голове и тремя гирляндами в руках",
+          "meaning": "Лавр — немеркнущая, вечнозелёная природа любви к добродетели, превосходящей все прочие виды любви; три гирлянды и круглая, бесконечная форма — четыре кардинальные добродетели (Правосудие, Благоразумие, Сила, Умеренность), удвоенно означенные числом и формой",
+          "what_en": "A naked winged child with a laurel crown on his head and three garlands in his hands",
+          "meaning_en": "The laurel signifies the undying, evergreen nature of the love of virtue, surpassing every other kind of love; the three garlands and the round, endless shape, the four cardinal virtues (Justice, Prudence, Strength, Temperance), doubly signified by number and form"
+        }
+      ],
+      "text_ru": [
+        "Эту Любовь являет нам здесь обнажённое дитя с крыльями на спине, лавровым венцом на голове и ещё тремя гирляндами в руках. Что учит нас, что из стольких Любовей, описанных Поэтами, нет ни одной, что не должна бы уступить любви к добродетели, превосходящей их тем более, что она сама имеет преимущество и первенство над всеми вещами здешнего мира. Этим же означено, что любовь, питаемая к ней, вовсе не тленна, но всегда зеленеет, как лавр, и подобна гирлянде или венцу, не имеющему конца, будучи сферической формы. Ко всему этому можно прибавить, что гирлянда, коей увенчана эта Любовь, есть символ Нравственных, или Кардинальных Добродетелей — Правосудия, Благоразумия, Силы и Умеренности, причём круглая форма и тройное число удваивают изображение достоинства Добродетелей."
+      ],
+      "text_fr": [
+        "CET Amour nous est icy dépeint par un enfant nud, qui a des aisles au dos, une couronne de laurier sur la teste, & trois autres guirlandes en ses mains. Ce qui nous apprend que parmy tant d'Amours décrits par les Poëtes, il n'y en a point qui ne doive ceder à celuy de la vertu, qui les surpasse d'autant plus, qu'elle-mesme a l'avantage & la préeminence sur toutes les choses d'icy bas. Par où il est encore signifié, que l'amour qu'on a pour elle n'est point corruptible, mais toûjours verdoyant comme le laurier, & tel qu'une guirlande ou qu'une couronne qui n'a point de fin, pour estre de figure spherique. A toutes lesquelles choses on peut adjouster, que la guirlande dont cet Amour est couronné, est le symbole des Vertus Morales ou Cardinales, qui sont la Justice, la Prudence, la Force, & la Temperance, la figure ronde & le nombre ternaire representans doublement le prix des Vertus."
+      ],
       "en": "Love of Virtue",
-      "group_en": "Various Kinds of Love"
+      "group_en": "Various Kinds of Love",
+      "scans": [
+        "p2-98-1.jpg",
+        "p2-98-2.jpg",
+        "p2-98-3.jpg"
+      ]
     },
     {
       "id": "p2-99",
@@ -12860,12 +12903,29 @@
       "group_fr": "Amours divers",
       "group_page": "115",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-99.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Обнажённое крылатое дитя, увенчанное лавром, держащее в руках два венца — Гражданский (из дубовых листьев) и Осадный (из травы)",
+          "meaning": "Два венца представляют лишь часть римских воинских наград за доблесть: Гражданский — за спасение жизни согражданина, Осадный — за спасение войска в крайней опасности; упоминаются также непоказанные Стенной (за первым взобравшегося на вражескую стену) и Морской (за начавшего морскую атаку) венцы",
+          "what_en": "A naked winged child crowned with laurel, holding two crowns — the Civic (of oak leaves) and the Obsidional (of grass)",
+          "meaning_en": "The two crowns represent only part of the Roman military honors for valor: the Civic for saving a fellow citizen's life, the Obsidional for saving an army from extreme peril; also mentioned but not shown are the Mural crown (for first scaling an enemy wall) and the Naval crown (for beginning a naval attack)"
+        }
+      ],
+      "text_ru": [
+        "Эта фигура, как и предыдущая, есть изображение обнажённого дитяти, увенчанного лавром. Он держит в руках два различных венца — Гражданский и Осадный, кои словно желает поднести кому-то, не включая прочие, как Стенной и Морской, служившие у Римлян наградами победителям. Авл Геллий сообщает, что Триумфальный венец, даваемый победоносным Военачальникам, в древности был лавровым; Осадным, сплетённым из травы Gramen, чествовали лишь тех, кто в крайней опасности спас всё войско; Гражданский, сделанный из дубовой ветви, означал доблесть тех, кто в каком-либо сражении спас жизнь римскому гражданину; Стенной был обычной наградой Военачальника или Солдата, первым взобравшегося на стены вражеского города; а Морской, изображавший несколько носов кораблей, давался тому, кто начал атаку в морском сражении."
+      ],
+      "text_fr": [
+        "CETTE figure comme la precedente, est celle d'un enfant nud, & couronné de laurier. Il tient en ses mains deux differentes couronnes, qui sont la Civique, & l'Obsidionale, qu'il semble vouloir presenter à quelqu'un, sans y comprendre les autres, comme la Murale, & la Navale, qui parmy les Romains estoient les prix des vainqueurs. Aulus-Gelle rapporte que la couronne Triomphale qu'on donnoit aux Capitaines victorieux, estoit anciennement de laurier; l'Obsidionale de Gramen, de laquelle n'estoient honorez que ceux qui dans un extreme peril avoient sauvé toute l'armée; la Civique faite d'un rameau de chesne, marquoit la valeur de ceux qui dans quelque combat avoient sauvé la vie à un citoyen Romain; la Murale estoit le prix ordinaire d'un Capitaine ou d'un Soldat, qui avoit escaladé le premier les murailles d'une ville ennemie; & la Navale representant plusieurs becs de navires, se donnoit à celuy qui avoit commencé l'attaque dans un combat naval."
+      ],
       "en": "Love of Glory",
-      "group_en": "Various Kinds of Love"
+      "group_en": "Various Kinds of Love",
+      "scans": [
+        "p2-99-1.jpg",
+        "p2-99-2.jpg"
+      ]
     },
     {
       "id": "p2-100",
@@ -12878,12 +12938,45 @@
       "group_fr": "Amours divers",
       "group_page": "115",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-100.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Юный воин приятной наружности, стоящий между пламенем и клубами дыма, с венцом из травы в правой руке и дубовым венцом в левой, попирающий стопами сложенное оружие",
+          "meaning": "Юность и крепость — единственная любовь, крепнущая, а не слабеющая со временем; венец из травы (гламен) и дубовый венец — высшие воинские награды за спасение осаждённого отечества; попранное оружие — презрение к опасности ради защиты родины; пламя и дым — испытания войны, встречаемые бесстрашно",
+          "what_en": "A young warrior of pleasant appearance, standing between flame and billowing smoke, a grass crown in his right hand and an oak crown in his left, treading discarded weapons underfoot",
+          "meaning_en": "His youth and vigor signify the one love that strengthens rather than fades with time; the grass crown and oak crown, the highest military honors for saving a besieged homeland; the trampled weapons, contempt for danger in defense of one's country; the flame and smoke, the trials of war faced without fear"
+        }
+      ],
+      "text_ru": [
+        "Его представляет юный воин приятной наружности и исполненный мужества. Позади него пламя огня, а впереди — густой вихрь дыма, на который он взирает без страха. В правой руке он несёт венец из травы гламен, а в левой — другой, из дуба, попирая стопами алебарды, пики и иное подобное оружие.",
+        "Его изображают юным и бодрым, дабы показать, что чем более стареет Любовь к Отечеству, тем более она становится сильной и крепкой; тогда как все прочие виды Любви ослабевают со временем и в конце концов угасают. У нас нет недостатка в примерах тому: ибо на опыте видно, что Кавалер, долго служивший некой Даме, в конце концов теряет о ней память, после того как возраст и время охладили страсть; тогда как напротив, он никогда не забывает свою страну. Что ещё? Купец, ослеплённый надеждой наживы и пламенным желанием богатств, ищет их по морю и по суше вплоть до Нового Света, но в конце концов удаляется к себе домой, как в надёжную гавань. Придворный, льстящий своему честолюбию в пышном жилище Двора, нередко всё же пресыщается им и отправляется искать более прочный покой в месте своего рождения. Военачальник, коего жажда славы долго подвергала опаснейшим превратностям войны, не вполне доволен, если не идёт вкусить первых своих радостей в родном жилище. Свидетель тому Агамемнон, не желавший ничего так сильно, как вновь увидеть себя в обширной ограде стен Микен. И свидетель также мудрый Улисс, предпочитавший свою Итаку, хоть и малую и расположенную средь скал, величайшим и великолепнейшим городам. И впрямь истинно, что мы любим свою страну лишь потому, что в ней родились; отсюда и то, что сколь бы бесплодна и бедна она ни была, мы ценим её более всех прочих мест, кои их богатства и плодородие делают примечательными. Отсюда и пошла пословица, что дым нашего отечества кажется нам светлее, нежели огонь чужого. К чему относится то доброе слово Гомера в начале его Одиссеи, где он говорит о том же Улиссе, о коем мы только что говорили, что после стольких долгих странствий, кои он совершил, Любовь к своей стране, воспламенённая в душе его, Заставляла его желать вновь увидеть её дым. Что изобретательный Овидий подтверждает нам ещё этими стихами: Наша страна околдовывает нас И столь приятно щекочет наши чувства, Что похищает их и призывает нас обратно, Когда мы от неё отсутствуем.",
+        "Истинным символом Любви к Отечеству служит венец из гламена, сплетённый из той же травы, что произрастала в ограде осаждённого врагами города, и бывший обычно наградой тому, кто заставил их снять осаду. По каковой причине великий Фабий по праву получил его от Римского Сената, как избавивший Рим от насилий, чинимых ему Карфагенянами. И, по правде говоря, эта награда, сколь бы малой она ни казалась, была тем более велика, что тот, кого почитали её достойным, мог похвалиться, что, спасая всё тело Государства, спасал вместе с тем и все его члены в частности.",
+        "Разверстые пропасти близ этого воина, мужественно попирающего стопами различное оружие, означают, что величайшие опасности кажутся малыми благородным сердцам, когда речь идёт о сохранении и защите их отечества. Чему Древние дали нам верные доказательства в лице Анкура, сына Эмидаса, Царя Фригийского, и М. Курция Римского, кои ради спасения своих отечеств добровольно бросились в пропасть, из коей исходили заразные испарения чумы.",
+        "Приведу по этому поводу те прекрасные слова, кои изобретательный Гомер в пятнадцатой Илиаде влагает в уста Нестора для ободрения Троянцев против Греков: Смело сражайтесь с их бродячим флотом, Презирайте опасности на суше и на волнах; Нет такой угрозы, что должна бы вас устрашить, Умрите, если надобно умереть, дабы спасти отечество, Это сладчайшая смерть, что может быть вам дана, Коей доблесть ваша не может быть опорочена.",
+        "Это заставляет Лукиана сказать, что в воинских речах Военачальнику, желающему воодушевить своих людей, довольно лишь напомнить им, что они воюют ради защиты своей страны; ибо этих слов довольно, дабы послужить им мощным жалом чести — сражаться как добрым людям ради общего сохранения всего общества. По этой же причине Ликург, Царь Лакедемонян и суровый Законодатель, повелел высекать на надгробиях лишь имена тех, кто умер на службе отечеству, ибо лишь они казались ему достойными памяти людской. Не без основания, стало быть, Ксенофонт, Философ Афинский, узнав во время жертвоприношения, которое он совершал Богам, что сын его Гриллус был убит на войне, сперва снял венец со своей головы, но, узнав затем, что тот умер мужественно, сражаясь за свою страну, вновь его надел, свидетельствуя, что эта утрата была для него славной; Уже давно, сказал он, молил я бессмертных Богов даровать мне сына, который умер бы так, как этот, добрым человеком, с оружием в руках, дабы употребить его на защиту родной страны.",
+        "Привёл бы я и многие другие примеры в подтверждение этой истины, если бы не знал, что это было бы излишним после тех, что оставили нам Горации, Деции, Фабии и прочие им подобные, почитавшие некогда за славу принести себя в жертву ради города Рима, их общего отечества."
+      ],
+      "text_fr": [
+        "IL est representé par un jeune guerrier, de bonne mine & plein de courage. Il a derriere luy une flamme de feu, & devant un épais tourbillon de fumée qu'il regarde sans s'étonner. En sa main droite il porte une couronne de gramen, & en la gauche une autre de chesne, foulant à ses pieds des hallebardes, des piques, & autres armes semblables.",
+        "Il est peint jeune & vigoureux, pour montrer que tant plus l'Amour de la Patrie vieillit, tant plus il devient fort & robuste; au lieu que tous les autres Amours sont affoiblis par le temps, & cessent enfin. Nous ne manquons pas d'exemples de cecy: car il se voit par épreuve qu'un Cavalier ayant servy long-temps une Dame, en perd le souvenir à la fin, aprés que l'âge & le temps ont refroidy la passion; comme au contraire jamais il n'oublie son païs. Quoy davantage? Un marchand aveuglé par l'esperance du gain, & par un ardent desir de richesses, le va chercher par mer & par terre jusqu'au nouveau Monde, & se retire finalement chez soy, comme en un port asseuré. Un courtisan qui flate son ambition dans la pompeuse demeure de la Cour, ne laisse pas de s'en dégoûter assez souvent; & d'aller chercher un plus solide repos dans le lieu de sa naissance. Un Capitaine que le desir de la gloire a long-temps exposé aux plus dangereux hazards de la guerre, n'est pas bien content s'il ne va joüir de ses premiers delices dans sa demeure natale. Témoin Agamemnon, qui ne souhaittoit rien tant, que de se voir encore une fois dans le vaste enclos des murailles de Mycenes. Et témoin aussi le sage Ulysse, qui preferoit son Itaque, bien que petite, & située parmy les rochers, aux plus grandes & plus magnifiques villes. Aussi est-il vray, que nous n'aimons nostre païs qu'à cause que nous y sommes nais; d'où vient que pour sterile & pauvre qu'il soit, nous en faisons plus d'estat que de tous les autres lieux, que leurs richesses & leurs fertilitez rendent recommandables. C'est de là qu'est venu le proverbe, que la fumée de nostre patrie nous semble plus luisante, que n'est le feu de celle d'autruy. A quoy se rapporte ce bon mot d'Homere au commencement de son Odissée, où il dit du mesme Ulysse dont nous venons de parler, qu'aprés tant de longs voyages qu'il avoit faits, L'Amour de son païs dans son ame allumée, Luy faisoit desirer d'en revoir la fumée. Ce que l'ingenieux Ovide nous confirme encore par ces vers: Nostre pays nous ensorcelle, Et chatouille si bien nos sens, Qu'il les ravit, & nous rappelle, Lors que nous en sommes absens.",
+        "De l'Amour du Païs est le vray symbole la couronne de gramen, faite de la mesme herbe qui se trouvoit dans l'enclos d'une ville que les ennemis tenoient assiegée, & qui estoit ordinairement le prix de celuy qui leur avoit fait lever le siege. A raison dequoy le grand Fabius la receut à bon droit du Senat Romain, comme il eut delivré Rome des violences que luy faisoient les Carthaginois. Et à vray dire, cette recompense, quelque petite qu'elle semble, estoit d'autant plus grande, que celuy qu'on en jugeoit digne, se pouvoit vanter qu'en sauvant tout le corps de l'Estat, il en sauvoit aussi particulierement tous les membres.",
+        "Les precipices ouverts prés de ce guerrier, qui foule aux pieds courageusement diverses armes, signifient que les plus grands dangers semblent petits aux courages nobles, quand il s'agit de la conservation & de la defense de leur patrie. Dequoy les Anciens nous ont donné des preuves certaines en la personne d'Ancur, fils d'Emidas Roy de Phrygie, & de M. Curse Romain, qui pour sauver leurs patries, se precipiterent volontairement dans un gouffre d'où s'exhaloient les contagieuses vapeurs de la peste.",
+        "J'allegueray à ce propos ces belles paroles que l'ingenieux Homere dans l'Iliade 15. fait dire à Nestor pour encourager les Troyens contre les Grecs. Combattez hardiment leur flote vagabonde, Méprisez les dangers sur la terre & sur l'onde; Il n'est point de peril qui vous doive étonner, Mourez, s'il faut mourir, pour sauver la patrie, C'est la plus douce mort qu'on vous puisse donner, Par qui vostre valeur ne peut estre flétrie.",
+        "C'est ce qui fait dire à Lucian, qu'aux harangues militaires, un Capitaine qui veut animer ses gens, n'a seulement qu'à leur remontrer, qu'ils font la guerre pour la defense de leur pays; car ces paroles peuvent suffire pour leur servir comme d'un puissant aiguillon d'honneur, à combattre en gens de bien pour la commune conservation de tout le public. Pour cette mesme raison Licurge Roy des Lacedemoniens & Legislateur severe, ordonna qu'on ne gravast sur les tombeaux que le nom de ceux qui seroient morts au service de leur patrie, parce qu'eux seuls luy semblerent dignes de la memoire des hommes. Ce ne fut donc pas sans sujet que Xenophon Philosophe Athenien, ayant appris dans un sacrifice qu'il faisoit aux Dieux, que son fils Grillus avoit esté tué à la guerre, osta premierement sa couronne de sa teste, puis comme il eut sceu qu'il estoit mort courageusement en combattant pour son païs, il se la remit derechef, & témoignant que cette perte estoit glorieuse pour luy; Il y a long-temps, dit-il, que j'ay prié les Dieux immortels de me donner un fils qui mourust comme a fait celuy-cy en homme de bien, & les armes à la main, pour s'en servir à defendre son pays natal.",
+        "J'allegueroes plusieurs exemples pour confirmation de cette verité, si je ne sçavois que cela seroit superflu aprés ceux que nous ont laissé les Horaces, les Decius, les Fabius, & ainsi des autres, qui firent gloire autrefois de s'immoler pour la ville de Rome leur commune patrie."
+      ],
       "en": "Love of One's Country",
-      "group_en": "Various Kinds of Love"
+      "group_en": "Various Kinds of Love",
+      "scans": [
+        "p2-100-1.jpg",
+        "p2-100-2.jpg",
+        "p2-100-3.jpg",
+        "p2-100-4.jpg",
+        "p2-100-5.jpg",
+        "p2-100-6.jpg"
+      ]
     },
     {
       "id": "p2-101",
