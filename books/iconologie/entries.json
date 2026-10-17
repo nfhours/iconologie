@@ -12307,12 +12307,50 @@
       "group_fr": "Diverses Vertus",
       "group_page": "99",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-85-overview.jpg",
+        "p2-85-vertu.jpg",
+        "p2-85.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Общее вступление о Добродетели вообще — крылатая дева с пикой, лавровым венком и сияющим солнцем на груди; на иллюстрации — общий вид страницы со всеми медальонами «Diverses Vertus»; затем Непобедимая Добродетель — Паллада в шлеме, с копьём и щитом с девизом «Nec sorte, nec fato»",
+          "meaning": "Крылья и солнце — вознесение над обыденным и животворящая сила добродетели; лавр и пика — стойкость перед бедствием и способность к защите; щит с девизом «ни случаем, ни судьбой» — независимость торжествующей добродетели от власти Судьбы, по образу Беллерофонта, побеждающего Химеру",
+          "what_en": "A general introduction on Virtue in general — a winged maiden with a pike, a laurel wreath, and a radiant sun upon her breast; the illustration shows the full page with all the \"Diverse Virtues\" roundels; then Invincible Virtue — Pallas in a helmet, with a lance and a shield bearing the motto \"Nec sorte, nec fato\"",
+          "meaning_en": "The wings and sun signify virtue's rising above the ordinary and its life-giving power; the laurel and pike, resilience against adversity and the capacity for defense; the shield with its motto \"neither by chance nor by fate\", triumphant virtue's independence from Fortune's power, after the image of Bellerophon defeating the Chimera"
+        }
+      ],
+      "text_ru": [
+        "Добродетель представляется нам вообще прекрасной и приятной девой с крыльями на спине, пикой в правой руке, лавровым венцом в левой и сияющим Солнцем на прекрасной её груди.",
+        "Её изображают юной, ибо она никогда не стареет, а её сила, что растёт день ото дня, длится столько же, сколько жизнь человека.",
+        "Крылья её являют, что Добродетели свойственно возноситься над полётом людей обыкновенных, дабы наслаждаться теми непреходящими радостями, в коих участвуют лишь добродетельные.",
+        "Солнце, даваемое ей символом, даёт нам знать, что как свет нисходит с Неба на землю, так и от Добродетели, равно как от сердца, проистекает сила нашего тела, ибо именно она своей властью правит нашими движениями.",
+        "А то, что ей дают в левую руку лавровый венок, а в правую — пику, означает одним — что Добродетель никогда не повергается бедствием, как и лавр молнией; а другим — что у неё есть чем защититься самым превосходным из оружий, кое Древние обычно принимали за знак первенства.",
+        "Иные прибавили к этой фигуре рог изобилия, полный различных плодов, ибо Добродетель, когда умеют ею пользоваться, никогда не покидает тех, кто ей служит, и ограждает их от тягот жизни.",
+        "Но самое примечательное из этих изображений — то, что заимствовано с медали Люция Вера, где на коне Пегасе виден доблестный Беллерофонт, сражающийся с Химерой, которую он умерщвляет ударом дротика.",
+        "Под этой же Химерой аллегорически должно разуметь многие чудовищные и безобразные пороки, умерщвляемые Беллерофонтом; как весьма удачно заметил учёный Альциато в составленной им об этом эмблеме: отсюда же показано, что нет силы, сколь бы велика она ни была, которую нельзя было бы одолеть Добродетелью. Потому её и изображают приятной и прекрасной, ибо в ней есть некие чары, никогда не упускающие случая привлечь и покорить мужество людей.",
+        "Эта медаль сходна с медалью Александра, на коей Добродетель держит в одной руке копьё, а в другой — земной шар, дабы научить нас тем самым, что она подчиняет себе всю Вселенную и обычно сражается с пороком. По этой причине она также представлена в облике Амазонки на медали Домициана и Гальбы.",
+        "Её изображение — изображение Паллады, со шлемом на голове, копьём в правой руке и щитом в левой, на коем читаются слова: Nec sorte, nec fato (ни случаем, ни судьбой). Что не означает ничего иного, кроме того, что Добродетель, всегда победоносная и торжествующая, никоим образом не подвластна власти Судьбы."
+      ],
+      "text_fr": [
+        "LA Vertu nous est representée en general par une belle & agreable fille, qui a des aisles au dos, une pique en la main droite, en la gauche une couronne de laurier, & un Soleil resplendissant dans son beau sein.",
+        "Elle est peinte jeune, à cause qu'elle ne vieillit jamais, & que sa vigueur qui s'augmente de jour en jour, dure autant que la vie de l'homme.",
+        "Ses aisles demonstrent que la Vertu a cela de propre de s'élever par dessus le vol des personnes vulgaires, afin de jouïr de ces plaisirs perdurables, auxquels les seuls vertueux prennent part.",
+        "Le Soleil qu'on luy donne pour symbole, nous fait connoistre que comme la lumiere vient du Ciel à la terre, aussi est-ce de la Vertu, de mesme que du cœur, que procede la force de nostre corps, puisque c'est elle qui par sa puissance regle nos mouvemens.",
+        "Que si on luy donne en la main gauche une guirlande de laurier, & en la droite une pique, c'est pour signifier par l'un, que la Vertu n'est jamais abatuë par l'adversité, non plus que le laurier par la foudre; & par l'autre, qu'elle a dequoy se defendre par la plus avantageuse des armes, que les Anciens prenoient ordinairement pour une marque de préeminence.",
+        "D'autres ont ajoûté à cette figure une corne d'abondance pleine de divers fruits, à cause que la Vertu, quand on en sçait bien user, n'abandonne jamais ceux qui la servent, & qu'elle les garentit des incommoditez de la vie.",
+        "Mais la plus remarquable de ces figures, est celle qu'on a tirée de la medaille de Lucius Verus, où se voit sur le cheval Pegase le vaillant Bellerophon, qui combat la Chymere, à laquelle il donne la mort par un coup de javelot qu'il luy porte.",
+        "Par cette mesme Chymere se doivent entendre allegoriquement plusieurs vices monstrueux & difformes, qui sont mis à mort par Bellerophon; comme l'a fort bien remarqué le docte Alciat dans un emblême qu'il en a fait: d'où il est encore montré, qu'il n'est point de force si grande soit-elle, dont on ne puisse venir à bout par la Vertu. Aussi est-elle peinte agreable & belle, parce qu'elle a certains charmes qui ne manquent jamais d'attirer & de vaincre le courage des hommes.",
+        "Cette medaille a de la conformité avec celle d'Alexandre, dans laquelle la Vertu tient d'une main une lance, & de l'autre le globe du monde; pour nous apprendre par là qu'elle s'assujettit tout l'Univers, & qu'elle combat ordinairement le vice. A raison dequoy elle est encore representée en Amazone dans la medaille de Domitian & de Galba.",
+        "SA peinture est celle d'une Pallas, ayant un heaume sur la teste, une lance en la main droite, & en la gauche un bouclier, où se lisent ces paroles, Nec sorte, nec fato. Ce qui ne signifie autre chose, sinon que la Vertu toûjours victorieuse & triomphante, ne releve aucunement de l'empire du Destin."
+      ],
       "en": "Invincible Virtue",
-      "group_en": "Various Virtues"
+      "group_en": "Various Virtues",
+      "scans": [
+        "p2-85-1.jpg",
+        "p2-85-2.jpg",
+        "p2-85-3.jpg"
+      ]
     },
     {
       "id": "p2-86",
@@ -12325,12 +12363,32 @@
       "group_fr": "Diverses Vertus",
       "group_page": "99",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-86.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Совершенно обнажённый Геркулес с палицей в одной руке, ведущий связанных льва и вепря в другой",
+          "meaning": "Геркулес с палицей и львиной шкурой — идея всех Добродетелей в совокупности; лев — сила мужества (духовная доблесть); вепрь — сила тела (физическая мощь)",
+          "what_en": "A completely naked Hercules with a club in one hand, leading a lion and a boar together in the other",
+          "meaning_en": "Hercules with his club and lion skin signifies the idea of all Virtues combined; the lion, strength of courage (spiritual valor); the boar, strength of body (physical might)"
+        }
+      ],
+      "text_ru": [
+        "Её представляет совершенно обнажённый Геркулес, держащий палицу одной рукой, а другой ведущий льва и вепря, идущих вместе.",
+        "Под Геркулесом с его палицей и львиной шкурой должно разуметь идею всех Добродетелей; под львом — силу мужества, как о том свидетельствует Орус Аполлон в своих Иероглифических Фигурах; а под вепрем — силу тела: при этом надлежит заметить, что для означения того и другого Адмет удумал соединить вместе льва и вепря, как о том сообщает Пиэрий в месте, где он говорит о знаке Льва."
+      ],
+      "text_fr": [
+        "ELLE est representée par un Hercule tout nud, tenant sa massuë d'une main, & menant de l'autre un lion & un sanglier qui marchent ensemble.",
+        "Par Hercule avec sa massuë & sa peau de lion, se doit entendre l'idée de toutes les Vertus; par le lion la force du courage, comme le témoigne Orus Apollo dans ses Figures Hieroglyfiques; & par le sanglier, celle du corps: où il est à remarquer que pour denoter l'un & l'autre, Admet s'avisa de joindre ensemble le lion & le sanglier, ainsi que le rapporte Pierius dans un endroit où il parle du signe du Lion."
+      ],
       "en": "Virtue of Body and Courage",
-      "group_en": "Various Virtues"
+      "group_en": "Various Virtues",
+      "scans": [
+        "p2-86-1.jpg",
+        "p2-86-2.jpg",
+        "p2-86-3.jpg"
+      ]
     },
     {
       "id": "p2-87",
@@ -12343,12 +12401,31 @@
       "group_fr": "Diverses Vertus",
       "group_page": "99",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-87.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Геркулес в львиной шкуре, опирающийся на палицу и держащий три золотых яблока Гесперид; упоминаются также два других изображения без собственных медальонов: Геркулес, опирающийся на оленью голову, и Геркулес, заносящий палицу на дракона",
+          "meaning": "Три золотых яблока — три героические добродетели Геркулеса: обуздание гнева, презрение к алчности и к сладострастию; оленья голова — один из двенадцати подвигов; занесённая на дракона палица — защита этих же плодов добродетели от хищного порока; вместе образы учат, что добродетель довольствуется сама собой, презирая земные богатства",
+          "what_en": "Hercules in a lion's skin, resting on his club and holding three golden apples of the Hesperides; two further images without dedicated roundels are also mentioned: Hercules resting on a stag's head, and Hercules raising his club against a dragon",
+          "meaning_en": "The three golden apples signify Hercules' three heroic virtues: mastering anger, scorning avarice, and despising sensual pleasure; the stag's head, one of his twelve labors; the club raised against the dragon, the defense of these same fruits of virtue against predatory vice; together the images teach that virtue rewards itself alone, scorning earthly riches"
+        }
+      ],
+      "text_ru": [
+        "Её представляют тремя способами в трёх иных изображениях Геркулеса, заимствованных с медалей Императоров, из коих первая — Гордиана, вторая — Максимина, а третья — Геты. Главная — изображение Геркулеса, облачённого в львиную шкуру, опирающегося одной рукой на свою палицу и держащего в другой три золотых яблока. Эти яблоки, сорванные в саду Гесперид, вместе заключают в себе три героические Добродетели, приписываемые этому укротителю чудовищ, а именно: обуздание гнева, ненависть, питаемую к алчности, и презрение к сладострастию, коим люди позволяют себя очаровывать.",
+        "В другом изображении тот же совершенно нагой Геркулес опирается на голову оленя — символ одного из его двенадцати подвигов; а в последнем он держит занесённую палицу, дабы оглушить ею дракона. Это разумеется о том, что стерёг яблоки Гесперид, о коих я только что говорил. Этим нам даётся понять, что Добродетель, не предлагающая себе иной награды, кроме самой себя, и блага, возносящие её к небесам, презирает ложный блеск земных богатств."
+      ],
+      "text_fr": [
+        "ELLE est representée en trois façons par trois autres figures d'Hercule, tirées des medailles des Empereurs, dont la premiere est de Gordien, la seconde de Maximin, & la troisiéme de Geta. La principale est celle d'un Hercule vestu de la peau d'un lion, & qui d'une main s'appuye sur sa massuë, tenant de l'autre trois pommes d'or. Ces pommes cueillies au jardin des Hesperides, comprennent ensemble les trois Vertus heroïques attribuées à ce dompteur de monstres, à sçavoir la moderation de la colere, la haine conceuë contre l'avarice, & le mépris des voluptez, par qui les hommes se laissent charmer.",
+        "Dans l'autre figure le mesme Hercule tout nud s'appuye sur la teste d'un cerf; symbole d'un de ses douze travaux; Et en la derniere il tient sa massuë haussée pour en assommer un dragon. Ce qui s'entend de celuy qui gardoit les pommes des Hesperides, dont je viens de parler. Par où nous sommes avertis que la Vertu ne se proposant point d'autre prix que soy-mesme, & les biens qui l'elevent au ciel, dédaigne le faux éclat des richesses de la terre."
+      ],
       "en": "Heroic Virtue",
-      "group_en": "Various Virtues"
+      "group_en": "Various Virtues",
+      "scans": [
+        "p2-87-1.jpg",
+        "p2-87-2.jpg"
+      ]
     },
     {
       "id": "p2-88",
