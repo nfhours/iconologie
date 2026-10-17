@@ -15039,12 +15039,49 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-151.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Лучи, венчающие голову",
+          "meaning": "слава и достоинство этого Закона",
+          "what_en": "Rays crowning her head",
+          "meaning_en": "the glory and dignity of this Law"
+        },
+        {
+          "what": "Весы с короной и сияющей чашей",
+          "meaning": "Вера, Правосудие и Достоинство",
+          "what_en": "Scales bearing a crown and a radiant chalice",
+          "meaning_en": "Faith, Justice and Dignity"
+        },
+        {
+          "what": "Митра на раскрытой книге",
+          "meaning": "Наука и Мудрость, сопровождающие Закон",
+          "what_en": "Mitre upon an open book",
+          "meaning_en": "Knowledge and Wisdom accompanying the Law"
+        },
+        {
+          "what": "Зеркало перед ней",
+          "meaning": "правило и руководство в важнейших поступках жизни",
+          "what_en": "Mirror before her",
+          "meaning_en": "the rule and guidance for the most important actions of life"
+        }
+      ],
+      "text_ru": [
+        "Эта дама, которую вы видите здесь наделённой особой красотой и вся сияющая лучами, венчающими её голову, представляет Каноническое Право. В правой руке она держит весы, на одной чаше которых видна корона, а на другой — сияющая чаша;",
+        "кроме того, в левой руке она держит митру поверх раскрытой книги, а перед ней — зеркало. Всё это вместе означает Веру, Правосудие, Достоинство, Науку, Мудрость и славный блеск славы, которые сопровождают этот Закон, без которого не было бы ни правила, ни руководства в важнейших поступках жизни."
+      ],
+      "text_fr": [
+        "Cette dame que vous voyez icy douée d'vne beauté singuliere, & toute brillante de rayons qui luy couronnent la teste, represente la Loy Canonique. Elle tient de la main droite vne balance, en l'vn des bassins de laquelle se voit vne couronne, & en l'autre vn calice resplendissant;",
+        "outre qu'elle porte en la main gauche vne mitre sur vn livre ouvert, & vn miroir devant elle. Toutes lesquelles choses jointes ensemble signifient, la Foy, la Justice, la Dignité, la Science, la Sagesse, & l'illustre éclat de la gloire, qui accompagnent cette Loy, sans laquelle il n'y auroit ny regle ny conduite dans les plus importantes actions de la vie."
+      ],
       "en": "Canon Law",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-151-1.jpg",
+        "p2-151-2.jpg"
+      ]
     },
     {
       "id": "p2-152",
@@ -15057,12 +15094,47 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-152.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Нагота и непричёсанные волосы",
+          "meaning": "отсутствие притворства и обмана в Естественном Законе, как и в его Авторе",
+          "what_en": "Nakedness and unadorned hair",
+          "meaning_en": "the absence of pretence or disguise in Natural Law, as in its Author"
+        },
+        {
+          "what": "Циркуль с надписью ÆQVA LANCE",
+          "meaning": "не делай другим того, чего не желаешь себе",
+          "what_en": "Compass inscribed ÆQVA LANCE",
+          "meaning_en": "do not do to others what you would not wish done to yourself"
+        },
+        {
+          "what": "Собственная тень, указываемая левой рукой",
+          "meaning": "уподобление ближнего себе через отношение к нему",
+          "what_en": "Her own shadow, pointed to with her left hand",
+          "meaning_en": "making one's neighbour entirely like oneself through how one treats him"
+        },
+        {
+          "what": "Сад",
+          "meaning": "изначальный земной Рай и последующий труд по возделыванию земли",
+          "what_en": "Garden",
+          "meaning_en": "the original earthly Paradise and the subsequent labour of tilling the earth"
+        }
+      ],
+      "text_ru": [
+        "Этой приятной женщиной, сидящей посреди сада и покрытой лишь от пояса и ниже, изображён Естественный Закон. Её красота учит нас, что при сотворении мира Бог создал прекрасными и совершенными все вещи, которые в нём видны. Её нагота и непричёсанные волосы без искусства — что в этом Законе нет ни притворства, ни обмана, как и в его Авторе; циркуль, который она держит со словами ÆQVA LANCE («РАВНОЙ МЕРОЙ»), — что не должно делать другим того, чего мы не хотели бы, чтобы делали нам; а собственная тень, которую она показывает левой рукой, — что тем, как она ведёт себя с ближним, она делает его совершенно подобным себе. К этому добавлю, что она сидит в прекрасном саду, дабы показать, что, будучи изначально помещена в земной Рай, она была впоследствии изгнана оттуда и принуждена возделывать землю, дабы та приносила всё, что ныне на ней видно, — не только прекрасное, но и полезное."
+      ],
+      "text_fr": [
+        "Par cette femme agreable, assise au milieu d'vn jardin, & qui n'est couverte que de la ceinture en bas, est figurée la Loy Naturelle. Sa beauté nous apprend, qu'en la naissance du monde, Dieu fit belles & parfaites toutes les choses qui s'y voyent. Sa nudité & sa chevelure sans art, qu'il n'y a ny fard ny déguisement en cette Loy, non plus qu'en son Autheur; le compas qu'elle tient avec ces mots, ÆQVA LANCE, qu'il ne faut point faire aux autres ce que nous ne voudrions pas qu'ils nous fissent; & son ombre propre, qu'elle montre de la main gauche, que de la façon qu'elle se gouverne envers le prochain, elle se le rend entierement semblable. A quoy j'ajoûte qu'elle est assise en vn beau jardin, pour montrer qu'ayant esté mise du commencement dans le Paradis terrestre, elle en fut chassée depuis, & reduite à cultiver la terre, pour luy faire produire tout ce qui s'y voit aujourd'huy non seulement de beau, mais de profitable encore."
+      ],
       "en": "Natural Law",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-152-1.jpg",
+        "p2-152-2.jpg"
+      ]
     },
     {
       "id": "p2-153",
@@ -15075,12 +15147,50 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-153.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Богатое одеяние",
+          "meaning": "богатства по праву принадлежат тем, кто пользуется ими благородно",
+          "what_en": "Richly dressed",
+          "meaning_en": "riches rightly belong to those who use them nobly"
+        },
+        {
+          "what": "Рог изобилия",
+          "meaning": "благородное использование богатства",
+          "what_en": "Cornucopia",
+          "meaning_en": "the noble use of wealth"
+        },
+        {
+          "what": "Императорская корона и скипетр",
+          "meaning": "намерение делать добро и способность его исполнить",
+          "what_en": "Imperial crown and sceptre",
+          "meaning_en": "the intent to do good and the power to carry it out"
+        },
+        {
+          "what": "Лев, на котором она восседает",
+          "meaning": "царь животных как символ Великодушия, царицы прочих добродетелей",
+          "what_en": "Lion on which she sits",
+          "meaning_en": "the king of animals as a symbol of Magnanimity, queen of the other virtues"
+        }
+      ],
+      "text_ru": [
+        "Вот величие духа, которое являет нам эта величественная дама. Она богато одета, дабы показать, что богатства по справедливости принадлежат тем, кто пользуется ими благородно, и потому ей дают также рог изобилия. Что же до Императорской короны,",
+        "и скипетра, который она держит в руке, — один означает великодушное намерение делать добро, а другой — способность его исполнить, каковые суть две вещи, без которых невозможно проявлять Великодушие. А то, что она сидит на льве, объясняется тем, что лев, царь животных, — символ этой добродетели, которая тоже царица над всеми прочими."
+      ],
+      "text_fr": [
+        "Voicy la grandeur de courage, que cette dame majestueuse nous represente. Elle est richement vestuë, pour montrer que les richesses sont justement deuës à ceux qui en vsent noblement, & voila pourquoy on luy donne aussi la corne d'abondance. Quant à la couronne Imperiale,",
+        "& au sceptre qu'elle tient en main, l'vn signifie le genereux dessein que l'on a de faire du bien, & l'autre la puissance de l'executer, qui sont deux choses sans lesquelles il est impossible d'exercer la Magnanimité. Que si elle est assise sur vn lion, c'est parce que le lion, Roy des animaux, est vn symbole de cette vertu, qui est Reine aussi de toutes les autres."
+      ],
       "en": "Magnanimity",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-153-1.jpg",
+        "p2-153-2.jpg",
+        "p2-153-3.jpg"
+      ]
     },
     {
       "id": "p2-154",
@@ -15093,12 +15203,41 @@
       "group_fr": "",
       "group_page": "",
       "flag": "",
-      "img": [],
-      "attrs": [],
-      "text_ru": [],
-      "text_fr": [],
+      "img": [
+        "p2-154.jpg"
+      ],
+      "attrs": [
+        {
+          "what": "Пальмовая ветвь",
+          "meaning": "добродетель, побеждающая годы",
+          "what_en": "Palm branch",
+          "meaning_en": "the virtue that triumphs over the years"
+        },
+        {
+          "what": "Архитектурный план",
+          "meaning": "строительство Храмов и Дворцов как главное проявление Великолепия",
+          "what_en": "Architectural plan",
+          "meaning_en": "the building of Temples and Palaces as a chief effect of Magnificence"
+        },
+        {
+          "what": "Корона",
+          "meaning": "прославленное имя и память, которые Государи оставляют потомству",
+          "what_en": "Crown",
+          "meaning_en": "the celebrated name and memory that Princes leave to posterity"
+        }
+      ],
+      "text_ru": [
+        "Эта увенчанная короной дама неслучайно держит в одной руке пальмовую ветвь, а другую опирает на архитектурный план, дабы показать, что эта добродетель, побеждающая годы, избирает для себя лишь славные предметы и что одно из главных её проявлений — строить Храмы и Дворцы, те труды, посредством которых величайшие Государи передают потомству своё прославленное имя или память о себе."
+      ],
+      "text_fr": [
+        "Cette dame couronnée ne tient pas sans raison vne palme dans l'vne de ses mains, & l'autre appuyée sur vn plan d'architecture, pour montrer que cette vertu victorieuse des années, ne se propose que des sujets illustres, & qu'vn de ses effets principaux c'est de bâtir des Temples & des Palais, qui sont des ouvrages par le moyen desquels les plus grands Princes rendent à la posterité leur nom ou leur memoire celebre."
+      ],
       "en": "Magnificence",
-      "group_en": "Virtues and Piety (untitled in the book)"
+      "group_en": "Virtues and Piety (untitled in the book)",
+      "scans": [
+        "p2-154-1.jpg",
+        "p2-154-2.jpg"
+      ]
     },
     {
       "id": "p2-155",
